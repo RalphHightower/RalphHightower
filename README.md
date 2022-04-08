@@ -3,6 +3,7 @@
 - 🌱 I’m continualy learning C# and photography 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ralph.hightower@gmail.com
+I also have a profile on LinkedIn: https://www.linkedin.com/mwlite/in/ralphhightower
 
 <!---
 RalphHightower/RalphHightower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
