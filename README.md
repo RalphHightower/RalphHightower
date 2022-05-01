@@ -1,9 +1,9 @@
 Hi, I’m @RalphHightower
 
 I’m interested in Software Development, Windows Applications and services, and photography 
-I’m continualy learning C# and photography 
+I’m continualy learning C# and photography.
 I’m looking to collaborate on ...
-How to reach me ralph.hightower@gmail.com
+How to reach me ralph.hightower@gmail.com.
 I also have a profile on LinkedIn: https://www.linkedin.com/mwlite/in/ralphhightower
 
 <!---
