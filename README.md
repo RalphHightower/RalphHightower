@@ -1,7 +1,8 @@
 Hi, I’m @RalphHightower <br>
 I freeze time; I photograph. Computer software engineer (C#, .Net), retired but active for personal projects. Witnessed two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis w/ Final Four [CDR ChrisFerguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim]<br>
 Now that I am retired, I am getting into the Arduino ecosystem.
-- In Progress 
+- In Progress <br>
+   Develop Arduino system that detects gasoline pumps that criminals have broken into to steal credit card information. 
 
 # Interests 
 As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
