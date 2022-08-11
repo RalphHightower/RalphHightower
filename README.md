@@ -56,7 +56,9 @@ PROFESSION: Software Developer <br>
 HOBBY: Photography, water-skiing <br>
 LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing <br>
 QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
-LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig <br>
+LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
+FAVORITE SCIENCE FICTION: Dune by Frank Herbert<br>
+FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks<br>
 FAVORITE MOVIE: Dune (2021)<br>
 FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Discovery, Picard, Strange New Worlds)<br>
 WHY I DO WHAT I DO: Software development involves creativity <br>
