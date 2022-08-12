@@ -50,10 +50,6 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-I also have a profile on LinkedIn: https://www.linkedin.com/mwlite/in/ralphhightower<br>
-My Flickr portfolio: https://www.flickr.com/photos/ralphhightower/<br>
-
-
 **Dewars Profile**<br>
 RALPH HIGHTOWER <br>
 PROFESSION: Software Developer <br>
@@ -61,6 +57,12 @@ HOBBY: Photography, water-skiing <br>
 LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing <br>
 QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
 LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
+FAVORITE (BEST) DOG BREED: Beagle<br>
+FAVORITE SCIENCE FICTION: Dune by Frank Herbert<br>
+FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks<br>
+FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth<br>
+FAVORITE MOVIE: Dune (2021)<br>
+FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds)<br>
 FAVORITE SCIENCE FICTION: Dune by Frank Herbert<br>
 FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks<br>
 FAVORITE MOVIE: Dune (2021)<br>
