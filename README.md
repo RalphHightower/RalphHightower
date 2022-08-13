@@ -31,7 +31,7 @@ Bucket List Cameras<br>
 ## Beagles 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
 neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
-Runner. We got Writer and Rebecca from conformation breeder and the earned Championships along
+Runner. We got Writer and Rebecca from conformation breeder and they have earned Championships along
 with the CD obedience titles.
 
 
