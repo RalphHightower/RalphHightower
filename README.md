@@ -57,16 +57,19 @@ HOBBY: Photography, water-skiing <br>
 LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing <br>
 QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
 LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
-FAVORITE (BEST) DOG BREED: Beagle<br>
-FAVORITE SCIENCE FICTION: Dune by Frank Herbert<br>
-FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks<br>
-FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth<br>
+FAVORITE CAMERA BRAND: Canon <br>
+FAVORITE (BEST) DOG BREED: Beagle <br>
+FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder<br>
+FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert <br>
+FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks <br>
+FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth <br>
 FAVORITE MOVIE: Dune (2021)<br>
 FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds)<br>
-FAVORITE SCIENCE FICTION: Dune by Frank Herbert<br>
-FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks<br>
-FAVORITE MOVIE: Dune (2021)<br>
-FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Discovery, Picard, Strange New Worlds)<br>
+BEST MUSIC VIDEO: Learning to Fly by Pink Floyd<br>
+FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos<br>
+GOAT ALTO SAX: Candy Dulfer<br>
+GOAT TENOR SAX: Clarence Clemmons<br>
+MOST VERSATILE BAND: Dire Straits<br>
 WHY I DO WHAT I DO: Software development involves creativity <br>
 PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) <br>
 HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
