@@ -60,7 +60,7 @@ HOBBY: Photography, water-skiing <br>
 LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing <br>
 QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
 LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
-MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 1975, Chapin, South Carolina <br>
+MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina <br>
 FAVORITE CAMERA BRAND: Canon <br>
 FAVORITE (BEST) DOG BREED: Beagle <br>
 FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder<br>
