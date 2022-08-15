@@ -72,7 +72,7 @@ FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Dee
 BEST MUSIC VIDEO: Learning to Fly by Pink Floyd<br>
 FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos<br>
 GOAT ALTO SAX: Candy Dulfer <br>
-GOAT DRUMMER: Sena Doering<br>
+GOAT DRUMMER: [Sena Doering])https://youtube.com/c/sinadrumming)<br>
 GOAT TENOR SAX: Clarence Clemmons<br>
 MOST VERSATILE BAND: Dire Straits<br>
 WHY I DO WHAT I DO: Software development involves creativity <br>
