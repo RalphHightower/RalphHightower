@@ -4,8 +4,8 @@ Hi, I’m @RalphHightower <br>
 mailto:ralph.hightower@gmail.com<br>
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development.
-Computer software engineer (C#, .Net), retired but active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR ChrisFerguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim]<br>
-Now that I am retired, I am getting into the Arduino ecosystem.<br><br>
+Computer software engineer (C#, .Net), retired but active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim]<br><br>
+Now that I am retired, I am getting into the Arduino ecosystem.
 | Status | Project |
 |----|-----|
 | In Progress | Develop Arduino system that detects gasoline pumps that criminals have broken into to steal credit card information. |
