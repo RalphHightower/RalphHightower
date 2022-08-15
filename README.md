@@ -1,5 +1,5 @@
 Hi, I’m @RalphHightower <br>
-LinkedIn Profile: https://www.linkedin.com/public-profile/settings<br>
+LinkedIn Profile: https://www.linkedin.com/in/ralphhightower/<br>
 Personal Photography Portfolio: https://www.flickr.com/photos/ralphhightower/<br>
 mailto:ralph.hightower@gmail.com<br>
 
