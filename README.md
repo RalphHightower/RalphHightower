@@ -53,7 +53,7 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-**Dewars Profile**<br>
+**Dewar's Profile**<br>
 RALPH HIGHTOWER <br>
 PROFESSION: Software Developer <br>
 HOBBY: Photography, water-skiing <br>
