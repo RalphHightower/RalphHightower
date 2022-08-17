@@ -77,6 +77,7 @@ FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks <br>
 FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth <br>
 FAVORITE MOVIE: Dune (2021)<br>
 FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds)<br>
+BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain<br>
 BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs)<br>
 FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos<br>
 GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) <br>
