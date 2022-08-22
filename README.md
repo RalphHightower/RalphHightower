@@ -1,7 +1,10 @@
 Hi, I’m @RalphHightower <br>
-[LinkedIn Profile](https://www.linkedin.com/in/ralphhightower/): https://www.linkedin.com/in/ralphhightower/<br>
-[Personal Photography Portfolio](https://www.flickr.com/photos/ralphhightower/): https://www.flickr.com/photos/ralphhightower/<br>
-mailto:ralph.hightower@gmail.com<br>
+
+| Content | Website |
+|---------|---------|
+| LinkedIn Profile | [Ralph Hightower](https://www.linkedin.com/in/ralphhightower/)|
+| Photography Portfolio | [Ralph Hightower](https://www.flickr.com/photos/ralphhightower/) |
+| Email | ralph.hightower@gmail.com |
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development.
 Computer software engineer (C#, .Net), retired but active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim]<br><br>
@@ -32,7 +35,7 @@ One large scale Windows application that I developed using C# and .Net for my pe
 ## NASA Spaceflight 
 On July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person. I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, got to see Atlantis land for the final time on July 21, 2013. I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
 ## Photography 
-Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR was and still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. July 2013, I added one of my “bucket list” cameras, a Canon F-1N with the AE Finder FN, AE Motor Drive FN. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR was and still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
 
 | Bucket List Cameras | Status |
 |-----------|--------|
