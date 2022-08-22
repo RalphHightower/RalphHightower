@@ -34,10 +34,12 @@ On July 8, 2011, I was able to check off a 30 year old bucket list item: witness
 ## Photography 
 Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR was and still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. July 2013, I added one of my “bucket list” cameras, a Canon F-1N with the AE Finder FN, AE Motor Drive FN. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
 
-Bucket List Cameras<br>
-- Mamiya 645<br>
-- Mamiya RB67 or RZ67<br>
-- 4×5 monorail view camera<br>
+| Bucket List Cameras | Status |
+|-----------|--------|
+| Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
+| Mamiya 645||
+| Mamiya RB67 or RZ67||
+| 4×5 monorail view camera ||
 
 ## Beagles 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
