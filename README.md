@@ -74,6 +74,9 @@ LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final
 QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
 LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
 MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina <br>
+CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 For Mustang <br>
+BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
+BUCKET LIST CAR: Chevrolet Corvette <br>
 FAVORITE CAMERA BRAND: Canon <br>
 FAVORITE (BEST) DOG BREED: Beagle <br>
 FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder<br>
