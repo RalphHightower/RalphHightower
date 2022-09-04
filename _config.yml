@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SAMPL" 
+title                    : "RalphHightower" 
 title_separator          : "|"
 name                     : "Ralph Hightower"
 description              : "Repository for Ralph Hightower"
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://youtube.com/c/RalphHightower"
 
 # Reading Files
 include:
