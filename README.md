@@ -28,8 +28,69 @@ Besides developing Windows services to monitor web applications and their associ
 One large scale Windows application that I developed using C# and .Net for my personal use read the NASA mission schedules for the Space Shuttle missions that they published as Excel spreadsheets and created events in the calendar of Microsoft Outlook using Microsoft Visual Studio Tools for Office. I thought that others would be interested in using the application also, so I published the installation executable with the source code on  Microsoft’s now decommissioned source code publishing site, Codeplex; I migrated it over to GitHub although support of the application officially ended with wheelstop of Atlantis on mission STS-135 with the Final Four, CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim. 
 ## NASA Spaceflight 
 On July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person. I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, got to see Atlantis land for the final time on July 21, 2013. I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
+
+## Obsolete Computer Collection 
+My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source cide using gcc.
+I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
+
+A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
+| **Computers** | **Peripherals, Books** | **Status** |
+|-----------|-------------|---------|
+| DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
+|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) | good |
+| Sun 3/110 || unknown |
+| Sun SPARCStation IPX || hard drive crash |
+|| Sun 31 inch CRT (Cathode Ray Tube) | does not work |
+|| Sun CD-ROM Drive | probably works |
+|| Sun Tape Drive (3 SCSI Hard Drives) | probably works |
+|| SCSI Drive Cabinet | drives may work |
+
+## HP (Hewlett-Packard) Calculators
+What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
+
+| **HP Calculators** | **Accessories** | **Status** |
+|----------------|-------------|-------|
+| HP-12C || working |
+| HP-12C Platinum || working |
+| HP-16C || working |
+| HP-17B ||  working |
+| HP-41CV || does not work |
+| HP-41CX || does not work |
+||HP-41 Card Reader | does not work |
+||HP-41 Memory Modules | probably works |
+||HP-41 Program Modules | probably works ||
+| HP-45 || does not work |
+| HP-48GX || working |
+| HP-67 || does not work |
+
+## Computer Science : Books 📚:
+- Art of Computer Science (3 volume set) by Donald Knuth 
+- DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2)
+
 ## Photography 
-Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR was and still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
+
+My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered the classic look of B&W film when I photographed the final Space Shuttle landing. Since it was a pre-dawn landing, color would have been wasted. For that year, I had two photography projects. 
+1) Photograph the sunrise over Columbia, South Carolina from the Lake Murray dam on the equinoxes and solstices;
+2) Photograph the full moon rising and setting (started in February and carried over to January).
+
+## Camera equipment
+| Gear | Lenses, Accessories |
+|------|-------------|
+| Canon A-1 (FD Mount) | Motor Drive MA | 
+|| Sunpak 522 Flash |
+| Canon F-1N (FD Mount) | Canon FN Motor Drive FN |
+|| Canon AE Finder FN Canon AE Finder FN, metering screens. |
+| FD Mount Lenses | Canon FD 28mm f2.8 |
+|| Canon FD 50mm f1.8 |
+|| Profoto 80-205mm f4.5 |
+|| Spiratone 400mm f6.3 |
+| Canon EOS 5D Mark III ||
+| EF Mount Lenses | Canon EF 24-105mm f4L |
+|| Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens for Canon EF |
+|| Canon RT 600 II flash |
+| PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
+|| slide film carriers (2) |
 
 | Bucket List Cameras | Status |
 |-----------|--------|
