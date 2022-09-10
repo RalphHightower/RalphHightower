@@ -1,4 +1,4 @@
-Hi, I’m @RalphHightower <br>
+Hi, I’m [Ralph Hightower](@RalphHightower). <br>
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. I am retired from software development as a vocation, but I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway. <br><br>
 
@@ -13,6 +13,12 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 |----|-----|
 | In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | Completed | |
+
+| Articles/BugFixes | Date | Publication |
+|---------|------|-------------|
+| [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
+| [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
+
 
 I am basically a newbie to using GitHub, so this is a handy reference for me.
 | GitHub/YAML References |
