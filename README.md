@@ -100,10 +100,9 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 || Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
-| Canon EOS 5D Mark III ||
+| Canon EOS 5D Mark III | Canon RT 600 II flash |
 | EF Mount Lenses | Canon EF 24-105mm f4L |
 || Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens |
-|| Canon RT 600 II flash |
 | PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
 || 35mm slide film carriers (2) |
 
