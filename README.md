@@ -1,18 +1,24 @@
 Hi, I’m @RalphHightower <br>
 
+I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. I am retired from software development as a vocation, but I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway. <br><br>
+
 | Content | Website |
 |---------|---------|
 | LinkedIn Profile | [Ralph Hightower](https://www.linkedin.com/in/ralphhightower/)|
 | Photography Portfolio | [Ralph Hightower](https://www.flickr.com/photos/ralphhightower/) |
 | Email | ralph.hightower@gmail.com |
 
-I freeze time; I photograph. I have 50++ years of computer programming and software development.
-Computer software engineer (C#, .Net), retired but active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim]<br><br>
 Now that I am retired, I am getting into the Arduino ecosystem.
 | Status | Project |
 |----|-----|
 | In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | Completed | |
+
+I am basically a newbie to using GitHub, so this is a handy reference for me.
+| GitHub/YAML References |
+|-------------------|
+| [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) |
+| [The Official YAML Website](https://yaml.org/) |
 
 # Interests 
 As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
@@ -79,18 +85,21 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 |------|-------------|
 | Canon A-1 (FD Mount) | Motor Drive MA | 
 || Sunpak 522 Flash |
-| Canon F-1N (FD Mount) | Canon FN Motor Drive FN |
-|| Canon AE Finder FN Canon AE Finder FN, metering screens. |
+| Canon F-1N (FD Mount) | Canon AE Motor Drive FN |
+|| Canon AE Finder FN |
+|| center-weighted split-image/microprism metering screen |
+|| partial split-image/microprism metering screen |
+|| spot split-image/microprism metering screen |
 | FD Mount Lenses | Canon FD 28mm f2.8 |
-|| Canon FD 50mm f1.8 |
+|| Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
 | Canon EOS 5D Mark III ||
 | EF Mount Lenses | Canon EF 24-105mm f4L |
-|| Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens for Canon EF |
+|| Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens |
 || Canon RT 600 II flash |
 | PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
-|| slide film carriers (2) |
+|| 35mm slide film carriers (2) |
 
 | Bucket List Cameras | Status |
 |-----------|--------|
