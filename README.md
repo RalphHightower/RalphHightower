@@ -42,7 +42,7 @@ One large scale Windows application that I developed using C# and .Net for my pe
 On July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person. I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, got to see Atlantis land for the final time on July 21, 2011. I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
 
 ## Obsolete Computer Collection 
-My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source cide using gcc.
+My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source code using gcc.
 I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
 
 A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
@@ -78,6 +78,10 @@ What can I say? I've been a big fan of HP Calculators ever since they introduced
 ## Computer Science : Books 📚:
 - Art of Computer Science (3 volume set) by Donald Knuth 
 - DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2)
+- DEC PDP-8 Handbook 
+- DEC PDP-11 Handbook 
+- DEC PDP-11/45 Handbook 
+- DEC PDP-11/70 Handbook 
 
 ## Photography 
 Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
