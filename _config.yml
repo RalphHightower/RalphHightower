@@ -7,6 +7,7 @@
 #
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for
 # documentation of the options.
+#%Y-%m-%d %I:%M:%S.%L %Z
 remote_theme             : pages-themes/minimal@v0.2.0
 plugins                  : jekyll-remote-theme # add this line to the plugins list if you already have one
 # Site Settings
@@ -47,7 +48,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "%Y-%m-%d %I:%M:%S.%L %Z" #iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
