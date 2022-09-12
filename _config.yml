@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SAMPL" 
+title                    : "Ralph Hightower GitHub Repositories" 
 title_separator          : "|"
 name                     : # "Ralph Hightower"
-description              : ""
+description              : "Retired Software Developer w/ 50++ years of experience; active for personal projects. Photographer since 1980."
 url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "RalphHightower/RalphHightower"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : # 200
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : RalphHightower
+  username               : "RalphHightower"
 facebook:
   username               :
   app_id                 :
@@ -83,28 +83,28 @@ author:
   name             : "Ralph Hightower"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an amazing person."
-  location         : "Chapin, South Carolina"
+  location         : "Chapin, South Carolina, United States of America"
   email            : ralph.hightower@gmail.com
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : RalphHightower
+  flickr           : "RalphHightower"
   facebook         :
   foursquare       :
-  github           : RalphHightower 
+  github           : "RalphHightower"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : RalphHightower 
+  linkedin         : "RalphHightower"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "26315139/ralph-hightower"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : RalphHightower 
+  twitter          : "RalphHightower"
   vine             :
   weibo            :
   xing             :
