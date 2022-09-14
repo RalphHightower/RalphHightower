@@ -9,6 +9,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | Email | ralph.hightower@gmail.com |
 
 Now that I am retired, I am getting into the Arduino ecosystem.
+
 | Status | Project |
 |----|-----|
 | In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
@@ -21,6 +22,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 
 I am basically a newbie to using GitHub, so this is a handy reference for me.
+
 | GitHub/YAML References |
 |-------------------|
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) |
@@ -46,6 +48,7 @@ My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could k
 I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
 
 A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
+
 | **Computers** | **Peripherals, Books** | **Status** |
 |-----------|-------------|---------|
 | DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
@@ -91,6 +94,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 2) Photograph the full moon rising and setting (started in February and carried over to January).
 
 ## Camera equipment
+
 | Gear | Lenses, Accessories |
 |------|-------------|
 | Canon A-1 (FD Mount) | Motor Drive MA | 
