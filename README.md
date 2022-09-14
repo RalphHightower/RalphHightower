@@ -90,6 +90,7 @@ What can I say? I've been a big fan of HP Calculators ever since they introduced
 - DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2)
 - DEC PDP-8 Handbook 
 - DEC PDP-11 Handbook 
+- LSI 11 (PDP-11/03) Handbook 
 - DEC PDP-11/45 Handbook 
 - DEC PDP-11/70 Handbook 
 
