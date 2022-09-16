@@ -34,7 +34,7 @@ As an INTP on the Myers-Briggs Personality Assessment, my career in software dev
 
 ## Software Development
 
-In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior executives booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S :fireworks: that became DOT-BOMB'S :bomb: <br>
+In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior executives booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 <br>
 - Affinity Technology Group (Stock Symbol: AFFI)
 - HealthMagic
 - Global Health Technology (bought by CBSI aka Covansys)<br>
