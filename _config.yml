@@ -21,7 +21,7 @@ name                     : "Ralph Hightower"
 description              : "Retired Software Developer w/ 50++ years of experience; active for personal projects. Photographer since 1980."
 url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "RalphHightower/RalphHightower"
+repository               : "/RalphHightower"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : # 200
