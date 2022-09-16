@@ -70,16 +70,16 @@ A technology company had shut down and one of the Affinity Technology Group form
 What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
 
 | **HP Calculators** | **Accessories** | **Status** |
-|----------------|-------------|-------|
+|--------------------|-----------------|------------|
 | HP-12C || working |
 | HP-12C Platinum || working |
 | HP-16C || working |
-| HP-17B ||  working |
+| HP-17B || working |
 | HP-41CV || does not work |
 | HP-41CX || does not work |
 ||HP-41 Card Reader | does not work |
 ||HP-41 Memory Modules | probably works |
-||HP-41 Program Modules | probably works ||
+||HP-41 Program Modules | probably works |
 | HP-45 || does not work |
 | HP-48GX || working |
 | HP-67 || does not work |
