@@ -8,8 +8,8 @@
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/ for
 # documentation of the options.
 #%Y-%m-%d %I:%M:%S.%L %Z
-- name: badger23-contribution-graph
-  uses: RalphHightower/ContributionGraph@v1
+name: badger23-contribution-graph
+uses: RalphHightower/ContributionGraph@v1
 
 remote_theme             : pages-themes/minimal@v0.2.0
 plugins                  : jekyll-remote-theme # add this line to the plugins list if you already have one
