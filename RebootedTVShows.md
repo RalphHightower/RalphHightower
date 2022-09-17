@@ -17,7 +17,6 @@
 | CSI: New York | CSI | CBS |
 | CSI: Miami | CSI | CBS |
 | CSI: Cyber | CSI | CBS |
-| CSI: | CSI | CBS |
 | Law and Order: Special Victims Unit | Law and Order | NBC |
 | Law and Order: Criminal Intent | Law and Order | NBC |
 | Law and Order: Organized Crime | Law and Order | NBC |
