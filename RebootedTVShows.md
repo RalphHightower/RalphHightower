@@ -1,4 +1,4 @@
-# Rebooted Television Series
+# Rebooted Television Series [^1]
 
 | Rebooted TV Series | Network |
 |--------------------|---------|
@@ -32,3 +32,8 @@
 | Star Trek: Discovery | Star Trek | Paramount+ |
 | Star Trek: Picard | Star Trek | Paramount+ |
 | Star Trek: Strange New Worlds | Star Trek | Paramount+ |
+| Star Trek: The Animated Series (Cartoon) | Star Trek | Paramount+ |
+| Star Trek: Lower Decks (CartoCartoon) | Star Trek | Paramount+ |
+| Star Trek: Prodigy (Cartoon) | Star Trek | Paramount+ |
+
+[^1]: Worth watching 
