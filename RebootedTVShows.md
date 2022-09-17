@@ -35,4 +35,4 @@
 | Star Trek: Lower Decks (Cartoon) | Star Trek | Paramount+ |
 | Star Trek: Prodigy (Cartoon) | Star Trek | Paramount+ |
 
-[^1]: Worth watching 
+[^1]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
