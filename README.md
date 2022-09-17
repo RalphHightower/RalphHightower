@@ -113,7 +113,9 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 || center-weighted split-image/microprism metering screen |
 || partial split-image/microprism metering screen |
 || spot split-image/microprism metering screen |
+|| Canon Auto Bellows |
 | FD Mount Lenses | Canon FD 28mm f2.8 |
+|| Canon Macro Photo Lens 20mm f/3.5 |
 || Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
