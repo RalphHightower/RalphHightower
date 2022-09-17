@@ -4,9 +4,10 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 | Content | Website |
 |---------|---------|
-| LinkedIn Profile | [Ralph Hightower](https://www.linkedin.com/in/ralphhightower/)|
-| Photography Portfolio | [Ralph Hightower](https://www.flickr.com/photos/ralphhightower/) |
+| LinkedIn Profile | [RalphHightower](https://www.linkedin.com/in/ralphhightower/)|
+| Photography Portfolio \(Flickr\) | [RalphHightower](https://www.flickr.com/photos/ralphhightower/) |
 | Email | ralph.hightower@gmail.com |
+| YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
 
 Now that I am retired, I am getting into the Arduino ecosystem.
 
@@ -55,34 +56,34 @@ I installed Apache web server installed on my Windows NT Workstation as a proxy 
 
 A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
 
-| **Computers** | **Peripherals, Books** | **Status** |
-|-----------|-------------|---------|
-| DEC (Digital Equipment Corporation) VAXStation II/GPX || unknown |
-|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) | good |
-| Sun 3/110 || unknown |
-| Sun SPARCStation IPX || hard drive crash |
-|| Sun 31 inch CRT (Cathode Ray Tube) | does not work |
-|| Sun CD-ROM Drive | probably works |
-|| Sun Tape Drive (3 SCSI Hard Drives) | probably works |
-|| SCSI Drive Cabinet | drives may work |
+| **Computers** | **Peripherals, Books** |
+|-----------|-------------|
+| DEC (Digital Equipment Corporation) VAXStation II/GPX ||
+|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
+| Sun 3/110 ||
+| Sun SPARCStation IPX ||
+|| Sun 31 inch CRT (Cathode Ray Tube) |
+|| Sun CD-ROM Drive |
+|| Sun Tape Drive (3 SCSI Hard Drives) |
+|| SCSI Drive Cabinet |
 
 ## HP (Hewlett-Packard) Calculators
 What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
 
-| **HP Calculators** | **Accessories** | **Status** |
-|--------------------|-----------------|------------|
-| HP-12C || working |
-| HP-12C Platinum || working |
-| HP-16C || working |
-| HP-17B || working |
-| HP-41CV || does not work |
-| HP-41CX || does not work |
-||HP-41 Card Reader | does not work |
-||HP-41 Memory Modules | probably works |
-||HP-41 Program Modules | probably works |
-| HP-45 || does not work |
-| HP-48GX || working |
-| HP-67 || does not work |
+| **HP Calculators** | **Accessories** |
+|--------------------|-----------------|
+| HP-12C ||
+| HP-12C Platinum ||
+| HP-16C ||
+| HP-17B ||
+| HP-41CV ||
+| HP-41CX ||
+||HP-41 Card Reader |
+||HP-41 Memory Modules |
+||HP-41 Program Modules |
+| HP-45 ||
+| HP-48GX ||
+| HP-67 ||
 
 ## Computer Science : Books 📚:
 
