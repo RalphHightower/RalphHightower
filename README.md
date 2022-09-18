@@ -157,7 +157,7 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-**Dewar's Profile**<br>
+### **Dewar's Profile**
 RALPH HIGHTOWER <br>
 PROFESSION: Software Developer <br>
 HOBBY: Photography, water-skiing <br>
@@ -190,6 +190,6 @@ HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
 
 ## Television Series Reboots and Spinoffs (Worth Watching)
 
-I enjoy television 📺 that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
+I enjoy television 📺 series that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
 
 [Television Series Reboots and Spinoffs](RebootedTVShows.md)
