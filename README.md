@@ -157,11 +157,6 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-## Television Series Reboots and Spinoffs (Worth Watching)
-
-I enjoy television 📺 that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
-[Television Series Reboots and Spinoffs](RebootedTVShows.md)
-
 **Dewar's Profile**<br>
 RALPH HIGHTOWER <br>
 PROFESSION: Software Developer <br>
@@ -191,7 +186,10 @@ MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQ
 WHY I DO WHAT I DO: Software development involves creativity <br>
 PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) <br>
 HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
-<!---
-RalphHightower/RalphHightower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## Television Series Reboots and Spinoffs (Worth Watching)
+
+I enjoy television 📺 that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
+
+[Television Series Reboots and Spinoffs](RebootedTVShows.md)
