@@ -1,6 +1,6 @@
 Hi, I’m @RalphHightower. <br>
 
-I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway. <br><br>
+I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway). <br><br>
 
 | Content | Website |
 |---------|---------|
@@ -11,7 +11,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | GitHub | [RalphHightower](https://github.com/RalphHightower/RalphHightower/edit/main/README.md) |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
-| Stack Overflow | [26315139/ralph-hightower](26315139/ralph-hightower) | |
+| Stack Overflow | [26315139/ralph-hightower](26315139/ralph-hightower) |
 
 
 Now that I am retired, I am getting into the Arduino ecosystem.
