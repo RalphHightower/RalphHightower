@@ -25,6 +25,7 @@
 | NCIS: Hawai'i | NCIS | CBS |
 | NCIS: Los Angeles | NCIS | CBS |
 | NCIS: New Orleans | NCIS | CBS |
+| NCIS: Sydney | NCIS | CBS |
 | Star Trek: Next Generation | Star Trek | CBS |
 | Star Trek: Deep Space Nine | Star Trek | CBS |
 | Star Trek: Voyager | Star Trek | CBS |
