@@ -25,7 +25,7 @@
 | NCIS: Hawai'i | NCIS | CBS |
 | NCIS: Los Angeles | NCIS | CBS |
 | NCIS: New Orleans | NCIS | CBS |
-| NCIS: Sydney | NCIS | CBS |
+| *NCIS: Sydney* (future) | NCIS | CBS |
 | Star Trek: Next Generation | Star Trek | CBS |
 | Star Trek: Deep Space Nine | Star Trek | CBS |
 | Star Trek: Voyager | Star Trek | CBS |
@@ -34,7 +34,7 @@
 | Star Trek: Picard | Star Trek | Paramount+ |
 | Star Trek: Strange New Worlds | Star Trek | Paramount+ |
 | Star Trek: The Animated Series (Cartoon) | Star Trek | Paramount+ |
-| *Star Trek: Seven of Nine* | Star Trek | Paramount+ |
+| *Star Trek: Seven of Nine* (future) | Star Trek | Paramount+ |
 | Star Trek: Lower Decks (Cartoon) | Star Trek | Paramount+ |
 | Star Trek: Prodigy (Cartoon) | Star Trek | Paramount+ |
 
