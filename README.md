@@ -197,3 +197,7 @@ HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
 I enjoy television 📺 series that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
 
 [Television Series Reboots and Spinoffs](RebootedTVShows.md)
+
+## Tabasco Sauce Scoville Ratings 
+
+[Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
