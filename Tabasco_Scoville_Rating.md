@@ -9,6 +9,7 @@
 | Chipotle Pepper | 1500 - 2500 | A smoky, flavorful hot sauce. Pairs well with any BBQ dish. |
 | Sriracha | 1000 - 3000 | Thick, rich and bold sriracha sauce with no preservatives. |
 | Original Red | 2500 - 5000 | Our most versatile hot sauce. Enliven the flavor of every meal. |
+| Family Reserve Sauce | 2500 - 5000 | Once reserved for the McIlhenny family and close friends, our TABASCO® brand Family Reserve Pepper Sauce blends premium ingredients to create an exclusive, limited edition flavor that you can only find here. Made from special, hand-selected peppers and salt, this unique pepper mash is aged for up to 8 years in white oak barrels, much longer than the normal 3 year aging process of our Original Red Sauce. The Family Reserve pepper mash is then blended with premium white wine vinegar, strained and bottled as a small batch. |
 | Habanero Pepper | >7000 | A fruity, Jamaican-style blended hot sauce. |
 | Scorpion |23,000-33,000 | Our hottest sauce yet. A fiery mix of flavors with a potent punch. |
 
