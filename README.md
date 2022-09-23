@@ -17,11 +17,9 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | Status | Project |
 |----|-----|
+|| [Hardware Suppliers for Projects](HardwareLinks.md) |
 | In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | Completed | 
-
-[Hardware Suppliers for Projects](HardwareLinks.md)
-
 
 | Articles/BugFixes | Date | Publication |
 |---------|------|-------------|
