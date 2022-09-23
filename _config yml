@@ -9,7 +9,11 @@
 # documentation of the options.
 #%Y-%m-%d %I:%M:%S.%L %Z
 #name: badger23-contribution-graph
+title                    : "Ralph Hightower's GitHub Repositories"
+author                   :
 name                     : "RalphHightower"
+email                    : "ralph.hightower@gmail.com"
+description.              : "Software Developer with 50++ years; retired, but active for personal projects. C#, .Net
 uses                     : "RalphHightower/ContributionGraph@v1"
 remote_theme             : "pages-themes/minima"
 plugins                  : "jekyll-remote-theme" # add this line to the plugins list if you already have one
