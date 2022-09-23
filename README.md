@@ -112,7 +112,7 @@ What can I say? I've been a big fan of HP Calculators ever since they introduced
 
 Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
 
-My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered the classic look of B&W film when I photographed the final Space Shuttle landing. Since it was a pre-dawn landing, color would have been wasted. For that year, I had two photography projects. 
+My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered the classic look of B&W film when I photographed the final Space Shuttle landing. Since it was a pre-dawn landing, color would have been wasted. For that year, I had two photography projects:
 1) Photograph the sunrise over Columbia, South Carolina from the Lake Murray dam on the equinoxes and solstices;
 2) Photograph the full moon rising and setting (started in February and carried over to January).
 
