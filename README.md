@@ -26,13 +26,13 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
 | [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
 
-| Repository | Description |
+| Web Site | Description |
 |------------|-------------|
-| [Azure-Resources](https://github.com/RalphHightower/Azure-Resources) | List of helpful Azure resources |
-| [EOL-RalphHightower](https://github.com/RalphHightower/EOL-RalphHightower) | End Of Life Instructions for wife and executor |
-| [GM-Canada-Onstar-G2-Sunset](https://github.com/RalphHightower/GM-Canada-Onstar-G2-Sunset) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular G2 CDMA technology in 2015  |
-| [RalphHightower](https://github.com/RalphHightower/RalphHightower) | Ralph Hightower's top level repository |
-| [SpaceShuttleMissionSchedule](https://github.com/RalphHightower/SpaceShuttleMissionSchedule) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel |
+| [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/) | List of helpful Azure resources |
+| [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
+| [GM-Canada-Onstar-G2-Sunset](https://ralphhightower.github.io/GM-Canada-Onstar-G2-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular G2 CDMA technology in 2015  |
+| [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
+| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel |
 
 I am basically a newbie to using GitHub, so this is a handy reference for me.
 
