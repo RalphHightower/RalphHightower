@@ -63,6 +63,33 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
+minima:
+  social_links:
+    twitter: RalphHightower
+    github: RalphHightower
+    stackoverflow: "26315139/ralph-hightower"
+    dribbble: 
+    facebook: RalphHightower
+    flickr: RalphHightower
+    instagram: 
+    linkedin: RalphHightower
+    pinterest: 
+    telegram: 
+    microdotblog: 
+    keybase: 
+    #mastodon:
+     #- username: jekyll
+     #  instance: example.com
+     #- username: jekyll2
+     #  instance: example.com
+    gitlab:
+     - username: RalphHightower
+       #instance: example.com
+    youtube: RalphHightower
+    youtube_channel: "https://youtube.com/user/RalphHightower"
+    youtube_channel_name: RalphHightower
+
 # Social Sharing
 twitter:
   username               : "RalphHightower"
