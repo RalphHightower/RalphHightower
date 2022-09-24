@@ -7,7 +7,7 @@
 | Doctor Who | BBC |
 | Hawaii Five-0 | CBS |
 | MacGyver | CBS |
-| Magnum PI | CBS/NBC |
+| Magnum PI | CBS (seasons 1 — 4)/NBC (seasons 5 — 6)|
 | Quantum Leap | NBC |
 
 # Television Series Spinoffs
