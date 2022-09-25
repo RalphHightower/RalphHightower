@@ -7,3 +7,4 @@
 | [Hailo AI Accelerator](https://hailo.ai/) |
 | [Mouser Distributor](https://www.mouser.com/) |
 | [Digikey](https://www.digikey.com/) |
+| [SB Components \(UK\)](https://shop.sb-components.co.uk/) |
