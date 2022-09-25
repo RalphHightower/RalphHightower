@@ -147,6 +147,8 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
 
+[Camera Manuals, Software, Firmware](CanonFirmwareSoftware.md)
+
 ## Beagles 
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
