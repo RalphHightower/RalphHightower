@@ -17,18 +17,10 @@
 | [ ] | Picture Style Editor for Windows | 1.27.10 | 2022-06-14 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjYzMzAx&cmp=ABR&lang=EN) |
 | [ ] | EOS Webcam Utility Windows | 1.1 | 2020-11-11 | [Download](https://downloads.canon.com/webcam/EOSWebcamUtility-WIN1.1.zip) |
 
+## Canon EF 24-105mm f4L 
+
 ### Manuals
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| []  |   |   |   |   |
-| []  |   |   |   |   |
-| []  |   |   |   |   |
-
-## Canon EF 24-105mm f4L
-
-| []  |   |   |   |   |
-|---|---|---|---|---|
-| []  |   |   |   |   |
-| []  |   |   |   |   |
-| []  |   |   |   |   |
+| Done | Description | Date | Link |
+|---|---|---|---|
+| []  | EF24-105mm f/4L IS USM Instruction | 2013-10-30 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwMzU4NzAy&cmp=ABR&lang=EN) |
