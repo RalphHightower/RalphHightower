@@ -87,10 +87,12 @@
 
 | Done | Description | Version | Date | Link |
 |------|-------------|---------|------|------|
+| [ ] | . | . | . | . |
 
 #### Manuals 
 
 | Done | Description | Date | Link |
 |------|-------------|------|------|
+| [ ] | .  | . | . |
 
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
