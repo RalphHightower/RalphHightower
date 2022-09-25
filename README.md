@@ -2,7 +2,7 @@ Hi, I’m @RalphHightower. <br>
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway). <br><br>
 
-| Content | Website |
+| **Content** | **Website** |
 |---------|---------|
 | LinkedIn Profile | [RalphHightower](https://www.linkedin.com/in/ralphhightower/)|
 | Photography Portfolio \(Flickr\) | [RalphHightower](https://www.flickr.com/photos/ralphhightower/) |
@@ -15,18 +15,18 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 Now that I am retired, I am getting into the Arduino ecosystem.
 
-| Status | Project |
+| **Status** | **Project** |
 |----|-----|
 || [Hardware Suppliers for Projects](HardwareLinks.md) |
 | In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | Completed | 
 
-| Articles/BugFixes | Date | Publication |
+| **Articles/BugFixes** | **Date** | **Publication** |
 |---------|------|-------------|
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
 | [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
 
-| Web Site | Description |
+| **Web Site** | **Description** |
 |------------|-------------|
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/) | List of helpful Azure resources |
 | [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
@@ -36,7 +36,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 I am basically a newbie to using GitHub, so this is a handy reference for me.
 
-| GitHub/YAML References |
+| **GitHub/YAML References** |
 |-------------------|
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) |
 | [The Official YAML Website](https://yaml.org/) |
@@ -140,12 +140,14 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
 || 35mm slide film carriers (2) |
 
-| Bucket List Cameras | Status |
+| **Bucket List Cameras** | **Status** |
 |-----------|--------|
 | Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
 | Mamiya 645||
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
+
+### Updates/References: Camera Manuals, Software, Firmware
 
 [Camera Manuals, Software, Firmware](CanonFirmwareSoftware.md)
 
