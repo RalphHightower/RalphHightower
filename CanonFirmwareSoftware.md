@@ -81,4 +81,16 @@
 |------|-------------|------|------|
 | [ ] | SPEEDLITE 600EX II-RT INSTRUCTION MANUAL | 2016-05-30 | [Download]() |
 
+### GPS
+
+#### Firmware, Software 
+
+| Done | Description | Version | Date | Link |
+|------|-------------|---------|------|------|
+
+#### Manuals 
+
+| Done | Description | Date | Link |
+|------|-------------|------|------|
+
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
