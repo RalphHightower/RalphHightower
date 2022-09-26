@@ -87,9 +87,9 @@
 
 | Description | Version | Date | Link |
 |------|-------------|---------|------|
-|Firmware Version for the GPS Receiver GP-E2 \[Windows\]|2.0.2|2020-02-05|https://[Download](pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDQwMDAwMjcxNDAy&cmp=ABR&lang=EN)|
+|Firmware Version for the GPS Receiver GP-E2 \[Windows\]|2.0.2|2020-02-05|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDQwMDAwMjcxNDAy&cmp=ABR&lang=EN)|
 |GPS Log File Utility for Windows|1.0.3|2020-08-20|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjIyODAx&cmp=ABR&lang=EN)|
-|Map Utility for Windows||2016-12-01||[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNTE3OTAx&cmp=ABR&lang=EN)|
+|Map Utility for Windows||2016-12-01|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNTE3OTAx&cmp=ABR&lang=EN)|
 
 #### Manuals 
 
