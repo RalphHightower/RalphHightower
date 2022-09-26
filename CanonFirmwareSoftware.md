@@ -87,12 +87,15 @@
 
 | Description | Version | Date | Link |
 |------|-------------|---------|------|
-| . | . | . | . |
+|Firmware Version for the GPS Receiver GP-E2 \[Windows\]|2.0.2|2020-02-05|https://[Download](pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDQwMDAwMjcxNDAy&cmp=ABR&lang=EN)|
+|GPS Log File Utility for Windows|1.0.3|2020-08-20|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjIyODAx&cmp=ABR&lang=EN)|
+|Map Utility for Windows||2016-12-01||[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNTE3OTAx&cmp=ABR&lang=EN)|
 
 #### Manuals 
 
 | Description | Date | Link |
 |-------------|------|------|
-| .  | . | . |
+|GP-E2 INSTRUCTION MANUAL|2020-11-06|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwODU0OTA2&cmp=ABR&lang=EN)|
+|Map Utility Ver.1.5 Instruction Manual|2014-07-24|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwOTg3MDAy&cmp=ABR&lang=EN)|
 
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
