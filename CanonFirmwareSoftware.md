@@ -6,16 +6,16 @@
 
 | Description | Link |
 |-------------|------|
-| Canon A-1 | [Download]()[^1] |
-| Canon Motor Drive MA | [Download]()[^1] |
+| Canon A-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_a1.pdf)[^1] |
+| Canon Motor Drive MA | [Download](https://www.cameramanuals.org/canon_pdf/canon_motor_drive_ma.pdf)[^1] |
 
 ### Canon F-1N 
 
 | Description | Link |
 |-------------|------|
-| Canon F-1N | [Download]()[^1] |
-| Canon FN Motor Drive AE | [Download]()[^1] |
-| Canon FN Finder AE | [Download]()[^1] |
+| Canon F-1N | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^1] |
+| Canon AE Motor Drive FN | [Download](https://www.cameramanuals.org/canon_pdf/canon_ae_motor_drive_fn.pdf)[^1] |
+| Canon AE Finder FN | [Download]()[^1] |
 
 ### FD Lenses 
 
@@ -24,7 +24,7 @@
 | Canon FD 28mm f2.8 | [Download]()[^1] |
 | Canon FD 50mm f1.8 | [Download]()[^1] |
 | Canon Macrophoto 20mm f3.5 | [Download]()[^1] |
-| Canon Auto Bellows | [Download]()[^1] |
+| Canon Auto Bellows | [Download](https://www.cameramanuals.org/canon_pdf/canon_auto_bellows.pdf)[^1] |
 
 ### Flash
 
