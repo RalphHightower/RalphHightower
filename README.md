@@ -18,13 +18,15 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | Status | Project |
 |----|-----|
 || [Hardware Suppliers for Projects](HardwareLinks.md) |
-| In Progress | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
+| Research | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | Completed | 
+
 
 | Articles/BugFixes | Date | Publication |
 |---------|------|-------------|
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
 | [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
+
 
 | Web Site | Description |
 |------------|-------------|
@@ -34,7 +36,6 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1] | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^1] |
 
-I am basically a newbie to using GitHub, so this is a handy reference for me.
 
 | GitHub/YAML References |
 |-------------------|
@@ -43,6 +44,7 @@ I am basically a newbie to using GitHub, so this is a handy reference for me.
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* |
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* |
 | [Crontab Guru](https://crontab.guru/) |
+
 
 # Interests 
 
