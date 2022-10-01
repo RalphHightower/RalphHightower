@@ -45,6 +45,19 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* |
 | [Crontab Guru](https://crontab.guru/) |
 
+| GitHub Repositories |
+|---------------------|
+| [Governments on GitHub](https://government.github.com/community/) |
+| [Microsoft – Open source projects and samples from Microsoft](https://github.com/microsoft) |
+| [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
+| [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) |
+| [NET Platform — Home of the open source .NET platform](https://github.com/dotnet) |
+| [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
+| [Intel Corporation](https://github.com/intel) |
+| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
+| [Garmin International](https://github.com/garmin) |
+| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino)|
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 
 # Interests 
 
