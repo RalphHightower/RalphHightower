@@ -14,6 +14,7 @@
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (ARM Single Board Computers)](https://www.khadas.com/shop?Collection=All&sort=price_descending)|
 | [Mouser Distributor](https://www.mouser.com/) |
+| [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) |
