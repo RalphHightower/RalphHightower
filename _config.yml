@@ -2,12 +2,12 @@ title: Ralph Hightower - Top Level Repository
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
-  street_address: 1728 Old Lexington Hwy 
+  #street_address:
   city: Chapin
   state: SC
   zip_code: 29036
   country: United States of America
-  phone: (803) 622-6566
+  #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
   I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 
   50++ years experience; still active for personal projects. Witnessed 
