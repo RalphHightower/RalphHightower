@@ -58,6 +58,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Khadas (Single Board Computers)](https://www.khadas.comhttps//www.khadas.com/shop?Collection=All&sort=price_descending) |
 | [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) |
 | [.NET Platform — Home of the open source .NET platform](https://github.com/dotnet) |
+| [Microsoft Azure — APIs, SDKs and open source projects from Microsoft Azure](https://github.com/Azure) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
 
