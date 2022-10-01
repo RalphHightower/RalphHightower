@@ -55,7 +55,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 | [Garmin International](https://github.com/garmin) |
 | [Intel Corporation](https://github.com/intel) | 
-| [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) 
+| [Khadas (Single Board Computers](https://www.khadas.comhttps//www.khadas.com/shop?Collection=All&sort=price_descending) |
+| [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) |
 | [.NET Platform — Home of the open source .NET platform](https://github.com/dotnet) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
