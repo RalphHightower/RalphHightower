@@ -54,6 +54,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 | [Garmin International](https://github.com/garmin) |
+| [Google](https://github.com/google) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (Single Board Computers)](https://www.khadas.comhttps//www.khadas.com/shop?Collection=All&sort=price_descending) |
 | [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) |
