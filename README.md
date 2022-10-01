@@ -47,7 +47,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 
 
-| GitHub Repositories |
+| Goverments and Companies GitHub Repositories |
 |---------------------|
 | [Governments on GitHub](https://government.github.com/community/) |l
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino)|
