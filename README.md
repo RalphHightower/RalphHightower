@@ -239,6 +239,6 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
 
-[![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower)](https://github.com/RalphHightower/github-readme-activity-graph)
+[![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react)](https://github.com/RalphHightower/github-readme-activity-graph)
 
 
