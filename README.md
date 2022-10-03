@@ -47,7 +47,6 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Crontab Guru](https://crontab.guru/) |
 
 
-
 | Goverments and Companies GitHub Repositories |
 |---------------------|
 | [Governments on GitHub](https://government.github.com/community/) |l
@@ -239,3 +238,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet.
+
+[![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower)](https://github.com/RalphHightower/github-readme-activity-graph)
+
+
