@@ -2,6 +2,14 @@
 
 | Hardware Suppliers |
 |-----------|
+| [AAEON AI CORE XM 2280AI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-xm-2280) (H/W) |
+| [AAEON AI CORE XAI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-x) (H/W) |
+| [AAEON Mini-AI-520AI Edge Computing Module with Kneron KL520 NPU](https://www.aaeon.com/en/p/ai-modules-mini-ai-520) (H/W) |
+| [AAEON Mini-AI-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-modules-mini-ai-520) (H/W) |
+| [AAEON M2AI-2242-520AI Edge Computing Module with Kneron KL520 NPU](https://www.aaeon.com/en/p/ai-modules-m2ai-2242-520) (H/W) |
+| [AAEON M2AI-2280-520AI Edge Computing Module with Kneron KL520 NP](https://www.aaeon.com/en/p/ai-modules-m2ai-2280-520) (H/W) |
+| [AAEON M2AI-2242-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2242-720) (H/W) |
+| [AAEON M2AI-2280-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2280-720) (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) |
 | [Arm Software](https://github.com/ARM-software) |
