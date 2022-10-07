@@ -10,22 +10,22 @@
 | [AAEON M2AI-2280-520AI Edge Computing Module with Kneron KL520 NP](https://www.aaeon.com/en/p/ai-modules-m2ai-2280-520) (H/W) |
 | [AAEON M2AI-2242-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2242-720) (H/W) |
 | [AAEON M2AI-2280-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2280-720) (H/W) |
-| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) |
-| [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) |
-| [Arm Software](https://github.com/ARM-software) |
-| [google-coral — Open source projects for coral.ai](https://github.com/google-coral) |
-| [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
+| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) (GitHub) |
+| [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) (GitHub) |
+| [Arm Software](https://github.com/ARM-software) (GitHub) |
+| [google-coral — Open source projects for coral.ai](https://github.com/google-coral) (GitHub) |
+| [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) (GitHub) |
 | [Digikey](https://www.digikey.com/) (H/W) |
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
-| [Garmin International](https://github.com/garmin) |
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) (GitHub) |
+| [Garmin International](https://github.com/garmin) (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) (H/W) |
 | [Intel Corporation](https://github.com/intel) | 
-| [Khadas (ARM Single Board Computers)](https://www.khadas.com/shop?Collection=All&sort=price_descending) (H/W) |
+| [Khadas (ARM Single Board Computers)](https://www.khadas.com/shop?Collection=All) (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) (H/W) |
-| [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
+| [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) (GitHub) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) (H/W) |
