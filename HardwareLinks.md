@@ -18,7 +18,7 @@
 | [Digikey](https://www.digikey.com/) (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 | [Garmin International](https://github.com/garmin) |
-| [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) 
+| [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) (H/W) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (ARM Single Board Computers)](https://www.khadas.com/shop?Collection=All&sort=price_descending) (H/W) |
