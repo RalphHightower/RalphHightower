@@ -13,6 +13,7 @@
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) |
 | [Arm Software](https://github.com/ARM-software) |
+| [google-coral — Open source projects for coral.ai](https://github.com/google-coral) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
 | [Digikey](https://www.digikey.com/) (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
