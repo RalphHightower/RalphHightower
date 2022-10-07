@@ -93,10 +93,10 @@ A technology company had shut down and one of the Affinity Technology Group form
 
 | Computers | Peripherals, Books |
 |-----------|-------------|
-| DEC (Digital Equipment Corporation) VAXStation II/GPX ||
+| [DEC (Digital Equipment Corporation) VAXStation II/GPX](https://flic.kr/p/acYeze) |
 || DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
-| Sun 3/110 ||
-| Sun SPARCStation IPX ||
+| [Sun 3/110](https://flic.kr/p/acYvDi) ||
+| [Sun SPARCStation IPX](https://flic.kr/p/acYrMa) ||
 || Sun 31 inch CRT (Cathode Ray Tube) |
 || Sun CD-ROM Drive |
 || Sun Tape Drive (3 SCSI Hard Drives) |
