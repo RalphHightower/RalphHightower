@@ -193,9 +193,7 @@ South Carolina has a number of craft beer breweries.. Below is a list of the cur
 7. Holy City Brewing Bowens Island Oyster Stout
 8. Legal Remedy World Court Mocha Blonde Stout
 
-
 [South Carolina Breweries](SouthCarolinaBeerBrewies.md)
-
 
 ## Hobbies
 
@@ -241,7 +239,6 @@ MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQ
 WHY I DO WHAT I DO: Software development involves creativity <br>
 PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) <br>
 HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
-
 
 ## Television Series Reboots and Spinoffs (Worth Watching)
 
