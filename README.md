@@ -182,6 +182,21 @@ with the CD obedience titles.
 
 We have bred and raised a few litters.
 
+## Craft Beers in South Carolina 
+
+South Carolina has a number of craft beer breweries.. Below is a list of the current active breweries. I have a few favorites:
+1. River Rat Broad River Red Ale
+2. River Rat Mourning Stout
+4. Steelhands Coffee Lager 
+5. Palmetto Brewing Expresso 
+6. Palmetto Brewing GhostRider
+7. Holy City Brewing Bowens Island Oyster Stout
+8. Legal Remedy World Court Mocha Blonde Stout
+
+
+[South Carolina Breweries](SouthCarolinaBeerBrewies.md)
+
+
 ## Hobbies
 
 I enjoy water-skiing. I learned on Lake Greenwood, South Carolina. I consider Lake Murray, 
@@ -196,11 +211,6 @@ Bodies of Water That I Have Skiied:
 - Midwestern Rivers
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
-
-## Craft Beers in South Carolina 
-
-South Carolina has a number of craft beer breweries.. Below is a list of the current active breweries. 
-[South Carolina Breweries](SouthCarolinaBeerBrewies.md)
 
 ## **Dewar's Profile**
 RALPH HIGHTOWER <br>
