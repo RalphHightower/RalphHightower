@@ -114,9 +114,9 @@ What can I say? I've been a big fan of HP Calculators ever since they introduced
 | HP-17B ||
 | HP-41CV ||
 | HP-41CX ||
-||HP-41 Card Reader |
-||HP-41 Memory Modules |
-||HP-41 Program Modules |
+|| HP-41 Card Reader |
+|| HP-41 Memory Modules |
+|| HP-41 Program Modules |
 | HP-45 ||
 | HP-48GX ||
 | HP-67 ||
@@ -197,7 +197,12 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-### **Dewar's Profile**
+## Craft Beers in South Carolina 
+
+South Carolina has a number of craft beer breweries.. Below is a list of the current active breweries. 
+[South Carolina Breweries](SouthCarolinaBeerBrewies.md)
+
+## **Dewar's Profile**
 RALPH HIGHTOWER <br>
 PROFESSION: Software Developer <br>
 HOBBY: Photography, water-skiing <br>
