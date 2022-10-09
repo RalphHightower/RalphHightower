@@ -63,7 +63,11 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Microsoft Azure — APIs, SDKs and open source projects from Microsoft Azure](https://github.com/Azure) |
 | [Oracle — Open Source at Oracle](https://github.com/oracle) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
-| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
+| [SparkFun Electronics — Building open source widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
+
+| [Microsoft Visual Studio (Online)](https://vscode.dev/) |
+|----------------------------------|
+| [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 
 # Interests 
 
