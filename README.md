@@ -10,7 +10,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | GitHub | [RalphHightower](https://github.com/RalphHightower/RalphHightower) |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
-| Stack Overflow | [26315139/ralph-hightower](26315139/ralph-hightower) |
+| Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower)
 
 
