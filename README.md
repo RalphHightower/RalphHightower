@@ -8,6 +8,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | GitHub | [RalphHightower](https://github.com/RalphHightower/RalphHightower) |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
+| Gravatar | [RalphHightower](http://gravatar.com/ralphhightower) |
 | Hackster.io | [ralph-hightower](https://www.hackster.io/ralph-hightower)
 | LinkedIn Profile | [RalphHightower](https://www.linkedin.com/in/ralphhightower/)|
 | Photography Portfolio \(Flickr\) | [RalphHightower](https://www.flickr.com/photos/ralphhightower/) |
