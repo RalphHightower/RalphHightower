@@ -218,7 +218,7 @@ Bodies of Water That I Have Skiied:
 
 ## OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
 
-[GM-Canada figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada sunsetted 2G CDMA technology in 2015. GM-USA solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-Onstar-G2-Sunset/)
+[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-Onstar-G2-Sunset/)
 
 ## Dewar's Profile
 
