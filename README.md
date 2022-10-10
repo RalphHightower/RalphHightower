@@ -40,13 +40,14 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^1] |
 
 
-| GitHub/YAML References |
-|-------------------|
-| [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) |
-| [The Official YAML Website](https://yaml.org/) |
-| [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* |
-| [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* |
-| [Crontab Guru](https://crontab.guru/) |
+| References | Purpose |
+|------------------------|---------|
+| [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) | YAML |
+| [The Official YAML Website](https://yaml.org/) | YAML |
+| [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
+| [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
+| [Crontab Guru](https://crontab.guru/) | Schedule |
+| [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
 
 
 | Goverments and Companies GitHub Repositories |
