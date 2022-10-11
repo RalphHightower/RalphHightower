@@ -50,7 +50,7 @@
 | [RJ Rockers Brewing Company](https://www.rjrockers.com/) | Spartanburg | 1997 |
 | [Rock Hill Brewing Company](https://rockhillbrewingcompany.com/) | Rock Hill ||
 | [Rusty Bull Brewing Company](https://www.rustybullbrewing.com/) | North Charleston | 2017 |
-| [Salt Marsh Brewing Company] | Bluffton | 2013 |
+| Salt Marsh Brewing Company | Bluffton | 2013 |
 | [Seminar Brewing](http://www.seminarbrewing.com/) | Florence | 2010 |
 | [Snafu Brewing Company](http://www.snafubrewingcompany.com/) | North Charleston ||
 | [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/) | Bluffton ||
