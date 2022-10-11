@@ -41,7 +41,7 @@
 | [New Groove Artisian Brewery](http://newgroovebrew.com/) | Boiling Springs ||
 | [New South Brewing](https://newsouthbrewing.com/) | Myrtle Beach | 1998 |
 | [Oak Road Brewery](https://www.oakroadbrewery.com/) | Summerville ||
-| Palmetto Brewing Co. | Charleston | 1993 |
+| [Palmetto Brewing Co.](https://palmettobrewery.com/) | Charleston | 1993 |
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/) | North Charleston | 2016 |
 | [Peak Drift Brewing Company](https://.) | Columbia | 2021 |
 | [Plankowner Brewing](http://plankownerbrewing.com/) | Boiling ||
