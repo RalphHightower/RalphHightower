@@ -3,6 +3,7 @@
 | Brewery | Location | Year |
 |---------|----------|------|
 | [13 Stripes Brewery](http://www.13stripesbrewery.com/) | Taylors | 2017 |
+| [Aiken Brewing Company](http://www.aikenbrewingcompany.com/)[^3] | Aiken ||
 | Amor Artis Brewing | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/) | Lexington ||
 | [Birds Fly South Ale Project](https://bfsbeer.com/) |	Greenville | 2016 |
