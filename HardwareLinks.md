@@ -1,5 +1,7 @@
 # Hardware 
 
+[Raspberry PI Locater](https://rpilocator.com/)
+
 | Hardware Suppliers |
 |-----------|
 | [AAEON AI CORE XM 2280AI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-xm-2280) (H/W) |
