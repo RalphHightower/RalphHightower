@@ -1,72 +1,73 @@
-# South Carolina Beer Breweries[^1][^2]
+# South Carolina Beer Breweries
 
 | Brewery | Location | Year |
 |---------|----------|------|
-| [13 Stripes Brewery](http://www.13stripesbrewery.com/) | Taylors | 2017 |
+| [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1] | Taylors | 2017 |
 | [Aiken Brewing Company](http://www.aikenbrewingcompany.com/)[^3] | Aiken ||
-| Amor Artis Brewing | Fort Mill | 2018 |
-| [Angry Fish Brewing Co.](http://angryfishbrewingco.com/) | Lexington ||
-| [Birds Fly South Ale Project](https://bfsbeer.com/) |	Greenville | 2016 |
+| Amor Artis Brewing[^1] | Fort Mill | 2018 |
+| [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^2] | Lexington ||
+| [Birds Fly South Ale Project](https://bfsbeer.com/)[^1] |	Greenville | 2016 |
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^3] | Columbia ||
-| [Brewery 85](http://brewery85.com/) | Greenville | 2014 |
-| [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/) | Anderson ||
-| [Charles Towne Fermentory](www.chsfermentory.com) | Charleston | 2016 |
-| [Ciclops Cyderi & Brewery](www.ciclopscyderiandbrewery.com) | Spartanburg ||
-| COAST Brewing Co. | North Charleston | 2007 |
-| [Columbia Craft Brewing Company](https://www.columbiacraft.com/) | Columbia | 2017 |
-| [Commonhouse Aleworks](https://www.commonhousealeworks.com) | North Charleston | 2018 |
-| [Cooper River Brewing Company](https://cooperriverbrewing.com/) | Charleston | 2015 |
-| [CottonTown Brew Lab](http://ctbl.azurewebsites.net/) | Columbia ||
-| Crooked Hammock Brewery | North Myrtle Beach | |
-| [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/) | Charleston | 2014 |
-| [Fam's Brewing Co.](http://famsbrewingco.com/) | Charleston | 2017 |
-| [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/) | Greenville ||
-| [Fatty's Beer Works](https://www.fattysbeerworks.com/) | Charleston | 2017 |
-| [Fireforge Crafted Beer](https://www.fireforge.beer/) | Greenville ||
-| Freehouse Brewery | North Charleston | 2013 |
-| [Frothy Beard Brewing Company](https://frothybeard.com/) | Charleston | 2013 |
-| Grand Strand Brewing Company | Myrtle Beach | |
-| [Good Times Brewing](https://millhousepizza.com/beer) | Greenwood ||
-| Hilton Head Brewing Company | Hilton Head Island | 1994 |
-| [Holy City Brewing](https://holycitybrewing.com/) | North Charleston | 2011 |
+| [Brewery 85](http://brewery85.com/)[^1] | Greenville | 2014 |
+| [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/)[^2] | Anderson ||
+| [Charles Towne Fermentory](www.chsfermentory.com)[^1] | Charleston | 2016 |
+| [Ciclops Cyderi & Brewery](www.ciclopscyderiandbrewery.com)[^2] | Spartanburg ||
+| COAST Brewing Co.[^1] | North Charleston | 2007 |
+| [Columbia Craft Brewing Company](https://www.columbiacraft.com/)[^1] | Columbia | 2017 |
+| [Commonhouse Aleworks](https://www.commonhousealeworks.com)[^1] | North Charleston | 2018 |
+| [Cooper River Brewing Company](https://cooperriverbrewing.com/)[^1] | Charleston | 2015 |
+| [CottonTown Brew Lab](http://ctbl.azurewebsites.net/)[^2] | Columbia ||
+| Crooked Hammock Brewery[^2] | North Myrtle Beach ||
+| [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
+| [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
+| [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^2] | Greenville ||
+| [Fatty's Beer Works](https://www.fattysbeerworks.com/)[^1] | Charleston | 2017 |
+| [Fireforge Crafted Beer](https://www.fireforge.beer/)[^2] | Greenville ||
+| Freehouse Brewery[^1] | North Charleston | 2013 |
+| [Frothy Beard Brewing Company](https://frothybeard.com/)[^1] | Charleston | 2013 |
+| Grand Strand Brewing Company[^2] | Myrtle Beach ||
+| [Good Times Brewing](https://millhousepizza.com/beer)[^2] | Greenwood ||
+| Hilton Head Brewing Company[^1] | Hilton Head Island | 1994 |
+| [Holy City Brewing](https://holycitybrewing.com/)[^1] | North Charleston | 2011 |
 | [Hunter Gatherer Brewery/Taproom](https://huntergathererbrewery.com/)[^3] | Columbia |
-| [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/) | Charleston ||
-| [Iron Hill Brewery and Restaurant](https://www.ironhillbrewery.com/greenville-sc) | Greenville ||
-| [Keowee Brewing Company](http://keoweebrewing.com/) | Seneca ||
-| [Legal Remedy Brewing](http://legalremedybrewing.com/) | Rock Hill | 2015 |
-| LO-Fi Brewing | Charleston | 2013 |
-| [Liability Brewing Co.](https://liabilitybrewing.co/) | Greenville ||
-| [Low Tide Brewing](https://www.lowtidebrewing.com/) | Johns Island | 2016 |
-| [Munkle Brewing Co.](https://www.munklebrewing.com/) | Charleston | 2016 |
-| [New Groove Artisian Brewery](http://newgroovebrew.com/) | Boiling Springs ||
-| [New South Brewing](https://newsouthbrewing.com/) | Myrtle Beach | 1998 |
-| [Oak Road Brewery](https://www.oakroadbrewery.com/) | Summerville ||
-| [Palmetto Brewing Co.](https://palmettobrewery.com/) | Charleston | 1993 |
-| [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/) | North Charleston | 2016 |
-| [Peak Drift Brewing Company](https://.) | Columbia | 2021 |
-| [Plankowner Brewing](http://plankownerbrewing.com/) | Boiling ||
-| [Revelry Brewing Co.](https://www.revelrybrewingco.com/) | Charleston | 2014 |
-| [River Dog Brewing Company](http://riverdogbrewing.com/) | Ridgeland | 2012 |
-| [River Rat Brewing](http://www.riverratbrewery.com/) | Columbia | 2013 |
-| [RJ Rockers Brewing Company](https://www.rjrockers.com/) | Spartanburg | 1997 |
-| [Rock Hill Brewing Company](https://rockhillbrewingcompany.com/) | Rock Hill ||
-| [Rusty Bull Brewing Company](https://www.rustybullbrewing.com/) | North Charleston | 2017 |
-| Salt Marsh Brewing Company | Bluffton | 2013 |
-| [Seminar Brewing](http://www.seminarbrewing.com/) | Florence | 2010 |
-| [Snafu Brewing Company](http://www.snafubrewingcompany.com/) | North Charleston ||
-| [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/) | Bluffton ||
-| [Southern Hops Brewing Co](http://www.southernhops.com/) | Florence ||
-| [Steel Hands Brewing](https://steelhandsbrewing.com/) | Cayce | 2018 |
-| [Sumter Original Brewery](http://sumteroriginalbrewery.com/) | Sumter ||
-| [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/) | Travelers Rest ||
-| [Thomas Creek Brewing Company](http://thomascreekbeer.com/) | Greenville | 1998 |
-| Tidal Creek Brewhouse | Myrtle Beach | |
-| [Tradesman Brewing Company](http://tradesmanbrewing.com/) | Charleston | 2014 |
-| [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/) | Charleston ||
-| [Two Blokes Brewing](http://twoblokesbrewing.com/) | Pleasant ||
-| Westbrook Brewing Company | Mount Pleasant | 2010 |
-| [Wide Awake Brewing Company](https://www.wideawakebrewing.com/) | Summerville ||
+| [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/)[^2] | Charleston ||
+| [Iron Hill Brewery and Restaurant](https://www.ironhillbrewery.com/greenville-sc)[^2] | Greenville ||
+| [Keowee Brewing Company](http://keoweebrewing.com/)[^2] | Seneca ||
+| [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
+| LO-Fi Brewing[^1] | Charleston | 2013 |
+| [Liability Brewing Co.](https://liabilitybrewing.co/)[^2] | Greenville ||
+| [Low Tide Brewing](https://www.lowtidebrewing.com/)[^1] | Johns Island | 2016 |
+| [Munkle Brewing Co.](https://www.munklebrewing.com/)[^1] | Charleston | 2016 |
+| [New Groove Artisian Brewery](http://newgroovebrew.com/)[^2] | Boiling Springs ||
+| [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
+| [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^3] | Lexington ||
+| [Oak Road Brewery](https://www.oakroadbrewery.com/)[^2] | Summerville ||
+| [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
+| [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
+| Peak Drift Brewing Company[^1] | Columbia | 2021 |
+| [Plankowner Brewing](http://plankownerbrewing.com/)[^2] | Boiling Springs ||
+| [Revelry Brewing Co.](https://www.revelrybrewingco.com/)[^1] | Charleston | 2014 |
+| [River Dog Brewing Company](http://riverdogbrewing.com/)[^1] | Ridgeland | 2012 |
+| [River Rat Brewing](http://www.riverratbrewery.com/)[^1] | Columbia | 2013 |
+| [RJ Rockers Brewing Company](https://www.rjrockers.com/)[^1] | Spartanburg | 1997 |
+| [Rock Hill Brewing Company](https://rockhillbrewingcompany.com/)[^2] | Rock Hill ||
+| [Rusty Bull Brewing Company](https://www.rustybullbrewing.com/)[^1] | North Charleston | 2017 |
+| Salt Marsh Brewing Company[^1] | Bluffton | 2013 |
+| [Seminar Brewing](http://www.seminarbrewing.com/)[^1] | Florence | 2010 |
+| [Snafu Brewing Company](http://www.snafubrewingcompany.com/)[^2] | North Charleston ||
+| [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/)[^2] | Bluffton ||
+| [Southern Hops Brewing Co](http://www.southernhops.com/)[^2] | Florence ||
+| [Steel Hands Brewing](https://steelhandsbrewing.com/)[^1] | Cayce | 2018 |
+| [Sumter Original Brewery](http://sumteroriginalbrewery.com/)[^2] | Sumter ||
+| [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^2] | Travelers Rest ||
+| [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
+| Tidal Creek Brewhouse[^2] | Myrtle Beach ||
+| [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
+| [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^2] | Charleston ||
+| [Two Blokes Brewing](http://twoblokesbrewing.com/)[^2] | Pleasant ||
+| Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
+| [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^2] | Summerville ||
 
 [^1]: 2022-10-08 Links are not active. [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
 [^2]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
-[^3]: 2022-10-11 Ralph Hightower contributions of omissions  
+[^3p: 2022-10-12 Ralph Hightower contributions of omissions  
