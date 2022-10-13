@@ -179,6 +179,24 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 [Camera Manuals, Software, Firmware](CanonFirmwareSoftware.md)
 
+### Preferred Photography Retailers 
+
+| Company | Location | About |
+|---------|----------|-------|
+| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
+| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
+
+| About KEH |
+|-----|
+| We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
+| KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
+| In an age that treats every camera like a disposable camera and every photo like an instant photo, we believe in making the best last. Gear that earns the KEH stamp of approval is gear that goes further and reaches higher. Graded by experts. Renewed with care. One-of-a-kind. Sustainable. Exchangeable. |
+| A KEH camera is an instrument of possibility. In your hands, that secondhand camera instantly becomes something new:
+An opportunity. A chance to create and share something extraordinary with the world. |
+| A camera is what you make of it. We can’t wait to see what develops. |
+
+I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. 
+
 ## OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
 
 [GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-Onstar-G2-Sunset/)
