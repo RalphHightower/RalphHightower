@@ -1,4 +1,4 @@
-# Favorite Open Source Projects 
+# Following Open Source Projects 
 
 | Software | Purpose |
 |----------|---------|
