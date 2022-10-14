@@ -19,12 +19,14 @@
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) (GitHub) |
 | [Digikey](https://www.digikey.com/) (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) (GitHub) |
+| [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) (GitHub) |
 | [Garmin International](https://github.com/garmin) (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) (H/W) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (ARM Single Board Computers)](https://www.khadas.com/shop?Collection=All) (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) (H/W) |
+| [openHab — empowering the smart home](https://www.openhab.org/) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) (H/W) |
