@@ -98,4 +98,12 @@
 |GP-E2 INSTRUCTION MANUAL|2020-11-06|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwODU0OTA2&cmp=ABR&lang=EN)|
 |Map Utility Ver.1.5 Instruction Manual|2014-07-24|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwOTg3MDAy&cmp=ABR&lang=EN)|
 
+## Camera Accessories 
+
+| Description | Version | Date | Link |
+|-------------|---------|------|------|
+| PlusTek OpticFilm 8200i Ai film scanner ||| [https://plustek.com/us/products/film-photo-scanners/opticfilm-8200i-ai/support.php](https://plustek.com/us/products/film-photo-scanners/opticfilm-8200i-ai/support.php) |
+| OpticFilm 8200i Ai Installer for Windows | V5.0.2.5 | 2022-09-06 | [Download](https://d3b63i9tvm4mo6.cloudfront.net/downloads/english/driver/OpticFilm_8200i_V5.0.2.5.exe) |
+| Datacolor SpyderX Pro Colorimeter | | | |
+
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
