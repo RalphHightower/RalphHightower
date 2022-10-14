@@ -64,10 +64,10 @@
 | Tidal Creek Brewhouse[^2] | Myrtle Beach ||
 | [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^2] | Charleston ||
-| [Two Blokes Brewing](http://twoblokesbrewing.com/)[^2] | Pleasant ||
+| [Two Blokes Brewing](http://twoblokesbrewing.com/)[^2] | Mount Pleasant ||
 | Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
 | [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^2] | Summerville ||
 
-[^1]: 2022-10-08 Links are not active. [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
+[^1]: [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
 [^2]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
-[^3p: 2022-10-12 Ralph Hightower contributions of omissions  
+[^3]: 2022-10-12 Ralph Hightower contributions of omissions  
