@@ -1,4 +1,4 @@
-# South Carolina Beer Breweries
+# South Carolina Craft Beer Breweries
 
 | Brewery | Location | Year |
 |---------|----------|------|
