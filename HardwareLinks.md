@@ -25,6 +25,7 @@
 | [Hailo AI Accelerator](https://hailo.ai/) (H/W) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) (H/W) |
+| [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) (H/W) |
