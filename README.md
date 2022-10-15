@@ -71,6 +71,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 |----------------------------------|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 
+[Azure Resources](https://ralphhightower.github.io/Azure-Resources/)
+
 [Open Source Projects](FavOpenSourceProjects.md)
 
 # Interests 
