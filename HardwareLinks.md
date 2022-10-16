@@ -43,3 +43,4 @@
 | [Machinechat JEDI: What Can It Do?](https://www.sparkfun.com/news/5469?utm_content=224507427&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1022976) \(SparkFun\) |
 | [Choose a License](https://choosealicense.com/) |
 | [Arm Assembly Programming by Example](https://armasm.com/) |
+| [Neon Programmers Guide](https://usermanual.wiki/Document/DEN0018Aneonprogrammersguide.1958102256) |
