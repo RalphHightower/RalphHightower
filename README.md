@@ -212,7 +212,8 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 | [Wikipedia PIDs](https://en.m.wikipedia.org/wiki/OBD-II_PIDs) |
 | [Wikipedia — On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II?wprov=sfla1) |
 | [OBD II UART Hookup Guide — SparkFun](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide/all) |
-
+| [Chevrolet ODB-II Codes](https://www.troublecodes.net/chevroletcodes/) |
+| [GM ODB-II Codes](https://www.troublecodes.net/gmcodes/) |
 ## Beagles 
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
