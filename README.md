@@ -203,6 +203,13 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 
 [GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-Onstar-G2-Sunset/)
 
+## ODB-II Codes
+
+| ODB-II Codes |
+|--------------|
+| [Wikipedia PIDs](https://en.m.wikipedia.org/wiki/OBD-II_PIDs) |
+| [Wikipedia — On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II?wprov=sfla1) |
+
 ## Beagles 
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
