@@ -93,7 +93,7 @@ One large scale Windows application that I developed using C# and .Net for my pe
 
 ## NASA Spaceflight 
 
-On July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person. I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, got to see Atlantis land for the final time on July 21, 2011. I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
+On [July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person.](https://flic.kr/s/aHsjvNsNvU). I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, [got to see Atlantis land for the final time on July 21, 2011](https://flic.kr/s/aHsjvNti8h). I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
 
 ## Obsolete Computer Collection 
 
