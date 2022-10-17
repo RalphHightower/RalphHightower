@@ -6,6 +6,7 @@
 | [Aiken Brewing Company](http://www.aikenbrewingcompany.com/)[^2] | Aiken ||
 | Amor Artis Brewing[^1] | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^3] | Lexington ||
+| [Benford Brewing](https://benfordbrewing.com/)[^2] | Lancaster ||
 | [Birds Fly South Ale Project](https://bfsbeer.com/)[^1] |	Greenville | 2016 |
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
 | [Brewery 85](http://brewery85.com/)[^1] | Greenville | 2014 |
