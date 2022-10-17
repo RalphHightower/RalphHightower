@@ -10,9 +10,9 @@
 | Lynmax King of the Road | Trucker ||
 | Lynmax Born A Travelin' Man[^1] | Traveler ||
 | Lee's Lady in Red of Holihouse | Lady ||
-| Harnetts Centerfold | Jill ||
 | Lynmax Apache Warrior | Patton ||
 | Lynmax Apache Princess | Princess ||
+| Harnetts Centerfold | Jill ||
 | Lynmax Wherefore Bark Thou | Romeo ||
 | Lynmax Heart and Soul | Sweetheart | |
 | Lynmax Athena | Athena | 2009-01-14 | 2020-11-30 |
