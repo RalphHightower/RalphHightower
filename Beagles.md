@@ -3,8 +3,8 @@
 | Registered Name | Call Name | Birth | Death |
 |-----------------|-----------|-------|-------|
 || Sport ||
-| Road Runner of Raintree CD | Runner ||
-| Lone Ranger of Raintree CD | Ranger ||
+| Road Runner of Raintree CD | Runner | 1981-11-20 |
+| Lone Ranger of Raintree CD | Ranger | 1981-11-20 |
 | Ch. Harnetts Playwright CD | Writer ||
 | Ch. Sureluvs Little Rebecca CD | Becky ||
 | Lynmax King of the Road | Trucker ||
