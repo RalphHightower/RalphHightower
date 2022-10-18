@@ -71,6 +71,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 |----------------------------------|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 | [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
+| [https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github](https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github) |
 
 [Open Source Projects](FavOpenSourceProjects.md)
 
