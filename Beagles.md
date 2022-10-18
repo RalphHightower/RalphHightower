@@ -13,8 +13,8 @@
 | Lynmax Apache Warrior | Patton ||
 | Lynmax Apache Princess | Princess ||
 | Harnetts Centerfold | Jill ||
-| Lynmax Wherefore Bark Thou | Romeo ||
-| Lynmax Heart and Soul | Sweetheart | |
+| Lynmax Wherefore Bark Thou | Romeo | 2001-12-10 |
+| Lynmax Heart and Soul | Sweetheart | 2001-12-10 | 2016-01-29 |
 | Lynmax Athena | Athena | 2009-01-14 | 2020-11-30 |
 | Lynmax Zeus | Zeus | 2009-01-14 | 2020-10-27 |
 | Encore River of Dreams at Lynmax | River | 2016-07-05 ||
