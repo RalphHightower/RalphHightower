@@ -44,7 +44,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 |------------------------|---------|
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) | YAML |
 | [The Official YAML Website](https://yaml.org/) | YAML |
-| [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) |
+| [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
 | [Crontab Guru](https://crontab.guru/) | Schedule |
@@ -70,6 +70,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 |----------------------------------|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
+| [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
 
 [Open Source Projects](FavOpenSourceProjects.md)
 
