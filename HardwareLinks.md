@@ -24,6 +24,7 @@
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) (H/W) |
 | [Intel Corporation](https://github.com/intel) | 
+| [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) (H/W) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) (H/W) |
