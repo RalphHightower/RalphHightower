@@ -12,9 +12,11 @@
 | [AAEON M2AI-2280-520AI Edge Computing Module with Kneron KL520 NP](https://www.aaeon.com/en/p/ai-modules-m2ai-2280-520) (H/W) |
 | [AAEON M2AI-2242-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2242-720) (H/W) |
 | [AAEON M2AI-2280-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2280-720) (H/W) |
+| [Allwinner H616 TV Box Processor Comes with Mali G31 GPU, Supports Android 10](https://www.cnx-software.com/2020/02/27/allwinner-h616-tv-box-processor-comes-with-mali-g31-gpu-supports-android-10/) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) (GitHub) |
 | [Arm Software](https://github.com/ARM-software) (GitHub) |
+| [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) (GitHub) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) (GitHub) |
 | [Digikey](https://www.digikey.com/) (H/W) |
