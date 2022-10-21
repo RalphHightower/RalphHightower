@@ -42,8 +42,13 @@
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) (H/W) |
 
+| Patch Bulletins |
+|-----------------|
+| [Google Android](https://source.android.com/docs/security/bulletin) |
+| [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
+
 | Articles |
-|--|
+|----------|
 | [Machinechat JEDI: What Can It Do?](https://www.sparkfun.com/news/5469?utm_content=224507427&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1022976) \(SparkFun\) |
 | [Choose a License](https://choosealicense.com/) |
 | [Arm Assembly Programming by Example](https://armasm.com/) |
