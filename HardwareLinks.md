@@ -53,3 +53,5 @@
 | [Choose a License](https://choosealicense.com/) |
 | [Arm Assembly Programming by Example](https://armasm.com/) |
 | [Neon Programmers Guide](https://usermanual.wiki/Document/DEN0018Aneonprogrammersguide.1958102256) |
+| [Hack A Day](https://hackaday.com/) |
+| [The Museum of HP Calculators](https://www.hpmuseum.org/) |
