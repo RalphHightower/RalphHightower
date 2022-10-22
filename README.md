@@ -42,6 +42,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | References | Purpose |
 |------------------------|---------|
+| [GitHub Actions](https://github.com/marketplace?type=actions) | GitHub |
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) | YAML |
 | [The Official YAML Website](https://yaml.org/) | YAML |
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
