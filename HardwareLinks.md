@@ -42,6 +42,10 @@
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) (H/W) |
 
+| Projects |
+|----------|
+[Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
+
 | Patch Bulletins |
 |-----------------|
 | [Google Android](https://source.android.com/docs/security/bulletin) |
