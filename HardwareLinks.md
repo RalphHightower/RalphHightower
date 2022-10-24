@@ -29,6 +29,7 @@
 | [Intel Corporation](https://github.com/intel) | 
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) (H/W) |
+| [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) (H/W: $599) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) |
@@ -57,5 +58,8 @@
 | [Choose a License](https://choosealicense.com/) |
 | [Arm Assembly Programming by Example](https://armasm.com/) |
 | [Neon Programmers Guide](https://usermanual.wiki/Document/DEN0018Aneonprogrammersguide.1958102256) |
+| [Microsoft’s “Project Volterra” becomes an Arm-powered mini PC with 32GB of RAM](https://arstechnica.com/gadgets/2022/10/microsofts-snapdragon-powered-mini-pc-for-devs-includes-32gb-of-ram-costs-599/) |
+| [Available today: Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/) |
 | [Hack A Day](https://hackaday.com/) |
 | [The Museum of HP Calculators](https://www.hpmuseum.org/) |
+| [Mini Pupper 2 – Raspberry Pi 4 / CM4 robot dog adds ESP32, ROS2 support, servo feedback (Crowdfunding)](https://www.cnx-software.com/2022/10/19/mini-pupper-2-raspberry-pi-4-cm4-robot-dog-esp32-ros2-servo-feedback/) |
