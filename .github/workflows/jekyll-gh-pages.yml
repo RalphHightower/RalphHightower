@@ -31,7 +31,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2.1.1
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v4.3.0
+        uses: actions/jekyll-build-pages@latest
         with:
           source: ./
           destination: ./_site
