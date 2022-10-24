@@ -217,7 +217,7 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 
 ## OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
 
-[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-Onstar-2G-Sunset/)
+[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
 ## ODB-II Codes
 
