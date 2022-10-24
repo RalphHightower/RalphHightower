@@ -54,6 +54,7 @@
 
 | Articles |
 |----------|
+| [$199+ NVIDIA Jetson Orin Nano system-on-module delivers up to 40 TOPS](https://www.cnx-software.com/2022/09/21/199-nvidia-jetson-orin-nano-system-on-module-delivers-up-to-40-tops/) |
 | [Machinechat JEDI: What Can It Do?](https://www.sparkfun.com/news/5469?utm_content=224507427&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1022976) \(SparkFun\) |
 | [Choose a License](https://choosealicense.com/) |
 | [Arm Assembly Programming by Example](https://armasm.com/) |
