@@ -10,8 +10,8 @@
 | Colin Baker | Sixth Doctor | Peri Brown, Mel Bush | 1984–1986 |
 | Sylvester McCoy | Seventh Doctor | Mel Bush, Ace | 1987–1989 |
 | Paul McGann | Eighth Doctor | Grace Holloway | 1996 | 
-| Christopher Eccleston | Ninth Doctor || 2005 |
-| David Tennant | Tenth Doctor || 2005–2010 | 
+| Christopher Eccleston | Ninth Doctor | Rose Tyler, Adam Mitchell, Captain Jack Harkness | 2005 |
+| David Tennant | Tenth Doctor | Rose Tyler, Mickey Smith, Donna Noble, Martha Jones, Captain Jack Harkness, Astrid Peth, Sarah Jane Smith, Jackson Lake, Rosita Farisi, Lady Christina de Souza, Adelaide Brooke, Wilfred Mott | 2005–2010 | 
 | Matt Smith | Eleventh Doctor || 2010–2013 | 
 | Peter Capaldi | Twelfth Doctor || 2014–2017 |
 | Jodie Whittaker | Thirteenth Doctor || 2018–2022 |
