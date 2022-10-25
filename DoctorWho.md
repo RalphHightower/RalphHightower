@@ -7,7 +7,7 @@
 | Jon Pertwee | Third Doctor | Liz Shaw, Jo Grant, Sarah Jane Smith, Brigadier Lethbridge-Stewart, Sergeant John Benton, Captain Mike Yates | 1970–1974 |
 | Tom Baker | Fourth Doctor | Sarah Jane Smith, Harry Sullivan, Leela, K9, Romana I, Romana II, Adric, Nyssa, Tegan Jovanka | 1974–1981 | 
 | Peter Davison | Fifth Doctor | Adric, Nyssa, Tegan Jovanka, Vislor Turlough, Kamelion, Peri Brown | 1982–1984 |
-| Colin Baker | Sixth Doctor || 1984–1986 |
+| Colin Baker | Sixth Doctor | Peri Brown, Mel Bush | 1984–1986 |
 | Sylvester McCoy | Seventh Doctor || 1987–1989 |
 | Paul McGann | Eighth Doctor || 1996 | 
 | Christopher Eccleston | Ninth Doctor || 2005 |
