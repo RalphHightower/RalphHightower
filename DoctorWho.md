@@ -13,7 +13,7 @@
 | Christopher Eccleston | Ninth Doctor | Rose Tyler, Adam Mitchell, Captain Jack Harkness | 2005 |
 | David Tennant | Tenth Doctor | Rose Tyler, Mickey Smith, Donna Noble, Martha Jones, Captain Jack Harkness, Astrid Peth, Sarah Jane Smith, Jackson Lake, Rosita Farisi, Lady Christina de Souza, Adelaide Brooke, Wilfred Mott | 2005–2010 | 
 | Matt Smith | Eleventh Doctor | Amy Pond, Rory Williams, River Song, Craig Owens, Clara Oswald | 2010–2013 | 
-| Peter Capaldi | Twelfth Doctor || 2014–2017 |
+| Peter Capaldi | Twelfth Doctor | Clara Oswald, River Song, Nardole, Bill Potts | 2014–2017 |
 | Jodie Whittaker | Thirteenth Doctor || 2018–2022 |
 | David Tennant | Fourteenth Doctor || 2022—present |
 | Ncuti Gatwa | Fifteenth Doctor || ??? |
