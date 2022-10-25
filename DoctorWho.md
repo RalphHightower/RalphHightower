@@ -3,7 +3,7 @@
 | Series lead | Incarnation | Companions | Tenure |
 |-------------|-------------|------------|--------|
 | William Hartnell | First Doctor | Susan Foreman, Barbara Wright, Ian Chesterton, Vicki, Steven Taylor, Katarina, Sara Kingdom, Dodo Chaplet, Polly, Ben Jackson | 1963–1966 |
-| Patrick Troughton | Second Doctor || 1966–1969 |
+| Patrick Troughton | Second Doctor |Polly, Ben Jackson, Jamie McCrimmon, Victoria Waterfield,  Zoe Heriot,  Brigadier Lethbridge-Stewart | 1966–1969 |
 | Jon Pertwee | Third Doctor || 1970–1974 |
 | Tom Baker | Fourth Doctor || 1974–1981 | 
 | Peter Davison | Fifth Doctor || 1982–1984 |
