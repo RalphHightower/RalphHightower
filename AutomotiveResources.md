@@ -1,5 +1,11 @@
 # Automotive Resources
 
+## Car/SUV/Truck Reviews, Resources 
+
+| Company | About |
+|---------|-------|
+| [Edmunds](https://www.edmunds.com/) | With over 50 years of experience, Edmunds is the trusted guide in car shopping. Our website has in-depth video reviews, new and used listings, free appraisals, and calculators that verify a good price. Shoppers count on us at every step of their journey. |
+
 ## Owners Manuals 
 
 | Year | Manufacturer | Model |
