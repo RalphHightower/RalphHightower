@@ -5,6 +5,8 @@
 | Company | About |
 |---------|-------|
 | [Edmunds](https://www.edmunds.com/) | With over 50 years of experience, Edmunds is the trusted guide in car shopping. Our website has in-depth video reviews, new and used listings, free appraisals, and calculators that verify a good price. Shoppers count on us at every step of their journey. |
+| [Autotrader](https://www.autotrader.com/about/index) | Used cars for sale |
+| [Hemmings](https://www.hemmings.com/) | Classic cars and parts for sale |
 
 ## Owners Manuals 
 
