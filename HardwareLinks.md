@@ -65,3 +65,4 @@
 | [Hack A Day](https://hackaday.com/) |
 | [The Museum of HP Calculators](https://www.hpmuseum.org/) |
 | [Mini Pupper 2 – Raspberry Pi 4 / CM4 robot dog adds ESP32, ROS2 support, servo feedback (Crowdfunding)](https://www.cnx-software.com/2022/10/19/mini-pupper-2-raspberry-pi-4-cm4-robot-dog-esp32-ros2-servo-feedback/) |
+| [Build a Passive Radar With Software-Defined RadioSpot](https://spectrum.ieee.org/passive-radar-with-sdr) |
