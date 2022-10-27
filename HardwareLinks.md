@@ -42,7 +42,7 @@
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
-| [Seed Studio](https://www.seeedstudio.com/) | H/W |
+| [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | H/W |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 
