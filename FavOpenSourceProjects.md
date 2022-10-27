@@ -5,6 +5,7 @@
 | Software | Purpose |
 |----------|---------|
 | [Apache](https://www.apache.org/) | Web Server |
+| [Apache Kafka](https://kafka.apache.org/) | Streaming |
 | [Open LDAP](https://www.openldap.org/) | Lightweight Directory Access |
 | [Open SSL](https://www.openssl.org) | Secure Sockets Layer |
 | [Perl](https://www.perl.org/) | Programming Language |
