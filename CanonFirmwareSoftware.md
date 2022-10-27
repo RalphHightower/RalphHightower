@@ -110,4 +110,17 @@
 | OpticFilm 8200i Ai Installer for Windows | V5.0.2.5 | 2022-09-06 | [Download](https://d3b63i9tvm4mo6.cloudfront.net/downloads/english/driver/OpticFilm_8200i_V5.0.2.5.exe) |
 | Datacolor SpyderX Pro Colorimeter | | | |
 
+### Canon Developer Community 
+
+| Description | Version | Date | Updates |
+|-------------|---------|------|---------|
+| EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ○ Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[High frame rate setting\] <br>○Got to control Mode Dial Setting by EOS R6[^3].<br>○ Information for the following functionality has been added to EDSDK reference.<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>○ Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
+| CCAPI | v1.1.0 Rev 19 | 2022-07-25 | New Features. Updated CCAPI Sample for Android |
+| CCAPI Reference Guide | v1.1.0 Rev. 1.8 | 2022-06-23 | Added Support for EOS R7, EOS R10. Various Fixes
+| CCAPI Sample for Android | v1.1.0G | 2022-06-23 | Added Support for EOS R7, EOS R10 |
+| CRMSDK | v2.7 R1 | 2022-03-04 | Added features and camera support |
+
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
+[^2]: supported Firmware Version is after Version.1.6.0)
+[^3]: supported Firmware Version is after Version.1.6.0)
+[^4]: supported Firmware Version is after Version.1.2.0)
