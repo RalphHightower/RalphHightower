@@ -20,6 +20,7 @@
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | H/W |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
+| [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
@@ -67,3 +68,4 @@
 | [The Museum of HP Calculators](https://www.hpmuseum.org/) |
 | [Mini Pupper 2 – Raspberry Pi 4 / CM4 robot dog adds ESP32, ROS2 support, servo feedback (Crowdfunding)](https://www.cnx-software.com/2022/10/19/mini-pupper-2-raspberry-pi-4-cm4-robot-dog-esp32-ros2-servo-feedback/) |
 | [Build a Passive Radar With Software-Defined RadioSpot](https://spectrum.ieee.org/passive-radar-with-sdr) |
+| [uConsole is a modular Arm or RISC-V handheld computer with optional 4G connectivity](https://www.cnx-software.com/2022/10/26/uconsole-modular-arm-or-risc-v-handheld-computer-4g-connectivity/) |
