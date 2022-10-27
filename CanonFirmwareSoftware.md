@@ -114,8 +114,8 @@
 
 | Description | Version | Date | Updates |
 |-------------|---------|------|---------|
-| EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ○ Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[High frame rate setting\] <br>○Got to control Mode Dial Setting by EOS R6[^3].<br>○ Information for the following functionality has been added to EDSDK reference.<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>○ Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
-| CCAPI | v1.1.0 Rev 19 | 2022-07-25 | New Features. Updated CCAPI Sample for Android |
+| EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[High frame rate setting\] <br>● Got to control Mode Dial Setting by EOS R6[^3].<br>● Information for the following functionality has been added to EDSDK reference:<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>● Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
+| CCAPI | v1.1.0 Rev 1.9 | 2022-07-25 | New Features.<br>● Updated CCAPI Sample for Android<br>● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\]  (supported, for EOS R5[^2]/R6[^3]<br>• Enable to control \[Focus bracketing\]  (supported, for EOS R5[^2]/R6[^3]/R3[^4])<br>• Enable to control \[High frame rate setting\]  (supported, for R5[^2]/R6[^3])<br>● Got to control Mode Dial Setting by EOS R6[^2].<br>● RTP (Real-time Transport Protocol) got to be available on EOS R3[^4].<br>● Updated Android Sample
 | CCAPI Reference Guide | v1.1.0 Rev. 1.8 | 2022-06-23 | Added Support for EOS R7, EOS R10. Various Fixes
 | CCAPI Sample for Android | v1.1.0G | 2022-06-23 | Added Support for EOS R7, EOS R10 |
 | CRMSDK | v2.7 R1 | 2022-03-04 | Added features and camera support |
