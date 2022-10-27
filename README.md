@@ -48,6 +48,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Configuration options for the dependabot.yml file](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file) | GitHub Vulnerability Scanning |
 | [Open Source Security Foundation](https://bestpractices.coreinfrastructure.org/en) | Security Practices |
 | [Semantic Versioning 2.0.0](https://semver.org/) | Versioning |
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) | YAML |
 | [The Official YAML Website](https://yaml.org/) | YAML |
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
