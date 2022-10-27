@@ -116,9 +116,11 @@
 |-------------|---------|------|---------|
 | EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[High frame rate setting\] <br>● Got to control Mode Dial Setting by EOS R6[^3].<br>● Information for the following functionality has been added to EDSDK reference:<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>● Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
 | CCAPI | v1.1.0 Rev 1.9 | 2022-07-25 | New Features.<br>● Updated CCAPI Sample for Android<br>● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\]  (supported, for EOS R5[^2]/R6[^3]<br>• Enable to control \[Focus bracketing\]  (supported, for EOS R5[^2]/R6[^3]/R3[^4])<br>• Enable to control \[High frame rate setting\]  (supported, for R5[^2]/R6[^3])<br>● Got to control Mode Dial Setting by EOS R6[^2].<br>● RTP (Real-time Transport Protocol) got to be available on EOS R3[^4].<br>● Updated Android Sample
-| CCAPI Reference Guide | v1.1.0 Rev. 1.8 | 2022-06-23 | Added Support for EOS R7, EOS R10. Various Fixes
-| CCAPI Sample for Android | v1.1.0G | 2022-06-23 | Added Support for EOS R7, EOS R10 |
 | CRMSDK | v2.7 R1 | 2022-03-04 | Added features and camera support |
+| CCAPI Reference Guide | v1.1.0 Rev. 1.9 | 2022-07-25 | Added new features for EOS R5/R6 |
+| CCAPI Sample for Android | v1.1.0H | 2022-07-25 | Added new feature |
+| CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras
+| CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements
 
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
 [^2]: supported Firmware Version is after Version.1.6.0)
