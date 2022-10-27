@@ -110,7 +110,7 @@
 | OpticFilm 8200i Ai Installer for Windows | V5.0.2.5 | 2022-09-06 | [Download](https://d3b63i9tvm4mo6.cloudfront.net/downloads/english/driver/OpticFilm_8200i_V5.0.2.5.exe) |
 | Datacolor SpyderX Pro Colorimeter | | | |
 
-### Canon Developer Community 
+## [Canon Developer Community](https://developercommunity.usa.canon.com/)
 
 | Description | Version | Date | Updates |
 |-------------|---------|------|---------|
