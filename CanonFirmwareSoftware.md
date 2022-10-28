@@ -130,7 +130,7 @@
 | [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^6]  |
 | [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^7] |
 
-| About KEH[^5] |
+| [About KEH](https://www.keh.com)[^5] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
 | KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
@@ -139,7 +139,17 @@
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
-| About Lensrentals.com[^7] |
+| [About B&H Photo/Video](https://www.bhphotovideo.com)[^6] |
+|-----------------------|
+| Get to know the people who know your gear best.
+| B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
+| We hire and extensively train our product specialists so that each one can speak from a place of confidence and expertise... which means when you need answers, we're ready with solutions, tailored to you. |
+| We believe in making customers, not sales. That's why we've perfected the "art of the downsell": we'll always recommend the best options based on your specific needs, rather than the price tag. The customer comes first, second and third at B&H. |
+| With nearly half a million items in stock, every day, our selection is legendary and that's made us a trusted resource for photographers, musicians and creative professionals around the world for decades. Choose from 11+ football fields' worth of leading-edge technology plus hard-to-find rarities. You might even find a bona fide electronics collectible in our Used Department! |
+| The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
+| Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
+
+| [About Lensrentals.com](https://www.lensrentals.com)[^7] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
