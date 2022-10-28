@@ -119,8 +119,8 @@
 | CRMSDK | v2.7 R1 | 2022-03-04 | Added features and camera support |
 | CCAPI Reference Guide | v1.1.0 Rev. 1.9 | 2022-07-25 | Added new features for EOS R5/R6 |
 | CCAPI Sample for Android | v1.1.0H | 2022-07-25 | Added new feature |
-| CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras
-| CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements
+| CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras |
+| CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements |
 
 [^1]: Link to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us]([)](https://www.butkus.org/chinon/)). Camera Manual Library 1997 - 2022
 [^2]: supported Firmware Version is after Version.1.6.0)
