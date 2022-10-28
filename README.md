@@ -319,3 +319,6 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 [![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react&days=365)](https://github.com/RalphHightower/github-readme-activity-graph)
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
+[^2]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^3]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^4]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
