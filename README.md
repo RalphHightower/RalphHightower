@@ -257,7 +257,7 @@ with the CD obedience titles.
 
 We have bred and raised a few litters.
 
-[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/past-issues)
+[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
 
 ## Craft Beers in South Carolina 
 
