@@ -5,6 +5,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|
 | [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
 
 | Content | Website |
