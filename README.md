@@ -257,6 +257,8 @@ with the CD obedience titles.
 
 We have bred and raised a few litters.
 
+[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/past-issues)
+
 ## Craft Beers in South Carolina 
 
 South Carolina has a number of craft beer breweries.. Below is a list of the current active breweries. I have a few favorites:
