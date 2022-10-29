@@ -1,6 +1,11 @@
 Hi, I’m @RalphHightower. <br>
 
-I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway). <br><br>
+I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
+
+| [USC — University of South Carolina](https://www.sc.edu) |
+|---|
+| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Gamecock Sports](https://gamecocksonline.com/) |
 
 | Content | Website |
 |---------|---------|
@@ -329,6 +334,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
 [![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react&days=365)](https://github.com/RalphHightower/github-readme-activity-graph)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5)
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
 [^2]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
