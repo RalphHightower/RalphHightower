@@ -76,3 +76,4 @@
 | [Mini Pupper 2 – Raspberry Pi 4 / CM4 robot dog adds ESP32, ROS2 support, servo feedback (Crowdfunding)](https://www.cnx-software.com/2022/10/19/mini-pupper-2-raspberry-pi-4-cm4-robot-dog-esp32-ros2-servo-feedback/) |
 | [Build a Passive Radar With Software-Defined RadioSpot](https://spectrum.ieee.org/passive-radar-with-sdr) |
 | [uConsole is a modular Arm or RISC-V handheld computer with optional 4G connectivity](https://www.cnx-software.com/2022/10/26/uconsole-modular-arm-or-risc-v-handheld-computer-4g-connectivity/) |
+| [PI-BASED SPECTROMETER GETS AN UPGRADE](https://hackaday.com/2022/10/29/pi-based-spectrometer-gets-an-upgrade/) |
