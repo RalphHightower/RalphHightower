@@ -294,19 +294,19 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
-| International Space Station Sightings, Sun, Moon, Night Sky, Weather |
-|------|
-| [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) |
-| [Sun & Moon Today —  Columbia, South Carolina, USA](https://www.timeanddate.com/astronomy/usa/columbia) |
-| [Sunrise & Sunset — Columbia, South Carolina, USA](https://www.timeanddate.com/sun/usa/columbia) |
-| [Moonrise & Moonset — Columbia, South Carolina, USA](https://www.timeanddate.com/moon/usa/columbia) |
-| [Moon Phases — Columbia, South Carolina, USA](https://www.timeanddate.com/moon/phases/usa/columbia) |
-| [Eclipses — Columbia, South Carolina, USA](https://www.timeanddate.com/eclipse/in/usa/columbia) |
-| [Night Sky — Columbia, South Carolina, USA](https://www.timeanddate.com/astronomy/night/usa/columbia) |
-| [Weather Today — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia) |
-| [Weather Hourly — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/hourly) |
-| [14 Day Forecast — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/ext) |
-| [Climate (Averages) — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/climate) |
+| International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
+|------|--------|
+| [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
+| [Sun & Moon Today](https://www.timeanddate.com/astronomy/usa/columbia) | Columbia, South Carolina, USA |
+| [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
+| [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
+| [Moon Phases](https://www.timeanddate.com/moon/phases/usa/columbia) | Columbia, South Carolina, USA |
+| [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
+| [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
+| [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
+| [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
+| [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
+| [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
 
 ## Dewar's Profile
 
