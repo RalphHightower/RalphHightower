@@ -293,6 +293,20 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
 
+| International Space Station Sightings, Sun, Moon, Night Sky, Weather |
+|------|
+| [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) |
+| [Sun & Moon Today —  Columbia, South Carolina, USA](https://www.timeanddate.com/astronomy/usa/columbia) |
+| [Sunrise & Sunset — Columbia, South Carolina, USA](https://www.timeanddate.com/sun/usa/columbia) |
+| [Moonrise & Moonset — Columbia, South Carolina, USA](https://www.timeanddate.com/moon/usa/columbia) |
+| [Moon Phases — Columbia, South Carolina, USA](https://www.timeanddate.com/moon/phases/usa/columbia) |
+| [Eclipses — Columbia, South Carolina, USA](https://www.timeanddate.com/eclipse/in/usa/columbia) |
+| [Night Sky — Columbia, South Carolina, USA](https://www.timeanddate.com/astronomy/night/usa/columbia) |
+| [Weather Today — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia) |
+| [Weather Hourly — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/hourly) |
+| [14 Day Forecast — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/ext) |
+| [Climate (Averages) — Columbia, South Carolina, USA](https://www.timeanddate.com/weather/usa/columbia/climate) |
+
 ## Dewar's Profile
 
 RALPH HIGHTOWER <br>
