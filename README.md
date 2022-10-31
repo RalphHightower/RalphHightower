@@ -60,6 +60,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
 | [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)| GitHub Markdown  |
 | [Jekyll Documentation](https://jekyllrb.com/docs/) | GitHub Markdown |
+| [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Jekyll add-on |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
 | [Pandoc](https://pandoc.org/) | Document Conversion |
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
@@ -68,8 +69,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | Goverments and Companies GitHub Repositories |
 |---------------------|
-| [Governments on GitHub](https://government.github.com/community/) |l
-| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino)|
+| [Governments on GitHub](https://government.github.com/community/) |⁷
+| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 | [Garmin International](https://github.com/garmin) |
