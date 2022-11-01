@@ -81,3 +81,4 @@
 | [RISC-V: The Instruction-Set Alternative](https://www.electronicdesign.com/magazine/50430) |
 | [How RISC-V Fosters Silicon Innovation](https://www.electronicdesign.com/technologies/embedded-revolution/article/21250526/sifive-how-riscv-fosters-silicon-innovation) |
 | [The Automotive Space Gears Up to Take on RISC-V](https://www.electronicdesign.com/markets/automotive/article/21251465/electronic-design-the-automotive-space-gears-up-to-take-on-riscv) |
+| [Microsoft is selling a $600 mini PC with Snapdragon 8cx Gen 3, 32GB RAM and 512GB storage](https://liliputing.com/microsoft-is-selling-a-600-mini-pc-with-snapdragon-8cx-gen-3-32gb-ram-and-512gb-storage/) |
