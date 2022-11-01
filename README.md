@@ -61,6 +61,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)| GitHub Markdown  |
 | [Jekyll Documentation](https://jekyllrb.com/docs/) | GitHub Markdown |
 | [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Jekyll add-on |
+| [Liquid reference](https://shopify.dev/api/liquid) |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
 | [Pandoc](https://pandoc.org/) | Document Conversion |
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
