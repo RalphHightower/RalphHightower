@@ -351,7 +351,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
-Updated on {{ page.date | date: "%B %e, %Y" }}
+Updated on {{ page.date | date: "%Y-%m-%d %I:%M:%S.%L %p %Z" }}
 
 [![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react&days=365)](https://github.com/RalphHightower/github-readme-activity-graph)
 
