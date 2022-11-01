@@ -77,3 +77,7 @@
 | [Build a Passive Radar With Software-Defined RadioSpot](https://spectrum.ieee.org/passive-radar-with-sdr) |
 | [uConsole is a modular Arm or RISC-V handheld computer with optional 4G connectivity](https://www.cnx-software.com/2022/10/26/uconsole-modular-arm-or-risc-v-handheld-computer-4g-connectivity/) |
 | [PI-BASED SPECTROMETER GETS AN UPGRADE](https://hackaday.com/2022/10/29/pi-based-spectrometer-gets-an-upgrade/) |
+| [RISC-V Serves Up Open-Source Possibilities for the Future](https://www.electronicdesign.com/technologies/embedded-revolution/article/21246374/electronic-design-riscv-serves-up-opensource-possibilities-for-the-future) |
+| [RISC-V: The Instruction-Set Alternative](https://www.electronicdesign.com/magazine/50430) |
+| [How RISC-V Fosters Silicon Innovation](https://www.electronicdesign.com/technologies/embedded-revolution/article/21250526/sifive-how-riscv-fosters-silicon-innovation) |
+| [The Automotive Space Gears Up to Take on RISC-V](https://www.electronicdesign.com/markets/automotive/article/21251465/electronic-design-the-automotive-space-gears-up-to-take-on-riscv) |
