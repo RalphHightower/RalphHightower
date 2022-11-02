@@ -62,9 +62,9 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
-  - jekyll-last-modified-at
+ - "jekyll-feed"
+ - "jekyll-seo-tag"
+ - "jekyll-last-modified-at"
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
