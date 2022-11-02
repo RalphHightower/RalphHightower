@@ -9,7 +9,7 @@
 | Davison, Peter | Fifth Doctor | Adric, Nyssa, Tegan Jovanka, Vislor Turlough, Kamelion, Peri Brown | 1982–1984 |
 | Baker, Colin | Sixth Doctor | Peri Brown, Mel Bush | 1984–1986 |
 | McCoy, Sylvester | Seventh Doctor | Mel Bush, Ace | 1987–1989 |
-| McGann, McGann | Eighth Doctor | Grace Holloway | 1996 | 
+| McGann, Paul | Eighth Doctor | Grace Holloway | 1996 | 
 | Eccleston, Christopher | Ninth Doctor | Rose Tyler, Adam Mitchell, Captain Jack Harkness | 2005 |
 | Tennant, David | Tenth Doctor | Rose Tyler, Mickey Smith, Donna Noble, Martha Jones, Captain Jack Harkness, Astrid Peth, Sarah Jane Smith, Jackson Lake, Rosita Farisi, Lady Christina de Souza, Adelaide Brooke, Wilfred Mott | 2005–2010 | 
 | Smith, Matt | Eleventh Doctor | Amy Pond, Rory Williams, River Song, Craig Owens, Clara Oswald | 2010–2013 | 
