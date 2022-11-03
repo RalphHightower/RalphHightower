@@ -306,6 +306,7 @@ Bodies of Water That I Have Skiied:
 | [Moon Phases](https://www.timeanddate.com/moon/phases/usa/columbia) | Columbia, South Carolina, USA |
 | [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
 | [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
+| [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
 | [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
