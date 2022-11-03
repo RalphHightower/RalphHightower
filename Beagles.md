@@ -21,6 +21,9 @@
 | Encore River of Dreams at Lynmax | River | 2016-07-05 ||
 | GCH CH Ornre One’s Don’t Mess With Texas BCAT | Austin | 2011-10-26 ||
 
-[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
+- [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
+- [National Beagle Club of America National Specialty](https://nbcspecialty.com/)
+- [National Beagle Club of America](https://www.nationalbeagleclub.org/)
+- [American Kennel Club](https://www.akc.org/)
 
 [^1]: I was mistaken about the Allman Brothers Song "Born a Rambling Man"
