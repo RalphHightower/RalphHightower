@@ -88,4 +88,4 @@
 | [Microsoft is selling a $600 mini PC with Snapdragon 8cx Gen 3, 32GB RAM and 512GB storage](https://liliputing.com/microsoft-is-selling-a-600-mini-pc-with-snapdragon-8cx-gen-3-32gb-ram-and-512gb-storage/) |
 | [RISC-V Assemly Language Programming](https://github.com/johnwinans/rvalp) |
 
-{% page.last_modified_at %}
+{% last_modified_at %}
