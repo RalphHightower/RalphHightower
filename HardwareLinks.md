@@ -18,7 +18,9 @@
 | [AmbaSat— Space Satellite Kits](https://ambasat.com/)| H/W |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
+| [ARM](https://www.arm.com/) | (H/W) |
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
+| [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
@@ -87,3 +89,6 @@
 | [The Automotive Space Gears Up to Take on RISC-V](https://www.electronicdesign.com/markets/automotive/article/21251465/electronic-design-the-automotive-space-gears-up-to-take-on-riscv) |
 | [Microsoft is selling a $600 mini PC with Snapdragon 8cx Gen 3, 32GB RAM and 512GB storage](https://liliputing.com/microsoft-is-selling-a-600-mini-pc-with-snapdragon-8cx-gen-3-32gb-ram-and-512gb-storage/) |
 | [RISC-V Assemly Language Programming](https://github.com/johnwinans/rvalp) |
+| [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) |
+| [Integrating Arm Virtual Hardware with the TensorFlow Lite Micro Continuous Integration Infrastructure](https://blog.tensorflow.org/2022/10/integrating-arm-virtual-hardware-with-tensorflow-lite-micro-continuous-integration-infrastructure.html) |
+| [Getting started with Arm Virtual Hardware](https://github.com/ARM-software/AVH-GetStarted) |
