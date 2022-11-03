@@ -356,6 +356,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [![Ralph Hightower's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=react&days=365)](https://github.com/RalphHightower/github-readme-activity-graph)
 
+![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5)
