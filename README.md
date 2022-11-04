@@ -70,7 +70,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | Goverments and Companies GitHub Repositories |
 |---------------------|
-| [Governments on GitHub](https://government.github.com/community/) |⁷
+| [Governments on GitHub](https://government.github.com/community/) |
+| [Adobe, Inc. — Open source from Adobe](https://github.com/adobe) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
