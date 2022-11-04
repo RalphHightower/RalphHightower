@@ -306,6 +306,7 @@ Bodies of Water That I Have Skiied:
 | [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
 | [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
 | [Moon Phases](https://www.timeanddate.com/moon/phases/usa/columbia) | Columbia, South Carolina, USA |
+| [Solstices & Equinoxes](https://www.timeanddate.com/calendar/seasons.html?n=66) | Columbia, South Carolina, USA |
 | [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
 | [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
 | [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
