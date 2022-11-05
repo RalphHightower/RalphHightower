@@ -16,4 +16,6 @@
 | Capaldi, Peter | Twelfth Doctor | Clara Oswald, River Song, Nardole, Bill Potts | 2014–2017 |
 | Whittaker, Jodie | Thirteenth Doctor | Graham O'Brien, Ryan Sinclair, Yasmin Khan, Captain Jack Harkness, Dan Lewis, Tegan Jovanka, Ace | 2018–2022 |
 | Tennant, David | Fourteenth Doctor | Donna Noble | 2022—2023 |
-| Gatwa, Ncuti | Fifteenth Doctor || 2023— |
+| Gatwa, Ncuti | Fifteenth Doctor || 2024[^1]— |
+
+[^1]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
