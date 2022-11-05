@@ -1,5 +1,7 @@
 # Automotive Resources
 
+
+
 ## Car/SUV/Truck Reviews, Resources 
 
 | Company | About |
@@ -8,6 +10,10 @@
 | [Autotrader](https://www.autotrader.com/about/index) | Used cars for sale |
 | [Hemmings](https://www.hemmings.com/) | Classic cars and parts for sale |
 | [Chevrolet](https://www.chevrolet.com/) | Manufacturer |
+
+## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
+
+[Canada sunseted cellular 2G CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. Documents retrieved from NHTSA (US) https://nhtsa.gov.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
 ## Owners Manuals 
 
