@@ -92,3 +92,6 @@
 | [GitHub partners with Arm to revolutionize Internet of Things software development with GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) |
 | [Integrating Arm Virtual Hardware with the TensorFlow Lite Micro Continuous Integration Infrastructure](https://blog.tensorflow.org/2022/10/integrating-arm-virtual-hardware-with-tensorflow-lite-micro-continuous-integration-infrastructure.html) |
 | [Getting started with Arm Virtual Hardware](https://github.com/ARM-software/AVH-GetStarted) |
+| [RISC-V Bases and Extensions Explained](https://www.cnx-software.com/2019/08/27/risc-v-bases-and-extensions-explained/) |
+| [Andes unveils AndesCore AX65 Out-of-Order RISC-V core for compute intensive applications](https://www.cnx-software.com/2022/11/03/andes-andescore-ax60-out-of-order-risc-v-core-for-compute-intensive-applications/) |
+| [SiFive P670 and P470 RISC-V processors feature RISC-V Vector Extensions](https://www.cnx-software.com/2022/11/02/sifive-p670-and-p470-risc-v-processors-add-risc-v-vector-extensions/) |
