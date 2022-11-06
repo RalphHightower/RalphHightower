@@ -52,7 +52,7 @@
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
-| [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) (H/W) |
+| [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
@@ -96,3 +96,4 @@
 | [RISC-V Bases and Extensions Explained](https://www.cnx-software.com/2019/08/27/risc-v-bases-and-extensions-explained/) |
 | [Andes unveils AndesCore AX65 Out-of-Order RISC-V core for compute intensive applications](https://www.cnx-software.com/2022/11/03/andes-andescore-ax60-out-of-order-risc-v-core-for-compute-intensive-applications/) |
 | [SiFive P670 and P470 RISC-V processors feature RISC-V Vector Extensions](https://www.cnx-software.com/2022/11/02/sifive-p670-and-p470-risc-v-processors-add-risc-v-vector-extensions/) |
+| [Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2) |
