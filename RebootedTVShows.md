@@ -2,7 +2,15 @@
 
 | Rebooted TV Series | Network |
 |--------------------|---------|
-| Battlestar Galactica | NBC |
+| Galactica 1980[^2] | ABC |
+| Battlestar Galactica (2003 miniseries)[^2] | Sci Fi Channel |
+| Battlestar Galactica (2004)[^2]| Sci Fi Channel |
+| The Resistance[^2] | Sci Fi Channel |
+| Razor Flashbacks[^2] | Sci Fi Channel |
+| The Face of the Enemy[^2] | Sci Fi Channel |
+| Caprica[^2] | Syfy|
+| Blood & Chrome[^2] | Machinima.com |
+| Battlestar Galactica[^3] | NBC |
 | CSI: Vegas | NBC |
 | Doctor Who | BBC |
 | Hawaii Five-0 | CBS |
@@ -47,3 +55,5 @@
 | Air Wolf | CBS |
 
 [^1]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
+[^2]: Battlestar Galactica 
+[^3]: Rumored 
