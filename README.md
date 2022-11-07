@@ -10,16 +10,18 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 | Content | Website |
 |---------|---------|
-| CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower)
-| GitHub | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) |
+| CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower) |
+| Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
+| GitHub | **[RalphHightower](https://ralphhightower.github.io/RalphHightower/)** **(Primary Website)** |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
 | Gravatar | [RalphHightower](http://gravatar.com/ralphhightower) |
 | Hackster.io | [ralph-hightower](https://www.hackster.io/ralph-hightower)
-| LinkedIn Profile | [RalphHightower](https://www.linkedin.com/in/ralphhightower/)|
-| Photography Portfolio \(Flickr\) | [RalphHightower](https://www.flickr.com/photos/ralphhightower/) |
+| LinkedIn Profile | **[RalphHightower](https://www.linkedin.com/in/ralphhightower/)** (LinkedIn is where I spend the majority of my time.) |
+| Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
+| Twitter | [RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.) |
 | YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
 
 Now that I am retired, I am getting into the Arduino ecosystem.
