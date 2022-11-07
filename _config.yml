@@ -49,6 +49,7 @@ minima:
     # GitLab instances
     gitlab:
     - username: RalphHightower
+    - username: PermanentVacations
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
@@ -70,4 +71,3 @@ last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
 repository: "RalphHightower/RalphHightower"
-
