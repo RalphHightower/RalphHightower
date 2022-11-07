@@ -97,3 +97,4 @@
 | [Andes unveils AndesCore AX65 Out-of-Order RISC-V core for compute intensive applications](https://www.cnx-software.com/2022/11/03/andes-andescore-ax60-out-of-order-risc-v-core-for-compute-intensive-applications/) |
 | [SiFive P670 and P470 RISC-V processors feature RISC-V Vector Extensions](https://www.cnx-software.com/2022/11/02/sifive-p670-and-p470-risc-v-processors-add-risc-v-vector-extensions/) |
 | [Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2) |
+| [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
