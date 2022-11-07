@@ -51,6 +51,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | References | Purpose |
 |------------------------|---------|
+| [Choose an open source license](https://choosealicense.com/) | Licensing |
 | [GitHub Actions](https://github.com/marketplace?type=actions) | GitHub |
 | [GitHub Community Discussions](https://github.com/community) | GitHub |
 | [Configuration options for the dependabot.yml file](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file) | GitHub Vulnerability Scanning |
