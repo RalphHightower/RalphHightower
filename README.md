@@ -142,6 +142,8 @@ A technology company had shut down and one of the Affinity Technology Group form
 ## HP (Hewlett-Packard) Calculators
 What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
 
+[The Museum of HP Calculators](https://www.hpmuseum.org/)
+
 | HP Calculators | Accessories |
 |--------------------|-----------------|
 | HP-12C ||
