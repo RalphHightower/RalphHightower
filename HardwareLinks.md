@@ -45,6 +45,8 @@
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
+| [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
+| [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
@@ -98,6 +100,8 @@
 | [SiFive P670 and P470 RISC-V processors feature RISC-V Vector Extensions](https://www.cnx-software.com/2022/11/02/sifive-p670-and-p470-risc-v-processors-add-risc-v-vector-extensions/) |
 | [Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2) |
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
+| [ODROID-N2+ review with Ubuntu 21.10 using Wayland and Panfrost](https://www.cnx-software.com/2021/11/08/odroid-n2-plus-review-ubuntu-21-10/) |
+| [SBC ODROID-N2L is a smaller, low-cost variant of ODROID-N2+ Arm32GB](https://www.cnx-software.com/2022/11/08/odroid-n2l-is-a-smaller-low-cost-variant-of-odroid-n2-arm-sbc/) |
 
 | Kickstarter Projects |
 |----------------------|
