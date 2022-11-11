@@ -49,6 +49,8 @@
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
+| [Orange Pi 5 with 4GB LPDDR4/4x memory](https://amzn.to/3fUBt0f) $60 | (H/W) |
+[Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) $75 | (H/W) |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
@@ -102,6 +104,7 @@
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
 | [ODROID-N2+ review with Ubuntu 21.10 using Wayland and Panfrost](https://www.cnx-software.com/2021/11/08/odroid-n2-plus-review-ubuntu-21-10/) |
 | [SBC ODROID-N2L is a smaller, low-cost variant of ODROID-N2+ Arm32GB](https://www.cnx-software.com/2022/11/08/odroid-n2l-is-a-smaller-low-cost-variant-of-odroid-n2-arm-sbc/) |
+| [Orange Pi 5 Rockchip RK3588S SBC launched for $60 and up](https://www.cnx-software.com/2022/11/11/orange-pi-5-most-affordable-rockchip-rk3588s-sbc/) |
 
 | Kickstarter Projects |
 |----------------------|
