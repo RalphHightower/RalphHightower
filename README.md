@@ -364,12 +364,11 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 |   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true) |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&date_format=%5BY.%5Dn.j&ring=3f99ed&fire=3f99ed&currStreakNum=3f99ed&currStreakLabel=3f99ed) |
 
 |   |   |
 |---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
 
 |   |
