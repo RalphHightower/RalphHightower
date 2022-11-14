@@ -81,9 +81,9 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
 
-### [Software Package Data Exchange](https://spdx.dev)
+### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
-[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. Below are references that I have collected for research and use.
+[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
 
 ## [GitHub](https://github.com/)
 
