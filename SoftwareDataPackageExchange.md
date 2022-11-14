@@ -55,7 +55,7 @@
 | [FAQ](https://spdx.dev/faq/) |
 | [Announcements](https://spdx.dev/announcements/) |
 | [News](https://spdx.dev/news/) |
+||
+| [Software Heritage Persistent IDentifiers (SWHIDs)](https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html) |
 
 [^1]: [Software Data Package Exchange \(SPDX\)](https://spdx.dev)
-
-| [SoftWare Heritage persistent IDentifiers (SWHIDs](https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html) |
