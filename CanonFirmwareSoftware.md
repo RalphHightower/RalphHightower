@@ -59,10 +59,10 @@
 
 | Description | Version | Date | Link |
 |-------------|---------|------|------|
-| Digital Photo Professional for Windows | 4.16.11 | 2022-08-05 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjFmNWRk&cmp=ABR&lang=EN) |
-| EOS Utility for Windows | 3.15.20 | 2022-07-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjY2MDAx&cmp=ABR&lang=EN) |
-| Picture Style Editor for Windows | 1.27.10 | 2022-06-14 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjYzMzAx&cmp=ABR&lang=EN) |
-| EOS Webcam Utility Windows | 1.1 | 2020-11-11 | [Download](https://downloads.canon.com/webcam/EOSWebcamUtility-WIN1.1.zip) |
+| Digital Photo Professional for Windows | 4.17.00| 2022-11-08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjIwNjQ1&cmp=ABR&lang=EN) |
+| EOS Utility for Windows | 3.16.00 | 2022-11-08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjcxNzAx&cmp=ABR&lang=EN) |
+| Picture Style Editor for Windows | 1.28.00 | 2022-11.08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjcyMTAx&cmp=ABR&lang=EN) |
+| EOS Webcam Utility Pro | 2.0 | 2020-11-11 | [Download Form](https://www.usa.canon.com/support/p/eos-5d-mark-iii#idReference%3Dsoftware-drivers) |
 
 #### Manuals
 
