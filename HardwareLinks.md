@@ -29,6 +29,7 @@
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
+| [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
@@ -105,6 +106,7 @@
 | [ODROID-N2+ review with Ubuntu 21.10 using Wayland and Panfrost](https://www.cnx-software.com/2021/11/08/odroid-n2-plus-review-ubuntu-21-10/) |
 | [SBC ODROID-N2L is a smaller, low-cost variant of ODROID-N2+ Arm32GB](https://www.cnx-software.com/2022/11/08/odroid-n2l-is-a-smaller-low-cost-variant-of-odroid-n2-arm-sbc/) |
 | [Orange Pi 5 Rockchip RK3588S SBC launched for $60 and up](https://www.cnx-software.com/2022/11/11/orange-pi-5-most-affordable-rockchip-rk3588s-sbc/) |
+| [NanoPi R6S Review – Part 1: Unboxing, Teardown, OpenWrt 22.03, and iperf3](https://www.cnx-software.com/2022/11/12/nanopi-r6s-review-unboxing-teardown-openwrt-22-03-iperf3/) |
 
 | Kickstarter Projects |
 |----------------------|
