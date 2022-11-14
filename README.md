@@ -83,7 +83,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 ### [Software Package Data Exchange](https://spdx.dev)
 
-[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. Below are references that I have collected for research and use 
+[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. Below are references that I have collected for research and use.
 
 ## [GitHub](https://github.com/)
 
@@ -126,7 +126,8 @@ As an INTP on the Myers-Briggs Personality Assessment, my career in software dev
 
 ### Software Development
 
-In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior management booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 <br>
+In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior management booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 .
+
 - Affinity Technology Group (Stock Symbol: AFFI)
 - HealthMagic
 - Global Health Technology (bought by CBSI aka Covansys)<br>
@@ -371,7 +372,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
-# ODB-II Codes
+### ODB-II Codes
 
 | ODB-II Codes |
 |--------------|
