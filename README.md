@@ -326,10 +326,11 @@ South Carolina has a number of craft beer breweries. Below is a list of the curr
 8. Legal Remedy World Court Mocha Blonde Stout
 
 ## Sky Above, Events, Weather
+
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
 |------|--------|
-| [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
-| [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Lexington) | Lexington, South Carolina, USA |
+| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
+| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Lexington) | Lexington, South Carolina, USA |
 | [Sun & Moon Today](https://www.timeanddate.com/astronomy/usa/columbia) | Columbia, South Carolina, USA |
 | [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
 | [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
