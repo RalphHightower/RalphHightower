@@ -1,6 +1,3 @@
-
-# Ralph Hightower's Personal Website
-
 Hi, I’m @RalphHightower.
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
@@ -271,24 +268,6 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/) and used equipment from [KEH](https://www.keh.com/), including a complete Canon New F-1 system. [KEH](https://www.keh.com/) also does camera repairs. I have rented lenses from [lensrentals.com](https://www.lensrentals.com/) for use at The Masters and for the 2017 Total Solar Eclipse. 
 
-### Automotive
-
-#### OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
-
-[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
-
-#### ODB-II Codes
-
-| ODB-II Codes |
-|--------------|
-| [Wikipedia PIDs](https://en.m.wikipedia.org/wiki/OBD-II_PIDs) |
-| [Wikipedia — On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II?wprov=sfla1) |
-| [OBD II UART Hookup Guide — SparkFun](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide/all) |
-| [Chevrolet ODB-II Codes](https://www.troublecodes.net/chevroletcodes/) |
-| [GM ODB-II Codes](https://www.troublecodes.net/gmcodes/) |
-| [RealDash — ODB-II Code Reader](https://realdash.net/) |
-| [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
-
 ### Beagles 
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
@@ -385,6 +364,24 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 ## Tabasco Sauce Scoville Ratings 
 
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
+
+## Automotive
+
+### OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
+
+[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
+
+# ODB-II Codes
+
+| ODB-II Codes |
+|--------------|
+| [Wikipedia PIDs](https://en.m.wikipedia.org/wiki/OBD-II_PIDs) |
+| [Wikipedia — On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II?wprov=sfla1) |
+| [OBD II UART Hookup Guide — SparkFun](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide/all) |
+| [Chevrolet ODB-II Codes](https://www.troublecodes.net/chevroletcodes/) |
+| [GM ODB-II Codes](https://www.troublecodes.net/gmcodes/) |
+| [RealDash — ODB-II Code Reader](https://realdash.net/) |
+| [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
 |   |
 |---|
