@@ -1,12 +1,18 @@
-Hi, I’m @RalphHightower. <br>
+# Ralph Hightower's Personal Website
+
+Hi, I’m @RalphHightower.
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
+
+## USC
 
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|
 | [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
 | [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
+
+## Various Places Where I May Be
 
 | Content | Website |
 |---------|---------|
@@ -24,6 +30,8 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | Twitter | [RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.) |
 | YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
 
+## Personal Projects 
+
 Now that I am retired, I am getting into the Arduino ecosystem.
 
 | Status | Project |
@@ -33,12 +41,14 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | In Progress | |
 | Completed | 
 
+## Publications 
 
 | Articles/BugFixes | Date | Publication |
 |---------|------|-------------|
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
 | [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
 
+## Authored Websites, Software Applications 
 
 | Web Site | Description |
 |------------|-------------|
@@ -48,6 +58,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^1] |
 
+## References 
 
 | References | Purpose |
 |------------------------|---------|
@@ -72,6 +83,12 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
 
+### [Software Package Data Exchange](https://spdx.dev)
+
+[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. Below are references that I have collected for research and use 
+
+## [GitHub](https://github.com/)
+
 | Goverments and Companies GitHub Repositories |
 |---------------------|
 | [Governments on GitHub](https://government.github.com/community/) |
@@ -90,21 +107,26 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
 | [SparkFun Electronics — Building open source widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
 
+## [Microsoft](https://www.microsoft.com/)
+
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 |----------------------------------|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 | [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
 | [https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github](https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github) |
+| [Microsoft Azure](https://azure.microsoft.com/en-us/) |
+
+## Software 
 
 [Open Source Projects](FavOpenSourceProjects.md)
 
 [Useful Software / Utilities](Software.md)
 
-# Interests 
+## Interests 
 
 As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
 
-## Software Development
+### Software Development
 
 In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior management booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 <br>
 - Affinity Technology Group (Stock Symbol: AFFI)
@@ -113,16 +135,16 @@ In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of 
 
 As a Software Developer at the South Carolina Department of Health and Environmental Control, I developed web applications using C# and .Net using Microsoft Visual Studio and Microsoft SQL Server and IBM DB/2 databases. I have also written Windows services to monitor the health of web applications, their associated databases, SSL certificate expiration and network connectivity to alert the appropriate teams.
 Besides developing Windows services to monitor web applications and their associated databases, I have developed services to extract data for SFTP file exports on a monthly basis, update SCSERV hospitals and clinics in Microsoft SQL Server with reference data from the EFIS Oracle database.
-<br><br>
+
 One large scale Windows application that I developed using C# and .Net for my personal use read the NASA mission schedules for the Space Shuttle missions that they published as Excel spreadsheets and created events in the calendar of Microsoft Outlook using Microsoft Visual Studio Tools for Office. I thought that others would be interested in using the application also, so I published the installation executable with the source code on  Microsoft’s now decommissioned source code publishing site, Codeplex; I migrated it over to GitHub although support of the application officially ended with wheelstop of Atlantis on mission STS-135 with the Final Four, CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim. 
 
-## NASA Spaceflight 
+### NASA Spaceflight 
 
 On [July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person.](https://flic.kr/s/aHsjvNsNvU). I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, [got to see Atlantis land for the final time on July 21, 2011](https://flic.kr/s/aHsjvNti8h). I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
 
 Watching the Space Shuttle land on television, the twin sonic booms sound like a muffled *boom.boom.* In person, the twin sonic booms that Space Shuttles announce that they are returning home is loud, sharp, and crisp: **BANG! BANG!**
 
-## Obsolete Computer Collection 
+### Obsolete Computer Collection 
 
 My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source code using gcc.
 I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
@@ -140,7 +162,18 @@ A technology company had shut down and one of the Affinity Technology Group form
 || Sun Tape Drive (3 SCSI Hard Drives) |
 || SCSI Drive Cabinet |
 
-## HP (Hewlett-Packard) Calculators
+| Various Computer Books 📚 |
+|----------------------------|
+| Art of Computer Science (3 volume set) by Donald Knuth |
+| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
+| DEC PDP-8 Handbook |
+| DEC PDP-11 Handbook |
+| LSI 11 (PDP-11/03) Handbook |
+| DEC PDP-11/45 Handbook |
+| DEC PDP-11/70 Handbook |
+
+### HP (Hewlett-Packard) Calculators
+
 What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/)
@@ -160,17 +193,7 @@ What can I say? I've been a big fan of HP Calculators ever since they introduced
 | HP-48GX ||
 | HP-67 ||
 
-| Computer Science  Books 📚 |
-|----------------------------|
-| Art of Computer Science (3 volume set) by Donald Knuth |
-| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
-| DEC PDP-8 Handbook |
-| DEC PDP-11 Handbook |
-| LSI 11 (PDP-11/03) Handbook |
-| DEC PDP-11/45 Handbook |
-| DEC PDP-11/70 Handbook |
-
-## Photography 
+### Photography 
 
 Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
 
@@ -178,7 +201,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 1) Photograph the sunrise over Columbia, South Carolina from the Lake Murray dam on the equinoxes and solstices;
 2) Photograph the full moon rising and setting (started in February and carried over to January).
 
-## Camera equipment
+#### Camera equipment
 
 | Gear | Lenses, Accessories |
 |------|-------------|
@@ -208,11 +231,9 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
 
-### Camera Manuals, Software, Firmware: Updates/References
+#### [Camera Manuals, Software, Firmware: Updates/References](CanonFirmwareSoftware.md)
 
-[Camera Manuals, Software, Firmware](CanonFirmwareSoftware.md)
-
-### Preferred Photography Retailers 
+#### Preferred Photography Retailers 
 
 | Company | Location | About |
 |---------|----------|-------|
@@ -249,11 +270,13 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/) and used equipment from [KEH](https://www.keh.com/), including a complete Canon New F-1 system. [KEH](https://www.keh.com/) also does camera repairs. I have rented lenses from [lensrentals.com](https://www.lensrentals.com/) for use at The Masters and for the 2017 Total Solar Eclipse. 
 
-## OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
+### Automotive
+
+#### OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
 
 [GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
-## ODB-II Codes
+#### ODB-II Codes
 
 | ODB-II Codes |
 |--------------|
@@ -265,7 +288,7 @@ I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/) a
 | [RealDash — ODB-II Code Reader](https://realdash.net/) |
 | [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
-## Beagles 
+### Beagles 
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
 neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
@@ -276,20 +299,7 @@ We have bred and raised a few litters.
 
 [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
 
-## Craft Beers in South Carolina 
-
-South Carolina has a number of craft beer breweries.. Below is a list of the current active breweries. I have a few favorites:
-1. River Rat Broad River Red Ale
-2. River Rat Mourning Stout
-4. Steelhands Coffee Lager 
-5. Palmetto Brewing Expresso 
-6. Palmetto Brewing GhostRider
-7. Holy City Brewing Bowens Island Oyster Stout
-8. Legal Remedy World Court Mocha Blonde Stout
-
-[South Carolina Breweries](SouthCarolinaBeerBrewies.md)
-
-## Hobbies
+### Water-skiing 
 
 I enjoy water-skiing. I learned on Lake Greenwood, South Carolina. I consider Lake Murray, 
 South Carolina to be my "home lake" since I live nearby. My wife, Paula, and I would camp
@@ -302,8 +312,20 @@ Bodies of Water That I Have Skiied:
    - Clark Hill Lake
 - Midwestern Rivers
    - Cedar River (Cedar Rapids, Iowa)
-   - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)<br>
+   - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)
 
+## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
+
+South Carolina has a number of craft beer breweries. Below is a list of the current active breweries. I have a few favorites:
+1. River Rat Broad River Red Ale
+2. River Rat Mourning Stout
+4. Steelhands Coffee Lager 
+5. Palmetto Brewing Expresso 
+6. Palmetto Brewing GhostRider
+7. Holy City Brewing Bowens Island Oyster Stout
+8. Legal Remedy World Court Mocha Blonde Stout
+
+## Sky Above, Events, Weather
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
 |------|--------|
 | [International Space Station](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
