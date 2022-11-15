@@ -4,6 +4,8 @@
 |----------|---------|
 | [Apache](https://www.apache.org/) | Web Server |
 | [Apache Kafka](https://kafka.apache.org/) | Streaming |
+| [Bind](https://gitlab.isc.org/isc-projects/bind9) | DNS Server |
+| [OpenBGP](https://www.openbgpd.org/) | Open Border Gateway Protocol |
 | [Open LDAP](https://www.openldap.org/) | Lightweight Directory Access |
 | [Open SSL](https://www.openssl.org) | Secure Sockets Layer |
 | [Perl](https://www.perl.org/) | Programming Language |
