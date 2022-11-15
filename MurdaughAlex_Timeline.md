@@ -82,7 +82,7 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 | Sept. 27, 2022 | The civil lawsuit surrounding the wrongful death of Mallory Beach is scheduled to go to trial on Jan. 9, 2023 in Hampton County. The court reverses a prior ruling that would have allowed Gregory M. Parker a separate trial. |
 | October 13, 2022 | Alex Murdaugh's double murder trial for the deaths of Paul and Maggie Murdaugh is set to begin Jan. 30, 2023. |
 | October 17, 2022 | Murdaugh's trial is rescheduled for Jan. 23, 2023 to "better fit with judicial schedules," according to the South Carolina Attorney General's Office. |
-| November 4, 2022 | NBC aired a special two episode of Dateline titled "Dark Waters". |
+| November 4, 2022 | NBC aired a special two hour episode of Dateline titled "Dark Waters". |
 | Nov. 9, 2022 | Former Palmetto State Bank CEO Russell Laffitte goes on trial for conspiracy to commit wire fraud, bank fraud and misapplication of bank funds. |
 
 ## References
