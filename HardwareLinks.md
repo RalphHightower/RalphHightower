@@ -107,6 +107,7 @@
 | [SBC ODROID-N2L is a smaller, low-cost variant of ODROID-N2+ Arm32GB](https://www.cnx-software.com/2022/11/08/odroid-n2l-is-a-smaller-low-cost-variant-of-odroid-n2-arm-sbc/) |
 | [Orange Pi 5 Rockchip RK3588S SBC launched for $60 and up](https://www.cnx-software.com/2022/11/11/orange-pi-5-most-affordable-rockchip-rk3588s-sbc/) |
 | [NanoPi R6S Review – Part 1: Unboxing, Teardown, OpenWrt 22.03, and iperf3](https://www.cnx-software.com/2022/11/12/nanopi-r6s-review-unboxing-teardown-openwrt-22-03-iperf3/) |
+| [Sipeed M1s & M0sense – Low-cost BL808 & BL702 based AI modules (Crowdfunding](https://www.cnx-software.com/2022/11/14/sipeed-m1s-m0sense-low-cost-bl808-bl702-ai-modules/) |
 
 | Kickstarter Projects |
 |----------------------|
