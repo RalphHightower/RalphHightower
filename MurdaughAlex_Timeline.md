@@ -85,6 +85,24 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 | November 4, 2022 | NBC aired a special two hour episode of Dateline titled "Dark Waters". |
 | Nov. 9, 2022 | Former Palmetto State Bank CEO Russell Laffitte goes on trial for conspiracy to commit wire fraud, bank fraud and misapplication of bank funds. |
 
+| [Attorney General Alan Wilson announces State Grand Jury issues new indictments against Richard Alexander Murdaugh](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-state-grand-jury-issues-new-indictments-against-richard-alexander-murdaugh/) |
+|--------|
+| (COLUMBIA, SC) - South Carolina Attorney General Alan Wilson announced today that the South Carolina State Grand Jury issued new indictments against Richard Alexander Murdaugh, Spencer Anwan Roberts, and Jerry K. Rivers. Alex Murdaugh was indicted for four counts of Obtaining Signature or Property by False Pretenses Value $10,000 or More, two counts of Money Laundering Value $20,000 - $100,000, one count of Money Laundering Value $100,000 or More, two counts of Computer Crime Value More Than $10,000. Spencer Roberts was indicted for one count of Obtaining Signature or Property by False Pretenses Value $10,000 or More, one count of Money Laundering Value $20,000 - $100,000, one count of Computer Crime Value More Than $10,000, and one count of Insurance Fraud. Jerry Rivers was indicted for Obstruction of Justice. |
+| In Indictment 2022-GS-47-23, venued in Colleton County, the State Grand Jury charged Alex Murdaugh with one count of Obtaining Signature or Property by False Pretenses and one Count of Money Laundering for misappropriating funds rather than paying the fees into the firm as he was required to do. |
+| In Indictment 2022-GS-47-24, venued in Hampton County, the State Grand Jury charged Alex Murdaugh with two counts of Obtaining Signature or Property by False Pretenses, one count of Money Laundering, and one count of Computer Crime alleging that Murdaugh through false representations took a loan repayment from the firm that was due to another partner. |
+| In Indictment 2022-GS-47-21, venued in Colleton County, the State Grand Jury charged Jerry Rivers with one count of Obstruction of Justice. |
+| In Indictment 2022-GS-47-22, venued in Colleton County, the State Grand Jury charged Spencer Roberts with one count of Obtaining Signature or Property by False Pretenses, one count of Money Laundering, and one count of Computer Crime. |
+| The crimes charged in the indictments carry the following classifications and penalties: |
+| Obstruction of Justice is punishable by up to 10 years in prison |
+| • Obtaining Signature or Property by False Pretenses, Value $10,000 or more is a felony and punishable by up to 10 years in prison and/or a fine up to $500 |
+| • Money Laundering, Value $20,000 - $100,000 is a felony punishable by up to 10 years in prison and/or a fine up to $250,000 or twice the value of the transactions, whichever is greater |
+| • Money Laundering, Value More Than $100,000 is a felony punishable by up to 20 years in prison and/or a fine up to $250,000 or twice the amount at issue |
+| • Computer Crime, Value More Than $10,000 is a felony punishable by up to 5 years in prison and/or a fine up to $50,000 |
+| • Insurance Fraud, Value More Than $10,000 but less than $50,000 is a felony punishable by up to 5 years in prison and/or a fine up to $50,000 |
+| Altogether, through 18 indictments containing 90 charges against Murdaugh, the State Grand Jury has indicted Murdaugh for schemes to defraud victims of $8,789,447.77. |
+| This State Grand Jury investigation is being conducted by the South Carolina Law Enforcement Division, the South Carolina Attorney General’s Office, the Federal Bureau of Investigation, and the United States Attorney’s Office. The case will be prosecuted by The South Carolina Attorney General’s Office. |
+| Attorney General Wilson stressed that all defendants are presumed innocent unless and until they are proven guilty in a court of law. |
+
 ## References
 
 1. [WJCL — ABC, Savannah, GA](https://www.wjcl.com/)
