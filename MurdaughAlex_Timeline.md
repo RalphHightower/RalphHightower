@@ -1,90 +1,81 @@
-| Date/Period | Event/What Happened |
+# Boss Hogg of Hampton County, aka, Alex Murdaugh 
+
+This is an interesting saga of a prominent attorney and his fall into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt,  and murder charges. 
+
+| Date/Period | Events/What Happened |
 |---------------|--------------------------|
 | 1920-2005 | For three generations, members of the Murdaugh family serve as the South Carolina 14th circuit solicitor, the top prosecutor representing Beaufort, Jasper, Hampton, Allendale and Colleton counties. |
 | July 8, 2015 | Stephen Smith, 19, is found dead on Sandy Run Road in Hampton County. No arrest is made in the case. |
 | Feb. 2, 2018 | Gloria Satterfield, 57, falls at the Murdaugh family home on Moselle Road in Colleton County. For more than two decades, she had served as the family housekeeper and nanny. |
-
-Feb. 26, 2018: Satterfield dies from her injuries. According to court documents, Alex Murdaugh tells Satterfield's sons that he was responsible and plans to sue himself so they are financially taken care of. The family says they never receive any money.
-
-Feb. 24, 2019: Mallory Beach, 19, goes missing after a boat crash near Parris Island. A 911 call is placed from the scene of the crash at Archer's Creek. Photos from the scene capture damage to the boat, bloodstains and numerous containers of beer.
-
-messages on Alex’s phone, and the conversations between Alex and Maggie portray a very loving relationship. It is our hope that the media will continue to focus on covering the investigation of the person or people responsible for the murder of Maggie and Paul and not reporting salacious stories with no credible sources connected to the Murdaugh family."
-
-Oct. 4, 2021: The law firm representing the Estate of Gloria Satterfield, the former housekeeper of the Murdaugh family who died back in 2018, announced that a settlement has been reached in the case.
-
-Oct. 6, 2021: The PMPED law firm files suit against Alex Murdaugh for damages after claims he took money from them and clients for his own personal use.
-
-Jim Griffin, one of Alex Murdaugh’s lawyers, responds to the lawsuit saying, "This is a very sad development. Alex holds every member of the Peters, Murdaugh, Parker, Eltzroth, Detrick law firm in very high esteem. He has pledged his full cooperation to the firm."
-
-In court documents, Murdaugh is accused of plotting with friends, an attorney and banker, to pocket money from Gloria Satterfield's $4.3 million wrongful death settlement.
-
-Oct. 8, 2021: The South Carolina Supreme Court suspends the law license of Beaufort attorney Cory Fleming, accused of helping Murdaugh funnel money from Satterfield's wrongful death settlement.
-
-Play Video
-Oct. 14, 2021: Alex Murdaugh is taken into custody upon his release from a drug rehabilitation facility in Orlando, charged with two counts of obtaining property by false pretenses in connection with Gloria Satterfield's wrongful death settlement. He awaits extradition back to South Carolina.
-
-Oct. 15, 2021: WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries.
-
-Play Video
-Oct. 19, 2021: Alex Murdaugh appears in a Richland County, South Carolina courtroom for a bond hearing stemming from the obtaining property by false pretenses charges. Following an hour-long hearing, the judge rules that Murdaugh will be held in custody pending a psychiatric evaluation.
-
-Oct. 22, 2021: SLED releases three 911 calls placed the day Alex Murdaugh reported being shot in the head in Hampton County. Two calls are from Murdaugh and the third is from a passerby, who saw Murdaugh bleeding and waving his hands but didn't stop because she felt it was a set up.
-
-Play Video
-Oct. 29, 2021: Circuit Judge Daniel Hall hears the wrongful death lawsuit by the family of Mallory Beach. Hall said he would make a ruling the following week as to whether control of Murdaugh's assets should be turned over to independent representatives so Murdaugh does not engage in fraud to hide money.
-
-Murdaugh’s lawyer John Tiller said he hasn’t been found responsible in any of the civil suits and has insurance to cover if he is required to pay damages.
-
-Nov. 2, 2021: A judge freezes Alex Murdaugh's assets as part of the ongoing wrongful death cases.
-
-Nov. 4, 2021: Alex Murdaugh and Curtis Edward Smith are indicted on multiple charges by a Hampton County grand jury in connection to the assisted suicide plot.
-
-Play Video
-Nov. 10, 2021: Alex Murdaugh is denied bond following a psychiatric evaluation.
-
-Alex Murdaugh in connection to the underage alcohol sold at the Okatie Parker's location, and for Murdaugh allowing his son Paul to operate his boat despite being intoxicated.
-
-Dec. 3, 2021: The family of Mallory Beach files suit against Gregory M. Parker, Gregory M. Parker Inc., Parker's Corporation and several other defendants, claiming they were harassed by those who created fake social media accounts to affect ongoing civil proceedings.
-
-Play Video
-Dec. 6, 2021: Attorneys representing the family of Gloria Satterfield file suit against Bank of America, claiming the bank aided Alex Murdaugh's financial crimes against the former Murdaugh housekeeper.
-
-Dec. 9, 2021: Bland Richter, LLP, representing the family of Gloria Satterfield, files a lawsuit against Curtis Edward Smith, claiming Murdaugh paid Smith $2 million over the span of 6 years, money that should have gone to Satterfield's family.
-
-Play Video
-South Carolina Attorney General Alan Wilson announces the South Carolina State Grand Jury issued seven indictments consisting of 21 new charges against Alex Murdaugh.
-
-Dec. 13, 2021: Alex Murdaugh is given a $7 million bond for charges stemming from South Carolina state grand jury indictments.
-
-Play Video
-Jan. 21, 2022: The South Carolina State Grand Jury indicts Alex Murdaugh on 23 criminal charges, including breach of trust and computer crimes.
-
-Play Video
-Jan. 24, 2022: An attorney representing Mallory Beach's mother and two survivors of the deadly boat crash file creditor's claims, totaling $65 million, against the estates of Paul and Maggie Murdaugh. The move prevents Alex Murdaugh from inheriting the 'Moselle' property before claims are paid.
-
-
-He remains in custody in Richland County.
-
-May 4, 2022: The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime.
-
-Play Video
-May 31, 2022: Alex Murdaugh signs a confession of judgement, awarding the Satterfield family more than $4.3 million.
-
-He remains in custody in Richland County.
-
-May 4, 2022: The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime.
-
-Play Video
-May 31, 2022: Alex Murdaugh signs a confession of judgement, awarding the Satterfield family more than $4.3 million.
-
-the prominent attorney stole millions of dollars from his clients even though more than 70 criminal charges against the prominent lawyer have not been resolved.
-
-Play Video
-The Satterfield family announces they are using some of their settlement money to fund the creation of a foundation called "Gloria's Gift." The charity will provide Christmas gifts to Hampton County families in need. |
+| Feb. 26, 2018 | Satterfield dies from her injuries. According to court documents, Alex Murdaugh tells Satterfield's sons that he was responsible and plans to sue himself so they are financially taken care of. The family says they never receive any money |
+| Feb. 24, 2019 | Mallory Beach, 19, goes missing after a boat crash near Parris Island. A 911 call is placed from the scene of the crash at Archer's Creek. Photos from the scene capture damage to the boat, bloodstains and numerous containers of beer. messages on Alex’s phone, and the conversations between Alex and Maggie portray a very loving relationship. It is our hope that the media will continue to focus on covering the investigation of the person or peop |
+| March 3, 2019 | Following a week of searches, a boater discovers Mallory's body in a marsh area near the Broad River boat landing in Beaufort County. |
+| March 2019 | The Beach family files a wrongful death lawsuit against a Beaufort County bar, convenience store and two homeowners all of whom, the suit claims, served Beach and her underage friends alcohol the night of the crash. The lawsuit was later amended to only name Richard Alexander "Alex" Murdaugh Sr., Richard Alexander "Buster" Murdaugh Jr., and Parker's convenience store. |
+| April 18, 2019 | Paul Murdaugh is indicted on charges of boating under the influence causing death and two counts of boating under the influence causing great bodily injury. |
+| May 6, 2019 | Murdaugh pleads not guilty to all charges. |
+| June 4, 2021 | Court ordered mediation in the wrongful death lawsuit fails, which appears to make the case bound for trial. |
+| June 7, 2021 | Alex Murdaugh discovers the bodies of his son Paul and wife Maggie at their 1,770-acre hunting lodge on Moselle Road in Islandton, Colleton County. A 911 call is placed at 10:07 p.m. *"I need the police and ambulance immediately," Alex Murdaugh says in the 911 call. "My wife and child have been shot badly!"* The Colleton County Sheriff's Office responds and secures the scene. South Carolina's State Law Enforcement Division is contacted at 10:28 p.m. to assist. SLED agents arrive at 11:47 p.m. Murdaugh family friend Tangie Ohmer tells WJCL: *"It was just siren after siren..."* |
+| June 8, 2021 | Authorities confirm the identities of the deceased, referring to the incident as a double homicide. However, they say there is no threat to the public. |
+| June 11, 2021 | A graveside service is held at Hampton Cemetery for both Paul and Maggie Murdaugh. |
+| June 14, 2021 | The Colleton County Coroner confirms both Paul and Maggie Murdaugh died from multiple gunshot wounds. The estimated time of death is somewhere between 9 and 9:30 p.m. |
+| June 16, 2021 | SLED creates a 24-hour dedicated tipline for the case: 803-896-2605. |
+| June 17, 2021 | Alex Murdaugh's brothers, Randy Murdaugh IV and John Marvin Murdaugh, appear in an exclusive interview with ABC News in which they plead with the public to come forward with any information. They say they don't know whether the family has enemies but Paul Murdaugh had received threats. |
+| June 21, 2021 | SLED releases a handful of heavily-redacted documents shedding light on what deputies discovered the night of the murders. |
+| June 23, 2021 | Based on information gathered in the Murdaugh investigation, SLED says it is looking into the 2015 death of Stephen Smith in Hampton County. SLED does not elaborate on what information it obtained. |
+| June 25, 2021 | Members of the Murdaugh family formally announce a $100,000 reward for information that leads to arrest in the double homicide. |
+| July 7, 2021 | Attorneys representing a survivor of the boat crash that killed Mallory Beach filed a petition alleging law enforcement tried to shift the blame from Paul Murdaugh to their client, Connor Cook. |
+| July 14, 2021 | During a court hearing, Circuit Judge Bentley Price said he would review the redactions made by SLED in publicly-released documents pertaining to the case and if he felt they weren’t legal, order more information released. |
+| July 22, 2021 | SLED releases the 911 call placed by Alex Murdaugh the night Paul and Maggie Murdaugh were killed.
+| Aug. 6, 2021 | People magazine spotlights the double homicide of Paul and Maggie Murdaugh. The South Carolina Attorney General's Office drops all charges against Paul Murdaugh in the death of Mallory Beach due to his own death. |
+| Aug. 11, 2021 | 14th Circuit Solicitor Duffie Stone sends a letter to South Carolina Attorney General Alan Wilson stating he intends to recuse himself from the investigations into the deaths of Maggie and Paul Murdaugh. |
+| Aug. 17, 2021 | Following a Freedom of Information Act request, WJCL receives photos and videos from the South Carolina Attorney General's Office collected as evidence following the boat crash that killed Mallory Beach. |
+| Sept. 2, 2021 | The PMPED law firm begins an investigation into Alex Murdaugh after finding a suspicious check on his desk. They say their investigation reveals Murdaugh had been taking money from the firm and clients for personal use. | 
+| Sept. 3, 2021 | Murdaugh is confronted about accusations of taking money from PMPED. He is asked to resign and does so that afternoon. |
+| Sept. 4, 2021 | Alex Murdaugh is shot in the head while changing a tire in Hampton County, according to a family spokesperson. SLED is investigating. He is hospitalized in Savannah and said to be conscious and speaking. |
+| Sept. 6, 2021 | Alex Murdaugh releases a statement that says, in part, he is resigning from his law firm and entering rehab. Later that day, the PMPED law firm says Murdaugh was stealing money from them. *“This is disappointing news for all of us. Rest assured that our firm will deal with this in a straightforward manner. There’s no place in our firm for such behavior,”* the law firm said in a statement. |
+| Sept. 8, 2021 | The South Carolina Supreme Court suspends Alex Murdaugh's law license, effective immediately. |
+| Sept. 9, 2021 | Following a Freedom of Information Act request, WJCL receives an incident report from the Hampton County Sheriff's Office regarding law enforcement response to Alex Murdaugh's shooting. |
+| Sept. 10, 2021 | A spokesperson representing Alex Murdaugh releases a statement saying, in part, Murdaugh's shooting was not self-inflicted, he sustained a skull fracture and the gunman was driving a blue pickup truck. |
+Sept. 13, 2021 | SLED announces it has opened an investigation into claims Alex Murdaugh was misappropriating funds from his former law firm. |
+| Sept. 14, 2021 | Curtis Edward Smith, 61, is arrested in connection to the assisted suicide shooting of Alex Murdaugh. Authorities say Murdaugh admits that the scheme was set up so his surviving son could collect a $10 million life insurance policy. Attorneys representing Alex Murdaugh issue a statement that Murdaugh has battled opioid addiction for 20 years and Smith was one of his drug dealers. |
+| Sept. 15, 2021 | Smith appears via video conference in a Colleton County court for the charge of distribution of methamphetamine. Because it was his first offense, he was able to post a $5,000 bond. His next appearance is set for November 8. Smith is transferred to Hampton County court to face charges in connection to the Murdaugh shooting. Alex Murdaugh is named the chief defendant in a wrongful death lawsuit filed by the sons of longtime Murdaugh housekeeper and nanny, Gloria Satterfield. SLED announces it is opening a criminal investigation into Satterfield's 2018 death. Murdaugh's attorney says his client will surrender to authorities the following day in connection to the insurance fraud charges. |
+| Sept. 16, 2021 | Alex Murdaugh turns himself in to authorities at the Hampton County Detention Center. Murdaugh is given a $20,000 bond for insurance fraud charges stemming from his attempted assisted suicide plot. He is ordered to appear back in court on October 25. Smith is given a $55,000 bond for his charges. He is released from custody at noon and ordered back in court on November 8. |
+| Sept. 17, 2021 | WJCL provides a look at whether Alex Murdaugh received preferential treatment in court as well as the severity of his head wound. |
+| Sept. 18, 2021 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. | 
+| Sept. 20, 2021 | Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
+| Sept. 23, 2021 | SLED releases a statement saying agents have "uncovered other potential crimes" as part of their investigation into the double homicide of Paul and Maggie Murdaugh. The FBI and U.S. Attorney's Office for the District of South Carolina have been contacted. |
+| Sept. 26, 2021 | WJCL airs a special presentation, 'Murdaugh: Death & Deceit,' focusing on the investigations to date. |
+| Sept. 27, 2021 | In paperwork filed in Hampton County, the sons of Gloria Satterfield say they want Alex Murdaugh arrested until he pays them the money they are owed from the settlement from their mother's death. |
+| Sept. 28, 2021 | In an interview with WJCL, Sandy Smith, mother of Stephen Smith, says a fundraising effort is underway to finally get Stephen a headstone. Curtis Edward Smith gives an interview with WCIV in which he says he feels betrayed by Alex Murdaugh and that he considered Murdaugh like a brother to him. |
+| Sept. 29, 2021 | A Murdaugh spokesperson releases a statement regarding the pending expiration of the $100,000 reward offer in the double homicide of Paul and Maggie Murdaugh. *“We are disappointed that no one has stepped forward with any leads to solve the murder and claim the $100,000 reward. At this time the family is evaluating what additional steps can be taken to solve the murders of Maggie and Paul.”* |
+| Sept. 30, 2021 | Responding to claims made in a People magazine article about problems in the marriage of Alex and Maggie Murdaugh, a family representative releases the following statement: *"The most recent allegations by People Magazine regarding the state of Maggie and Alex Murdaugh’s marriage are totally inconsistent with what we have been told by friends and family members. Also, we have reviewed many years of text messages on Alex’s phone, and the conversations between Alex and Maggie portray a very loving relationship. It is our hope that the media will continue to focus on covering the investigation of the person or people responsible for the murder of Maggie and Paul and not reporting salacious stories with no credible sources connected to the Murdaugh family." *|
+| Oct. 4, 2021 | The law firm representing the Estate of Gloria Satterfield, the former housekeeper of the Murdaugh family who died back in 2018, announced that a settlement has been reached in the case. |
+| Oct. 6, 2021 | The PMPED law firm files suit against Alex Murdaugh for damages after claims he took money from them and clients for his own personal use. Jim Griffin, one of Alex Murdaugh’s lawyers, responds to the lawsuit saying, *"This is a very sad development. Alex holds every member of the Peters, Murdaugh, Parker, Eltzroth, Detrick law firm in very high esteem. He has pledged his full cooperation to the firm."* |
+| Sept. 30, 2021 | Responding to claims made in a People magazine article about problems in the marriage of Alex and Maggie Murdaugh, a family representative releases the following statement: *"The most recent allegations by People Magazine regarding the state of Maggie and Alex Murdaugh’s marriage are totally inconsistent with what we have been told by friends and family members. Also, we have reviewed many years of text messages on Alex’s phone, and the conversations between Alex and Maggie portray a very loving relationship. It is our hope that the media will continue to focus on covering the investigation of the person or people responsible for the murder of Maggie and Paul and not reporting salacious stories with no credible sources connected to the Murdaugh family."* |
+| Oct. 4, 2021 | The law firm representing the Estate of Gloria Satterfield, the former housekeeper of the Murdaugh family who died back in 2018, announced that a settlement has been reached in the case. |
+| Oct. 6, 2021 | The PMPED law firm files suit against Alex Murdaugh for damages after claims he took money from them and clients for his own personal use. Jim Griffin, one of Alex Murdaugh’s lawyers, responds to the lawsuit saying, *"This is a very sad development. Alex holds every member of the Peters, Murdaugh, Parker, Eltzroth, Detrick law firm in very high esteem. He has pledged his full cooperation to the firm."* In court documents, Murdaugh is accused of plotting with friends, an attorney and banker, to pocket money from Gloria Satterfield's $4.3 million wrongful death settlement. |
+| Oct. 8, 2021 | The South Carolina Supreme Court suspends the law license of Beaufort attorney Cory Fleming, accused of helping Murdaugh funnel money from Satterfield's wrongful death settlement. |
+| Oct. 14, 2021 | Alex Murdaugh is taken into custody upon his release from a drug rehabilitation facility in Orlando, charged with two counts of obtaining property by false pretenses in connection with Gloria Satterfield's wrongful death settlement. He awaits extradition back to South Carolina. |
+| Oct. 15, 2021 | WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries. |
+| Oct. 19, 2021 | Alex Murdaugh appears in a Richland County, South Carolina courtroom for a bond hearing stemming from the obtaining property by false pretenses charges. Following an hour-long hearing, the judge rules that Murdaugh will be held in custody pending a psychiatric evaluation. |
+| Oct. 22, 2021 | SLED releases three 911 calls placed the day Alex Murdaugh reported being shot in the head in Hampton County. Two calls are from Murdaugh and the third is from a passerby, who saw Murdaugh bleeding and waving his hands but didn't stop because she felt it was a set up. |
+| Oct. 29, 2021 |  Circuit Judge Daniel Hall hears the wrongful death lawsuit by the family of Mallory Beach. Hall said he would make a ruling the following week as to whether control of Murdaugh's assets should be turned over to independent representatives so Murdaugh does not engage in fraud to hide money. Murdaugh’s lawyer John Tiller said he hasn’t been found responsible in any of the civil suits and has insurance to cover if he is required to pay damages. |
+| Nov. 2, 2021 | A judge freezes Alex Murdaugh's assets as part of the ongoing wrongful death cases. |
+| Nov. 4, 2021 | Alex Murdaugh and Curtis Edward Smith are indicted on multiple charges by a Hampton County grand jury in connection to the assisted suicide plot. |
+| Nov. 10, 2021 | Alex Murdaugh is denied bond following a psychiatric evaluation. Alex Murdaugh in connection to the underage alcohol sold at the Okatie Parker's location, and for Murdaugh allowing his son Paul to operate his boat despite being intoxicated. |
+| Dec. 3, 2021 | The family of Mallory Beach files suit against Gregory M. Parker, Gregory M. Parker Inc., Parker's Corporation and several other defendants, claiming they were harassed by those who created fake social media accounts to affect ongoing civil proceedings. |
+| Dec. 6, 2021 | Attorneys representing the family of Gloria Satterfield file suit against Bank of America, claiming the bank aided Alex Murdaugh's financial crimes against the former Murdaugh housekeeper.
+| Dec. 9, 2021 | Bland Richter, LLP, representing the family of Gloria Satterfield, files a lawsuit against Curtis Edward Smith, claiming Murdaugh paid Smith $2 million over the span of 6 years, money that should have gone to Satterfield's family. South Carolina Attorney General Alan Wilson announces the South Carolina State Grand Jury issued seven indictments consisting of 21 new charges against Alex Murdaugh. |
+| Dec. 13, 2021 | Alex Murdaugh is given a $7 million bond for charges stemming from South Carolina state grand jury indictments. |
+| Jan. 21, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh on 23 criminal charges, including breach of trust and computer crimes. |
+| Jan. 24, 2022 | An attorney representing Mallory Beach's mother and two survivors of the deadly boat crash file creditor's claims, totaling $65 million, against the estates of Paul and Maggie Murdaugh. The move prevents Alex Murdaugh from inheriting the 'Moselle' property before claims are paid. He remains in custody in Richland County. |
+| May 4, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime. |
+| May 31, 2022 | Alex Murdaugh signs a confession of judgement, awarding the Satterfield family more than $4.3 million. He remains in custody in Richland County. |
+| May 4, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime. |
+| May 31, 2022 | Alex Murdaugh signs a confession of judgement, awarding the Satterfield family more than $4.3 million. The prominent attorney stole millions of dollars from his clients even though more than 70 criminal charges against the prominent lawyer have not been resolved. The Satterfield family announces they are using some of their settlement money to fund the creation of a foundation called "Gloria's Gift." The charity will provide Christmas gifts to Hampton County families in need. |
 | June 21, 2022 | The South Carolina Supreme Court says Alex Murdaugh’s attorneys said they would not contest any arguments scheduled for a disbarment hearing, thus canceling the scheduled hearing altogether. |
 | June 28, 2022 | Alex Murdaugh and Curtis Edward Smith are indicted on a slew of new charges, ranging from criminal conspiracy to money laundering. |
-| July 20, 2022 | Alex Murdaugh appears in Colleton County district court and pleads not guilty on the murder charges.
-Murdaugh cohort and former Palmetto State Bank CEO Russell Laffitte is federally indicted on several fraud-related charges. |
+| July 20, 2022 | Alex Murdaugh appears in Colleton County district court and pleads not guilty on the murder charges. Murdaugh cohort and former Palmetto State Bank CEO Russell Laffitte is federally indicted on several fraud-related charges. |
 | July 27, 2022 | Laffitte is granted a $50,000 bond on his federal charges. |
 | Aug. 11, 2022 | Curtis Edward Smith has his bond and house arrest revoked following 26 unauthorized trips. |
 | Aug. 17, 2022 | Alex Murdaugh's attorney Dick Harpootlian holds a press conference and files a motion demanding to see all the evidence against his client in the double murder investigation. |
@@ -94,4 +85,11 @@ Murdaugh cohort and former Palmetto State Bank CEO Russell Laffitte is federally
 | Sept. 27, 2022 | The civil lawsuit surrounding the wrongful death of Mallory Beach is scheduled to go to trial on Jan. 9, 2023 in Hampton County. The court reverses a prior ruling that would have allowed Gregory M. Parker a separate trial. |
 | October 13, 2022 | Alex Murdaugh's double murder trial for the deaths of Paul and Maggie Murdaugh is set to begin Jan. 30, 2023. |
 | October 17, 2022 | Murdaugh's trial is rescheduled for Jan. 23, 2023 to "better fit with judicial schedules," according to the South Carolina Attorney General's Office. |
+| November 4, 2022 | NBC aired a special two episode of Dateline titled "Dark Waters". |
 | Nov. 9, 2022 | Former Palmetto State Bank CEO Russell Laffitte goes on trial for conspiracy to commit wire fraud, bank fraud and misapplication of bank funds. |
+
+## References
+
+1. [WJCL — ABC, Savannah, GA](https://www.wjcl.com/)
+2. [FitsNews.com](https://www.fitsnews.com/)
+3. [Wikipedia: Murdaugh Family](https://en.wikipedia.org/wiki/Murdaugh_family?wprov=sfla1)
