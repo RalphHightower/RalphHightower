@@ -106,6 +106,6 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 ## References
 
 1. [WJCL — ABC, Savannah, GA](https://www.wjcl.com/)
-2. [FitsNews.com](https://www.fitsnews.com/)
+2. [FitsNews.com: All Things Murdaugh](https://www.fitsnews.com/category/murdaughs/)
 3. [Wikipedia: Murdaugh Family](https://en.wikipedia.org/wiki/Murdaugh_family?wprov=sfla1)
 4. [Death, Drugs & Deceit: A Timeline of the Murdaugh Family Mystery](https://www.investigationdiscovery.com/crimefeed/murder/death-drugs-and-deceit-a-timeline-of-the-murdaugh-family-mystery)
