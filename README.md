@@ -367,6 +367,8 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
+## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
+
 ## Automotive
 
 ### OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
