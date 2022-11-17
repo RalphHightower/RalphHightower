@@ -1,6 +1,6 @@
 # Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
-This is an interesting saga of a prominent attorney and his fall into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt,  and murder charges. 
+This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt, and murder charges. 
 
 | Date/Period | Events/What Happened |
 |---------------|--------------------------|
@@ -14,7 +14,7 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 | April 18, 2019 | Paul Murdaugh is indicted on charges of boating under the influence causing death and two counts of boating under the influence causing great bodily injury. |
 | May 6, 2019 | Murdaugh pleads not guilty to all charges. |
 | June 4, 2021 | Court ordered mediation in the wrongful death lawsuit fails, which appears to make the case bound for trial. |
-| JUN 06, 2022 | [Indictment.Smith, Curtis And Murdaugh, Alex.Colleton.2022 06 23](03019771Xd2c78)](https://www.scag.gov/media/ipalzfs0/indictment-smith-curtis-and-murdaugh-alex-colleton-2022-06-23-03019771xd2c78.docx) |
+| JUN 06, 2022 | [Indictment.Smith, Curtis And Murdaugh, Alex.Colleton.2022 06 23 (03019771Xd2c78)](https://www.scag.gov/media/ipalzfs0/indictment-smith-curtis-and-murdaugh-alex-colleton-2022-06-23-03019771xd2c78.docx) |
 | June 7, 2021 | Alex Murdaugh discovers the bodies of his son Paul and wife Maggie at their 1,770-acre hunting lodge on Moselle Road in Islandton, Colleton County. A 911 call is placed at 10:07 p.m. *"I need the police and ambulance immediately," Alex Murdaugh says in the 911 call. "My wife and child have been shot badly!"* The Colleton County Sheriff's Office responds and secures the scene. South Carolina's State Law Enforcement Division is contacted at 10:28 p.m. to assist. SLED agents arrive at 11:47 p.m. Murdaugh family friend Tangie Ohmer tells WJCL: *"It was just siren after siren..."* |
 | June 8, 2021 | Authorities confirm the identities of the deceased, referring to the incident as a double homicide. However, they say there is no threat to the public. |
 | June 11, 2021 | A graveside service is held at Hampton Cemetery for both Paul and Maggie Murdaugh. |
@@ -58,9 +58,6 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 | OCT 13, 2022 | [Murdaugh murder trial date set](https://www.scag.gov/about-the-office/news/murdaugh-murder-trial-date-set/) |
 | Oct. 15, 2021 | WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries. |
 | OCT 19, 2022 | [Attorney General Alan Wilson's office files response to Murdaugh defense motions](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-s-office-files-response-to-murdaugh-defense-motions/) |
-| OCT 19, 2022 | [Attorney General Alan Wilson's office files response to Murdaugh defense motions](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-s-office-files-response-to-murdaugh-defense-motions/) || OCT 13, 2022 | [Murdaugh murder trial date set](https://www.scag.gov/about-the-office/news/murdaugh-murder-trial-date-set/) |
-| OCT 19, 2022 | [Attorney General Alan Wilson's office files response to Murdaugh defense motions](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-s-office-files-response-to-murdaugh-defense-motions/) || Oct. 14, 2021 | Alex Murdaugh is taken into custody upon his release from a drug rehabilitation facility in Orlando, charged with two counts of obtaining property by false pretenses in connection with Gloria Satterfield's wrongful death settlement. He awaits extradition back to South Carolina. |
-| Oct. 19, 2021 | Alex Murdaugh appears in a Richland County, South Carolina courtroom for a bond hearing stemming from the obtaining property by false pretenses charges. Following an hour-long hearing, the judge rules that Murdaugh will be held in custody pending a psychiatric evaluation. |
 | Oct. 22, 2021 | SLED releases three 911 calls placed the day Alex Murdaugh reported being shot in the head in Hampton County. Two calls are from Murdaugh and the third is from a passerby, who saw Murdaugh bleeding and waving his hands but didn't stop because she felt it was a set up. |
 | Oct. 29, 2021 |  Circuit Judge Daniel Hall hears the wrongful death lawsuit by the family of Mallory Beach. Hall said he would make a ruling the following week as to whether control of Murdaugh's assets should be turned over to independent representatives so Murdaugh does not engage in fraud to hide money. Murdaugh’s lawyer John Tiller said he hasn’t been found responsible in any of the civil suits and has insurance to cover if he is required to pay damages. |
 | Nov. 2, 2021 | A judge freezes Alex Murdaugh's assets as part of the ongoing wrongful death cases. |
