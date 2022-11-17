@@ -63,6 +63,7 @@ This is an interesting saga of a prominent attorney and his fall into criminal c
 | Dec. 13, 2021 | Alex Murdaugh is given a $7 million bond for charges stemming from South Carolina state grand jury indictments. |
 | Jan. 21, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh on 23 criminal charges, including breach of trust and computer crimes. |
 | Jan. 24, 2022 | An attorney representing Mallory Beach's mother and two survivors of the deadly boat crash file creditor's claims, totaling $65 million, against the estates of Paul and Maggie Murdaugh. The move prevents Alex Murdaugh from inheriting the 'Moselle' property before claims are paid. He remains in custody in Richland County. |
+| [Feb. 22, 2022](https://www.fitsnews.com/2022/02/14/moselle-property-where-maggie-and-paul-murdaugh-were-murdered-might-be-sold-soon-sources-say/) | Moselle Property Where Maggie and Paul Murdaugh Were Murdered Listed For $3.9 Million |
 | May 4, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime. |
 | May 31, 2022 | Alex Murdaugh signs a confession of judgement, awarding the Satterfield family more than $4.3 million. He remains in custody in Richland County. |
 | May 4, 2022 | The South Carolina State Grand Jury indicts Alex Murdaugh, former bank CEO Russell Lucius Laffitte and Cory Fleming on a total of 30 criminal charges, including breach of trust, conspiracy and computer crime. |
