@@ -122,6 +122,15 @@
 | CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras |
 | CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements |
 
+## Canon Magic Lantern
+
+Magic Lantern is a free software add-on that runs from the SD/CF card and adds a host of new features to Canon EOS cameras that weren't included from the factory by Canon.
+
+| [Canon Magic Lantern](https://www.magiclantern.fm/) |
+|-----|
+| [Source Code](https://www.magiclantern.fm/downloads.html#source) |
+| [Downloads](https://www.magiclantern.fm/downloads.html) |
+
 # Preferred Photography Retailers 
 
 | Company | Location | About |
