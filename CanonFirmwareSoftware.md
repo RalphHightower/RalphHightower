@@ -1,5 +1,9 @@
 # Camera Manuals, Firmware, Software
 
+## [Canon Global](https://global.canon/en/)
+
+### [Canon Technology](https://global.canon/en/technology/)
+
 ## Film Cameras
 
 ### Canon A-1
