@@ -119,8 +119,6 @@ This is an interesting saga of a prominent attorney and his fall from grace, ric
 | This State Grand Jury investigation is being conducted by the South Carolina Law Enforcement Division, the South Carolina Attorney General’s Office, the Federal Bureau of Investigation, and the United States Attorney’s Office. The case will be prosecuted by The South Carolina Attorney General’s Office. |
 | Attorney General Wilson stressed that all defendants are presumed innocent unless and until they are proven guilty in a court of law. |
 
-## 
-
 ## Personal Opinion 
 
 Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh is indicted for two charges in the murder of his wife and son, he should remain in prison for the remainder of his life. If he were to get the maximum sentence for his financial crimes, his sentence would be longer than his remaining expected lifespan. 
