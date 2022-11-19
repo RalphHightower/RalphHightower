@@ -77,4 +77,4 @@
 [^2]: 2022-10-12 Ralph Hightower contributions of omissions  
 [^3]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
 [^4]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)
-[^5]: Total Wine and More 
+[^5]: 2022-11-10 Total Wine and More 
