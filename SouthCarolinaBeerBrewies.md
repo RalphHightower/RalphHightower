@@ -9,6 +9,7 @@
 | [Benford Brewing](https://benfordbrewing.com/)[^2] | Lancaster ||
 | [Birds Fly South Ale Project](https://bfsbeer.com/)[^1] |	Greenville | 2016 |
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
+| [Brewlab](https://www.thebrewlab.net/)[^4] | Charleston ||
 | [Brewery 85](http://brewery85.com/)[^1] | Greenville | 2014 |
 | [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/)[^3] | Anderson ||
 | [Charles Towne Fermentory](www.chsfermentory.com)[^1] | Charleston | 2016 |
@@ -34,7 +35,7 @@
 | [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/)[^3] | Charleston ||
 | [Iron Hill Brewery and Restaurant](https://www.ironhillbrewery.com/greenville-sc)[^3] | Greenville ||
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
-| Kite Hill Brewery[^4] | Clemson ||
+| Kite Hill Brewery[^5] | Clemson ||
 | [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
 | LO-Fi Brewing[^1] | Charleston | 2013 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
@@ -55,7 +56,7 @@
 | [Rock Hill Brewing Company](https://rockhillbrewingcompany.com/)[^3] | Rock Hill ||
 | [Rusty Bull Brewing Company](https://www.rustybullbrewing.com/)[^1] | North Charleston | 2017 |
 | Salt Marsh Brewing Company[^1] | Bluffton | 2013 |
-| [Savage Craft Ale Works](https://savagecraft.com/)[^4] | West Columbia ||
+| [Savage Craft Ale Works](https://savagecraft.com/)[^5] | West Columbia ||
 | [Seminar Brewing](http://www.seminarbrewing.com/)[^1] | Florence | 2010 |
 | [Snafu Brewing Company](http://www.snafubrewingcompany.com/)[^3] | North Charleston ||
 | [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/)[^3] | Bluffton ||
@@ -65,7 +66,7 @@
 | [Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)[^2] | Columbia ||
 | [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^3] | Travelers Rest ||
 | [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
-| Tidal Creek Brewhouse[^3] | Myrtle Beach ||
+| [Tidal Creek Brewhouse](https://tidalcreekbrewhouse.com/)[^3] | Myrtle Beach ||
 | [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
@@ -75,4 +76,5 @@
 [^1]: [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
 [^2]: 2022-10-12 Ralph Hightower contributions of omissions  
 [^3]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
-[^4]: Total Wine and More
+[^4]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)
+[^5]: Total Wine and More 
