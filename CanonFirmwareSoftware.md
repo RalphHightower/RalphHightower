@@ -76,7 +76,6 @@
 | Pocket Guide (EOS 5D Mark III) | 2012-03.09 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzM1MzAx&cmp=ABR&lang=EN) |
 | Picture Style Editor Ver. 1.26 for Windows Instruction Manual | 2021-07-08| [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDA0MDI3NjAy&cmp=ABR&lang=EN)  |
 
-
 #### Canon EF 24-105mm f4L
 
 | Description | Date | Link |
@@ -88,6 +87,7 @@
 | Description | Date | Link |
 |-------------|------|------|
 | SPEEDLITE 600EX II-RT INSTRUCTION MANUAL | 2016-05-30 | [Download]() |
+| ST-E3-RT INSTRUCTION MANUAL | 2014-07-07 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzUxNTAy&cmp=ABR&lang=EN) |
 
 ### GPS
 
