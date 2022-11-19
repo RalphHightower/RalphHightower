@@ -9,6 +9,7 @@
 | [Benford Brewing](https://benfordbrewing.com/)[^2] | Lancaster ||
 | [Birds Fly South Ale Project](https://bfsbeer.com/)[^1] |	Greenville | 2016 |
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
+| The Blue Ridge Brewing Company[^6] | Greer ||
 | [Brewlab](https://www.thebrewlab.net/)[^4] | Charleston ||
 | [Brewery 85](http://brewery85.com/)[^1] | Greenville | 2014 |
 | [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/)[^3] | Anderson ||
@@ -20,6 +21,7 @@
 | [Cooper River Brewing Company](https://cooperriverbrewing.com/)[^1] | Charleston | 2015 |
 | [CottonTown Brew Lab](http://ctbl.azurewebsites.net/)[^3] | Columbia ||
 | Crooked Hammock Brewery[^3] | North Myrtle Beach ||
+| Double Stamp Brewery[^6] | Greenville ||
 | [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
 | [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
 | [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^3] | Greenville ||
@@ -27,8 +29,10 @@
 | [Fireforge Crafted Beer](https://www.fireforge.beer/)[^3] | Greenville ||
 | Freehouse Brewery[^1] | North Charleston | 2013 |
 | [Frothy Beard Brewing Company](https://frothybeard.com/)[^1] | Charleston | 2013 |
-| Grand Strand Brewing Company[^3] | Myrtle Beach ||
+| Ghost Monkey Brewery | Mount Pleasant ||
 | [Good Times Brewing](https://millhousepizza.com/beer)[^3] | Greenwood ||
+| Grand Strand Brewing Company[^3] | Myrtle Beach ||
+| Hazelwood Brewing Company[^6] | Lexington ||
 | Hilton Head Brewing Company[^1] | Hilton Head Island | 1994 |
 | [Holy City Brewing](https://holycitybrewing.com/)[^1] | North Charleston | 2011 |
 | [Hunter Gatherer Brewery/Taproom](https://huntergathererbrewery.com/)[^2] | Columbia |
@@ -46,6 +50,7 @@
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
+| Pangaea Brewing Company[^6] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
 | Peak Drift Brewing Company[^1] | Columbia | 2021 |
 | [Plankowner Brewing](http://plankownerbrewing.com/)[^3] | Boiling Springs ||
@@ -60,6 +65,7 @@
 | [Seminar Brewing](http://www.seminarbrewing.com/)[^1] | Florence | 2010 |
 | [Snafu Brewing Company](http://www.snafubrewingcompany.com/)[^3] | North Charleston ||
 | [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/)[^3] | Bluffton ||
+| The Southern Growl[^6] | Greer ||
 | [Southern Hops Brewing Co](http://www.southernhops.com/)[^3] | Florence ||
 | [Steel Hands Brewing](https://steelhandsbrewing.com/)[^1] | Cayce | 2018 |
 | [Sumter Original Brewery](http://sumteroriginalbrewery.com/)[^3] | Sumter ||
@@ -67,6 +73,7 @@
 | [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^3] | Travelers Rest ||
 | [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
 | [Tidal Creek Brewhouse](https://tidalcreekbrewhouse.com/)[^3] | Myrtle Beach ||
+| Tideland Brewing[^6] | North Charleston ||
 | [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
@@ -77,4 +84,5 @@
 [^2]: 2022-10-12 Ralph Hightower contributions of omissions  
 [^3]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
 [^4]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)
-[^5]: 2022-11-10 Total Wine and More 
+[^5]: 2022-11-10 Total Wine and More
+[^6]: 2022-11-19 Craft and Draft (Irmo)
