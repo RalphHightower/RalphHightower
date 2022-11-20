@@ -47,6 +47,7 @@
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
+| [OKdo x Radxa ROCK 5 Model B 8GB Single Board Computer Rockchip RK3588 Arm Cortex-A76](https://www.okdo.com/us/p/okdo-x-radxa-rock-5-model-b-8gb-single-board-computer-rockchip-rk3588-arm-cortex-a76/) | (H/W) $159 |
 | [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
@@ -55,10 +56,11 @@
 [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) $75 | (H/W) |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
+| [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
-| [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
+| [ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) $169 |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
@@ -110,6 +112,7 @@
 | [NanoPi R6S Review – Part 1: Unboxing, Teardown, OpenWrt 22.03, and iperf3](https://www.cnx-software.com/2022/11/12/nanopi-r6s-review-unboxing-teardown-openwrt-22-03-iperf3/) |
 | [Sipeed M1s & M0sense – Low-cost BL808 & BL702 based AI modules (Crowdfunding)](https://www.cnx-software.com/2022/11/14/sipeed-m1s-m0sense-low-cost-bl808-bl702-ai-modules/) |
 | [Orange Pi 5 lands for US$60 with Rockchip RK3588S and 4 GB of LPDDR4X RAM](https://www.notebookcheck.net/Orange-Pi-5-lands-for-US-60-with-Rockchip-RK3588S-and-4-GB-of-LPDDR4X-RAM.668640.0.html) |
+| [Radxa And OKdo Reveal RK3588-powered ROCK 5 Board](https://www.tomshardware.com/news/rock5-sbc-rk3588( |
 
 | Kickstarter Projects |
 |----------------------|
