@@ -113,6 +113,7 @@
 | [Sipeed M1s & M0sense – Low-cost BL808 & BL702 based AI modules (Crowdfunding)](https://www.cnx-software.com/2022/11/14/sipeed-m1s-m0sense-low-cost-bl808-bl702-ai-modules/) |
 | [Orange Pi 5 lands for US$60 with Rockchip RK3588S and 4 GB of LPDDR4X RAM](https://www.notebookcheck.net/Orange-Pi-5-lands-for-US-60-with-Rockchip-RK3588S-and-4-GB-of-LPDDR4X-RAM.668640.0.html) |
 | [Radxa And OKdo Reveal RK3588-powered ROCK 5 Board](https://www.tomshardware.com/news/rock5-sbc-rk3588) |
+| [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/?amp=1) |
 
 | Kickstarter Projects |
 |----------------------|
