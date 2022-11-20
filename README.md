@@ -81,6 +81,11 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
+| [Internet Assigned Numbering Authority](https://www.iana.org/) | Cordination of the DNS Root, IP addressing, and other Internet protocol resources |
+| [RFC Editor](https://www.rfc-editor.org/) | Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial. |
+| [Internet Engineering Task Force](https://www.ietf.org/) | Premiere standards development organization (SDO) for the Internet |
+| [Internet Research Task Force](https://www.irtf.org/) | Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology. |
+| [Internet Architecture Board](https://www.iab.org/) | Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation. |
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
