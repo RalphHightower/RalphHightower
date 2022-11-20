@@ -43,6 +43,7 @@
 | [Mouser Distributor](https://www.mouser.com/) | (H/W) |
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
 | [NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W: $119) |
+| [Bewark](https://www.newark.com/) | (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
