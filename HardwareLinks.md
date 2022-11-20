@@ -61,6 +61,7 @@
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
+| [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | [ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>$219.95 USD (16GB) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
@@ -116,6 +117,7 @@
 | [Radxa And OKdo Reveal RK3588-powered ROCK 5 Board](https://www.tomshardware.com/news/rock5-sbc-rk3588) |
 | [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/?amp=1) |
 | [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/?amp=1) |
+| [ROCK Pi 4 Model C+ SBC features 1.5 GHz Rockchip RK3399-T CPU, dual HDMI output](https://www.cnx-software.com/2022/05/05/rock-pi-4-model-c-sbc-features-1-5-ghz-rockchip-rk3399-t-cpu-dual-hdmi-output/) |
 
 | Kickstarter Projects |
 |----------------------|
