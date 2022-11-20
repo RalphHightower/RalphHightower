@@ -34,6 +34,7 @@
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
+| [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
@@ -114,6 +115,7 @@
 | [Orange Pi 5 lands for US$60 with Rockchip RK3588S and 4 GB of LPDDR4X RAM](https://www.notebookcheck.net/Orange-Pi-5-lands-for-US-60-with-Rockchip-RK3588S-and-4-GB-of-LPDDR4X-RAM.668640.0.html) |
 | [Radxa And OKdo Reveal RK3588-powered ROCK 5 Board](https://www.tomshardware.com/news/rock5-sbc-rk3588) |
 | [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/?amp=1) |
+| [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/?amp=1) |
 
 | Kickstarter Projects |
 |----------------------|
