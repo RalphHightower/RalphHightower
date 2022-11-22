@@ -125,6 +125,12 @@
 |----------------------|
 | [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html)  |
 
+| Documentation |
+|-----|
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+
+
+
 | [AmbaSat Sensor Add-ons]() | Function |
 |---|-----|
 | ~~Sensor 01: SHT30-DIS-F2.5KS~~ | Humidity and Temperature – Best in class Humidity & Temperature Sensor. Fully calibrated, linearized, and temperature-compensated digital output with a wide supply voltage range, I2C Interface with communication speeds up to 1MHz and two user-selectable addresses. Typical accuracy of 1.5 %RH and 0.1 °C. Very fast start-up and measurement time. All in a tiny 8-Pin DFN package. |
