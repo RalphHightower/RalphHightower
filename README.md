@@ -97,6 +97,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 |---------------------|
 | [Governments on GitHub](https://government.github.com/community/) |
 | [Adobe, Inc. — Open source from Adobe](https://github.com/adobe) |
+| [The Apache Software Foundation](https://github.com/apache) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores.](https://github.com/arduino) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
@@ -104,6 +105,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Google](https://github.com/google) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (Single Board Computers)](https://www.khadas.comhttps/) (H/W) |
+| [LinkedIn](https://github.com/linkedin) |
 | [Microsoft — Open source projects and samples from Microsoft](https://github.com/microsoft) |
 | [.NET Platform — Home of the open source .NET platform](https://github.com/dotnet) |
 | [Microsoft Azure — APIs, SDKs and open source projects from Microsoft Azure](https://github.com/Azure) |
