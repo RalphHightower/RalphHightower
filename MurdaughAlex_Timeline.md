@@ -2,11 +2,19 @@
 
 This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt, and murder charges. 
 
+## News Sources 
+
+1) [WJCL, ABC 22, Savannah, Georgia](https://www.wjcl.com/)
+2) [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
+3) [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
+4) [South Carolina Attorney General](https://www.scag.gov/(
+
 | Date/Period | Events/What Happened |
 |---------------|--------------------------|
 | 1920-2005 | For three generations, members of the Murdaugh family serve as the South Carolina 14th circuit solicitor, the top prosecutor representing Beaufort, Jasper, Hampton, Allendale and Colleton counties. |
 | July 8, 2015 | Stephen Smith, 19, is found dead on Sandy Run Road in Hampton County. No arrest is made in the case. |
-| Feb. 2, 2018 | Gloria Satterfield, 57, falls at the Murdaugh family home on Moselle Road in Colleton County. For more than two decades, she had served as the family housekeeper and nanny. |
+| Feb. 2, 2018 | Gloria Satterfield, 57, falls at the Murdaugh family home on Moselle Road in Coll
+eton County. For more than two decades, she had served as the family housekeeper and nanny. |
 | Feb. 26, 2018 | Satterfield dies from her injuries. According to court documents, Alex Murdaugh tells Satterfield's sons that he was responsible and plans to sue himself so they are financially taken care of. The family says they never receive any money |
 | Feb. 24, 2019 | Mallory Beach, 19, goes missing after a boat crash near Parris Island. A 911 call is placed from the scene of the crash at Archer's Creek. Photos from the scene capture damage to the boat, bloodstains and numerous containers of beer. messages on Alex’s phone, and the conversations between Alex and Maggie portray a very loving relationship. It is our hope that the media will continue to focus on covering the investigation of the person or peop |
 | March 3, 2019 | Following a week of searches, a boater discovers Mallory's body in a marsh area near the Broad River boat landing in Beaufort County. |
