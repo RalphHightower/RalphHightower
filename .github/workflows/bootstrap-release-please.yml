@@ -1,1 +1,0 @@
-release-please bootstrap --token=$GITHUB_TOKEN --repo-url=RalphHightower/RalphHightower --release-type=simple #[extra options]
