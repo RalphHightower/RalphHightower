@@ -120,6 +120,7 @@
 | [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/?amp=1) |
 | [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/?amp=1) |
 | [ROCK Pi 4 Model C+ SBC features 1.5 GHz Rockchip RK3399-T CPU, dual HDMI output](https://www.cnx-software.com/2022/05/05/rock-pi-4-model-c-sbc-features-1-5-ghz-rockchip-rk3399-t-cpu-dual-hdmi-output/) |
+| [You can now buy Khadas VIM4 SBC for $199.90](https://www.cnx-software.com/2022/05/10/buy-khadas-vim4-sbc/) |
 
 | Kickstarter Projects |
 |----------------------|
