@@ -143,7 +143,7 @@
 ## Projects 
 | Projects |
 |----------|
-[Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
+| [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
 
 ## Patch Bulletins 
 
