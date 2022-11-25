@@ -4,6 +4,11 @@
 
 This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt, and murder charges. 
 
+1) [WJCL, ABC 22, Savannah, Georgia](https://www.wjcl.com/)
+2) [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
+3) [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
+4) [South Carolina Attorney General](https://www.scag.gov/)
+
 | Date/Period | Events/What Happened |
 |---------------|--------------------------|
 | 1920-2005 | For three generations, members of the Murdaugh family serve as the South Carolina 14th circuit solicitor, the top prosecutor representing Beaufort, Jasper, Hampton, Allendale and Colleton counties. |
