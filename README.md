@@ -9,6 +9,11 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 | [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
 | [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
+| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm) |
+| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php)  |
+| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
+| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
 
 ## Various Places Where I May Be
 
