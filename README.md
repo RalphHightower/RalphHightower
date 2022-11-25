@@ -108,6 +108,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) |
 | [Garmin International](https://github.com/garmin) |
 | [Google](https://github.com/google) |
+| [IBM](https://github.com/IBM) |
 | [Intel Corporation](https://github.com/intel) | 
 | [Khadas (Single Board Computers)](https://www.khadas.comhttps/) (H/W) |
 | [LinkedIn](https://github.com/linkedin) |
