@@ -2,6 +2,18 @@
 
 [Raspberry PI Locater](https://rpilocator.com/)
 
+## Documentation / Projects
+
+| Kickstarter Projects |
+|----------------------|
+| [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html)  |
+
+| Documentation |
+|-----|
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+
+## Hardware 
+
 | Hardware Suppliers | H/W, GitHub |
 |-----------|--------|
 | [AAEON AI CORE XM 2280AI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-xm-2280) | (H/W) |
@@ -27,7 +39,7 @@
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
-| [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) |
+| [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
@@ -72,14 +84,7 @@
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 
-| Projects |
-|----------|
-[Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
-
-| Patch Bulletins |
-|-----------------|
-| [Google Android](https://source.android.com/docs/security/bulletin) |
-| [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
+## Articles 
 
 | Articles |
 |----------|
@@ -122,15 +127,7 @@
 | [ROCK Pi 4 Model C+ SBC features 1.5 GHz Rockchip RK3399-T CPU, dual HDMI output](https://www.cnx-software.com/2022/05/05/rock-pi-4-model-c-sbc-features-1-5-ghz-rockchip-rk3399-t-cpu-dual-hdmi-output/) |
 | [You can now buy Khadas VIM4 SBC for $199.90](https://www.cnx-software.com/2022/05/10/buy-khadas-vim4-sbc/) |
 
-| Kickstarter Projects |
-|----------------------|
-| [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html)  |
-
-| Documentation |
-|-----|
-| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
-
-
+## DIY CubeSat
 
 | [AmbaSat Sensor Add-ons]() | Function |
 |---|-----|
@@ -142,5 +139,18 @@
 | Sensor 06: SI1132-A10-GMR | UV Sensor – The Si1132 is a low-power, ultraviolet (UV) index, and ambient light sensor with I2C digital interface and programmable-event interrupt output. This sensor IC includes an analog-to-digital converter, integrated high-sensitivity visible and infrared photodiodes, and a digital signal processor. The Si1132 offers excellent performance under a wide dynamic range and a variety of light sources including direct sunlight. |
 | Sensor 07: CCS811B-JOPD500 | TVOC & CO2 – The CCS811 is an ultra-low power digital gas sensor solution which integrates a metal oxide (MOX) gas sensor to detect a wide range of Volatile Organic Compounds (VOCs) and includes an Analog-to-Digital converter (ADC), and an I²C interface. Supporting intelligent algorithms to process raw sensor measurements and output equivalent total VOC (eTVOC) and equivalent CO2 (eCO2) values. |
 | Sensor 08: TESEO-LIV3R[^1] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
+
+## Projects 
+| Projects |
+|----------|
+[Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
+
+## Patch Bulletins 
+
+| Patch Bulletins |
+|-----------------|
+| [Google Android](https://source.android.com/docs/security/bulletin) |
+| [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
+
 
 [^1]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
