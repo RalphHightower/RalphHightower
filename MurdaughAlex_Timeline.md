@@ -1,5 +1,7 @@
 # Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
+## A Southern Gothic Tale of Mystery, Money, and Murder
+
 This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt, and murder charges. 
 
 | Date/Period | Events/What Happened |
