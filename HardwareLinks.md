@@ -34,6 +34,7 @@
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
+| [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
@@ -126,6 +127,8 @@
 | [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/?amp=1) |
 | [ROCK Pi 4 Model C+ SBC features 1.5 GHz Rockchip RK3399-T CPU, dual HDMI output](https://www.cnx-software.com/2022/05/05/rock-pi-4-model-c-sbc-features-1-5-ghz-rockchip-rk3399-t-cpu-dual-hdmi-output/) |
 | [You can now buy Khadas VIM4 SBC for $199.90](https://www.cnx-software.com/2022/05/10/buy-khadas-vim4-sbc/) |
+| [Banana Pi BPI-CM4 compute module with Amlogic A311D is pin compatible with Raspberry Pi CM4](https://liliputing.com/banana-pi-bpi-cm4-compute-module-with-amlogic-a311d-is-pin-compatible-with-raspberry-pi-cm4/) |
+| [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/?amp=1) |
 
 ## DIY CubeSat
 
