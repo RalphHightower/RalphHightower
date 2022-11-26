@@ -2,7 +2,7 @@
 
 ## Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
-This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drugs (oxytocin), assisted suicide attempt, and murder charges. 
+This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drug addiction (oxycodone), assisted suicide attempt, and murder charges. 
 
 1. [WJCL, ABC 22, Savannah, Georgia](https://www.wjcl.com/)
 2. [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
