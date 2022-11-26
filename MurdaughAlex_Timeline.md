@@ -3,11 +3,7 @@
 ## Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
 This is an interesting saga of a prominent attorney and his fall from grace, riches, and privilege into criminal charges of embezzlement, money laundering, drug addiction (oxycodone), assisted suicide attempt, and murder charges. 
-
-1. [WJCL, ABC 22, Savannah, Georgia](https://www.wjcl.com/)
-2. [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
-3. [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
-4. [South Carolina Attorney General](https://www.scag.gov/)
+[South Carolina Attorney General](https://www.scag.gov/)
 
 | Date/Period | Events/What Happened |
 |---------------|--------------------------|
@@ -132,8 +128,9 @@ Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh i
 
 ## References
 
-1. [WJCL — ABC, Savannah, GA](https://www.wjcl.com/)
-2. [FitsNews.com: All Things Murdaugh](https://www.fitsnews.com/category/murdaughs/)
-3. [Wikipedia: Murdaugh Family](https://en.wikipedia.org/wiki/Murdaugh_family?wprov=sfla1)
-4. [Death, Drugs & Deceit: A Timeline of the Murdaugh Family Mystery](https://www.investigationdiscovery.com/crimefeed/murder/death-drugs-and-deceit-a-timeline-of-the-murdaugh-family-mystery)
-5. [ South Carolina Attorney General](https://www.scag.gov/)
+1. [WJCL, ABC 22, Savannah, Georgia](https://www.wjcl.com/)
+2. [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
+3. [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
+4. [Wikipedia: Murdaugh Family](https://en.wikipedia.org/wiki/Murdaugh_family?wprov=sfla1)
+5. [Death, Drugs & Deceit: A Timeline of the Murdaugh Family Mystery](https://www.investigationdiscovery.com/crimefeed/murder/death-drugs-and-deceit-a-timeline-of-the-murdaugh-family-mystery)
+6. [ South Carolina Attorney General](https://www.scag.gov/)
