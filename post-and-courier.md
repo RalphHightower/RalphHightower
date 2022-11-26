@@ -1,4 +1,4 @@
-# A Southern Gothic Tale of Money, Mystery, and Murder
+# A Southern Gothic Tale of Money, Mystery, and Murder (P&C)
 
 ## Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
