@@ -129,6 +129,7 @@
 | [You can now buy Khadas VIM4 SBC for $199.90](https://www.cnx-software.com/2022/05/10/buy-khadas-vim4-sbc/) |
 | [Banana Pi BPI-CM4 compute module with Amlogic A311D is pin compatible with Raspberry Pi CM4](https://liliputing.com/banana-pi-bpi-cm4-compute-module-with-amlogic-a311d-is-pin-compatible-with-raspberry-pi-cm4/) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/?amp=1) |
+| [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html) |
 
 ## DIY CubeSat
 
