@@ -1,8 +1,8 @@
-# A Southern Gothic Tale of Money, Mystery, and Murder (P&C)
+# A Southern Gothic Tale of Money, Mystery, and Murder
 
 ## Boss Hogg of Hampton County, aka, Alex Murdaugh 
 
-### [DRUGS, DECEIT AND DEATH THE DOWNFALL OF ALEX MURDAUGH AND A LOWCOUNTRY DYNASTY](https://www.postandcourier.com/murdaugh-updates/)
+### [DRUGS, DECEIT AND DEATH THE DOWNFALL OF ALEX MURDAUGH AND A LOWCOUNTRY DYNASTY](https://www.postandcourier.com/murdaugh-updates/)[^1]
 
 | Date/Period | Events/What Happened |
 |---------------|--------------------------|
@@ -196,7 +196,7 @@
 | Oct 25, 2022 | [Alex Murdaugh’s former law office strikes back over claim of wrongdoing](https://www.postandcourier.com/murdaugh-updates/alex-murdaughs-former-law-office-strikes-back-over-claim-of-wrongdoing/article_27c0c9da-5476-11ed-87d7-430dd080a4f7.html) |
 | Oct 28, 2022 | [Editorial: SC Supreme Court needs to condemn Mullen’s inappropriate intervention](https://www.postandcourier.com/opinion/editorials/editorial-sc-supreme-court-needs-to-condemn-mullens-inappropriate-intervention/article_c6b032e6-5567-11ed-acef-a7fbd1185d2a.html) |
 | Oct 30, 2022 | [Alex Murdaugh’s hometown struggles to get out from under his shadow](https://www.postandcourier.com/news/alex-murdaughs-hometown-struggles-to-get-out-from-under-his-shadow/article_be5db3ee-4e31-11ed-b8c6-a3aaa50b00bc.html) |
-| [November 4, 2022](https://www.nbc.com/dateline/video/dark-waters/9000267436) | [NBC Dateline, "Dark Waters"](https://www.nbc.com/dateline/video/dark-waters/9000267436) Craig Melvin[^1] reveals surprising and exclusive new details about the deaths and legal cases surrounding Alex Murdaugh, the South Carolina lawyer accused of killing his wife and son last year. **Available until 09/17/23** |
+| [November 4, 2022](https://www.nbc.com/dateline/video/dark-waters/9000267436) | [NBC Dateline, "Dark Waters"](https://www.nbc.com/dateline/video/dark-waters/9000267436) Craig Melvin[^2] reveals surprising and exclusive new details about the deaths and legal cases surrounding Alex Murdaugh, the South Carolina lawyer accused of killing his wife and son last year. **Available until 09/17/23** |
 | Nov 5, 2022 | [Ex-SC banker Russell Laffitte set to face trial in first Murdaugh case to be heard by jury](https://www.postandcourier.com/murdaugh-updates/ex-sc-banker-russell-laffitte-set-to-face-trial-in-first-murdaugh-case-to-be/article_fc914238-5bb6-11ed-ba1e-a7e71f677bf9.html) |
 | Nov 7, 2022 | [Understand Murdaugh: Ex-Palmetto State Bank CEO Russell Laffitte goes to trial](https://www.postandcourier.com/understandsc/understand-murdaugh-ex-palmetto-state-bank-ceo-russell-laffitte-goes-to-trial/article_b29ad5da-5a22-11ed-8c71-d3468565a1d6.html) |
 | Nov 7, 2022 | [Alex Murdaugh could be called as witness in trial of ex-banker Russell Laffitte](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-could-be-called-as-witness-in-trial-of-ex-banker-russell-laffitte/article_955d2e2a-5ecb-11ed-9326-1779ac2256aa.html) |
@@ -263,4 +263,6 @@ Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh i
 3. [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
 4. [South Carolina Attorney General](https://www.scag.gov/)
 
-[^1]: Craig Melvin was born and raised in Columbia, South Carolina. He graduated from Wofford College. He started working for WIS-TV as a high school student. After graduation, he returned to WIS-TV. Moving up through the ranks at some NBC stations, he became one of the Today's show weekday anchors in 2018.
+[^1]: [Post and Courier newspaper, Charleston, South Carolina](
+https://www.postandcourier.com/murdaugh-updates/)
+[^2]: Craig Melvin was born and raised in Columbia, South Carolina. He graduated from Wofford College. He started working for WIS-TV as a high school student. After graduation, he returned to WIS-TV. Moving up through the ranks at some NBC stations, he became one of the Today's show weekday anchors in 2018.
