@@ -264,6 +264,5 @@ Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh i
 4. [South Carolina Attorney General](https://www.scag.gov/)
 
 [^1]: Revised: 2022-11-28. Merged [Post and Courier](https://www.postandcourier.com/murdaugh-updates/) newspaper with [WJCL](https://www.wjcl.com/), and [SC Attorney General](https://www.scag.gov/). Ralph Hightower. 
-[^2]: [Post and Courier newspaper, Charleston, South Carolina](
-https://www.postandcourier.com/murdaugh-updates/)
+[^2]: [Post and Courier newspaper, Charleston, South Carolina](https://www.postandcourier.com/murdaugh-updates/)
 [^3]: Craig Melvin was born and raised in Columbia, South Carolina. He graduated from Wofford College. He started working for [WIS-TV](https://www.wistv.com/) as a high school student. After graduation, he returned to [WIS-TV](https://www.wistv.com/). Moving up through the ranks at some NBC stations, he became one of the [NBC Today](https://www.today.com/) weekday anchors in 2018.
