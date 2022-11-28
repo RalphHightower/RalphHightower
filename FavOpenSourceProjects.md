@@ -5,7 +5,8 @@
 | [Apache](https://www.apache.org/) | Web Server |
 | [Apache Kafka](https://kafka.apache.org/) | Streaming |
 | [Bind](https://gitlab.isc.org/isc-projects/bind9) | DNS Server |
-| [OpenBGP](https://www.openbgpd.org/) | Open Border Gateway Protocol |
+| [OpenBGP](https://www.openbgpd.org/) | Open Border Gateway Protocol 
+| [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB/-/releases/release_0.8) | Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.ASUS, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer, ThermalTake, and more supported. |
 | [Open LDAP](https://www.openldap.org/) | Lightweight Directory Access |
 | [Open SSL](https://www.openssl.org) | Secure Sockets Layer |
 | [Perl](https://www.perl.org/) | Programming Language |
