@@ -134,6 +134,10 @@
 | [Full-size Doctor Who K9 replica](https://www.raspberrypi.com/news/full-size-doctor-who-k9-replica/) |
 | [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/?amp=1) |
 
+| Programming |
+|----------|
+| [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
+
 ## DIY CubeSat
 
 | [AmbaSat Sensor Add-ons]() | Function |
