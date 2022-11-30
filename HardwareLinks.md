@@ -42,10 +42,11 @@
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
-| [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
+| [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
+| [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
@@ -133,6 +134,7 @@
 | [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html) |
 | [Full-size Doctor Who K9 replica](https://www.raspberrypi.com/news/full-size-doctor-who-k9-replica/) |
 | [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/?amp=1) |
+| [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
 
 | Programming |
 |----------|
