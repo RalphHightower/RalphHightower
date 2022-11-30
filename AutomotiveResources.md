@@ -10,7 +10,7 @@
 | [Autotrader](https://www.autotrader.com/about/index) | Used cars for sale |
 | [Hemmings](https://www.hemmings.com/) | Classic cars and parts for sale |
 | [Chevrolet](https://www.chevrolet.com/) | Manufacturer |
-[VIN Decoder](https://vpic.nhtsa.dot.gov/decoder) | What is it? What does it have? From [National Highway Traffic Safety Administration](https://www.nhtsa.dot.gov/) |
+| [VIN Decoder](https://vpic.nhtsa.dot.gov/decoder) | What is it? What does it have? From [National Highway Traffic Safety Administration](https://www.nhtsa.dot.gov/) |
 | [Old Car City](https://www.oldcarcityusa.com/)[^1] | Old Car City in White, Georgia contains the worlds largest known classic car junkyard. |
 
 ## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
