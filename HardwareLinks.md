@@ -142,6 +142,7 @@
 | [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
 | [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
 | [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
+| [Sipeed Maix-III devkit features AXERA AX620A SoC for AI vision applications](https://www.cnx-software.com/2022/12/01/sipeed-maix-iii-devkit-features-axera-ax620a-soc-for-ai-vision-applications/) |
 
 ## DIY CubeSat
 
