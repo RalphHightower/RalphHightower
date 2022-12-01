@@ -141,6 +141,7 @@
 | [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/?amp=1) |
 | [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
 | [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
+| [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
 
 ## DIY CubeSat
 
