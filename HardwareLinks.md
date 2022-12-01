@@ -156,6 +156,7 @@
 | Sensor 08: TESEO-LIV3R[^2] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
 
 ## Projects 
+
 | Projects |
 |----------|
 | [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
