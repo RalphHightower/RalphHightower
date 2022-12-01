@@ -140,6 +140,7 @@
 | [Full-size Doctor Who K9 replica](https://www.raspberrypi.com/news/full-size-doctor-who-k9-replica/) |
 | [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/?amp=1) |
 | [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
+| [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
 
 ## DIY CubeSat
 
@@ -152,7 +153,7 @@
 | ~~Sensor 05: ZMOD4410AI1V~~ | TVOC (Total Volatile Organic Compounds) – Designed for detecting total volatile organic compounds (TVOC). The ZMOD4410 is a 12-pin LGA assembly (3.0 x 3.0 x 0.7 mm) that consists of a gas sense element and a CMOS signal conditioning IC. The module’s sense element consists of heater element on a Si-based MEMS structure and a metal oxide (MOx) chemiresistor. The signal conditioner controls the sensor temperature and measures the MOx conductivity, which is a function of the gas concentration. |
 | Sensor 06: SI1132-A10-GMR | UV Sensor – The Si1132 is a low-power, ultraviolet (UV) index, and ambient light sensor with I2C digital interface and programmable-event interrupt output. This sensor IC includes an analog-to-digital converter, integrated high-sensitivity visible and infrared photodiodes, and a digital signal processor. The Si1132 offers excellent performance under a wide dynamic range and a variety of light sources including direct sunlight. |
 | Sensor 07: CCS811B-JOPD500 | TVOC & CO2 – The CCS811 is an ultra-low power digital gas sensor solution which integrates a metal oxide (MOX) gas sensor to detect a wide range of Volatile Organic Compounds (VOCs) and includes an Analog-to-Digital converter (ADC), and an I²C interface. Supporting intelligent algorithms to process raw sensor measurements and output equivalent total VOC (eTVOC) and equivalent CO2 (eCO2) values. |
-| Sensor 08: TESEO-LIV3R[^1] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
+| Sensor 08: TESEO-LIV3R[^2] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
 
 ## Projects 
 | Projects |
@@ -166,5 +167,7 @@
 | [Google Android](https://source.android.com/docs/security/bulletin) |
 | [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
 
+[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video
 
-[^1]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
+Complete compatibility with earlier Raspberry Pi products
+[^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
