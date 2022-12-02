@@ -258,6 +258,22 @@ Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh i
 3. [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
 4. [South Carolina Attorney General](https://www.scag.gov/)
 
+<hr>
+
+## ABOUT THE INVESTIGATIONS (Post and Courier, Charleston, South Carolina)
+
+On June 7, 2021, two members of South Carolina’s powerful Murdaugh family were gunned down at the family’s Colleton County hunting lodge in a grisly killing that attracted global attention.
+
+Attorney Alex Murdaugh, who lost his wife and son in the shooting, has since been charged with their murders.
+
+He has also been accused of staging a suicide plot, trafficking drugs and embezzling more than $8.7 million from clients and his former law firm.
+
+It has been an epic downfall for the scion of a wealthy family that controlled the local prosecutor’s office for generations.
+
+His downward spiral has ensnared a half-dozen alleged accomplices, spawned a web of criminal investigations and civil lawsuits and raised fresh questions about shortcomings in South Carolina’s justice and banking systems.
+
+<hr>
+
 [^1]: Revised: 2022-11-28. Merged [Post and Courier](https://www.postandcourier.com/murdaugh-updates/) newspaper with [WJCL](https://www.wjcl.com/), and [SC Attorney General](https://www.scag.gov/). Ralph Hightower. 
 [^2]: [Post and Courier newspaper, Charleston, South Carolina](https://www.postandcourier.com/murdaugh-updates/)
 [^3]: Craig Melvin was born and raised in Columbia, South Carolina. He graduated from Wofford College. He started working for [WIS-TV](https://www.wistv.com/) as a high school student. After graduation, he returned to [WIS-TV](https://www.wistv.com/). Moving up through the ranks at some NBC stations, he became one of the [NBC Today](https://www.today.com/) weekday anchors in 2018.
