@@ -66,7 +66,7 @@
 | [MS-98M3 3.5" SBC with Intel® Tiger Lake-UP3 for Fanless, Ultra Low-Power, High-Performance & Wide Temperature Solution](https://ipc.msi.com/product_detail/Single-Board-Computer/3.5%22-SBC/MS-98M3) | (H/W) |
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
 | [NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W: $119) |
-| [Bewark](https://www.newark.com/) | (H/W) |
+| [Newark](https://www.newark.com/) | (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
@@ -143,6 +143,7 @@
 | [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
 | [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
 | [Sipeed Maix-III devkit features AXERA AX620A SoC for AI vision applications](https://www.cnx-software.com/2022/12/01/sipeed-maix-iii-devkit-features-axera-ax620a-soc-for-ai-vision-applications/) |
+| [Rock Pi Model C+ Revealed: Cheaper Six-Core Raspberry Pi Alternative](https://www.tomshardware.com/news/raspberry-pi-alternative-rock-pi-c-plus-revealed) |
 
 ## DIY CubeSat
 
