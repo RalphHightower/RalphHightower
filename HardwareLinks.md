@@ -1,6 +1,9 @@
 # Hardware 
 
-[Raspberry PI Locater](https://rpilocator.com/)
+| Resource |
+|------|
+| [Raspberry PI Locater](https://rpilocator.com/) |
+| [Single Board Computer Database](https://hackerboards.com/) |
 
 ## Documentation / Projects
 
