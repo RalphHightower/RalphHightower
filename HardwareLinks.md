@@ -63,6 +63,8 @@
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
+| [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
+| [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) | (H/W): $599) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) | (H/W) |
@@ -80,8 +82,6 @@
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | [Orange Pi 5 with 4GB LPDDR4/4x memory](https://amzn.to/3fUBt0f) $60 | (H/W) |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) $75 | (H/W) |
-| [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
-| [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
