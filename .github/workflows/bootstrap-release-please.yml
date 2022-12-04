@@ -22,5 +22,6 @@ jobs:
     steps:
       - name: bootstrap 
         uses:
-           actions/release-please bootstrap@v14.17.4 --token=$GITHUB_TOKEN --repo-url=RalphHightower/RalphHightower --release-type=simple
-        
+           actions/release-please bootstrap@v14.17.4 --token=$GITHUB_TOKEN --repo-url=https://github.com/RalphHightower/RalphHightower/ type=simple  --release-type=simple
+         
+         
