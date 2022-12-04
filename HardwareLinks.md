@@ -81,6 +81,7 @@
 | [Orange Pi 5 with 4GB LPDDR4/4x memory](https://amzn.to/3fUBt0f) $60 | (H/W) |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) $75 | (H/W) |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
+| [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
@@ -152,6 +153,14 @@
 | [Developing on Windows on Arm: Surface Pro 9 or DevKit, or maybe a Mac?](https://devclass.com/2022/11/23/developing-on-windows-on-arm/) |
 | [Raspberry Pi Compute Module 4S is a SODIMM with the same processor as the Raspberry Pi 4 and CM4](https://liliputing.com/raspberry-pi-compute-module-4s-is-a-sodimm-with-the-same-processor-as-the-raspberry-pi-4-and-cm4/)
 | [Raspberry Pi Compute Module 4: Small Yet Mighty](https://www.tomshardware.com/reviews/raspberry-pi-compute-module-4) |
+| [Cool Pi 4 Model B – A much faster alternative to Raspberry Pi 4 SBC](https://www.cnx-software.com/2022/12/04/cool-pi-4-model-b-powerful-raspberry-pi-4-alternative/) |
+| [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/) |
+| [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |d
+| [Mekotronics R58 review – Part 1: Rockchip RK3588 mini PC unboxing & teardown](https://www.cnx-software.com/2022/06/23/mekotronics-r58-review-rockchip-rk3588-mini-pc-unboxing-teardown/) |
+| [Mekotronics R58 review – Part 2: Android 12 on Rockchip RK3588 CPU](https://www.cnx-software.com/2022/07/13/mekotronics-r58-review-android-12-on-rockchip-rk3588-cpu/) |
+| [Khadas VIM4 Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
+| [Khadas VIM4 Review – Part 2: Android 11 preview and benchmarks](https://www.cnx-software.com/2022/05/07/khadas-vim4-review-part-2-android-11-preview-and-benchmarks/) |
+
 
 ## DIY CubeSat
 
