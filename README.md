@@ -116,13 +116,15 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [.NET Platform — Home of the open source .NET platform](https://github.com/dotnet) |
 | [Microsoft Azure — APIs, SDKs and open source projects from Microsoft Azure](https://github.com/Azure) |
 | [Oracle — Open Source at Oracle](https://github.com/oracle) |
+| [Raspberry PI](https://github.com/raspberrypi) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) |
 | [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) |
 | [RISC-V — Software](https://github.com/riscv-software-src) |
 | [RISC-V — Upstreaming](https://github.com/riscv-collab) |
 | [RISC-V — Android](https://github.com/riscv-android-src) |
-|  [RISC-V — Administrative Docs](https://github.com/riscv-admin) |
+| [RISC-V — Administrative Docs](https://github.com/riscv-admin) |
+| [SB Components — UK](https://github.com/sbcshop) (H/W) |
 | [SparkFun Electronics — Building open source widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
 
 ## [Microsoft](https://www.microsoft.com/)
