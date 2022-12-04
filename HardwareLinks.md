@@ -148,9 +148,10 @@
 | [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
 | [Sipeed Maix-III devkit features AXERA AX620A SoC for AI vision applications](https://www.cnx-software.com/2022/12/01/sipeed-maix-iii-devkit-features-axera-ax620a-soc-for-ai-vision-applications/) |
 | [Rock Pi Model C+ Revealed: Cheaper Six-Core Raspberry Pi Alternative](https://www.tomshardware.com/news/raspberry-pi-alternative-rock-pi-c-plus-revealed) |
-| [Radxa Taco – A Raspberry Pi CM4 carrier board made for NAS with 5x SATA ports](https://www.cnx-software.com/2022/11/30/radxa-taco-a-raspberry-pi-cm4-carrier-board-made-for-nas-with-5x-sata-ports/( |
+| [Radxa Taco – A Raspberry Pi CM4 carrier board made for NAS with 5x SATA ports](https://www.cnx-software.com/2022/11/30/radxa-taco-a-raspberry-pi-cm4-carrier-board-made-for-nas-with-5x-sata-ports/) |
 | [Developing on Windows on Arm: Surface Pro 9 or DevKit, or maybe a Mac?](https://devclass.com/2022/11/23/developing-on-windows-on-arm/) |
 | [Raspberry Pi Compute Module 4S is a SODIMM with the same processor as the Raspberry Pi 4 and CM4](https://liliputing.com/raspberry-pi-compute-module-4s-is-a-sodimm-with-the-same-processor-as-the-raspberry-pi-4-and-cm4/)
+| [Raspberry Pi Compute Module 4: Small Yet Mighty](https://www.tomshardware.com/reviews/raspberry-pi-compute-module-4) |
 
 ## DIY CubeSat
 
