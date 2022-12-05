@@ -17,6 +17,7 @@
 
 | Programming |
 |----------|
+| [Arm Assembly Programming by Example](https://armasm.com/) |
 | [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
 
 
@@ -105,7 +106,6 @@
 | [$199+ NVIDIA Jetson Orin Nano system-on-module delivers up to 40 TOPS](https://www.cnx-software.com/2022/09/21/199-nvidia-jetson-orin-nano-system-on-module-delivers-up-to-40-tops/) |
 | [Machinechat JEDI: What Can It Do?](https://www.sparkfun.com/news/5469?utm_content=224507427&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1022976) \(SparkFun\) |
 | [Choose a License](https://choosealicense.com/) |
-| [Arm Assembly Programming by Example](https://armasm.com/) |
 | [Neon Programmers Guide](https://usermanual.wiki/Document/DEN0018Aneonprogrammersguide.1958102256) |
 | [Microsoft’s “Project Volterra” becomes an Arm-powered mini PC with 32GB of RAM](https://arstechnica.com/gadgets/2022/10/microsofts-snapdragon-powered-mini-pc-for-devs-includes-32gb-of-ram-costs-599/) |
 | [Available today: Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/) |
