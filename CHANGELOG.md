@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/RalphHightower/RalphHightower/compare/v1.0.0...v1.0.1) (2022-12-05)
+
+
+### Bug Fixes
+
+* **versioning:** Add fourth digit ([73ec896](https://github.com/RalphHightower/RalphHightower/commit/73ec896f270545573f5d90e10aa5118f70ace7e2))
+
 ## 1.0.0 (2022-12-05)
 
 
@@ -12,5 +19,3 @@
 ### Bug Fixes
 
 * Show Beagles: remove past issues ([b12282b](https://github.com/RalphHightower/RalphHightower/commit/b12282b1c23a7c6c9dda6c66a26288bb0e3974ee))
-
-
