@@ -2,6 +2,8 @@ Hi, I’m @RalphHightower.
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
 
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
+
 ## [USC — University of South Carolina](https://www.sc.edu)
 
 | [USC — University of South Carolina](https://www.sc.edu) |
