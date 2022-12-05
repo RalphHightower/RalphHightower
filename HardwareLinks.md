@@ -43,6 +43,7 @@
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
+| [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
@@ -160,7 +161,10 @@
 | [Mekotronics R58 review – Part 2: Android 12 on Rockchip RK3588 CPU](https://www.cnx-software.com/2022/07/13/mekotronics-r58-review-android-12-on-rockchip-rk3588-cpu/) |
 | [Khadas VIM4 Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
 | [Khadas VIM4 Review – Part 2: Android 11 preview and benchmarks](https://www.cnx-software.com/2022/05/07/khadas-vim4-review-part-2-android-11-preview-and-benchmarks/) |
-| [Raspberry Pi Compute Module 4S Mysteriously Revealed?](https://www.tomshardware.com/news/raspberry-pi-cm-4s-mysteriously-announced)
+| [Raspberry Pi Compute Module 4S Mysteriously Revealed?](https://www.tomshardware.com/news/raspberry-pi-cm-4s-mysteriously-announced) |
+| [Render Shows New Raspberry Pi Compute Module 4 Alternative From Banana Pi](https://www.tomshardware.com/news/banana-pi-rpi-alternative) |
+
+
 
 ## DIY CubeSat
 
