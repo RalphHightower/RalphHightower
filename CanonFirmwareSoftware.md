@@ -172,6 +172,14 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from lensrentals.com for use at The Masters and for the 2017 Total Solar Eclipse. 
 
+<hr>
+
+## Photography News/Tips
+
+| Photography News/Tips |
+|----|
+| [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
+
 [^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 [^2]: Supported Firmware Version is after Version.1.6.0)
 [^3]: Supported Firmware Version is after Version.1.6.0)
