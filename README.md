@@ -355,7 +355,7 @@ Bodies of Water That I Have Skiied:
 
 ## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
 
-South Carolina has a number of craft beer breweries. Below is a list of the current active breweries. I have a few favorites:
+South Carolina has a number of craft beer breweries. The heading is a list of the current active breweries. Below are my favorites brews:
 1. River Rat Broad River Red Ale
 2. River Rat Mourning Stout
 4. Steelhands Coffee Lager 
