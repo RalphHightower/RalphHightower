@@ -457,7 +457,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 |   |
 |---|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
-| [![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal)](https://github.com/RalphHightower/github-readme-activity-graph)
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal)](https://github.com/RalphHightower/github-readme-activity-graph
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
 [^2]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
