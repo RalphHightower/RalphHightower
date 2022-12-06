@@ -100,6 +100,36 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 ## [GitHub](https://github.com/)
 
+| Companies on GitHub | Description |
+|---------------------|-------|
+| [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
+| [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
+| [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
+| [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
+| [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
+| [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
+| [Garmin International](https://github.com/garmin) | Garmin International  |
+| [Google](https://github.com/google) | Google ❤️ Open Source |
+| [IBM](https://github.com/IBM) | International Business Machines  |
+| [Intel Corporation](https://github.com/intel) | International Business Machines |
+| [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
+| [LinkedIn](https://github.com/linkedin) | LinkedIn |
+| [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
+| [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
+| [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
+| [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
+| [Oracle](https://github.com/oracle) | Open Source at Oracle |
+| [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
+| [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
+| [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V — Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture  |
+| [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
+| [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
+
 | [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
 |-----|-----|
 | Canada ||
@@ -132,36 +162,6 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [USGS Astrogeology](https://github.com/USGS-Astrogeology) | The USGS Astrogeology Science Center public GitHub repositories. |
 | [USGS Coastal and Marine Geology Program](https://github.com/usgs-cmg) ||
 | [United States Postal Service](https://github.com/USPS) | The USPS Developer Portal is for software developers who would like to integrate Postal Service functionality into their ecommerce, shipping, or logistics systems. Access and use USPS tools and resources conveniently within your site or application. You have the ability to try out the APIs in the our Test environment. |
-
-
-| Companies on GitHub | Description |
-|---------------------|-------|
-| [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
-| [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
-| [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
-| [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
-| [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
-| [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
-| [Garmin International](https://github.com/garmin) | Garmin International  |
-| [Google](https://github.com/google) | Google ❤️ Open Source |
-| [IBM](https://github.com/IBM) | International Business Machines  |
-| [Intel Corporation](https://github.com/intel) | International Business Machines |
-| [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
-| [LinkedIn](https://github.com/linkedin) | LinkedIn |
-| [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
-| [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
-| [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
-| [Oracle](https://github.com/oracle) | Open Source at Oracle |
-| [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
-| [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture  |
-| [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
-| [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 
 ## [Microsoft](https://www.microsoft.com/)
 
