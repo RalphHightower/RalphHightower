@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/RalphHightower/RalphHightower/compare/v1.0.2...v1.0.3) (2022-12-06)
+
+
+### Bug Fixes
+
+* **activity-graph:** get rid of markdown appearing ([12e1653](https://github.com/RalphHightower/RalphHightower/commit/12e1653db4b8524516094965b73f7ff4806f60f3))
+* **English grammar:** Improper use  SC craft beers ([07eb485](https://github.com/RalphHightower/RalphHightower/commit/07eb485d8b5765d9062a0ef319266b6002a350a6))
+
 ## [1.0.2](https://github.com/RalphHightower/RalphHightower/compare/v1.0.1...v1.0.2) (2022-12-06)
 
 
