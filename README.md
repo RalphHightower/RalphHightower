@@ -452,12 +452,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 |   |   |
 |---|---|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+| [![RalphHightower GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHigh⅚
 
 |   |
 |---|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
-| [![RalphHightower/RalphHightower GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=minimal&custom_title=RalphHightower%20Activity%20(Past%2031%20Days)&repo=RalphHightower/RalphHightower)](https://github.com/RalphHightower/RalphHightower/github-readme-activity-graph) |
+| [![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal)](https://github.com/RalphHightower/github-readme-activity-graph)
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
 [^2]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
