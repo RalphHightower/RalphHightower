@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/RalphHightower/RalphHightower/compare/v1.0.1...v1.0.2) (2022-12-06)
+
+
+### Bug Fixes
+
+* **web:** activity graph ([294b8cd](https://github.com/RalphHightower/RalphHightower/commit/294b8cd98ca86a808a4d9c8cc5ef6053da5320c6))
+
 ## [1.0.1](https://github.com/RalphHightower/RalphHightower/compare/v1.0.0...v1.0.1) (2022-12-05)
 
 
