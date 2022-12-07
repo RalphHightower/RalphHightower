@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/RalphHightower/RalphHightower/compare/v1.0.3...v1.1.0) (2022-12-07)
+
+
+### Features
+
+* The Grand Unification of three news sources  ([857f10a](https://github.com/RalphHightower/RalphHightower/commit/857f10a37cb2178ad1738f0c40bb677b1ffc4d14))
+
+
+### Bug Fixes
+
+* Delete duplicate OCT 13, P&C fragment  ([8d69a99](https://github.com/RalphHightower/RalphHightower/commit/8d69a99a889a4e7bea7ab9eef3ca6aeb374a9a99))
+
 ## [1.0.3](https://github.com/RalphHightower/RalphHightower/compare/v1.0.2...v1.0.3) (2022-12-06)
 
 
