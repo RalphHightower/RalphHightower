@@ -165,7 +165,7 @@
 | [Render Shows New Raspberry Pi Compute Module 4 Alternative From Banana Pi](https://www.tomshardware.com/news/banana-pi-rpi-alternative)|
 | [Armbian 22.11 released with 64-bit RISC-V UEFI, ultra](https://www.cnx-software.com/2022/12/06/armbian-22-11-64-bit-risc-v-uefi-ultra-minimal-images/) |
 | [$200 Swarm M138 kit enables two-way satellite connectivity for IoT projects](https://www.cnx-software.com/2022/12/06/swarm-m138-kit-two-way-satellite-connectivity-iot-projects/) |
-
+| [Electronic music icon Korg makes music with Raspberry Pi](https://www.raspberrypi.com/news/electronic-music-icon-korg-makes-music-with-raspberry-pi/) |
 
 ## DIY CubeSat
 
