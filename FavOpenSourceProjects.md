@@ -16,6 +16,6 @@
 | [Security Hardened NTP Server](https://gitlab.com/NTPsec) |
 | [Tcl/Tk](https://www.tcl.tk/) | Tool Command Language |
 | [Open SS7](http://www.openss7.org/)[^1] | Telephone network and next generation network Signalling System No. 7 (SS7)and Signalling Transport (SIGTRAN) protocol stack |
-| [ASCL.net](http://ascl.net/) | The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists, including solar system astronomers, and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. The ASCL is indexed by the SAO/NASA Astrophysics Data System (ADS) and Web of Science and is citable by using the unique ascl ID assigned to each code. The ascl ID can be used to link to the code entry by prefacing the number with ascl.net (i.e., ascl.net/1201.001). |added |
+| [ASCL.net](http://ascl.net/) | The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists, including solar system astronomers, and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. The ASCL is indexed by the SAO/NASA Astrophysics Data System (ADS) and Web of Science and is citable by using the unique ascl ID assigned to each code. The ascl ID can be used to link to the code entry by prefacing the number with ascl.net (i.e., ascl.net/1201.001). |
 
 [^1]: Dead project
