@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/RalphHightower/RalphHightower/compare/v1.1.0...v1.1.1) (2022-12-08)
+
+
+### Bug Fixes
+
+* delete spurious column ([138f3fa](https://github.com/RalphHightower/RalphHightower/commit/138f3fa8abbd289e93cf0301289545739bb60785))
+
 ## [1.1.0](https://github.com/RalphHightower/RalphHightower/compare/v1.0.3...v1.1.0) (2022-12-07)
 
 
