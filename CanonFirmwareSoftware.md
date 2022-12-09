@@ -179,6 +179,7 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 | Photography News/Tips |
 |----|
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
+| [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br>[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
 
 [^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 [^2]: Supported Firmware Version is after Version.1.6.0)
