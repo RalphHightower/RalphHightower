@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/RalphHightower/RalphHightower/compare/v1.1.1...v1.1.2) (2022-12-09)
+
+
+### Bug Fixes
+
+* Jun 17 2021 - delineate quotation ([a7ee539](https://github.com/RalphHightower/RalphHightower/commit/a7ee5397f01d88430263961ed13c53fbe4456af5))
+
 ## [1.1.1](https://github.com/RalphHightower/RalphHightower/compare/v1.1.0...v1.1.1) (2022-12-08)
 
 
