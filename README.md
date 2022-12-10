@@ -171,6 +171,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
 | [https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github](https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github) |
 | [Microsoft Azure](https://azure.microsoft.com/en-us/) |
+| [Remote Development Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better) |
 
 ## Software 
 
