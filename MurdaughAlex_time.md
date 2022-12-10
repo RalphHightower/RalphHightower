@@ -628,6 +628,10 @@
 | December 7, 2022 | [‘Murdaugh Murders’ Saga: Russell Laffitte Seeks New Trial](https://www.fitsnews.com/2022/12/07/murdaugh-murders-saga-russell-laffitte-seeks-new-trial/) |
 | December 8, 2022 | [‘Murdaugh Murders’ Saga: Prosecutors Fire Back On Motive For Double Homicide](https://www.fitsnews.com/2022/12/06/murdaugh-murders-saga-defense-attorneys-want-to-know-states-theory-of-motive/) |
 |Dec 8, 2022|[Attorney General’s Office releases Alex Murdaugh’s alleged motive in double murder case](https://www.postandcourier.com/murdaugh-updates/attorney-generals-office-releases-alex-murdaughs-alleged-motive-in-double-murder-case/article_3bc59f98-7710-11ed-91f0-33184e4bf44b.html) |
+|December 9, 2022|[‘Murdaugh Murders’ Saga: Attorneys Jockey For Position Ahead Of Double Homicide Trial](https://www.fitsnews.com/2022/12/09/murdaugh-murders-saga-attorneys-jockey-for-position-ahead-of-double-homicide-trial/) |
+|Dec 9, 2022|[SC prosecutors rethinking Murdaugh blood spatter evidence after defense pokes holes](https://www.postandcourier.com/murdaugh-updates/sc-prosecutors-rethinking-murdaugh-blood-spatter-evidence-after-defense-pokes-holes/article_d978048e-773c-11ed-95be-df0951d8e329.html)|
+
+<hr>
 
 | [Attorney General Alan Wilson announces State Grand Jury issues new indictments against Richard Alexander Murdaugh](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-state-grand-jury-issues-new-indictments-against-richard-alexander-murdaugh/) |
 |--------|
