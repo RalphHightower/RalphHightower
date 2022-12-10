@@ -633,8 +633,21 @@
 
 <hr>
 
+| Date | South Carolina Supreme Court |
+|-----|----|
+|2021-09-08|[2021-09-08-01 The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2021-000974](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2021-09-08-01)<br>*Interim suspension of license*|
+|2022-01-28|[Statement from Chief Justice Donald W. Beatty on Assignment of Judges to Murdaugh Cases](https://www.sccourts.org/whatsnew/displayWhatsNew.cfm?indexId=2668) |
+|2022-06-16|[2022-06-16-01 fThe Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2022-000812](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-16-01)<br>*Question of disbarment*|
+|2022-06-21|[2022-06-21-01 The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2022-000812](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-21-01)<br>*order to appear before court for dismarment*|
+|2022-07-12|[2022-07-12-01: The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2022-000812](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-07-12-01)<br>*Disbarment*|
+
+
+<hr>
+
+| SC Attorney General |
+|-----|
 | [Attorney General Alan Wilson announces State Grand Jury issues new indictments against Richard Alexander Murdaugh](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-state-grand-jury-issues-new-indictments-against-richard-alexander-murdaugh/) |
-|--------|
+||
 | (COLUMBIA, SC) - South Carolina Attorney General Alan Wilson announced today that the South Carolina State Grand Jury issued new indictments against Richard Alexander Murdaugh, Spencer Anwan Roberts, and Jerry K. Rivers. Alex Murdaugh was indicted for four counts of Obtaining Signature or Property by False Pretenses Value $10,000 or More, two counts of Money Laundering Value $20,000 - $100,000, one count of Money Laundering Value $100,000 or More, two counts of Computer Crime Value More Than $10,000. Spencer Roberts was indicted for one count of Obtaining Signature or Property by False Pretenses Value $10,000 or More, one count of Money Laundering Value $20,000 - $100,000, one count of Computer Crime Value More Than $10,000, and one count of Insurance Fraud. Jerry Rivers was indicted for Obstruction of Justice. |
 | In Indictment 2022-GS-47-23, venued in Colleton County, the State Grand Jury charged Alex Murdaugh with one count of Obtaining Signature or Property by False Pretenses and one Count of Money Laundering for misappropriating funds rather than paying the fees into the firm as he was required to do. |
 | In Indictment 2022-GS-47-24, venued in Hampton County, the State Grand Jury charged Alex Murdaugh with two counts of Obtaining Signature or Property by False Pretenses, one count of Money Laundering, and one count of Computer Crime alleging that Murdaugh through false representations took a loan repayment from the firm that was due to another partner. |
