@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/RalphHightower/RalphHightower/compare/v1.1.5...v1.1.6) (2022-12-11)
+
+
+### Bug Fixes
+
+* undermined table ([704319d](https://github.com/RalphHightower/RalphHightower/commit/704319ddbd6a25ea5075ab487cf60603507da013))
+
 ## [1.1.5](https://github.com/RalphHightower/RalphHightower/compare/v1.1.4...v1.1.5) (2022-12-11)
 
 
