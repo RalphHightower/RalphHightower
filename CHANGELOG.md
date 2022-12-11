@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/RalphHightower/RalphHightower/compare/v1.1.3...v1.1.4) (2022-12-11)
+
+
+### Bug Fixes
+
+* 4 back to 2 columns, italicized quotes ([f33b821](https://github.com/RalphHightower/RalphHightower/commit/f33b821ec2f69eb7e4515befad69624e687c641e))
+
 ## [1.1.3](https://github.com/RalphHightower/RalphHightower/compare/v1.1.2...v1.1.3) (2022-12-11)
 
 
