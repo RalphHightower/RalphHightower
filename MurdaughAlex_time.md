@@ -668,6 +668,7 @@ Alex Murdaugh has lived a life of privileges and money. Although Alex Murdaugh i
 2. [Post and Courier, Charleston, South Carolina (paywall)](https://www.postandcourier.com/murdaugh-updates/)
 3. [FitsNews.com — Murdaughs (paywall, a few free pages per month)](https://www.fitsnews.com/category/murdaughs/)
 4. [South Carolina Attorney General](https://www.scag.gov/)
+5. [South Carolina Supreme Court](https://www.sccourts.org/supreme/index.cfm)
 
 <hr>
 
