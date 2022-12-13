@@ -405,7 +405,8 @@ South Carolina has a number of craft beer breweries. The heading is a list of th
 | FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth |
 | FAVORITE MOVIE: Dune (2021) |
 | FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds) |
-| BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain || BBEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
+| BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain |
+| BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
 | FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Domino |
 | GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) |
 | GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming) |
