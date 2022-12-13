@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.9](https://github.com/RalphHightower/RalphHightower/compare/v1.1.8...v1.1.9) (2022-12-13)
+
+
+### Bug Fixes
+
+* Dewar's Profile ([fd9b9e0](https://github.com/RalphHightower/RalphHightower/commit/fd9b9e0b50bde421e12869982ba01852e771d683))
+
 ## [1.1.8](https://github.com/RalphHightower/RalphHightower/compare/v1.1.7...v1.1.8) (2022-12-13)
 
 
