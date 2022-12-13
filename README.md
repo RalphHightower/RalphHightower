@@ -397,7 +397,8 @@ South Carolina has a number of craft beer breweries. The heading is a list of th
 | MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
 | CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
 | BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
-| BUCKET LIST CAR: Chevrolet Corvette | CAMERA BRAND: Canon |
+| BUCKET LIST CAR: Chevrolet Corvette |
+| CAMERA BRAND: Canon |
 | FAVORITE (BEST) DOG BREED: Beagle |
 | FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder |
 | FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert |
