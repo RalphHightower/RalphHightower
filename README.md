@@ -386,34 +386,34 @@ South Carolina has a number of craft beer breweries. The heading is a list of th
 
 ## Dewar's Profile
 
-RALPH HIGHTOWER <br>
-PROFESSION: Software Developer <br>
-HOBBY: Photography, water-skiing <br>
-LATEST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing) <br>
-QUOTE: Freedom from Consequences is not a protected Constitutional right <br>
-LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times)<br>
-MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina <br>
-CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang <br>
-BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
-BUCKET LIST CAR: Chevrolet Corvette <br>
-FAVORITE CAMERA BRAND: Canon <br>
-FAVORITE (BEST) DOG BREED: Beagle <br>
-FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder<br>
-FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert <br>
-FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks <br>
-FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth <br>
-FAVORITE MOVIE: Dune (2021)<br>
-FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds)<br>
-BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain<br>
-BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs)<br>
-FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos<br>
-GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) <br>
-GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming)<br>
-GOAT TENOR SAX: Clarence Clemmons<br>
-MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQTV9iy9yw)<br>
-WHY I DO WHAT I DO: Software development involves creativity <br>
-PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) <br>
-HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso <br>
+| Dewar's Profile |
+|----|
+| RALPH HIGHTOWER |
+| PROFESSION: Software Developer |
+| HOBBY: Photography, water-skiing |
+| BUCKET LIST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing) |
+| QUOTE: Freedom from Consequences is not a protected Constitutional rightbr1
+| LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
+| MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
+| CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
+| BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
+| BUCKET LIST CAR: Chevrolet Corvette | CAMERA BRAND: Canon |
+| FAVORITE (BEST) DOG BREED: Beagle |
+| FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder |
+| FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert |
+| FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks |
+| FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth |
+| FAVORITE MOVIE: Dune (2021) |
+| FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds) |
+| BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain || BBEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
+| FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Domino |
+| GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) |
+| GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming) |
+| TENOR SAX: Clarence Clemmons |
+| MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQTV9iy9yw) |
+| WHY I DO WHAT I DO: Software development involves creativity |
+| PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) |
+| HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso |
 
 ## Television Series Reboots and Spinoffs (Worth Watching)
 
