@@ -392,7 +392,7 @@ South Carolina has a number of craft beer breweries. The heading is a list of th
 | PROFESSION: Software Developer |
 | HOBBY: Photography, water-skiing |
 | BUCKET LIST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing) |
-| QUOTE: Freedom from Consequences is not a protected Constitutional rightbr1
+| QUOTE: Freedom from Consequences is not a protected Constitutional right. |
 | LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
 | MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
 | CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
