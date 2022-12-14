@@ -1,4 +1,6 @@
-Hi, I’m @RalphHightower.
+# [Ralph Hightower — Collection of Interests](https://github.com/RalphHightower)
+
+I'm [@RalphHightower](https://ralphhightower.github.io/RalphHightower/) and this website is a collection of various items and stuff that I am interested in. It also contains links to reference materials. 
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
 
