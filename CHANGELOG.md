@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/RalphHightower/RalphHightower/compare/v1.2.0...v1.2.1) (2022-12-14)
+
+
+### Bug Fixes
+
+* match Hooters to the correct timeline ([045bbdc](https://github.com/RalphHightower/RalphHightower/commit/045bbdc786777c8f3427d92d4c099daedf6a379e))
+
 ## [1.2.0](https://github.com/RalphHightower/RalphHightower/compare/v1.1.10...v1.2.0) (2022-12-14)
 
 
