@@ -9,11 +9,11 @@ While working in the landlocked state of Iowa, I wanted some raw oysters. When I
 | Alabama | Huntsville ||
 | Georgia | Augusta ||
 | Georgia | Cumberland | (Atlanta) |
-| Indiana | Indianapoli[^3] ||
+| Indiana | Indianapolis[^3] ||
 | Iowa | Davenport[^5] ||
 | Iowa | Des Moines[^4] ||
-| Kansas | Overland Park[^3] | (Kansas, City) |
-| Kentucky | Lexington[^4] ||
+| Kansas | Overland Park[^4] | (Kansas, City) |
+| Kentucky | Lexington[^3] ||
 | Minnesota | Bloomington[^4] | (Minneapolis) |
 | Missouri | St. Louis ||
 | Nebraska | Omaha[^4] ||
@@ -33,7 +33,7 @@ While working in the landlocked state of Iowa, I wanted some raw oysters. When I
 | South Carolina | Myrtle Beach |   |
 | South Carolina | Spartanburg ||
 | Tennessee | Chattanooga ||
-| Tennessee | Knoxville ||
+| Tennessee | Knoxville[^3] ||
 | Tennessee | Nashville ||
 | Virginia | Chantilly ||
 | Virginia | Manassas ||
@@ -41,6 +41,6 @@ While working in the landlocked state of Iowa, I wanted some raw oysters. When I
 
 [^1]: [NCR](https://www.ncr.com/) E&M-Columbia, 3325 Platt Springs Road, West Columbia, South Carolina. When NCR moved out, [Cisco](https://www.cisco.com/) moved in. When Cisco moved out, Time-Warner moved in, which became [Spectrum](https:://www.spectrum.com/).
 [^2]: Hooters moved from the Broad River Road location to the one on Fernandino Road.
-[^3]: Van Hauling Tour
+[^3]: Van Haulin' Tour (moving from Iowa back home to South Carolina) 
 [^4]: Heartland Hooters Tour
 [^5]: Iowa State Fair Tour
