@@ -32,8 +32,9 @@ While working in the landlocked state of Iowa, I wanted some raw oysters. When I
 | South Carolina | Myrtle Beach |   |
 | South Carolina | Myrtle Beach |   |
 | South Carolina | Spartanburg ||
-| Tennessee | Chattanooga ||
+| Tennessee | Chattanooga[^5] ||
 | Tennessee | Knoxville[^3] ||
+| Tennessee | Memphis[^5] ||
 | Tennessee | Nashville ||
 | Virginia | Chantilly ||
 | Virginia | Manassas ||
