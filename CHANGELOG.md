@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/RalphHightower/RalphHightower/compare/v1.1.10...v1.2.0) (2022-12-14)
+
+
+### Features
+
+* Add Hooters restaurants visited ([8395313](https://github.com/RalphHightower/RalphHightower/commit/8395313ed391ea1e6e21a8de0c90c47000695a8e))
+
 ## [1.1.10](https://github.com/RalphHightower/RalphHightower/compare/v1.1.9...v1.1.10) (2022-12-13)
 
 
