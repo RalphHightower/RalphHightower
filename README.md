@@ -128,6 +128,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
+| [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 
 | [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
