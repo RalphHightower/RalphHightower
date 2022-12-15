@@ -7,9 +7,6 @@
 
 ## Documentation / Projects
 
-| Kickstarter Projects |
-|----------------------|
-| [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html)  |
 
 | Documentation |
 |-----|
