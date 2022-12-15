@@ -7,7 +7,6 @@
 
 ## Documentation / Projects
 
-
 | Documentation |
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
