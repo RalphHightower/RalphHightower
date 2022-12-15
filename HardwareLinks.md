@@ -9,7 +9,8 @@
 
 | Kickstarter Projects |
 |----------------------|
-| [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html)  |
+| [The LoRa Kit - LONG RANGE Wireless Communication for Arduino](https://www.engineeringshock.com/lora-kit-project-page.html) |
+| [SiFive](https://github.com/sifive) — We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors |
 
 | Documentation |
 |-----|
