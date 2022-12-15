@@ -1,4 +1,4 @@
-# Backed Kickstarter Projects
+# Kickstarter Backed Projects
 
 | Kickstarter Projects | Purpose |
 |----------------------|------|
