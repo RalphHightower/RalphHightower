@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/RalphHightower/RalphHightower/compare/v1.2.1...v1.3.0) (2022-12-16)
+
+
+### Features
+
+* Backed Kickstarter Projects go solo ([3e0e919](https://github.com/RalphHightower/RalphHightower/commit/3e0e919fb4a30133146e3816f8334cb0a635939f))
+
 ## [1.2.1](https://github.com/RalphHightower/RalphHightower/compare/v1.2.0...v1.2.1) (2022-12-14)
 
 
