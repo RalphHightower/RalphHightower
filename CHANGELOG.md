@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/RalphHightower/RalphHightower/compare/v1.3.0...v1.3.1) (2022-12-16)
+
+
+### Bug Fixes
+
+* Document title to match filename ([b2ef60e](https://github.com/RalphHightower/RalphHightower/commit/b2ef60e089c3baa8d0680b74da1c328bc1944efc))
+
 ## [1.3.0](https://github.com/RalphHightower/RalphHightower/compare/v1.2.1...v1.3.0) (2022-12-16)
 
 
