@@ -19,5 +19,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run:  ruby -v
-      - run:  jekyll -v
+      #- run:  jekyll -v
       - run:  github-pages -v
