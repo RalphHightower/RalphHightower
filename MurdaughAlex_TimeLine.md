@@ -638,7 +638,7 @@
 |Dec 9, 2022|[SC prosecutors rethinking Murdaugh blood spatter evidence after defense pokes holes](https://www.postandcourier.com/murdaugh-updates/sc-prosecutors-rethinking-murdaugh-blood-spatter-evidence-after-defense-pokes-holes/article_d978048e-773c-11ed-95be-df0951d8e329.html) *“The jury will need to understand the distinction between who Alex Murdaugh appeared to be to the outside world — a successful lawyer and scion of the most prominent family in the region — and who he was in the real life only he fully knew — an allegedly crooked lawyer and drug user who borrowed and stole whatever he could to stay afloat and one step ahead of detection,”* Waters wrote. *“Proof of years of Alex Murdaugh’s unbroken series of misappropriations, lies, loans, debts, and thefts is necessary to explain that distinction to a jury.”* <br> *“This case is unique in South Carolina history for many reasons,”* Waters wrote. *“One of those is that exposing what happened to Maggie and Paul necessarily has its roots in a corruption that began years ago and festered until June 7 was the result. The evidence should be admitted so the jury can fairly assess why a man might murder his wife and son.”* |
 | Dec 16, 2022 | [Alex Murdaugh faces new SC tax evasion charges, adding to mountain of criminal counts](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-faces-new-sc-tax-evasion-charges-adding-to-mountain-of-criminal-counts/article_3c176284-7d54-11ed-a11b-ef33d7458fc8.html) | 
 | December 16, 2022 | [Alex Murdaugh Indicted For Tax Evasion](https://www.fitsnews.com/2022/12/16/alex-murdaugh-indicated-on-tax-fraud/) |
-  
+ 
 <hr>
 
 | SC Attorney General |
