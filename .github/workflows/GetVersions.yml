@@ -1,0 +1,21 @@
+name: Get versions for Jekyll
+#-docs: Test confirmed that I have duplicate H1
+#https://github.com/RalphHightower/RalphHightower/pull/254 results in display of below:
+#---display begins below:
+#Ralph Hightower — Collection of Interests
+#[Ralph Hightower — Collection of Interests](https://github.com/RalphHightower)
+#---display end above
+#-Revert "docs: Testing a hunch that I'll get duplicate H1" #255
+#https://github.com/RalphHightower/RalphHightower/pull/255
+#---display begins below:
+#Ralph Hightower — Collection of Interests
+#---display ends above
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 
+        ruby -v
+        bundle exec jekyll -v
+        bundle exec github-pages -v
