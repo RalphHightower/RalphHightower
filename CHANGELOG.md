@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/RalphHightower/RalphHightower/compare/v1.3.1...v1.3.2) (2022-12-16)
+
+
+### Bug Fixes
+
+* Remove bundle ([ddb4fe7](https://github.com/RalphHightower/RalphHightower/commit/ddb4fe75d63943a64e7f527a34b7b8d96dc86f23))
+
 ## [1.3.1](https://github.com/RalphHightower/RalphHightower/compare/v1.3.0...v1.3.1) (2022-12-16)
 
 
