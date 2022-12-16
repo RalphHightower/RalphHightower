@@ -10,12 +10,14 @@ name: Get versions for Jekyll
 #---display begins below:
 #Ralph Hightower — Collection of Interests
 #---display ends above
+on:
+   workflow_dispatch
+   
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: 
-        ruby -v
-        bundle exec jekyll -v
-        bundle exec github-pages -v
+      - run:  ruby -v
+      - run:  bundle exec jekyll -v
+      - run:  bundle exec github-pages -v
