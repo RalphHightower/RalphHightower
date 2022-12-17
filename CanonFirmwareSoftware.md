@@ -181,6 +181,32 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
 | [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br>[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
 
+## Photography Equations 
+
+### Calculation of Values
+
+The simple calculations that lead to a reading are based on the Wikipedia entry on [exposure value](https://en.wikipedia.org/wiki/Exposure_value).
+
+The [illuminance](https://en.wikipedia.org/wiki/Illuminance) returned by the Pimoroni BH1745 ( $L$ ) is converted to an exposure value ( $E_v$ ) for ISO 100 using
+
+$$E_v=\log _2  {{L} \over {C}},$$
+
+where $C$ is the light meter [calibration constant](https://en.wikipedia.org/wiki/Light_meter#Calibration_constants).
+
+This exposure value is then adjusted to an Exposure value for the chosen ISO ( $E_{ISO}$ ) using
+
+$$E_{ISO}=E_v + \log_2 {{ISO}\over{100}}.$$
+
+Then, depending on the priority on the light meter, the remaining value is calculated using
+
+$$t = {{N^2} \over {2^{E_{ISO}}}}$$  
+
+or
+
+$$N = \sqrt{t 2^{ E_{ISO}}}$$
+
+where $t$ is shutter speed and $N$ is f-stop. The value is then rounded to the nearest nominal value and displayed on the screen.
+
 [^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 [^2]: Supported Firmware Version is after Version.1.6.0)
 [^3]: Supported Firmware Version is after Version.1.6.0)
