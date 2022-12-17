@@ -50,7 +50,9 @@
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
+| **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
+| [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |https://www.twotrees3dofficial.com/products/laser-engraver-ts2
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
@@ -78,8 +80,8 @@
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
-| [Orange Pi 5 with 4GB LPDDR4/4x memory](https://amzn.to/3fUBt0f) $60 | (H/W) |
-| [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) $75 | (H/W) |
+| [Orange Pi 5 with 4GB LPDDR4/4x memory](https://amzn.to/3fUBt0f) | (H/W) $60 |
+| [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
@@ -164,6 +166,7 @@
 | [Electronic music icon Korg makes music with Raspberry Pi](https://www.raspberrypi.com/news/electronic-music-icon-korg-makes-music-with-raspberry-pi/) |
 | [Cool Pi 4 Model B – A much faster alternative to Raspberry Pi 4 SBC](https://www.cnx-software.com/2022/12/04/cool-pi-4-model-b-powerful-raspberry-pi-4-alternative/) |
 | [Build your own Raspberry Pi flight tracker](https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/) |
+| [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
 
 ## DIY CubeSat
 
