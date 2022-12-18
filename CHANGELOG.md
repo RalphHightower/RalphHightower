@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/RalphHightower/RalphHightower/compare/v1.3.2...v1.4.0) (2022-12-18)
+
+
+### Features
+
+* Add Beagle YouTube videos ([4e60bbe](https://github.com/RalphHightower/RalphHightower/commit/4e60bbeee116122048ba50d982a298b3d7731536))
+
 ## [1.3.2](https://github.com/RalphHightower/RalphHightower/compare/v1.3.1...v1.3.2) (2022-12-16)
 
 
