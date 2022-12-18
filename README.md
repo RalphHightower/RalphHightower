@@ -81,6 +81,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
 | [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)| GitHub Markdown  |
 | [Jekyll Documentation](https://jekyllrb.com/docs/) | GitHub Markdown |
+| [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax Markdown |
 | [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Jekyll add-on |
 | [Liquid reference](https://shopify.dev/api/liquid) | Template Language |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
