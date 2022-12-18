@@ -111,6 +111,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
+| [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel) | International Business Machines |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
