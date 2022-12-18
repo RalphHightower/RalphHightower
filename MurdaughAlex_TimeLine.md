@@ -640,7 +640,9 @@
 | Dec 16, 2022 | [Murdaugh fleeced clients, dodged taxes despite earning millions, indictments say](https://www.postandcourier.com/murdaugh-updates/murdaugh-fleeced-clients-dodged-taxes-despite-earning-millions-indictments-say/article_3c176284-7d54-11ed-a11b-ef33d7458fc8.html) |
 | December 16, 2022 | [Alex Murdaugh Indicted For Tax Evasion](https://www.fitsnews.com/2022/12/16/alex-murdaugh-indicated-on-tax-fraud/) |
 | DEC 16, 2022 | [Attorney General Alan Wilson announces State Grand Jury issues tax evasion indictments against Richard Alexander Murdaugh](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-state-grand-jury-issues-tax-evasion-indictments-against-richard-alexander-murdaugh/)<br>In the indictment, venued in Hampton County, the State Grand Jury charged Alex Murdaugh with nine counts of Willful Attempt to Evade or Defeat a Tax. For tax years 2011-2019, Murdaugh failed to report $6,954,639 of income earned through illegal acts thereby causing state taxable income to be underreported to the State of South Carolina. Murdaugh owes state tax totaling $486,819.<br>The crimes charged in the indictment carry the following classifications and penalties:<br>• Willful Attempt to Evade or Defeat a Tax is punishable by up to 5 years in prison and/or fine of up to $10,000 plus the cost of prosecution<br>Altogether, through 19 indictments containing 99 charges against Murdaugh, the State Grand Jury has indicted Murdaugh for schemes to defraud victims of $8,789,447.77 and $486,819 to the State of South Carolina.|
+| Dec 17, 2022 | [Meet Creighton Waters, the Murdaugh prosecutor whose investigations toppled an SC dynasty](https://www.postandcourier.com/murdaugh-updates/meet-creighton-waters-the-murdaugh-prosecutor-whose-investigations-toppled-an-sc-dynasty/article_0523e476-7d4c-11ed-bca4-2f2dc8bc71cc.html) |
 
+ 
 <hr>
 
 | SC Attorney General |
