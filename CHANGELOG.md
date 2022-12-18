@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/RalphHightower/RalphHightower/compare/v1.4.0...v1.5.0) (2022-12-18)
+
+
+### Features
+
+* Create PhotographyFormulas.md ([7e753fb](https://github.com/RalphHightower/RalphHightower/commit/7e753fbec5e1f5b5cd5d4e9a40aa1f53c70eaae7))
+
 ## [1.4.0](https://github.com/RalphHightower/RalphHightower/compare/v1.3.2...v1.4.0) (2022-12-18)
 
 
