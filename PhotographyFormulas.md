@@ -12,7 +12,7 @@ where $C$ is the light meter [calibration constant](https://en.wikipedia.org/wik
 
 This exposure value is then adjusted to an Exposure value for the chosen ISO ( $E_{ISO}$ ) using
 
-$$E_{ISO}=E_v + \log_2 {{ISO}\over{100}}.$$
+$$E_\{ISO\}=E_v + \log_2 \{\{ISO\}\over{100\}\}.$$
 
 Then, depending on the priority on the light meter, the remaining value is calculated using
 
