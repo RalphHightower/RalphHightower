@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/RalphHightower/RalphHightower/compare/v1.6.0...v1.6.1) (2022-12-19)
+
+
+### Bug Fixes
+
+* Don’t know how to fix Math markdown errors! ([882ef09](https://github.com/RalphHightower/RalphHightower/commit/882ef09f8fefe67a31e89d2e70b979adc7c83dd2))
+
 ## [1.6.0](https://github.com/RalphHightower/RalphHightower/compare/v1.5.1...v1.6.0) (2022-12-19)
 
 
