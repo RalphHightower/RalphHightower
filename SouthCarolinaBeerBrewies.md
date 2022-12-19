@@ -71,7 +71,7 @@
 | [Southern Hops Brewing Co](http://www.southernhops.com/)[^3] | Florence ||
 | [Steel Hands Brewing](https://steelhandsbrewing.com/)[^1] | Cayce | 2018 |
 | [Sumter Original Brewery](http://sumteroriginalbrewery.com/)[^3] | Sumter ||
-| [Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)[^2] | Columbia ||
+| ~[Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)~[^8] | Columbia ||
 | [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^3] | Travelers Rest ||
 | [Tetrad Brewing Co.](https://www.tetradbrewingco.com/)[^6] | Greenville |
 | [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
@@ -90,4 +90,5 @@
 [^5]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)
 [^6]: 2022-11-30 [The Best Breweries In Greenville, South Carolina — Southern Living](https://www.southernliving.com/greenville-sc-breweries-6829807)
 [^7]: 2022-11-10 Total Wine and More
+[^8]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
 
