@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/RalphHightower/RalphHightower/compare/v1.5.0...v1.5.1) (2022-12-19)
+
+
+### Bug Fixes
+
+* try escaping ([c00cc60](https://github.com/RalphHightower/RalphHightower/commit/c00cc60cc9f91bed55a52c164dd02c0c675b3aab))
+
 ## [1.5.0](https://github.com/RalphHightower/RalphHightower/compare/v1.4.0...v1.5.0) (2022-12-18)
 
 
