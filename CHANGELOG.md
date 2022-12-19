@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.2](https://github.com/RalphHightower/RalphHightower/compare/v1.6.1...v1.6.2) (2022-12-19)
+
+
+### Bug Fixes
+
+* Fix log2 function ([30aee5d](https://github.com/RalphHightower/RalphHightower/commit/30aee5dac55bf1e93293152ea9c83ee980b90991))
+* Try again ([4802fa9](https://github.com/RalphHightower/RalphHightower/commit/4802fa9460fe462f1eb4cf6fa6c5c2775fcaf0c8))
+
 ## [1.6.1](https://github.com/RalphHightower/RalphHightower/compare/v1.6.0...v1.6.1) (2022-12-19)
 
 
