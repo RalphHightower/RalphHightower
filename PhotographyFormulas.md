@@ -16,11 +16,11 @@ $$E_\{ISO\}=E_v + \log_2 \{\{ISO\}\over{100\}\}.$$
 
 Then, depending on the priority on the light meter, the remaining value is calculated using
 
-$$t = {{N^2} \over {2^{E_{ISO}}}}$$  
+$$t = \{\{N^2\} \over \{2^\{E_\{ISO\}\}\}\}$$  
 
 or
 
-$$N = \sqrt{t×2^{ E_{ISO}}}$$
+$$N = \sqrt\{t×2^{ E_\{ISO\}\}\}$$
 
 where $t$ is shutter speed and $N$ is f-stop. The value is then rounded to the nearest nominal value and displayed on the screen.
 
