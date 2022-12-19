@@ -20,7 +20,7 @@ $$t = {{N^2} \over {2^{E_{ISO}}}}$$
 
 or
 
-$$N = \sqrt{t 2^{ E_{ISO}}}$$
+$$N = \sqrt{t×2^{ E_{ISO}}}$$
 
 where $t$ is shutter speed and $N$ is f-stop. The value is then rounded to the nearest nominal value and displayed on the screen.
 
