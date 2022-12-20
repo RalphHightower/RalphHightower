@@ -459,11 +459,11 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 |   |   |
 |---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
 
 |   |
 |---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal) |
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
