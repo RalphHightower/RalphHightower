@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/RalphHightower/RalphHightower/compare/v1.6.2...v1.6.3) (2022-12-20)
+
+
+### Bug Fixes
+
+* Add https for graph stats ([91dfa8e](https://github.com/RalphHightower/RalphHightower/commit/91dfa8e02d8bc7f0ad4f44820e88a29b961ed1aa))
+
 ## [1.6.2](https://github.com/RalphHightower/RalphHightower/compare/v1.6.1...v1.6.2) (2022-12-19)
 
 
