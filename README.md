@@ -85,10 +85,12 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Jekyll add-on |
 | [Liquid reference](https://shopify.dev/api/liquid) | Template Language |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
+| [https://pagespeed.web.dev/report](https://pagespeed.web.dev/report) | Web page diagnostics |
 | [Pandoc](https://pandoc.org/) | Document Conversion |
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
+| [Web Page Diagnostics](https://pagespeed.web.dev/reportĺ
 | [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^2] | Internet[DNS Root, IP addressing, Internet protocols] |
 | [RFC Editor (RFC)](https://www.rfc-editor.org/)[^3] | Internet[Technical, organizational documents] |
 | [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^4] | Internet[Standards development] |
