@@ -71,7 +71,7 @@
 | [Southern Hops Brewing Co](http://www.southernhops.com/)[^3] | Florence ||
 | [Steel Hands Brewing](https://steelhandsbrewing.com/)[^1] | Cayce | 2018 |
 | [Sumter Original Brewery](http://sumteroriginalbrewery.com/)[^3] | Sumter ||
-| ~[Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)~[^8] | Columbia ||
+| ~~[Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)~~[^8] | Columbia ||
 | [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^3] | Travelers Rest ||
 | [Tetrad Brewing Co.](https://www.tetradbrewingco.com/)[^6] | Greenville |
 | [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
