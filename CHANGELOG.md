@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/RalphHightower/RalphHightower/compare/v1.6.3...v1.6.4) (2022-12-20)
+
+
+### Bug Fixes
+
+* corrected Intel GitHub repositories ([8483d05](https://github.com/RalphHightower/RalphHightower/commit/8483d05fc463c4f5ed289aa07d7ac9d65a1180bd))
+
 ## [1.6.3](https://github.com/RalphHightower/RalphHightower/compare/v1.6.2...v1.6.3) (2022-12-20)
 
 
