@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.7](https://github.com/RalphHightower/RalphHightower/compare/v1.6.6...v1.6.7) (2022-12-21)
+
+
+### Bug Fixes
+
+* **hardware:** fix columns ([ff86ac0](https://github.com/RalphHightower/RalphHightower/commit/ff86ac07794aa5f743f5dc802d468951a031fd1e))
+
 ## [1.6.6](https://github.com/RalphHightower/RalphHightower/compare/v1.6.5...v1.6.6) (2022-12-21)
 
 
