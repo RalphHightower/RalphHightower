@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.6](https://github.com/RalphHightower/RalphHightower/compare/v1.6.5...v1.6.6) (2022-12-21)
+
+
+### Bug Fixes
+
+* web page diagnostic ([52ffab1](https://github.com/RalphHightower/RalphHightower/commit/52ffab1175209a666ee5e4fe3d451470b7ad5cc5))
+
 ## [1.6.5](https://github.com/RalphHightower/RalphHightower/compare/v1.6.4...v1.6.5) (2022-12-21)
 
 
