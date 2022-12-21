@@ -645,7 +645,8 @@
 | Dec 20, 2022  | [Murdaugh prosecutors won’t seek death penalty in January double murder trial](https://www.postandcourier.com/murdaugh-updates/murdaugh-prosecutors-wont-seek-death-penalty-in-january-double-murder-trial/article_da7a21de-7fb9-11ed-b689-0f6e2ac0d595.html) |
 | December 20, 2022 | [South Carolina Will Not Seek The Death Penalty Against Alex Murdaugh](https://www.fitsnews.com/2022/12/20/south-carolina-will-not-seek-the-death-penalty-against-alex-murdaugh/)<br> attorney general: *“After carefully reviewing this case and all the surrounding facts, we have decided to seek life without parole for Alex Murdaugh. Because this is a pending case, we cannot comment further.”* <br>Harpootlian and Griffin have issued a statement: *“We are not surprised but also welcome the decision to not seek the death penalty for Alex Murdaugh. Now there is no impediment for going ahead with the trial scheduled for January 23, when we look forward to evidence, not leaks, determining the outcome.”* |
 | DEC 20, 2022 | [Attorney General Alan Wilson's statement on Murdaugh murder trial](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-s-statement-on-murdaugh-murder-trial/)<br>(COLUMBIA, S.C.) – *“After carefully reviewing this case and all the surrounding facts, we have decided to seek life without parole for Alex Murdaugh. Because this is a pending case, we cannot comment further.”* |
-
+|  Dec 21, 2022 | [Newsmaker: Alex Murdaugh’s saga of murder and mayhem places all eyes on SC Lowcountry](https://www.postandcourier.com/murdaugh-updates/newsmaker-alex-murdaughs-saga-of-murder-and-mayhem-places-all-eyes-on-sc-lowcountry/article_2244d942-77da-11ed-93e2-3f9bf422e264.html) |
+ 
 <hr>
 
 | SC Attorney General |
