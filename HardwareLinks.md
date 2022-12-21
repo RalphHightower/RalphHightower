@@ -52,7 +52,7 @@
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |https://www.twotrees3dofficial.com/products/laser-engraver-ts2
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
