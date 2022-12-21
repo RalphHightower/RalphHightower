@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.5](https://github.com/RalphHightower/RalphHightower/compare/v1.6.4...v1.6.5) (2022-12-21)
+
+
+### Bug Fixes
+
+* **spelling:** sunsetted ([5a92f14](https://github.com/RalphHightower/RalphHightower/commit/5a92f144aece9f3c33eaa0ec2d1d6db33f1b1dba))
+
 ## [1.6.4](https://github.com/RalphHightower/RalphHightower/compare/v1.6.3...v1.6.4) (2022-12-20)
 
 
