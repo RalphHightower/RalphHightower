@@ -49,6 +49,7 @@
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
+| [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
@@ -64,6 +65,7 @@
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
+| [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) | (H/W): $599) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
@@ -168,8 +170,8 @@
 | [Build your own Raspberry Pi flight tracker](https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/) |
 | [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
 | [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/?amp=1) |
-
-## DIY CubeSat
+| [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/?amp=1) |
+| [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/?amp=1) |## DIY CubeSat
 
 | [AmbaSat Sensor Add-ons]() | Function |
 |---|-----|
