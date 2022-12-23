@@ -5,18 +5,6 @@
 | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Single Board Computer Database](https://hackerboards.com/) |
 
-## Documentation / Projects
-
-| Documentation |
-|-----|
-| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
-
-| Programming |
-|----------|
-| [Arm Assembly Programming by Example](https://armasm.com/) |
-| [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
-
-
 ## Hardware 
 
 | Hardware Suppliers | H/W, GitHub |
