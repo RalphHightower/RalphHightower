@@ -1,4 +1,19 @@
-# Backed Kickstarter Projects
+# Hardware Projects 
+
+## Documentation / Projects
+
+| Documentation |
+|-----|
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+
+| Programming |
+|----------|
+| [Arm Assembly Programming by Example](https://armasm.com/) |
+| [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
+
+<hr>
+
+## Backed Kickstarter Projects
 
 | Kickstarter Projects | Purpose |
 |----------------------|------|
