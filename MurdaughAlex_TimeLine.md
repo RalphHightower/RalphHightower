@@ -652,6 +652,7 @@
 | Dec 21, 2022 | [Newsmaker: Alex Murdaugh’s saga of murder and mayhem places all eyes on SC Lowcountry](https://www.postandcourier.com/murdaugh-updates/newsmaker-alex-murdaughs-saga-of-murder-and-mayhem-places-all-eyes-on-sc-lowcountry/article_2244d942-77da-11ed-93e2-3f9bf422e264.html) |
 | December 21, 2022 | [‘Murdaugh Murders’ Saga: Government Blasts Russell Laffitte’s ‘Belated And Meritless’ Request For New Trial](https://www.fitsnews.com/2022/12/21/murdaugh-murders-saga-government-blasts-russell-laffittes-belated-and-meritless-request-for-new-trial/) <br>*“The court acted well within its broad discretion …”* |
 | Dec 22, 2022 | [Meet Murdaugh prosecutor Creighton Waters](https://www.postandcourier.com/archives/murdaugh/meet-murdaugh-prosecutor-creighton-waters/article_9703c3d0-8228-11ed-8824-87ef664d7dfe.html#tncms-source=article-nav-prev) 
+| Dec 22, 2022  | [Murdaugh banker Laffitte’s request for new trial too little, too late, prosecutors say](https://www.postandcourier.com/murdaugh-updates/murdaugh-banker-laffittes-request-for-new-trial-too-little-too-late-prosecutors-say/article_ae057076-821c-11ed-899e-8fb297ea2faa.html) |
  
 <hr>
 
