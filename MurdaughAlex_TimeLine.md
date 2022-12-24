@@ -654,7 +654,7 @@
 | Dec 22, 2022 | [Meet Murdaugh prosecutor Creighton Waters](https://www.postandcourier.com/archives/murdaugh/meet-murdaugh-prosecutor-creighton-waters/article_9703c3d0-8228-11ed-8824-87ef664d7dfe.html#tncms-source=article-nav-prev) 
 | Dec 22, 2022  | [Murdaugh banker Laffitte’s request for new trial too little, too late, prosecutors say](https://www.postandcourier.com/murdaugh-updates/murdaugh-banker-laffittes-request-for-new-trial-too-little-too-late-prosecutors-say/article_ae057076-821c-11ed-899e-8fb297ea2faa.html) |
 | December 23, 2022 | [‘Murdaugh Murders’ Saga: South Carolina Attorney General Summons Reinforcements](https://www.fitsnews.com/2022/12/23/murdaugh-murders-saga-south-carolina-attorney-general-summons-reinforcements/) |
-| Dec 23, 2022 | Parker’s to be tried alongside Murdaughs in 2019 boat crash wrongful death case](https://www.postandcourier.com/murdaugh-updates/parkers-to-be-tried-alongside-murdaughs-in-2019-boat-crash-wrongful-death-case/article_7628db96-82dc-11ed-b121-335e50ac601a.html) |
+| Dec 23, 2022 | [Parker’s to be tried alongside Murdaughs in 2019 boat crash wrongful death case](https://www.postandcourier.com/murdaugh-updates/parkers-to-be-tried-alongside-murdaughs-in-2019-boat-crash-wrongful-death-case/article_7628db96-82dc-11ed-b121-335e50ac601a.html) |
  
 <hr>
 
