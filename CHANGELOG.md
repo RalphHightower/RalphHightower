@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.8](https://github.com/RalphHightower/RalphHightower/compare/v1.6.7...v1.6.8) (2022-12-24)
+
+
+### Bug Fixes
+
+* **Murdaugh:** 2022-12-23 P&C ([bbf8761](https://github.com/RalphHightower/RalphHightower/commit/bbf876106f366cf4c0eb99991eb0c745ac863536))
+
 ## [1.6.7](https://github.com/RalphHightower/RalphHightower/compare/v1.6.6...v1.6.7) (2022-12-21)
 
 
