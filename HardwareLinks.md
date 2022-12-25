@@ -41,8 +41,9 @@
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
+| [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 || [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
+| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
@@ -159,7 +160,12 @@
 | [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
 | [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/?amp=1) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/?amp=1) |
-| [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/?amp=1) |## DIY CubeSat
+| [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/?amp=1) |
+| [Linux 6.1 LTS release – Main changes, Arm, RISC-V and MIPS architectures](https://www.cnx-software.com/2022/12/13/linux-6-1-lts-release-main-changes-arm-risc-v-and-mips-architectures/) |
+| [FNIRSI 1013D teardown and mini review – A portable oscilloscope based on Allwinner CPU & Anlogic FGPA](https://www.cnx-software.com/2022/11/16/fnirsi-1013d-teardown-and-mini-review-a-portable-oscilloscope-based-on-allwinner-cpu-anlogic-fgpa/) |
+| [Allwinner T3 automotive-grade processor powers industrial-grade SoM](https://www.cnx-software.com/2022/11/23/allwinner-t3-automotive-grade-processor-powers-industrial-grade-som/) |
+
+## DIY CubeSat
 
 | [AmbaSat Sensor Add-ons]() | Function |
 |---|-----|
