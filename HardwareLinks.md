@@ -41,9 +41,9 @@
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
-| [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 || [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
-| [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
+| [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
+| [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
@@ -145,7 +145,7 @@
 | [Raspberry Pi Compute Module 4: Small Yet Mighty](https://www.tomshardware.com/reviews/raspberry-pi-compute-module-4) |
 | [Cool Pi 4 Model B – A much faster alternative to Raspberry Pi 4 SBC](https://www.cnx-software.com/2022/12/04/cool-pi-4-model-b-powerful-raspberry-pi-4-alternative/) |
 | [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/) |
-| [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |d
+| [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |
 | [Mekotronics R58 review – Part 1: Rockchip RK3588 mini PC unboxing & teardown](https://www.cnx-software.com/2022/06/23/mekotronics-r58-review-rockchip-rk3588-mini-pc-unboxing-teardown/) |
 | [Mekotronics R58 review – Part 2: Android 12 on Rockchip RK3588 CPU](https://www.cnx-software.com/2022/07/13/mekotronics-r58-review-android-12-on-rockchip-rk3588-cpu/) |
 | [Khadas VIM4 Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
