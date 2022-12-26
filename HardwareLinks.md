@@ -191,7 +191,5 @@
 | [Google Android](https://source.android.com/docs/security/bulletin) |
 | [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
 
-[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video
-
-Complete compatibility with earlier Raspberry Pi products
+[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 [^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
