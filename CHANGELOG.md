@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.9](https://github.com/RalphHightower/RalphHightower/compare/v1.6.8...v1.6.9) (2022-12-26)
+
+
+### Bug Fixes
+
+* footnote 2 ([89980d8](https://github.com/RalphHightower/RalphHightower/commit/89980d87a83fee0cd2c1cbcf0f92e622fd30cb9f))
+
 ## [1.6.8](https://github.com/RalphHightower/RalphHightower/compare/v1.6.7...v1.6.8) (2022-12-24)
 
 
