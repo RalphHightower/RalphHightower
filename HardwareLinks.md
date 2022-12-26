@@ -148,8 +148,9 @@
 | [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |
 | [Mekotronics R58 review – Part 1: Rockchip RK3588 mini PC unboxing & teardown](https://www.cnx-software.com/2022/06/23/mekotronics-r58-review-rockchip-rk3588-mini-pc-unboxing-teardown/) |
 | [Mekotronics R58 review – Part 2: Android 12 on Rockchip RK3588 CPU](https://www.cnx-software.com/2022/07/13/mekotronics-r58-review-android-12-on-rockchip-rk3588-cpu/) |
-| [Khadas VIM4 Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
-| [Khadas VIM4 Review – Part 2: Android 11 preview and benchmarks](https://www.cnx-software.com/2022/05/07/khadas-vim4-review-part-2-android-11-preview-and-benchmarks/) |
+| [Khadas VIM4 SBC Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
+| [Khadas VIM4 SBC Review – Part 2: Android 11 preview and benchmarks](https://www.cnx-software.com/2022/05/07/khadas-vim4-review-part-2-android-11-preview-and-benchmarks/) |
+| [Khadas VIM4 SBC review – Part 3: Ubuntu 22.04](https://www.cnx-software.com/2022/05/29/khadas-vim4-review-ubuntu-22-04/?amp=1) |
 | [Raspberry Pi Compute Module 4S Mysteriously Revealed?](https://www.tomshardware.com/news/raspberry-pi-cm-4s-mysteriously-announced) |
 | [Render Shows New Raspberry Pi Compute Module 4 Alternative From Banana Pi](https://www.tomshardware.com/news/banana-pi-rpi-alternative)|
 | [Armbian 22.11 released with 64-bit RISC-V UEFI, ultra](https://www.cnx-software.com/2022/12/06/armbian-22-11-64-bit-risc-v-uefi-ultra-minimal-images/) |
