@@ -169,6 +169,7 @@
 | [Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor](https://www.cnx-software.com/2022/12/27/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/) |
 | [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/?amp=1) |
 | [Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot) |
+| [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 
 ## DIY CubeSat
 
