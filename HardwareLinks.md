@@ -53,6 +53,7 @@
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
+| [Lichee Pi4](https://sipeed.com/licheepi4a/) 16 GB | Pre-order |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
@@ -165,6 +166,8 @@
 | [Linux 6.1 LTS release – Main changes, Arm, RISC-V and MIPS architectures](https://www.cnx-software.com/2022/12/13/linux-6-1-lts-release-main-changes-arm-risc-v-and-mips-architectures/) |
 | [FNIRSI 1013D teardown and mini review – A portable oscilloscope based on Allwinner CPU & Anlogic FGPA](https://www.cnx-software.com/2022/11/16/fnirsi-1013d-teardown-and-mini-review-a-portable-oscilloscope-based-on-allwinner-cpu-anlogic-fgpa/) |
 | [Allwinner T3 automotive-grade processor powers industrial-grade SoM](https://www.cnx-software.com/2022/11/23/allwinner-t3-automotive-grade-processor-powers-industrial-grade-som/) |
+| [Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor](https://www.cnx-software.com/2022/12/27/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/) |
+| [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/?amp=1) |
 
 ## DIY CubeSat
 
