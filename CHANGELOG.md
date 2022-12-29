@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.11](https://github.com/RalphHightower/RalphHightower/compare/v1.6.10...v1.6.11) (2022-12-29)
+
+
+### Bug Fixes
+
+* change streak app domain ([7876979](https://github.com/RalphHightower/RalphHightower/commit/7876979401b0216a0fc4689f8d5c31b0793b1c32))
+
 ## [1.6.10](https://github.com/RalphHightower/RalphHightower/compare/v1.6.9...v1.6.10) (2022-12-29)
 
 
