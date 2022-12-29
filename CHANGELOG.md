@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.10](https://github.com/RalphHightower/RalphHightower/compare/v1.6.9...v1.6.10) (2022-12-29)
+
+
+### Bug Fixes
+
+* fix closing parentheses on footnote 9 ([37bc7e8](https://github.com/RalphHightower/RalphHightower/commit/37bc7e8d60f215692e800a86cc4d27c984e5200c))
+
 ## [1.6.9](https://github.com/RalphHightower/RalphHightower/compare/v1.6.8...v1.6.9) (2022-12-26)
 
 
