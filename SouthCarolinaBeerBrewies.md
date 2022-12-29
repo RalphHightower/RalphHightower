@@ -92,4 +92,4 @@
 [^6]: 2022-11-30 [The Best Breweries In Greenville, South Carolina — Southern Living](https://www.southernliving.com/greenville-sc-breweries-6829807)
 [^7]: 2022-11-10 Total Wine and More
 [^8]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
-[^9]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html(
+[^9]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html)
