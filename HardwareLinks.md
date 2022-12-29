@@ -41,7 +41,7 @@
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
-| [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
+| [Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)| (H/W) || [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
@@ -168,6 +168,7 @@
 | [Allwinner T3 automotive-grade processor powers industrial-grade SoM](https://www.cnx-software.com/2022/11/23/allwinner-t3-automotive-grade-processor-powers-industrial-grade-som/) |
 | [Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor](https://www.cnx-software.com/2022/12/27/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/) |
 | [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/?amp=1) |
+| [Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot) |
 
 ## DIY CubeSat
 
