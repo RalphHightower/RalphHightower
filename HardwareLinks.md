@@ -32,6 +32,7 @@
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
+| [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
@@ -57,6 +58,7 @@
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
+| [Microchip Get Launched — A global electronics design program to fund, manufacture, and ship amazing products](https://www.crowdsupply.com/microchip/get-launched) | (H/W) |
 | [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) | (H/W): $599) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
 | [Mouser Distributor](https://www.mouser.com/) | (H/W) |
@@ -170,6 +172,7 @@
 | [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/?amp=1) |
 | [Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
+| [CANFDuino – A Dual CAN Arduino based platform with enclosure, proto area (Crowdfunding)](https://www.cnx-software.com/2022/02/15/canfduino-dual-can-arduino-based-platform-with-enclosure-proto-area/) |
 
 ## DIY CubeSat
 
