@@ -54,7 +54,7 @@
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
-| [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
+| [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) || [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | [Lichee Pi4](https://sipeed.com/licheepi4a/) 16 GB | Pre-order |
@@ -181,6 +181,7 @@
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more](https://www.cnx-software.com/2022/12/30/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [$60 Raspberry Pi Mini Tower NAS kit takes one M.2 SATA SSD](https://www.cnx-software.com/2022/09/10/60-raspberry-pi-mini-tower-nas-kit-m2-sata-ssd/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) | 
+| [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 
 ## DIY CubeSat
 
