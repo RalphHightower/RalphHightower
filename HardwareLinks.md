@@ -48,6 +48,7 @@
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
+| **GeeekPi Raspberry Pi Mini Tower NAS Kit, Raspberry Pi ICE Tower Cooler with PWM RGB Fan, M.2 SATA SSD Expansion Board, GPIO 1 to 2 Expansion Board for Raspberry Pi 4 Model B** | Case | [Amazon](https://amzn.to/3L4bVJk)<br>[Aliexpress](https://s.click.aliexpress.com/e/_DFNhP0b) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
@@ -177,6 +178,7 @@
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [CANFDuino – A Dual CAN Arduino based platform with enclosure, proto area (Crowdfunding)](https://www.cnx-software.com/2022/02/15/canfduino-dual-can-arduino-based-platform-with-enclosure-proto-area/) |
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more](https://www.cnx-software.com/2022/12/30/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
+| [$60 Raspberry Pi Mini Tower NAS kit takes one M.2 SATA SSD](https://www.cnx-software.com/2022/09/10/60-raspberry-pi-mini-tower-nas-kit-m2-sata-ssd/) |
 
 ## DIY CubeSat
 
