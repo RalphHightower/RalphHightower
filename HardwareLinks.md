@@ -179,6 +179,7 @@
 | [CANFDuino – A Dual CAN Arduino based platform with enclosure, proto area (Crowdfunding)](https://www.cnx-software.com/2022/02/15/canfduino-dual-can-arduino-based-platform-with-enclosure-proto-area/) |
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more](https://www.cnx-software.com/2022/12/30/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [$60 Raspberry Pi Mini Tower NAS kit takes one M.2 SATA SSD](https://www.cnx-software.com/2022/09/10/60-raspberry-pi-mini-tower-nas-kit-m2-sata-ssd/) |
+| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) | 
 
 ## DIY CubeSat
 
