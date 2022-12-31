@@ -657,7 +657,8 @@
 | Dec 23, 2022 | [Parker’s to be tried alongside Murdaughs in 2019 boat crash wrongful death case](https://www.postandcourier.com/murdaugh-updates/parkers-to-be-tried-alongside-murdaughs-in-2019-boat-crash-wrongful-death-case/article_7628db96-82dc-11ed-b121-335e50ac601a.html) |
 | December 24, 2022 | [Murdaugh Murders’ Saga: Lowcountry Probate Judge Deposed](https://www.fitsnews.com/2022/12/24/murdaugh-murders-saga-lowcountry-probate-judge-deposed/)<br>Sheila Odom: *“How could it go on that long and I not have caught it?”* |
 | December 29, 2022 | [Another Juror Submits Sworn Statement In Russell Laffitte’s Bid For New Trial](https://www.fitsnews.com/2022/12/29/another-juror-submits-affidavit-in-russell-laffittes-bid-for-new-trial/)<br> *“Following nearly ten hours of deliberations, two jurors were improperly dismissed and replaced with alternates, only to have a newly constituted jury return a guilty verdict forty minutes later,”* Daniel and Austin wrote. *“One of those jurors requested removal based on her dissenting status, and the error in her removal constitutes a miscarriage of justice.”*<br>The government has fired back against this assertion, claiming Gergel *“did not abuse (his) discretion by replacing two jurors.”*<br>*“The record clearly demonstrates that the court, after inviting the parties’ input, appropriately exercised its discretion to empanel two alternate jurors to replace jurors who could no longer serve,”* a December 21 filing from prosecutors Emily Limehouse, Winston Holliday and Kathleen Stoughton noted.|
-
+| December 31, 2022  | [‘Murdaughpalooza’: In Defense Of Walterboro, South Carolina<br>“Rage Against The Food Trucks …”](https://www.fitsnews.com/2022/12/31/murdaughpalooza-in-defense-of-walterboro-south-carolina/) |
+  
   <hr>
 
 | SC Attorney General |
