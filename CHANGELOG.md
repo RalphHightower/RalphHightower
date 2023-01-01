@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.13](https://github.com/RalphHightower/RalphHightower/compare/v1.6.12...v1.6.13) (2023-01-01)
+
+
+### Bug Fixes
+
+* 4 columns back to 2 ([2059fd4](https://github.com/RalphHightower/RalphHightower/commit/2059fd4a378b852afa065f049d13b0e2f25b9a3a))
+
 ## [1.6.12](https://github.com/RalphHightower/RalphHightower/compare/v1.6.11...v1.6.12) (2022-12-30)
 
 
