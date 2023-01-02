@@ -23,8 +23,8 @@
 | Crooked Hammock Brewery[^3] | North Myrtle Beach ||
 | Double Stamp Brewery[^4] | Greenville ||
 | [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
-| [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
 | [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^3] | Greenville ||
+| [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
 | [Fatty's Beer Works](https://www.fattysbeerworks.com/)[^1] | Charleston | 2017 |
 | [Fireforge Crafted Beer](https://www.fireforge.beer/)[^3] | Greenville ||
 | Freehouse Brewery[^1] | North Charleston | 2013 |
