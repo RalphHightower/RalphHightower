@@ -48,8 +48,8 @@
 | [Munkle Brewing Co.](https://www.munklebrewing.com/)[^1] | Charleston | 2016 |
 | [New Groove Artisian Brewery](http://newgroovebrew.com/)[^3] | Boiling Springs ||
 | [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
-| [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
+| [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^4] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
