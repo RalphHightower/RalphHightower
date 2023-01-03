@@ -3,9 +3,11 @@
 | Brewery | Location | Year |
 |---------|----------|------|
 | [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1] | Taylors | 2017 |
+| [1873 Brewing](https://www.1873brewing.com/) | Fort Mill ||
 | [Aiken Brewing Company](http://www.aikenbrewingcompany.com/)[^2] | Aiken ||
 | Amor Artis Brewing[^1] | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^3] | Lexington ||
+| [Baker & Brewer](http://www.bakerandbrewer.com/) | Charleston ||
 | [Benford Brewing](https://benfordbrewing.com/)[^2] | Lancaster ||
 | [Birds Fly South Ale Project](https://bfsbeer.com/)[^1] |	Greenville | 2016 |
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
@@ -21,7 +23,10 @@
 | [Cooper River Brewing Company](https://cooperriverbrewing.com/)[^1] | Charleston | 2015 |
 | [CottonTown Brew Lab](http://ctbl.azurewebsites.net/)[^3] | Columbia ||
 | Crooked Hammock Brewery[^3] | North Myrtle Beach ||
+| [Dockery’s](http://www.dockerysdi.com/) | Daniel's Island ||
 | Double Stamp Brewery[^4] | Greenville ||
+| [Dust Off Brewing](https://dustoffbrewing.com/) | Rock Hill ||
+| [East Island Brewing](https://www.islandcoastallager.com/) | Charleston ||
 | [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
 | [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^3] | Greenville ||
 | [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
@@ -37,19 +42,41 @@
 | Hilton Head Brewing Company[^1] | Hilton Head Island | 1994 |
 | [Holy City Brewing](https://holycitybrewing.com/)[^1] | North Charleston | 2011 |
 | [Hunter Gatherer Brewery/Taproom](https://huntergathererbrewery.com/)[^2] | Columbia |
+| Independent Republic Brewing Company | Myrtle Beach  ||
 | [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/)[^3] | Charleston ||
 | [Iron Hill Brewery and Restaurant](https://www.ironhillbrewery.com/greenville-sc)[^3] | Greenville ||
+| Jocassee Valley Brewing Company | Salem |
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
 | Kite Hill Brewery[^7] | Clemson ||
+| [Krafty Draft Brew Pub](http://www.kraftydraft.com/) | Lexington ||
+| [Lore Brewing](https://lorebrewing.com/) | Indian Land ||
+| [Krafty Draft Brew Pub](http://www.kraftydraft.com/) | Lexington ||
 | [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
 | LO-Fi Brewing[^1] | Charleston | 2013 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
 | [Low Tide Brewing](https://www.lowtidebrewing.com/)[^1] | Johns Island | 2016 |
+| [Magnetic South Brewery](http://www.magneticsouthbeer.com/) | Clemson ||
+| [Model A Brewing](https://modelabrewing.com/) |Tega Cay ||
 | [Munkle Brewing Co.](https://www.munklebrewing.com/)[^1] | Charleston | 2016 |
 | [New Groove Artisian Brewery](http://newgroovebrew.com/)[^3] | Boiling Springs ||
 | [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
+| [Quest Brewing Co.](http://questbrewing.com/) | Greenville ||
+| [Quigleys Pint & Plate](https://www.pintandplate.com/) | Pawleys Island ||
+| [Quigleys Pint & Plate](https://www.pintandplate.com/) | Pawleys Island ||
+| [Rail Line Brewing](http://www.raillinebrewing.com/) |Simpsonville ||
+| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
+| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||
+| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
+| [Rail Line Brewing](http://www.raillinebrewing.com/) |Simpsonville ||
+| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
+| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
+| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||Tegal
+| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
+| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||
+| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
+| [The Velo Fellow ](http://thevelofellow.com/) | Greenville ||
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^4] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
@@ -80,6 +107,7 @@
 | [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
+| [The Velo Fellow ](http://thevelofellow.com/) | Greenville ||
 | Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
 | [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^3] | Summerville ||
 | [Wind and Waves Brewing](https://www.windandwavesbrewing.com/home)[^9] | North Charleston ||
