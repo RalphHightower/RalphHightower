@@ -661,8 +661,9 @@
 | December 31, 2022  | [‘Murdaughpalooza’: In Defense Of Walterboro, South Carolina<br>“Rage Against The Food Trucks …”](https://www.fitsnews.com/2022/12/31/murdaughpalooza-in-defense-of-walterboro-south-carolina/) |
 | January 2, 2023 | [South Carolina Legislative Leader Invokes ‘Immunity’ In Murdaugh Boat Crash...](https://www.fitsnews.com/2023/01/02/south-carolina-legislative-leader-invokes-immunity-in-murdaugh-boat-crash-case/) |
 | January 2, 2023 | [Russell Laffitte Brings In New Lawyers As He Seeks A New Trial<br>Convicted fraudster taps new lawyers …](https://www.fitsnews.com/2023/01/02/russell-laffitte-brings-in-new-lawyers-as-he-seeks-a-new-trial/) |
+| Jan 03, 2023 | [Murdaugh banker Russell Laffitte hires new lawyers as he fights fraud conviction](https://www.postandcourier.com/murdaugh-updates/murdaugh-banker-russell-laffitte-hires-new-lawyers-as-he-fights-fraud-conviction/article_17a2c5d6-8b84-11ed-a49c-377a9d9d00c8.html) |
  
- <hr>
+<hr>
 
 | SC Attorney General |
 |-----|
