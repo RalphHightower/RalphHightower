@@ -96,6 +96,7 @@
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
+| [SolidRun – Embedded Computers](https://www.solid-run.com/) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 
 ## Articles 
