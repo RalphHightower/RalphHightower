@@ -49,11 +49,10 @@
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
 | Kite Hill Brewery[^7] | Clemson ||
 | [Krafty Draft Brew Pub](http://www.kraftydraft.com/) | Lexington ||
-| [Lore Brewing](https://lorebrewing.com/) | Indian Land ||
-| [Krafty Draft Brew Pub](http://www.kraftydraft.com/) | Lexington ||
 | [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
-| LO-Fi Brewing[^1] | Charleston | 2013 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
+| LO-Fi Brewing[^1] | Charleston | 2013 |
+| [Lore Brewing](https://lorebrewing.com/) | Indian Land ||
 | [Low Tide Brewing](https://www.lowtidebrewing.com/)[^1] | Johns Island | 2016 |
 | [Magnetic South Brewery](http://www.magneticsouthbeer.com/) | Clemson ||
 | [Model A Brewing](https://modelabrewing.com/) |Tega Cay ||
@@ -62,26 +61,14 @@
 | [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
-| [Quest Brewing Co.](http://questbrewing.com/) | Greenville ||
-| [Quigleys Pint & Plate](https://www.pintandplate.com/) | Pawleys Island ||
-| [Quigleys Pint & Plate](https://www.pintandplate.com/) | Pawleys Island ||
-| [Rail Line Brewing](http://www.raillinebrewing.com/) |Simpsonville ||
-| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
-| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||
-| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
-| [Rail Line Brewing](http://www.raillinebrewing.com/) |Simpsonville ||
-| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
-| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
-| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||Tegal
-| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
-| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||
-| [Slow Play Brewing](http://slowplaybrewing.com/) |Rock Hill ||
-| [The Velo Fellow ](http://thevelofellow.com/) | Greenville ||
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^4] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
 | Peak Drift Brewing Company[^1] | Columbia | 2021 |
 | [Plankowner Brewing](http://plankownerbrewing.com/)[^3] | Boiling Springs ||
+| [Quest Brewing Co.](http://questbrewing.com/) | Greenville ||
+| [Quigleys Pint & Plate](https://www.pintandplate.com/) | Pawleys Island ||
+| [Rail Line Brewing](http://www.raillinebrewing.com/) |Simpsonville ||
 | [Revelry Brewing Co.](https://www.revelrybrewingco.com/)[^1] | Charleston | 2014 |
 | [River Dog Brewing Company](http://riverdogbrewing.com/)[^1] | Ridgeland | 2012 |
 | [River Rat Brewing](http://www.riverratbrewery.com/)[^1] | Columbia | 2013 |
@@ -91,7 +78,9 @@
 | Salt Marsh Brewing Company[^1] | Bluffton | 2013 |
 | [Savage Craft Ale Works](https://savagecraft.com/)[^5] | West Columbia ||
 | [Seminar Brewing](http://www.seminarbrewing.com/)[^1] | Florence | 2010 |
+| [Shoeless Brewing Company](http://grapeandgrains.com/) | Greenville |
 | [Silos Brewing Co.](https://www.silosbrewing.com/)[^6] | Greenville |
+| [Skull Coast Ale Co.](http://www.skullcoastales.com/) | Fort Mill ||
 | [Snafu Brewing Company](http://www.snafubrewingcompany.com/)[^7] | North Charleston ||
 | [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/)[^3] | Bluffton ||
 | The Southern Growl[^4] | Greer ||
