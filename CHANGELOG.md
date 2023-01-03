@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/RalphHightower/RalphHightower/compare/v1.6.13...v1.7.0) (2023-01-03)
+
+
+### Features
+
+* footnotes updated-Another SC beer resource ([932e521](https://github.com/RalphHightower/RalphHightower/commit/932e52142bbe6e685af9f1f23d29172013981ddd))
+
 ## [1.6.13](https://github.com/RalphHightower/RalphHightower/compare/v1.6.12...v1.6.13) (2023-01-01)
 
 
