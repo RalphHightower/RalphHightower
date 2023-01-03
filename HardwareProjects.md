@@ -5,6 +5,7 @@
 | Documentation |
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+| [Raspberry Pi](https://www.raspberrypi.com/) |
 
 | Programming |
 |----------|
