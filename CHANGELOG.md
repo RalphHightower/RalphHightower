@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/RalphHightower/RalphHightower/compare/v1.7.0...v1.8.0) (2023-01-04)
+
+
+### Features
+
+* Create page for programming articles/series ([d4fdfed](https://github.com/RalphHightower/RalphHightower/commit/d4fdfed7748706d4d7ad933a3cc6a5b4eba3705b))
+
 ## [1.7.0](https://github.com/RalphHightower/RalphHightower/compare/v1.6.13...v1.7.0) (2023-01-03)
 
 
