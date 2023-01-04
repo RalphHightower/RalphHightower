@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/RalphHightower/RalphHightower/compare/v1.8.0...v1.8.1) (2023-01-04)
+
+
+### Bug Fixes
+
+* delete duplicate Khadas VIM1S review ([1123a4c](https://github.com/RalphHightower/RalphHightower/commit/1123a4cd5c21de84e2a286230c56f5556b10e127))
+
 ## [1.8.0](https://github.com/RalphHightower/RalphHightower/compare/v1.7.0...v1.8.0) (2023-01-04)
 
 
