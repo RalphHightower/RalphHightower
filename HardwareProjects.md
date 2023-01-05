@@ -12,6 +12,10 @@
 | [Arm Assembly Programming by Example](https://armasm.com/) |
 | [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
 
+| Possible Projects |
+|------|
+| **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
+
 <hr>
 
 ## Backed Kickstarter Projects
