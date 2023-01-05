@@ -27,7 +27,11 @@
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
-| [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
+| [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
+| [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
+| [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) |
+| [Banana Pi Smart Router](https://www.banana-pi.org/web/index.php?topclassid=16&classid=76&lanstr=en&wap=1) |
+| [Banana Pi Core Board and Kit](https://www.banana-pi.org/web/index.php?topclassid=16&classid=279&lanstr=en&wap=1) | (H/W) || [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
@@ -82,7 +86,7 @@
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | [Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) | $141.99 |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
-| [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
+| [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
@@ -187,6 +191,23 @@
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 | [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
 | [Orange Pi 5 Review – Powerful, No WiFi](https://jamesachambers.com/orange-pi-5-review/) |
+| [Orange Pi 5](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) | (H/W) |
+| [Khadas Edge2 review with Android 12](https://www.cnx-software.com/2022/10/04/khadas-edge2-review-with-android-12/) |
+| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/?amp=1) |
+| [Latest Raspberry Pi OS Release Brings Improved Camera and Networking Support](https://www.tomshardware.com/news/new-raspberry-pi-os-release-improved-camera-and-networking) |
+| [Raspberry Pi Modular Mini PC Pockit Now Uses Compute Module 4](https://www.tomshardware.com/news/raspberry-pi-pockit-modular-pc-cm4) |
+| [Khadas VIM3 Review – Part 1: Kit Unboxing and Assembly](https://www.cnx-software.com/2019/07/01/khadas-vim3-review-kit-unboxing-assembly/) |
+| [SunFounder Raspberry Pi 7 Inch Touchscreen review](https://the-gadgeteer.com/2022/07/17/sunfounder-raspberry-pi-7-inch-touchscreen-review/) |
+| [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/?amp=1) |
+| [ROCK5 Model B RK3588 single board computer is up for pre-order for $79 and up](https://www.cnx-software.com/2022/01/09/rock5-model-b-rk3588-single-board-computer/) |
+| [ROCK 5B developer edition preview – Part 1: Unboxing and first boot to Debian 11](https://www.cnx-software.com/2022/07/05/rock-5b-developer-edition-preview-part-1-unboxing-and-first-boot-to-debian-11/) |
+| [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |
+| [NanoPi M4V2 Metal Case Kit Review – Part 1: Unboxing and Assembly](https://www.cnx-software.com/2019/09/30/nanopi-m4v2-metal-case-kit-review-unboxing-assembly/) |
+| [NanoPi M4V2 Kit Review – Part 2: FriendlyCore Desktop](https://www.cnx-software.com/2019/10/28/nanopi-m4v2-kit-review-part-2-friendlycore-desktop/) |
+| [$70 NanoPi M4V2 SBC Gets 4GB LPDDR4 RAM, Power & Recovery Buttons](https://www.cnx-software.com/2019/09/10/70-nanopi-m4v2-sbc-gets-4gb-lpddr4-ram-power-recovery-buttons/) |
+| [Raspberry Pi 4 vs ODROID-C4 Features Comparison](https://www.cnx-software.com/2020/04/24/raspberry-pi-4-vs-odroid-c4-features-comparison/) |
+| [Radxa Rock Pi 4 Review – Part 1: A First Look at RockPi 4B Performance Set](https://www.cnx-software.com/2019/01/10/radxa-rock-pi-4-review-rockpi-4b-performance-set/) |
+| [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 
 ## DIY CubeSat
 
