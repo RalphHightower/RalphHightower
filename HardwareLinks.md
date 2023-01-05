@@ -31,7 +31,8 @@
 | [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi Smart Router](https://www.banana-pi.org/web/index.php?topclassid=16&classid=76&lanstr=en&wap=1) | (H/W) |
-| [Banana Pi Core Board and Kit](https://www.banana-pi.org/web/index.php?topclassid=16&classid=279&lanstr=en&wap=1) | (H/W) | (H/W) || [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
+| [Banana Pi Core Board and Kit](https://www.banana-pi.org/web/index.php?topclassid=16&classid=279&lanstr=en&wap=1) | (H/W) |
+| [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
@@ -197,6 +198,8 @@
 | [Latest Raspberry Pi OS Release Brings Improved Camera and Networking Support](https://www.tomshardware.com/news/new-raspberry-pi-os-release-improved-camera-and-networking) |
 | [Raspberry Pi Modular Mini PC Pockit Now Uses Compute Module 4](https://www.tomshardware.com/news/raspberry-pi-pockit-modular-pc-cm4) |
 | [Khadas VIM3 Review – Part 1: Kit Unboxing and Assembly](https://www.cnx-software.com/2019/07/01/khadas-vim3-review-kit-unboxing-assembly/) |
+| [Khadas VIM3 (Amlogic A311D) Benchmarks & System Info in Android 9](https://www.cnx-software.com/2019/07/29/khadas-vim3-amlogic-a311d-benchmarks-system-info-in-android-9-0/) |
+| [Android Gaming on Khadas VIM3 SBC (Video)](https://www.cnx-software.com/2019/08/03/android-gaming-on-khadas-vim3-sbc-video/) |
 | [SunFounder Raspberry Pi 7 Inch Touchscreen review](https://the-gadgeteer.com/2022/07/17/sunfounder-raspberry-pi-7-inch-touchscreen-review/) |
 | [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/?amp=1) |
 | [ROCK5 Model B RK3588 single board computer is up for pre-order for $79 and up](https://www.cnx-software.com/2022/01/09/rock5-model-b-rk3588-single-board-computer/) |
@@ -208,6 +211,9 @@
 | [Raspberry Pi 4 vs ODROID-C4 Features Comparison](https://www.cnx-software.com/2020/04/24/raspberry-pi-4-vs-odroid-c4-features-comparison/) |
 | [Radxa Rock Pi 4 Review – Part 1: A First Look at RockPi 4B Performance Set](https://www.cnx-software.com/2019/01/10/radxa-rock-pi-4-review-rockpi-4b-performance-set/) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
+| [Banana Pi BPI-CM4 Amlogic A311D system-on-module launched for $95](https://www.cnx-software.com/2023/01/05/banana-pi-bpi-cm4-amlogic-a311d-system-on-module/) |
+
+
 
 ## DIY CubeSat
 
