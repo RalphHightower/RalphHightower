@@ -662,6 +662,23 @@
 | January 2, 2023 | [South Carolina Legislative Leader Invokes ‘Immunity’ In Murdaugh Boat Crash...](https://www.fitsnews.com/2023/01/02/south-carolina-legislative-leader-invokes-immunity-in-murdaugh-boat-crash-case/) |
 | January 2, 2023 | [Russell Laffitte Brings In New Lawyers As He Seeks A New Trial<br>Convicted fraudster taps new lawyers …](https://www.fitsnews.com/2023/01/02/russell-laffitte-brings-in-new-lawyers-as-he-seeks-a-new-trial/) |
 | Jan 03, 2023 | [Murdaugh banker Russell Laffitte hires new lawyers as he fights fraud conviction](https://www.postandcourier.com/murdaugh-updates/murdaugh-banker-russell-laffitte-hires-new-lawyers-as-he-fights-fraud-conviction/article_17a2c5d6-8b84-11ed-a49c-377a9d9d00c8.html) |
+
+<hr>
+
+| Date | Episode | [Post and Courier: Understanding Murdaugh Podcasts](https://understand-murdaugh.simplecast.com/episodes)[^4] |
+|------|-----|-----|
+| November 2, 2022 | 01 | [Introducing: Understand Murdaugh](https://understand-murdaugh.simplecast.com/episodes/introducing-understand-murdaugh-Wt0R6VKM) |
+| November 7, 2022 | 02 | [Follow the money: Murdaugh banker Russell Laffitte goes to trial](https://understand-murdaugh.simplecast.com/episodes/follow-the-money-murdaugh-banker-russell-laffitte-goes-to-trial) |
+| November 15, 2022 | 03 | [Understand Murdaugh: A decision on the death penalty looms large](https://understand-murdaugh.simplecast.com/episodes/a-decision-on-the-death-penalty-looms-large) |
+| November 22, 2022 | 04 | [Catching up on the Murdaugh saga: Part 1](https://understand-murdaugh.simplecast.com/episodes/catching-up-on-the-murdaugh-saga-part-1) |
+| November 23, 2022 | 05 | [Catching up on the Murdaugh saga: Part 2](https://understand-murdaugh.simplecast.com/episodes/catching-up-on-the-murdaugh-saga-part-2) |
+| November 29, 2022 | 06 | [What’s next after trial of Murdaugh accomplice, Hampton banker Russell Laffitte?](https://understand-murdaugh.simplecast.com/episodes/whats-next-after-trial-of-murdaugh-accomplice-hampton-banker-russell-laffitte) |
+| December 6, 2022 | 07 | [Understand Murdaugh: Reader Mailbag](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-reader-mailbag) |
+| December 14, 2022 | 08 | [Blood spatter and murder motive: Latest Murdaugh hearing produces fireworks](https://understand-murdaugh.simplecast.com/episodes/blood-spatter-and-murder-motive-latest-murdaugh-hearing-produces-fireworks) |
+| December 20, 2022 | 09 | [Murdaugh country: Crime and redemption in Hampton, SC](https://understand-murdaugh.simplecast.com/episodes/murdaugh-country-crime-and-redemption-in-hampton-sc) |
+| December 22, 2022 | 10 | [Creighton Waters, the Murdaugh prosecutor who toppled a South Carolina legal dynasty](https://understand-murdaugh.simplecast.com/episodes/creighton-waters-the-murdaugh-prosecutor-who-toppled-a-south-carolina-legal-dynasty) |
+| December 27, 2022 | 11 | [The Jailhouse Tapes](https://understand-murdaugh.simplecast.com/episodes/the-jailhouse-tapes) |
+| January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
  
 <hr>
 
@@ -716,4 +733,4 @@ His downward spiral has ensnared a half-dozen alleged accomplices, spawned a web
 [^1]: Revised: 2022-12-07. The grand unification of [FITSNews](https://www.fitsnews.com), [Post and Courier](https://www.postandcourier.com/murdaugh-updates/) newspaper, [WJCL](https://www.wjcl.com) ABC 25, Savannah,  Georgia, with [NBC Dateline](https://www.nbc.com/dateline/). Ralph Hightower. 
 [^2]: [Post and Courier newspaper, Charleston, South Carolina](https://www.postandcourier.com/murdaugh-updates/)
 [^3]: Craig Melvin was born and raised in Columbia, South Carolina. He graduated from Wofford College. He started working for [WIS-TV](https://www.wistv.com/) as a high school student. After graduation, he returned to [WIS-TV](https://www.wistv.com/). Moving up through the ranks at some NBC stations, he became one of the [NBC Today](https://www.today.com/) weekday anchors in 2018.
-
+[^4]: 2023-01-05 Added Post and Courier "Understanding Murdaugh Podcasts"
