@@ -9,6 +9,7 @@
 | [OpenBGP](https://www.openbgpd.org/) | Open Border Gateway Protocol |
 | [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB/-/releases/release_0.8) | Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.ASUS, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer, ThermalTake, and more supported. |
 | [Open LDAP](https://www.openldap.org/) | Lightweight Directory Access |
+| [OpenPLC](https://openplcproject.com/) | A multi-hardware Programmable Logic Controller Suite based on Beremiz IDE |
 | [Open SSL](https://www.openssl.org) | Secure Sockets Layer |
 | [Perl](https://www.perl.org/) | Programming Language |
 | [jwhois](https://ftp.gnu.org/old-gnu/Manuals/jwhois-2.4/html_chapter/jwhois.html) (GNU) | improved, configurable jwhois client |
