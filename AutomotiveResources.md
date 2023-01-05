@@ -19,10 +19,31 @@
 
 ## Owners Manuals 
 
-| Year | Manufacturer | Model |
-|------|--------------|-------|
-| 2011 | Chevrolet | HHR |
-| 2022 | Chevrolet | Corvette[^2] |
+| Make | Model | Year | Publication |
+|-------|--------|-------|-------------|
+| Chevrolet | HHR | 2011 | [Owners Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/1000/MA1279/en_US/2.0/2k11hhr4272835628035289288.pdf) |
+|||| [2011 Chevrolet HHR Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=2011&Category=&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=2011&md=HHR&dt=&module=&from=result&Style=helm&Sku=GMT11A&itemtype=N) $300.00 (paper) |
+| Chevrolet | Corvette[^2] | 2023 | [2023 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5697/en_US/2.0/23_CHEV_Corvette_OM_en_US_U_84795300B_2022AUG01_2P.pdf) |
+|||| [Getting to Know Your 2023 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6690/en_US/1.0/GTK_2023_Chevrolet_Corvette_84795301_A.pdf) |
+|||| [Getting to Know Your 2023 Chevrolet Corvette Performance](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6691/en_US/1.0/GTK_2023_Chevrolet_Corvette_Performance%20_84840061_A.pdf) |
+|| Corvette[^2] | 2022 | [2022 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5548/en_US/4.0/22_CHEV_Corvette_OM_en_US_U_84570408B_2021NOV18_2P.pdf) |
+|||| [Getting to Know Your 2022 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5597/en_US/2.0/GTK_2022_Chevrolet_Corvette_84570409_A.pdf) |
+|||| [Getting to Know Your 2022 Chevrolet Corvette Performance](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5598/en_US/1.0/GTK_2022_Chevrolet_Corvette_Performance_84840060_A.pdf) |
+|| Corvette[^2] | 2021 | [2021 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5402/en_US/2.0/21_CHEV_Corvette_OM_en_US_U_84363619B_2021FEB17_2P.pdf) |
+|||| [Getting to Know Your 2021 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5671/en_US/1.0/GTK_2021_Chevrolet_Corvette_84363623_B.pdf) |
+|||| [Getting to Know Your 2021 Chevrolet Corvette Performance](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5672/en_US/1.0/GTK_2021_Chevrolet_Corvette_Performance_84840059_B.pdf) |
+|| Corvette[^2] | 2020 | [2020 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5110/en_US/3.0/20_CHEV_Corvette_OM_en_US_U_23295642B_2020APR30.pdf) |
+|||| [Getting to Know Your 2020 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5457/en_US/3.0/GTK_2020_Chevrolet_Corvette_23428867_A.pdf) |
+|||| [Getting to Know Your 2020 Chevrolet Corvette Performance](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5458/en_US/3.0/GTK_2020_Chevrolet_Corvette_Performance_84840058_A.pdf) |
+|||| [2020 Chevrolet Corvette 3.0 Infotainment Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5098/en_US/4.0/20_CHEV_Corvette_3.0_IM_en_US_U_23298212B_2020APR30_2P.pdf) |
+| Chevrolet | Bolt | 2023 | [2023 Chevrolet Bolt EUV Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5696/en_US/1.0/23_CHEV_Bolt_EUV_OM_en_US_U_84953315A_2022MAR18.pdf) |
+|||| [Getting to Know Your 2023 Chevrolet Bolt EUV](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6687/en_US/1.0/GTK_2023_Chevrolet_Bolt_EV_Bolt_EUV_84953316_A.pdf) |
+|||| [Getting to Know Your 2023 Chevrolet Bolt EUV SUPER CRUISE](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6688/en_US/1.0/GTK_2023_Chevrolet_Bolt_EUV_Super_Cruise_85152489_A.pdf) |
+| Chevrolet | SSR | 2006 | [2006 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/1000/MA1442/en_US/4.0/2006ChevroletSSR_OwnersManual.pdf) |
+|| SSR | 2005 | [2005 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA817/en_US/2.0/2005ChevroletSSROwnersManual.pdf) |
+|| SSR | 2004 | [2004 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA225/en_US/2.0/2k04SSR.pdf) |
+|| SSR | 2003 | [2003 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA180/en_US/2.0/2k03ssr.pdf) |
+
 
 ## ODB-II Codes
 
