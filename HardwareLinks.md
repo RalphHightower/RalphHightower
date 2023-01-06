@@ -216,6 +216,7 @@
 | [Banana Pi BPI-CM4 Amlogic A311D system-on-module launched for $95](https://www.cnx-software.com/2023/01/05/banana-pi-bpi-cm4-amlogic-a311d-system-on-module/) |
 | [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
+| [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 
 ## DIY CubeSat
 
