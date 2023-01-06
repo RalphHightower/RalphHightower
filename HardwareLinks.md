@@ -17,6 +17,7 @@
 | [AAEON M2AI-2280-520AI Edge Computing Module with Kneron KL520 NP](https://www.aaeon.com/en/p/ai-modules-m2ai-2280-520) | (H/W) |
 | [AAEON M2AI-2242-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2242-720) | (H/W) |
 | [AAEON M2AI-2280-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2280-720) | (H/W) |
+| [AcSiP Development Kits](https://www.acsip.com.tw/index.php?action=products&fid1=21) | (H/W) |
 | [Allwinner H616 TV Box Processor Comes with Mali G31 GPU, Supports Android 10](https://www.cnx-software.com/2020/02/27/allwinner-h616-tv-box-processor-comes-with-mali-g31-gpu-supports-android-10/) | (H/W) |
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
@@ -61,6 +62,7 @@
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
+| [iWave i.MX 93 OSM-L LGA ModuleiW-RainboW-G50M®](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/#) | (H/W) |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W)$239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
@@ -212,8 +214,8 @@
 | [Radxa Rock Pi 4 Review – Part 1: A First Look at RockPi 4B Performance Set](https://www.cnx-software.com/2019/01/10/radxa-rock-pi-4-review-rockpi-4b-performance-set/) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [Banana Pi BPI-CM4 Amlogic A311D system-on-module launched for $95](https://www.cnx-software.com/2023/01/05/banana-pi-bpi-cm4-amlogic-a311d-system-on-module/) |
-
-
+| [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
+| [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 
 ## DIY CubeSat
 
