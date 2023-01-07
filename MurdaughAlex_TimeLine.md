@@ -662,7 +662,8 @@
 | January 2, 2023 | [South Carolina Legislative Leader Invokes ‘Immunity’ In Murdaugh Boat Crash...](https://www.fitsnews.com/2023/01/02/south-carolina-legislative-leader-invokes-immunity-in-murdaugh-boat-crash-case/) |
 | January 2, 2023 | [Russell Laffitte Brings In New Lawyers As He Seeks A New Trial<br>Convicted fraudster taps new lawyers …](https://www.fitsnews.com/2023/01/02/russell-laffitte-brings-in-new-lawyers-as-he-seeks-a-new-trial/) |
 | Jan 03, 2023 | [Murdaugh banker Russell Laffitte hires new lawyers as he fights fraud conviction](https://www.postandcourier.com/murdaugh-updates/murdaugh-banker-russell-laffitte-hires-new-lawyers-as-he-fights-fraud-conviction/article_17a2c5d6-8b84-11ed-a49c-377a9d9d00c8.html) |
-
+| Jan 5, 2023 | [Murdaugh prosecutors seek to limit Curtis Smith’s role in upcoming trial](https://www.postandcourier.com/murdaugh-updates/murdaugh-prosecutors-seek-to-limit-curtis-smiths-role-in-upcoming-trial/article_51253726-8ca6-11ed-9441-3b96c0f46dde.html) |
+|  January 6, 2023 | [‘Murdaugh Murders’ Saga: Curtis Eddie Smith Gets Subpoenaed … Now What?<br>Will he testify? And if so … what will he say?](https://www.fitsnews.com/2023/01/06/murdaugh-murders-saga-curtis-eddie-smith-subpoenaed/)<br>*“The state is turning a blind eye to the obvious, that the reason Smith failed the polygraph when asked if he murdered Maggie and Paul is because he in fact did commit these heinous crimes,”* Murdaugh’s attorneys noted.<br>*“Maggie had a thing going on with the groundskeeper which I never met him, don’t know his name … and Paul went down into one of the barns and caught him and he got upset and he went and got his rifle and was hollering and screaming his mama his mama was running and she fell down and she got up, he shot her in the ass and the bullet come out the top of her head and then he turned to the groundskeeper guy,”* Smith told the investigator. *“But the groundskeeper already went to his truck and got a shotgun.”*<br>*“Eddie Smith was a common man now in an uncommon situation,”* Aimee Zmroczek, Smith’s lawyer, said. *“His lawyer, a man whose family he respected dragged him into this world to use him as a patsy.  One of the many fall guys Murdaugh is stepping on to try and keep his feet clean.  Eddie is a hard blue-collar worker and a people pleaser who now finds himself broken, stuck in jail, and the target for a crime he didn’t commit.”* |
 <hr>
 
 | Date | Episode | [Post and Courier: Understanding Murdaugh Podcasts](https://understand-murdaugh.simplecast.com/episodes)[^4] |
@@ -679,7 +680,7 @@
 | December 22, 2022 | 10 | [Creighton Waters, the Murdaugh prosecutor who toppled a South Carolina legal dynasty](https://understand-murdaugh.simplecast.com/episodes/creighton-waters-the-murdaugh-prosecutor-who-toppled-a-south-carolina-legal-dynasty) |
 | December 27, 2022 | 11 | [The Jailhouse Tapes](https://understand-murdaugh.simplecast.com/episodes/the-jailhouse-tapes) |
 | January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
- 
+
 <hr>
 
 | SC Attorney General |
