@@ -102,10 +102,12 @@
 | [Seed Studio – Development Boards & Kits - ARM Grove Starter Kit for Azure IoT Edge](https://www.mouser.com/ProductDetail/Seeed-Studio/110060907?qs=F5EMLAvA7IDNpcLlKtTb1g%3D%3D) | $156.25 (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
-| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
+| [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | [SolidRun – Embedded Computers](https://www.solid-run.com/) | (H/W) |
+| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
-
+| [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
+| [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) || [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) 
 ## Articles 
 
 | Articles |
