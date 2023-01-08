@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.3](https://github.com/RalphHightower/RalphHightower/compare/v1.8.2...v1.8.3) (2023-01-08)
+
+
+### Bug Fixes
+
+* display fixed? ([4f03dcc](https://github.com/RalphHightower/RalphHightower/commit/4f03dccc8efd15b95714fac9eb9fcc5d5925bec2))
+* Khadas VIM1S review ([cf99a7c](https://github.com/RalphHightower/RalphHightower/commit/cf99a7c42417e0816cc3a0f20085d9084a8a0994))
+
 ## [1.8.2](https://github.com/RalphHightower/RalphHightower/compare/v1.8.1...v1.8.2) (2023-01-05)
 
 
