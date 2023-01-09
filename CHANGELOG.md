@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/RalphHightower/RalphHightower/compare/v1.8.3...v1.9.0) (2023-01-09)
+
+
+### Features
+
+* add page of conversation with ChatGPT ([670d218](https://github.com/RalphHightower/RalphHightower/commit/670d218b70d4254cb98ea6565c33a1b19270e929))
+
+
+### Bug Fixes
+
+* H1 ([e7bb999](https://github.com/RalphHightower/RalphHightower/commit/e7bb99906f2e26ecd433dc94fb20a36cba264a36))
+
 ## [1.8.3](https://github.com/RalphHightower/RalphHightower/compare/v1.8.2...v1.8.3) (2023-01-08)
 
 
