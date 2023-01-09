@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.1](https://github.com/RalphHightower/RalphHightower/compare/v1.9.0...v1.9.1) (2023-01-09)
+
+
+### Bug Fixes
+
+* redid We Didn't Start the Fire, note 1979 ([76c49f1](https://github.com/RalphHightower/RalphHightower/commit/76c49f136660906ac1202f389c74621377ca9933))
+
 ## [1.9.0](https://github.com/RalphHightower/RalphHightower/compare/v1.8.3...v1.9.0) (2023-01-09)
 
 
