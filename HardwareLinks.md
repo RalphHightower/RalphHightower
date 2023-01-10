@@ -221,6 +221,8 @@
 | [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/?amp=1) |
 | [SPACEBALLS GET SERIALIZED](https://hackaday.com/2023/01/09/spaceballs-get-serialized/) |
+| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
+|  [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
 
 ## DIY CubeSat
 
