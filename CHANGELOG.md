@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.2](https://github.com/RalphHightower/RalphHightower/compare/v1.9.1...v1.9.2) (2023-01-10)
+
+
+### Bug Fixes
+
+* bring the helpful response into the table ([75e09b2](https://github.com/RalphHightower/RalphHightower/commit/75e09b29ff11f7ab2f3bfcbde70877439c6c56d8))
+
 ## [1.9.1](https://github.com/RalphHightower/RalphHightower/compare/v1.9.0...v1.9.1) (2023-01-09)
 
 
