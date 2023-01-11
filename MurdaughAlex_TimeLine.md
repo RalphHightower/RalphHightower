@@ -683,7 +683,7 @@
 | December 22, 2022 | 10 | [Creighton Waters, the Murdaugh prosecutor who toppled a South Carolina legal dynasty](https://understand-murdaugh.simplecast.com/episodes/creighton-waters-the-murdaugh-prosecutor-who-toppled-a-south-carolina-legal-dynasty) |
 | December 27, 2022 | 11 | [The Jailhouse Tapes](https://understand-murdaugh.simplecast.com/episodes/the-jailhouse-tapes) |
 | January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
-
+| JANUARY 10TH, 2023 | 13 | [The Murdaughs' estate and its mysterious buyer](https://understand-murdaugh.simplecast.com/episodes/the-murdaughs-estate-and-its-mysterious-buyer) |
 
 <hr>
 
