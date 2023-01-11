@@ -107,7 +107,8 @@
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
-| [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) || [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
+| [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
+| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
 
 ## Articles 
 
