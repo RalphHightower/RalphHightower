@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.3](https://github.com/RalphHightower/RalphHightower/compare/v1.9.2...v1.9.3) (2023-01-11)
+
+
+### Bug Fixes
+
+* Hardware Suppliers table ([93899d8](https://github.com/RalphHightower/RalphHightower/commit/93899d8386139f4c5d83d1c258221f26bf289fef))
+* Hardware Suppliers: SparkFun ([fd86fbb](https://github.com/RalphHightower/RalphHightower/commit/fd86fbbac2521e73ae2f6d2342a4348736c07b99))
+
 ## [1.9.2](https://github.com/RalphHightower/RalphHightower/compare/v1.9.1...v1.9.2) (2023-01-10)
 
 
