@@ -63,7 +63,7 @@
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [iWave i.MX 93 OSM-L LGA ModuleiW-RainboW-G50M®](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/#) | (H/W) |
-| **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W)$239.90 |
+| **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | [Lichee Pi4](https://sipeed.com/licheepi4a/) 16 GB | Pre-order |
@@ -107,7 +107,8 @@
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
-| [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) || [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) 
+| [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) || [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
+
 ## Articles 
 
 | Articles |
