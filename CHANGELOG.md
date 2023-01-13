@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/RalphHightower/RalphHightower/compare/v1.10.0...v1.11.0) (2023-01-13)
+
+
+### Features
+
+* Add SC Food (closes [#433](https://github.com/RalphHightower/RalphHightower/issues/433)) ([04b98bf](https://github.com/RalphHightower/RalphHightower/commit/04b98bf90e5fa261164a5d7f963c92517d749eb5))
+
 ## [1.10.0](https://github.com/RalphHightower/RalphHightower/compare/v1.9.3...v1.10.0) (2023-01-13)
 
 
