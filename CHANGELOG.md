@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/RalphHightower/RalphHightower/compare/v1.9.3...v1.10.0) (2023-01-13)
+
+
+### Features
+
+* Rename page, added TV series ([4edc2f5](https://github.com/RalphHightower/RalphHightower/commit/4edc2f5f5f569c3d8a6a49d1415e6d3dee98aaf8))
+
 ## [1.9.3](https://github.com/RalphHightower/RalphHightower/compare/v1.9.2...v1.9.3) (2023-01-11)
 
 
