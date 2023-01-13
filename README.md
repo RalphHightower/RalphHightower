@@ -392,6 +392,7 @@ South Carolina has a number of craft beer breweries. The heading is a list of th
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
 | [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
+| [Weather Data @ Crossroads Fire Station](http://www.rcwinds.com/?tab=data&loc=Crossroads%20Fire%20Station) | Chapin, South Carolina, USA |
 
 ## Dewar's Profile
 
