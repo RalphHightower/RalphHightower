@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.1](https://github.com/RalphHightower/RalphHightower/compare/v1.11.0...v1.11.1) (2023-01-14)
+
+
+### Bug Fixes
+
+* closes [#442](https://github.com/RalphHightower/RalphHightower/issues/442). Fix The Saga Begins link ([44e5edc](https://github.com/RalphHightower/RalphHightower/commit/44e5edc322d3ff1407e97d3bc2ce94a3c873b8a6))
+
 ## [1.11.0](https://github.com/RalphHightower/RalphHightower/compare/v1.10.0...v1.11.0) (2023-01-13)
 
 
