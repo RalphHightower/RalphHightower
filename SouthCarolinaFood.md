@@ -12,6 +12,7 @@
 | [Ruth Chris House](https://www.ruthschris.com/restaurant-locations/columbia/) | Steak[^1] ʷʰᵃᵗ ᵉˡˢᵉ | Columbia |
 | [Long House Steakhouse](https://www.longhornsteakhouse.com/locations/sc/columbia/columbia-harbison-road/5094) | Steak | Columbia |
 | [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/) | Pan Asian,  Sushi | Lexington |
+| [Villa Tronco](https://www.villatronco.com/) |Italian | Columbia |
 | [Zorba's](https://zorbaschapin.com) | Greek | Chapin |
 
 ## Charleston
