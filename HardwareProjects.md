@@ -1,16 +1,19 @@
 # Hardware Projects 
 
-## Documentation / Projects
+## Documentation
 
 | Documentation |
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
 | [Raspberry Pi](https://www.raspberrypi.com/) |
 
+## Planned Projects 
+
 | Planned Projects |
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 
+## Possible Projects 
 
 | Possible Projects |
 |------|
@@ -18,11 +21,20 @@
 | [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
 | [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
 
+## Programming 
+
 | Programming |
 |----------|
 | [Arm Assembly Programming by Example](https://armasm.com/) |
 | [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
 
+## [SparkFun](https://www.sparkfun.com/)
+
+| Hardware | How-to | GitHub |
+|----|---|----|
+| [SparkFun MicroMod Input and Display Carrier Board](https://www.sparkfun.com/products/16985) | [SparkFun MicroMod Input and Display Carrier Board Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide/all) | [SparkFun MicroMod Input and Display Carrier Board](https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier) |
+| [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
+| [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
 
 ## [Turing Pi 4× ClusterClusters](https://turingpi.com/)
 
@@ -67,6 +79,8 @@
 | [StarFive Technical Documentation](https://github.com/starfive-tech/JH7100_Docs) ||
 
 <hr>
+
+## Kickstarter Companies 
 
 | Kickstarter Companies | Description |
 |------|-----|
