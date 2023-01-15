@@ -1,11 +1,19 @@
 # Hardware Projects 
 
-## Documentation
+## Documentation / Resources 
 
 | Documentation |
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
 | [Raspberry Pi](https://www.raspberrypi.com/) |
+
+| Resources |
+|----|
+| [Arm Developer Resources](https://developer.arm.com/) |
+| [Arm Software](https://github.com/ARM-software) |
+| [Blues Cellular](https://dev.blues.io/) |
+
+
 
 ## Planned Projects 
 
