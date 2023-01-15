@@ -240,6 +240,8 @@
 | [Develop for all six NVIDIA Jetson Orin modules with the power of one developer kit](https://www.arrow.com/en/research-and-events/articles/develop-for-all-six-nvidia-jetson-orin-modules-with-the-power-of-one-developer-kit) |
 | [reComputer J4012 mini PC features NVIDIA Jetson Orin NX for AI Edge applications](https://www.cnx-software.com/2023/01/10/recomputer-j4012-mini-pc-features-nvidia-jetson-orin-nx-for-ai-edge-applications/) |
 | [reComputer J101/J202 carrier boards are designed for Jetson Nano/NX/TX2 NX SoM](https://www.cnx-software.com/2022/08/02/recomputer-j101-j202-carrier-boards-are-designed-for-jetson-nano-nx-tx2-nx-som/) |
+| [Develop for all six NVIDIA Jetson Orin modules with the power of one developer kit](https://www.arrow.com/en/research-and-events/articles/develop-for-all-six-nvidia-jetson-orin-modules-with-the-power-of-one-developer-kit) |
+| [Dev Kit Weekly: NVIDIA Jetson AGX Orin Developer Kit](https://embeddedcomputing.com/technology/open-source/development-kits/dev-kit-weekly-nvidia-jetson-agx-orin-developer-kit) |
 
 ## DIY CubeSat
 
