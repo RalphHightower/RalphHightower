@@ -24,6 +24,26 @@
 | [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
 
 
+## [Turing Pi 4× ClusterClusters](https://turingpi.com/)
+
+| Product | Vendor | Turing Pi Compatible |
+|----|----|----|
+| Raspberry Pi CM4 || ✓ |
+| NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
+| NVIDIA Jetson AGX Xavier 64GB | [Arrow](https://www.arrow.com/en/products/900-82888-0050-000/nvidia) $1,399.00  |  |
+| NVIDIA Jetson AGX Xavier | [Arrow](https://www.arrow.com/products/900-82888-0040-000/nvidia) $999.00  | |
+| NVIDIA Jetson AGX Xavier Industrial | [Arrow](https://www.arrow.com/products/900-82888-0080-000/nvidia) $1,449.00 | |
+| NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br>(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
+| NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br>(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
+| NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-13636-0010-000/nvidia) $199.00  | ✓
+| NVIDIA Jetson TX2i | [Arrow](https://www.arrow.com/en/products/900-83489-0000-000/nvidia) $849.00  | |
+| NVIDIA Jetson TX2 4GB | [Arrow](https://www.arrow.com/en/products/900-83489-0080-000/nvidia) $299.00  |  |
+| NVIDIA Jetson Nano<br>(Jetson Nano System-on-Module (SOM): 128-Core Maxwell GPU, 4-Core 64-bit ARM CPU, 4GB LPDDR4, 16GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) $129.00 | ✓ |
+| NVIDIA Jetson Nano Developer Kit | [Arrow](https://www.arrow.com/products/945-13450-0000-100/nvidia) $149.00  | |
+|| [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/) $129.00  ||
+|| [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
+|| [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
+|| [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
 
 <hr>
 
