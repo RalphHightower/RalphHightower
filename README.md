@@ -142,6 +142,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
 |-----|-----|
+| [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision) |
 | Canada ||
 | [Agence spatiale canadienne - Canadian Space Agency](https://github.com/asc-csa) |   |
 | Europe ||
@@ -149,22 +150,32 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | International ||
 | [European Organization for Nuclear Research (CERN)](https://github.com/CERN) ||
 | United States of America ||
-| [cloud.gov](https://github.com/cloud-gov) | cloud.gov is a secure and compliant Platform as a Service (PaaS) operated by U.S. General Services Administration Technology Transformation Service. |
+| [ARM User Facility](https://github.com/ARM-DOE) ||
+| [CDAT](https://github.com/CDAT) | Community Data Analysis Tools |
+| [cloud.gov](https://github.com/cloud-gov) | cloud.gov is a secure and compliant Platform as a Service (PaaS) operated by U.S. General Services Administration Technology Transformation Service
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov) | Commit today, secure tomorrow. |
 | [Data Packaged Core Datasets](https://github.com/datasets) | Important, commonly-used datasets in high quality, easy-to-use & open form as data packages |
-| [Lawrence Livermore National Laboratory](https://github.com/LLNL) | For 70 years, the Lawrence Livermore National Laboratory has applied science and technology to make the world a safer place. |
+| [DOE – ARM User Facility](https://github.com/ARM-DOE) ||
+| [Control System Studio](https://github.com/ControlSystemStudio) ||
+| [Consortium for Advanced Simulation of Light-Water Reactors](https://github.com/CASL) ||
+| [DOE CODE](https://github.com/doecode) | DOE code repositories collected and preserved by the USDOE Office of Scientific and Technical Information. To join email doecoderepositories@osti.gov. |
+| [Federal Aviation Administration (FAA)](https://github.com/Federal-Aviation-Administration) ||
 | [The Federal Communications Commission](https://github.com/orgs/FCC/repositories) ||
+| [Lawrence Livermore National Laboratory](https://github.com/LLNL) | For 70 years, the Lawrence Livermore National Laboratory has applied science and technology to make the world a safer place. |
+| [Livermore CHAOS Development Team](https://github.com/chaos) ||
 | [Los Alamos National Laboratory](https://github.com/LANL) ||
 | [LANL-Bioinformatics](https://github.com/LANL-Bioinformatics) ||
 | [NASA](https://github.com/nasa) ||
 | [NASA-DEVELOP](https://github.com/nasa-develop) ||
 | [Global Imagery Browse Services](https://github.com/nasa-gibs) ||
 | [NASA WorldWind](https://github.com/nasaworldwind) ||
+| [ National Institute of Health — Center for Biomedical Informatics and Information Technology (CBIIT)](https://github.com/CBIIT) ||
 | [National Park Service](https://github.com/nationalparkservice) | Since 1916, the American people have entrusted the National Park Service with the care of their national parks. |
 | [NOAA - Geophysical Fluid Dynamics Laboratory](https://github.com/noaa-gfdl) | U.S Department of Commerce, National Oceanic and Atmospheric Administration |
 | [NOAA-ORR-ERD](https://github.com/NOAA-ORR-ERD) ||
-| [Pacific Marine Environmental Laboratory](https://github.com/noaa-pmel) ||
+| [MOAA — Pacific Marine Environmental Laboratory](https://github.com/noaa-pmel) ||
 | [OpenSat - Core Flight System](https://github.com/Open-Sat) | Establish a community for open source projects based on the NASA Goddard Space Flight Center's core Flight System (cFS). |
+| [Portable Extensible Toolkit for Scientific computing](https://github.com/petsc) | PETSc is a suite of composable data structures and algorithms for scalable (parallel) solution of scientific applications modeled by PDEs. |
 | [NSA Cybersecurity Directorate](https://github.com/nsacyber) | Official GitHub account for NSA Cybersecurity Directorate. Formerly branded as NSA Cybersecurity, NSA Information Assurance, & Information Assurance |
 | [Sandia National Laboratories](https://github.com/sandialabs) | Exceptional service in the national interest. |
 | [Smithsonian Institution](https://github.com/smithsonian) | Smithsonian Institution OCIO Central GitHub |
