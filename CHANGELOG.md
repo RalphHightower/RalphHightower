@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.3](https://github.com/RalphHightower/RalphHightower/compare/v1.11.2...v1.11.3) (2023-01-15)
+
+
+### Bug Fixes
+
+* dupe 2023-01-14 P&C (closes [#481](https://github.com/RalphHightower/RalphHightower/issues/481)) ([610ff65](https://github.com/RalphHightower/RalphHightower/commit/610ff65bab41c81dafa89eac0aec5191e7e4472b))
+
 ## [1.11.2](https://github.com/RalphHightower/RalphHightower/compare/v1.11.1...v1.11.2) (2023-01-15)
 
 
