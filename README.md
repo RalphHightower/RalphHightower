@@ -230,6 +230,14 @@ A technology company had shut down and one of the Affinity Technology Group form
 || Sun Tape Drive (3 SCSI Hard Drives) |
 || SCSI Drive Cabinet |
 
+| VAXStation II/GPX BSD Operating Systems |
+|-------|
+| [OpenBSD — VAXStation](https://www.openbsd.org/) |
+| [NET BSD](https://www.netbsd.org/) |
+| [DEC Alpha YouTube video](https://youtu.be/RAxomG) |
+| [DEC and the PDP-11 YouTube video](https://youtu.be/bQUeMyAMQwo) |
+
+
 | Various Computer Books 📚 |
 |----------------------------|
 | Art of Computer Science (3 volume set) by Donald Knuth |
