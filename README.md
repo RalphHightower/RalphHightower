@@ -91,6 +91,10 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
 | [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
+| [Arm Developer Resources](https://developer.arm.com/) |
+| [Arm Software](https://github.com/ARM-software) |
+| [Blues Cellular](https://dev.blues.io/) |
+| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) |
 | [Node.js](https://nodejs.org/en/) | Node.js® is an open-source, cross-platform JavaScript runtime environment. |
 | [Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) |
 | [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^2] | Internet[DNS Root, IP addressing, Internet protocols] |
