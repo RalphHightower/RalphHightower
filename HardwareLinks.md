@@ -80,6 +80,9 @@
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
 | [NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W: $119) |
 | [Newark](https://www.newark.com/) | (H/W) |
+| **[NVIDIA Jetson Developer Kits](https://developer.nvidia.com/embedded/jetson-developer-kits)** | (H/W) |
+| **[NVIDIA Jetson Modules](https://developer.nvidia.com/embedded/jetson-modules)** | (H/W) |
+| [NVIDIA Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products) | (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
@@ -101,6 +104,8 @@
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
 | [Seed Studio – Development Boards & Kits - ARM Grove Starter Kit for Azure IoT Edge](https://www.mouser.com/ProductDetail/Seeed-Studio/110060907?qs=F5EMLAvA7IDNpcLlKtTb1g%3D%3D) | $156.25 (H/W) |
+| [Seeed Studio reComputer J101 - Carrier Board for Jetson Nano, same size of NVIDIA® Jetson Nano™ Dev Kit carrier board, micro SD card slot, HDMI2.0, USB, CSI, M.2 key E, GPIO](https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html) | (H/W) $69 |
+| [Seeed Studio reComputer J202 - carrier Board for Jetson Nano/Xavier NX/TX2 NX, with 4xUSB, M.2 Key M,E same size of NVIDIA® Jetson Xavier™ NX Dev Kit carrier board (Power adapter included)](https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html) | (H/W) $139 |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
@@ -232,6 +237,9 @@
 | [Sipeed Lichee Pi 4A is a modular RISC-V mini PC with up to 16GB RAM](https://liliputing.com/sipeed-lichee-pi-4a-is-a-modular-risc-v-mini-pc-with-up-to-16gb-ram/) |
 | [Khadas VIM4 Review: Faster Than a Raspberry Pi](https://www.tomshardware.com/reviews/khadas-vim4-review) |
 | [Raspberry Pi HAT Brings 5G To Your Projects](https://www.tomshardware.com/news/raspberry-pi-5g-hat) |
+| [Develop for all six NVIDIA Jetson Orin modules with the power of one developer kit](https://www.arrow.com/en/research-and-events/articles/develop-for-all-six-nvidia-jetson-orin-modules-with-the-power-of-one-developer-kit) |
+| [reComputer J4012 mini PC features NVIDIA Jetson Orin NX for AI Edge applications](https://www.cnx-software.com/2023/01/10/recomputer-j4012-mini-pc-features-nvidia-jetson-orin-nx-for-ai-edge-applications/) |
+| [reComputer J101/J202 carrier boards are designed for Jetson Nano/NX/TX2 NX SoM](https://www.cnx-software.com/2022/08/02/recomputer-j101-j202-carrier-boards-are-designed-for-jetson-nano-nx-tx2-nx-som/) |
 
 ## DIY CubeSat
 
