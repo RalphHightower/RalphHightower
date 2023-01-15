@@ -55,6 +55,7 @@
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | **GeeekPi Raspberry Pi Mini Tower NAS Kit, Raspberry Pi ICE Tower Cooler with PWM RGB Fan, M.2 SATA SSD Expansion Board, GPIO 1 to 2 Expansion Board for Raspberry Pi 4 Model B** | Case<br> [Amazon](https://amzn.to/3L4bVJk)<br>[Aliexpress](https://s.click.aliexpress.com/e/_DFNhP0b) |
+| [Geniatech ARM Boards](https://shop.geniatech.com/products/industrial-pc/arm-board/)<br>From system on modules, single board computers, industrial IoT & Embedded motherboards to develop kits, carrier boards, and peripheral cards, Geniatech provides a comprehensive range of ARM Based computer board solutions with Linux or Android OS,  powerful performance, low power, compact, flexible options, different form factors and platforms available. Geniatech’s ARM boards are the ideal embedded platform for accelerating development and reducing the risk of new chip designs. Our SBCs are available to buy as Evaluation Kits to get you quickly started on your Embedded System project. | (H/W) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
@@ -225,6 +226,12 @@
 | [SPACEBALLS GET SERIALIZED](https://hackaday.com/2023/01/09/spaceballs-get-serialized/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
 |  [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
+| [Pine64 and Radxa's new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards) |
+| [Raspberry Pi: Tutorials, Models, How to Get Started](https://www.tomshardware.com/news/raspberry-pi) |
+| [Please forward this to anyone who got a Raspberry Pi for Christmas](https://www.raspberrypi.com/news/please-forward-this-to-anyone-who-got-a-raspberry-pi-for-christmas/) |
+| [Sipeed Lichee Pi 4A is a modular RISC-V mini PC with up to 16GB RAM](https://liliputing.com/sipeed-lichee-pi-4a-is-a-modular-risc-v-mini-pc-with-up-to-16gb-ram/) |
+| [Khadas VIM4 Review: Faster Than a Raspberry Pi](https://www.tomshardware.com/reviews/khadas-vim4-review) |
+| [Raspberry Pi HAT Brings 5G To Your Projects](https://www.tomshardware.com/news/raspberry-pi-5g-hat) |
 
 ## DIY CubeSat
 
