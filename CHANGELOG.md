@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/RalphHightower/RalphHightower/compare/v1.11.3...v1.12.0) (2023-01-16)
+
+
+### Features
+
+* New page for Alex Murdaugh trial coverage ([f5fddb6](https://github.com/RalphHightower/RalphHightower/commit/f5fddb630fb84f8c048d6cf8b93c42df856bc975))
+
 ## [1.11.3](https://github.com/RalphHightower/RalphHightower/compare/v1.11.2...v1.11.3) (2023-01-15)
 
 
