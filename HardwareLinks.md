@@ -242,6 +242,11 @@
 | [reComputer J101/J202 carrier boards are designed for Jetson Nano/NX/TX2 NX SoM](https://www.cnx-software.com/2022/08/02/recomputer-j101-j202-carrier-boards-are-designed-for-jetson-nano-nx-tx2-nx-som/) |
 | [Develop for all six NVIDIA Jetson Orin modules with the power of one developer kit](https://www.arrow.com/en/research-and-events/articles/develop-for-all-six-nvidia-jetson-orin-modules-with-the-power-of-one-developer-kit) |
 | [Dev Kit Weekly: NVIDIA Jetson AGX Orin Developer Kit](https://embeddedcomputing.com/technology/open-source/development-kits/dev-kit-weekly-nvidia-jetson-agx-orin-developer-kit) |
+| [MistySoM Renesas RZ/G2L or RZ/V2L SoM and devkit goes for $112 and up](https://www.cnx-software.com/2023/01/10/mistysom-renesas-rz-g2l-rz-v2l-som-and-devkit/) |
+| [Dev Kit Weekly: NVIDIA Jetson AGX Orin Developer Kit](https://embeddedcomputing.com/technology/open-source/development-kits/dev-kit-weekly-nvidia-jetson-agx-orin-developer-kit) |
+| [Upgrade Jetson Xavier NX to JetPack 5](https://jetsonhacks.com/2022/11/03/upgrade-jetson-xavier-nx-to-jetpack-5/) |
+| [NVIDIA Jetson Orin Nano – A new Beast! ](https://jetsonhacks.com/2022/09/20/nvidia-jetson-orin-nano-a-new-beast/) |
+| [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/#cid=em19_so-twit_en-us) |
 
 ## DIY CubeSat
 
