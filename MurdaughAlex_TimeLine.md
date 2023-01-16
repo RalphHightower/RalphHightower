@@ -692,6 +692,10 @@
 
 <hr>
 
+[Alex Murdaugh Trial News](https://ralphhightower.github.io/RalphHightower/MurdaughAlexJudgementDay.html)
+
+<hr>
+
 | SC Attorney General |
 |-----|
 | [Attorney General Alan Wilson announces State Grand Jury issues new indictments against Richard Alexander Murdaugh](https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-state-grand-jury-issues-new-indictments-against-richard-alexander-murdaugh/) |
