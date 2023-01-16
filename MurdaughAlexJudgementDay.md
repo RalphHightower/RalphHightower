@@ -1,4 +1,4 @@
-# A Southern Gothic Tale of Money, Mystery, and Murder — Judgement Day
+# Judgment Day: Southern Gothic Tale of Money, Mystery, and Murder
 
 ## Boss Hogg of Hampton County
 
