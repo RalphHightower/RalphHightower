@@ -1,6 +1,4 @@
-# A Southern Gothic Tale of Money, Mystery, and Murder @ Judgement Day
-
-## Boss Hogg of Hampton County
+# Judgement Day for Alex Murdaugh (Boss Hogg of Hampton County)
 
 ## Court News
 
