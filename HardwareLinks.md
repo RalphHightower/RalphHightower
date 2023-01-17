@@ -267,6 +267,14 @@
 |----------|
 | [Meshtastic - An open source, off-grid, decentralized, mesh network built to run on affordable, low-power device](https://meshtastic.org/) |
 
+## ARM History 
+
+| ARM History |
+|----|
+| [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)<br>In 1983, Acorn Computers needed a CPU. So 10 people built one. |
+| [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/)<br>What had started as twelve people and a dream was now a billion-dollar company. |
+| [A history of ARM, part 3: Coming full circle](https://arstechnica.com/gadgets/2023/01/a-history-of-arm-part-3-coming-full-circle/) |
+
 ## Patch Bulletins 
 
 | Patch Bulletins |
