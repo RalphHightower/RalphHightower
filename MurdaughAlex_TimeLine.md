@@ -690,6 +690,8 @@
 | December 27, 2022 | 11 | [The Jailhouse Tapes](https://understand-murdaugh.simplecast.com/episodes/the-jailhouse-tapes) |
 | January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
 | JANUARY 10TH, 2023 | 13 | [The Murdaughs' estate and its mysterious buyer](https://understand-murdaugh.simplecast.com/episodes/the-murdaughs-estate-and-its-mysterious-buyer) |
+| JANUARY 17TH, 2023 | 14 | [Who is Curtis Smith? What role might he play in the Alex Murdaugh murder trial?](https://understand-murdaugh.simplecast.com/episodes/who-is-curtis-smith-what-role-might-he-play-in-the-alex-murdaugh-murder-trial) |
+
 
 <hr>
 
