@@ -696,7 +696,7 @@
 
 <hr>
 
-[Alex Murdaugh Trial News](https://ralphhightower.github.io/RalphHightower/MurdaughAlexJudgementDay.html)
+[Judgement Day for Alex Murdaugh (Boss Hogg of Hampton County)](https://ralphhightower.github.io/RalphHightower/MurdaughAlexJudgementDay.html)
 
 <hr>
 
