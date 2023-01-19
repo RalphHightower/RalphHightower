@@ -4,6 +4,8 @@
 |------|
 | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Single Board Computer Database](https://hackerboards.com/) |
+| [FindBoard Workshop](https://www.findboard.cn/#/home) |
+
 
 ## Hardware 
 
@@ -115,6 +117,7 @@
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
+| [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) |
 
 ## Articles 
@@ -250,7 +253,7 @@
 | [NVIDIA Jetson Orin Nano – A new Beast! ](https://jetsonhacks.com/2022/09/20/nvidia-jetson-orin-nano-a-new-beast/) |
 | [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/#cid=em19_so-twit_en-us) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.cnx-software.com/2023/01/17/edatec-cm4-sensing-industrial-computer-offers-can-bus-rs485-and-rs232-interfaces/) |
-
+| [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/?amp=1) |
 
 ## DIY CubeSat
 
