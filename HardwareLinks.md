@@ -44,6 +44,7 @@
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
+| [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
 | [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
@@ -187,6 +188,7 @@
 | [Cool Pi 4 Model B – A much faster alternative to Raspberry Pi 4 SBC](https://www.cnx-software.com/2022/12/04/cool-pi-4-model-b-powerful-raspberry-pi-4-alternative/) |
 | [Build your own Raspberry Pi flight tracker](https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/) |
 | [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
+| [TwoTrees TS2 laser engraver review – Part 2: A beginner’s experience with LaserGRBL and MKSLaser](https://www.cnx-software.com/2023/01/16/twotrees-ts2-laser-engraver-review-part-2-lasergrbl-mkslaser/) |
 | [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/?amp=1) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/?amp=1) |
 | [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/?amp=1) |
@@ -230,7 +232,7 @@
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/?amp=1) |
 | [SPACEBALLS GET SERIALIZED](https://hackaday.com/2023/01/09/spaceballs-get-serialized/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
-|  [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
+| [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
 | [Pine64 and Radxa's new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards) |
 | [Raspberry Pi: Tutorials, Models, How to Get Started](https://www.tomshardware.com/news/raspberry-pi) |
 | [Please forward this to anyone who got a Raspberry Pi for Christmas](https://www.raspberrypi.com/news/please-forward-this-to-anyone-who-got-a-raspberry-pi-for-christmas/) |
@@ -247,6 +249,8 @@
 | [Upgrade Jetson Xavier NX to JetPack 5](https://jetsonhacks.com/2022/11/03/upgrade-jetson-xavier-nx-to-jetpack-5/) |
 | [NVIDIA Jetson Orin Nano – A new Beast! ](https://jetsonhacks.com/2022/09/20/nvidia-jetson-orin-nano-a-new-beast/) |
 | [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/#cid=em19_so-twit_en-us) |
+| [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.cnx-software.com/2023/01/17/edatec-cm4-sensing-industrial-computer-offers-can-bus-rs485-and-rs232-interfaces/) |
+
 
 ## DIY CubeSat
 
