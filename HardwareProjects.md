@@ -65,7 +65,11 @@
 || [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
 || [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
 
-[NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/)
+| Suppliers |
+|----|
+| [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
+| [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
+
 
 <hr>
 
