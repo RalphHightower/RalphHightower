@@ -12,6 +12,7 @@
 | [Arm Developer Resources](https://developer.arm.com/) |
 | [Arm Software](https://github.com/ARM-software) |
 | [Blues Cellular](https://dev.blues.io/) |
+| [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
 
 
 
