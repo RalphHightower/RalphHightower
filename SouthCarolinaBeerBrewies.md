@@ -64,7 +64,7 @@
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^5] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
-| Peak Drift Brewing Company[^1] | Columbia | 2021 |
+| [Peak Drift Brewing](https://www.peakdriftbrewing.com/)[^1] | Columbia | 2021 |
 | [Plankowner Brewing](http://plankownerbrewing.com/)[^3] | Boiling Springs ||
 | [Quest Brewing Co.](http://questbrewing.com/)[^4] | Greenville ||
 | [Quigleys Pint & Plate](https://www.pintandplate.com/)[^4] | Pawleys Island ||
