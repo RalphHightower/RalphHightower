@@ -6,7 +6,6 @@
 | [Single Board Computer Database](https://hackerboards.com/) |
 | [FindBoard Workshop](https://www.findboard.cn/#/home) |
 
-
 ## Hardware 
 
 | Hardware Suppliers | H/W, GitHub |
@@ -104,6 +103,7 @@
 | [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | [ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>$219.95 USD (16GB) |
+| [SB Components — Shopify](https://sbcshop.myshopify.com/) | (H/W) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
 | [Seed Studio – Development Boards & Kits - ARM Grove Starter Kit for Azure IoT Edge](https://www.mouser.com/ProductDetail/Seeed-Studio/110060907?qs=F5EMLAvA7IDNpcLlKtTb1g%3D%3D) | $156.25 (H/W) |
