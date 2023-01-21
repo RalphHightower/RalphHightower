@@ -254,6 +254,7 @@
 | [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/#cid=em19_so-twit_en-us) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.cnx-software.com/2023/01/17/edatec-cm4-sensing-industrial-computer-offers-can-bus-rs485-and-rs232-interfaces/) |
 | [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/?amp=1) |
+| [CHIPSEA CST85F01 480 MHz Cortex-M4 MCU supports dual-band WiFi 6 and Bluetooth 5.0 LE](https://www.cnx-software.com/2023/01/19/chipsea-cst85f01-480-mhz-cortex-m4-mcu-supports-dual-band-wifi-6-and-bluetooth-5-0-le/) |
 
 ## DIY CubeSat
 
