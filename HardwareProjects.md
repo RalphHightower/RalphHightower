@@ -45,7 +45,7 @@
 | [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
 | [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
 
-## [Turing Pi 4× ClusterClusters](https://turingpi.com/)
+## [Turing Pi 4× Clusters](https://turingpi.com/)
 
 | Product | Vendor | Turing Pi Compatible |
 |----|----|----|
