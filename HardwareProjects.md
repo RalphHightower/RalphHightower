@@ -91,7 +91,9 @@
 | [RS485 CAN HAT For Raspberry Pi](https://github.com/sbcshop/RS485-CAN-HAT) | RS485 CAN HAT is a multi node communication module, to communicate with devices in a long-range, designed dedicatedly for Raspberry Pi with an operating voltage of 3.3 V, CAN controller MCP2515 via SPI interface, onboard transceiver SN65HVD230 that is controlled via UART. It is built to support automatic TX/RX control without programming. It performs half-duplex communication and it has an onboard transceiver SP3485. |
 | [StarFiveTech VisionFive2 SDK](https://github.com/starfive-tech/VisionFive2) | Builds a complete RISC-V cross-compile toolchain for the StarFiveTech JH7110 SoC. It also builds U-boot SPL, U-boot and a flattened image tree (FIT) image with a Opensbi binary, linux kernel, device tree, ramdisk image and rootfs image for the JH7110 VisionFive2 board. |
 | [Linux kernel for StarFive's JH7100 RISC-V SoC](https://github.com/starfive-tech/linux) |The JH7100 is a Linux-capable dual-core 64bit RISC-V SoC and this tree is meant to collect all the in-development patches for running Linux on boards using this. So far there are two such boards and both are supported by this tree.|
-| [StarFive Technical Documentation](https://github.com/starfive-tech/JH7100_Docs) ||
+| [StarFive Technical Documentation](https://github.com/starfive-tech/JH7100_Docs) | Technical Documentation |
+| [StarFiveTech VisionFive2](https://doc-en.rvspace.org/Doc_Center/visionfive_2.html) | VisionFive2 documentation |
+| [StarFiveTech GitHub](https://github.com/starfive-tech) | GitHub |
 
 <hr>
 
