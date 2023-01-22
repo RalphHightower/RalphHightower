@@ -258,6 +258,7 @@
 | [CHIPSEA CST85F01 480 MHz Cortex-M4 MCU supports dual-band WiFi 6 and Bluetooth 5.0 LE](https://www.cnx-software.com/2023/01/19/chipsea-cst85f01-480-mhz-cortex-m4-mcu-supports-dual-band-wifi-6-and-bluetooth-5-0-le/) |
 | [NVIDIA Grace CPU Superchip Architecture In Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/) |
 | [Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/) |
+| [Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/?amp=1) |
 
 ## DIY CubeSat
 
