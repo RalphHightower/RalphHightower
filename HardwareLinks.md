@@ -98,6 +98,7 @@
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
+| [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code) | (H/W) $159.00 ($30 off for $5 coupon purchase) |
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
@@ -255,7 +256,8 @@
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.cnx-software.com/2023/01/17/edatec-cm4-sensing-industrial-computer-offers-can-bus-rs485-and-rs232-interfaces/) |
 | [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/?amp=1) |
 | [CHIPSEA CST85F01 480 MHz Cortex-M4 MCU supports dual-band WiFi 6 and Bluetooth 5.0 LE](https://www.cnx-software.com/2023/01/19/chipsea-cst85f01-480-mhz-cortex-m4-mcu-supports-dual-band-wifi-6-and-bluetooth-5-0-le/) |
-| [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/) |
+| [NVIDIA Grace CPU Superchip Architecture In Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/) |
+| [Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/) |
 
 ## DIY CubeSat
 
