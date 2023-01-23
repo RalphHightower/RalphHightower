@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.2](https://github.com/RalphHightower/RalphHightower/compare/v1.12.1...v1.12.2) (2023-01-23)
+
+
+### Bug Fixes
+
+* event table not correct (closes [#555](https://github.com/RalphHightower/RalphHightower/issues/555)) ([0b1388e](https://github.com/RalphHightower/RalphHightower/commit/0b1388ebacafbe5de962658e2fe0b1513b9cfdbe))
+
 ## [1.12.1](https://github.com/RalphHightower/RalphHightower/compare/v1.12.0...v1.12.1) (2023-01-21)
 
 
