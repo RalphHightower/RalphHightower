@@ -13,10 +13,16 @@
 
 ## Facebook[^2]
 
-| [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/2022/11/21/production) |
+| [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/) |
 |-----|
 | [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/productin-engineering/precision-time-protocol-at-meta/) |
 | [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/) |
+
+| Technical Blogs |
+|----|
+| [Facebook Engineering Blog](https://engineering.fb.com/
+| [NVIDIA Developer Blog](https://developer.nvidia.com/blog/) |
+
 
 [^1]: [Michael Shpilt](https://michaelscodingspot.com/about/)
 [^2]: Sorry Meta, but you will always be known as Facebook. 
