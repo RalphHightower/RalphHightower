@@ -683,6 +683,7 @@
 | January 21, 2023  | [Walterboro South Carolina Braces For ‘Murdaughpalooza’](https://www.fitsnews.com/2023/01/21/walterboro-south-carolina-braces-for-murdaughpalooza/)<br>‘Trial of the Century’ heads to the ‘Front Porch of the Lowcountry.’ |
 | January 22, 2023 | NBC News [Lights, camera, trial: All eyes on Alex Murdaugh as a small South Carolina city prepares for a 'circus'](https://www.nbcnews.com/news/us-news/lights-camera-trial-eyes-alex-murdaugh-small-south-carolina-city-prepa-rcna64961) |
 | Jan 22, 2023  | [The Alex Murdaugh trial’s first challenge: finding 12 jurors with open minds](https://www.postandcourier.com/murdaugh-updates/the-alex-murdaugh-trial-s-first-challenge-finding-12-jurors-with-open-minds/article_36ed2c58-98de-11ed-99e0-b3abb9b2773f.html) <br>It showed that out of 68 prospective jurors who reported to Charleston’s federal courthouse, 28 stood when they were asked if they were familiar with the case — enough that U.S. District Judge Richard Gergel asked them to queue up for more detailed questioning.<br>Their responses showed varying levels of exposure to the case. At one extreme, juror No. 23 said they’d watched several documentaries and followed podcasts like the Murdaugh Murders Podcast, as had juror No. 172. Both of them were dismissed; one was removed from consideration after Laffitte defense attorney Bart Daniel objected to their inclusion, saying *“the podcast scares the heck out of us” because he believed it conveyed “strong opinions of guilt.”*<br>*“I don’t want somebody who’s had their head in the sand. I wouldn’t want somebody who hasn’t heard about Murdaugh, because I want somebody who’s part of the world,”* Savage said. *“I don’t want the type of juror that would say they’d never heard of him, because that means they haven’t heard of anything else.”*|
+
 <hr>
 
 | Date | Episode | [Post and Courier: Understanding Murdaugh Podcasts](https://understand-murdaugh.simplecast.com/episodes)[^4] |
@@ -701,7 +702,6 @@
 | January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
 | JANUARY 10TH, 2023 | 13 | [The Murdaughs' estate and its mysterious buyer](https://understand-murdaugh.simplecast.com/episodes/the-murdaughs-estate-and-its-mysterious-buyer) |
 | JANUARY 17TH, 2023 | 14 | [Who is Curtis Smith? What role might he play in the Alex Murdaugh murder trial?](https://understand-murdaugh.simplecast.com/episodes/who-is-curtis-smith-what-role-might-he-play-in-the-alex-murdaugh-murder-trial) |
-
 
 <hr>
 
