@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.3](https://github.com/RalphHightower/RalphHightower/compare/v1.12.2...v1.12.3) (2023-01-24)
+
+
+### Bug Fixes
+
+* delete duplicate entries ([0665504](https://github.com/RalphHightower/RalphHightower/commit/0665504d6e71bd2a1944110f476e4c23d661166b))
+
 ## [1.12.2](https://github.com/RalphHightower/RalphHightower/compare/v1.12.1...v1.12.2) (2023-01-23)
 
 
