@@ -702,6 +702,8 @@
 | January 3, 2023 | 12 | [Murdaugh catchup: Tax evasion, death penalty, Laffitte appeal, and no federal charges for Murdaugh?](https://understand-murdaugh.simplecast.com/episodes/murdaugh-catchup-tax-evasion-death-penalty-laffitte-appeal-and-no-federal-charges-for-murdaugh) |
 | JANUARY 10TH, 2023 | 13 | [The Murdaughs' estate and its mysterious buyer](https://understand-murdaugh.simplecast.com/episodes/the-murdaughs-estate-and-its-mysterious-buyer) |
 | JANUARY 17TH, 2023 | 14 | [Who is Curtis Smith? What role might he play in the Alex Murdaugh murder trial?](https://understand-murdaugh.simplecast.com/episodes/who-is-curtis-smith-what-role-might-he-play-in-the-alex-murdaugh-murder-trial) |
+| JANUARY 20TH, 2023  | 15 | [Meet Judge Clifton Newman, who will oversee Alex Murdaugh’s murder trial](https://understand-murdaugh.simplecast.com/episodes/meet-judge-clifton-newman-who-will-oversee-alex-murdaughs-murder-trial) |
+| JANUARY 23RD, 2023 | BONUS | [Beyond The Headlines: Alex Murdaugh goes to trial (Bonus)](https://understand-murdaugh.simplecast.com/episodes/beyond-the-headlines-alex-murdaugh-goes-to-trial-bonus) |
 
 <hr>
 
