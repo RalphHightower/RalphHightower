@@ -704,6 +704,8 @@
 | JANUARY 17TH, 2023 | 14 | [Who is Curtis Smith? What role might he play in the Alex Murdaugh murder trial?](https://understand-murdaugh.simplecast.com/episodes/who-is-curtis-smith-what-role-might-he-play-in-the-alex-murdaugh-murder-trial) |
 | JANUARY 20TH, 2023  | 15 | [Meet Judge Clifton Newman, who will oversee Alex Murdaugh’s murder trial](https://understand-murdaugh.simplecast.com/episodes/meet-judge-clifton-newman-who-will-oversee-alex-murdaughs-murder-trial) |
 | JANUARY 23RD, 2023 | BONUS | [Beyond The Headlines: Alex Murdaugh goes to trial (Bonus)](https://understand-murdaugh.simplecast.com/episodes/beyond-the-headlines-alex-murdaugh-goes-to-trial-bonus) |
+| January 24, 2023 | 16 | [Revelations about a potential murder weapon, and jury selection continues](https://understand-murdaugh.simplecast.com/episodes/revelations-about-a-potential-murder-weapon-and-more-jury-selection) |
+| January 25, 2023 | 17 | [Alex Murdaugh’s defense attorneys: Who are Dick Harpootlian and Jim Griffin](https://understand-murdaugh.simplecast.com/episodes/alex-murdaughs-defense-attorneys-who-are-dick-harpootlian-and-jim-griffin) |
 
 <hr>
 
