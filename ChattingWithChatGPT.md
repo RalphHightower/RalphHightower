@@ -163,9 +163,9 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 | Thank you. Do you know which cellular technology is used in 2022 model year vehicles use to connect to OnStar? | I apologize but my information is cut off on 2021 and therefore I don't have the most recent information on what cellular technology is used in 2022 model year vehicles to connect to OnStar specifically. However, in general it's possible that vehicles produced in 2022 have multiple cellular technologies. Most vehicles manufactured in 2022 have 4G LTE cellular connection capabilities, which is widely adopted and allows the car to connect to the internet, and therefore to the Onstar services like navigation, music streaming, safety and security features, and many more. However, it's also possible that some vehicles may be using 5G technology as well as 4G, this would be possible if the vehicle manufacturers are integrating 5G capabilities into new models of vehicles.<br><br>OnStar, which is a subsidiary of General Motors, provides a range of services including navigation, remote diagnostics, emergency assistance, and more, to GM cars through a cellular connection. So it is likely that the cellular technology that OnStar uses would depend on the technology built into the specific GM vehicle. |
 | Thank you. You have been very helpful in my decision making process for buying a new General Motors vehicle. I'm a Chevy guy. | You're welcome! I'm glad I could help. General Motors, including Chevrolet, have been known for providing a wide range of vehicles with the latest technology. Having knowledge of the cellular technology used in vehicles is important when considering the range of services available on the car. You might want to check the specific models and options available to make sure you're getting the cellular technology that is best suited to your needs and preferences. Don't hesitate to reach out if you have any further questions, I'll be happy to help. And as a Chevy guy, I'm sure you'll find the perfect vehicle that meets your needs and preferences! |
 
-## Me and Bobby McGee — Janis Joplin 
+## Me and Bobby McGee by Janis Joplin 
 
-| Lyrics |
+| Me and Bobby McGee — Janis Joplin |
 |----|
 |Oh Lord, won't you buy me a Mercedes Benz?|
 |My friends all drive Porsches, I must make amends|
@@ -192,7 +192,7 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 
 ## The Edmund Fitzgerald by Gordon Lightfoot 
 
-| Lyrics |
+| The Edmund Fitzgerald — Gordon Lightfoot |
 |----|
 | The legend lives on from the Chippewa on down|
 |Of the big lake they called Gitche Gumee|
@@ -279,5 +279,70 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |So oh Lord, won't you buy me a Mercedes Benz?|
 |That's it! | 
 | **ChatGPT:** The lyrics you provided are from the song "Mercedes Benz" by Janis Joplin. The song was written by Joplin and Michael McClure and released in 1971 on the album "Pearl." It is a short, bluesy song that is notable for its catchy and humorous refrain in which Joplin asks the Lord to buy her a Mercedes Benz. The song has become one of Joplin's best-known and most enduring hits and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
+
+## Hotel California by The Eagles 
+
+| Hotel California — The Eagles |
+|----|
+|On a dark desert highway|
+|Cool wind in my hair|
+|Warm smell of colitas|
+|Rising up through the air|
+|Up ahead in the distance|
+|I saw a shimmering light|
+|My head grew heavy and my sight grew dim|
+|I had to stop for the night|
+|There she stood in the doorway|
+|I heard the mission bell|
+|And I was thinking to myself|
+|"This could be Heaven or this could be Hell"|
+|Then she lit up a candle|
+|And she showed me the way|
+|There were voices down the corridor|
+|I thought I heard them say|
+|Welcome to the Hotel California|
+|Such a lovely place (such a lovely place)|
+|Such a lovely face|
+|Plenty of room at the Hotel California|
+|Any time of year (any time of year)|
+|You can find it here|
+|Her mind is Tiffany-twisted|
+|She got the Mercedes Benz|
+|She got a lot of pretty, pretty boys|
+|That she calls friends|
+|How they dance in the courtyard|
+|Sweet summer sweat|
+|Some dance to remember|
+|Some dance to forget|
+|So I called up the Captain|
+|"Please bring me my wine"|
+|He said, 'We haven't had that spirit here|
+|Since 1969"|
+|And still those voices are calling from far away|
+|Wake you up in the middle of the night|
+|Just to hear them say|
+|Welcome to the Hotel California|
+|Such a lovely place (such a lovely place)|
+|Such a lovely face|
+|They livin' it up at the Hotel California|
+|What a nice surprise (what a nice surprise)|
+|Bring your alibis|
+|Mirrors on the ceiling|
+|The pink champagne on ice|
+|And she said, 'We are all just prisoners here|
+|Of our own device"|
+|And in the master's chambers|
+|They gathered for the feast|
+|They stab it with their steely knives|
+|But they just can't kill the beast|
+|Last thing I remember, I was|
+|Running for the door|
+|I had to find the passage back|
+|To the place I was before|
+|"Relax, " said the night man|
+|"We are programmed to receive|
+|You can check out any time you like|
+|But you can never leave" |
+| **ChatGPT:** The lyrics you provided are from the song "Hotel California" by the Eagles. The song was released in 1977 and has become one of the band's most well-known and iconic hits. It has been widely interpreted and has inspired many theories about its meaning, including that it is about a drug-induced hallucination or a metaphor for the excesses of the music industry. The song has a memorable and evocative melody and has been covered by numerous artists and featured in various media. It remains a popular and enduring classic of rock music. |
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
