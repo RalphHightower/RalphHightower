@@ -190,4 +190,67 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |That's it!| 
 | **ChatGPT:** The lyrics you provided are from the song "Me and Bobby McGee" by Janis Joplin. The song was written by Kris Kristofferson and was originally recorded by Roger Miller in 1969. Joplin's version of the song was released in 1971 on the album "Pearl" and became one of her most popular and enduring hits. It is a bluesy and soulful song that tells the story of a woman who travels with a man named Bobby McGee and reflects on their time together. The song has a memorable melody and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
 
+## The Edmund Fitzgerald by Gordon Lightfoot 
+
+| Lyrics |
+|----|
+| The legend lives on from the Chippewa on down|
+|Of the big lake they called Gitche Gumee|
+|The lake, it is said, never gives up her dead|
+|When the skies of November turn gloomy|
+|With a load of iron ore twenty-six thousand tons more|
+|Than the Edmund Fitzgerald weighed empty|
+|That good ship and true was a bone to be chewed|
+|When the gales of November came early|
+|The ship was the pride of the American side|
+|Coming back from some mill in Wisconsin|
+|As the big freighters go, it was bigger than most|
+|With a crew and good captain well seasoned|
+|Concluding some terms with a couple of steel firms|
+|When they left fully loaded for Cleveland|
+|And later that night when the ship's bell rang|
+|Could it be the north wind they'd been feelin'?|
+|The wind in the wires made a tattle-tale sound|
+|And a wave broke over the railing|
+|And every man knew, as the captain did too|
+|T'was the witch of November come stealin'|
+|The dawn came late and the breakfast had to wait|
+|When the gales of November came slashin'|
+|When afternoon came it was freezin' rain|
+|In the face of a hurricane west wind|
+|When suppertime came, the old cook came on deck sayin'|
+|"Fellas, it's too rough to feed ya"|
+|At seven PM, a main hatchway caved in, he said|
+|"Fellas, it's been good to know ya"|
+|The captain wired in he had water comin' in|
+|And the good ship and crew was in peril|
+|And later that night when his lights went outta sight|
+|Came the wreck of the Edmund Fitzgerald|
+|Does any one know where the love of God goes|
+|When the waves turn the minutes to hours|
+|The searchers all say they'd have made Whitefish Bay|
+|If they'd put fifteen more miles behind her|
+|They might have split up or they might have capsized|
+|They may have broke deep and took water|
+|And all that remains is the faces and the names|
+|Of the wives and the sons and the daughters|
+|Lake Huron rolls, Superior sings|
+|In the rooms of her ice-water mansion|
+|Old Michigan steams like a young man's dreams|
+|The islands and bays are for sportsmen|
+|And farther below Lake Ontario|
+|Takes in what Lake Erie can send her|
+|And the iron boats go as the mariners all know|
+|With the gales of November remembered|
+|In a musty old hall in Detroit they prayed|
+|In the maritime sailors' cathedral|
+|The church bell chimed 'til it rang twenty-nine times|
+|For each man on the Edmund Fitzgerald|
+|The legend lives on from the Chippewa on down|
+|Of the big lake they called Gitche Gumee|
+|Superior, they said, never gives up her dead|
+|When the gales of November come early |
+| **ChatGPT:** The lyrics you provided are from the song "The Wreck of the Edmund Fitzgerald" by Gordon Lightfoot. The song was released in 1976 and became one of Lightfoot's most successful and well-known hits. It tells the story of the SS Edmund Fitzgerald, a ship that sank in Lake Superior in 1975, and the crew who lost their lives in the disaster. The song has a haunting and evocative melody and poignant lyrics that have made it a classic of folk and country music. It continues to be widely performed and covered by artists around the world and is remembered as a tribute to the bravery and sacrifice of the men who served on the Edmund Fitzgerald. |
+
+
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
