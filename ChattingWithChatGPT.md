@@ -252,5 +252,32 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |When the gales of November come early |
 | **ChatGPT:** The lyrics you provided are from the song "The Wreck of the Edmund Fitzgerald" by Gordon Lightfoot. The song was released in 1976 and became one of Lightfoot's most successful and well-known hits. It tells the story of the SS Edmund Fitzgerald, a ship that sank in Lake Superior in 1975, and the crew who lost their lives in the disaster. The song has a haunting and evocative melody and poignant lyrics that have made it a classic of folk and country music. It continues to be widely performed and covered by artists around the world and is remembered as a tribute to the bravery and sacrifice of the men who served on the Edmund Fitzgerald. |
 
+## Mercedes Benz by Janis Joplin 
+
+| Mercedes Benz — Janis Joplin|
+|----|
+|Oh Lord, won't you buy me a Mercedes Benz?|
+|My friends all drive|
+|Porsches, I must make amends|
+|Worked hard all my lifetime, no help from my friends|
+|So Lord, won't you buy me a Mercedes Benz|
+||
+|Oh Lord, won't you buy me a color TV?|
+|Dialing for dollars is trying to find me
+|I wait for delivery each day until three|
+|So oh Lord, won't you buy me a color TV?|
+||
+|Oh Lord, won't you buy me a night on the town?|
+|I'm counting on you, Lord, please don't let me down|
+|Prove that you love me and buy the next round|
+|Oh Lord, won't you buy me a night on the town?|
+|Everybody!|
+||
+|Oh Lord, won't you buy me a Mercedes Benz?|
+|My friends all drive Porsches, I must make amends|
+|Worked hard all my lifetime, no help from my friends|
+|So oh Lord, won't you buy me a Mercedes Benz?|
+|That's it! | 
+| **ChatGPT:** The lyrics you provided are from the song "Mercedes Benz" by Janis Joplin. The song was written by Joplin and Michael McClure and released in 1971 on the album "Pearl." It is a short, bluesy song that is notable for its catchy and humorous refrain in which Joplin asks the Lord to buy her a Mercedes Benz. The song has become one of Joplin's best-known and most enduring hits and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
