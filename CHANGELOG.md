@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.13.0](https://github.com/RalphHightower/RalphHightower/compare/v1.12.3...v1.13.0) (2023-01-27)
+
+
+### Features
+
+* convert 2 columns to 1 (closes 596) ([fa348fb](https://github.com/RalphHightower/RalphHightower/commit/fa348fb31c7dbcd4d3d96d59517466488c2714c9))
+
+
+### Bug Fixes
+
+* Markdown, italics 2023-01-25 (closes [#593](https://github.com/RalphHightower/RalphHightower/issues/593)) ([2543b32](https://github.com/RalphHightower/RalphHightower/commit/2543b3257c1b7de722ce70fac5e06fe32e0f77a1))
+
 ## [1.12.3](https://github.com/RalphHightower/RalphHightower/compare/v1.12.2...v1.12.3) (2023-01-24)
 
 
