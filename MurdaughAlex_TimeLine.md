@@ -686,6 +686,30 @@
 
 <hr>
 
+## Post and Courier Editorials
+
+| Date | Event |
+|----|----|
+| Jun 15, 2021 | [Editorial: Release Murdaugh homicide report to quell rumors, comply with SC](https://www.postandcourier.com/opinion/editorials/editorial-release-murdaugh-homicide-report-to-quell-rumors-comply-with-sc-law/article_240b7e64-cd42-11eb-a272-07b4b7af2fb9.htmln) |
+| Aug 8, 2021 | [Editorial: Murdaugh boat investigation highlights problems police need to fix](https://www.postandcourier.com/opinion/editorials/editorial-murdaugh-boat-investigation-highlights-problems-police-need-to-fix/article_fbc2c6c2-f610-11eb-b26e-9bc77270829e.html) |
+| Oct 2, 2021 | [Scoppe: Tentacles of Murdaugh saga reach beyond SC law enforcement into judicial selection](https://www.postandcourier.com/opinion/commentary/scoppe-tentacles-of-murdaugh-saga-reach-beyond-sc-law-enforcement-into-judicial-selection/article_9eade3e0-222f-11ec-af36-f78cc1c9b597.html)  |
+|  Oct 9, 2021 | [Scoppe: SC lawyer-legislators don’t just pick judges. Most times, they can trump them too.](https://www.postandcourier.com/opinion/commentary/scoppe-sc-lawyer-legislators-don-t-just-pick-judges-most-times-they-can-trump-them/article_0de799fc-27a0-11ec-9855-b79c7cab6946.html) |
+|  Oct 9, 2021 | [Editorial: Murdaugh mystery raises questions about SC legal system. We need answers.](https://www.postandcourier.com/opinion/editorials/editorial-murdaugh-mystery-raises-questions-about-sc-legal-system-we-need-answers/article_30bc4300-276f-11ec-a9d0-9ff78ceb6287.html) |
+| Oct 19, 2021 | [Commentary: Judge Mullen doesn’t have the option of testifying about Murdaugh case](https://www.postandcourier.com/opinion/commentary/commentary-judge-mullen-doesnt-have-the-option-of-testifying-about-murdaugh-case/article_304b8714-2b98-11ec-88b9-b39eb151f39c.html) |
+| Jul 19, 2022 | [Editorial: Alex Murdaugh isn’t like other people — except in this one tragic way](https://www.postandcourier.com/opinion/editorials/editorial-alex-murdaugh-isnt-like-other-people-except-in-this-one-tragic-way/article_48969a4e-06a7-11ed-899f-f762c6f1b95d.html) |
+| Jul 20, 2022 | [CityWatch: From Southern Charm to Southern Gothic](https://www.postandcourier.com/columbia/opinion/citywatch-from-southern-charm-to-southern-gothic/article_b6e4d9c6-0697-11ed-9f0d-c386592a2ed0.html) |
+| Jul 23, 2022 | [Editorial: Surprisingly positive start to Murdaugh murder case](https://www.postandcourier.com/opinion/editorials/editorial-surprisingly-positive-start-to-murdaugh-murder-case/article_5b0bd036-090e-11ed-89cb-6f97c7463b8b.html) |
+| Jul 24, 2022 | [Lawyer at SC firm pulled into Murdaugh scandal settles bicycle-death suit for $1.25M](https://www.postandcourier.com/murdaugh-updates/lawyer-at-sc-firm-pulled-into-murdaugh-scandal-settles-bicycle-death-suit-for-1-25m/article_af709e2a-06b8-11ed-884a-a7a54eef4ed3.html) |
+| Aug 1, 2022 | [Editorial: A reminder of SC legislators’ inappropriate perk, courtesy of Alex Murdaugh](https://www.postandcourier.com/opinion/editorials/editorial-a-reminder-of-sc-legislators-inappropriate-perk-courtesy-of-alex-murdaugh/article_30ddc9d8-0ed4-11ed-b7db-53cb48f585ef.html) |
+| Aug 4, 2022 | [Editorial: A rare SC win for openEditorial: A reminder of SC legislators’ inappropriate perk, courtesy of Alex Murdaugh government](https://www.postandcourier.com/opinion/editorials/editorial-a-rare-sc-win-for-open-government/article_1ecc128a-13fd-11ed-840b-ff55c0dcb192.html) 
+| Aug 6, 2022 | [Editorial: Reserve death penalty for worst of the worst](https://www.postandcourier.com/opinion/editorials/editorial-reserve-death-penalty-for-worst-of-the-worst/article_16056dfa-12a8-11ed-920a-77f29b843186.html) 
+| Aug 10, 2022 | [CityWatch: Murdaugh trial judge stands up for the law — and up to the lawyers](https://www.postandcourier.com/columbia/opinion/citywatch-murdaugh-trial-judge-stands-up-for-the-law-and-up-to-the-lawyers/article_3002e808-172c-11ed-874e-7b444456f4a9.html) |
+| Sep 23, 2022 | [Editorial: SC lawmakers should end judge shopping, boost oversight on settlement sales](https://www.postandcourier.com/opinion/editorials/editorial-sc-lawmakers-should-end-judge-shopping-boost-oversight-on-settlement-sales/article_fe471d72-39c5-11ed-a1d3-a3042569aeea.html) |
+| Oct 22, 2022 | [Scoppe: Why a judicial speed trap in Alex Murdaugh’s Colleton County is being dismantled](https://www.postandcourier.com/opinion/commentary/scoppe-why-a-judicial-speed-trap-in-alex-murdaughs-colleton-county-is-being-dismantled/article_6ede7644-50d1-11ed-8ed3-fbcf3e7885b2.html) |
+|  Oct 28, 2022 | [Editorial: SC Supreme Court needs to condemn Mullen’s inappropriate intervention](https://www.postandcourier.com/opinion/editorials/editorial-sc-supreme-court-needs-to-condemn-mullens-inappropriate-intervention/article_c6b032e6-5567-11ed-acef-a7fbd1185d2a.html) |
+
+### Understanding Murdaugh Podcasts 
+
 | Date | Episode | [Post and Courier: Understanding Murdaugh Podcasts](https://understand-murdaugh.simplecast.com/episodes)[^4] |
 |------|-----|-----|
 | November 2, 2022 | 01 | [Introducing: Understand Murdaugh](https://understand-murdaugh.simplecast.com/episodes/introducing-understand-murdaugh-Wt0R6VKM) |
