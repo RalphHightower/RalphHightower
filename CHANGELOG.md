@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.13.1](https://github.com/RalphHightower/RalphHightower/compare/v1.13.0...v1.13.1) (2023-01-27)
+
+
+### Bug Fixes
+
+* Star Trek 1 column display (closes [#607](https://github.com/RalphHightower/RalphHightower/issues/607)) ([4c2b821](https://github.com/RalphHightower/RalphHightower/commit/4c2b821b0555487afc855a30e9ff63d30f5352d1))
+
 ## [1.13.0](https://github.com/RalphHightower/RalphHightower/compare/v1.12.3...v1.13.0) (2023-01-27)
 
 
