@@ -264,6 +264,8 @@
 | [New NVIDIA Jetson Orin NX 16GB launches worldwide from $599](https://www.geeky-gadgets.com/nvidia-jetson-orin-nx-25-01-2023/) |
 | [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summer](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
 | [ESP32 OpenMQTTGateway smart plug acts as an BLE MQTT gateway and a power meter](https://www.cnx-software.com/2023/01/26/esp32-openmqttgateway-smart-plug-acts-as-an-ble-mqtt-gateway-and-a-power-meter/) |
+| [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summer](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
+| [RAK2560 WisNode LoRaWAN & BLE Sensor Hub ships with a choice of sensor modules](https://www.cnx-software.com/2022/11/26/rak2560-wisnode-lorawan-ble-sensor-hub-ships-with-a-choice-for-sensor-modules/) |
 
 ## DIY CubeSat
 
