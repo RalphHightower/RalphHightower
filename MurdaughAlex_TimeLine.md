@@ -732,6 +732,8 @@
 | January 25, 2023 | 17 | [Alex Murdaugh’s defense attorneys: Who are Dick Harpootlian and Jim Griffin](https://understand-murdaugh.simplecast.com/episodes/alex-murdaughs-defense-attorneys-who-are-dick-harpootlian-and-jim-griffin) |
 | JANUARY 25TH, 2023 | 18 | [Murder trial officially begins with opening statements](https://understand-murdaugh.simplecast.com/episodes/murder-trial-officially-begins-with-opening-statements) |
 | JANUARY 26TH, 2023 | 19 | [Understand Murdaugh: First witnesses in Alex Murdaugh murder trial take the stand](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-first-witnesses-in-alex-murdaugh-murder-trial-take-the-stand) |
+| JANUARY 27TH, 2023 | [Food trucks pop up in Walterboro as Murdaugh trial begins](https://understand-murdaugh.simplecast.com/episodes/food-trucks-pop-up-in-walterboro-as-murdaugh-trial-begins) | Bonus | [Food trucks pop up in Walterboro as Murdaugh trial begins](https://understand-murdaugh.simplecast.com/episodes/food-trucks-pop-up-in-walterboro-as-murdaugh-trial-begins) |
+| JANUARY 27TH, 2023 | 20 | [Understand Murdaugh: Footage from Alex Murdaugh's first interview with investigators](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-footage-from-alex-murdaugh-interview) |
 
 <hr>
 
