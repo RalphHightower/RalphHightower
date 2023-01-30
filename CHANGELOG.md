@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/RalphHightower/RalphHightower/compare/v1.13.1...v1.14.0) (2023-01-30)
+
+
+### Features
+
+* Add LinuxNotes.md (closes [#638](https://github.com/RalphHightower/RalphHightower/issues/638)) ([d287451](https://github.com/RalphHightower/RalphHightower/commit/d287451a807a0c3d02da00d70375e2900ea7bd98))
+
 ## [1.13.1](https://github.com/RalphHightower/RalphHightower/compare/v1.13.0...v1.13.1) (2023-01-27)
 
 
