@@ -445,6 +445,7 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 | **ChatGPT:** The lyrics you provided are from the song "Hotel California" by the Eagles. The song was released in 1977 and has become one of the band's most well-known and iconic hits. It has been widely interpreted and has inspired many theories about its meaning, including that it is about a drug-induced hallucination or a metaphor for the excesses of the music industry. The song has a memorable and evocative melody and has been covered by numerous artists and featured in various media. It remains a popular and enduring classic of rock music. |
 
 ## DEC VAX Family
+
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
 |*"Greetings Assistant. "*|
