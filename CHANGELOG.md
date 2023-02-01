@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.3](https://github.com/RalphHightower/RalphHightower/compare/v1.14.2...v1.14.3) (2023-02-01)
+
+
+### Bug Fixes
+
+* chg 2 columns to 1 (closes [#672](https://github.com/RalphHightower/RalphHightower/issues/672)) ([6b239f6](https://github.com/RalphHightower/RalphHightower/commit/6b239f65ee2d70d51237de5375b41be717ab831b))
+
 ## [1.14.2](https://github.com/RalphHightower/RalphHightower/compare/v1.14.1...v1.14.2) (2023-02-01)
 
 
