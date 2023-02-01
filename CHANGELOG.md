@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.1](https://github.com/RalphHightower/RalphHightower/compare/v1.14.0...v1.14.1) (2023-02-01)
+
+
+### Bug Fixes
+
+* markdown table separator ([12c70f2](https://github.com/RalphHightower/RalphHightower/commit/12c70f2bae9b06d82279a4fe1e4e5a60debc0c24))
+
 ## [1.14.0](https://github.com/RalphHightower/RalphHightower/compare/v1.13.1...v1.14.0) (2023-01-30)
 
 
