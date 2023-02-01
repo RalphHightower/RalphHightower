@@ -167,7 +167,8 @@
 | **August 18, 2021**|
 | [Murdaugh Saga: Boat Crash Defense Lawyers Try To Clear Paul Murdaugh’s Name](https://www.fitsnews.com/2021/08/18/murdaugh-saga-boat-crash-defense-lawyers-try-to-clear-paul-murdaughs-name/) |
 | [‘Anything They Get In, They Get Out Of’: Bombshell Deposition Filed In Murdaugh Case](https://www.fitsnews.com/2021/08/18/anything-they-get-in-they-get-out-of-bombshell-deposition-filed-in-murdaugh-case/) |
-| **Aug 25, 2021** | [SC prosecutor steps aside from Murdaugh murder case, citing new developments](https://www.postandcourier.com/murdaugh-updates/sc-prosecutor-steps-aside-from-murdaugh-murder-case-citing-new-developments/article_c9e8ead4-05db-11ec-91ef-c7934ba9b921.html) |
+| **Aug 25, 2021** |
+|[SC prosecutor steps aside from Murdaugh murder case, citing new developments](https://www.postandcourier.com/murdaugh-updates/sc-prosecutor-steps-aside-from-murdaugh-murder-case-citing-new-developments/article_c9e8ead4-05db-11ec-91ef-c7934ba9b921.html) |
 |  **August 31, 2021**|
 | [Four Weeks After Double Homicide, Alex Murdaugh Filed A Lawsuit In Another Boat Crash Case](https://www.fitsnews.com/2021/08/31/four-weeks-after-double-homicide-alex-murdaugh-filed-a-lawsuit-in-another-boat-crash-case/) |
 | **Sept. 2, 2021**|
@@ -216,7 +217,7 @@
 |  [Murdaugh Murders: SLED Opens Investigation Into Housekeeper’s Suspicious Death In 2018](https://www.fitsnews.com/2021/09/15/murdaugh-murders-sled-opens-investigation-into-housekeepers-suspicious-2018-death/) |
 | [New probe opened into mysterious death of Alex Murdaugh’s housekeeper Gloria Satterfield](https://www.postandcourier.com/murdaugh-updates/new-probe-opened-into-mysterious-death-of-alex-murdaughs-housekeeper-gloria-satterfield/article_5af402cc-163d-11ec-b330-23c3dbab7c8e.html) |
 | [Shooting of SC attorney Alex Murdaugh was a fraud scheme, SLED says, arresting 1 suspect](https://www.postandcourier.com/murdaugh-updates/shooting-of-sc-attorney-alex-murdaugh-was-a-fraud-scheme-sled-says-arresting-1-suspect/article_6122eca6-159a-11ec-8fd2-e7767109f52c.html) |
-| | [Murdaugh Murders: Gloria Satterfield’s Sons Sue Alex Murdaugh Over Alleged Stolen Money](https://www.fitsnews.com/2021/09/15/murdaugh-murders-gloria-satterfields-sons-sue-alex-murdaugh-over-alleged-stolen-money/) |
+| [Murdaugh Murders: Gloria Satterfield’s Sons Sue Alex Murdaugh Over Alleged Stolen Money](https://www.fitsnews.com/2021/09/15/murdaugh-murders-gloria-satterfields-sons-sue-alex-murdaugh-over-alleged-stolen-money/) |
 | Murdaugh explains why he set up the shooting, and he faces a new lawsuit. Murdaugh’s lawyers released a statement to explain why their client allegedly conspired with Smith in the alleged suicide scheme. *“For the last 20 years, there have been many people feeding his addiction to opioids. During that time, these individuals took advantage of his addiction and his ability to pay substantial funds for illegal drugs. One of those individuals took advantage of his mental illness and agreed to take Alex's life, by shooting him in the head,”* the statement reads, noting Murdaugh is cooperating with the *“investigations into his shooting, opioid use and the search to find the person or people responsible for the murder of his wife and son.”* That same day, investigators reopened the investigation into the 2018 death of Murdaugh’s housekeeper, Satterfield, and her surviving sons filed a civil lawsuit against Alex Murdaugh, claiming he allegedly swindled them out of a $505,000 life insurance settlement. |
 |  **September 16, 2021**|
 | [Murdaugh Murders Saga: Alex Murdaugh In Custody](https://www.fitsnews.com/2021/09/16/murdaugh-murders-saga-alex-murdaugh-in-custody/) |
@@ -230,7 +231,8 @@
 | WJCL provides a look at whether Alex Murdaugh received preferential treatment in court as well as the severity of his head wound. |
 | **September 18, 2021**|
 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. |
-| September 18, 2021  | [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
+| September 18, 2021  |
+| [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
 | **September 20, 2021**	| Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
 | [Murdaugh Murders Saga: Corruption Runs In The Family](https://www.fitsnews.com/2021/09/20/murdaugh-murders-saga-corruption-runs-in-the-family/) |
 | **September 21, 2021**|
