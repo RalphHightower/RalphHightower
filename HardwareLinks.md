@@ -266,6 +266,11 @@
 | [ESP32 OpenMQTTGateway smart plug acts as an BLE MQTT gateway and a power meter](https://www.cnx-software.com/2023/01/26/esp32-openmqttgateway-smart-plug-acts-as-an-ble-mqtt-gateway-and-a-power-meter/) |
 | [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summer](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
 | [RAK2560 WisNode LoRaWAN & BLE Sensor Hub ships with a choice of sensor modules](https://www.cnx-software.com/2022/11/26/rak2560-wisnode-lorawan-ble-sensor-hub-ships-with-a-choice-for-sensor-modules/) |
+|[Theengs open-source tools to decode BLE sensors work on ESP32, Raspberry Pi, Android phone, etc…](https://www.cnx-software.com/2022/07/22/theengs-open-source-tools-to-decode-ble-sensors-work-on-esp32-raspberry-pi-android-phone/) |
+| [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
+| [Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)<br>$99 for the 4GB model, $119 for the 8GB model, and $159 for the 16GB model |
+|[ON XGO 2 – A RASPBERRY PI CM4 BASED ROBOT DOG WITH AN ARM (CROWDFUNDING)](https://www.cnx-software.com/2023/02/01/xgo-2-a-raspberry-pi-cm4-robot-dog-robotic-arm/) |
+| [WinLink E850-96Board SBC is powered by Samsung Exynos 850 Octa-core Cortex-A55 SoC](https://www.cnx-software.com/2023/02/01/winlink-e850-96board-sbc-samsung-exynos-850/?amp=1) |
 
 ## DIY CubeSat
 
