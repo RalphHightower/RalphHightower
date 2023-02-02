@@ -233,7 +233,7 @@
 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. |
 | September 18, 2021  |
 | [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
-| **September 20, 2021**	
+| [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) | **September 20, 2021**	
 | Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
 | [Murdaugh Murders Saga: Corruption Runs In The Family](https://www.fitsnews.com/2021/09/20/murdaugh-murders-saga-corruption-runs-in-the-family/) |
 | **September 21, 2021**|
@@ -252,7 +252,6 @@
 | [Murdaugh Murders Saga: Alex Murdaugh’s Ties To Alleged Drug Smuggler Uncovered](https://www.fitsnews.com/2021/09/25/murdaugh-murders-saga-alex-murdaughs-ties-to-alleged-drug-smuggler-uncovered/) |
 | **September 27, 2021**|
 | [Attorneys File Motion Asking Judge To Arrest Alex Murdaugh For Alleged Embezzlement](https://www.fitsnews.com/2021/09/27/attorneys-file-special-motion-asking-judge-to-arrest-alex-murdaugh-for-alleged-embezzlement/) |
-|  **September 27, 2021**|
 | [South Carolina Legal Community Nervously Eyes The Collapse Of The Murdaugh Empire](https://www.fitsnews.com/2021/09/27/south-carolina-legal-community-nervously-eyes-the-collapse-of-the-murdaugh-empire/) |
 | **September 28, 2021**|
 | [Murdaugh Murders Saga: Did One Of The Last People To Talk To Paul Murdaugh Shed Any Light On Investigation?](https://www.fitsnews.com/2021/09/28/murdaugh-murders-saga-did-one-of-the-last-people-to-talk-to-paul-murdaugh-shed-any-light-on-investigation/) |
@@ -264,125 +263,173 @@
 | **September 30, 2021**|
 | [Murdaugh spokeswoman pushes back on report of rift in marriage before unsolved slayings](https://www.postandcourier.com/murdaugh-updates/murdaugh-spokeswoman-pushes-back-on-report-of-rift-in-marriage-before-unsolved-slayings/article_4c67ca0e-2204-11ec-88e9-b731033fb5ce.html) |
 | [Murdaugh Civil Trial: Judge Rejects Change Of Venue Motion](https://www.fitsnews.com/2021/09/30/murdaugh-civil-trial-judge-rejects-change-of-venue-motion/) |
+| **October 2, 2021**|
+| [Scoppe: Tentacles of Murdaugh saga reach beyond SC law enforcement into judicial selection](https://www.postandcourier.com/opinion/commentary/scoppe-tentacles-of-murdaugh-saga-reach-beyond-sc-law-enforcement-into-judicial-selection/article_9eade3e0-222f-11ec-af36-f78cc1c9b597.html) |
+| [Murdaugh Civil Trial: Vicky Ward’s Testimony Sought Over Alleged Sale Of Confidential Deposition](https://www.fitsnews.com/2021/10/02/murdaugh-civil-trial-vicky-wards-testimony-sought-over-alleged-sale-of-confidential-deposition/) |
+| **October 3, 2021**|
+| [Law firm reaches settlement, suit claiming millions owed to Murdaugh housekeeper’s sons](https://www.postandcourier.com/murdaugh-updates/law-firm-reaches-settlement-suit-claiming-millions-owed-to-murdaugh-housekeepers-sons/article_648f0242-24a6-11ec-b6d2-fb47e1753d13.html) |
+| [Murdaugh Murders Saga: Cory Fleming And His Law Firm Reach Settlement With Satterfield’s Estate](https://www.fitsnews.com/2021/10/03/murdaugh-murders-saga-are-alleged-marital-issues-factoring-into-criminal-investigations/) |
+|  **October 5, 2021**|
+| [Murdaugh Civil Case: Journalist Refutes Claim She Paid For Confidential Court Documents](https://www.fitsnews.com/2021/10/05/murdaugh-civil-case-journalist-refutes-claim-she-paid-for-confidential-court-documents/) |
+| [Attorneys seek to question SC judge about millions meant for Murdaugh housekeeper’s sons](https://www.postandcourier.com/murdaugh-updates/attorneys-seek-to-question-sc-judge-about-millions-meant-for-murdaugh-housekeepers-sons/article_bfdcda0c-25ff-11ec-8969-cbc4be730197.html) |
+| [Murdaugh Civil Case: Journalist Refutes Claim She Paid For Confidential Court Documents](https://www.fitsnews.com/2021/10/05/murdaugh-civil-case-journalist-refutes-claim-she-paid-for-confidential-court-documents/) |
+| l[Murdaugh Law Firm Was Involved In Fraudulent Satterfield Settlement, Documents Show](https://www.fitsnews.com/2021/10/05/murdaugh-law-firm-was-involved-in-fraudulent-satterfield-settlement-motion-says/) |
+|  **October 6, 2021**|
+| [Murdaugh Murders Saga: Now Alex Murdaugh’s Former Law Firm Is Suing Him, Too](https://www.fitsnews.com/2021/10/06/murdaugh-murders-saga-now-alex-murdaughs-former-law-firm-is-suing-him-too/) |
+| [Chronicling the history of the Murdaughs in SC from 1910 to now](https://www.postandcourier.com/murdaugh-updates/chronicling-the-history-of-the-murdaughs-in-sc-from-1910-to-now/article_0205d56e-2187-11ec-ac8f-f34698144836.html) |
+| **October 8, 2021** |
+| [SC Supreme Court suspends Murdaugh friend’s law license amid allegations of estate scam](https://www.postandcourier.com/murdaugh-updates/sc-supreme-court-suspends-murdaugh-friends-law-license-amid-allegations-of-estate-scam/article_54e0d4ee-285f-11ec-9cce-936870590761.html) |
+| [Murdaugh Murders Saga: Alex’s Friend Cory Fleming Suspended From Practicing Law In SC](https://www.fitsnews.com/2021/10/08/murdaugh-murders-saga-alexs-friend-cory-fleming-suspended-from-practicing-law-in-sc/) |
+| **October  9, 2021**|
+| [Editorial: Murdaugh mystery raises questions about SC legal system. We need answers.](https://www.postandcourier.com/opinion/editorials/editorial-murdaugh-mystery-raises-questions-about-sc-legal-system-we-need-answers/article_30bc4300-276f-11ec-a9d0-9ff78ceb6287.html) |
+| [Scoppe: SC lawyer-legislators don’t just pick judges. Most times, they can trump them too.](https://www.postandcourier.com/opinion/commentary/scoppe-sc-lawyer-legislators-don-t-just-pick-judges-most-times-they-can-trump-them/article_0de799fc-27a0-11ec-9855-b79c7cab6946.html) |
+| **October 10, 2021**|
+| [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
+| [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
+| **October 12, 2021**|
+| [Murdaugh Murders Saga: SLED Is ‘Following The Money’](https://www.fitsnews.com/2021/10/12/murdaugh-murders-saga-sled-is-following-the-money/) |
+| [Murdaugh Murders Saga: SLED Is ‘Following The Money’](https://www.fitsnews.com/2021/10/12/murdaugh-murders-saga-sled-is-following-the-money/) |
+| **October 13, 2021** |
+| [Alex Murdaugh lawyer shares more details on unsolved slayings, staged shooting in interview](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-lawyer-shares-more-details-on-unsolved-slayings-staged-shooting-in-interview/article_40bf478c-2b9a-11ec-a56a-9b222639a86e.html)<br> *“You would think that if Alex was the one who did it, (the State Law Enforcement Division) would have been able to establish that pretty easily that night,”* Griffin said. *“You would think they would have searched his house and found blood somewhere. You would think they would have found the murder weapons on the property. You would think they would come up with something to link Alex to the murders, forensically or independent evidence. To my knowledge, they have not done that.”*|
+| [Murdaugh Murders Saga: Attorneys Target Bank For Botched $4.3 Million Settlement](https://www.fitsnews.com/2021/10/13/murdaugh-murders-saga-satterfield-attorneys-target-bank-for-botched-4-3-million-settlement/) |
+| [Murdaugh Murders: Alex Murdaugh’s Attorney Admits His Client Is A Person Of Interest](https://www.fitsnews.com/2021/10/13/murdaugh-murders-alex-murdaughs-attorney-admits-his-client-is-a-person-of-interest/) |
+| **October 14, 2021** |
+| [Alex Murdaugh arrested again, charged with stealing money from housekeeper’s settlement](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrested-again-charged-with-stealing-money-from-housekeepers-settlement/article_47816b9a-2cfd-11ec-ac7a-d3350fcd5d4d.html) |
+| [Alex Murdaugh was never shot in insurance fraud scheme, alleged shooter tells ‘Today’ show](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-was-never-shot-in-insurance-fraud-scheme-alleged-shooter-tells-today-show/article_2d45b99a-2c8d-11ec-a043-836fe877d3cc.html) |
+| [Alex Murdaugh Arrested In Florida On Charges Related To Satterfield Case](https://www.fitsnews.com/2021/10/14/murdaugh-murders-alex-murdaugh-arrested-in-orlando-for-satterfield-case/) |
+| [Murdaugh Murders: Alex Murdaugretly Negotiating With Feds For Probe, Plea Deal](https://www.fitsnews.com/2021/10/14/murdaugh-murders-alex-murdaughs-attorneys-secretly-negotiating-with-feds-for-probe-plea-deal/) |
+| **October 15, 2021**|
+| [‘There’s No Bottom To Him’: Unpacking Alex Murdaugh’s Latest Charges](https://www.fitsnews.com/2021/10/15/theres-no-bottom-to-him-unpacking-alex-murdaughs-latest-charges/) |
+| [2nd Judicial Circuit Judge, Clifton Newman to hear Alex Murdaugh bond hearing Tuesday morning](https://www.postandcourier.com/aikenstandard/news/crime/2nd-judicial-circuit-judge-clifton-newman-to-hear-alex-murdaugh-bond-hearing-tuesday-morning/article_e53c301e-2df1-11ec-8507-9ff83a49ce47.html) |
+| [Hospital records detail Alex Murdaugh’s wounds from alleged staged shooting](https://www.postandcourier.com/murdaugh-updates/hospital-records-detail-alex-murdaughs-wounds-from-alleged-staged-shooting/article_8bc032e2-2d60-11ec-9a50-4726451daeda.html) |
+| WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries. |
+| [Murdaugh Murders: Defense Attorneys Release Alex Murdaugh’s ‘Medical Records’ From Roadside Shooting](https://www.fitsnews.com/2021/10/15/murdaugh-murders-defense-attorneys-release-medical-records-from-roadside-shooting/) |
+| **October 16, 2021** | [Alex Murdaugh arrest warrant affidavits detail alleged settlement swindle](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrest-warrant-affidavits-detail-alleged-settlement-swindle/article_bdded420-2ecf-11ec-a586-cb08bedb44e9.html) |
+| [Murdaugh Murders Saga: Arrest Warrants Issued For Alex Murdaugh (Again)](https://www.fitsnews.com/2021/10/16/murdaugh-murders-saga-arrest-warrants-issued-for-alex-murdaugh-again/) |
+| **October 18, 2021** | [Murdaugh Murders Saga: More Ties Linking Alex Murdaugh, Alleged Drug Smuggler Uncovered](https://www.fitsnews.com/2021/10/18/murdaugh-murders-saga-more-ties-linking-alex-murdaugh-alleged-drug-smuggler-uncovered/) |
+| **October  19, 2021** |
+| [Commentary: Judge Mullen doesn’t have the option of testifying about Murdaugh case](https://www.postandcourier.com/opinion/commentary/commentary-judge-mullen-doesnt-have-the-option-of-testifying-about-murdaugh-case/article_304b8714-2b98-11ec-88b9-b39eb151f39c.html) |
+| [Alex Murdaugh denied bond after arrest in alleged settlement scam](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bond-after-arrest-in-alleged-settlement-scam/article_9ea4b468-2fb4-11ec-b4c6-f7392a864b5a.html) |
+| [Murdaugh Murders Court Hearing: Bravo, Judge Clifton Newman](https://www.fitsnews.com/2021/10/19/murdaugh-murders-court-hearing-bravo-judge-clifton-newman/) |
+| [‘He’s A Liar And A Cheat’: Alex Murdaugh Denied Bond](https://www.fitsnews.com/2021/10/19/murdaugh-murders-saga-alex-murdaugh-denied-bond/) |
+|  **October 20, 2021** |
+| [Murdaugh Murders Saga: ‘Murdaughs In Vegas’](https://www.fitsnews.com/2021/10/20/murdaugh-murders-saga-murdaughs-in-vegas/) |
+| [SLED releases 911 calls from Alex Murdaugh’s shooting](https://www.postandcourier.com/murdaugh-updates/sled-releases-911-calls-from-alex-murdaughs-shooting/article_5666716a-3355-11ec-8d7e-83fa28c8f991.html) |
+| **October 22, 2021** |
+| [Attorneys File ‘Bombshell’ Motions To Lock Up And Recover Alex and Buster Murdaugh’s Assets](https://www.fitsnews.com/2021/10/22/murdaugh-murders-attorneys-file-bombshell-motions-to-lock-up-and-recover-alex-and-busters-assets/) |
+| [Attorneys File ‘Bombshell’ Motions To Lock Up And Recover Alex and Buster Murdaugh’s Assets](https://www.fitsnews.com/2021/10/22/murdaugh-murders-attorneys-file-bombshell-motions-to-lock-up-and-recover-alex-and-busters-assets/) |
+| [Murdaugh Murders: Investigators Release 911 Calls From Roadside Shooting Incident](https://www.fitsnews.com/2021/10/22/murdaugh-murders-investigators-release-911-calls-from-roadside-shooting-incident/) |
+| **October 25, 2021** |
+| [Murdaugh Murders: Judge To Hear Motions On Freezing Alex And Buster’s Assets This Week](https://www.fitsnews.com/2021/10/25/murdaugh-murders-judge-to-hear-motions-on-freezing-alex-and-busters-assets-this-week/) |
+| **October 26, 2021** | [Feds are investigating Alex Murdaugh’s alleged financial crimes, attorneys say](https://www.postandcourier.com/murdaugh-updates/feds-are-investigating-alex-murdaughs-alleged-financial-crimes-attorneys-say/article_c22b7a54-369c-11ec-9f01-138e18e99db4.html) |
+| **October 28, 2021** |
+| [Understand SC: The alleged crimes of Alex Murdaugh, explained](https://www.postandcourier.com/murdaugh-updates/understand-sc-the-alleged-crimes-of-alex-murdaugh-explained/article_f004b132-37a2-11ec-8be7-931e211e8d63.html) |
+| **October 29, 2021** |
+| [Judge hears arguments on who should control Alex Murdaugh’s money](https://www.postandcourier.com/murdaugh-updates/judge-hears-arguments-on-who-should-control-alex-murdaughs-money/article_cb3f9c2a-38d5-11ec-9de5-93fb482000a9.html) |
+| [SC grand jury to investigate Alex Murdaugh drug pipeline](https://www.postandcourier.com/murdaugh-updates/sc-grand-jury-to-investigate-alex-murdaugh-drug-pipeline/article_d66d884c-38e8-11ec-b19c-eb5adec2bd44.html) |
+| [Murdaugh Murders Saga: The Money Hearing](https://www.fitsnews.com/2021/10/29/murdaugh-murders-saga-the-money-hearing/) |
+| [Murdaugh Murders Saga: Which Drug ‘Pipeline’ Is Being Targeted?](https://www.fitsnews.com/2021/10/29/murdaugh-murders-saga-which-drug-pipeline-is-being-targeted/) |
+| [‘There’s No One To Defend Mr. Murdaugh’: Judge To Rule On Alex And Buster’s Assets Next Week](https://www.fitsnews.com/2021/10/29/theres-no-one-to-defend-mr-murdaugh-judge-to-rule-on-alex-and-busters-assets-next-week/) |
+| **October 30, 2021** |
+| [Murdaugh housekeeper’s family say it’s hard not to believe a con was in play early](https://www.postandcourier.com/murdaugh-updates/murdaugh-housekeepers-family-say-its-hard-not-to-believe-a-con-was-in-play-early/article_39b530ec-3990-11ec-8fba-db256449353f.html) |
+| **November 1, 2021**  |
+| [Murdaugh Murders Saga: Another Federal Conflict Of Interest?](https://www.fitsnews.com/2021/11/01/murdaugh-murders-saga-another-federal-conflict-of-interest/) |
+| **November 2, 2021** |
+| [‘A Clear Message’: Judge Rules To Freeze Alex Murdaugh’s Assets, Appoint Receivers](https://www.fitsnews.com/2021/11/02/murdaugh-murders-saga-judge-rules-to-freeze-alex-murdaughs-assets-appoint-receivers/) |
+| [Judge approves plan to freeze Alex Murdaugh’s assets, place under independent control](https://www.postandcourier.com/murdaugh-updates/judge-approves-plan-to-freeze-alex-murdaughs-assets-place-under-independent-control/article_8dc79576-3bd9-11ec-83ed-13197fe0d24c.html) |
+| **November 4, 2021** |
+| [Grand jury indicts Alex Murdaugh and Curtis Smith in Labor Day weekend shooting](https://www.postandcourier.com/murdaugh-updates/grand-jury-indicts-alex-murdaugh-and-curtis-smith-in-labor-day-weekend-shooting/article_940a3578-3da6-11ec-9cdd-c7dae51282cd.html) |
+| [Alex Murdaugh And Eddie Smith Indicted On Charges In Alleged Insurance Scam, Shooting](https://www.fitsnews.com/2021/11/04/alex-murdaugh-and-eddie-smith-indicted-on-multiple-charges-in-alleged-insurance-scam-shooting/) |
+| [Sham Lawsuit? Alex Murdaugh Confesses Judgment Soon After Brother Sued Him For $90K Debt](https://www.fitsnews.com/2021/11/04/sham-lawsuit-alex-murdaugh-confesses-judgement-soon-after-brother-sued-him-for-90k-debt/) |
+| **November  5, 2021** | 
+| [Beyond the Headlines: The Murdaugh Case (Part 3)](https://www.postandcourier.com/beyond-the-headlines/beyond-the-headlines-the-murdaugh-case-part-3/article_66925900-3e4a-11ec-8dd3-6f6275366a54.html) |
+| [Alex Murdaugh admits owing former law partner nearly $500K in loans](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-admits-owing-former-law-partner-nearly-500k-in-loans/article_e5233862-3e49-11ec-908e-8b918a108224.html) |
+| [Murdaugh Murders Saga: Another Shady Legal Move By Disgraced Attorney](https://www.fitsnews.com/2021/11/05/murdaugh-murders-saga-another-shady-legal-move-by-disgraced-attorney/) |
+| **November 6, 2021**  |
+| [Murdaugh Murders Saga: Alex Murdaugh’s Court-Appointed Receivers Move To Block Shady Backdoor Maneuvering](https://www.fitsnews.com/2021/11/06/murdaugh-murders-saga-alex-murdaughs-court-appointed-receivers-move-to-block-shady-backdoor-maneuvering/) |
+| **November 9, 2021** |
+| [Murdaugh Murders Saga: About The Drugs](https://www.fitsnews.com/2021/11/09/murdaugh-murders-saga-about-the-drugs/) |
+|  **November 10, 2021** |
+| [‘A Desperate Act By A Desperate Man’: Attorneys Petition To Get Alex Murdaugh Out Of Jail](https://www.fitsnews.com/2021/11/10/a-desperate-act-by-a-desperate-man-attorneys-petition-to-get-alex-murdaugh-out-of-jail/) |
+| [Alex Murdaugh denied bail after psychiatric evaluation; lawyers appeal to Supreme Court](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bail-after-psychiatric-evaluation-lawyers-appeal-to-supreme-court/article_f231496e-4226-11ec-895d-5fefa6b16cf3.html) ||
+| [Murdaugh Murders Saga: Alex Murdaugh Staying Behind Bars As Judge Denies Bond A Second Time](https://www.fitsnews.com/2021/11/10/murdaugh-murders-saga-alex-murdaugh-staying-behind-bars-as-judge-denies-bond-a-second-time/) Disgraced lawyer is *“a danger to both himself and the community,” judge affirms …*<br>S.C. circuit court judge Clifton Newman – who shocked a packed Richland county courtroom last month by denying Murdaugh bond on a pair of property theft charges – issued an order late Tuesday afternoon affirming his decision.<br>*“Following the initial denial of bond, the court received a psychiatric evaluation of the defendant dated October 22, 2021,”* Newman wrote in an order dated November 9, 2021. *“After considering the arguments of counsel, the evaluation submitted, pending charges and other investigations, and the apparent character and mental condition of the defendant, the court finds the defendant is a danger to both himself and the community.”*<br>*“It is therefore the order of this court that the motion for bond is denied at this time,”* Newman wrote.|
+| **November 11, 2021** | [Palmetto State Bank reaches settlement in alleged Alex Murdaugh embezzlement scheme](https://www.postandcourier.com/murdaugh-updates/palmetto-state-bank-reaches-settlement-in-alleged-alex-murdaugh-embezzlement-scheme/article_e35a0932-4337-11ec-b0d8-33512c3d322e.html) |
+| [Satterfields Get More Than $6.5 Million After Settling With 5 Parties — But Not Alex Murdaugh](https://www.fitsnews.com/2021/11/11/after-palmetto-state-bank-settled-alex-murdaugh-is-the-only-defendant-left-in-satterfield-lawsuit/) |
+| **November 15, 2021**  |
+| [South Carolina Statewide Grand Jury Meeting On Murdaugh Case](https://www.fitsnews.com/2021/11/15/south-carolina-statewide-grand-jury-meeting-on-murdaugh-case/) |
+| **November 16, 2021**  |
+| [Another ‘Judicial Hellhole’ In South Carolina?](https://www.fitsnews.com/2021/11/16/another-judicial-hellhole-in-south-carolina/) |
+| **November 17, 2021** |
+| [Alex Murdaugh’s Attorneys Ask Court To Toss Satterfield Lawsuit Because Others Repaid Stolen Money](https://www.fitsnews.com/2021/11/17/alex-murdaughs-attorneys-ask-court-to-dismiss-satterfield-lawsuit-because-others-paid-for-stolen-money/) |
+| **November 18, 2021** |
+| [Murdaugh lawyers ask court to drop latest civil suit, claiming debts repaid](https://www.postandcourier.com/murdaugh-updates/murdaugh-lawyers-ask-court-to-drop-latest-civil-suit-claiming-debts-repaid/article_220d8780-4883-11ec-8552-fb2a64af7539.html) |
+| [Murdaugh Murders Saga: A Hidden Objective In Alex Murdaugh’s Latest Legal Maneuvering?](https://www.fitsnews.com/2021/11/18/murdaugh-murders-saga-a-hidden-objective-in-alex-murdaughs-latest-legal-maneuvering/) |
+| **November 19, 2021** |
+| [Alex Murdaugh Faces 27 New Charges; Accused of Stealing $5 Million, Including From Trooper Injured in Line of Duty](https://www.fitsnews.com/2021/11/19/several-charges-coming-against-alex-murdaugh-sources-say/) |
+| [New indictments allege Alex Murdaugh conned clients, former law firm](https://www.postandcourier.com/murdaugh-updates/new-indictments-allege-alex-murdaugh-conned-clients-former-law-firm/article_916e8282-494b-11ec-ad3f-a7d0a4d8fca5.html) |
+| **November 22, 2021**  |
+| [Murdaugh Attorneys Move To Silence Satterfield Lawyer, Who Says ‘It’s Going To Take A Lot’ To Shut Him Up](https://www.fitsnews.com/2021/11/22/murdaugh-attorneys-file-motion-to-silence-satterfield-lawyer-who-says-its-going-to-take-a-lot-to-shut-him-up/) |
+| [South Carolina Supreme Court Puts Alex Murdaugh’s Petition ‘In Line’](https://www.fitsnews.com/2021/11/22/south-carolina-supreme-court-puts-alex-murdaughs-petition-in-line/) |
+| [Alex Murdaugh’s lawyers want suing attorney to stop talking](https://www.postandcourier.com/murdaugh-updates/alex-murdaughs-lawyers-want-suing-attorney-to-stop-talking/article_f9dd466e-4ca2-11ec-a573-fb19b2e4fe3c.html) |
+| [‘It’s Like Rearranging the Deck Chairs on the Titanic’: Eric Bland Files Scorching Response to Alex Murdaugh’s Motion To Be Dismissed From Lawsuit](https://www.fitsnews.com/2021/11/23/eric-bland-files-scorching-response-to-alex-murdaughs-motion-for-gag-order/) |
+| **November 28, 2021**|
+| [Alex Murdaugh may face more charges, attorney says, as SC investigators follow the money](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-may-face-more-charges-attorney-says-as-sc-investigators-follow-the-money/article_2223beee-4d3b-11ec-b30a-17501898ff63.html) |
+| [Stephen Smith Case Files Part 4: What Happened to the Investigation Before It Went Cold?](https://www.fitsnews.com/2021/11/28/stephen-smith-case-files-part-4-what-happened-to-the-investigation-before-it-went-cold/) |
+| [Murdaugh Murders Saga: Alex Murdaugh’s Attorney Files S.C. Supreme Court Complaint Against Eric Bland](https://www.fitsnews.com/2021/11/29/murdaugh-murders-saga-alex-murdaughs-attorney-files-s-c-supreme-court-complaint-against-eric-bland/) |
+| **November 30, 2021** |
+| [SLED releases 911 call of longtime housekeeper’s 2018 fall at Murdaugh hunting lodge](https://www.postandcourier.com/murdaugh-updates/sled-releases-911-call-of-longtime-housekeepers-2018-fall-at-murdaugh-hunting-lodge/article_74560476-520c-11ec-a279-bb5fb4e0b350.html) |
+| [Murdaugh Murders Saga: Investigators Release 911 Call In Gloria Satterfield Case](https://www.fitsnews.com/2021/11/30/murdaugh-murders-saga-investigators-release-911-call-in-gloria-satterfield-case/) |
+| **December 1, 2021** |
+| [Attorney Takes Legal Action After ‘Confidential’ Video Featured In Murdaugh Documentary Trailer](https://www.fitsnews.com/2021/12/01/attorney-takes-legal-action-after-confidential-video-featured-in-murdaugh-documentary-trailer/) |
+| **December 3, 2021** |
+| [Parker’s CEO Conspired To Use Fake Social Media Posts, Photos Of Mallory Beach’s Dead Body To Harass Family, Lawsuit Claims](https://www.fitsnews.com/2021/12/03/parkers-ceo-conspired-to-use-fake-social-media-posts-and-photos-of-mallory-beachs-dead-body-to-harass-family-new-lawsuit-claims/) |
+|  **December 5, 2021** |
+| [As ‘Murdaugh Murders’ Saga Rolls On, South Carolina’s Top Law Enforcement Agency Seeks New Spokesperson](https://www.fitsnews.com/2021/12/05/as-murdaugh-murders-saga-rolls-on-south-carolinas-top-law-enforcement-agency-seeks-new-spokesperson/) |
+| [Misconduct complaints trickle in against lawyers involved in Murdaugh investigations](https://www.postandcourier.com/murdaugh-updates/misconduct-complaints-trickle-in-against-lawyers-involved-in-murdaugh-investigations/article_ff4f85c0-5473-11ec-9e0c-67f0b9099c9e.html) |
+| **December 6, 2021**  |
+| [Attorneys Accuse Alex Murdaugh of Paying Eddie Smith $1.8 Million, Bank of Being ‘High-Tech Laundromat’](https://www.fitsnews.com/2021/12/06/attorneys-accuse-alex-murdaugh-of-paying-eddie-smith-1-8-million-bank-of-being-high-tech-laundromat/) |
+| [Mallory Beach’s Boyfriend Sues Alex Murdaugh And Others For Fatal Boat Crash](https://www.fitsnews.com/2021/12/06/mallory-beachs-boyfriend-sues-alex-murdaugh-and-others-for-fatal-boat-crash/) |
+| **December 7, 2021** |
+| [Third bond hearing set for disgraced attorney Alex Murdaugh as legal claims pour in](https://www.postandcourier.com/murdaugh-updates/third-bond-hearing-set-for-disgraced-attorney-alex-murdaugh-as-legal-claims-pour-in/article_00d48ae2-576e-11ec-906d-8b163d4b49da.html) |
+| [Murdaugh Murders Saga: State Puts Feds ‘On Notice’](https://www.fitsnews.com/2021/12/07/murdaugh-murders-saga-state-puts-feds-on-notice/) |
+| **December 9, 2021** |
+| [Alex Murdaugh slammed with 21 new charges, alleging computer crimes, money laundering](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-slammed-with-21-new-charges-alleging-computer-crimes-money-laundering/article_84674eaa-5947-11ec-811c-f30285ef4c0f.html) |
+| l[Man accused of aiding Alex Murdaugh in suicide plot added to lawsuit, lawyers say](https://www.postandcourier.com/murdaugh-updates/man-accused-of-aiding-alex-murdaugh-in-suicide-plot-added-to-lawsuit-lawyers-say/article_0bcba0de-5930-11ec-bdf4-3bfd6eff7a4a.html) |
+| [Alex Murdaugh Hit With 21 More Charges. Friday’s Bond Hearing Now Postponed](https://www.fitsnews.com/2021/12/09/alex-murdaugh-hit-with-21-more-charges-from-state-grand-jury/) |
+| [Attorneys Sue Eddie Smith, Who Allegedly Received $2 Million In Stolen Checks From Alex Murdaugh](https://www.fitsnews.com/2021/12/09/attorneys-sue-eddie-smith-who-allegedly-received-2-million-in-stolen-money-from-alex-murdaugh/) |
+| [Murdaugh Murders Saga: Will Judicial Leniency Infect South Carolina’s Highest Profile Case?](https://www.fitsnews.com/2021/12/09/murdaugh-murders-saga-will-judicial-leniency-infect-south-carolinas-highest-profile-case/) |
+| **December 10, 2021** |
+| [Alex Murdaugh’s bond hearing on latest charges rescheduled](https://www.postandcourier.com/murdaugh-updates/alex-murdaughs-bond-hearing-on-latest-charges-rescheduled/article_0b0a5a84-5a05-11ec-9a26-93c8c118ca79.html) |
+| [Alex Murdaugh’s Bond Hearing Now Scheduled For Monday Morning](https://www.fitsnews.com/2021/12/10/alex-murdaughs-bond-hearing-now-scheduled-for-monday-morning/) |
+| **December 12, 2021**  |
+| [Mallory Beach Case: Attorneys For Convenience Store Respond To Allegations They Leaked Photos, Video](https://www.fitsnews.com/2021/12/12/mallory-beach-case-attorneys-for-convenience-store-respond-to-allegations-they-leaked-photos-video/) |
+| **December 13, 2021** |
+| [Judge sets $7M bail for disgraced SC attorney Alex Murdaugh](https://www.postandcourier.com/murdaugh-updates/judge-sets-7m-bail-for-disgraced-sc-attorney-alex-murdaugh/article_f08221d0-5a0c-11ec-989c-b30775a0e01f.html) |
+| [A Message For The Corporate Defendants In The Mallory Beach Case](https://www.fitsnews.com/2021/12/13/a-message-for-the-corporate-defendants-in-the-mallory-beach-case/) |
+| [Judge Sets Alex Murdaugh’s Bond At $7 Million For His 48 Recent Charges](https://www.fitsnews.com/2021/12/13/judge-sets-alex-murdaughs-bond-at-7-million-on-48-charges-of-fraud-money-laundering-and-forgery/) |
+| **December 14, 2021**|
+| [What The Public Wasn’t Told About Alex Murdaugh’s Bond Hearing … But Should Have Been](https://www.fitsnews.com/2021/12/14/what-the-public-wasnt-told-about-alex-murdaughs-bond-hearing-but-should-have-been/) |
+|  **December 16, 2021**|
+| [Mallory Beach Case: Reporter Vicky Ward Says Video With Gruesome Photos Was Made Public By Accident](https://www.fitsnews.com/2021/12/16/mallory-beach-case-reporter-vicky-ward-says-video-with-gruesome-photos-was-made-public-by-accident/) |
+|  )[Murdaugh Murders: SLED Leading Public Corruption Investigation Tied To Disgraced Attorney](https://www.fitsnews.com/2021/12/16/murdaugh-murders-sled-leading-public-corruption-investigation-tied-to-disgraced-attorney/) |
+|  **December 17, 2021**|
+| [‘Murdaugh Literally PMPED People’s Pockets,’ New Attorney Representing Victim Says](https://www.fitsnews.com/2021/12/17/murdaugh-literally-pmped-peoples-pockets-new-attorney-representing-victim-says/) |
+| **Dec 21, 2021** |
+| [Acting US Attorney for SC DeHart stepping down; Boroughs considered Biden’s next pick](https://www.postandcourier.com/murdaugh-updates/acting-us-attorney-for-sc-dehart-stepping-down-boroughs-considered-bidens-next-pick/article_6988d1ac-62a8-11ec-94a0-370fb836d433.html) |
+| [Acting U.S. Attorney Rhett DeHart to Step Down Amid ‘Full-Scale Turf War’ Over Murdaugh Case](https://www.fitsnews.com/2021/12/21/acting-u-s-attorney-rhett-dehart-to-step-down-amid-full-scale-turf-war-over-murdaugh-case/) |
+| **December 23, 2021**|
+| [Cleaning Up Alex Murdaugh’s Big Mess: Why His Alleged Victims Will Have To Fight Hard For Justice](https://www.fitsnews.com/2021/12/23/cleaning-up-alex-murdaughs-big-mess-why-his-alleged-victims-will-have-to-fight-hard-for-justice/) |
+| **December 26, 2021**|
+| [Newsmaker: The Murdaugh saga](https://www.postandcourier.com/murdaugh-updates/newsmaker-the-murdaugh-saga/article_e365e89e-5f5a-11ec-b1e6-2bf086fbc7c5.html) |
+|  **December 27, 2021**|
+| [Two Charges Formally Dropped Against Alex Murdaugh in Satterfield Case](https://www.fitsnews.com/2021/12/27/two-charges-formally-dropped-against-alex-murdaugh-in-satterfield-case/) |
+| **December 30, 2021** |
+| [PMPED Recently Took $300K in Attorney Fees From Murdaugh’s Alleged Victim, Attorney Says](https://www.fitsnews.com/2021/12/30/pmped-recently-took-300k-in-attorney-fees-from-murdaughs-alleged-victim-attorney-says/) |
+|  **December 31, 2021**|
+| [PMPED Partners Splitting Amid Murdaugh Investigations, Sources And Documents Say](https://www.fitsnews.com/2021/12/31/pmped-is-ditching-murdaugh-from-law-firm-name-documents-show/) |
 
 | Date | Event |
 |----|----|
-| Oct 2, 2021 | [Scoppe: Tentacles of Murdaugh saga reach beyond SC law enforcement into judicial selection](https://www.postandcourier.com/opinion/commentary/scoppe-tentacles-of-murdaugh-saga-reach-beyond-sc-law-enforcement-into-judicial-selection/article_9eade3e0-222f-11ec-af36-f78cc1c9b597.html) |
-| October 2, 2021  | [Murdaugh Civil Trial: Vicky Ward’s Testimony Sought Over Alleged Sale Of Confidential Deposition](https://www.fitsnews.com/2021/10/02/murdaugh-civil-trial-vicky-wards-testimony-sought-over-alleged-sale-of-confidential-deposition/) |
-| October 2, 2021  | [Murdaugh Civil Trial: Vicky Ward’s Testimony Sought Over Alleged Sale Of Confidential Deposition](https://www.fitsnews.com/2021/10/02/murdaugh-civil-trial-vicky-wards-testimony-sought-over-alleged-sale-of-confidential-deposition/) |
-| Oct 3, 2021 | [Law firm reaches settlement, suit claiming millions owed to Murdaugh housekeeper’s sons](https://www.postandcourier.com/murdaugh-updates/law-firm-reaches-settlement-suit-claiming-millions-owed-to-murdaugh-housekeepers-sons/article_648f0242-24a6-11ec-b6d2-fb47e1753d13.html) |
-| October 3, 2021  | [Murdaugh Murders Saga: Cory Fleming And His Law Firm Reach Settlement With Satterfield’s Estate](https://www.fitsnews.com/2021/10/03/murdaugh-murders-saga-are-alleged-marital-issues-factoring-into-criminal-investigations/) |
-|  October 5, 2021 | [Murdaugh Civil Case: Journalist Refutes Claim She Paid For Confidential Court Documents](https://www.fitsnews.com/2021/10/05/murdaugh-civil-case-journalist-refutes-claim-she-paid-for-confidential-court-documents/) |
-| Oct 5, 2021 | [Attorneys seek to question SC judge about millions meant for Murdaugh housekeeper’s sons](https://www.postandcourier.com/murdaugh-updates/attorneys-seek-to-question-sc-judge-about-millions-meant-for-murdaugh-housekeepers-sons/article_bfdcda0c-25ff-11ec-8969-cbc4be730197.html) |
-| October 5, 2021  | [Murdaugh Civil Case: Journalist Refutes Claim She Paid For Confidential Court Documents](https://www.fitsnews.com/2021/10/05/murdaugh-civil-case-journalist-refutes-claim-she-paid-for-confidential-court-documents/) |
-| October 5, 2021  | [Murdaugh Law Firm Was Involved In Fraudulent Satterfield Settlement, Documents Show](https://www.fitsnews.com/2021/10/05/murdaugh-law-firm-was-involved-in-fraudulent-satterfield-settlement-motion-says/) |
-|  October 6, 2021 | [Murdaugh Murders Saga: Now Alex Murdaugh’s Former Law Firm Is Suing Him, Too](https://www.fitsnews.com/2021/10/06/murdaugh-murders-saga-now-alex-murdaughs-former-law-firm-is-suing-him-too/) |
-| Oct 6, 2021 | [Chronicling the history of the Murdaughs in SC from 1910 to now](https://www.postandcourier.com/murdaugh-updates/chronicling-the-history-of-the-murdaughs-in-sc-from-1910-to-now/article_0205d56e-2187-11ec-ac8f-f34698144836.html) |
-| Oct 8, 2021 | [SC Supreme Court suspends Murdaugh friend’s law license amid allegations of estate scam](https://www.postandcourier.com/murdaugh-updates/sc-supreme-court-suspends-murdaugh-friends-law-license-amid-allegations-of-estate-scam/article_54e0d4ee-285f-11ec-9cce-936870590761.html) |
-| October 8, 2021  | [Murdaugh Murders Saga: Alex’s Friend Cory Fleming Suspended From Practicing Law In SC](https://www.fitsnews.com/2021/10/08/murdaugh-murders-saga-alexs-friend-cory-fleming-suspended-from-practicing-law-in-sc/) |
-| Oct  9, 2021 | [Editorial: Murdaugh mystery raises questions about SC legal system. We need answers.](https://www.postandcourier.com/opinion/editorials/editorial-murdaugh-mystery-raises-questions-about-sc-legal-system-we-need-answers/article_30bc4300-276f-11ec-a9d0-9ff78ceb6287.html) |
-| Oct  9, 2021 | [Scoppe: SC lawyer-legislators don’t just pick judges. Most times, they can trump them too.](https://www.postandcourier.com/opinion/commentary/scoppe-sc-lawyer-legislators-don-t-just-pick-judges-most-times-they-can-trump-them/article_0de799fc-27a0-11ec-9855-b79c7cab6946.html) |
-| October 10, 2021  | [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
-| October 10, 2021  | [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
-|  October 12, 2021 | [Murdaugh Murders Saga: SLED Is ‘Following The Money’](https://www.fitsnews.com/2021/10/12/murdaugh-murders-saga-sled-is-following-the-money/) |
-| October 12, 2021  | [Murdaugh Murders Saga: SLED Is ‘Following The Money’](https://www.fitsnews.com/2021/10/12/murdaugh-murders-saga-sled-is-following-the-money/) |
-| Oct 13, 2021 | [Alex Murdaugh lawyer shares more details on unsolved slayings, staged shooting in interview](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-lawyer-shares-more-details-on-unsolved-slayings-staged-shooting-in-interview/article_40bf478c-2b9a-11ec-a56a-9b222639a86e.html)<br> *“You would think that if Alex was the one who did it, (the State Law Enforcement Division) would have been able to establish that pretty easily that night,”* Griffin said. *“You would think they would have searched his house and found blood somewhere. You would think they would have found the murder weapons on the property. You would think they would come up with something to link Alex to the murders, forensically or independent evidence. To my knowledge, they have not done that.”*|
-| October 13, 2021  | [Murdaugh Murders Saga: Attorneys Target Bank For Botched $4.3 Million Settlement](https://www.fitsnews.com/2021/10/13/murdaugh-murders-saga-satterfield-attorneys-target-bank-for-botched-4-3-million-settlement/) |
-| October 13, 2021  | [Murdaugh Murders: Alex Murdaugh’s Attorney Admits His Client Is A Person Of Interest](https://www.fitsnews.com/2021/10/13/murdaugh-murders-alex-murdaughs-attorney-admits-his-client-is-a-person-of-interest/) |
-| Oct 14, 2021 | [Alex Murdaugh arrested again, charged with stealing money from housekeeper’s settlement](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrested-again-charged-with-stealing-money-from-housekeepers-settlement/article_47816b9a-2cfd-11ec-ac7a-d3350fcd5d4d.html) |
-| Oct 14, 2021 | [Alex Murdaugh was never shot in insurance fraud scheme, alleged shooter tells ‘Today’ show](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-was-never-shot-in-insurance-fraud-scheme-alleged-shooter-tells-today-show/article_2d45b99a-2c8d-11ec-a043-836fe877d3cc.html) |
-| October 14, 2021  | [Alex Murdaugh Arrested In Florida On Charges Related To Satterfield Case](https://www.fitsnews.com/2021/10/14/murdaugh-murders-alex-murdaugh-arrested-in-orlando-for-satterfield-case/) |
-| October 14, 2021  | [Murdaugh Murders: Alex Murdaugretly Negotiating With Feds For Probe, Plea Deal](https://www.fitsnews.com/2021/10/14/murdaugh-murders-alex-murdaughs-attorneys-secretly-negotiating-with-feds-for-probe-plea-deal/) |
-|  October 15, 2021 | [‘There’s No Bottom To Him’: Unpacking Alex Murdaugh’s Latest Charges](https://www.fitsnews.com/2021/10/15/theres-no-bottom-to-him-unpacking-alex-murdaughs-latest-charges/) |
-| Oct 15, 2021 | [2nd Judicial Circuit Judge, Clifton Newman to hear Alex Murdaugh bond hearing Tuesday morning](https://www.postandcourier.com/aikenstandard/news/crime/2nd-judicial-circuit-judge-clifton-newman-to-hear-alex-murdaugh-bond-hearing-tuesday-morning/article_e53c301e-2df1-11ec-8507-9ff83a49ce47.html) |
-| Oct 15, 2021 | [Hospital records detail Alex Murdaugh’s wounds from alleged staged shooting](https://www.postandcourier.com/murdaugh-updates/hospital-records-detail-alex-murdaughs-wounds-from-alleged-staged-shooting/article_8bc032e2-2d60-11ec-9a50-4726451daeda.html) |
-| Oct. 15, 2021 | WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries. |
-| October 15, 2021  | [Murdaugh Murders: Defense Attorneys Release Alex Murdaugh’s ‘Medical Records’ From Roadside Shooting](https://www.fitsnews.com/2021/10/15/murdaugh-murders-defense-attorneys-release-medical-records-from-roadside-shooting/) |
-| Oct 16, 2021 | [Alex Murdaugh arrest warrant affidavits detail alleged settlement swindle](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrest-warrant-affidavits-detail-alleged-settlement-swindle/article_bdded420-2ecf-11ec-a586-cb08bedb44e9.html) |
-| October 16, 2021  | [Murdaugh Murders Saga: Arrest Warrants Issued For Alex Murdaugh (Again)](https://www.fitsnews.com/2021/10/16/murdaugh-murders-saga-arrest-warrants-issued-for-alex-murdaugh-again/) |
-| October 18, 2021  | [Murdaugh Murders Saga: More Ties Linking Alex Murdaugh, Alleged Drug Smuggler Uncovered](https://www.fitsnews.com/2021/10/18/murdaugh-murders-saga-more-ties-linking-alex-murdaugh-alleged-drug-smuggler-uncovered/) |
-| Oct  19, 2021 | [Commentary: Judge Mullen doesn’t have the option of testifying about Murdaugh case](https://www.postandcourier.com/opinion/commentary/commentary-judge-mullen-doesnt-have-the-option-of-testifying-about-murdaugh-case/article_304b8714-2b98-11ec-88b9-b39eb151f39c.html) |
-| Oct 19, 2021 | [Alex Murdaugh denied bond after arrest in alleged settlement scam](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bond-after-arrest-in-alleged-settlement-scam/article_9ea4b468-2fb4-11ec-b4c6-f7392a864b5a.html) |
-| October 19, 2021  | [Murdaugh Murders Court Hearing: Bravo, Judge Clifton Newman](https://www.fitsnews.com/2021/10/19/murdaugh-murders-court-hearing-bravo-judge-clifton-newman/) |
-| October 19, 2021  | [‘He’s A Liar And A Cheat’: Alex Murdaugh Denied Bond](https://www.fitsnews.com/2021/10/19/murdaugh-murders-saga-alex-murdaugh-denied-bond/) |
-|  October 20, 2021 | [Murdaugh Murders Saga: ‘Murdaughs In Vegas’](https://www.fitsnews.com/2021/10/20/murdaugh-murders-saga-murdaughs-in-vegas/) |
-| Oct 22, 2021 | [SLED releases 911 calls from Alex Murdaugh’s shooting](https://www.postandcourier.com/murdaugh-updates/sled-releases-911-calls-from-alex-murdaughs-shooting/article_5666716a-3355-11ec-8d7e-83fa28c8f991.html) |
-| October 22, 2021  | [Attorneys File ‘Bombshell’ Motions To Lock Up And Recover Alex and Buster Murdaugh’s Assets](https://www.fitsnews.com/2021/10/22/murdaugh-murders-attorneys-file-bombshell-motions-to-lock-up-and-recover-alex-and-busters-assets/) |
-| October 22, 2021  | [Attorneys File ‘Bombshell’ Motions To Lock Up And Recover Alex and Buster Murdaugh’s Assets](https://www.fitsnews.com/2021/10/22/murdaugh-murders-attorneys-file-bombshell-motions-to-lock-up-and-recover-alex-and-busters-assets/) |
-| October 22, 2021  | [Murdaugh Murders: Investigators Release 911 Calls From Roadside Shooting Incident](https://www.fitsnews.com/2021/10/22/murdaugh-murders-investigators-release-911-calls-from-roadside-shooting-incident/) |
-|  October 25, 2021 | [Murdaugh Murders: Judge To Hear Motions On Freezing Alex And Buster’s Assets This Week](https://www.fitsnews.com/2021/10/25/murdaugh-murders-judge-to-hear-motions-on-freezing-alex-and-busters-assets-this-week/) |
-| Oct 26, 2021 | [Feds are investigating Alex Murdaugh’s alleged financial crimes, attorneys say](https://www.postandcourier.com/murdaugh-updates/feds-are-investigating-alex-murdaughs-alleged-financial-crimes-attorneys-say/article_c22b7a54-369c-11ec-9f01-138e18e99db4.html) |
-| September 18, 2021  | [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) |
-| Oct 28, 2021 | [Understand SC: The alleged crimes of Alex Murdaugh, explained](https://www.postandcourier.com/murdaugh-updates/understand-sc-the-alleged-crimes-of-alex-murdaugh-explained/article_f004b132-37a2-11ec-8be7-931e211e8d63.html) |
-| Oct 29, 2021 | [Judge hears arguments on who should control Alex Murdaugh’s money](https://www.postandcourier.com/murdaugh-updates/judge-hears-arguments-on-who-should-control-alex-murdaughs-money/article_cb3f9c2a-38d5-11ec-9de5-93fb482000a9.html) |
-| Oct 29, 2021 | [SC grand jury to investigate Alex Murdaugh drug pipeline](https://www.postandcourier.com/murdaugh-updates/sc-grand-jury-to-investigate-alex-murdaugh-drug-pipeline/article_d66d884c-38e8-11ec-b19c-eb5adec2bd44.html) |
-| October 29, 2021  | [Murdaugh Murders Saga: The Money Hearing](https://www.fitsnews.com/2021/10/29/murdaugh-murders-saga-the-money-hearing/) |
-| October 29, 2021  | [Murdaugh Murders Saga: Which Drug ‘Pipeline’ Is Being Targeted?](https://www.fitsnews.com/2021/10/29/murdaugh-murders-saga-which-drug-pipeline-is-being-targeted/) |
-| October 29, 2021  | [‘There’s No One To Defend Mr. Murdaugh’: Judge To Rule On Alex And Buster’s Assets Next Week](https://www.fitsnews.com/2021/10/29/theres-no-one-to-defend-mr-murdaugh-judge-to-rule-on-alex-and-busters-assets-next-week/) |
-| Oct 30, 2021 | [Murdaugh housekeeper’s family say it’s hard not to believe a con was in play early](https://www.postandcourier.com/murdaugh-updates/murdaugh-housekeepers-family-say-its-hard-not-to-believe-a-con-was-in-play-early/article_39b530ec-3990-11ec-8fba-db256449353f.html) |
-| November 1, 2021  | [Murdaugh Murders Saga: Another Federal Conflict Of Interest?](https://www.fitsnews.com/2021/11/01/murdaugh-murders-saga-another-federal-conflict-of-interest/) |
-|  November 2, 2021 | [‘A Clear Message’: Judge Rules To Freeze Alex Murdaugh’s Assets, Appoint Receivers](https://www.fitsnews.com/2021/11/02/murdaugh-murders-saga-judge-rules-to-freeze-alex-murdaughs-assets-appoint-receivers/) |
-| Nov 2, 2021 | [Judge approves plan to freeze Alex Murdaugh’s assets, place under independent control](https://www.postandcourier.com/murdaugh-updates/judge-approves-plan-to-freeze-alex-murdaughs-assets-place-under-independent-control/article_8dc79576-3bd9-11ec-83ed-13197fe0d24c.html) |
-| Nov 4, 2021 | [Grand jury indicts Alex Murdaugh and Curtis Smith in Labor Day weekend shooting](https://www.postandcourier.com/murdaugh-updates/grand-jury-indicts-alex-murdaugh-and-curtis-smith-in-labor-day-weekend-shooting/article_940a3578-3da6-11ec-9cdd-c7dae51282cd.html) |
-| November 4, 2021  | [Alex Murdaugh And Eddie Smith Indicted On Charges In Alleged Insurance Scam, Shooting](https://www.fitsnews.com/2021/11/04/alex-murdaugh-and-eddie-smith-indicted-on-multiple-charges-in-alleged-insurance-scam-shooting/) |
-| November 4, 2021  | [Sham Lawsuit? Alex Murdaugh Confesses Judgment Soon After Brother Sued Him For $90K Debt](https://www.fitsnews.com/2021/11/04/sham-lawsuit-alex-murdaugh-confesses-judgement-soon-after-brother-sued-him-for-90k-debt/) |
-| Nov  5, 2021 | [Beyond the Headlines: The Murdaugh Case (Part 3)](https://www.postandcourier.com/beyond-the-headlines/beyond-the-headlines-the-murdaugh-case-part-3/article_66925900-3e4a-11ec-8dd3-6f6275366a54.html) |
-| Nov 5, 2021 | [Alex Murdaugh admits owing former law partner nearly $500K in loans](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-admits-owing-former-law-partner-nearly-500k-in-loans/article_e5233862-3e49-11ec-908e-8b918a108224.html) |
-| November 5, 2021  | [Murdaugh Murders Saga: Another Shady Legal Move By Disgraced Attorney](https://www.fitsnews.com/2021/11/05/murdaugh-murders-saga-another-shady-legal-move-by-disgraced-attorney/) |
-| November 6, 2021  | [Murdaugh Murders Saga: Alex Murdaugh’s Court-Appointed Receivers Move To Block Shady Backdoor Maneuvering](https://www.fitsnews.com/2021/11/06/murdaugh-murders-saga-alex-murdaughs-court-appointed-receivers-move-to-block-shady-backdoor-maneuvering/) |
-| November 9, 2021  | [Murdaugh Murders Saga: About The Drugs](https://www.fitsnews.com/2021/11/09/murdaugh-murders-saga-about-the-drugs/) |
-|  November 10, 2021  | [‘A Desperate Act By A Desperate Man’: Attorneys Petition To Get Alex Murdaugh Out Of Jail](https://www.fitsnews.com/2021/11/10/a-desperate-act-by-a-desperate-man-attorneys-petition-to-get-alex-murdaugh-out-of-jail/) |
-| Nov 10, 2021 | [Alex Murdaugh denied bail after psychiatric evaluation; lawyers appeal to Supreme Court](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bail-after-psychiatric-evaluation-lawyers-appeal-to-supreme-court/article_f231496e-4226-11ec-895d-5fefa6b16cf3.html) |
-| November 10, 2021  | [Murdaugh Murders Saga: Alex Murdaugh Staying Behind Bars As Judge Denies Bond A Second Time](https://www.fitsnews.com/2021/11/10/murdaugh-murders-saga-alex-murdaugh-staying-behind-bars-as-judge-denies-bond-a-second-time/) Disgraced lawyer is *“a danger to both himself and the community,” judge affirms …*<br>S.C. circuit court judge Clifton Newman – who shocked a packed Richland county courtroom last month by denying Murdaugh bond on a pair of property theft charges – issued an order late Tuesday afternoon affirming his decision.<br>*“Following the initial denial of bond, the court received a psychiatric evaluation of the defendant dated October 22, 2021,”* Newman wrote in an order dated November 9, 2021. *“After considering the arguments of counsel, the evaluation submitted, pending charges and other investigations, and the apparent character and mental condition of the defendant, the court finds the defendant is a danger to both himself and the community.”*<br>*“It is therefore the order of this court that the motion for bond is denied at this time,”* Newman wrote.|
-| Nov 11, 2021 | [Palmetto State Bank reaches settlement in alleged Alex Murdaugh embezzlement scheme](https://www.postandcourier.com/murdaugh-updates/palmetto-state-bank-reaches-settlement-in-alleged-alex-murdaugh-embezzlement-scheme/article_e35a0932-4337-11ec-b0d8-33512c3d322e.html) |
-| November 11, 2021  | [Satterfields Get More Than $6.5 Million After Settling With 5 Parties — But Not Alex Murdaugh](https://www.fitsnews.com/2021/11/11/after-palmetto-state-bank-settled-alex-murdaugh-is-the-only-defendant-left-in-satterfield-lawsuit/) |
-| November 15, 2021  | [South Carolina Statewide Grand Jury Meeting On Murdaugh Case](https://www.fitsnews.com/2021/11/15/south-carolina-statewide-grand-jury-meeting-on-murdaugh-case/) |
-| November 16, 2021  | [Another ‘Judicial Hellhole’ In South Carolina?](https://www.fitsnews.com/2021/11/16/another-judicial-hellhole-in-south-carolina/) |
-| November 17, 2021  | [Alex Murdaugh’s Attorneys Ask Court To Toss Satterfield Lawsuit Because Others Repaid Stolen Money](https://www.fitsnews.com/2021/11/17/alex-murdaughs-attorneys-ask-court-to-dismiss-satterfield-lawsuit-because-others-paid-for-stolen-money/) |
-| Nov 18, 2021 | [Murdaugh lawyers ask court to drop latest civil suit, claiming debts repaid](https://www.postandcourier.com/murdaugh-updates/murdaugh-lawyers-ask-court-to-drop-latest-civil-suit-claiming-debts-repaid/article_220d8780-4883-11ec-8552-fb2a64af7539.html) |
-| November 18, 2021  | [Murdaugh Murders Saga: A Hidden Objective In Alex Murdaugh’s Latest Legal Maneuvering?](https://www.fitsnews.com/2021/11/18/murdaugh-murders-saga-a-hidden-objective-in-alex-murdaughs-latest-legal-maneuvering/) |
-|  November 19, 2021 | [Alex Murdaugh Faces 27 New Charges; Accused of Stealing $5 Million, Including From Trooper Injured in Line of Duty](https://www.fitsnews.com/2021/11/19/several-charges-coming-against-alex-murdaugh-sources-say/) |
-| Nov 19, 2021 | [New indictments allege Alex Murdaugh conned clients, former law firm](https://www.postandcourier.com/murdaugh-updates/new-indictments-allege-alex-murdaugh-conned-clients-former-law-firm/article_916e8282-494b-11ec-ad3f-a7d0a4d8fca5.html) |
-| November 22, 2021  | [Murdaugh Attorneys Move To Silence Satterfield Lawyer, Who Says ‘It’s Going To Take A Lot’ To Shut Him Up](https://www.fitsnews.com/2021/11/22/murdaugh-attorneys-file-motion-to-silence-satterfield-lawyer-who-says-its-going-to-take-a-lot-to-shut-him-up/) |
-| November 22, 2021  | [South Carolina Supreme Court Puts Alex Murdaugh’s Petition ‘In Line’](https://www.fitsnews.com/2021/11/22/south-carolina-supreme-court-puts-alex-murdaughs-petition-in-line/) |
-| Nov  23, 2021 | [Alex Murdaugh’s lawyers want suing attorney to stop talking](https://www.postandcourier.com/murdaugh-updates/alex-murdaughs-lawyers-want-suing-attorney-to-stop-talking/article_f9dd466e-4ca2-11ec-a573-fb19b2e4fe3c.html) |
-| November 23, 2021  | [‘It’s Like Rearranging the Deck Chairs on the Titanic’: Eric Bland Files Scorching Response to Alex Murdaugh’s Motion To Be Dismissed From Lawsuit](https://www.fitsnews.com/2021/11/23/eric-bland-files-scorching-response-to-alex-murdaughs-motion-for-gag-order/) |
-| Nov 28, 2021 | [Alex Murdaugh may face more charges, attorney says, as SC investigators follow the money](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-may-face-more-charges-attorney-says-as-sc-investigators-follow-the-money/article_2223beee-4d3b-11ec-b30a-17501898ff63.html) |
-| November 28, 2021  | [Stephen Smith Case Files Part 4: What Happened to the Investigation Before It Went Cold?](https://www.fitsnews.com/2021/11/28/stephen-smith-case-files-part-4-what-happened-to-the-investigation-before-it-went-cold/) |
-| November 29, 2021  | [Murdaugh Murders Saga: Alex Murdaugh’s Attorney Files S.C. Supreme Court Complaint Against Eric Bland](https://www.fitsnews.com/2021/11/29/murdaugh-murders-saga-alex-murdaughs-attorney-files-s-c-supreme-court-complaint-against-eric-bland/) |
-| Nov 30, 2021 | [SLED releases 911 call of longtime housekeeper’s 2018 fall at Murdaugh hunting lodge](https://www.postandcourier.com/murdaugh-updates/sled-releases-911-call-of-longtime-housekeepers-2018-fall-at-murdaugh-hunting-lodge/article_74560476-520c-11ec-a279-bb5fb4e0b350.html) |
-| November 30, 2021  | [Murdaugh Murders Saga: Investigators Release 911 Call In Gloria Satterfield Case](https://www.fitsnews.com/2021/11/30/murdaugh-murders-saga-investigators-release-911-call-in-gloria-satterfield-case/) |
-| December 1, 2021  | [Attorney Takes Legal Action After ‘Confidential’ Video Featured In Murdaugh Documentary Trailer](https://www.fitsnews.com/2021/12/01/attorney-takes-legal-action-after-confidential-video-featured-in-murdaugh-documentary-trailer/) |
-| December 3, 2021  | [Parker’s CEO Conspired To Use Fake Social Media Posts, Photos Of Mallory Beach’s Dead Body To Harass Family, Lawsuit Claims](https://www.fitsnews.com/2021/12/03/parkers-ceo-conspired-to-use-fake-social-media-posts-and-photos-of-mallory-beachs-dead-body-to-harass-family-new-lawsuit-claims/) |
-|  December 5, 2021  | [As ‘Murdaugh Murders’ Saga Rolls On, South Carolina’s Top Law Enforcement Agency Seeks New Spokesperson](https://www.fitsnews.com/2021/12/05/as-murdaugh-murders-saga-rolls-on-south-carolinas-top-law-enforcement-agency-seeks-new-spokesperson/) |
-| Dec 5, 2021 | [Misconduct complaints trickle in against lawyers involved in Murdaugh investigations](https://www.postandcourier.com/murdaugh-updates/misconduct-complaints-trickle-in-against-lawyers-involved-in-murdaugh-investigations/article_ff4f85c0-5473-11ec-9e0c-67f0b9099c9e.html) |
-| December 6, 2021  | [Attorneys Accuse Alex Murdaugh of Paying Eddie Smith $1.8 Million, Bank of Being ‘High-Tech Laundromat’](https://www.fitsnews.com/2021/12/06/attorneys-accuse-alex-murdaugh-of-paying-eddie-smith-1-8-million-bank-of-being-high-tech-laundromat/) |
-| December 6, 2021  | [Mallory Beach’s Boyfriend Sues Alex Murdaugh And Others For Fatal Boat Crash](https://www.fitsnews.com/2021/12/06/mallory-beachs-boyfriend-sues-alex-murdaugh-and-others-for-fatal-boat-crash/) |
-| Dec 7, 2021 | [Third bond hearing set for disgraced attorney Alex Murdaugh as legal claims pour in](https://www.postandcourier.com/murdaugh-updates/third-bond-hearing-set-for-disgraced-attorney-alex-murdaugh-as-legal-claims-pour-in/article_00d48ae2-576e-11ec-906d-8b163d4b49da.html) |
-| December 7, 2021  | [Murdaugh Murders Saga: State Puts Feds ‘On Notice’](https://www.fitsnews.com/2021/12/07/murdaugh-murders-saga-state-puts-feds-on-notice/) |
-| Dec 9, 2021 | [Alex Murdaugh slammed with 21 new charges, alleging computer crimes, money laundering](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-slammed-with-21-new-charges-alleging-computer-crimes-money-laundering/article_84674eaa-5947-11ec-811c-f30285ef4c0f.html) |
-| Dec 9, 2021 | [Man accused of aiding Alex Murdaugh in suicide plot added to lawsuit, lawyers say](https://www.postandcourier.com/murdaugh-updates/man-accused-of-aiding-alex-murdaugh-in-suicide-plot-added-to-lawsuit-lawyers-say/article_0bcba0de-5930-11ec-bdf4-3bfd6eff7a4a.html) |
-| December 9, 2021  | [Alex Murdaugh Hit With 21 More Charges. Friday’s Bond Hearing Now Postponed](https://www.fitsnews.com/2021/12/09/alex-murdaugh-hit-with-21-more-charges-from-state-grand-jury/) |
-| December 9, 2021  | [Attorneys Sue Eddie Smith, Who Allegedly Received $2 Million In Stolen Checks From Alex Murdaugh](https://www.fitsnews.com/2021/12/09/attorneys-sue-eddie-smith-who-allegedly-received-2-million-in-stolen-money-from-alex-murdaugh/) |
-| December 9, 2021  | [Murdaugh Murders Saga: Will Judicial Leniency Infect South Carolina’s Highest Profile Case?](https://www.fitsnews.com/2021/12/09/murdaugh-murders-saga-will-judicial-leniency-infect-south-carolinas-highest-profile-case/) |
-| Dec 10, 2021 | [Alex Murdaugh’s bond hearing on latest charges rescheduled](https://www.postandcourier.com/murdaugh-updates/alex-murdaughs-bond-hearing-on-latest-charges-rescheduled/article_0b0a5a84-5a05-11ec-9a26-93c8c118ca79.html) |
-| December 10, 2021  | [Alex Murdaugh’s Bond Hearing Now Scheduled For Monday Morning](https://www.fitsnews.com/2021/12/10/alex-murdaughs-bond-hearing-now-scheduled-for-monday-morning/) |
-| December 10, 2021  | [Alex Murdaugh’s Bond Hearing Now Scheduled For Monday Morning](https://www.fitsnews.com/2021/12/10/alex-murdaughs-bond-hearing-now-scheduled-for-monday-morning/) |
-| December 12, 2021  | [Mallory Beach Case: Attorneys For Convenience Store Respond To Allegations They Leaked Photos, Video](https://www.fitsnews.com/2021/12/12/mallory-beach-case-attorneys-for-convenience-store-respond-to-allegations-they-leaked-photos-video/) |
-| Dec 13, 2021 | [Judge sets $7M bail for disgraced SC attorney Alex Murdaugh](https://www.postandcourier.com/murdaugh-updates/judge-sets-7m-bail-for-disgraced-sc-attorney-alex-murdaugh/article_f08221d0-5a0c-11ec-989c-b30775a0e01f.html) |
-| December 13, 2021  | [A Message For The Corporate Defendants In The Mallory Beach Case](https://www.fitsnews.com/2021/12/13/a-message-for-the-corporate-defendants-in-the-mallory-beach-case/) |
-| December 13, 2021  | [Judge Sets Alex Murdaugh’s Bond At $7 Million For His 48 Recent Charges](https://www.fitsnews.com/2021/12/13/judge-sets-alex-murdaughs-bond-at-7-million-on-48-charges-of-fraud-money-laundering-and-forgery/) |
-| December 14, 2021  | [What The Public Wasn’t Told About Alex Murdaugh’s Bond Hearing … But Should Have Been](https://www.fitsnews.com/2021/12/14/what-the-public-wasnt-told-about-alex-murdaughs-bond-hearing-but-should-have-been/) |
-|  December 16, 2021 | [Mallory Beach Case: Reporter Vicky Ward Says Video With Gruesome Photos Was Made Public By Accident](https://www.fitsnews.com/2021/12/16/mallory-beach-case-reporter-vicky-ward-says-video-with-gruesome-photos-was-made-public-by-accident/) |
-|  December 16, 2021 | [Murdaugh Murders: SLED Leading Public Corruption Investigation Tied To Disgraced Attorney](https://www.fitsnews.com/2021/12/16/murdaugh-murders-sled-leading-public-corruption-investigation-tied-to-disgraced-attorney/) |
-|  December 17, 2021 | [‘Murdaugh Literally PMPED People’s Pockets,’ New Attorney Representing Victim Says](https://www.fitsnews.com/2021/12/17/murdaugh-literally-pmped-peoples-pockets-new-attorney-representing-victim-says/) |
-| Dec 21, 2021 | [Acting US Attorney for SC DeHart stepping down; Boroughs considered Biden’s next pick](https://www.postandcourier.com/murdaugh-updates/acting-us-attorney-for-sc-dehart-stepping-down-boroughs-considered-bidens-next-pick/article_6988d1ac-62a8-11ec-94a0-370fb836d433.html) |
-| December 21, 2021  | [Acting U.S. Attorney Rhett DeHart to Step Down Amid ‘Full-Scale Turf War’ Over Murdaugh Case](https://www.fitsnews.com/2021/12/21/acting-u-s-attorney-rhett-dehart-to-step-down-amid-full-scale-turf-war-over-murdaugh-case/) |
-|  December 23, 2021 | [Cleaning Up Alex Murdaugh’s Big Mess: Why His Alleged Victims Will Have To Fight Hard For Justice](https://www.fitsnews.com/2021/12/23/cleaning-up-alex-murdaughs-big-mess-why-his-alleged-victims-will-have-to-fight-hard-for-justice/) |
-| Dec 26, 2021 | [Newsmaker: The Murdaugh saga](https://www.postandcourier.com/murdaugh-updates/newsmaker-the-murdaugh-saga/article_e365e89e-5f5a-11ec-b1e6-2bf086fbc7c5.html) |
-|  December 27, 2021 | [Two Charges Formally Dropped Against Alex Murdaugh in Satterfield Case](https://www.fitsnews.com/2021/12/27/two-charges-formally-dropped-against-alex-murdaugh-in-satterfield-case/) |
-| December 30, 2021  | [PMPED Recently Took $300K in Attorney Fees From Murdaugh’s Alleged Victim, Attorney Says](https://www.fitsnews.com/2021/12/30/pmped-recently-took-300k-in-attorney-fees-from-murdaughs-alleged-victim-attorney-says/) |
-|  December 31, 2021 | [PMPED Partners Splitting Amid Murdaugh Investigations, Sources And Documents Say](https://www.fitsnews.com/2021/12/31/pmped-is-ditching-murdaugh-from-law-firm-name-documents-show/) |
 | Jan 5, 2022 | [CityWatch: From the Murdaughs to Marky Mark, SC scandals go big](https://www.postandcourier.com/columbia/opinion/citywatch-from-the-murdaughs-to-marky-mark-sc-scandals-go-big/article_ff8d777a-6cad-11ec-822b-a70b29b1e94d.html) |
 | January 5, 2022  | [Murdaugh’s Alleged Co-Conspirators Expected To Be Indicted Soon, Sources Say](https://www.fitsnews.com/2022/01/05/murdaughs-alleged-co-conspirators-expected-to-be-indicted-soon-sources-say/) |
 | January 5, 2022  | [Physical Evidence Directly Ties Alex Murdaugh To Double Homicide, Sources Say](https://www.fitsnews.com/2022/01/05/physical-evidence-directly-ties-alex-murdaugh-to-the-double-homicide-sources-say/) |
