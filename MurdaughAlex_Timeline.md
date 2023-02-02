@@ -199,7 +199,7 @@
 | **September 9, 2021**|
 | [Murdaugh Murders: Beach’s Attorney Makes Move To Secure Claims For Murdaugh Properties](https://www.fitsnews.com/2021/09/09/murdaugh-murders-beachs-attorney-makes-move-to-secure-claims-for-alexs-properties/) |
 | [Murdaugh Murders: The Hollywood Feeding Frenzy Has Begun](https://www.fitsnews.com/2021/09/09/murdaugh-murders-the-hollywood-feeding-frenzy-has-begun/) |
-|  **September 10, 2021××|
+|  **September 10, 2021**|
 | [Murdaugh Murders: South Carolina Attorney General Will Handle Prosecutions, Sources Say](https://www.fitsnews.com/2021/09/10/murdaugh-murders-south-carolina-attorney-general-will-handle-prosecutions-sources-say/) |
 | [Murdaugh Murders: Helicopter Dispatched To Alex Murdaugh Shooting Before Sheriff’s Office](https://www.fitsnews.com/2021/09/10/murdaugh-murders-helicopter-dispatched-to-alex-murdaugh-shooting-before-sheriffs-office/) |
 |  ××September 12, 2021××|
@@ -231,7 +231,6 @@
 | WJCL provides a look at whether Alex Murdaugh received preferential treatment in court as well as the severity of his head wound. |
 | **September 18, 2021**|
 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. |
-| September 18, 2021  |
 | [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
 | [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) | **September 20, 2021**|
 | Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
@@ -323,7 +322,8 @@
 | [Murdaugh Murders: Investigators Release 911 Calls From Roadside Shooting Incident](https://www.fitsnews.com/2021/10/22/murdaugh-murders-investigators-release-911-calls-from-roadside-shooting-incident/) |
 | **October 25, 2021** |
 | [Murdaugh Murders: Judge To Hear Motions On Freezing Alex And Buster’s Assets This Week](https://www.fitsnews.com/2021/10/25/murdaugh-murders-judge-to-hear-motions-on-freezing-alex-and-busters-assets-this-week/) |
-| **October 26, 2021** | [Feds are investigating Alex Murdaugh’s alleged financial crimes, attorneys say](https://www.postandcourier.com/murdaugh-updates/feds-are-investigating-alex-murdaughs-alleged-financial-crimes-attorneys-say/article_c22b7a54-369c-11ec-9f01-138e18e99db4.html) |
+| **October 26, 2021** |
+| [Feds are investigating Alex Murdaugh’s alleged financial crimes, attorneys say](https://www.postandcourier.com/murdaugh-updates/feds-are-investigating-alex-murdaughs-alleged-financial-crimes-attorneys-say/article_c22b7a54-369c-11ec-9f01-138e18e99db4.html) |
 | **October 28, 2021** |
 | [Understand SC: The alleged crimes of Alex Murdaugh, explained](https://www.postandcourier.com/murdaugh-updates/understand-sc-the-alleged-crimes-of-alex-murdaugh-explained/article_f004b132-37a2-11ec-8be7-931e211e8d63.html) |
 | **October 29, 2021** |
@@ -416,7 +416,7 @@
 |  )[Murdaugh Murders: SLED Leading Public Corruption Investigation Tied To Disgraced Attorney](https://www.fitsnews.com/2021/12/16/murdaugh-murders-sled-leading-public-corruption-investigation-tied-to-disgraced-attorney/) |
 |  **December 17, 2021**|
 | [‘Murdaugh Literally PMPED People’s Pockets,’ New Attorney Representing Victim Says](https://www.fitsnews.com/2021/12/17/murdaugh-literally-pmped-peoples-pockets-new-attorney-representing-victim-says/) |
-| **Dec 21, 2021** |
+| **December 21, 2021** |
 | [Acting US Attorney for SC DeHart stepping down; Boroughs considered Biden’s next pick](https://www.postandcourier.com/murdaugh-updates/acting-us-attorney-for-sc-dehart-stepping-down-boroughs-considered-bidens-next-pick/article_6988d1ac-62a8-11ec-94a0-370fb836d433.html) |
 | [Acting U.S. Attorney Rhett DeHart to Step Down Amid ‘Full-Scale Turf War’ Over Murdaugh Case](https://www.fitsnews.com/2021/12/21/acting-u-s-attorney-rhett-dehart-to-step-down-amid-full-scale-turf-war-over-murdaugh-case/) |
 | **December 23, 2021**|
