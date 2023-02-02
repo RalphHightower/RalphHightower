@@ -141,10 +141,8 @@
 | [Murdaugh Murders: SLED Plugs The Leaks](https://www.fitsnews.com/2021/07/15/murdaugh-murders-sled-plugs-the-leaks/) |
 |  **July 17, 2021** |
 | [‘The Murdaughs Are Out To Pin It On Him’: Investigation Files In Fatal 2019 Boat Crash Released](https://www.fitsnews.com/2021/07/17/the-murdaughs-are-out-to-pin-it-on-him-investigation-files-in-fatal-2019-boat-crash-released/) |
-| [‘The Murdaughs Are Out To Pin It On Him’: Investigation Files In Fatal 2019 Boat Crash Released](https://www.fitsnews.com/2021/07/17/the-murdaughs-are-out-to-pin-it-on-him-investigation-files-in-fatal-2019-boat-crash-released/) |
 | [SC hospital found Paul Murdaugh had high blood alcohol level after 2019 boat crash](https://www.postandcourier.com/murdaugh-updates/sc-hospital-found-paul-murdaugh-had-high-blood-alcohol-level-after-2019-boat-crash/article_54497f7a-e63f-11eb-8cc1-4f96b1c99b6d.html) |
 | **July 20, 2021**|
-| [‘She’s Gone, Don’t Worry About Her,’: What The Murdaughs Did The Night Mallory Beach Died](https://www.fitsnews.com/2021/07/20/dont-worry-about-her-shes-gone-what-the-murdaughs-did-the-night-mallory-beach-died/) |
 | [‘She’s Gone, Don’t Worry About Her,’: What The Murdaughs Did The Night Mallory Beach Died](https://www.fitsnews.com/2021/07/20/dont-worry-about-her-shes-gone-what-the-murdaughs-did-the-night-mallory-beach-died/) |
 | **July 22, 2021**|
 | SLED releases the 911 call placed by Alex Murdaugh the night Paul and Maggie Murdaugh were killed.<br>[Alex Murdaugh pleads for ambulance, help in 911 calls after discovering wife, son dead](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-pleads-for-ambulance-help-in-911-calls-after-discovering-wife-son-dead/article_11c50438-eb32-11eb-91df-1b336cbbd3ae.html) |
@@ -284,7 +282,6 @@
 | [Editorial: Murdaugh mystery raises questions about SC legal system. We need answers.](https://www.postandcourier.com/opinion/editorials/editorial-murdaugh-mystery-raises-questions-about-sc-legal-system-we-need-answers/article_30bc4300-276f-11ec-a9d0-9ff78ceb6287.html) |
 | [Scoppe: SC lawyer-legislators don’t just pick judges. Most times, they can trump them too.](https://www.postandcourier.com/opinion/commentary/scoppe-sc-lawyer-legislators-don-t-just-pick-judges-most-times-they-can-trump-them/article_0de799fc-27a0-11ec-9855-b79c7cab6946.html) |
 | **October 10, 2021**|
-| [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
 | [Murdaugh Murders Saga: Media Still Covering For Dishonest Defense Attorneys](https://www.fitsnews.com/2021/10/10/murdaugh-murders-saga-media-still-covering-for-dishonest-defense-attorneys/) |
 | **October 12, 2021**|
 | [Murdaugh Murders Saga: SLED Is ‘Following The Money’](https://www.fitsnews.com/2021/10/12/murdaugh-murders-saga-sled-is-following-the-money/) |
