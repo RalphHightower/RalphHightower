@@ -232,7 +232,8 @@
 | **September 18, 2021**|
 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. |
 | [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
-| [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) | **September 20, 2021**|
+| [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/)|
+| **September 20, 2021**|
 | Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
 | [Murdaugh Murders Saga: Corruption Runs In The Family](https://www.fitsnews.com/2021/09/20/murdaugh-murders-saga-corruption-runs-in-the-family/) |
 | **September 21, 2021**|
@@ -355,7 +356,8 @@
 | [‘A Desperate Act By A Desperate Man’: Attorneys Petition To Get Alex Murdaugh Out Of Jail](https://www.fitsnews.com/2021/11/10/a-desperate-act-by-a-desperate-man-attorneys-petition-to-get-alex-murdaugh-out-of-jail/) |
 | [Alex Murdaugh denied bail after psychiatric evaluation; lawyers appeal to Supreme Court](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bail-after-psychiatric-evaluation-lawyers-appeal-to-supreme-court/article_f231496e-4226-11ec-895d-5fefa6b16cf3.html) ||
 | [Murdaugh Murders Saga: Alex Murdaugh Staying Behind Bars As Judge Denies Bond A Second Time](https://www.fitsnews.com/2021/11/10/murdaugh-murders-saga-alex-murdaugh-staying-behind-bars-as-judge-denies-bond-a-second-time/) Disgraced lawyer is *“a danger to both himself and the community,” judge affirms …*<br>S.C. circuit court judge Clifton Newman – who shocked a packed Richland county courtroom last month by denying Murdaugh bond on a pair of property theft charges – issued an order late Tuesday afternoon affirming his decision.<br>*“Following the initial denial of bond, the court received a psychiatric evaluation of the defendant dated October 22, 2021,”* Newman wrote in an order dated November 9, 2021. *“After considering the arguments of counsel, the evaluation submitted, pending charges and other investigations, and the apparent character and mental condition of the defendant, the court finds the defendant is a danger to both himself and the community.”*<br>*“It is therefore the order of this court that the motion for bond is denied at this time,”* Newman wrote.|
-| **November 11, 2021** | [Palmetto State Bank reaches settlement in alleged Alex Murdaugh embezzlement scheme](https://www.postandcourier.com/murdaugh-updates/palmetto-state-bank-reaches-settlement-in-alleged-alex-murdaugh-embezzlement-scheme/article_e35a0932-4337-11ec-b0d8-33512c3d322e.html) |
+| **November 11, 2021** |
+| [Palmetto State Bank reaches settlement in alleged Alex Murdaugh embezzlement scheme](https://www.postandcourier.com/murdaugh-updates/palmetto-state-bank-reaches-settlement-in-alleged-alex-murdaugh-embezzlement-scheme/article_e35a0932-4337-11ec-b0d8-33512c3d322e.html) |
 | [Satterfields Get More Than $6.5 Million After Settling With 5 Parties — But Not Alex Murdaugh](https://www.fitsnews.com/2021/11/11/after-palmetto-state-bank-settled-alex-murdaugh-is-the-only-defendant-left-in-satterfield-lawsuit/) |
 | **November 15, 2021**  |
 | [South Carolina Statewide Grand Jury Meeting On Murdaugh Case](https://www.fitsnews.com/2021/11/15/south-carolina-statewide-grand-jury-meeting-on-murdaugh-case/) |
