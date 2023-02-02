@@ -446,7 +446,7 @@
 | [Ouster Of Acting US Attorney In South Carolina Linked To Mishandling Of ‘Murdaugh Murders’](https://www.fitsnews.com/2022/01/10/ouster-of-acting-us-attorney-in-south-carolina-linked-to-mishandling-of-murdaugh-murders/) |
 | [‘He Stole Every Dime I Had’: Judge To Issue Written Decision In Alex Murdaugh’s Action-Packed Bond Hearing](https://www.fitsnews.com/2022/01/10/he-stole-every-dime-judge-to-issue-written-decision-in-alex-murdaugh-bond-hearing/) |
 |  **January 11, 2022**
-|| [Video: Murdaugh’s Victim Describes How He Was Left Penniless](https://www.fitsnews.com/2022/01/11/video-murdaughs-victim-describes-how-he-was-left-penniless/) |
+| [Video: Murdaugh’s Victim Describes How He Was Left Penniless](https://www.fitsnews.com/2022/01/11/video-murdaughs-victim-describes-how-he-was-left-penniless/) |
 |  **January 13, 2022**|
 | [Murdaugh Murders Saga: ABC’s 20/20 To Feature FITSNews Director Mandy Matney, Families Of Victims](https://www.fitsnews.com/2022/01/13/murdaugh-murders-saga-abcs-20-20-to-feature-fitnews-director-mandy-matney-families-of-victims/) |
 | [SC Supreme Court Denies Alex Murdaugh’s Petition To Be Released From Jail](https://www.fitsnews.com/2022/01/13/sc-supreme-court-denies-alex-murdaughs-petition-to-be-released-from-jail/)<br>Supreme Court Justices rejected the writ *“because Petitioner has been indicted on the charges for which the Honorable Clifton Newman denied bond after his arrest, and the Honorable Alison Lee has set bond for Petitioner on those charges, the request for a writ of habeas corpus is moot.”* |
@@ -460,13 +460,16 @@
 |  **January 19, 2022**|
 | [‘It Tears Me Apart’: Hakeem Pinckney’s Mother Devastated By Alex Murdaugh’s Betrayal](https://www.fitsnews.com/2022/01/19/it-tears-me-apart-hakeem-pinckneys-mother-devastated-by-alex-murdaughs-betrayal/) |
 | [Can’t Afford Underwear? $4 Mayonnaise? Alex Murdaugh’s Commissary Receipts Tell Different Story](https://www.fitsnews.com/2022/01/19/cant-afford-underwear-4-mayonnaise-alex-murdaughs-commissary-receipts-tell-different-story/) |
-| [How Broke is Alex Murdaugh? Receiver Testimony Gives Clues](https://www.fitsnews.com/2022/01/19/how-broke-is-alex-murdaugh-receiver-testimony-gives-clues/) <br>Attorney John Lay, one of the attorneys assigned to the receivers|hip of Murdaugh’s assets  correctly asserted in his recent testimony that *“Richard Alexander ‘Alex’ Murdaugh’s assets are complicated, and without an orderly process such as the injunction and receivership, such assets would be sold and transferred in a manner that would not preserve their value. …Untangling this network is a substantial but necessary task in order to secure the assets in an orderly manner and to prevent improper preferential treatment of various potential creditors.”* |
+| [How Broke is Alex Murdaugh? Receiver Testimony Gives Clues](https://www.fitsnews.com/2022/01/19/how-broke-is-alex-murdaugh-receiver-testimony-gives-clues/) |
+|Attorney John Lay, one of the attorneys assigned to the receivers|hip of Murdaugh’s assets  correctly asserted in his recent testimony that *“Richard Alexander ‘Alex’ Murdaugh’s assets are complicated, and without an orderly process such as the injunction and receivership, such assets would be sold and transferred in a manner that would not preserve their value. …Untangling this network is a substantial but necessary task in order to secure the assets in an orderly manner and to prevent improper preferential treatment of various potential creditors.”* |
 | **January 21, 2022**|
 | [Alex Murdaugh hit with more indictments, now charged with stealing nearly $8.5M](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-hit-with-more-indictments-now-charged-with-stealing-nearly-8-5m/article_8ed7b3f0-7ac3-11ec-9fbd-f391edc1a9c1.html) |
 | [Alex Murdaugh Faces Slew Of New Charges From Hakeem Pinckney Case And Others](https://www.fitsnews.com/2022/01/21/alex-murdaugh-faces-slew-of-new-charges-from-hakeem-pinckney-case-and-others/) |
 |  **January 28, 2022**|
 | [Murdaugh Mess: Palmetto State Bank Hires PR Firm While Victims Haven’t Been Compensated, Attorney Says](https://www.fitsnews.com/2022/01/28/murdaugh-mess-palmetto-state-bank-hires-pr-firm-while-victims-havent-been-compensated-attorney-says/) |
-|2022-01-28|[Statement from Chief Justice Donald W. Beatty on Assignment of Judges to Murdaugh Cases](https://www.sccourts.org/whatsnew/displayWhatsNew.cfm?indexId=2668) *Contrary to innuendos and misinformation contained in recent news coverage, Judge Clifton Newman was never removed from, or “reassigned” to, the Murdaugh cases. Judge Newman was initially assigned primarily to handle search warrants requested by SLED, and he still has that responsibility*.|
+|**2022-01-28**|
+|[Statement from Chief Justice Donald W. Beatty on Assignment of Judges to Murdaugh Cases](https://www.sccourts.org/whatsnew/displayWhatsNew.cfm?indexId=2668)|
+|*Contrary to innuendos and misinformation contained in recent news coverage, Judge Clifton Newman was never removed from, or “reassigned” to, the Murdaugh cases. Judge Newman was initially assigned primarily to handle search warrants requested by SLED, and he still has that responsibility*.|
 | **February 2, 2022**|
 | [In 1993, Alex Started A Brawl At A Strip Club … Then Deputies Drove Him Home, Documents Show](https://www.fitsnews.com/2022/02/02/in-1993-alex-started-a-brawl-at-a-strip-club-then-deputies-drove-him-home-documents-show/) |
 |  **February 7, 2022**|
@@ -612,8 +615,7 @@
 | **May 27, 2022**|
 | [Palmetto State Bank Routinely Allowed Murdaugh To Overdraw Account — Sometimes By Six Figures](https://www.fitsnews.com/2022/05/27/palmetto-state-bank-routinely-allowed-murdaugh-to-overdraw-account-sometimes-by-six-figures/) |
 | **June 1, 2022**|
-| [Let’s Just Brush The Alleged Nepotism In Charleston County Probate Court Under The Rug …](https://www.fitsnews.com/2022/06/01/lets-just-brush-the-alleged-nepotism-in-charleston-county-probate-court-under-the-rug/) |
-| **Jun 3, 2022**|
+| [Let’s Just Brush The Alleged Nepotism In Charleston County Probate Court Under The Rug …](https://www.fitsnews.com/2022/06/01/lets-just-brush-the-alleged-nepotism-in-charleston-county-probate-court-under-the-rug/) | 
 | [SLED to exhume remains of Murdaugh family housekeeper as it investigates her death](https://www.postandcourier.com/murdaugh-updates/sled-to-exhume-remains-of-murdaugh-family-housekeeper-as-it-investigates-her-death/article_151dfac2-e366-11ec-a778-f30940aed739.html) |
 | **June 3, 2022**|
 | [Attorney For Alex Murdaugh Dies …](https://www.fitsnews.com/2022/06/03/attorney-for-alex-murdaugh-dies/) |
@@ -623,11 +625,9 @@
 | [‘Mountain Of Evidence’ Piling Up Against Alex Murdaugh In Murder Case, Sources Say](https://www.fitsnews.com/2022/06/06/mountain-of-evidence-piling-up-against-alex-murdaugh-in-murder-case-sources-say/) |
 |  **June 7, 2022**|
 | [Alex Murdaugh Violated Court Order In Trying To Disclaim Wife’s Estate](https://www.fitsnews.com/2022/06/07/alex-murdaugh-violated-court-order-in-trying-to-disclaim-wifes-estate/) |
-| **Jun 7, 2022**|
 | [Alex Murdaugh faces cascade of lawsuits 1 year after double homicide of wife, son](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-faces-cascade-of-lawsuits-1-year-after-double-homicide-of-wife-son/article_971dc258-e692-11ec-bb25-fb41a02d7a87.html) |
 | **June 8, 2022**|
 | [Murdaugh Murders: Timing On Murder Indictments?](https://www.fitsnews.com/2022/06/08/murduagh-murders-timing-on-murder-indictments/) |
-| **June 8, 2022**|
 | A graveside service is held at Hampton Cemetery for both Paul and Maggie Murdaugh. |
 |  **June 10, 2022**|
 | [Alex Murdaugh Jailhouse Tapes In Mail, On Way To Media Outlets](https://www.fitsnews.com/2022/06/10/alex-murdaugh-jailhouse-tapes-in-mail-on-way-to-media-outlets/) |
@@ -638,14 +638,18 @@
 | **June 15, 2022**|
 | [‘It Wasn’t That Bad’: Alex Murdaugh Tells Details About His ‘Shooting’ During Jailhouse Call](https://www.fitsnews.com/2022/06/15/it-wasnt-that-bad-alex-murdaugh-tells-details-about-his-shooting-during-jailhouse-call/) |
 | **2022-06-16**|
-| [In the Matter of Richard Alexander Murdaugh, Respondent](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-16-01) The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2022-000812 <br> *Therefore, we dispense with further proceedings before the Commission.  Respondent shall appear in the Supreme Court Courtroom at 11:00 a.m. on June 22, 2022, to present legal argument on the question of whether this Court should disbar Respondent from the practice of law.* |
+| [In the Matter of Richard Alexander Murdaugh, Respondent](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-16-01)
+|The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.|
+|Appellate Case No. 2022-000812 <br> *Therefore, we dispense with further proceedings before the Commission.  Respondent shall appear in the Supreme Court Courtroom at 11:00 a.m. on June 22, 2022, to present legal argument on the question of whether this Court should disbar Respondent from the practice of law.* |
 | **June 16, 2022**|
 | [SC Supreme Court moves to disbar disgraced attorney Alex Murdaugh](https://www.postandcourier.com/murdaugh-updates/sc-supreme-court-moves-to-disbar-disgraced-attorney-alex-murdaugh/article_6dde2ace-ed9d-11ec-b712-2f51847c3550.html) |
 | [‘Hampton County Attorney’ No More: SC Supreme Court Moves To Disbar Alex Murdaugh With Unprecedented Speed](https://www.fitsnews.com/2022/06/16/hampton-county-attorney-no-more-alex-murdaugh-to-be-disbarred/) |
 | **June 21, 2022** | [Alex Murdaugh waives right to contest SC Supreme Court disbarring him from practicing law](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-waives-right-to-contest-sc-supreme-court-disbarring-him-from-practicing-law/article_62f20e40-f19a-11ec-b012-db4269140b06.html) |
 | **2022-06-21**|
-| [In the Matter of Richard Alexander Murdaugh, Respondent.](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-21-01) The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.<br>Appellate Case No. 2022-000812 <br>*Respondent waives all rights to a hearing, states he does not contest the Court's "authority and decision" to disbar him from the practice of law, and requests that the Court cancel the hearing currently scheduled for June 22, 2022.*|
-| **Jun  22, 2022** |
+| [In the Matter of Richard Alexander Murdaugh, Respondent.](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-21-01) The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.|
+|Appellate Case No. 2022-000812|
+|*Respondent waives all rights to a hearing, states he does not contest the Court's "authority and decision" to disbar him from the practice of law, and requests that the Court cancel the hearing currently scheduled for June 22, 2022.*|
+| **June  22, 2022** |
 | [Editorial: SC Supreme Court crackdown on problem judges should prompt Senate reforms](https://www.postandcourier.com/opinion/editorials/editorial-sc-supreme-court-crackdown-on-problem-judges-should-prompt-senate-reforms/article_5bd903d8-f0f6-11ec-a245-7bc89915d783.html) |
 | [Misconduct Charges Against Alex Murdaugh Included Boat Crash Antics At Hospital](https://www.fitsnews.com/2022/06/22/misconduct-charges-against-alex-murdaugh-included-boat-crash-antics-at-hospital/) |
 | **June 23, 2022**|
