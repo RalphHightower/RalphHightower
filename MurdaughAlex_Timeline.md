@@ -461,7 +461,7 @@
 | [‘It Tears Me Apart’: Hakeem Pinckney’s Mother Devastated By Alex Murdaugh’s Betrayal](https://www.fitsnews.com/2022/01/19/it-tears-me-apart-hakeem-pinckneys-mother-devastated-by-alex-murdaughs-betrayal/) |
 | [Can’t Afford Underwear? $4 Mayonnaise? Alex Murdaugh’s Commissary Receipts Tell Different Story](https://www.fitsnews.com/2022/01/19/cant-afford-underwear-4-mayonnaise-alex-murdaughs-commissary-receipts-tell-different-story/) |
 | [How Broke is Alex Murdaugh? Receiver Testimony Gives Clues](https://www.fitsnews.com/2022/01/19/how-broke-is-alex-murdaugh-receiver-testimony-gives-clues/) |
-|Attorney John Lay, one of the attorneys assigned to the receivers|hip of Murdaugh’s assets  correctly asserted in his recent testimony that *“Richard Alexander ‘Alex’ Murdaugh’s assets are complicated, and without an orderly process such as the injunction and receivership, such assets would be sold and transferred in a manner that would not preserve their value. …Untangling this network is a substantial but necessary task in order to secure the assets in an orderly manner and to prevent improper preferential treatment of various potential creditors.”* |
+|Attorney John Lay, one of the attorneys assigned to the receivership of Murdaugh’s assets  correctly asserted in his recent testimony that *“Richard Alexander ‘Alex’ Murdaugh’s assets are complicated, and without an orderly process such as the injunction and receivership, such assets would be sold and transferred in a manner that would not preserve their value. …Untangling this network is a substantial but necessary task in order to secure the assets in an orderly manner and to prevent improper preferential treatment of various potential creditors.”* |
 | **January 21, 2022**|
 | [Alex Murdaugh hit with more indictments, now charged with stealing nearly $8.5M](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-hit-with-more-indictments-now-charged-with-stealing-nearly-8-5m/article_8ed7b3f0-7ac3-11ec-9fbd-f391edc1a9c1.html) |
 | [Alex Murdaugh Faces Slew Of New Charges From Hakeem Pinckney Case And Others](https://www.fitsnews.com/2022/01/21/alex-murdaugh-faces-slew-of-new-charges-from-hakeem-pinckney-case-and-others/) |
@@ -644,7 +644,8 @@
 | **June 16, 2022**|
 | [SC Supreme Court moves to disbar disgraced attorney Alex Murdaugh](https://www.postandcourier.com/murdaugh-updates/sc-supreme-court-moves-to-disbar-disgraced-attorney-alex-murdaugh/article_6dde2ace-ed9d-11ec-b712-2f51847c3550.html) |
 | [‘Hampton County Attorney’ No More: SC Supreme Court Moves To Disbar Alex Murdaugh With Unprecedented Speed](https://www.fitsnews.com/2022/06/16/hampton-county-attorney-no-more-alex-murdaugh-to-be-disbarred/) |
-| **June 21, 2022** | [Alex Murdaugh waives right to contest SC Supreme Court disbarring him from practicing law](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-waives-right-to-contest-sc-supreme-court-disbarring-him-from-practicing-law/article_62f20e40-f19a-11ec-b012-db4269140b06.html) |
+| **June 21, 2022** |
+|[Alex Murdaugh waives right to contest SC Supreme Court disbarring him from practicing law](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-waives-right-to-contest-sc-supreme-court-disbarring-him-from-practicing-law/article_62f20e40-f19a-11ec-b012-db4269140b06.html) |
 | **2022-06-21**|
 | [In the Matter of Richard Alexander Murdaugh, Respondent.](https://www.sccourts.org/courtOrders/displayOrder.cfm?orderNo=2022-06-21-01) The Supreme Court of South Carolina<br>In the Matter of Richard Alexander Murdaugh, Respondent.|
 |Appellate Case No. 2022-000812|
@@ -714,7 +715,8 @@
 | [Pinckneys And Other Victims of Alex Murdaugh Settle With Bank And Law Firm, Lawyer Says](https://www.fitsnews.com/2022/08/03/pinckneys-and-other-victims-of-alex-murdaugh-settle-with-bank-and-law-firm-lawyer-says/) |
 | **August 4, 2022**|
 | [Editorial: A rare SC win for open government](https://www.postandcourier.com/opinion/editorials/editorial-a-rare-sc-win-for-open-government/article_1ecc128a-13fd-11ed-840b-ff55c0dcb192.html) |
-| **August 6, 2022** | [Editorial: Reserve death penalty for worst of the worst](https://www.postandcourier.com/opinion/editorials/editorial-reserve-death-penalty-for-worst-of-the-worst/article_16056dfa-12a8-11ed-920a-77f29b843186.html) |
+| **August 6, 2022** | 
+|[Editorial: Reserve death penalty for worst of the worst](https://www.postandcourier.com/opinion/editorials/editorial-reserve-death-penalty-for-worst-of-the-worst/article_16056dfa-12a8-11ed-920a-77f29b843186.html) |
 | **August 8, 2022**|
 | [Greg Parker’s Backdoor-ing For Journalist’s Texts Reaches A New Level Of Desperation](https://www.fitsnews.com/2022/08/08/greg-parkers-backdoor-ing-for-journalists-texts-reaches-a-new-level-of-desperation/) |
 | **August 9, 2022**|
