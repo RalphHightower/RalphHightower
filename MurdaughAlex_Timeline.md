@@ -133,9 +133,9 @@
 |[Murdaugh Murders: Investigators Are Looking At Alex And Maggie’s Marital Status](https://www.fitsnews.com/2021/07/04/murdaugh-murders-investigators-looking-at-alex-and-maggies-marital-status/) |
 | **July 7, 2021** |
 | Attorneys representing a survivor of the boat crash that killed Mallory Beach filed a petition alleging law enforcement tried to shift the blame from Paul Murdaugh to their client, Connor Cook. |
-| **Jul 8, 2021** |
+| **July 8, 2021** |
 | [Lawyer wants to know if police shielded Paul Murdaugh in 2019 fatal boat crash case](https://www.postandcourier.com/murdaugh-updates/lawyer-wants-to-know-if-police-shielded-paul-murdaugh-in-2019-fatal-boat-crash-case/article_a98ee440-ddaf-11eb-9369-8f59d88f0830.html) |
-| **Jul 14, 2021** |
+| **July 14, 2021** |
 | [SLED says it’s still too early to release details on Murdaugh case, weeks after killings](https://www.postandcourier.com/murdaugh-updates/sled-says-its-still-too-early-to-release-details-on-murdaugh-case-weeks-after-killings/article_e61c8d4a-e412-11eb-8449-0f864145edeb.html)<br>During a court hearing, Circuit Judge Bentley Price said he would review the redactions made by SLED in publicly-released documents pertaining to the case and if he felt they weren’t legal, order more information released. |
 | **July 15, 2021**  |
 | [Murdaugh Murders: SLED Plugs The Leaks](https://www.fitsnews.com/2021/07/15/murdaugh-murders-sled-plugs-the-leaks/) |
@@ -304,9 +304,11 @@
 | [Hospital records detail Alex Murdaugh’s wounds from alleged staged shooting](https://www.postandcourier.com/murdaugh-updates/hospital-records-detail-alex-murdaughs-wounds-from-alleged-staged-shooting/article_8bc032e2-2d60-11ec-9a50-4726451daeda.html) |
 | WJCL receives medical records stemming from Alex Murdaugh's assisted suicide attempt in September which detail the extent of his injuries. |
 | [Murdaugh Murders: Defense Attorneys Release Alex Murdaugh’s ‘Medical Records’ From Roadside Shooting](https://www.fitsnews.com/2021/10/15/murdaugh-murders-defense-attorneys-release-medical-records-from-roadside-shooting/) |
-| **October 16, 2021** | [Alex Murdaugh arrest warrant affidavits detail alleged settlement swindle](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrest-warrant-affidavits-detail-alleged-settlement-swindle/article_bdded420-2ecf-11ec-a586-cb08bedb44e9.html) |
+| **October 16, 2021** |
+| [Alex Murdaugh arrest warrant affidavits detail alleged settlement swindle](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-arrest-warrant-affidavits-detail-alleged-settlement-swindle/article_bdded420-2ecf-11ec-a586-cb08bedb44e9.html) |
 | [Murdaugh Murders Saga: Arrest Warrants Issued For Alex Murdaugh (Again)](https://www.fitsnews.com/2021/10/16/murdaugh-murders-saga-arrest-warrants-issued-for-alex-murdaugh-again/) |
-| **October 18, 2021** | [Murdaugh Murders Saga: More Ties Linking Alex Murdaugh, Alleged Drug Smuggler Uncovered](https://www.fitsnews.com/2021/10/18/murdaugh-murders-saga-more-ties-linking-alex-murdaugh-alleged-drug-smuggler-uncovered/) |
+| **October 18, 2021** |
+| [Murdaugh Murders Saga: More Ties Linking Alex Murdaugh, Alleged Drug Smuggler Uncovered](https://www.fitsnews.com/2021/10/18/murdaugh-murders-saga-more-ties-linking-alex-murdaugh-alleged-drug-smuggler-uncovered/) |
 | **October  19, 2021** |
 | [Commentary: Judge Mullen doesn’t have the option of testifying about Murdaugh case](https://www.postandcourier.com/opinion/commentary/commentary-judge-mullen-doesnt-have-the-option-of-testifying-about-murdaugh-case/article_304b8714-2b98-11ec-88b9-b39eb151f39c.html) |
 | [Alex Murdaugh denied bond after arrest in alleged settlement scam](https://www.postandcourier.com/murdaugh-updates/alex-murdaugh-denied-bond-after-arrest-in-alleged-settlement-scam/article_9ea4b468-2fb4-11ec-b4c6-f7392a864b5a.html) |
