@@ -233,7 +233,7 @@
 | In an interview with the New York Post, Curtis Edward Smith says he's being set up by Alex Murdaugh. |
 | September 18, 2021  |
 | [Murdaugh Murders Saga: Unpacking The Alex Murdaugh Bond Hearing](https://www.fitsnews.com/2021/09/18/murdaugh-murders-saga-unpacking-the-alex-murdaugh-bond-hearing/) |
-| [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) | **September 20, 2021**	
+| [Murdaugh Murders: Alex Murdaugh’s Psych Eval Complete, Under Review, Sources Say](https://www.fitsnews.com/2021/10/26/murdaugh-murders-alex-murdaughs-psych-eval-complete-and-under-review-sources-say/) | **September 20, 2021**|
 | Connor Cook, who was onboard the boat the night Mallory Beach was killed, files a lawsuit in Hampton County against Alex Murdaugh, son Buster Murdaugh, as well as Gregory M. Parker, Inc., and Parker's employee Tajeeha Cohen for their alleged roles in the crash. |
 | [Murdaugh Murders Saga: Corruption Runs In The Family](https://www.fitsnews.com/2021/09/20/murdaugh-murders-saga-corruption-runs-in-the-family/) |
 | **September 21, 2021**|
