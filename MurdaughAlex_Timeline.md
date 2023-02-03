@@ -1184,6 +1184,11 @@ Altogether, through 19 indictments containing 99 charges against Murdaugh, the S
 | JANUARY 26TH, 2023 | 19 | [Understand Murdaugh: First witnesses in Alex Murdaugh murder trial take the stand](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-first-witnesses-in-alex-murdaugh-murder-trial-take-the-stand) |
 | JANUARY 27TH, 2023 | Bonus | [Food trucks pop up in Walterboro as Murdaugh trial begins](https://understand-murdaugh.simplecast.com/episodes/food-trucks-pop-up-in-walterboro-as-murdaugh-trial-begins) |
 | JANUARY 27TH, 2023 | 20 | [Understand Murdaugh: Footage from Alex Murdaugh's first interview with investigators](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-footage-from-alex-murdaugh-interview) |
+| JANUARY 30TH, 2023 | 21 | [Paul Murdaugh's final texts revealed and Alex's second SLED interview](https://understand-murdaugh.simplecast.com/episodes/paul-murdaughs-final-texts-revealed-and-alexs-second-sled-interview) |
+| JANUARY 31ST, 2023 | 22 | [Debate over whether Alex Murdaugh confessed continues](https://understand-murdaugh.simplecast.com/episodes/understand-murdaugh-debate-over-whether-alex-murdaugh-confessed-continues) |
+| FEBRUARY 1ST, 2023 | 23 | [Family friends identify Alex Murdaugh's voice in video shot before murders](https://understand-murdaugh.simplecast.com/episodes/family-friends-identify-alex-murdaughs-voice-in-video-shot-before-murders) |
+| FEBRUARY 2ND, 2023 | 24 | [Alex Murdaugh's colleagues detail his alleged financial crimes to an empty jury box](https://understand-murdaugh.simplecast.com/episodes/alex-murdaughs-colleagues-detail-his-alleged-financial-crimes-to-an-empty-jury-box) |
+
 
 <hr>
 
