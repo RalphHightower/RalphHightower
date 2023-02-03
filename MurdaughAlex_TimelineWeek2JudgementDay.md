@@ -192,7 +192,8 @@ Normally, such evidence and testimony would be excluded under South Carolina law
 |Most significantly on Wednesday, they saw for the first time the cell phone video taken by Paul Murdaugh just five minutes before his death – a video that shredded Alex Murdaugh’s alibi.|
 |Defense attorneys have yet to provide the jury with any explanation as to why Murdaugh lied about his whereabouts at the time of the murders …|
 | **February 3, 2023** |
-|[LIVE FEED – ‘Murdaugh Murders’ Trial: Day Ten](https://www.fitsnews.com/2023/02/03/live-feed-murdaugh-murders-trial-day-ten/)||
+|[LIVE FEED – ‘Murdaugh Murders’ Trial: Day Ten](https://www.fitsnews.com/2023/02/03/live-feed-murdaugh-murders-trial-day-ten/)|
+| [Live: Will Alex Murdaugh’s alleged financial crimes shift course of double murder trial?](https://www.postandcourier.com/murdaugh-updates/live-will-alex-murdaughs-alleged-financial-crimes-shift-course-of-double-murder-trial/article_914a5ade-9773-11ed-89b9-4f51e4dfc0c8.html) |
 
 [^1]: Russell Laffitte is Jeanne Seckinger's brother-in-law.
 
