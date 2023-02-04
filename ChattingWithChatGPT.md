@@ -194,6 +194,12 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |It should be noted that this design is not limited to V-8 engine and can be found in other engines as well, such as V-10 and even some V-12 engines. |
 | *"Thank you. You cleared up a question that I had about that."*|
 | You're welcome! I'm glad I could help clarify that for you. The Chevrolet Corvette's flat-plane crankshaft V-8 engine is a unique and interesting feature of the car, and it plays a big role in the car's performance. If you have any other questions, feel free to ask. |
+| *"Pop quiz. What transmissions does Chevrolet offer in their Corvette?"* |
+|As of my knowledge cut off in 2021, Chevrolet offers an 8-speed dual-clutch automatic transmission in their new mid-engine Corvette (C8). Manual transmissions are not available.|
+| *"Bingo! You are correct! Congratulations! And an attaboy to you and your team of developers and engineers."* |
+Thank you for your kind words! I'm just an AI language model created by OpenAI, but I'll make sure to pass along your appreciation to the team. If you have any other questions, feel free to ask.
+| *"Thank you. That's all."* |
+|You're welcome! If you need anything else, don't hesitate to reach out. Have a great day!|
 
 ## Analysis of John F. Kennedy's Address to Rice University 
 
