@@ -134,7 +134,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 
 ## Q&A Session about Cellular Technology 
 
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-----|
 | *"Cellular telephone companies in Canada sunsetted 2G cellular technology in 2015, whereas United States cellular telephone companies sunsetted 2G technologies in 2022. Can you provide me with information of when the various generations of cellular technologies in the United States? I am interested in the lifespan of 3G, 4G, and 5G, individually. Can you elaborate on each?"*|
 | Sure, I can provide you with information about the lifecycle of various generations of cellular technologies in the United States.|
@@ -155,7 +155,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 
 ## NASA Voyager 1 and 2
 
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
 |Let's talk about NASA's Voyager spacecraft craft.
 Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
@@ -248,17 +248,17 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. He said, "Because it is there." |
 |Well, space is there, and we're going to climb it, and the moon and the planets are there, and new hopes for knowledge and peace are there. And, therefore, as we set sail we ask God's blessing on the most hazardous and dangerous and greatest adventure on which man has ever embarked. |
 |Thank you.  |
-| **ChatGPT:** This is a speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962. In the speech, President Kennedy discusses the importance of space exploration and the United States' role in leading the world in this endeavor. He emphasizes the rapid pace of technological advancement and the need for the United States to remain at the forefront of this progress. He also discusses the challenges and difficulties that come with exploring space, but asserts that these must be overcome with determination and courage. President Kennedy concludes the speech by reaffirming the United States' commitment to peaceful exploration of space and its desire to use space as a means of advancing knowledge and understanding. |
+| **[ChatGPT](https://chat.openai.com/) :** This is a speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962. In the speech, President Kennedy discusses the importance of space exploration and the United States' role in leading the world in this endeavor. He emphasizes the rapid pace of technological advancement and the need for the United States to remain at the forefront of this progress. He also discusses the challenges and difficulties that come with exploring space, but asserts that these must be overcome with determination and courage. President Kennedy concludes the speech by reaffirming the United States' commitment to peaceful exploration of space and its desire to use space as a means of advancing knowledge and understanding. |
 | *"What impact did the speech have?"* | 
-| **ChatGPT:** The speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962 is often referred to as the "Moon Speech" because of its central focus on the United States' plans to land a man on the moon. The speech had a significant impact on the American public and on the nation's space progam.|
+| **[ChatGPT](https://chat.openai.com/) :** The speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962 is often referred to as the "Moon Speech" because of its central focus on the United States' plans to land a man on the moon. The speech had a significant impact on the American public and on the nation's space progam.|
 |In the speech, President Kennedy set an ambitious goal for the United States: to land a man on the moon and return him safely to Earth before the end of the decade. This goal, known as the Apollo program, required a massive investment of time, resources, and personnel. It also required a significant shift in the focus of the nation's space program, which up until that point had largely been centered on satellite launches and other scientific missions.|
 |The speech galvanized public support for the space program and helped to secure the necessary funding and resources to achieve the goal of landing a man on the moon. The United States successfully landed astronauts on the moon in 1969, fulfilling the promise made by President Kennedy in his speech. The Apollo program is widely regarded as one of the greatest achievements in the history of space exploration, and President Kennedy's Moon Speech is remembered as a pivotal moment in the nation's history. |
 | *"Thank you."* | 
-| **ChatGPT:** You're welcome! Is there anything else you would like to know? |
+| **[ChatGPT](https://chat.openai.com/) :** You're welcome! Is there anything else you would like to know? |
 | *"Nope."* | 
-| **ChatGPT:** Alright then, have a great day! If you have any more questions in the future, don't hesitate to reach out. |
+| **[ChatGPT](https://chat.openai.com/) :** Alright then, have a great day! If you have any more questions in the future, don't hesitate to reach out. |
 | *"Thank you."* I hope you have a great day yourself | 
-| **ChatGPT:** Thank you! I'm just a computer program, so I don't have days or experiences in the same way that humans do. However, I'm here to help you with any questions you have, so please don't hesitate to reach out if you need anything. Have a great day! |
+| **[ChatGPT](https://chat.openai.com/) :** Thank you! I'm just a computer program, so I don't have days or experiences in the same way that humans do. However, I'm here to help you with any questions you have, so please don't hesitate to reach out if you need anything. Have a great day! |
 
 ## 1977
 
@@ -284,11 +284,11 @@ I thought that I would do something different to announce our forty-fifth weddin
 |November 22 – The TCP/IP test succeeds, connecting 3 ARPANET nodes (of 111), in what eventually becomes the Internet protocol.|
 |November 22 – British Airways inaugurates regular London to New York City supersonic Concorde service.|
 |December 17 – Ralph Hightower marries Paula Lambert. |
-|1977 was a significant year in several fields, including space exploration, technology, entertainment and sports. Notable events include the first test flight of the Space Shuttle Enterprise, the first use of optical fiber for telephone traffic, the premiere of the film "Star Wars", the fourth win of A.J. Foyt in the Indianapolis 500, the launch of the Voyager 1 and Voyager 2 spacecraft, the release of the Atari Video Computer System, and the successful TCP/IP test that became the Internet protocol. Additionally, important individuals such as Wernher von Braun, Elvis Presley, and Ralph Hightower, started or ended their careers, and Ralph Hightower married Paula Lambert.|
+| **[ChatGPT](https://chat.openai.com/)**: 1977 was a significant year in several fields, including space exploration, technology, entertainment and sports. Notable events include the first test flight of the Space Shuttle Enterprise, the first use of optical fiber for telephone traffic, the premiere of the film "Star Wars", the fourth win of A.J. Foyt in the Indianapolis 500, the launch of the Voyager 1 and Voyager 2 spacecraft, the release of the Atari Video Computer System, and the successful TCP/IP test that became the Internet protocol. Additionally, important individuals such as Wernher von Braun, Elvis Presley, and Ralph Hightower, started or ended their careers, and Ralph Hightower married Paula Lambert.|
 
 ## Jeopardy 
 
-| Jeopardy |
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/)  |
 |-----|
 | *"Hello Assistant"* |
 |Hello! How can I help you today?|
@@ -434,6 +434,42 @@ I thought that I would do something different to announce our forty-fifth weddin
 I need to tell ChatGPT that although Spock is a fictional character that people get emotionally attached to fictional characters that have been a part of their lives for so long on television and the movies. 
 **"It's not an easy task to make an audience care about a fictional character death but the way it was done in the movie was just perfect."**
 
+## Doctor Who 
+
+| *"RalphHightower"* / [ChatGPT]() |
+|----|
+| *"Are you familiar with Doctor Who?"* |
+|Yes, I am familiar with Doctor Who. It is a British science fiction television series created and produced by the BBC. The show follows the adventures of the Doctor, a time-traveling alien who travels through time and space in a ship called the TARDIS. The series has been on the air since 1963, and has a large and dedicated fan base.|
+| *"Who was Doctor Who most feared nemesis?"* |
+|Doctor Who's most feared nemesis is often considered to be the Daleks. They are a fictional extraterrestrial race of mutants in the British science fiction television series Doctor Who, created by writer Terry Nation. They are one of the most iconic and enduring elements of the Doctor Who franchise. They are cyborg aliens, they have a tank-like shape, and a single eye-stalk on top, with a weapon mounted on top of it. They are known for their catchphrase "Exterminate!" and have been a recurring antagonist throughout the show's history.|
+| *"What about the Weeping Angels?"* |
+|The Weeping Angels are another popular and feared nemesis of Doctor Who. They are a race of creatures that resemble stone statues, but can move quickly and silently when they are not being observed. They are often referred to as "the Lonely Assassins" or "the Weeping Angels of the Lonely Assassins". They feed on the potential energy of their victims, which they gain by sending them back in time and consuming the energy that would have been released if their victim had lived a longer life. They first appeared in the 2007 episode "Blink" and since then have made multiple appearances in the show, being considered as one of the most terrifying and formidable creature of the franchise.|
+| *"What happened when the Pandorica opened?"* |
+|The Pandorica is a fictional prison in the Doctor Who series. The Pandorica was said to be the most feared object in the universe, created by the Doctor's enemies to contain the most dangerous being in the universe: the Doctor himself.|
+|In the episode "The Pandorica Opens" it is revealed that the Pandorica was actually created to contain a being known as the "Cracks in Time" which was destroying the universe. The Doctor and his allies, along with his enemies, work together to open the Pandorica in order to release the energy needed to repair the cracks in time and save the universe.|
+|However, when the Pandorica opens, it was revealed that the Doctor was not inside, but a duplicate of him created by the enemies, which was meant to be used as a decoy and trap the real Doctor. The duplicate then proceeded to take control of the TARDIS and escape, leading to a series of events that would later be resolved in the next season.|
+| *"Is River Song a daughter of Doctor Who?"* |
+|River Song, also known as Melody Pond, is a fictional character in the British science fiction television series Doctor Who. She is a companion of the Doctor and is known for her mysterious relationship with him.|
+|Throughout the series, River Song is revealed to be the daughter of Amy Pond and Rory Williams, two companions of the Doctor. She is also revealed to have been genetically engineered by the Doctor's enemies, the Silence, to kill him, but was later raised by Amy and Rory. River and the Doctor have a complex and romantic relationship, as they meet each other out of order in their personal timelines, with River always knowing more about the Doctor's future than he does.|
+|It is revealed that River Song is also a regenerating Time Lord, and her first appearance in the show is a pre-regeneration scene of hers, that is why the Doctor seem to know her before they meet.|
+| *"Please rank the most feared Nemesis or villains of Doctor Who."* |
+|Ranking the most feared villains in Doctor Who is subjective as it depends on personal opinions and how the show has been perceived by different audiences.|
+|However, based on their popularity, threat level, and impact on the show, some of the most feared Nemesis or villains of Doctor Who are:|
+|Daleks - They are one of the most iconic and enduring elements of the Doctor Who franchise and known for their catchphrase "Exterminate!" They have been a recurring antagonist throughout the show's history.|
+|The Master - The Doctor's arch-nemesis, The Master is a renegade Time Lord who is the Doctor's polar opposite in every way. He is a recurring villain throughout the show's history.|
+|The Weeping Angels - They first appeared in the 2007 episode "Blink" and since then have made multiple appearances in the show, being considered as one of the most terrifying and formidable creature of the franchise.|
+|The Cybermen - The Cybermen are a race of cyborgs who were originally human. They have been a recurring antagonist throughout the show's history.|
+|The Silence - They are an ancient religious order who were responsible for the creation of River Song and have been a recurring antagonist throughout the show's history.|
+|The Sontarans - They are a warlike race of alien clones who have been a recurring antagonist throughout the show's history.|
+|The Vashta Nerada - They are a species of carnivorous, microscopic creatures that live in shadows and have been a recurring antagonist throughout the show's history.|
+|The Autons - They are a race of sentient plastic beings who have been a recurring antagonist throughout the show's history.|
+|This is not an exhaustive list and there are other villains that could be considered as well, like the Ice Warriors, The Great Intelligence, The Zygons, among others.|
+| *"Who was Bo?"* |
+|I'm sorry, without more context I'm unable to determine who "Bo" is. Could you please provide more information or context?|
+| *"Thank you."* |
+|You're welcome! Let me know if you have any other questions, I'll do my best to help.|
+
+
 ## Mercedes Benz by Janis Joplin 
 
 | Mercedes Benz — Janis Joplin / [ChatGPT](https://chat.openai.com/) |
@@ -460,7 +496,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |Worked hard all my lifetime, no help from my friends|
 |So oh Lord, won't you buy me a Mercedes Benz?|
 |That's it! | 
-| **ChatGPT:** The lyrics you provided are from the song "Mercedes Benz" by Janis Joplin. The song was written by Joplin and Michael McClure and released in 1971 on the album "Pearl." It is a short, bluesy song that is notable for its catchy and humorous refrain in which Joplin asks the Lord to buy her a Mercedes Benz. The song has become one of Joplin's best-known and most enduring hits and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
+| **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "Mercedes Benz" by Janis Joplin. The song was written by Joplin and Michael McClure and released in 1971 on the album "Pearl." It is a short, bluesy song that is notable for its catchy and humorous refrain in which Joplin asks the Lord to buy her a Mercedes Benz. The song has become one of Joplin's best-known and most enduring hits and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
 
 ## The Edmund Fitzgerald by Gordon Lightfoot 
 
@@ -522,7 +558,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |Of the big lake they called Gitche Gumee|
 |Superior, they said, never gives up her dead|
 |When the gales of November come early |
-| **ChatGPT:** The lyrics you provided are from the song "The Wreck of the Edmund Fitzgerald" by Gordon Lightfoot. The song was released in 1976 and became one of Lightfoot's most successful and well-known hits. It tells the story of the SS Edmund Fitzgerald, a ship that sank in Lake Superior in 1975, and the crew who lost their lives in the disaster. The song has a haunting and evocative melody and poignant lyrics that have made it a classic of folk and country music. It continues to be widely performed and covered by artists around the world and is remembered as a tribute to the bravery and sacrifice of the men who served on the Edmund Fitzgerald. |
+| **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "The Wreck of the Edmund Fitzgerald" by Gordon Lightfoot. The song was released in 1976 and became one of Lightfoot's most successful and well-known hits. It tells the story of the SS Edmund Fitzgerald, a ship that sank in Lake Superior in 1975, and the crew who lost their lives in the disaster. The song has a haunting and evocative melody and poignant lyrics that have made it a classic of folk and country music. It continues to be widely performed and covered by artists around the world and is remembered as a tribute to the bravery and sacrifice of the men who served on the Edmund Fitzgerald. |
 
 ## Hotel California by The Eagles 
 
@@ -587,7 +623,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |"We are programmed to receive|
 |You can check out any time you like|
 |But you can never leave" |
-| **ChatGPT:** The lyrics you provided are from the song "Hotel California" by the Eagles. The song was released in 1977 and has become one of the band's most well-known and iconic hits. It has been widely interpreted and has inspired many theories about its meaning, including that it is about a drug-induced hallucination or a metaphor for the excesses of the music industry. The song has a memorable and evocative melody and has been covered by numerous artists and featured in various media. It remains a popular and enduring classic of rock music. |
+| **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "Hotel California" by the Eagles. The song was released in 1977 and has become one of the band's most well-known and iconic hits. It has been widely interpreted and has inspired many theories about its meaning, including that it is about a drug-induced hallucination or a metaphor for the excesses of the music industry. The song has a memorable and evocative melody and has been covered by numerous artists and featured in various media. It remains a popular and enduring classic of rock music. |
 
 ## Alice's Restaurant by Arlo Guthrie 
 
@@ -720,7 +756,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |Love shack, baby love shack!|
 |Love shack, baby love shack!|
 |Love shack, baby love shack!|
-|The lyrics are to the song "Love Shack" by The B-52's. It's a funky, upbeat song about a party place called the Love Shack where people come to dance and have a good time. The singer has a big car and invites everyone to bring their jukebox money and come to the Love Shack to party.|
+|**[ChatGPT](https://chat.openai.com/):** The lyrics are to the song "Love Shack" by The B-52's. It's a funky, upbeat song about a party place called the Love Shack where people come to dance and have a good time. The singer has a big car and invites everyone to bring their jukebox money and come to the Love Shack to party.|
 
 ## The Deadbeat Club — B-52's
 
@@ -777,7 +813,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |(Deadbeat club)|
 |Oh-oh no, here they come!|
 |The members of the deadbeat club|
-|This appears to be lyrics from a song. It is a celebration of a group of friends who are part of the "deadbeat club." They enjoy simple pleasures such as hanging out at Allen's bar and going to parties, and they embrace their freedom to have fun and make the most of life. The chorus repeats the line "We're the deadbeat club" as a way to identify and connect with other members of the group.|
+|**[ChatGPT](https://chat.openai.com/):** This appears to be lyrics from a song. It is a celebration of a group of friends who are part of the "deadbeat club." They enjoy simple pleasures such as hanging out at Allen's bar and going to parties, and they embrace their freedom to have fun and make the most of life. The chorus repeats the line "We're the deadbeat club" as a way to identify and connect with other members of the group.|
 | *"That is one of the songs by the B-52s"* |
 |Yes, that's correct! The song you quoted is called "Deadbeat Club" and it was released by the B-52s, an American new wave and rock band formed in 1976. They are known for their quirky and upbeat musical style, as well as their distinctive harmonies and humorous lyrics. "Deadbeat Club" is one of the band's popular tracks and it features their signature musical style, including upbeat melodies and whimsical lyrics that reflect a carefree and joyful 
 attitude.|
@@ -843,9 +879,9 @@ attitude.|
 |It's the end of the world as we know it (time I had some time alone)|
 It's the end of the world as we know it (time I had some time alone)|
 It's the end of the world as we know it and I feel fine (time I had some time alone)|
-|The lyrics to "It's the End of the World as We Know It (And I Feel Fine)" by R.E.M. are about the end of the world as the narrator knows it, and the chaos and destruction that follow. Despite the chaos and destruction, the narrator feels fine. The song uses a series of rapidly changing images, events and cultural references to describe the end of the world.|
+|**[ChatGPT](https://chat.openai.com/):** The lyrics to "It's the End of the World as We Know It (And I Feel Fine)" by R.E.M. are about the end of the world as the narrator knows it, and the chaos and destruction that follow. Despite the chaos and destruction, the narrator feels fine. The song uses a series of rapidly changing images, events and cultural references to describe the end of the world.|
 | *"Anything special about the people mentioned?"* |
-|The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
+|**[ChatGPT](https://chat.openai.com/):** The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
 
 ## Turn, Turn, Turn by The Byrds[^2]
 
@@ -879,7 +915,7 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 |A time to rain, a time of sow|
 |A time for love, a time for hate|
 |A time for peace, I swear it's not too late|
-|**ChatGPT:** The lyrics you provided are from a song called "Turn! Turn! Turn!" written by Pete Seeger and made famous by the rock group The Byrds. The song is based on a passage from the Bible, Ecclesiastes 3:1-8, which describes the cyclical nature of life and the idea that there is a time and a purpose for everything under heaven. The lyrics describe the various stages and experiences that people go through in life, including birth and death, planting and reaping, killing and healing, and times of love and hate, war and peace. The song suggests that these experiences are all a part of the natural cycle of life and that there is a time and a purpose for everything.|
+|**[ChatGPT](https://chat.openai.com/):** The lyrics you provided are from a song called "Turn! Turn! Turn!" written by Pete Seeger and made famous by the rock group The Byrds. The song is based on a passage from the Bible, Ecclesiastes 3:1-8, which describes the cyclical nature of life and the idea that there is a time and a purpose for everything under heaven. The lyrics describe the various stages and experiences that people go through in life, including birth and death, planting and reaping, killing and healing, and times of love and hate, war and peace. The song suggests that these experiences are all a part of the natural cycle of life and that there is a time and a purpose for everything.|
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
 [^2]: This is one of the songs that I planned for my service.
