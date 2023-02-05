@@ -26,6 +26,33 @@ I thought that I would do something different to announce our forty-fifth weddin
 |December 17 – Ralph Hightower marries Paula Lambert. |
 |1977 was a significant year in several fields, including space exploration, technology, entertainment and sports. Notable events include the first test flight of the Space Shuttle Enterprise, the first use of optical fiber for telephone traffic, the premiere of the film "Star Wars", the fourth win of A.J. Foyt in the Indianapolis 500, the launch of the Voyager 1 and Voyager 2 spacecraft, the release of the Atari Video Computer System, and the successful TCP/IP test that became the Internet protocol. Additionally, important individuals such as Wernher von Braun, Elvis Presley, and Ralph Hightower, started or ended their careers, and Ralph Hightower married Paula Lambert.|
 
+## Jeopardy 
+
+| Jeopardy |
+|-----|
+| *"Hello Assistant"* |
+|Hello! How can I help you today?|
+| *"Are you familiar with the game show Jeopardy?*" |
+| Yes, I am familiar with Jeopardy! It's a popular television game show that has been on the air for many years. Contestants are presented with clues in the form of answers, and they must respond with the questions that correspond to those answers. The show covers a wide range of topics, including history, literature, science, and pop culture.|
+| *"Can you provide me with details of its hosts, past and present?"* |
+|Yes, certainly! Jeopardy! has had three main hosts in its history:|
+|Art Fleming (1964-1975, 1978-1979)|
+|Alex Trebek (1984-2021)|
+|Mike Richards (2021-present)|
+|Alex Trebek was the longest-serving host of Jeopardy!, hosting the show for over 37 years until his death in November 2021. He was widely beloved for his quick wit, intelligence, and friendly demeanor, and is widely regarded as one of the most iconic game show hosts of all time. Mike Richards, a television producer and executive, has taken over as the host of Jeopardy! following Trebek's passing.|
+| *"Hmm... Ken Jennings is the current host."* |
+|My apologies, you are correct. Ken Jennings is the current interim host of Jeopardy! following the passing of Alex Trebek. He is a famous Jeopardy! champion, having won 74 games in a row and earning over $2.5 million in prize money. Ken has been hosting Jeopardy! on a temporary basis since Trebek's passing, and he is widely regarded as a suitable and worthy successor to Trebek.|
+| *"Who are the top five winners and can you provide some information on their strategy?"* |
+| Sure, here are the top five highest earning Jeopardy! champions of all time:|
+| 1 - James Holzhauer: Holzhauer won $2,464,216 over the course of 32 games in 2019. He is known for his aggressive betting strategy, often making large bets on Daily Doubles and Final Jeopardy.|
+| 2 - Ken Jennings: Jennings won $2,520,700 over the course of 74 games in 2004. He has been described as a "walking encyclopedia" due to his vast knowledge on a wide range of topics.|
+| 3 - Brad Rutter: Rutter won $4,688,436 over the course of multiple appearances on Jeopardy! He is the highest earning American game show contestant of all time.|
+| 4 -David Madden: Madden won $430,400 over the course of 11 games in 2019. He is known for his calm demeanor and ability to maintain his focus throughout the game.|
+| 5 -Julia Collins: Collins won $428,100 over the course of 20 games in 2014. She is known for her steady play, making few mistakes and consistently betting strategically.|
+|It's worth noting that these champions' success on Jeopardy! can be attributed to a combination of factors, including their broad general knowledge, quick recall, strategic betting, and their ability to maintain their focus and composure under pressure.
+| *"If you were pitted against IBM's Watson in Jeopardy, who would be the winner?"* |
+|As an AI language model, I am not capable of playing games such as Jeopardy! however, if I were to be pitted against IBM's Watson, I believe that Watson would likely emerge as the winner. Watson is a highly advanced AI system that was specifically designed and trained to play Jeopardy!. It has a deep understanding of language and is capable of quickly processing vast amounts of information to find the answers to clues. While I am a capable language model, I do not have the specialized skills and abilities that Watson was designed to possess.|
+| *"Thank you."* |
 
 ## Alice's Restaurant by Arlo Guthrie 
 
