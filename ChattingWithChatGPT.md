@@ -43,7 +43,8 @@
 |Woodstock, "Chappaquiddick," Sesame Street|
 |"MASH," "Altamont," "San Francisco (Be Sure to Wear Flowers in Your Hair)"|
 |"Easy Rider," "Saturday Night Live," "All You Need is Love"|
-|Watergate, punk rock<br>"Exorcist," "Godfather," "Chinatown"|
+|Watergate, punk rock|
+|"Exorcist," "Godfather," "Chinatown"|
 |"Jaws," "Annie Hall," "Star Wars"|
 |"Close Encounters of the Third Kind," "Taxi Driver," "Superman"|
 |Camp David, "The China Syndrome," "Three Mile Island"[^1]|
@@ -268,33 +269,6 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 | *"Thank you. You have been very helpful in my decision making process for buying a new General Motors vehicle. I'm a Chevy guy."* | 
 |You're welcome! I'm glad I could help. General Motors, including Chevrolet, have been known for providing a wide range of vehicles with the latest technology. Having knowledge of the cellular technology used in vehicles is important when considering the range of services available on the car. You might want to check the specific models and options available to make sure you're getting the cellular technology that is best suited to your needs and preferences. Don't hesitate to reach out if you have any further questions, I'll be happy to help. And as a Chevy guy, I'm sure you'll find the perfect vehicle that meets your needs and preferences! |
 
-## Me and Bobby McGee by Janis Joplin 
-
-| Me and Bobby McGee — Janis Joplin / [ChatGPT](https://chat.openai.com/) |
-|----|
-|Oh Lord, won't you buy me a Mercedes Benz?|
-|My friends all drive Porsches, I must make amends|
-|Worked hard all my lifetime, no help from my friends|
-|So Lord, won't you buy me a Mercedes Benz?|
-||
-|Oh Lord, won't you buy me a color TV?|
-|Dialing for dollars is trying to find me|
-|I wait for delivery each day until three|
-|So oh Lord, won't you buy me a color TV?|
-||
-|Oh Lord, won't you buy me a night on the town?|
-|I'm counting on you, Lord, please don't let me down|
-|Prove that you love me and buy the next round|
-|Oh Lord, won't you buy me a night on the town?|
-|Everybody!|
-||
-|Oh Lord, won't you buy me a Mercedes Benz?|
-|My friends all drive Porsches, I must make amends|
-|Worked hard all my lifetime, no help from my friends|
-|So oh Lord, won't you buy me a Mercedes Benz?|
-|That's it!| 
-| **ChatGPT:** The lyrics you provided are from the song "Me and Bobby McGee" by Janis Joplin. The song was written by Kris Kristofferson and was originally recorded by Roger Miller in 1969. Joplin's version of the song was released in 1971 on the album "Pearl" and became one of her most popular and enduring hits. It is a bluesy and soulful song that tells the story of a woman who travels with a man named Bobby McGee and reflects on their time together. The song has a memorable melody and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
-
 ## The Edmund Fitzgerald by Gordon Lightfoot 
 
 | The Edmund Fitzgerald — Gordon Lightfoot / [ChatGPT](https://chat.openai.com/) |
@@ -465,18 +439,30 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |The VAX also featured a large number of addressing modes. It had eight general-purpose registers and eight floating-point registers. It also had a large memory addressing capability of up to 4GB.|
 VAX also had a feature called "Virtual Memory" which allowed the system to treat the physical memory as a virtual memory space which is much larger than the physical memory installed in the system. This feature was an important factor in the success of the VAX architecture, as it allowed programs to run on systems with limited physical memory.|
 |*"What operating systems could run on the VAX?"*|
-|The VAX 11/780 and other VAX systems were compatible with a variety of operating systems, including:<br>• VMS (Virtual Memory System): This was the primary operating system for the VAX, developed and sold by DEC. VMS was a multi-user, multitasking operating system that supported a wide range of features, such as virtual memory, security, and network connectivity. It was widely used in commercial and government environments.<br>• Ultrix: This was a version of the Unix operating system developed by DEC for the VAX and other systems. Ultrix was based on the BSD variant of Unix and was compatible with VMS. It was commonly used in scientific and engineering environments.<br>• RSX-11: This was an older operating system developed by DEC for the PDP-11, but it was also compatible with the VAX. RSX-11 was a single-user, single-tasking operating system that was widely used in industrial and process control applications.<br>• OpenVMS: This is a rebranded version of VMS which is developed and sold by VMS Software Inc.(VSI) after DEC's bankruptcy. It is still being developed and supported by VSI today.|
+|The VAX 11/780 and other VAX systems were compatible with a variety of operating systems, including:|
+|• VMS (Virtual Memory System): This was the primary operating system for the VAX, developed and sold by DEC. VMS was a multi-user, multitasking operating system that supported a wide range of features, such as virtual memory, security, and network connectivity. It was widely used in commercial and government environments.|
+|• Ultrix: This was a version of the Unix operating system developed by DEC for the VAX and other systems. Ultrix was based on the BSD variant of Unix and was compatible with VMS. It was commonly used in scientific and engineering environments.|
+|• RSX-11: This was an older operating system developed by DEC for the PDP-11, but it was also compatible with the VAX. RSX-11 was a single-user, single-tasking operating system that was widely used in industrial and process control applications.|• OpenVMS: This is a rebranded version of VMS which is developed and sold by VMS Software Inc.(VSI) after DEC's bankruptcy. It is still being developed and supported by VSI today.|
 |Additionally, third-party operating systems were also available for the VAX, such as 4.3BSD UNIX, Xenix and others, but they were less popular than the ones mentioned above.|
 |*"Up to your knowledge base, do you know if there are still any vaxes that are still in use?"*|
 |As of my knowledge cutoff in 2021, it is unlikely that there are still many VAX systems in active use. The VAX architecture was phased out in the 1990s as newer systems based on other architectures, such as the Alpha and the Intel x86, became more popular.|
 |However, it is possible that some organizations may still be using older VAX systems for legacy applications that cannot be easily ported to newer systems. And also some companies and individuals still use OpenVMS on VAX and Alpha platforms for mission critical applications. Some enthusiasts also keep VAX systems running as a hobby.|
 |It should be noted that OpenVMS, which is based on VAX architecture, is still being developed and supported by VMS Software Inc (VSI), and some companies still use it for their critical applications, this means that some VAX hardware are still being used and maintained to run OpenVMS.|
 |*"I have a VAXStation II/GPX at home; it's just the bare box, with the circuit boards and tape drive. What peripherals do I need to get it up and running and connected to my home network? Monitor? What type of monitor? It has a DB-9 Ethernet connection. "*|
-|To get your VAXStation II/GPX up and running, you will need a few additional peripherals:<br>• A monitor: The VAXStation II/GPX uses a standard VGA connector, so you will need a VGA-compatible monitor. Any VGA monitor will work, but you may need a VGA-to-DB15 adapter if the monitor does not have a DB15 connector.<br>• A keyboard: The VAXStation II/GPX uses a standard PS/2 keyboard connector, so you will need a PS/2 keyboard.<br>• A mouse: The VAXStation II/GPX uses a serial mouse, so you will need a serial mouse or a PS/2 mouse with a serial to PS/2 converter<br>• A power cord: You will need a power cord to connect the VAXStation II/GPX to a power source.<br>• A Ethernet cable: You will need a Ethernet cable to connect the VAXStation II-RT/GPX to your home network.<br>• A boot media: You will need a boot media to boot the VAXStation II/GPX, it could be a tape drive, a floppy disk drive, or a hard drive.| 
+|To get your VAXStation II/GPX up and running, you will need a few additional peripherals:|
+|• A monitor: The VAXStation II/GPX uses a standard VGA connector, so you will need a VGA-compatible monitor. Any VGA monitor will work, but you may need a VGA-to-DB15 adapter if the monitor does not have a DB15 connector.|
+|• A keyboard: The VAXStation II/GPX uses a standard PS/2 keyboard connector, so you will need a PS/2 keyboard.|
+|• A mouse: The VAXStation II/GPX uses a serial mouse, so you will need a serial mouse or a PS/2 mouse with a serial to PS/2 converter|
+|• A power cord: You will need a power cord to connect the VAXStation II/GPX to a power source.|
+|• A Ethernet cable: You will need a Ethernet cable to connect the VAXStation II-RT/GPX to your home network.|
+|• A boot media: You will need a boot media to boot the VAXStation II/GPX, it could be a tape drive, a floppy disk drive, or a hard drive.| 
 |It's also worth noting that the VAXStation II/GPX is an older computer, so it may be difficult to find compatible peripherals. You may need to look for used or refurbished peripherals to get everything you need.|
 |Additionally, you will need to have an operating system installed on the VAXStation II/GPX. If you don't have any, you can look for OpenVMS media or install files online, or you can contact VMS Software Inc (VSI) for assistance.|
 |*"I'm not going to install VMS. I don’t feel like learning a new OS. An OS where I can use my knowledge of Unix and Linux would be ideal."*| 
-|If you're not interested in learning VMS and you would prefer to use an operating system that is more similar to Unix or Linux, you can look into installing one of the following operating systems on your VAXStation II/GPX:<br>• NetBSD: This is a free and open-source operating system that is based on the BSD variant of Unix. NetBSD has been ported to the VAX architecture and can run on the VAXStation II/GPX.<br>• OpenBSD: This is another free and open-source operating system that is based on the BSD variant of Unix. OpenBSD has also been ported to the VAX architecture and can run on the VAXStation II/GPX.<br>• Linux: Linux is a free and open-source operating system that is based on Unix. Linux has been ported to the VAX architecture, but it is less common than the BSD operating systems.|
+|If you're not interested in learning VMS and you would prefer to use an operating system that is more similar to Unix or Linux, you can look into installing one of the following operating systems on your VAXStation II/GPX:|
+|• NetBSD: This is a free and open-source operating system that is based on the BSD variant of Unix. NetBSD has been ported to the VAX architecture and can run on the VAXStation II/GPX.|
+|• OpenBSD: This is another free and open-source operating system that is based on the BSD variant of Unix. OpenBSD has also been ported to the VAX architecture and can run on the VAXStation II/GPX.|
+|• Linux: Linux is a free and open-source operating system that is based on Unix. Linux has been ported to the VAX architecture, but it is less common than the BSD operating systems.|
 |Keep in mind that those are not the only options, and the support for VAX architecture could be limited and hard to find, also those operating systems would not be able to take advantage of the specific hardware features of the VAXstation II/GPX. Also, it could be difficult to find the installation media and support for those operating systems on VAX hardware.|
 |It's also worth noting that these operating systems were not originally designed to run on the VAX architecture, so performance and compatibility may be limited compared to VMS.|
 |Please also be aware that installing a new operating system will erase the original one, and the process of installing it could be complicated and time-consuming, specially if you are not familiar with the VAX hardware|
@@ -527,5 +513,83 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |You're welcome! I'm glad I could help. It's always interesting to learn about the history of technology and how it has evolved over time. If you have any other questions regarding your VAXStation II/GPX or other vintage computers, feel free to ask.|
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don't hesitate to reach out if you have any other questions in the future.|
+
+| Love Shack — B-52's |
+|----|
+|If you see a faded sign at the side of the road that says|
+|Fifteen miles to the, love shack, love shack yeah|
+|I'm headin' down the Atlanta highway|
+|Lookin' for the love getaway|
+|Headed for the love getaway, love getaway|
+|I got me a car, it's as big as a whale|
+|And we're headin' on down to the love shack|
+|I got me a Chrysler, it seats about twenty|
+|So hurry up and bring your jukebox money|
+|The love shack is a little old place where|
+|We can get together|
+|Love shack baby|
+|A love shack baby|
+|Love shack, baby love shack|
+|Love shack, baby love shack|
+|Love shack, baby love shack|
+|Love shack, baby love shack|
+|Sign says, woo, stay away fools|
+|'Cause love rules at the love shack|
+|Well it's set way back in the middle of a field|
+|Just a funky old shack and I gotta get back|
+|Glitter on the mattress|
+|Glitter on the highway|
+|Glitter on the front porch|
+|Glitter on the hallway|
+|The love shack is a little old place where|
+|We can get together|
+|Love shack, baby|
+|Love shack, baby|
+|Love shack, that's where it's at|
+|Love shack, that's where it's at|
+|Huggin' and a-kissin', dancin' and a-lovin'|
+|Wearin' next to nothing 'cause it's hot as an oven|
+|The whole shack shimmies|
+|Yeah the whole shack shimmies|
+|The whole shack shimmies when everybody's movin' around|
+|And around and around and around|
+|Everybody's movin', everybody's groovin' baby|
+|Folks linin' up outside just to get down|
+|Everybody's movin', everybody's groovin' baby|
+|Funky little shack|
+|Funky little shack|
+|Hop in my Chrysler, it's as big as a whale|
+|And it's about to set sail|
+|I got me a car, it seats about twenty, so come on|
+|And bring your jukebox money|
+|The love shack is a little old place where|
+|We can get together|
+|Love shack baby|
+|A love shack baby|
+|Love shack, baby love shack|
+|Love shack, baby love shack|
+|Love shack, baby love shack (oh baby that's where it's at)|
+|Love shack, baby love shack (baby that's where it's at)|
+|Bang bang bang on the door baby!|
+|Knock a little louder baby!|
+|Bang bang bang on the door baby!|
+|I can't hear you|
+|Bang bang bang on the door baby!|
+|Knock a little louder sugar!|
+|Bang bang bang on the door baby!|
+|I can't hear you|
+|Bang bang bang on the door baby, knock a little louder|
+|Bang bang on the door baby, bang bang!|
+|On the door baby, bang bang!|
+|On the door, bang bang!|
+|On the door baby, bang bang!|
+|You're what?|
+|Tin roof|
+|Rusted!|
+|Love shack, baby love shack!|
+|Love shack, baby love shack!|
+|Love shack, baby love shack!|
+|Love shack, baby love shack!|
+|The lyrics are to the song "Love Shack" by The B-52's. It's a funky, upbeat song about a party place called the Love Shack where people come to dance and have a good time. The singer has a big car and invites everyone to bring their jukebox money and come to the Love Shack to party.|
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
