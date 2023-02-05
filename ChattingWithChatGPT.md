@@ -659,5 +659,64 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Anything special about the people mentioned?"* |
 |The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
 
+## The Deadbeat Club — B-52's
+
+| The Deadbeat Club — B-52's |
+|----|
+|I was good, I could talk|
+|A mile a minute|
+|On this caffeine buzz I was on|
+|We were really hummin'|
+|We would talk every day for hours|
+|We belong to the deadbeat club|
+|Any way we can|
+|We're gonna find something|
+|We'll dance in the garden in torn sheets in the rain|
+|We'll dance in the garden in torn sheets in the rain|
+|In the rain|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club|
+|Going down to Allen's for|
+|A twenty-five cent beer|
+|And the jukebox playing real loud|
+|"Ninety-six tears"|
+|We're wild girls walkin' down the street|
+|Wild girls and boys going out for a big time|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club|
+|Let's go crash that party down|
+|In Normaltown tonight|
+|Then we'll go skinny-dippin'|
+|In the moonlight|
+|We're wild girls walkin' down the street|
+|Wild girls and boys going out for a big time|
+|Anyway we can|
+|We're gonna find something|
+|We'll dance in the garden in torn sheets in the rain|
+|We'll dance in the garden in torn sheets in the rain|
+|In the rain|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|We're the deadbeat club (deadbeat club)|
+|Oh-oh no, here they come!|
+|The members of the deadbeat club|
+|(Deadbeat club)|
+|Oh-oh no, here they come!|
+|The members of the deadbeat club|
+|(Deadbeat club)|
+|Oh-oh no, here they come!|
+|The members of the deadbeat club|
+|(Deadbeat club)|
+|Oh-oh no, here they come!|
+|The members of the deadbeat club|
+|This appears to be lyrics from a song. It is a celebration of a group of friends who are part of the "deadbeat club." They enjoy simple pleasures such as hanging out at Allen's bar and going to parties, and they embrace their freedom to have fun and make the most of life. The chorus repeats the line "We're the deadbeat club" as a way to identify and connect with other members of the group.|
+| *"That is one of the songs by the B-52s"* |
+|Yes, that's correct! The song you quoted is called "Deadbeat Club" and it was released by the B-52s, an American new wave and rock band formed in 1976. They are known for their quirky and upbeat musical style, as well as their distinctive harmonies and humorous lyrics. "Deadbeat Club" is one of the band's popular tracks and it features their signature musical style, including upbeat melodies and whimsical lyrics that reflect a carefree and joyful attitude.|
+
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
