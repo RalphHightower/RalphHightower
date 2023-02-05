@@ -52,6 +52,7 @@
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
 | [Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)| (H/W) |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
+| [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
@@ -271,6 +272,7 @@
 | [Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)<br>$99 for the 4GB model, $119 for the 8GB model, and $159 for the 16GB model |
 |[ON XGO 2 – A RASPBERRY PI CM4 BASED ROBOT DOG WITH AN ARM (CROWDFUNDING)](https://www.cnx-software.com/2023/02/01/xgo-2-a-raspberry-pi-cm4-robot-dog-robotic-arm/) |
 | [WinLink E850-96Board SBC is powered by Samsung Exynos 850 Octa-core Cortex-A55 SoC](https://www.cnx-software.com/2023/02/01/winlink-e850-96board-sbc-samsung-exynos-850/?amp=1) |
+| [Rockchip RK3588 system-on-module exposes 400 pins through high-density connectors](https://www.cnx-software.com/2022/12/14/rockchip-rk3588-system-on-module-exposes-400-pins-through-high-density-connectors/) |
 
 ## DIY CubeSat
 
@@ -306,5 +308,6 @@
 | [Google Android](https://source.android.com/docs/security/bulletin) |
 | [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
 
+[^3]: Impressive performance specifications. Expensive, but **WANT!**
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 [^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
