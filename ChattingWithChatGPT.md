@@ -514,6 +514,8 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don't hesitate to reach out if you have any other questions in the future.|
 
+## Love Shack by the B-52's 
+
 | Love Shack — B-52's |
 |----|
 |If you see a faded sign at the side of the road that says|
@@ -591,5 +593,71 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |Love shack, baby love shack!|
 |Love shack, baby love shack!|
 |The lyrics are to the song "Love Shack" by The B-52's. It's a funky, upbeat song about a party place called the Love Shack where people come to dance and have a good time. The singer has a big car and invites everyone to bring their jukebox money and come to the Love Shack to party.|
+
+## This is the End of the World as We Know It (And I Feel Fine) — REM
+
+| This is the End of the World as We Know It (and I feel fine) — REM |
+|----|
+|That's great, it starts with an earthquake|
+|Birds and snakes, and aeroplanes|
+|And Lenny Bruce is not afraid|
+|Eye of a hurricane, listen to yourself churn|
+|World serves its own needs|
+|Don't mis-serve your own needs|
+|Speed it up a notch, speed, grunt, no, strength|
+|The ladder starts to clatter|
+|With a fear of height, down, height|
+|Wire in a fire, represent the seven games|
+|And a government for hire and a combat site|
+|Left her, wasn't coming in a hurry|
+|With the Furies breathing down your neck|
+|Team by team, reporters baffled, trumped, tethered, cropped|
+|Look at that low plane, fine, then|
+|Uh oh, overflow, population, common group|
+|But it'll do, save yourself, serve yourself|
+|World serves its own needs, listen to your heart bleed|
+|Tell me with the Rapture and the reverent in the right, right|
+|You vitriolic, patriotic, slam fight, bright light|
+|Feeling pretty psyched|
+|It's the end of the world as we know it|
+|It's the end of the world as we know it|
+|It's the end of the world as we know it and I feel fine|
+|Six o'clock, T.V. hour, don't get caught in foreign tower|
+|Slash and burn, return, listen to yourself churn|
+|Lock him in uniform, book burning, bloodletting|
+|Every motive escalate, automotive incinerate|
+|Light a candle, light a motive, step down, step down|
+|Watch your heel crush, crush, uh oh|
+|This means no fear, cavalier, renegade and steering clear|
+|A tournament, a tournament, a tournament of lies|
+|Offer me solutions, offer me alternatives and I decline|
+|It's the end of the world as we know it (I had some time alone)
+|It's the end of the world as we know it (I had some time alone)
+|It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|I feel fine (I feel fine)|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|The other night I drifted nice continental drift divide|
+|Mountains sit in a line, Leonard Bernstein|
+|Leonid Brezhnev, Lenny Bruce and Lester Bangs|
+|Birthday party, cheesecake, jellybean, boom|
+|You symbiotic, patriotic, slam but neck, right, right|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|It's the end of the world as we know it|
+|It's the end of the world as we know it|
+|It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it (time I had some time alone)|
+|It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|It's the end of the world as we know it (time I had some time alone)|
+It's the end of the world as we know it (time I had some time alone)|
+It's the end of the world as we know it and I feel fine (time I had some time alone)|
+|The lyrics to "It's the End of the World as We Know It (And I Feel Fine)" by R.E.M. are about the end of the world as the narrator knows it, and the chaos and destruction that follow. Despite the chaos and destruction, the narrator feels fine. The song uses a series of rapidly changing images, events and cultural references to describe the end of the world.|
+| *"Anything special about the people mentioned?"* |
+|The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
+
 
 [^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
