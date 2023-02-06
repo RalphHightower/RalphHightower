@@ -892,6 +892,62 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Anything special about the people mentioned?"* |
 | **[ChatGPT](https://chat.openai.com/):** The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
 
+| Your Wildest Dreams — Moody Blues |
+|----|
+|Once upon a time|
+|Once when you were mine|
+|I remember skies|
+|Reflected in your eyes|
+|I wonder where you are|
+|I wonder if you think about me|
+|Once upon a time|
+|In your wildest dreams|
+|Once the world was new|
+|Our bodies felt the morning dew|
+|That greets the brand-new day|
+|We couldn't tear ourselves away|
+|I wonder if you care|
+|I wonder if you still remember|
+|Once upon a time|
+|In your wildest dreams|
+|And when the music plays|
+|And when the words are touched with sorrow|
+|When the music plays|
+|I hear the sound I had to follow|
+|Once upon a time|
+|Once beneath the stars|
+|The universe was ours|
+|Love was all we knew|
+|And all I knew was you|
+|I wonder if you know|
+|I wonder if you think about it|
+|Once upon a time|
+|In your wildest dreams|
+|And when the music plays|
+|And when the words are touched with sorrow|
+|When the music plays|
+|And when the music plays|
+|I hear the sound I had to follow|
+|Once upon a time|
+|Once upon a time|
+|Once when you were mine|
+|I remember skies|
+|Mirrored in your eyes|
+|I wonder where you are|
+|I wonder if you think about me|
+|Once upon a time|
+|In your wildest dreams|
+|In your wildest dreams|
+|In your wildest dreams|
+|In your wildest dreams|
+|**[ChatGPT](https://chat.openai.com/chat):** This appears to be lyrics from a song, possibly titled "Once Upon a Time" or "In Your Wildest Dreams." The lyrics describe memories of a past relationship and the singer wonders if the other person still thinks about them. The song mentions a time when love was all they knew and the universe was theirs. The singer also wonders if the other person knows and thinks about these memories.|
+| *"The Moody Blues wrote and performed the song."* |
+| **[ChatGPT](https://chat.openai.com/chat):** Yes, that's correct. "Once Upon a Time" is a song by the English rock band The Moody Blues. It was released as a single in 1968 and appeared on their album "In Search of the Lost Chord."|
+| *"Thank you."* |
+|**[ChatGPT](https://chat.openai.com/chat):** You're welcome! If there's anything else I can help with, feel free to ask.|
+| *"Bye."* |
+|**[ChatGPT](https://chat.openai.com/chat):** Goodbye! Have a great day!|
+
 ## Turn, Turn, Turn by The Byrds[^2]
 
 | Turn, Turn  Turn — The Byrds / **[ChatGPT]()** |
