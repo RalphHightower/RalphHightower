@@ -479,6 +479,45 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
 
+## Learning To Fly by Pink Floyd 
+
+| Learning To Fly — Pink Floyd |
+|----|
+|Into the distance, a ribbon of black|
+|Stretched to the point of no turning back|
+|A flight of fancy on a wind swept field|
+|Standing alone my senses reeled|
+|A fatal attraction is holding me fast|
+|How can I escape this irresistible grasp?|
+|Can't keep my eyes from the circling sky|
+|Tongue-tied and twisted, just an earth-bound misfit, I|
+|Ice is forming on the tips of my wings|
+|Unheeded warnings, I thought I thought of everything|
+|No navigator to find my way home|
+|Unladened, empty and turned to stone|
+|A soul in tension that's learning to fly|
+|Condition grounded but determined to try|
+|Can't keep my eyes from the circling skies|
+|Tongue-tied and twisted, just an earth-bound misfit, I|
+|Friction lock, set|
+|Mixtures, rich|
+|Propellers, fully forward|
+|Flaps, set - 10 degrees|
+|Engine gauges and suction, check|
+|Above the planet on a wing and a prayer|
+|My grubby halo, a vapor trail in the empty air|
+|Across the clouds I see my shadow fly|
+|Out of the corner of my watering eye|
+|A dream unthreatened by the morning light|
+|Could blow this soul right through the roof of the night|
+|There's no sensation to compare with this|
+|Suspended animation, a state of bliss|
+|Can't keep my mind from the circling sky|
+|Tongue-tied and twisted, just an earth-bound misfit,|
+| **[ChatGPT](https://chat.openai.com/chat):** This is the lyrics to "One Last Time" by Tesla. The song is about a person who is captivated by flying and the freedom it brings, despite the danger and the unknown. The person is determined to take flight and explore the world from above, despite the fear and uncertainty, and is willing to push the limits of their abilities. The song reflects a sense of longing and determination to soar above the earth, to escape the limitations of life on the ground and find a sense of purpose in the sky.|
+| *"No, this is a song by Pink Floyd."* |
+| **[ChatGPT](https://chat.openai.com/chat):** My apologies, you are correct. The lyrics are from "Learning to Fly" by Pink Floyd, from the album "A Momentary Lapse of Reason". The song is about a person's journey to escape the constraints of their life and find the freedom of flight. The person is determined to overcome their limitations, despite the difficulties and challenges they face, and is seeking to find their place in the world. The lyrics reflect a sense of longing and hope for a better life, and a desire to soar above the ordinary.|
+
 ## Mercedes Benz by Janis Joplin 
 
 | Mercedes Benz — Janis Joplin / [ChatGPT](https://chat.openai.com/) |
