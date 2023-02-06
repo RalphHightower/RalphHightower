@@ -179,7 +179,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"I think that Voyager 2 has also crossed into interstellar space."* |
 |Yes, you are correct. Voyager 2 also crossed into interstellar space in 2018, following a similar trajectory as Voyager 1. This makes Voyager 2 the second human-made object to enter interstellar space and has allowed scientists to study and compare the conditions in this region from two different perspectives. The two Voyager spacecraft continue to send back valuable data and are expected to continue operating for several more years, providing valuable information about the outer reaches of our Solar System and beyond.|
 | *"What discoveries have they reported back to NASA?"* |
-|Since their launches in 1977, the Voyager spacecraft have sent back a wealth of data and discoveries to NASA, including:|Detailed images and data about the gas giants Jupiter and Saturn, including their atmospheres, moons, and ring systems.|
+|Since their launches in 1977, the Voyager spacecraft have sent back a wealth of data and discoveries to NASA, including: Detailed images and data about the gas giants Jupiter and Saturn, including their atmospheres, moons, and ring systems.|
 |The discovery of active volcanoes on Jupiter's moon Io and evidence of subsurface oceans on several of Saturn's moons.|
 |The first close-up images and data about the ice giants Uranus and Neptune, including their atmospheres, moons, and ring systems.|
 |Evidence of a strong and dynamic magnetic field at the boundary between our Solar System and interstellar space.|
