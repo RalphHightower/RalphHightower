@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.5](https://github.com/RalphHightower/RalphHightower/compare/v1.14.4...v1.14.5) (2023-02-05)
+
+
+### Bug Fixes
+
+* ChattingWithChatGPT for LinkedIn Profile ([785b9fa](https://github.com/RalphHightower/RalphHightower/commit/785b9fa0fcf49d2aa756de6f14757b41c4fb694d))
+
 ## [1.14.4](https://github.com/RalphHightower/RalphHightower/compare/v1.14.3...v1.14.4) (2023-02-03)
 
 
