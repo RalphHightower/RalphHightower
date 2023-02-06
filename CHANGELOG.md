@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.6](https://github.com/RalphHightower/RalphHightower/compare/v1.14.5...v1.14.6) (2023-02-06)
+
+
+### Bug Fixes
+
+* 746. Spurious columns DEC VAX, Voyager 1,2 ([88adea8](https://github.com/RalphHightower/RalphHightower/commit/88adea896f06b23c22602a5b73a4d3cc8d389971))
+
 ## [1.14.5](https://github.com/RalphHightower/RalphHightower/compare/v1.14.4...v1.14.5) (2023-02-05)
 
 
