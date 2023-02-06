@@ -948,6 +948,41 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Bye."* |
 |**[ChatGPT](https://chat.openai.com/chat):** Goodbye! Have a great day!|
 
+## Landslide by Fleetwood Mac
+
+|Landslide — Fleetwood Mac |
+|----|
+|I took my love, I took it down|
+|I climbed a mountain and I turned around|
+|And I saw my reflection in the snow-covered hills|
+|'Til the landslide brought me down|
+|Oh, mirror in the sky|
+|What is love?|
+|Can the child within my heart rise above?|
+|Can I sail through the changin' ocean tides?|
+|Can I handle the seasons of my life?|
+|Well, I've been afraid of changin'|
+|'Cause I've built my life around you|
+|But time makes you bolder|
+|Even children get older|
+|And I'm getting older too|
+|Well, I've been afraid of changin'|
+|'Cause I've built my life around you|
+|But time makes you bolder|
+|Even children get older|
+|And I'm getting older too|
+|Oh! I'm getting older too|
+|Oh-oh, take my love, take it down|
+|Oh-oh, climb a mountain and you turn around|
+|And if you see my reflection in the snow-covered hills|
+|Well, the landslide bring it down|
+|And if you see my reflection in the snow-covered hills|
+|Well, the landslide bring it down|
+|Oh-ohh, the landslide bring it down|
+|**[ChatGPT](https://chat.openai.com/chat):** This is a song called "Landslide" by Fleetwood Mac. The lyrics describe a person who is afraid of change and has built their life around someone else. The person realizes that time is making them bolder and older and contemplates if they can handle the changes in their life. The refrain of "Oh-oh, take my love, take it down / Oh-oh, climb a mountain and you turn around" is repeated throughout the song and describes the person's journey through change.|
+| *"Thank you."* |
+|**[ChatGPT](https://chat.openai.com/chat):** You're welcome! If you have any other questions, feel free to ask.|
+
 ## Turn, Turn, Turn by The Byrds[^2]
 
 | Turn, Turn  Turn — The Byrds / **[ChatGPT]()** |
