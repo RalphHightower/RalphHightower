@@ -46,7 +46,7 @@
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
 |*"Greetings Assistant."*|
-|Hello! How can I help you today?
+|Hello! How can I help you today? |
 |*"Are you familiar with the Digital Equipment Corporation VAX 11/780?"*|
 |Yes, I am familiar with the Digital Equipment Corporation (DEC) VAX 11/780. It was a high-end computer system based on the VAX architecture, which was introduced by DEC in the late 1970s. The VAX 11/780 was the first model in the VAX 11 series, and it was introduced in 1977. It was known for its high performance and scalability, and it was widely used in scientific and engineering applications, as well as in the commercial and government sectors. The VAX 11/780 was also the first VAX model to use the MicroVAX chipset, which allowed for the creation of smaller VAX systems.|
 |*"Can you provide me some information on the instruction set?"*|
@@ -70,7 +70,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |To get your VAXStation II/GPX up and running, you will need a few additional peripherals:|
 |• A monitor: The VAXStation II/GPX uses a standard VGA connector, so you will need a VGA-compatible monitor. Any VGA monitor will work, but you may need a VGA-to-DB15 adapter if the monitor does not have a DB15 connector.|
 |• A keyboard: The VAXStation II/GPX uses a standard PS/2 keyboard connector, so you will need a PS/2 keyboard.|
-|• A mouse: The VAXStation II/GPX uses a serial mouse, so you will need a serial mouse or a PS/2 mouse with a serial to PS/2 converter|
+|• A mouse: The VAXStation II/GPX uses a serial mouse, so you will need a serial mouse or a PS/2 mouse with a serial to PS/2 converter.|
 |• A power cord: You will need a power cord to connect the VAXStation II/GPX to a power source.|
 |• A Ethernet cable: You will need a Ethernet cable to connect the VAXStation II-RT/GPX to your home network.|
 |• A boot media: You will need a boot media to boot the VAXStation II/GPX, it could be a tape drive, a floppy disk drive, or a hard drive.| 
@@ -113,7 +113,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |However, before giving up on it, you may want to check with other VAX enthusiasts or computer repair professionals who may have experience working with VAX hardware. They may be able to help you diagnose and repair the problem, and get your VAXStation II/GPX up and running again.| 
 |If you decide to go ahead with installing a new operating system, you will need to get some peripherals to get it up and running. You will need a monitor, keyboard, and mouse to interact with the VAXStation II/GPX. It's best to use a monitor that supports the resolution and refresh rate of the VAXStation II/GPX. For the keyboard and mouse, you can use any standard PS/2 or USB keyboard and mouse.|
 |For connecting to a network, you can use the built-in DB-9 Ethernet port. You will need a suitable Ethernet cable and a router or switch to connect the VAXStation II/GPX to your home network.|
-|Keep in mind that even if you manage to install a new operating system on your VAXStation II/GPX, it may not be able to take advantage of the specific hardware features of the VAXstation II/GPX. |||
+|Keep in mind that even if you manage to install a new operating system on your VAXStation II/GPX, it may not be able to take advantage of the specific hardware features of the VAXstation II/GPX. |
 |Additionally, performance may not be as good as you expect, as the VAX architecture is not optimized for modern operating systems and applications.|
 |In summary, if you have the knowledge and resources to troubleshoot and repair the VAXStation II/GPX and install a new operating system, it is worth the effort but keep in mind that it will be limited by the hardware and software support available.|
 |*"Wow! You have a great sense of humor. LOL! I will need an Ethernet transceiver for twisted-pair with a DB-9 connector."*|
@@ -167,8 +167,8 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
-|Let's talk about NASA's Voyager spacecraft craft.
-Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
+|Let's talk about NASA's Voyager spacecraft craft.|
+|Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
 | *"What discoveries have been found?"* |
 |The Voyager missions have made a number of significant scientific discoveries, including:|
 |Jupiter: The probes provided detailed images of Jupiter and its moons, including the first close-up images of the Great Red Spot, and discovered active volcanoes on Jupiter's moon Io.|
