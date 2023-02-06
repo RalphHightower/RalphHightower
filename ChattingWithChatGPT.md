@@ -518,6 +518,51 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"No, this is a song by Pink Floyd."* |
 | **[ChatGPT](https://chat.openai.com/chat):** My apologies, you are correct. The lyrics are from "Learning to Fly" by Pink Floyd, from the album "A Momentary Lapse of Reason". The song is about a person's journey to escape the constraints of their life and find the freedom of flight. The person is determined to overcome their limitations, despite the difficulties and challenges they face, and is seeking to find their place in the world. The lyrics reflect a sense of longing and hope for a better life, and a desire to soar above the ordinary.|
 
+## Smoke on the Water by Deep Purple 
+
+| Smoke on the Water — Deep Purple |
+|-----|
+|We all came out to Montreux|
+|On the Lake Geneva shoreline|
+|To make records with a mobile, yeah|
+|We didn't have much time now|
+|Frank Zappa and the Mothers|
+|Were at the best place around|
+|But some stupid with a flare gun|
+|Burned the place to the ground|
+|Smoke on the water, a fire in the sky|
+|(Smoke) on the water, you guys are great|
+|They burned down the gambling house|
+|It died with an awful sound|
+|Funky Claude was running in and out|
+|He was pulling kids out the ground now|
+|When it all was over|
+|Find another place|
+|Swiss time was running out|
+|It seemed that we would lose the race|
+|Smoke on the water, a fire in the sky|
+|Smoke on the water|
+|Burn it down|
+|We ended up at the Grand Hotel|
+|It was empty, cold and bare|
+|The Rolling truck Stones thing just outside|
+|Huh, making our music there now|
+|With a few red lights and a few old beds|
+|We made a place to sweat|
+|No matter what we get out of this|
+|I know, I know we'll never forget|
+|Smoke on the water, a fire in the sky|
+|Smoke on the water|
+|(I can't hear anything)|
+|one more time|
+|(Smoke on the water) hey!|
+| **[ChatGPT](https://chat.openai.com/chat):** This is a song lyric about a group of musicians who came to Montreux, Switzerland to record music. However, a fire caused by a stupid person with a flare gun burned down the recording studio. The group moved to the Grand Hotel, where they made music in a makeshift studio with red lights and old beds. The song reflects the memories they made and how they will never forget the experience. The chorus repeats the line "Smoke on the Water" as a reference to the fire.|
+| *"That is a song by Deep Purple. And yes, that really happened. Some stupid shot a flare gun and set the building on fire."* |
+| **[ChatGPT](https://chat.openai.com/chat):** Yes, that's correct! "Smoke on the Water" is a song by the British rock band Deep Purple. The lyrics describe a true event that took place in Montreux, Switzerland during a music festival in 1971. A fire broke out at the casino where the band was planning to record an album, causing them to find another location. The incident became a memorable moment in the band's history and inspired the writing of the song.|
+| *"Yes. Thank you."* |
+| **[ChatGPT](https://chat.openai.com/chat):** You're welcome! If there's anything else I can help with, feel free to ask.|
+
+
 ## Mercedes Benz by Janis Joplin 
 
 | Mercedes Benz — Janis Joplin / [ChatGPT](https://chat.openai.com/) |
