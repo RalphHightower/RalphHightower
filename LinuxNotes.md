@@ -2,7 +2,7 @@
 
 ## Directories
 
-| Directory	| Description | Separate File System |
+| Directory	| Description | Mountable File System |
 |----|----|----|
 | / | (root filesystem)	The root filesystem is the top-level directory of the filesystem. It must contain all of the files required to boot the Linux system before other filesystems are mounted. It must include all of the required executables and libraries required to boot the remaining filesystems. After the system is booted, all other filesystems are mounted on standard, well-defined mount points as subdirectories of the root filesystem. | N |
 | /bin	| The /bin directory contains user executable files. | N |
