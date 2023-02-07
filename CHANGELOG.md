@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.7](https://github.com/RalphHightower/RalphHightower/compare/v1.14.6...v1.14.7) (2023-02-07)
+
+
+### Bug Fixes
+
+* add matching opening to close of quote ([6cfcfd6](https://github.com/RalphHightower/RalphHightower/commit/6cfcfd6e7232f22d7ef5d5f0eeb8ed434d2cc1c0))
+
 ## [1.14.6](https://github.com/RalphHightower/RalphHightower/compare/v1.14.5...v1.14.6) (2023-02-06)
 
 
