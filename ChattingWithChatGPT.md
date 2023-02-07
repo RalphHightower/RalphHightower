@@ -219,7 +219,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |The term "green card" has since become a part of computing folklore and is still used today to refer to reference cards or quick reference guides for computer systems, even if they are not green in color. The green card continues to be a symbol of the System/370 architecture and its lasting influence on the computing industry.|
 | *"Thank you."* |
 |You're welcome! If you have any more questions, feel free to ask.|
-That's all. Bye."* |
+| *"That's all. Bye."* |
 |Goodbye! Have a great day.
 
 ## Analysis of John F. Kennedy's Address to Rice University 
