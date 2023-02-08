@@ -153,6 +153,26 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"Thank you. You have been very helpful in my decision making process for buying a new General Motors vehicle. I'm a Chevy guy."* | 
 |You're welcome! I'm glad I could help. General Motors, including Chevrolet, have been known for providing a wide range of vehicles with the latest technology. Having knowledge of the cellular technology used in vehicles is important when considering the range of services available on the car. You might want to check the specific models and options available to make sure you're getting the cellular technology that is best suited to your needs and preferences. Don't hesitate to reach out if you have any further questions, I'll be happy to help. And as a Chevy guy, I'm sure you'll find the perfect vehicle that meets your needs and preferences! |
 
+## Metric System Use by American Automobile Manufacturers for Engine Displacements 
+
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/chat) |
+|----|
+| *"Greetings Assistant."* |
+|Hello! How can I help you today?|
+| *"I have a question that has been bugging me for the longest time. The United States has never adopted the metric system of measurement. Why do American automotive manufacturers use the metric system for engine displacements? All those classic engines like the 305, 327, 350, and 427 are missing from car conversations. Even the 454. Why is that?"* |
+|American automotive manufacturers have been using the metric system for engine displacements for many years because it is the most widely used system of measurement in the world, and it makes it easier for them to do business with international companies and sell their products globally. The metric system is also used in the design and manufacture of automotive parts, so it makes sense to use it for engine displacements as well.|
+|While the classic engines you mentioned were often referred to by their cubic inch displacement, the actual measurement used by manufacturers is cubic centimeters (cc) or liters. This measurement is easier to work with in terms of engine design and engineering, and it is consistent with the rest of the metric system used in the automotive industry.|
+| So, while the United States may not have officially adopted the metric system, many industries, including the automotive industry, have found it beneficial to use it in their day-to-day operations.|
+| *"But in the U.S., they can tailor it for cubic inches. Why not post metric and English displacements on the Monroney paper? That would satisfy the world."* |
+|You're correct, in the U.S. automotive industry it is common to provide engine displacement specifications in both cubic inches and liters, to make it easier for customers to understand.|
+|Including both metric and English units on the Monroney sticker, also known as the window sticker, is a good suggestion as it would make it easier for consumers to understand the engine specifications and make informed purchasing decisions, regardless of their preferred system of measurement.|
+|However, this practice may not be universal, as different manufacturers may have their own policies and ways of presenting information on the Monroney sticker.|
+|Nevertheless, including both metric and English units would certainly help to make the information more accessible to a wider range of consumers.|
+| *"Thank you."* |
+|You're welcome! If there's anything else you need, feel free to ask.|
+| *"Goodbye."* |
+|Goodbye! Have a great day!|
+
 ## [Ralph Hightower LinkedIn Profile](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
 
 | RalphHightower / **[ChatGPT](https://chat.openai.com/)** |
