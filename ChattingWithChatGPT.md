@@ -563,6 +563,62 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"No, this is a song by Pink Floyd."* |
 | **[ChatGPT](https://chat.openai.com/chat):** My apologies, you are correct. The lyrics are from "Learning to Fly" by Pink Floyd, from the album "A Momentary Lapse of Reason". The song is about a person's journey to escape the constraints of their life and find the freedom of flight. The person is determined to overcome their limitations, despite the difficulties and challenges they face, and is seeking to find their place in the world. The lyrics reflect a sense of longing and hope for a better life, and a desire to soar above the ordinary.|
 
+## Walk of Life by Dire Straits 
+
+| Walk of Life — Dire Straits |
+|----|
+|Here comes Johnny singing oldies, goldies|
+|"Be-Bop-A-Lula, " "Baby What I Say"|
+Here comes Johnny singing, "I Gotta Woman"|
+|Down in the tunnels, trying to make it pay|
+|He got the action, he got the motion|
+|Oh yeah, the boy can play|
+|Dedication, devotion|
+|Turning all the night time into the day|
+|He do the song about the sweet lovin' woman|
+He do the song about the knife|
+He do the walk, do the walk of life|
+|Yeah, he do the walk of life|
+|Woohoo|
+|Here comes Johnny, gonna tell you the story|
+|Hand me down my walkin' shoes|
+|Here comes Johnny with the power and the glory|
+|Backbeat the talkin' blues|
+|He got the action, he got the motion|
+|Yeah, the boy can play|
+|Dedication, devotion|
+|Turning all the night time into the day|
+The song about the sweet lovin' woman|
+|He do the song about the knife|
+|Then he do the walk, do the walk of life|
+|Yeah, he do the walk of life|
+|Woohoo-hoo|
+Here comes Johnny singing oldies, goldies
+|"Be-Bop-A-Lula, " "Baby What I Say"|
+|Here comes Johnny singing, "I Gotta Woman"
+|Down in the tunnels, trying to make it pay|
+He got the action, he got the motion|
+|Oh yeah, the boy can play|
+|Dedication, devotion|
+|Turning all the night time into the day|
+|And after all the violence and double talk|
+|There's just a song in all the trouble and the strife|
+|You do the walk, yeah, you do the walk of life|
+|Hmm, they do the walk of life|
+|Woohoo|
+|Woohoo-hoo|
+|Woohoo-hoo
+|Woohoo|
+|Woohoo-hoo|
+|"Here Comes Johnny" is a song that describes a musician, Johnny, who performs oldies and goldies, sings about love and women, and has the ability to turn the night into day with his music. He has dedication and devotion to his craft and performs the "walk of life," which is a reference to his journey through life and his experiences. The song celebrates Johnny's music and the power it holds.|
+| *"No, that's Dire Straits "Walk of Life""* |
+|Yes, you are correct. "Walk of Life" is a song by the British rock band Dire Straits, released in 1985. The song has been described as a celebration of working-class life and the struggles and triumphs that come with it. The lyrics and upbeat rhythm reflect a positive outlook and appreciation for life's journey.|
+| *"Yes."* |
+|Okay, great. Is there anything else I can assist you with?|
+| *"No. Thank you."* |
+|You're welcome! If you need anything else in the future, feel free to ask. Have a great day!|
+
+
 ## Smoke on the Water by Deep Purple 
 
 | Smoke on the Water — Deep Purple |
