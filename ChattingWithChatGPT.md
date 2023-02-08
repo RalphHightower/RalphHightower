@@ -173,7 +173,13 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"Goodbye."* |
 |Goodbye! Have a great day!|
 
-## [Ralph Hightower LinkedIn Profile](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
+## Linux File Systems 
+
+| Article |
+|----|
+| [Linux File System Types Explained, Which One Should You Use](https://linuxiac.com/linux-file-system-types-explained-which-one-should-you-use/)
+
+## [ *Ralph Hightower LinkedIn Profile* ](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
 
 | RalphHightower / **[ChatGPT](https://chat.openai.com/)** |
 |-----|
