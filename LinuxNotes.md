@@ -13,7 +13,7 @@
 | /lib |	Contains shared library files that are required to boot the system. | N |
 | /media	| A place to mount external removable media devices such as USB thumb drives that may be connected to the host. | N |
 | /mnt	| A temporary mountpoint for regular filesystems (as in not removable media) that can be used while the administrator is repairing or working on a filesystem. | N |
-| /opt |	Optional files such as vendor supplied application programs should be located here. | N |
+| /opt |	Optional files such as vendor supplied application programs should be located here. | Y |
 | /root	| This is not the root (/) filesystem. It is the home directory for the root user. | N |
 | /sbin	| System binary files. These are executables used for system administration. | N |
 | /tmp	| Temporary directory. Used by the operating system and many programs to store temporary files. Users may also store files here temporarily. Note that files stored here may be deleted at any time without prior notice. | ? |
