@@ -264,9 +264,8 @@
 | [Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/) |
 | [Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/?amp=1) |
 | [New NVIDIA Jetson Orin NX 16GB launches worldwide from $599](https://www.geeky-gadgets.com/nvidia-jetson-orin-nx-25-01-2023/) |
-| [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summer](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
+| [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summerb2023](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
 | [ESP32 OpenMQTTGateway smart plug acts as an BLE MQTT gateway and a power meter](https://www.cnx-software.com/2023/01/26/esp32-openmqttgateway-smart-plug-acts-as-an-ble-mqtt-gateway-and-a-power-meter/) |
-| [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summer](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
 | [RAK2560 WisNode LoRaWAN & BLE Sensor Hub ships with a choice of sensor modules](https://www.cnx-software.com/2022/11/26/rak2560-wisnode-lorawan-ble-sensor-hub-ships-with-a-choice-for-sensor-modules/) |
 |[Theengs open-source tools to decode BLE sensors work on ESP32, Raspberry Pi, Android phone, etc…](https://www.cnx-software.com/2022/07/22/theengs-open-source-tools-to-decode-ble-sensors-work-on-esp32-raspberry-pi-android-phone/) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
