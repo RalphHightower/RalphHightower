@@ -11,6 +11,12 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
+## Kubernetes 
+
+| Kubernetes |
+|----|
+| [Developer Portals Can Abstract away Kubernetes Complexity](https://thenewstack.io/developer-portals-can-abstract-away-kubernetes-complexity/) |
+
 ## Facebook[^2]
 
 | [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/) |
