@@ -162,15 +162,15 @@
 | [Sipeed M1s & M0sense – Low-cost BL808 & BL702 based AI modules (Crowdfunding)](https://www.cnx-software.com/2022/11/14/sipeed-m1s-m0sense-low-cost-bl808-bl702-ai-modules/) |
 | [Orange Pi 5 lands for US$60 with Rockchip RK3588S and 4 GB of LPDDR4X RAM](https://www.notebookcheck.net/Orange-Pi-5-lands-for-US-60-with-Rockchip-RK3588S-and-4-GB-of-LPDDR4X-RAM.668640.0.html) |
 | [Radxa And OKdo Reveal RK3588-powered ROCK 5 Board](https://www.tomshardware.com/news/rock5-sbc-rk3588) |
-| [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/?amp=1) |
-| [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/?amp=1) |
+| [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/) |
+| [Hailo-8 M.2 and mini PCIe AI accelerator cards deliver up to 26 TOPS](https://www.cnx-software.com/2020/10/02/hailo-8-m-2-and-mini-pcie-ai-accelerator-cards-deliver-up-to-26-tops/) |
 | [ROCK Pi 4 Model C+ SBC features 1.5 GHz Rockchip RK3399-T CPU, dual HDMI output](https://www.cnx-software.com/2022/05/05/rock-pi-4-model-c-sbc-features-1-5-ghz-rockchip-rk3399-t-cpu-dual-hdmi-output/) |
 | [You can now buy Khadas VIM4 SBC for $199.90](https://www.cnx-software.com/2022/05/10/buy-khadas-vim4-sbc/) |
 | [Banana Pi BPI-CM4 compute module with Amlogic A311D is pin compatible with Raspberry Pi CM4](https://liliputing.com/banana-pi-bpi-cm4-compute-module-with-amlogic-a311d-is-pin-compatible-with-raspberry-pi-cm4/) |
-| [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/?amp=1) |
+| [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html) |
 | [Full-size Doctor Who K9 replica](https://www.raspberrypi.com/news/full-size-doctor-who-k9-replica/) |
-| [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/?amp=1) |
+| [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/) |
 | [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
 | [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
 | [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
@@ -187,7 +187,7 @@
 | [Mekotronics R58 review – Part 2: Android 12 on Rockchip RK3588 CPU](https://www.cnx-software.com/2022/07/13/mekotronics-r58-review-android-12-on-rockchip-rk3588-cpu/) |
 | [Khadas VIM4 SBC Review – Part 1: Unboxing, kit assembly, and first boot with OOWOW](https://www.cnx-software.com/2022/04/28/khadas-vim4-review-part-1-unboxing-kit-assembly-and-first-boot-with-oowow/) |
 | [Khadas VIM4 SBC Review – Part 2: Android 11 preview and benchmarks](https://www.cnx-software.com/2022/05/07/khadas-vim4-review-part-2-android-11-preview-and-benchmarks/) |
-| [Khadas VIM4 SBC review – Part 3: Ubuntu 22.04](https://www.cnx-software.com/2022/05/29/khadas-vim4-review-ubuntu-22-04/?amp=1) |
+| [Khadas VIM4 SBC review – Part 3: Ubuntu 22.04](https://www.cnx-software.com/2022/05/29/khadas-vim4-review-ubuntu-22-04/) |
 | [Raspberry Pi Compute Module 4S Mysteriously Revealed?](https://www.tomshardware.com/news/raspberry-pi-cm-4s-mysteriously-announced) |
 | [Render Shows New Raspberry Pi Compute Module 4 Alternative From Banana Pi](https://www.tomshardware.com/news/banana-pi-rpi-alternative)|
 | [Armbian 22.11 released with 64-bit RISC-V UEFI, ultra](https://www.cnx-software.com/2022/12/06/armbian-22-11-64-bit-risc-v-uefi-ultra-minimal-images/) |
@@ -197,14 +197,14 @@
 | [Build your own Raspberry Pi flight tracker](https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/) |
 | [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
 | [TwoTrees TS2 laser engraver review – Part 2: A beginner’s experience with LaserGRBL and MKSLaser](https://www.cnx-software.com/2023/01/16/twotrees-ts2-laser-engraver-review-part-2-lasergrbl-mkslaser/) |
-| [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/?amp=1) |
-| [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/?amp=1) |
-| [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/?amp=1) |
+| [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/) |
+| [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/) |
+| [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/) |
 | [Linux 6.1 LTS release – Main changes, Arm, RISC-V and MIPS architectures](https://www.cnx-software.com/2022/12/13/linux-6-1-lts-release-main-changes-arm-risc-v-and-mips-architectures/) |
 | [FNIRSI 1013D teardown and mini review – A portable oscilloscope based on Allwinner CPU & Anlogic FGPA](https://www.cnx-software.com/2022/11/16/fnirsi-1013d-teardown-and-mini-review-a-portable-oscilloscope-based-on-allwinner-cpu-anlogic-fgpa/) |
 | [Allwinner T3 automotive-grade processor powers industrial-grade SoM](https://www.cnx-software.com/2022/11/23/allwinner-t3-automotive-grade-processor-powers-industrial-grade-som/) |
 | [Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor](https://www.cnx-software.com/2022/12/27/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/) |
-| [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/?amp=1) |
+| [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/) |
 | [Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [CANFDuino – A Dual CAN Arduino based platform with enclosure, proto area (Crowdfunding)](https://www.cnx-software.com/2022/02/15/canfduino-dual-can-arduino-based-platform-with-enclosure-proto-area/) |
@@ -216,14 +216,14 @@
 | [Orange Pi 5 Review – Powerful, No WiFi](https://jamesachambers.com/orange-pi-5-review/) |
 | [Orange Pi 5](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) | (H/W) |
 | [Khadas Edge2 review with Android 12](https://www.cnx-software.com/2022/10/04/khadas-edge2-review-with-android-12/) |
-| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/?amp=1) |
+| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
 | [Latest Raspberry Pi OS Release Brings Improved Camera and Networking Support](https://www.tomshardware.com/news/new-raspberry-pi-os-release-improved-camera-and-networking) |
 | [Raspberry Pi Modular Mini PC Pockit Now Uses Compute Module 4](https://www.tomshardware.com/news/raspberry-pi-pockit-modular-pc-cm4) |
 | [Khadas VIM3 Review – Part 1: Kit Unboxing and Assembly](https://www.cnx-software.com/2019/07/01/khadas-vim3-review-kit-unboxing-assembly/) |
 | [Khadas VIM3 (Amlogic A311D) Benchmarks & System Info in Android 9](https://www.cnx-software.com/2019/07/29/khadas-vim3-amlogic-a311d-benchmarks-system-info-in-android-9-0/) |
 | [Android Gaming on Khadas VIM3 SBC (Video)](https://www.cnx-software.com/2019/08/03/android-gaming-on-khadas-vim3-sbc-video/) |
 | [SunFounder Raspberry Pi 7 Inch Touchscreen review](https://the-gadgeteer.com/2022/07/17/sunfounder-raspberry-pi-7-inch-touchscreen-review/) |
-| [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/?amp=1) |
+| [Khadas Edge2 Pro review – A Rockchip RK3588S SBC tested with Ubuntu 22.04](https://www.cnx-software.com/2022/09/20/khadas-edge2-pro-review-rockchip-rk3588s-sbc-ubuntu-22-04/) |
 | [ROCK5 Model B RK3588 single board computer is up for pre-order for $79 and up](https://www.cnx-software.com/2022/01/09/rock5-model-b-rk3588-single-board-computer/) |
 | [ROCK 5B developer edition preview – Part 1: Unboxing and first boot to Debian 11](https://www.cnx-software.com/2022/07/05/rock-5b-developer-edition-preview-part-1-unboxing-and-first-boot-to-debian-11/) |
 | [Rock 5B RK3588 SBC preview – What works, what doesn’t in Debian 11](https://www.cnx-software.com/2022/07/20/rock-5b-rk3588-sbc-preview-what-works-what-doesnt-in-debian-11/) |
@@ -237,7 +237,7 @@
 | [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 | [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
-| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/?amp=1) |
+| [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
 | [SPACEBALLS GET SERIALIZED](https://hackaday.com/2023/01/09/spaceballs-get-serialized/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
 | [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
@@ -258,11 +258,11 @@
 | [NVIDIA Jetson Orin Nano – A new Beast! ](https://jetsonhacks.com/2022/09/20/nvidia-jetson-orin-nano-a-new-beast/) |
 | [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/#cid=em19_so-twit_en-us) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.cnx-software.com/2023/01/17/edatec-cm4-sensing-industrial-computer-offers-can-bus-rs485-and-rs232-interfaces/) |
-| [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/?amp=1) |
+| [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/) |
 | [CHIPSEA CST85F01 480 MHz Cortex-M4 MCU supports dual-band WiFi 6 and Bluetooth 5.0 LE](https://www.cnx-software.com/2023/01/19/chipsea-cst85f01-480-mhz-cortex-m4-mcu-supports-dual-band-wifi-6-and-bluetooth-5-0-le/) |
 | [NVIDIA Grace CPU Superchip Architecture In Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/) |
 | [Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/) |
-| [Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/?amp=1) |
+| [Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/) |
 | [New NVIDIA Jetson Orin NX 16GB launches worldwide from $599](https://www.geeky-gadgets.com/nvidia-jetson-orin-nx-25-01-2023/) |
 | [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summerb2023](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
 | [ESP32 OpenMQTTGateway smart plug acts as an BLE MQTT gateway and a power meter](https://www.cnx-software.com/2023/01/26/esp32-openmqttgateway-smart-plug-acts-as-an-ble-mqtt-gateway-and-a-power-meter/) |
@@ -271,7 +271,7 @@
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
 | [Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)<br>$99 for the 4GB model, $119 for the 8GB model, and $159 for the 16GB model |
 |[ON XGO 2 – A RASPBERRY PI CM4 BASED ROBOT DOG WITH AN ARM (CROWDFUNDING)](https://www.cnx-software.com/2023/02/01/xgo-2-a-raspberry-pi-cm4-robot-dog-robotic-arm/) |
-| [WinLink E850-96Board SBC is powered by Samsung Exynos 850 Octa-core Cortex-A55 SoC](https://www.cnx-software.com/2023/02/01/winlink-e850-96board-sbc-samsung-exynos-850/?amp=1) |
+| [WinLink E850-96Board SBC is powered by Samsung Exynos 850 Octa-core Cortex-A55 SoC](https://www.cnx-software.com/2023/02/01/winlink-e850-96board-sbc-samsung-exynos-850/) |
 | [Rockchip RK3588 system-on-module exposes 400 pins through high-density connectors](https://www.cnx-software.com/2022/12/14/rockchip-rk3588-system-on-module-exposes-400-pins-through-high-density-connectors/) |
 | [VAR-SOM-AM62 System-on-Module features TI AM625x Cortex-A53/M4 SoC](https://www.cnx-software.com/2023/02/07/var-som-am62-system-on-module-features-ti-am625x-cortex-a53-m4-soc/) |
 
