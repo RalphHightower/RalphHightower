@@ -80,6 +80,11 @@
 || [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
 || [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
 
+| Documentation |
+|----|
+| [NVIDIA Jetson Developer Documentation](https://developer.nvidia.com/) |
+
+
 | Suppliers |
 |----|
 | [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
