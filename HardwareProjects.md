@@ -1,5 +1,11 @@
 # Hardware Projects 
 
+| Resource |
+|------|
+| [Raspberry PI Locater](https://rpilocator.com/) |
+| [Single Board Computer Database](https://hackerboards.com/) |
+| [FindBoard Workshop](https://www.findboard.cn/#/home) |
+
 ## Active Projects
 
 ### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [TuringPi V1 (7 Node) Documentation](https://docs.turingpi.com/)
