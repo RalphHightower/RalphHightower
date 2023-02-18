@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.0](https://github.com/RalphHightower/RalphHightower/compare/v1.14.8...v1.15.0) (2023-02-18)
+
+
+### Features
+
+* (closes [#785](https://github.com/RalphHightower/RalphHightower/issues/785)) rearrange project order ([99406ef](https://github.com/RalphHightower/RalphHightower/commit/99406ef4aa2269f3045d35db79cb1de9f3edfcfc))
+
 ## [1.14.8](https://github.com/RalphHightower/RalphHightower/compare/v1.14.7...v1.14.8) (2023-02-11)
 
 
