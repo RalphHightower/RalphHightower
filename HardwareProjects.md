@@ -1,5 +1,15 @@
 # Hardware Projects 
 
+## Active Projects
+
+## Planned Projects
+
+## Possible Projects
+
+## Completed Projects
+
+## Kickstarter Backed Projects 
+
 ## Documentation / Resources 
 
 | Documentation |
@@ -13,8 +23,6 @@
 | [Arm Software](https://github.com/ARM-software) |
 | [Blues Cellular](https://dev.blues.io/) |
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
-
-
 
 ## Planned Projects 
 
