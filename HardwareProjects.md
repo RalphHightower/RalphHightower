@@ -2,6 +2,69 @@
 
 ## Active Projects
 
+### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [TuringPi V1 (7 Node) Documentation](https://docs.turingpi.com/)
+
+| Node | SBC | RAM | SSD |
+|------|-----|-----|-----|
+| 1 | NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
+| 2 | NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
+| *3* | *Raspberry Pi CM4* |   |   |
+| *4* | *Raspberry Pi CM4* |   |   |
+
+| Product | Vendor | Turing Pi Compatible |
+|----|----|----|
+| Raspberry Pi CM4 || ✓ |
+| NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
+| NVIDIA Jetson AGX Xavier 64GB | [Arrow](https://www.arrow.com/en/products/900-82888-0050-000/nvidia) $1,399.00  |  |
+| NVIDIA Jetson AGX Xavier | [Arrow](https://www.arrow.com/products/900-82888-0040-000/nvidia) $999.00  | |
+| NVIDIA Jetson AGX Xavier Industrial | [Arrow](https://www.arrow.com/products/900-82888-0080-000/nvidia) $1,449.00 | |
+| NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br>(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
+| NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br>(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
+| NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-13636-0010-000/nvidia) $199.00  | ✓ |
+| NVIDIA Jetson TX2i | [Arrow](https://www.arrow.com/en/products/900-83489-0000-000/nvidia) $849.00  | |
+| NVIDIA Jetson TX2 4GB | [Arrow](https://www.arrow.com/en/products/900-83489-0080-000/nvidia) $299.00  |  |
+| NVIDIA Jetson Nano<br>(Jetson Nano System-on-Module (SOM): 128-Core Maxwell GPU, 4-Core 64-bit ARM CPU, 4GB LPDDR4, 16GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) $129.00 | ✓ |
+| NVIDIA Jetson Nano Developer Kit | [Arrow](https://www.arrow.com/products/945-13450-0000-100/nvidia) $149.00  | |
+|| [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/) $129.00  ||
+|| [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
+|| [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
+|| [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
+
+| Documentation |
+|----|
+| [NVIDIA Jetson Developer Documentation](https://developer.nvidia.com/) |
+
+
+| Suppliers |
+|----|
+| [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
+| [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
+
+### [StarFiveTech VisionFive2]()
+
+| VisionFive2 | RAM | SSD |
+|----|----|----|
+| 1. |  |  |
+| 2. |  |  |
+
+### [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start)
+
+| SBC | RAM | SSD (NVMe) |
+|---|---|---|
+
+| Documentation |
+|-----|
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+
+### [Raspberry Pi4 8GB](https://www.raspberrypi.com/)
+
+| SBC | RAM | SSD (USB-C) |
+|---|---|---|
+
+| Documentation |
+|-----|
+| [Raspberry Pi](https://www.raspberrypi.com/) |
+
 ## Planned Projects
 
 ## Possible Projects
@@ -11,11 +74,6 @@
 ## Kickstarter Backed Projects 
 
 ## Documentation / Resources 
-
-| Documentation |
-|-----|
-| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
-| [Raspberry Pi](https://www.raspberrypi.com/) |
 
 | Resources |
 |----|
@@ -66,37 +124,6 @@
 | [SparkFun MicroMod Input and Display Carrier Board](https://www.sparkfun.com/products/16985) | [SparkFun MicroMod Input and Display Carrier Board Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide/all) | [SparkFun MicroMod Input and Display Carrier Board](https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier) |
 | [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
 | [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
-
-## [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [TuringPi V1 (7 Node) Documentation](https://docs.turingpi.com/)
-
-| Product | Vendor | Turing Pi Compatible |
-|----|----|----|
-| Raspberry Pi CM4 || ✓ |
-| NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
-| NVIDIA Jetson AGX Xavier 64GB | [Arrow](https://www.arrow.com/en/products/900-82888-0050-000/nvidia) $1,399.00  |  |
-| NVIDIA Jetson AGX Xavier | [Arrow](https://www.arrow.com/products/900-82888-0040-000/nvidia) $999.00  | |
-| NVIDIA Jetson AGX Xavier Industrial | [Arrow](https://www.arrow.com/products/900-82888-0080-000/nvidia) $1,449.00 | |
-| NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br>(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
-| NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br>(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
-| NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-13636-0010-000/nvidia) $199.00  | ✓
-| NVIDIA Jetson TX2i | [Arrow](https://www.arrow.com/en/products/900-83489-0000-000/nvidia) $849.00  | |
-| NVIDIA Jetson TX2 4GB | [Arrow](https://www.arrow.com/en/products/900-83489-0080-000/nvidia) $299.00  |  |
-| NVIDIA Jetson Nano<br>(Jetson Nano System-on-Module (SOM): 128-Core Maxwell GPU, 4-Core 64-bit ARM CPU, 4GB LPDDR4, 16GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) $129.00 | ✓ |
-| NVIDIA Jetson Nano Developer Kit | [Arrow](https://www.arrow.com/products/945-13450-0000-100/nvidia) $149.00  | |
-|| [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/) $129.00  ||
-|| [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
-|| [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
-|| [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
-
-| Documentation |
-|----|
-| [NVIDIA Jetson Developer Documentation](https://developer.nvidia.com/) |
-
-
-| Suppliers |
-|----|
-| [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
-| [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
 
 
 <hr>
