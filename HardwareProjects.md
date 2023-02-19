@@ -49,8 +49,8 @@
 
 | VisionFive2 | CPU | RAM | SSD |
 |----|----|----|---|
-| 1. | RISC-V | 8GB |  |
-| 2. | RISC-V | 8GB |  |
+| 1. [VisionFive2]() | RISC-V | 8GB |  |
+| 2. [VisionFive2]() | RISC-V | 8GB |  |
 
 | Reference | Purpose |
 |---|---|
