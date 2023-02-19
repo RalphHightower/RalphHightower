@@ -47,16 +47,25 @@
 
 ### [StarFiveTech VisionFive2]()
 
-| VisionFive2 | RAM | SSD |
-|----|----|----|
-| 1. |  |  |
-| 2. |  |  |
+| VisionFive2 | CPU | RAM | SSD |
+|----|----|----|---|
+| 1. | RISC-V | 8GB |  |
+| 2. | RISC-V | 8GB |  |
+
+| Reference | Purpose |
+|---|---|
+| [StarFiveTech VisionFive2 SDK](https://github.com/starfive-tech/VisionFive2) | Builds a complete RISC-V cross-compile toolchain for the StarFiveTech JH7110 SoC. It also builds U-boot SPL, U-boot and a flattened image tree (FIT) image with a Opensbi binary, linux kernel, device tree, ramdisk image and rootfs image for the JH7110 VisionFive2 board. |
+| [Linux kernel for StarFive's JH7100 RISC-V SoC](https://github.com/starfive-tech/linux) |The JH7100 is a Linux-capable dual-core 64bit RISC-V SoC and this tree is meant to collect all the in-development patches for running Linux on boards using this. So far there are two such boards and both are supported by this tree.|
+| [StarFive Technical Documentation](https://github.com/starfive-tech/JH7100_Docs) | Technical Documentation |
+| [StarFiveTech VisionFive2](https://doc-en.rvspace.org/Doc_Center/visionfive_2.html) | VisionFive2 documentation |
+| [StarFiveTech GitHub](https://github.com/starfive-tech) | GitHub |
+
 
 ### [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start)
 
-| SBC | RAM | SSD (NVMe) |
-|---|---|---|
-|   |   |   |
+| SBC | CPU | RAM | SSD (NVMe) |
+|---|---|---|---|
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) | ARM | 4GB | [Intel 2TB 670p NVMe M.2 Internal SSD](https://www.bhphotovideo.com/c/product/1635040-REG/intel_ssdpeknu020tzx1_2tb_670p_ssd_m_2.html) |
 
 | Documentation |
 |-----|
@@ -64,17 +73,27 @@
 
 ### [Raspberry Pi4 8GB](https://www.raspberrypi.com/)
 
-| SBC | RAM | SSD (USB-C) |
-|---|---|---|
-|   |   |   |
+| SBC | CPU | RAM | SSD (USB-C) |
+|---|---|---|---|
+| [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
 
 | Documentation |
 |-----|
 | [Raspberry Pi](https://www.raspberrypi.com/) |
 
-## Planned Projects
+### Planned Projects 
 
-## Possible Projects
+| Planned Projects |
+|----|
+| [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
+
+### Possible Projects 
+
+| Possible Projects |
+|------|
+| **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
+| [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
+| [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
 
 ## Completed Projects
 
@@ -93,11 +112,6 @@
 | [Remote Monitoring Feature for the Red Reactor](https://github.com/Scally-H/RedReactor/tree/main/RR_WebMonitor) | The Red Reactor now provides a remote monitoring feature that enables you to see the status information at a glance from your web-browser. |
 | [RR Battery Monitor Background App](https://github.com/Scally-H/RedReactor/tree/main/RR_BatMonitor) | This Red Reactor Battery Monitor Background App is an application designed for systems without a display ('Headless'), or are remotely located, or just need to run largely un-attended. |
 | [RS485 CAN HAT For Raspberry Pi](https://github.com/sbcshop/RS485-CAN-HAT) | RS485 CAN HAT is a multi node communication module, to communicate with devices in a long-range, designed dedicatedly for Raspberry Pi with an operating voltage of 3.3 V, CAN controller MCP2515 via SPI interface, onboard transceiver SN65HVD230 that is controlled via UART. It is built to support automatic TX/RX control without programming. It performs half-duplex communication and it has an onboard transceiver SP3485. |
-| [StarFiveTech VisionFive2 SDK](https://github.com/starfive-tech/VisionFive2) | Builds a complete RISC-V cross-compile toolchain for the StarFiveTech JH7110 SoC. It also builds U-boot SPL, U-boot and a flattened image tree (FIT) image with a Opensbi binary, linux kernel, device tree, ramdisk image and rootfs image for the JH7110 VisionFive2 board. |
-| [Linux kernel for StarFive's JH7100 RISC-V SoC](https://github.com/starfive-tech/linux) |The JH7100 is a Linux-capable dual-core 64bit RISC-V SoC and this tree is meant to collect all the in-development patches for running Linux on boards using this. So far there are two such boards and both are supported by this tree.|
-| [StarFive Technical Documentation](https://github.com/starfive-tech/JH7100_Docs) | Technical Documentation |
-| [StarFiveTech VisionFive2](https://doc-en.rvspace.org/Doc_Center/visionfive_2.html) | VisionFive2 documentation |
-| [StarFiveTech GitHub](https://github.com/starfive-tech) | GitHub |
 
 ## Documentation / Resources 
 
@@ -107,21 +121,6 @@
 | [Arm Software](https://github.com/ARM-software) |
 | [Blues Cellular](https://dev.blues.io/) |
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
-
-## Planned Projects 
-
-| Planned Projects |
-|----|
-| [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
-
-## Possible Projects 
-
-| Possible Projects |
-|------|
-| **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
-| [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
-| [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
-
 
 ### PTP Clock (Precision Time Protocol)
 
