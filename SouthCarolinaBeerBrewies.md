@@ -20,6 +20,7 @@
 | COAST Brewing Co.[^1] | North Charleston | 2007 |
 | [Columbia Craft Brewing Company](https://www.columbiacraft.com/)[^1] | Columbia | 2017 |
 | [Commonhouse Aleworks](https://www.commonhousealeworks.com)[^1] | North Charleston | 2018 |
+| ~~Conquest Brewing~~[^11] | Columbia ||
 | [Cooper River Brewing Company](https://cooperriverbrewing.com/)[^1] | Charleston | 2015 |
 | [CottonTown Brew Lab](http://ctbl.azurewebsites.net/)[^3] | Columbia ||
 | Crooked Hammock Brewery[^3] | North Myrtle Beach ||
@@ -111,3 +112,4 @@
 [^8]: 2022-11-10 Total Wine and More
 [^9]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
 [^10]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
+[^11]: 2023-02-20 [Columbia brewers still adjusting to shifting craft beer climate](https://www.postandcourier.com/columbia/columbia-brewers-still-adjusting-to-shifting-craft-beer-climate/article_8f043762-aee9-11ed-aa1c-6f3c503722ad.html) 
