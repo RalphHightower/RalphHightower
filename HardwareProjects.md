@@ -1,6 +1,6 @@
 # Hardware Projects 
 
-| Resource |
+| Resources |
 |------|
 | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Single Board Computer Database](https://hackerboards.com/) |
@@ -60,7 +60,6 @@
 | [StarFiveTech VisionFive2](https://doc-en.rvspace.org/Doc_Center/visionfive_2.html) | VisionFive2 documentation |
 | [StarFiveTech GitHub](https://github.com/starfive-tech) | GitHub |
 
-
 ### [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start)
 
 | SBC | CPU | RAM | SSD (NVMe) |
@@ -81,13 +80,17 @@
 |-----|
 | [Raspberry Pi](https://www.raspberrypi.com/) |
 
-### Planned Projects 
+<hr>
+
+## Planned Projects 
 
 | Planned Projects |
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 
-### Possible Projects 
+<hr>
+
+## Possible Projects 
 
 | Possible Projects |
 |------|
@@ -95,7 +98,11 @@
 | [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
 | [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
 
+<hr>
+
 ## Completed Projects
+
+<hr>
 
 ## Kickstarter Backed Projects 
 
@@ -112,6 +119,8 @@
 | [Remote Monitoring Feature for the Red Reactor](https://github.com/Scally-H/RedReactor/tree/main/RR_WebMonitor) | The Red Reactor now provides a remote monitoring feature that enables you to see the status information at a glance from your web-browser. |
 | [RR Battery Monitor Background App](https://github.com/Scally-H/RedReactor/tree/main/RR_BatMonitor) | This Red Reactor Battery Monitor Background App is an application designed for systems without a display ('Headless'), or are remotely located, or just need to run largely un-attended. |
 | [RS485 CAN HAT For Raspberry Pi](https://github.com/sbcshop/RS485-CAN-HAT) | RS485 CAN HAT is a multi node communication module, to communicate with devices in a long-range, designed dedicatedly for Raspberry Pi with an operating voltage of 3.3 V, CAN controller MCP2515 via SPI interface, onboard transceiver SN65HVD230 that is controlled via UART. It is built to support automatic TX/RX control without programming. It performs half-duplex communication and it has an onboard transceiver SP3485. |
+
+<hr>
 
 ## Documentation / Resources 
 
