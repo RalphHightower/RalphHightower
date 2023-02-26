@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.1](https://github.com/RalphHightower/RalphHightower/compare/v1.15.0...v1.15.1) (2023-02-26)
+
+
+### Bug Fixes
+
+* (closes [#806](https://github.com/RalphHightower/RalphHightower/issues/806)), also rearranged sessions logically by groups ([59f4c19](https://github.com/RalphHightower/RalphHightower/commit/59f4c19101145570469f6e9a83fae749ea125665))
+
 ## [1.15.0](https://github.com/RalphHightower/RalphHightower/compare/v1.14.8...v1.15.0) (2023-02-18)
 
 
