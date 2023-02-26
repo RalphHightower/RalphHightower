@@ -1,6 +1,8 @@
 # Chatting with [ChatGPT](https://chat.openai.com/)
 
-## Chevrolet's new mid-engine Corvette 
+## Cars/Trucks
+
+### Chevrolet's new mid-engine Corvette 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
@@ -41,7 +43,33 @@
 | *"Thank you. That's all."* |
 |You're welcome! If you need anything else, don't hesitate to reach out. Have a great day!|
 
-## DEC VAX Family
+#### Metric System Use by American Automobile Manufacturers for Engine Displacements 
+
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/chat) |
+|----|
+| *"Greetings Assistant."* |
+|Hello! How can I help you today?|
+| *"I have a question that has been bugging me for the longest time. The United States has never adopted the metric system of measurement. Why do American automotive manufacturers use the metric system for engine displacements? All those classic engines like the 305, 327, 350, and 427 are missing from car conversations. Even the 454. Why is that?"* |
+|American automotive manufacturers have been using the metric system for engine displacements for many years because it is the most widely used system of measurement in the world, and it makes it easier for them to do business with international companies and sell their products globally. The metric system is also used in the design and manufacture of automotive parts, so it makes sense to use it for engine displacements as well.|
+|While the classic engines you mentioned were often referred to by their cubic inch displacement, the actual measurement used by manufacturers is cubic centimeters (cc) or liters. This measurement is easier to work with in terms of engine design and engineering, and it is consistent with the rest of the metric system used in the automotive industry.|
+| So, while the United States may not have officially adopted the metric system, many industries, including the automotive industry, have found it beneficial to use it in their day-to-day operations.|
+| *"But in the U.S., they can tailor it for cubic inches. Why not post metric and English displacements on the Monroney paper? That would satisfy the world."* |
+|You're correct, in the U.S. automotive industry it is common to provide engine displacement specifications in both cubic inches and liters, to make it easier for customers to understand.|
+|Including both metric and English units on the Monroney sticker, also known as the window sticker, is a good suggestion as it would make it easier for consumers to understand the engine specifications and make informed purchasing decisions, regardless of their preferred system of measurement.|
+|However, this practice may not be universal, as different manufacturers may have their own policies and ways of presenting information on the Monroney sticker.|
+|Nevertheless, including both metric and English units would certainly help to make the information more accessible to a wider range of consumers.|
+| *"Thank you."* |
+|You're welcome! If there's anything else you need, feel free to ask.|
+| *"Goodbye."* |
+|Goodbye! Have a great day!
+
+<hr>
+
+## Technology 
+
+### Computers
+
+#### DEC VAX Family
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -132,7 +160,46 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don'thesitate to reach out if you have any other questions in the future.|
 
-## Q&A Session about Cellular Technology 
+#### Linux
+
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
+|-------|
+| *I  have a Raspberry Pi4 8 GB RAM, with two 1 GB SSD drives. Do you have any recommendations for Linux file system to use, and disk partitioning?* | 
+|For your Raspberry Pi4 with 8 GB of RAM and two 1 GB SSD drives, you have several options for the file system and disk partitioning, depending on your specific use case and requirements.|
+|For the file system, here are some popular options:|
+|Ext4: This is the most commonly used Linux file system and is known for its stability and reliability.|
+|Btrfs: This is a newer file system that offers advanced features such as snapshots, subvolumes, and copy-on-write.|
+|NTFS: This is a Windows file system that can be read and written to by Linux. It's not as efficient as Ext4 or Btrfs, but it may be useful if you need to share data between Windows and Linux.|
+|For disk partitioning, you can use the standard MBR (Master Boot Record) or GPT (GUID Partition Table) scheme. If your two 1 GB SSD drives are meant to be used for storage only, you can simply partition them as two separate drives and use either Ext4 or Btrfs on each one. If you want to use one of the drives as a boot drive, you'll need to partition it in a specific way to allow for booting the operating system.
+|It's also a good idea to make a backup of your data before performing any disk partitioning or file system changes, as these operations can result in data loss if not done correctly.|
+| *I was thinking about putting /home, /var, and /user on separate partitions.* |
+|Putting different directories like /home, /var, and /user on separate partitions can be a good idea for several reasons:|
+|Isolation of data: By having different directories on separate partitions, you can isolate the data and reduce the risk of data loss in case of a system failure. For example, if something goes wrong with the system files in the /var partition, it won't affect your user data stored in the /home partition.|
+|Improved performance: Having separate partitions for different directories can also improve performance by allowing you to optimize the file system for each directory's specific needs. For example, you can set a larger block size for the /var partition if it requires high write performance.|
+|Easier backups: Separate partitions for different directories make it easier to backup and restore individual parts of the system.|
+|Here's a sample disk partitioning scheme you can use:|
+|Boot partition (around 100 MB) - This partition will be used to store the boot loader and the kernel.|
+|/ partition (around 2 GB) - This partition will be used to store the root file system, including the system files and libraries.|
+|/var partition (around 2 GB) - This partition will be used to store the variable data, such as logs and database files.|
+|/home partition (the remaining space on the first drive) - This partition will be used to store the user data, such as documents and music.|
+|Second drive (the entire second drive) - This drive can be used to store additional data, such as backups or media files.|
+|Note that these are just general guidelines, and the actual size of the partitions may vary based on your specific needs and usage patterns.|
+|*I am thinking about setting them up as servers.*|
+If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to allocate separate partitions for different server components, such as /home, /var, and /usr. Here's a sample partitioning scheme that you can consider:|
+|Boot partition (around 100 MB) - This partition will be used to store the boot loader and the kernel.|
+|/ partition (around 2 GB) - This partition will be used to store the root file system, including the system files and libraries.|
+|/var partition (around 2 GB) - This partition will be used to store the variable data, such as logs, database files, and email.|
+|/usr partition (around 2 GB) - This partition will be used to store the user-specific applications and libraries.|
+|/home partition (the remaining space on the first drive) - This partition will be used to store the user data, such as documents and music.|
+|Second drive (the entire second drive) - This drive can be used to store additional data, such as backups or media files.|
+|It's worth noting that these are just general guidelines and the actual size of the partitions may vary based on the specific server components you plan to run, and the amount of data you expect to store.|
+|Additionally, it's recommended to use a file system that's optimized for server workloads, such as Ext4, XFS, or Btrfs, as these file systems are known for their stability and reliability.|
+|*Exactly! Thank you.*|
+|You're welcome! I'm glad I could help. If you have any more questions or need further clarification, feel free to ask. Good luck with setting up your servers!|
+|*That's all. Bye.*|
+|Goodbye! Have a great day.|
+
+#### Q&A Session about Cellular Technology 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-----|
@@ -153,33 +220,11 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"Thank you. You have been very helpful in my decision making process for buying a new General Motors vehicle. I'm a Chevy guy."* | 
 |You're welcome! I'm glad I could help. General Motors, including Chevrolet, have been known for providing a wide range of vehicles with the latest technology. Having knowledge of the cellular technology used in vehicles is important when considering the range of services available on the car. You might want to check the specific models and options available to make sure you're getting the cellular technology that is best suited to your needs and preferences. Don't hesitate to reach out if you have any further questions, I'll be happy to help. And as a Chevy guy, I'm sure you'll find the perfect vehicle that meets your needs and preferences! |
 
-## Metric System Use by American Automobile Manufacturers for Engine Displacements 
+<hr>
 
-| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/chat) |
-|----|
-| *"Greetings Assistant."* |
-|Hello! How can I help you today?|
-| *"I have a question that has been bugging me for the longest time. The United States has never adopted the metric system of measurement. Why do American automotive manufacturers use the metric system for engine displacements? All those classic engines like the 305, 327, 350, and 427 are missing from car conversations. Even the 454. Why is that?"* |
-|American automotive manufacturers have been using the metric system for engine displacements for many years because it is the most widely used system of measurement in the world, and it makes it easier for them to do business with international companies and sell their products globally. The metric system is also used in the design and manufacture of automotive parts, so it makes sense to use it for engine displacements as well.|
-|While the classic engines you mentioned were often referred to by their cubic inch displacement, the actual measurement used by manufacturers is cubic centimeters (cc) or liters. This measurement is easier to work with in terms of engine design and engineering, and it is consistent with the rest of the metric system used in the automotive industry.|
-| So, while the United States may not have officially adopted the metric system, many industries, including the automotive industry, have found it beneficial to use it in their day-to-day operations.|
-| *"But in the U.S., they can tailor it for cubic inches. Why not post metric and English displacements on the Monroney paper? That would satisfy the world."* |
-|You're correct, in the U.S. automotive industry it is common to provide engine displacement specifications in both cubic inches and liters, to make it easier for customers to understand.|
-|Including both metric and English units on the Monroney sticker, also known as the window sticker, is a good suggestion as it would make it easier for consumers to understand the engine specifications and make informed purchasing decisions, regardless of their preferred system of measurement.|
-|However, this practice may not be universal, as different manufacturers may have their own policies and ways of presenting information on the Monroney sticker.|
-|Nevertheless, including both metric and English units would certainly help to make the information more accessible to a wider range of consumers.|
-| *"Thank you."* |
-|You're welcome! If there's anything else you need, feel free to ask.|
-| *"Goodbye."* |
-|Goodbye! Have a great day!|
+## People 
 
-## Linux File Systems 
-
-| Article |
-|----|
-| [Linux File System Types Explained, Which One Should You Use](https://linuxiac.com/linux-file-system-types-explained-which-one-should-you-use/)
-
-## [ *Ralph Hightower LinkedIn Profile* ](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
+### [ *Ralph Hightower LinkedIn Profile* ](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
 
 | RalphHightower / **[ChatGPT](https://chat.openai.com/)** |
 |-----|
@@ -188,113 +233,6 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR was and still own and use is the Canon A-1, an innovative camera in 1980; I added a few accessories, and a few lenses. July 2013, I added one of my “bucket list” cameras, a Canon F-1N with the AE Finder FN, AE Motor Drive FN. I added digital to the mix with the Canon 5D Mark III, Canon EF 24-105mm f4L, 600 RT II."* |
 |[ChatGPT](https://chat.openai.com/): In addition to photography and software development, I have a strong interest in space and science. Growing up, I was always fascinated by the possibility of exploring and understanding the universe. This curiosity led me to pursue a degree in engineering, where I was able to learn about the principles and technologies that enable space exploration. I have also had the opportunity to witness firsthand the majesty and wonder of space travel, with the two final manned spaceflights that I was able to attend.|
 |Overall, my interests and strengths as an INTP have led me to a career in software development and a lifelong passion for space and science. I am constantly learning and seeking out new challenges, and I am excited to see where my passions will take me in the future.|
-
-## NASA Voyager 1 and 2
-
-| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
-|----|
-|Let's talk about NASA's Voyager spacecraft craft.|
-|Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
-| *"What discoveries have been found?"* |
-|The Voyager missions have made a number of significant scientific discoveries, including:|
-|Jupiter: The probes provided detailed images of Jupiter and its moons, including the first close-up images of the Great Red Spot, and discovered active volcanoes on Jupiter's moon Io.|
-|Saturn: Voyager 1 and 2 revealed Saturn's rings in much greater detail and discovered several new moons. They also provided the first close-up images of Saturn's moon Titan, which showed a hazy atmosphere and a landscape shaped by liquid methane and ethane.|
-|Uranus and Neptune: The Voyager probes were the first spacecraft to visit these two ice giants and provided the first close-up images of their atmospheres, moons, and ring systems.|
-|Interstellar Space: In 2012, Voyager 1 became the first spacecraft to cross into interstellar space, the region beyond our Solar System. It is currently transmitting data from this uncharted territory and has given scientists new insights into the structure and composition of the interstellar medium.|
-|These discoveries have revolutionized our understanding of the outer Solar System and have provided a wealth of new information about the planets, their moons, and the larger environment in which they reside.|
-| *"I think that Voyager 2 has also crossed into interstellar space."* |
-|Yes, you are correct. Voyager 2 also crossed into interstellar space in 2018, following a similar trajectory as Voyager 1. This makes Voyager 2 the second human-made object to enter interstellar space and has allowed scientists to study and compare the conditions in this region from two different perspectives. The two Voyager spacecraft continue to send back valuable data and are expected to continue operating for several more years, providing valuable information about the outer reaches of our Solar System and beyond.|
-| *"What discoveries have they reported back to NASA?"* |
-|Since their launches in 1977, the Voyager spacecraft have sent back a wealth of data and discoveries to NASA, including: Detailed images and data about the gas giants Jupiter and Saturn, including their atmospheres, moons, and ring systems.|
-|The discovery of active volcanoes on Jupiter's moon Io and evidence of subsurface oceans on several of Saturn's moons.|
-|The first close-up images and data about the ice giants Uranus and Neptune, including their atmospheres, moons, and ring systems.|
-|Evidence of a strong and dynamic magnetic field at the boundary between our Solar System and interstellar space.|
-|Measurements of cosmic rays and interstellar particles, providing new insights into the structure and composition of the interstellar medium.|
-|These discoveries have significantly advanced our understanding of the outer Solar System and beyond and have provided a wealth of new information for astronomers and planetary scientists to study. The Voyager missions continue to be a valuable source of information and data, even more than 40 years after their launch.|
-| *"What is interstellar space like?"* |
-|Interstellar space is the region beyond the borders of our Solar System, where the Sun's influence ends and the interstellar medium begins. It is a vast, mostly empty region of space that contains a mixture of gas, dust, and charged particles. Some of the characteristics of interstellar space include:|
-|Low density: Interstellar space is much less dense than the interplanetary medium within our Solar System.|
-|Magnetic fields: The interstellar medium is permeated by weak magnetic fields that can affect the motion of charged particles.|
-|Cosmic rays: Interstellar space is filled with high-energy cosmic rays, which are fast-moving particles that can penetrate solid objects and potentially pose a radiation hazard to astronauts.|
-|Dust: Interstellar space contains small grains of dust, made up of elements such as carbon and silicon, that can absorb and scatter light.|
-|These are just a few of the features of interstellar space, and scientists continue to study this region using data from the Voyager spacecraft and other probes to learn more about its structure and properties. Despite its vast size and emptiness, interstellar space is a region of active scientific inquiry and holds many secrets yet to be discovered.|
-| *"Have there been spacecraft other than Voyager to cross into interstellar space?"* |
-|As of my knowledge cutoff in 2021, the Voyager 1 and 2 spacecraft are the only human-made objects to have crossed into interstellar space. They were specifically designed and launched for the purpose of exploring the outer Solar System and beyond, and their longevity and continued operation have allowed them to make valuable observations of this region.|
-|While there have been other spacecraft that have explored the outer reaches of our Solar System, such as the Pioneer 10 and 11 spacecraft and the New Horizons probe, none have crossed into interstellar space. The Voyager spacecraft are unique in their capabilities and mission, and their data and observations continue to be an invaluable resource for scientists studying the outer Solar System and beyond.|
-| *"Thank you. You've been very helpful."* |
-| You're welcome! I'm glad I could help. If you have any more questions, feel free to ask! |
-
-## NASA Space Shuttle Computers
-
-| *"Ralph Hightower"* / [ChatGPT](https://openai.com) |
-|----|
-| *"What can you tell be about NASA's Space Shuttle?"* |
-|The Space Shuttle was a reusable spacecraft system developed by NASA for the US space program. It was used for missions between 1981 and 2011 and was designed to carry crew and cargo to low Earth orbit and back. The Space Shuttle consisted of a reusable orbiter vehicle that could carry up to eight astronauts, a large fuel tank, and two reusable solid rocket boosters. It was used for a variety of missions, including the launch and repair of satellites, the construction of the International Space Station, and the deployment of large scientific instruments. The Space Shuttle program retired after 135 missions due to the high cost of operations and maintenance, and the need for a new spacecraft to replace it.|
-| *"I'm curious being a software developer. What were the Shuttle's main computers?"* |
-|The Space Shuttle's primary flight computer system consisted of five General Purpose Computers (GPCs), each with its own processor and memory. The GPCs ran software written in the HAL/S language and were based on the IBM AP-101 computer architecture. They were responsible for controlling the shuttle's critical systems, including the main engines, the thermal protection system, and the hydraulic systems. The GPCs also processed navigation and guidance information, monitored the shuttle's systems, and supported crew activities. The system was designed to be highly redundant and to continue functioning even if one or more of the GPCs failed. The Space Shuttle's computer system was considered state-of-the-art for its time, but by today's standards, it would be considered relatively limited in terms of processing power and memory.|
-| *"Is the AP-101 architecture based on any commercial computers?"* |
-|The IBM AP-101 computer architecture used in the Space Shuttle's General Purpose Computers (GPCs) was based on the IBM System/370 architecture, which was a popular and widely used computer architecture in the 1970s and 1980s. The System/370 architecture was used in many commercial IBM mainframe computers, as well as in some scientific and engineering computers. The IBM System/370 architecture was known for its reliability, compatibility, and scalability, which made it well-suited for use in a mission-critical system like the Space Shuttle's flight computer. The IBM AP-101 computer was specifically designed for use in aerospace applications and was modified from the original System/370 architecture to meet the demanding requirements of the Space Shuttle program.|
-| *"We're there any differences in the instruction set between the AP-101 and 370?"* |
-|Yes, there were some differences in the instruction set between the IBM AP-101 computer used in the Space Shuttle and the IBM System/370 architecture upon which it was based. The AP-101 used a modified version of the System/370 instruction set, with additional instructions to support real-time processing, interrupt handling, and other requirements specific to aerospace applications. The modifications to the instruction set were made to meet the needs of the Space Shuttle program and to ensure that the flight computer could perform its critical functions reliably and in real time. The changes to the instruction set were relatively minor, however, and the overall architecture of the AP-101 was still largely compatible with the System/370 architecture. This allowed NASA to leverage existing expertise and software tools developed for the System/370, while still meeting the specific requirements of the Space Shuttle program."* |
-| *"Where can I find information about programming the AP-101"* |
-|Information about programming the IBM AP-101 computer used in the Space Shuttle can be difficult to find, as the computer was used exclusively for this program and was not commercially available. However, you may be able to find some information about the AP-101 and its programming in academic journals, conference proceedings, and historical documents related to the Space Shuttle program. You may also be able to find information about the IBM System/370 architecture, upon which the AP-101 was based, in textbooks, online resources, and other materials related to the history of computing.|
-|One place to start your research might be the NASA Technical Reports Server (NTRS), which is an online database of NASA-sponsored research and engineering reports. You can search the NTRS database for information about the Space Shuttle program and the AP-101 computer. You can also try searching online databases such as the IEEE Xplore Digital Library, the ACM Digital Library, or the arXiv preprint repository for articles and papers that may mention the AP-101 or the Space Shuttle program.|
-|Finally, you might consider reaching out to individuals who worked on the Space Shuttle program or who have experience with IBM System/370-based computers. Professional organizations and online forums related to space technology and the history of computing may be able to connect you with these individuals.|
-| *"Speaking of the 370, why is it's reference card called the "green card" when it is obviously yellow ?"* |
-|The IBM System/370 architecture reference card, known as the "green card," is named so because the card was green in color, not yellow. The reference card was an important tool for System/370 programmers and provided a summary of the instruction set and system services available on the computer architecture. The green color of the card was distinctive and made it easy to spot and identify, even in a pile of other reference materials. The term "green card" became so closely associated with the System/370 reference card that it was widely used, even though the card itself was yellow.|
-|The term "green card" has since become a part of computing folklore and is still used today to refer to reference cards or quick reference guides for computer systems, even if they are not green in color. The green card continues to be a symbol of the System/370 architecture and its lasting influence on the computing industry.|
-| *"Thank you."* |
-|You're welcome! If you have any more questions, feel free to ask.|
-| *"That's all. Bye."* |
-|Goodbye! Have a great day.
-
-## Analysis of John F. Kennedy's Address to Rice University 
-
-| John F. Kennedy / [ChatGPT](https://chat.openai.com/) |
-|----|
-|President Pitzer, Mr. Vice President, Governor, Congressman Thomas, Senator Wiley, and Congressman Miller, Mr. Webb, Mr. Bell, scientists, distinguished guests, and ladies and gentlemen: |
-|I appreciate your president having made me an honorary visiting professor, and I will assure you that my first lecture will be very brief.|
-|I am delighted to be here and I'm particularly delighted to be here on this occasion. |
-We meet at a college noted for knowledge, in a city noted for progress, in a State noted for strength, and we stand in need of all three, for we meet in an hour of change and challenge, in a decade of hope and fear, in an age of both knowledge and ignorance. The greater our knowledge increases, the greater our ignorance unfolds. |
-|Despite the striking fact that most of the scientists that the world has ever known are alive and working today, despite the fact that this Nation's own scientific manpower is doubling every 12 years in a rate of growth more than three times that of our population as a whole, despite that, the vast stretches of the unknown and the unanswered and the unfinished still far outstrip our collective comprehension.|
-|No man can fully grasp how far and how fast we have come, but condense, if you will, the 50,000 years of man¹s recorded history in a time span of but a half a century. Stated in these terms, we know very little about the first 40 years, except at the end of them advanced man had learned to use the skins of animals to cover them. Then about 10 years ago, under this standard, man emerged from his caves to construct other kinds of shelter. Only five years ago man learned to write and use a cart with wheels. Christianity began less than two years ago. The printing press came this year, and then less than two months ago, during this whole 50-year span of human history, the steam engine provided a new source of power. |
-|Newton explored the meaning of gravity. Last month electric lights and telephones and automobiles and airplanes became available. Only last week did we develop penicillin and television and nuclear power, and now if America¹s new spacecraft succeeds in reaching Venus, we will have literally reached the stars before midnight tonight. |
-|This is a breathtaking pace, and such a pace cannot help but create new ills as it dispels old, new ignorance, new problems, new dangers. Surely the opening vistas of space promise high costs and hardships, as well as high reward. |
-|So it is not surprising that some would have us stay where we are a little longer to rest, to wait. But this city of Houston, this State of Texas, this country of the United States was not built by those who waited and rested and wished to look behind them. This country was conquered by those who moved forward--and so will space.|
-|William Bradford, speaking in 1630 of the founding of the Plymouth Bay Colony, said that all great and honorable actions are accompanied with great difficulties, and both must be enterprised and overcome with answerable courage. |
-|If this capsule history of our progress teaches us anything, it is that man, in his quest for knowledge and progress, is determined and cannot be deterred. The exploration of space will go ahead, whether we join in it or not, and it is one of the great adventures of all time, and no nation which expects to be the leader of other nations can expect to stay behind in the race for space.|
-|Those who came before us made certain that this country rode the first waves of the industrial revolutions, the first waves of modern invention, and the first wave of nuclear power, and this generation does not intend to founder in the backwash of the coming age of space. We mean to be a part of it--we mean to lead it. For the eyes of the world now look into space, to the moon and to the planets beyond, and we have vowed that we shall not see it governed by a hostile flag of conquest, but by a banner of freedom and peace. We have vowed that we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding. |
-|Yet the vows of this Nation can only be fulfilled if we in this Nation are first, and, therefore, we intend to be first. In short, our leadership in science and in industry, our hopes for peace and security, our obligations to ourselves as well as others, all require us to make this effort, to solve these mysteries, to solve them for the good of all men, and to become the world's leading space-faring nation. |
-|We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people. For space science, like nuclear science and all technology, has no conscience of its own. Whether it will become a force for good or ill depends on man, and only if the United States occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of peace or a new terrifying theater of war. I do not say the we should or will go unprotected against the hostile misuse of space any more than we go unprotected against the hostile use of land or sea, but I do say that space can be explored and mastered without feeding the fires of war, without repeating the mistakes that man has made in extending his writ around this globe of ours.|
-|There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation may never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas? |
-|We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too. |
-|It is for these reasons that I regard the decision last year to shift our efforts in space from low to high gear as among the most important decisions that will be made during my incumbency in the office of the Presidency. |
-|In the last 24 hours we have seen facilities now being created for the greatest and most complex exploration in man's history. We have felt the ground shake and the air shattered by the testing of a Saturn C-1 booster rocket, many times as powerful as the Atlas which launched John Glenn, generating power equivalent to 10,000 automobiles with their accelerators on the floor. We have seen the site where five F-1 rocket engines, each one as powerful as all eight engines of the Saturn combined, will be clustered together to make the advanced Saturn missile, assembled in a new building to be built at Cape Canaveral as tall as a 48 story structure, as wide as a city block, and as long as two lengths of this field.|
-|Within these last 19 months at least 45 satellites have circled the earth. Some 40 of them were "made in the United States of America" and they were far more sophisticated and supplied far more knowledge to the people of the world than those of the Soviet Union. |
-|The Mariner spacecraft now on its way to Venus is the most intricate instrument in the history of space science. The accuracy of that shot is comparable to firing a missile from Cape Canaveral and dropping it in this stadium between the 40-yard lines. |
-|Transit satellites are helping our ships at sea to steer a safer course. Tiros satellites have given us unprecedented warnings of hurricanes and storms, and will do the same for forest fires and icebergs. |
-|We have had our failures, but so have others, even if they do not admit them. And they may be less public. |
-|To be sure, we are behind, and will be behind for some time in manned flight. But we do not intend to stay behind, and in this decade, we shall make up and move ahead. |
-|The growth of our science and education will be enriched by new knowledge of our universe and environment, by new techniques of learning and mapping and observation, by new tools and computers for industry, medicine, the home as well as the school. Technical institutions, such as Rice, will reap the harvest of these gains. |
-|And finally, the space effort itself, while still in its infancy, has already created a great number of new companies, and tens of thousands of new jobs. Space and related industries are generating new demands in investment and skilled personnel, and this city and this State, and this region, will share greatly in this growth. What was once the furthest outpost on the old frontier of the West will be the furthest outpost on the new frontier of science and space. Houston, your City of Houston, with its Manned Spacecraft Center, will become the heart of a large scientific and engineering community. During the next 5 years the National Aeronautics and Space Administration expects to double the number of scientists and engineers in this area, to increase its outlays for salaries and expenses to \$60 million a year; to invest some \$200 million in plant and laboratory facilities; and to direct or contract for new space efforts over \$1 billion from this Center in this City. |
-|To be sure, all this costs us all a good deal of money. This year¹s space budget is three times what it was in January 1961, and it is greater than the space budget of the previous eight years combined. That budget now stands at \$5,400 million a year--a staggering sum, though somewhat less than we pay for cigarettes and cigars every year. Space expenditures will soon rise some more, from 40 cents per person per week to more than 50 cents a week for every man, woman and child in the United States, for we have given this program a high national priority--even though I realize that this is in some measure an act of faith and vision, for we do not now know what benefits await us. But if I were to say, my fellow citizens, that we shall send to the moon, 240,000 miles away from the control station in Houston, a giant rocket more than 300 feet tall, the length of this football field, made of new metal alloys, some of which have not yet been invented, capable of standing heat and stresses several times more than have ever been experienced, fitted together with a precision better than the finest watch, carrying all the equipment needed for propulsion, guidance, control, communications, food and survival, on an untried mission, to an unknown celestial body, and then return it safely to earth, re-entering the atmosphere at speeds of over 25,000 miles per hour, causing heat about half that of the temperature of the sun--almost as hot as it is here today--and do all this, and do it right, and do it first before this decade is out--then we must be bold. |
-|I'm the one who is doing all the work, so we just want you to stay cool for a minute. [laughter] |
-|However, I think we're going to do it, and I think that we must pay what needs to be paid. I don't think we ought to waste any money, but I think we ought to do the job. And this will be done in the decade of the sixties. It may be done while some of you are still here at school at this college and university. It will be done during the term of office of some of the people who sit here on this platform. But it will be done. And it will be done before the end of this decade. |
-|I am delighted that this university is playing a part in putting a man on the moon as part of a great national effort of the United States of America. |
-|Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. He said, "Because it is there." |
-|Well, space is there, and we're going to climb it, and the moon and the planets are there, and new hopes for knowledge and peace are there. And, therefore, as we set sail we ask God's blessing on the most hazardous and dangerous and greatest adventure on which man has ever embarked. |
-|Thank you.  |
-| **[ChatGPT](https://chat.openai.com/) :** This is a speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962. In the speech, President Kennedy discusses the importance of space exploration and the United States' role in leading the world in this endeavor. He emphasizes the rapid pace of technological advancement and the need for the United States to remain at the forefront of this progress. He also discusses the challenges and difficulties that come with exploring space, but asserts that these must be overcome with determination and courage. President Kennedy concludes the speech by reaffirming the United States' commitment to peaceful exploration of space and its desire to use space as a means of advancing knowledge and understanding. |
-| *"What impact did the speech have?"* | 
-| **[ChatGPT](https://chat.openai.com/) :** The speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962 is often referred to as the "Moon Speech" because of its central focus on the United States' plans to land a man on the moon. The speech had a significant impact on the American public and on the nation's space progam.|
-|In the speech, President Kennedy set an ambitious goal for the United States: to land a man on the moon and return him safely to Earth before the end of the decade. This goal, known as the Apollo program, required a massive investment of time, resources, and personnel. It also required a significant shift in the focus of the nation's space program, which up until that point had largely been centered on satellite launches and other scientific missions.|
-|The speech galvanized public support for the space program and helped to secure the necessary funding and resources to achieve the goal of landing a man on the moon. The United States successfully landed astronauts on the moon in 1969, fulfilling the promise made by President Kennedy in his speech. The Apollo program is widely regarded as one of the greatest achievements in the history of space exploration, and President Kennedy's Moon Speech is remembered as a pivotal moment in the nation's history. |
-| *"Thank you."* | 
-| **[ChatGPT](https://chat.openai.com/) :** You're welcome! Is there anything else you would like to know? |
-| *"Nope."* | 
-| **[ChatGPT](https://chat.openai.com/) :** Alright then, have a great day! If you have any more questions in the future, don't hesitate to reach out. |
-| *"Thank you."* I hope you have a great day yourself | 
-| **[ChatGPT](https://chat.openai.com/) :** Thank you! I'm just a computer program, so I don't have days or experiences in the same way that humans do. However, I'm here to help you with any questions you have, so please don't hesitate to reach out if you need anything. Have a great day! |
 
 ## 1977
 
@@ -350,7 +288,122 @@ I thought that I would do something different to announce our forty-fifth weddin
 |As an AI language model, I am not capable of playing games such as Jeopardy! however, if I were to be pitted against IBM's Watson, I believe that Watson would likely emerge as the winner. Watson is a highly advanced AI system that was specifically designed and trained to play Jeopardy!. It has a deep understanding of language and is capable of quickly processing vast amounts of information to find the answers to clues. While I am a capable language model, I do not have the specialized skills and abilities that Watson was designed to possess.|
 | *"Thank you."* |
 
-## Zen and the Art of Motorcycle Maintenance by Robert Pirsig 
+<hr>
+
+## Space
+
+### NASA Voyager 1 and 2
+
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
+|----|
+|Let's talk about NASA's Voyager spacecraft craft.|
+|Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
+| *"What discoveries have been found?"* |
+|The Voyager missions have made a number of significant scientific discoveries, including:|
+|Jupiter: The probes provided detailed images of Jupiter and its moons, including the first close-up images of the Great Red Spot, and discovered active volcanoes on Jupiter's moon Io.|
+|Saturn: Voyager 1 and 2 revealed Saturn's rings in much greater detail and discovered several new moons. They also provided the first close-up images of Saturn's moon Titan, which showed a hazy atmosphere and a landscape shaped by liquid methane and ethane.|
+|Uranus and Neptune: The Voyager probes were the first spacecraft to visit these two ice giants and provided the first close-up images of their atmospheres, moons, and ring systems.|
+|Interstellar Space: In 2012, Voyager 1 became the first spacecraft to cross into interstellar space, the region beyond our Solar System. It is currently transmitting data from this uncharted territory and has given scientists new insights into the structure and composition of the interstellar medium.|
+|These discoveries have revolutionized our understanding of the outer Solar System and have provided a wealth of new information about the planets, their moons, and the larger environment in which they reside.|
+| *"I think that Voyager 2 has also crossed into interstellar space."* |
+|Yes, you are correct. Voyager 2 also crossed into interstellar space in 2018, following a similar trajectory as Voyager 1. This makes Voyager 2 the second human-made object to enter interstellar space and has allowed scientists to study and compare the conditions in this region from two different perspectives. The two Voyager spacecraft continue to send back valuable data and are expected to continue operating for several more years, providing valuable information about the outer reaches of our Solar System and beyond.|
+| *"What discoveries have they reported back to NASA?"* |
+|Since their launches in 1977, the Voyager spacecraft have sent back a wealth of data and discoveries to NASA, including: Detailed images and data about the gas giants Jupiter and Saturn, including their atmospheres, moons, and ring systems.|
+|The discovery of active volcanoes on Jupiter's moon Io and evidence of subsurface oceans on several of Saturn's moons.|
+|The first close-up images and data about the ice giants Uranus and Neptune, including their atmospheres, moons, and ring systems.|
+|Evidence of a strong and dynamic magnetic field at the boundary between our Solar System and interstellar space.|
+|Measurements of cosmic rays and interstellar particles, providing new insights into the structure and composition of the interstellar medium.|
+|These discoveries have significantly advanced our understanding of the outer Solar System and beyond and have provided a wealth of new information for astronomers and planetary scientists to study. The Voyager missions continue to be a valuable source of information and data, even more than 40 years after their launch.|
+| *"What is interstellar space like?"* |
+|Interstellar space is the region beyond the borders of our Solar System, where the Sun's influence ends and the interstellar medium begins. It is a vast, mostly empty region of space that contains a mixture of gas, dust, and charged particles. Some of the characteristics of interstellar space include:|
+|Low density: Interstellar space is much less dense than the interplanetary medium within our Solar System.|
+|Magnetic fields: The interstellar medium is permeated by weak magnetic fields that can affect the motion of charged particles.|
+|Cosmic rays: Interstellar space is filled with high-energy cosmic rays, which are fast-moving particles that can penetrate solid objects and potentially pose a radiation hazard to astronauts.|
+|Dust: Interstellar space contains small grains of dust, made up of elements such as carbon and silicon, that can absorb and scatter light.|
+|These are just a few of the features of interstellar space, and scientists continue to study this region using data from the Voyager spacecraft and other probes to learn more about its structure and properties. Despite its vast size and emptiness, interstellar space is a region of active scientific inquiry and holds many secrets yet to be discovered.|
+| *"Have there been spacecraft other than Voyager to cross into interstellar space?"* |
+|As of my knowledge cutoff in 2021, the Voyager 1 and 2 spacecraft are the only human-made objects to have crossed into interstellar space. They were specifically designed and launched for the purpose of exploring the outer Solar System and beyond, and their longevity and continued operation have allowed them to make valuable observations of this region.|
+|While there have been other spacecraft that have explored the outer reaches of our Solar System, such as the Pioneer 10 and 11 spacecraft and the New Horizons probe, none have crossed into interstellar space. The Voyager spacecraft are unique in their capabilities and mission, and their data and observations continue to be an invaluable resource for scientists studying the outer Solar System and beyond.|
+| *"Thank you. You've been very helpful."* |
+| You're welcome! I'm glad I could help. If you have any more questions, feel free to ask! |
+
+### NASA Space Shuttle Computers
+
+| *"Ralph Hightower"* / [ChatGPT](https://openai.com) |
+|----|
+| *"What can you tell be about NASA's Space Shuttle?"* |
+|The Space Shuttle was a reusable spacecraft system developed by NASA for the US space program. It was used for missions between 1981 and 2011 and was designed to carry crew and cargo to low Earth orbit and back. The Space Shuttle consisted of a reusable orbiter vehicle that could carry up to eight astronauts, a large fuel tank, and two reusable solid rocket boosters. It was used for a variety of missions, including the launch and repair of satellites, the construction of the International Space Station, and the deployment of large scientific instruments. The Space Shuttle program retired after 135 missions due to the high cost of operations and maintenance, and the need for a new spacecraft to replace it.|
+| *"I'm curious being a software developer. What were the Shuttle's main computers?"* |
+|The Space Shuttle's primary flight computer system consisted of five General Purpose Computers (GPCs), each with its own processor and memory. The GPCs ran software written in the HAL/S language and were based on the IBM AP-101 computer architecture. They were responsible for controlling the shuttle's critical systems, including the main engines, the thermal protection system, and the hydraulic systems. The GPCs also processed navigation and guidance information, monitored the shuttle's systems, and supported crew activities. The system was designed to be highly redundant and to continue functioning even if one or more of the GPCs failed. The Space Shuttle's computer system was considered state-of-the-art for its time, but by today's standards, it would be considered relatively limited in terms of processing power and memory.|
+| *"Is the AP-101 architecture based on any commercial computers?"* |
+|The IBM AP-101 computer architecture used in the Space Shuttle's General Purpose Computers (GPCs) was based on the IBM System/370 architecture, which was a popular and widely used computer architecture in the 1970s and 1980s. The System/370 architecture was used in many commercial IBM mainframe computers, as well as in some scientific and engineering computers. The IBM System/370 architecture was known for its reliability, compatibility, and scalability, which made it well-suited for use in a mission-critical system like the Space Shuttle's flight computer. The IBM AP-101 computer was specifically designed for use in aerospace applications and was modified from the original System/370 architecture to meet the demanding requirements of the Space Shuttle program.|
+| *"We're there any differences in the instruction set between the AP-101 and 370?"* |
+|Yes, there were some differences in the instruction set between the IBM AP-101 computer used in the Space Shuttle and the IBM System/370 architecture upon which it was based. The AP-101 used a modified version of the System/370 instruction set, with additional instructions to support real-time processing, interrupt handling, and other requirements specific to aerospace applications. The modifications to the instruction set were made to meet the needs of the Space Shuttle program and to ensure that the flight computer could perform its critical functions reliably and in real time. The changes to the instruction set were relatively minor, however, and the overall architecture of the AP-101 was still largely compatible with the System/370 architecture. This allowed NASA to leverage existing expertise and software tools developed for the System/370, while still meeting the specific requirements of the Space Shuttle program."* |
+| *"Where can I find information about programming the AP-101"* |
+|Information about programming the IBM AP-101 computer used in the Space Shuttle can be difficult to find, as the computer was used exclusively for this program and was not commercially available. However, you may be able to find some information about the AP-101 and its programming in academic journals, conference proceedings, and historical documents related to the Space Shuttle program. You may also be able to find information about the IBM System/370 architecture, upon which the AP-101 was based, in textbooks, online resources, and other materials related to the history of computing.|
+|One place to start your research might be the NASA Technical Reports Server (NTRS), which is an online database of NASA-sponsored research and engineering reports. You can search the NTRS database for information about the Space Shuttle program and the AP-101 computer. You can also try searching online databases such as the IEEE Xplore Digital Library, the ACM Digital Library, or the arXiv preprint repository for articles and papers that may mention the AP-101 or the Space Shuttle program.|
+|Finally, you might consider reaching out to individuals who worked on the Space Shuttle program or who have experience with IBM System/370-based computers. Professional organizations and online forums related to space technology and the history of computing may be able to connect you with these individuals.|
+| *"Speaking of the 370, why is it's reference card called the "green card" when it is obviously yellow ?"* |
+|The IBM System/370 architecture reference card, known as the "green card," is named so because the card was green in color, not yellow. The reference card was an important tool for System/370 programmers and provided a summary of the instruction set and system services available on the computer architecture. The green color of the card was distinctive and made it easy to spot and identify, even in a pile of other reference materials. The term "green card" became so closely associated with the System/370 reference card that it was widely used, even though the card itself was yellow.|
+|The term "green card" has since become a part of computing folklore and is still used today to refer to reference cards or quick reference guides for computer systems, even if they are not green in color. The green card continues to be a symbol of the System/370 architecture and its lasting influence on the computing industry.|
+| *"Thank you."* |
+|You're welcome! If you have any more questions, feel free to ask.|
+| *"That's all. Bye."* |
+|Goodbye! Have a great day.
+
+### Analysis of John F. Kennedy's Address to Rice University 
+
+| John F. Kennedy / [ChatGPT](https://chat.openai.com/) |
+|----|
+|President Pitzer, Mr. Vice President, Governor, Congressman Thomas, Senator Wiley, and Congressman Miller, Mr. Webb, Mr. Bell, scientists, distinguished guests, and ladies and gentlemen: |
+|I appreciate your president having made me an honorary visiting professor, and I will assure you that my first lecture will be very brief.|
+|I am delighted to be here and I'm particularly delighted to be here on this occasion. |
+We meet at a college noted for knowledge, in a city noted for progress, in a State noted for strength, and we stand in need of all three, for we meet in an hour of change and challenge, in a decade of hope and fear, in an age of both knowledge and ignorance. The greater our knowledge increases, the greater our ignorance unfolds. |
+|Despite the striking fact that most of the scientists that the world has ever known are alive and working today, despite the fact that this Nation's own scientific manpower is doubling every 12 years in a rate of growth more than three times that of our population as a whole, despite that, the vast stretches of the unknown and the unanswered and the unfinished still far outstrip our collective comprehension.|
+|No man can fully grasp how far and how fast we have come, but condense, if you will, the 50,000 years of man¹s recorded history in a time span of but a half a century. Stated in these terms, we know very little about the first 40 years, except at the end of them advanced man had learned to use the skins of animals to cover them. Then about 10 years ago, under this standard, man emerged from his caves to construct other kinds of shelter. Only five years ago man learned to write and use a cart with wheels. Christianity began less than two years ago. The printing press came this year, and then less than two months ago, during this whole 50-year span of human history, the steam engine provided a new source of power. |
+|Newton explored the meaning of gravity. Last month electric lights and telephones and automobiles and airplanes became available. Only last week did we develop penicillin and television and nuclear power, and now if America¹s new spacecraft succeeds in reaching Venus, we will have literally reached the stars before midnight tonight. |
+|This is a breathtaking pace, and such a pace cannot help but create new ills as it dispels old, new ignorance, new problems, new dangers. Surely the opening vistas of space promise high costs and hardships, as well as high reward. |
+|So it is not surprising that some would have us stay where we are a little longer to rest, to wait. But this city of Houston, this State of Texas, this country of the United States was not built by those who waited and rested and wished to look behind them. This country was conquered by those who moved forward--and so will space.|
+|William Bradford, speaking in 1630 of the founding of the Plymouth Bay Colony, said that all great and honorable actions are accompanied with great difficulties, and both must be enterprised and overcome with answerable courage. |
+|If this capsule history of our progress teaches us anything, it is that man, in his quest for knowledge and progress, is determined and cannot be deterred. The exploration of space will go ahead, whether we join in it or not, and it is one of the great adventures of all time, and no nation which expects to be the leader of other nations can expect to stay behind in the race for space.|
+|Those who came before us made certain that this country rode the first waves of the industrial revolutions, the first waves of modern invention, and the first wave of nuclear power, and this generation does not intend to founder in the backwash of the coming age of space. We mean to be a part of it--we mean to lead it. For the eyes of the world now look into space, to the moon and to the planets beyond, and we have vowed that we shall not see it governed by a hostile flag of conquest, but by a banner of freedom and peace. We have vowed that we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding. |
+|Yet the vows of this Nation can only be fulfilled if we in this Nation are first, and, therefore, we intend to be first. In short, our leadership in science and in industry, our hopes for peace and security, our obligations to ourselves as well as others, all require us to make this effort, to solve these mysteries, to solve them for the good of all men, and to become the world's leading space-faring nation. |
+|We set sail on this new sea because there is new knowledge to be gained, and new rights to be won, and they must be won and used for the progress of all people. For space science, like nuclear science and all technology, has no conscience of its own. Whether it will become a force for good or ill depends on man, and only if the United States occupies a position of pre-eminence can we help decide whether this new ocean will be a sea of peace or a new terrifying theater of war. I do not say the we should or will go unprotected against the hostile misuse of space any more than we go unprotected against the hostile use of land or sea, but I do say that space can be explored and mastered without feeding the fires of war, without repeating the mistakes that man has made in extending his writ around this globe of ours.|
+|There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation may never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas? |
+|We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too. |
+|It is for these reasons that I regard the decision last year to shift our efforts in space from low to high gear as among the most important decisions that will be made during my incumbency in the office of the Presidency. |
+|In the last 24 hours we have seen facilities now being created for the greatest and most complex exploration in man's history. We have felt the ground shake and the air shattered by the testing of a Saturn C-1 booster rocket, many times as powerful as the Atlas which launched John Glenn, generating power equivalent to 10,000 automobiles with their accelerators on the floor. We have seen the site where five F-1 rocket engines, each one as powerful as all eight engines of the Saturn combined, will be clustered together to make the advanced Saturn missile, assembled in a new building to be built at Cape Canaveral as tall as a 48 story structure, as wide as a city block, and as long as two lengths of this field.|
+|Within these last 19 months at least 45 satellites have circled the earth. Some 40 of them were "made in the United States of America" and they were far more sophisticated and supplied far more knowledge to the people of the world than those of the Soviet Union. |
+|The Mariner spacecraft now on its way to Venus is the most intricate instrument in the history of space science. The accuracy of that shot is comparable to firing a missile from Cape Canaveral and dropping it in this stadium between the 40-yard lines. |
+|Transit satellites are helping our ships at sea to steer a safer course. Tiros satellites have given us unprecedented warnings of hurricanes and storms, and will do the same for forest fires and icebergs. |
+|We have had our failures, but so have others, even if they do not admit them. And they may be less public. |
+|To be sure, we are behind, and will be behind for some time in manned flight. But we do not intend to stay behind, and in this decade, we shall make up and move ahead. |
+|The growth of our science and education will be enriched by new knowledge of our universe and environment, by new techniques of learning and mapping and observation, by new tools and computers for industry, medicine, the home as well as the school. Technical institutions, such as Rice, will reap the harvest of these gains. |
+|And finally, the space effort itself, while still in its infancy, has already created a great number of new companies, and tens of thousands of new jobs. Space and related industries are generating new demands in investment and skilled personnel, and this city and this State, and this region, will share greatly in this growth. What was once the furthest outpost on the old frontier of the West will be the furthest outpost on the new frontier of science and space. Houston, your City of Houston, with its Manned Spacecraft Center, will become the heart of a large scientific and engineering community. During the next 5 years the National Aeronautics and Space Administration expects to double the number of scientists and engineers in this area, to increase its outlays for salaries and expenses to \$60 million a year; to invest some \$200 million in plant and laboratory facilities; and to direct or contract for new space efforts over \$1 billion from this Center in this City. |
+|To be sure, all this costs us all a good deal of money. This year¹s space budget is three times what it was in January 1961, and it is greater than the space budget of the previous eight years combined. That budget now stands at \$5,400 million a year--a staggering sum, though somewhat less than we pay for cigarettes and cigars every year. Space expenditures will soon rise some more, from 40 cents per person per week to more than 50 cents a week for every man, woman and child in the United States, for we have given this program a high national priority--even though I realize that this is in some measure an act of faith and vision, for we do not now know what benefits await us. But if I were to say, my fellow citizens, that we shall send to the moon, 240,000 miles away from the control station in Houston, a giant rocket more than 300 feet tall, the length of this football field, made of new metal alloys, some of which have not yet been invented, capable of standing heat and stresses several times more than have ever been experienced, fitted together with a precision better than the finest watch, carrying all the equipment needed for propulsion, guidance, control, communications, food and survival, on an untried mission, to an unknown celestial body, and then return it safely to earth, re-entering the atmosphere at speeds of over 25,000 miles per hour, causing heat about half that of the temperature of the sun--almost as hot as it is here today--and do all this, and do it right, and do it first before this decade is out--then we must be bold. |
+|I'm the one who is doing all the work, so we just want you to stay cool for a minute. [laughter] |
+|However, I think we're going to do it, and I think that we must pay what needs to be paid. I don't think we ought to waste any money, but I think we ought to do the job. And this will be done in the decade of the sixties. It may be done while some of you are still here at school at this college and university. It will be done during the term of office of some of the people who sit here on this platform. But it will be done. And it will be done before the end of this decade. |
+|I am delighted that this university is playing a part in putting a man on the moon as part of a great national effort of the United States of America. |
+|Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. He said, "Because it is there." |
+|Well, space is there, and we're going to climb it, and the moon and the planets are there, and new hopes for knowledge and peace are there. And, therefore, as we set sail we ask God's blessing on the most hazardous and dangerous and greatest adventure on which man has ever embarked. |
+|Thank you.  |
+| **[ChatGPT](https://chat.openai.com/) :** This is a speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962. In the speech, President Kennedy discusses the importance of space exploration and the United States' role in leading the world in this endeavor. He emphasizes the rapid pace of technological advancement and the need for the United States to remain at the forefront of this progress. He also discusses the challenges and difficulties that come with exploring space, but asserts that these must be overcome with determination and courage. President Kennedy concludes the speech by reaffirming the United States' commitment to peaceful exploration of space and its desire to use space as a means of advancing knowledge and understanding. |
+| *"What impact did the speech have?"* | 
+| **[ChatGPT](https://chat.openai.com/) :** The speech given by President John F. Kennedy at Rice University in Houston, Texas on September 12, 1962 is often referred to as the "Moon Speech" because of its central focus on the United States' plans to land a man on the moon. The speech had a significant impact on the American public and on the nation's space progam.|
+|In the speech, President Kennedy set an ambitious goal for the United States: to land a man on the moon and return him safely to Earth before the end of the decade. This goal, known as the Apollo program, required a massive investment of time, resources, and personnel. It also required a significant shift in the focus of the nation's space program, which up until that point had largely been centered on satellite launches and other scientific missions.|
+|The speech galvanized public support for the space program and helped to secure the necessary funding and resources to achieve the goal of landing a man on the moon. The United States successfully landed astronauts on the moon in 1969, fulfilling the promise made by President Kennedy in his speech. The Apollo program is widely regarded as one of the greatest achievements in the history of space exploration, and President Kennedy's Moon Speech is remembered as a pivotal moment in the nation's history. |
+| *"Thank you."* | 
+| **[ChatGPT](https://chat.openai.com/) :** You're welcome! Is there anything else you would like to know? |
+| *"Nope."* | 
+| **[ChatGPT](https://chat.openai.com/) :** Alright then, have a great day! If you have any more questions in the future, don't hesitate to reach out. |
+| *"Thank you."* I hope you have a great day yourself | 
+| **[ChatGPT](https://chat.openai.com/) :** Thank you! I'm just a computer program, so I don't have days or experiences in the same way that humans do. However, I'm here to help you with any questions you have, so please don't hesitate to reach out if you need anything. Have a great day! |
+
+## Books
+
+### Semi-Biography 
+
+#### Zen and the Art of Motorcycle Maintenance by Robert Pirsig 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-----|
@@ -364,7 +417,9 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Thank you. You've been very helpful."* |
 | You're welcome! I'm glad that I could help. If you have any other questions, don't hesitate to ask. I'm here to help. |
 
-## 2001 by Arthur C. Clark
+### Science Fiction 
+
+#### 2001 by Arthur C. Clark
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -405,7 +460,7 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Thank you. "* |
 |You're welcome! If you have any other questions, feel free to ask.|
 
-## Dune by Frank Herbert 
+#### Dune by Frank Herbert 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -445,39 +500,11 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Thank you. You've been very helpful."*|
 | You're welcome! I'm glad that I could help. If you have any other questions, please don't hesitate to ask. |
 
-## Doctor Who
+<hr>
 
-| *"Ralph Hightower"* / [ChatGPT]() |
-|----|
-| *"Are you familiar with Doctor Who?"* |
-|Yes, I am familiar with Doctor Who. It is a British science fiction television series created and produced by the BBC. The show follows the adventures of the Doctor, a time-traveling alien who travels through time and space in a ship called the TARDIS. The series has been on the air since 1963, and has a large and dedicated fan base.|
-| *"Who was Doctor Who most feared nemesis?"* |
-|Doctor Who's most feared nemesis is often considered to be the Daleks. They are a fictional extraterrestrial race of mutants in the British science fiction television series Doctor Who, created by writer Terry Nation. They are one of the most iconic and enduring elements of the Doctor Who franchise. They are cyborg aliens, they have a tank-like shape, and a single eye-stalk on top, with a weapon mounted on top of it. They are known for their catchphrase "Exterminate!" and have been a recurring antagonist throughout the show's history.|
-| *"What about the Weeping Angels?"* |
-|The Weeping Angels are another popular and feared nemesis of Doctor Who. They are a race of creatures that resemble stone statues, but can move quickly and silently when they are not being observed. They are often referred to as "the Lonely Assassins" or "the Weeping Angels of the Lonely Assassins". They feed on the potential energy of their victims, which they gain by sending them back in time and consuming the energy that would have been released if their victim had lived a longer life. They first appeared in the 2007 episode "Blink" and since then have made multiple appearances in the show, being considered as one of the most terrifying and formidable creature of the franchise.|
-| *"What happened when the Pandorica opened?"* |
-|The Pandorica is a fictional prison in the Doctor Who series. The Pandorica was said to be the most feared object in the universe, created by the Doctor's enemies to contain the most dangerous being in the universe: the Doctor himself.|
-|In the episode "The Pandorica Opens" it is revealed that the Pandorica was actually created to contain a being known as the "Cracks in Time" which was destroying the universe. The Doctor and his allies, along with his enemies, work together to open the Pandorica in order to release the energy needed to repair the cracks in time and save the universe.|
-|However, when the Pandorica opens, it was revealed that the Doctor was not inside, but a duplicate of him created by the enemies, which was meant to be used as a decoy and trap the real Doctor. The duplicate then proceeded to take control of the TARDIS and escape, leading to a series of events that would later be resolved in the next season.|
-| *"Is River Song a daughter of Doctor Who?"* |
-River Song, also known as Melody Pond, is a fictional character in the British science fiction television series Doctor Who. She is a companion of the Doctor and is known for her mysterious relationship with him.|
-|Throughout the series, River Song is revealed to be the daughter of Amy Pond and Rory Williams, two companions of the Doctor. She is also revealed to have been genetically engineered by the Doctor's enemies, the Silence, to kill him, but was later raised by Amy and Rory. River and the Doctor have a complex and romantic relationship, as they meet each other out of order in their personal timelines, with River always knowing more about the Doctor's future than he does.|
-|It is revealed that River Song is also a regenerating Time Lord, and her first appearance in the show is a pre-regeneration scene of hers, that is why the Doctor seem to know her before they meet.|
-| *"Please rank the most feared Nemesis or villains of Doctor Who."* |
-|Ranking the most feared villains in Doctor Who is subjective as it depends on personal opinions and how the show has been perceived by different audiences. However, based on their popularity, threat level, and impact on the show, some of the most feared Nemesis or villains of Doctor Who are:|
-|Daleks - They are one of the most iconic and enduring elements of the Doctor Who franchise and known for their catchphrase **"Exterminate!"** They have been a recurring antagonist throughout the show's history.|
-|The Master - The Doctor's arch-nemesis, The Master is a renegade Time Lord who is the Doctor's polar opposite in every way. He is a recurring villain throughout the show's history.|
-|The Weeping Angels - They first appeared in the 2007 episode "Blink" and since then have made multiple appearances in the show, being considered as one of the most terrifying and formidable creature of the franchise.|
-|The Cybermen - The Cybermen are a race of cyborgs who were originally human. They have been a recurring antagonist throughout the show's history.|
-|The Silence - They are an ancient religious order who were responsible for the creation of River Song and have been a recurring antagonist throughout the show's history.|
-|The Sontarans - They are a warlike race of alien clones who have been a recurring antagonist throughout the show's history.|
-|The Vashta Nerada - They are a species of carnivorous, microscopic creatures that live in shadows and have been a recurring antagonist throughout the show's history.|
-|The Autons - They are a race of sentient plastic beings who have been a recurring antagonist throughout the show's history.|
-|This is not an exhaustive list and there are other villains that could be considered as well, like the Ice Warriors, The Great Intelligence, The Zygons, among others.|
-| *"Thank you."* |
-|You're welcome! Let me know if you have any other questions, I'll do my best to help.|
+## Science Fiction 
 
-## A Q&A session about Star Trek
+### A Q&A session about Star Trek
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
@@ -522,12 +549,12 @@ River Song, also known as Melody Pond, is a fictional character in the British s
 | *"No, thank you."* |
 | You're welcome. If you have any other questions or need help with anything else, feel free to reach out to me. I'm here to help. Have a great day! |
 
-### To Do
+#### To Do
 
 I need to tell ChatGPT that although Spock is a fictional character that people get emotionally attached to fictional characters that have been a part of their lives for so long on television and the movies. 
 **"It's not an easy task to make an audience care about a fictional character death but the way it was done in the movie was just perfect."**
 
-## Doctor Who 
+### Doctor Who 
 
 | *"RalphHightower"* / [ChatGPT]() |
 |----|
@@ -562,7 +589,11 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
 
-## Learning To Fly by Pink Floyd 
+<hr>
+
+## Music 
+
+### Learning To Fly by Pink Floyd 
 
 | Learning To Fly — Pink Floyd |
 |----|
@@ -601,21 +632,21 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"No, this is a song by Pink Floyd."* |
 | **[ChatGPT](https://chat.openai.com/chat):** My apologies, you are correct. The lyrics are from "Learning to Fly" by Pink Floyd, from the album "A Momentary Lapse of Reason". The song is about a person's journey to escape the constraints of their life and find the freedom of flight. The person is determined to overcome their limitations, despite the difficulties and challenges they face, and is seeking to find their place in the world. The lyrics reflect a sense of longing and hope for a better life, and a desire to soar above the ordinary.|
 
-## Walk of Life by Dire Straits 
+### Walk of Life by Dire Straits 
 
 | Walk of Life — Dire Straits |
 |----|
 |Here comes Johnny singing oldies, goldies|
 |"Be-Bop-A-Lula, " "Baby What I Say"|
-Here comes Johnny singing, "I Gotta Woman"|
+|Here comes Johnny singing, "I Gotta Woman"|
 |Down in the tunnels, trying to make it pay|
 |He got the action, he got the motion|
 |Oh yeah, the boy can play|
 |Dedication, devotion|
 |Turning all the night time into the day|
 |He do the song about the sweet lovin' woman|
-He do the song about the knife|
-He do the walk, do the walk of life|
+|He do the song about the knife|
+|He do the walk, do the walk of life|
 |Yeah, he do the walk of life|
 |Woohoo|
 |Here comes Johnny, gonna tell you the story|
@@ -626,16 +657,16 @@ He do the walk, do the walk of life|
 |Yeah, the boy can play|
 |Dedication, devotion|
 |Turning all the night time into the day|
-The song about the sweet lovin' woman|
+|The song about the sweet lovin' woman|
 |He do the song about the knife|
 |Then he do the walk, do the walk of life|
 |Yeah, he do the walk of life|
 |Woohoo-hoo|
-Here comes Johnny singing oldies, goldies
+|Here comes Johnny singing oldies, goldies
 |"Be-Bop-A-Lula, " "Baby What I Say"|
 |Here comes Johnny singing, "I Gotta Woman"
 |Down in the tunnels, trying to make it pay|
-He got the action, he got the motion|
+|He got the action, he got the motion|
 |Oh yeah, the boy can play|
 |Dedication, devotion|
 |Turning all the night time into the day|
@@ -656,8 +687,7 @@ He got the action, he got the motion|
 | *"No. Thank you."* |
 |You're welcome! If you need anything else in the future, feel free to ask. Have a great day!|
 
-
-## Smoke on the Water by Deep Purple 
+### Smoke on the Water by Deep Purple 
 
 | Smoke on the Water — Deep Purple |
 |-----|
@@ -701,8 +731,7 @@ He got the action, he got the motion|
 | *"Yes. Thank you."* |
 | **[ChatGPT](https://chat.openai.com/chat):** You're welcome! If there's anything else I can help with, feel free to ask.|
 
-
-## Mercedes Benz by Janis Joplin 
+### Mercedes Benz by Janis Joplin 
 
 | Mercedes Benz — Janis Joplin / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -730,7 +759,7 @@ He got the action, he got the motion|
 |That's it! | 
 | **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "Mercedes Benz" by Janis Joplin. The song was written by Joplin and Michael McClure and released in 1971 on the album "Pearl." It is a short, bluesy song that is notable for its catchy and humorous refrain in which Joplin asks the Lord to buy her a Mercedes Benz. The song has become one of Joplin's best-known and most enduring hits and has been covered by numerous artists over the years. It is a classic of rock and roll music and continues to be widely enjoyed by fans of all ages. |
 
-## The Edmund Fitzgerald by Gordon Lightfoot 
+### The Edmund Fitzgerald by Gordon Lightfoot 
 
 | The Edmund Fitzgerald — Gordon Lightfoot / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -792,7 +821,7 @@ He got the action, he got the motion|
 |When the gales of November come early |
 | **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "The Wreck of the Edmund Fitzgerald" by Gordon Lightfoot. The song was released in 1976 and became one of Lightfoot's most successful and well-known hits. It tells the story of the SS Edmund Fitzgerald, a ship that sank in Lake Superior in 1975, and the crew who lost their lives in the disaster. The song has a haunting and evocative melody and poignant lyrics that have made it a classic of folk and country music. It continues to be widely performed and covered by artists around the world and is remembered as a tribute to the bravery and sacrifice of the men who served on the Edmund Fitzgerald. |
 
-## Hotel California by The Eagles 
+### Hotel California by The Eagles 
 
 | Hotel California — The Eagles / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -857,7 +886,7 @@ He got the action, he got the motion|
 |But you can never leave" |
 | **[ChatGPT](https://chat.openai.com/) :** The lyrics you provided are from the song "Hotel California" by the Eagles. The song was released in 1977 and has become one of the band's most well-known and iconic hits. It has been widely interpreted and has inspired many theories about its meaning, including that it is about a drug-induced hallucination or a metaphor for the excesses of the music industry. The song has a memorable and evocative melody and has been covered by numerous artists and featured in various media. It remains a popular and enduring classic of rock music. |
 
-## Alice's Restaurant by Arlo Guthrie 
+### Alice's Restaurant by Arlo Guthrie 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -866,7 +895,7 @@ He got the action, he got the motion|
 |The lyrics of the song describe Guthrie's visit to a restaurant called Alice's in Massachusetts, where he is refused service because he has a lack of identification. The song then goes on to describe Guthrie's arrest for littering, his appearance in court, and his eventual rejection from the military due to his criminal record.|
 |Throughout the song, Guthrie uses humor and satire to comment on the bureaucracy and absurdity of the military draft and the criminal justice system. The song has become an iconic and enduring symbol of the counterculture movement and is often seen as a protest against the Vietnam War. |
 
-## We Didn't Start the Fire by Billy Joel 
+### We Didn't Start the Fire by Billy Joel 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
@@ -910,7 +939,7 @@ He got the action, he got the motion|
 |"Rocky III," "Patriots Day," "Red Dawn"|
 |"Thriller," "New York, New York" |
 
-## Love Shack by the B-52's 
+### Love Shack by the B-52's 
 
 | Love Shack — B-52's |
 |----|
@@ -990,7 +1019,7 @@ He got the action, he got the motion|
 |Love shack, baby love shack!|
 | **[ChatGPT](https://chat.openai.com/):** The lyrics are to the song "Love Shack" by The B-52's. It's a funky, upbeat song about a party place called the Love Shack where people come to dance and have a good time. The singer has a big car and invites everyone to bring their jukebox money and come to the Love Shack to party.|
 
-## The Deadbeat Club — B-52's
+### The Deadbeat Club — B-52's
 
 | The Deadbeat Club — B-52's |
 |----|
@@ -1050,7 +1079,7 @@ He got the action, he got the motion|
 |Yes, that's correct! The song you quoted is called "Deadbeat Club" and it was released by the B-52s, an American new wave and rock band formed in 1976. They are known for their quirky and upbeat musical style, as well as their distinctive harmonies and humorous lyrics. "Deadbeat Club" is one of the band's popular tracks and it features their signature musical style, including upbeat melodies and whimsical lyrics that reflect a carefree and joyful 
 attitude.|
 
-## This is the End of the World as We Know It (And I Feel Fine) — REM
+### This is the End of the World as We Know It (And I Feel Fine) — REM
 
 | This is the End of the World as We Know It (and I feel fine) — REM |
 |----|
@@ -1115,6 +1144,8 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Anything special about the people mentioned?"* |
 | **[ChatGPT](https://chat.openai.com/):** The people mentioned in the song are primarily cultural figures of the 20th century, including Lenny Bruce, who was a stand-up comedian known for his controversial material, and Leonard Bernstein, a renowned classical music composer and conductor. Also mentioned is Leonid Brezhnev, who was a Soviet politician and the General Secretary of the Communist Party of the Soviet Union. Finally, Lester Bangs was a music critic known for his critical writings about popular music. The mention of these figures is intended to capture a sense of the times and to evoke the cultural milieu of the period in which the song was written.|
 
+### Your Wildest Dreams – Moody Blues
+
 | Your Wildest Dreams — Moody Blues |
 |----|
 |Once upon a time|
@@ -1171,7 +1202,7 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Bye."* |
 |**[ChatGPT](https://chat.openai.com/chat):** Goodbye! Have a great day!|
 
-## Landslide by Fleetwood Mac
+### Landslide by Fleetwood Mac
 
 |Landslide — Fleetwood Mac |
 |----|
@@ -1206,7 +1237,7 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Thank you."* |
 |**[ChatGPT](https://chat.openai.com/chat):** You're welcome! If you have any other questions, feel free to ask.|
 
-## Turn, Turn, Turn by The Byrds[^2]
+### Turn, Turn, Turn by The Byrds[^2]
 
 | Turn, Turn  Turn — The Byrds / **[ChatGPT]()** |
 |----|
