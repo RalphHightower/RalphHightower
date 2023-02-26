@@ -43,7 +43,7 @@
 | *"Thank you. That's all."* |
 |You're welcome! If you need anything else, don't hesitate to reach out. Have a great day!|
 
-#### Metric System Use by American Automobile Manufacturers for Engine Displacements 
+### Metric System Use by American Automobile Manufacturers for Engine Displacements 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/chat) |
 |----|
@@ -199,7 +199,7 @@ If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to
 |*That's all. Bye.*|
 |Goodbye! Have a great day.|
 
-#### Q&A Session about Cellular Technology 
+### Q&A Session about Cellular Technology 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-----|
@@ -401,7 +401,7 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 
 ## Books
 
-### Semi-Biography 
+### Semi-Autobiography 
 
 #### Zen and the Art of Motorcycle Maintenance by Robert Pirsig 
 
