@@ -45,12 +45,12 @@
 | [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
 | [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
 
-### [StarFiveTech VisionFive2]()
+### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards)
 
-| VisionFive2 | CPU | RAM | SSD |
+| VisionFive2 | CPU | RAM | SSD (M.2 M Key) |
 |----|----|----|---|
-| 1. [VisionFive2]() | RISC-V | 8GB |  |
-| 2. [VisionFive2]() | RISC-V | 8GB |  |
+| 1. [VisionFive2](https://www.starfivetech.com/en/site/boards) | RISC-V RV64GC | 8GB |  |
+| 2. [VisionFive2](https://www.starfivetech.com/en/site/boards) | RISC-V RV64GC | 8GB |  |
 
 | Reference | Purpose |
 |---|---|
