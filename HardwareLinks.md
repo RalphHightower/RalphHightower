@@ -275,6 +275,7 @@
 | [Rockchip RK3588 system-on-module exposes 400 pins through high-density connectors](https://www.cnx-software.com/2022/12/14/rockchip-rk3588-system-on-module-exposes-400-pins-through-high-density-connectors/) |
 | [VAR-SOM-AM62 System-on-Module features TI AM625x Cortex-A53/M4 SoC](https://www.cnx-software.com/2023/02/07/var-som-am62-system-on-module-features-ti-am625x-cortex-a53-m4-soc/) |
 | [Firefly AIO-3588SG – A compact, low-profile 8K SBC with WiFi 6 and Gigabit Ethernet](https://www.cnx-software.com/2023/03/02/firefly-aio-3588sg-a-compact-low-profile-8k-sbc-with-wifi-6-and-gigabit-ethernet/) |
+| [Enterprising Maker Creates Custom Star Trek PC Case](https://www.tomshardware.com/news/enterprising-maker-creates-custom-star-trek-pc-case) |
 
 ## DIY CubeSat
 
