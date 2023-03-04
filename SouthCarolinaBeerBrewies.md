@@ -37,6 +37,7 @@
 | [Frothy Beard Brewing Company](https://frothybeard.com/)[^1] | Charleston | 2013 |
 | Ghost Monkey Brewery[^4] | Mount Pleasant ||
 | [Golden Grove](https://farmandbrew.com/)[^7] | Greenville |
+| [Good Girl Brewing]()[^13] | Aiken ||
 | [Good Times Brewing](https://millhousepizza.com/beer)[^3] | Greenwood ||
 | Grand Strand Brewing Company[^3] | Myrtle Beach ||
 | Hazelwood Brewing Company[^5] | Lexington ||
@@ -114,4 +115,5 @@
 [^10]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
 [^11]: 2023-02-20 [Columbia brewers still adjusting to shifting craft beer climate](https://www.postandcourier.com/columbia/columbia-brewers-still-adjusting-to-shifting-craft-beer-climate/article_8f043762-aee9-11ed-aa1c-6f3c503722ad.html) 
 [^12]: [Aiken Brewing Company set to close for good later this month](https://www.postandcourier.com/aikenstandard/news/aiken-brewing-company-set-to-close-for-good-later-this-month/article_20a68958-b878-11ed-8dbb-330acd29cd61.html) *March 17, 2923*
+[^13]: [Good Girl Brewing’s founders hoping to create a pet-friendly, family-friendly business in Aiken](https://www.postandcourier.com/aikenstandard/news/local/good-girl-brewings-founders-hoping-to-create-a-pet-friendly-family-friendly-business-in-aiken/article_29fb3a0c-ae15-11ed-93e9-fbe461f226a9.html)
 
