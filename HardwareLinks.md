@@ -51,6 +51,7 @@
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 
 | [Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)| (H/W) |
+| [Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q) | (H/W) |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
@@ -276,6 +277,7 @@
 | [VAR-SOM-AM62 System-on-Module features TI AM625x Cortex-A53/M4 SoC](https://www.cnx-software.com/2023/02/07/var-som-am62-system-on-module-features-ti-am625x-cortex-a53-m4-soc/) |
 | [Firefly AIO-3588SG – A compact, low-profile 8K SBC with WiFi 6 and Gigabit Ethernet](https://www.cnx-software.com/2023/03/02/firefly-aio-3588sg-a-compact-low-profile-8k-sbc-with-wifi-6-and-gigabit-ethernet/) |
 | [Enterprising Maker Creates Custom Star Trek PC Case](https://www.tomshardware.com/news/enterprising-maker-creates-custom-star-trek-pc-case) |
+| [8K AI embedded computer gets 4K HDMI input, WiFi 6, dual GbE interfaces, and more](https://www.cnx-software.com/2023/02/27/8k-ai-embedded-computer-gets-4k-hdmi-input-wifi-6-dual-gbe-interfaces-and-more/) |
 
 ## DIY CubeSat
 
