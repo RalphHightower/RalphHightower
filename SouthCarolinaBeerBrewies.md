@@ -4,7 +4,7 @@
 |---------|----------|------|
 | [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1] | Taylors | 2017 |
 | [1873 Brewing](https://www.1873brewing.com/)[^2] | Fort Mill ||
-| [Aiken Brewing Company](http://www.aikenbrewingcompany.com/)[^2] | Aiken ||
+| ~~[Aiken Brewing Company](http://www.aikenbrewingcompany.com/)~~[^2][^12] | Aiken ||
 | Amor Artis Brewing[^1] | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^3] | Lexington ||
 | [Baker & Brewer](http://www.bakerandbrewer.com/)[^4] | Charleston ||
@@ -113,3 +113,5 @@
 [^9]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
 [^10]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
 [^11]: 2023-02-20 [Columbia brewers still adjusting to shifting craft beer climate](https://www.postandcourier.com/columbia/columbia-brewers-still-adjusting-to-shifting-craft-beer-climate/article_8f043762-aee9-11ed-aa1c-6f3c503722ad.html) 
+[^12]: [Aiken Brewing Company set to close for good later this month](https://www.postandcourier.com/aikenstandard/news/aiken-brewing-company-set-to-close-for-good-later-this-month/article_20a68958-b878-11ed-8dbb-330acd29cd61.html) *March 17, 2923*
+
