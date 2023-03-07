@@ -278,6 +278,8 @@
 | [Firefly AIO-3588SG – A compact, low-profile 8K SBC with WiFi 6 and Gigabit Ethernet](https://www.cnx-software.com/2023/03/02/firefly-aio-3588sg-a-compact-low-profile-8k-sbc-with-wifi-6-and-gigabit-ethernet/) |
 | [Enterprising Maker Creates Custom Star Trek PC Case](https://www.tomshardware.com/news/enterprising-maker-creates-custom-star-trek-pc-case) |
 | [8K AI embedded computer gets 4K HDMI input, WiFi 6, dual GbE interfaces, and more](https://www.cnx-software.com/2023/02/27/8k-ai-embedded-computer-gets-4k-hdmi-input-wifi-6-dual-gbe-interfaces-and-more/) |
+| [VISIONFIVE2: A RASPBERRY PI LIKE MOMENT FOR RISC](https://boilingsteam.com/visionfive-2-a-raspberry-pi-like-moment-for-risc-v/) |
+| [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |
 
 ## DIY CubeSat
 
