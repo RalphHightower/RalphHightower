@@ -130,6 +130,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
+| [Orolia Systèmes et Solutions](https://github.com/Orolia2s) |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
