@@ -280,6 +280,7 @@
 | [8K AI embedded computer gets 4K HDMI input, WiFi 6, dual GbE interfaces, and more](https://www.cnx-software.com/2023/02/27/8k-ai-embedded-computer-gets-4k-hdmi-input-wifi-6-dual-gbe-interfaces-and-more/) |
 | [VISIONFIVE2: A RASPBERRY PI LIKE MOMENT FOR RISC](https://boilingsteam.com/visionfive-2-a-raspberry-pi-like-moment-for-risc-v/) |
 | [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |
+| [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/) |
 
 ## DIY CubeSat
 
