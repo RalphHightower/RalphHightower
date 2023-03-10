@@ -91,12 +91,13 @@
 | [NVIDIA Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products) | (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
+| [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
 | [OKdo x Radxa ROCK 5 Model B 8GB Single Board Computer Rockchip RK3588 Arm Cortex-A76](https://www.okdo.com/us/p/okdo-x-radxa-rock-5-model-b-8gb-single-board-computer-rockchip-rk3588-arm-cortex-a76/) | (H/W) $159 |
-| [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
+| **[OpenMQTTGateway](https://openmqttgateway.com/)** | (H/W) |
 | [Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) | $141.99 |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
