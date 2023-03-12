@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.15.2](https://github.com/RalphHightower/RalphHightower/compare/v1.15.1...v1.15.2) (2023-03-12)
+
+
+### Bug Fixes
+
+* El Camino scale models link ([1a00c5b](https://github.com/RalphHightower/RalphHightower/commit/1a00c5bd729ea40fdbc3f005b542d7bee140b37b))
+* replaced 2 with | to close row. Fat-fingered it ([88df37e](https://github.com/RalphHightower/RalphHightower/commit/88df37e5ff81f05f0c378129098b65bf56b1a095))
+
 ## [1.15.1](https://github.com/RalphHightower/RalphHightower/compare/v1.15.0...v1.15.1) (2023-02-26)
 
 
