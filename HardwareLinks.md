@@ -1,4 +1,4 @@
-# Hardware 
+# Hardware Links
 
 | Resource |
 |------|
@@ -22,7 +22,8 @@
 | [Allwinner H616 TV Box Processor Comes with Mali G31 GPU, Supports Android 10](https://www.cnx-software.com/2020/02/27/allwinner-h616-tv-box-processor-comes-with-mali-g31-gpu-supports-android-10/) | (H/W) |
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
-| [AmbaSat— Space Satellite Kits](https://ambasat.com/)| H/W |
+| [AmbaSat— Space Satellite Kits](https://ambasat.com/)| (H/W) |
+| [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
 | [ARM](https://www.arm.com/) | (H/W) |
