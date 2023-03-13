@@ -25,6 +25,7 @@
 | NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
 | NVIDIA Jetson AGX Xavier | [Arrow](https://www.arrow.com/products/900-82888-0040-000/nvidia) $999.00  | |
 | NVIDIA Jetson TX2i | [Arrow](https://www.arrow.com/en/products/900-83489-0000-000/nvidia) $849.00  | |
+| Jetson Orin NX 16GB Module<br>Jetson Orin NX 16GB System-on-Module (SOM): 1024-Core Ampere GPU, 8-Core ARM 64 Bit CPU, 16 GB LPDDR5  | [Arrow](https://www.arrow.com/en/products/900-13767-0000-000/nvidia) $699.00 | ✓ |
 | NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br>(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
 | NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br>(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
 | NVIDIA Jetson TX2 4GB | [Arrow](https://www.arrow.com/en/products/900-83489-0080-000/nvidia) $299.00  |  |
