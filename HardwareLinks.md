@@ -30,6 +30,7 @@
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
+| [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
 | [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) | (H/W) |
@@ -130,7 +131,7 @@
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) || [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
-
+| [Avnet Full-Fat Windows Comes to Embedded Arm Devices as Avnet Demos an NXP-Powered IoT Platform](https://www.hackster.io/news/full-fat-windows-comes-to-embedded-arm-devices-as-avnet-demos-an-nxp-powered-iot-platform-1eb74049d0e6) |
 
 ## Articles 
 
