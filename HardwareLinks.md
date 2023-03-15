@@ -288,6 +288,7 @@
 | [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |
 | [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/) |
 | [6 Project Ideas to Get Started with IoT](https://thenewstack.io/6-project-ideas-to-get-started-with-iot/) |
+| [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040)(https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |
 
 ## DIY CubeSat
 
