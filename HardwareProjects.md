@@ -132,6 +132,45 @@
 | [Blues Cellular](https://dev.blues.io/) |
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
 
+| **RISC-V** |
+|----|
+| [RISC-V — ISA Specifications](https://github.com/riscv) 
+| [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) |
+| [RISC-V — Software](https://github.com/riscv-software-src) |
+| RISC-V — Upstreaming](https://github.com/riscv-collab) |
+| [RISC-V — Android](https://github.com/riscv-android-src) |
+| [RISC-V — Administrative Docs](https://github.com/riscv-admin) |
+
+| Name	| Description	| Version	| Status[b]	| Instruction count |
+|--------|--------------|-----------|------------|----------------------|
+|Base|||||
+|RVWMO	|Weak Memory Ordering	|2.0	|Ratified	||
+|RV32I|	Base Integer Instruction Set 32-bit|	2.1	|Ratified	|40|
+|RV32E|	Base Integer Instruction Set (embedded) 32-bit 16 registers|1.9	|Open	40||
+|RV64I|	Base Integer Instruction Set 64-bit	|2.1	|Ratified|	15|
+|RV128I	|Base Integer Instruction Set 128-bit|	1.7|	Open|	15 Extension|
+|M|	Standard Extension for Integer Multiplication and Division|	2.0|	Ratified	| 8 (RV32) 13 (RV64)|
+|A	|Standard Extension for Atomic Instructions	|2.1|	Ratified	|11 (RV32) 22 (RV64)|
+|F	|Standard Extension for Single-Precision Floating-Point	|2.2	|Ratified|	26 (RV32) 30 (RV64)|
+|D|	Standard Extension for Double-Precision Floating-Point	|2.2	|Ratified|	26 (RV32) 32 (RV64)|
+|Zicsr	|Control and Status Register (CSR)	|2.0	|Ratified	|6|
+|Zifencei	|Instruction-Fetch Fence	|2.0	|Ratified	|1|
+|G	|Shorthand for the IMAFDZicsr_Zifencei| base and extensions|—|—|
+|Q	|Standard Extension for Quad-Precision Floating-Point	|2.2	|Ratified	|8 (RV32) 32 (RV64)1q Zam|
+|L	|Standard Extension for Decimal Floating-Point|	0.0	|Open|-|
+|C	|Standard Extension for Compressed Instructions	|2.0	|Ratified	|40|
+|B	|Standard Extension for Bit Manipulation	|1.0|	Ratified	|43 \[28\]|
+|J	|Standard Extension for Dynamically Translated Languages|	0.0|	Open	|-|
+|T	|Standard Extension for Transactional Memory	|0.0	|Open	|-|
+|P	|Standard Extension for Packed-SIMD Instructions|	0.9.10|	Open	|-|
+|V	|Standard Extension for Vector Operations|	1.0|	Frozen	|187[29]|
+|Zk	|Standard Extension for Scalar Cryptography	|1.0.1	|Ratified	|49|
+|N	|Standard Extension for User-Level Interrupts	|1.1	|Open	|3|
+|H	|Standard Extension for Hypervisor|	1.0	|Ratified	|15|
+|S	|Standard Extension for Supervisor-level Instructions|	1.12	|Ratified	|4|
+|Zam	|Misaligned Atomics	|0.1	|Open	|-|
+|Ztso	|Total Store Ordering|	0.1	|Frozen	|-|
+ 
 ### PTP Clock (Precision Time Protocol)
 
 |   |    |
