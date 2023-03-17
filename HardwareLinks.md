@@ -130,8 +130,7 @@
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
-| [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) || [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
-| [Avnet Full-Fat Windows Comes to Embedded Arm Devices as Avnet Demos an NXP-Powered IoT Platform](https://www.hackster.io/news/full-fat-windows-comes-to-embedded-arm-devices-as-avnet-demos-an-nxp-powered-iot-platform-1eb74049d0e6) |
+| [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 
 ## Articles 
 
@@ -222,7 +221,6 @@
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 | [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
 | [Orange Pi 5 Review – Powerful, No WiFi](https://jamesachambers.com/orange-pi-5-review/) |
-| [Orange Pi 5](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) | (H/W) |
 | [Khadas Edge2 review with Android 12](https://www.cnx-software.com/2022/10/04/khadas-edge2-review-with-android-12/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
 | [Latest Raspberry Pi OS Release Brings Improved Camera and Networking Support](https://www.tomshardware.com/news/new-raspberry-pi-os-release-improved-camera-and-networking) |
@@ -289,7 +287,8 @@
 | [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |
 | [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/) |
 | [6 Project Ideas to Get Started with IoT](https://thenewstack.io/6-project-ideas-to-get-started-with-iot/) |
-| [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040)(https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |
+| [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040)]https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |
+| [Avnet Full-Fat Windows Comes to Embedded Arm Devices as Avnet Demos an NXP-Powered IoT Platform](https://www.hackster.io/news/full-fat-windows-comes-to-embedded-arm-devices-as-avnet-demos-an-nxp-powered-iot-platform-1eb74049d0e6) |
 
 ## DIY CubeSat
 
