@@ -29,6 +29,7 @@
 | [ARM](https://www.arm.com/) | (H/W) |
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
+| [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
