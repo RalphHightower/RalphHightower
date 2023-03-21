@@ -126,6 +126,8 @@
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | [SolidRun – Embedded Computers](https://www.solid-run.com/) | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
+| [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
+| [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [Toradex System on Module](https://www.toradex.com/) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
@@ -288,8 +290,10 @@
 | [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |
 | [Hands-on experience with StarFive VisionFive 2 RISC-V SBC using Debian 12](https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/) |
 | [6 Project Ideas to Get Started with IoT](https://thenewstack.io/6-project-ideas-to-get-started-with-iot/) |
-| [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040)]https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |
+| [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040](https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |
 | [Avnet Full-Fat Windows Comes to Embedded Arm Devices as Avnet Demos an NXP-Powered IoT Platform](https://www.hackster.io/news/full-fat-windows-comes-to-embedded-arm-devices-as-avnet-demos-an-nxp-powered-iot-platform-1eb74049d0e6) |
+| [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/) |
+| [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more (Sponsored)](https://www.cnx-software.com/2023/03/21/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 
 ## DIY CubeSat
 
