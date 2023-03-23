@@ -15,7 +15,7 @@
 | The Animated Series | (1973–1974) | James Kirk |
 | Lower Decks | (2020–present) |  |
 | Prodigy | (2021–present) | Brett Gray |
-
+| Section 31 | Rumored | |
 ## Star Trek Movies
 
 | Title | Year | Cast |
