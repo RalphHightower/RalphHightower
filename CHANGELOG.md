@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.3](https://github.com/RalphHightower/RalphHightower/compare/v1.15.2...v1.15.3) (2023-03-23)
+
+
+### Bug Fixes
+
+* display of Star Trek series ([432ad0b](https://github.com/RalphHightower/RalphHightower/commit/432ad0b708f86b2efe4d0c827fd27eab24460680))
+
 ## [1.15.2](https://github.com/RalphHightower/RalphHightower/compare/v1.15.1...v1.15.2) (2023-03-12)
 
 
