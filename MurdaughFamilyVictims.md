@@ -30,7 +30,6 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 
 | Partners In Crime | Occupation | Crime(s) | Venue | Trial Date | Verdict | Sentence |
 |----|---|---|---|----|----|---|
-| [Davis, Spencer Anwan]()[^1] |•| |  | TBD | TBD | TBD |
 | [Fleming, Cory]()[^1] | Attorney |• |  | TBD | TBD | TBD |
 | [Lafitte, Russell]()[^1] | Palmetto State Bank, ex-CEO |• |  | TBD | TBD | TBD |
 | [Roberts, Greg]()[^1] | Sheriff, Yemassee County |• |  | TBD | TBD | TBD |
