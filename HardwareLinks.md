@@ -296,6 +296,7 @@
 | [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/) |
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more (Sponsored)](https://www.cnx-software.com/2023/03/21/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module](https://www.cnx-software.com/2023/03/23/orange-pi-5b-sbc-adds-up-to-256gb-emmc-flash-built-in-wifi-6-and-bluetooth-5-0-module/) |
+| [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
 
 ## DIY CubeSat
 
