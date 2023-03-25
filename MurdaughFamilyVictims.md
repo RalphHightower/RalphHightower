@@ -1,4 +1,4 @@
-# Alex Murdaugh Crimes (Boss Hogg of Hampton County)
+# Boss Hogg of Hampton County, Alex Murdaugh: The Crimes, and Victims, & his Partners In Crime
 
 ## Victims
 
