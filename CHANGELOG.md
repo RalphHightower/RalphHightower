@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.4](https://github.com/RalphHightower/RalphHightower/compare/v1.15.3...v1.15.4) (2023-03-24)
+
+
+### Bug Fixes
+
+* delete duplicate partner in crime ([1b32ba6](https://github.com/RalphHightower/RalphHightower/commit/1b32ba6ab7ad8f14dedf20b14cc52dc94ee565d4))
+
 ## [1.15.3](https://github.com/RalphHightower/RalphHightower/compare/v1.15.2...v1.15.3) (2023-03-23)
 
 
