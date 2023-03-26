@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.5](https://github.com/RalphHightower/RalphHightower/compare/v1.15.4...v1.15.5) (2023-03-26)
+
+
+### Bug Fixes
+
+* link to Stephen Smith ([b246686](https://github.com/RalphHightower/RalphHightower/commit/b24668675b32b509da7b5dcccec37d7d857d52e5))
+
 ## [1.15.4](https://github.com/RalphHightower/RalphHightower/compare/v1.15.3...v1.15.4) (2023-03-24)
 
 
