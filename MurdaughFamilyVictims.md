@@ -8,7 +8,7 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 |----|----|----|----|----|----|
 | [Murdaugh, Margaret (wife)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/)<br>[Murdaugh, Paul (son)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/) | • Murder (2 counts)<br>• Possession of a weapon during commission of a violent crime (2 counts)| Colleton County | January 21, 2003 – March 3, 2023 | Guilty (all 4 counts) | Consecutive life sentences |
 | [Beach, Mallory]() | • |  | TBD | TBD | TBD |
-| [Smith, Stephen](https://ralphhightower.github.io/Murdaugh_ColdCase_SmithStephen/)[^1] | Closed as a Hit and Run in 2015 by SC Highway Patrol.<br>Cold case reopened as murder investigation by SLED[^2] in 2023. |• | TBD | TBD | TBD |
+| [Smith, Stephen](https://ralphhightower.github.io/MurdaughColdCaseSmithStephen/))[^1] | Closed as a Hit and Run in 2015 by SC Highway Patrol.<br>Cold case reopened as murder investigation by SLED[^2] in 2023. |• | TBD | TBD | TBD |
 | [Anderson, Christopher]()[^1] | 2021-GS-47-34:<br>• Breach of Trust with Fraudulent Intent<br>• Money Laundering<br>• Computer Crime| Hampton County| TBD | TBD | TBD |
 | [Badger, Arthur]()[^1] | 2022-GS-47-03:<br> • Breach of Trust with Fraudulent Intent (14 Counts)<br>• Computer Crime | Allendale County |.|.|.|
 | [Bush, Johnny]()[^1] | 2021-GS-47-36:<br>• Breach of Trust with Fraudulent Intent<br>• Computer Crime| Hampton  County| TBD | TBD | TBD |
