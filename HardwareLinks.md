@@ -45,6 +45,7 @@
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
+| [CM4 Maker Board and Kits](https://www.cytron.io/c-raspberry-pi/c-raspberry-pi-main-board/c-raspberry-pi-cm/p-cm4-maker-board-and-kits?ref=W8G5bu_iIYeT6H) | (H/W) $154.80 |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
@@ -297,6 +298,7 @@
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more (Sponsored)](https://www.cnx-software.com/2023/03/21/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module](https://www.cnx-software.com/2023/03/23/orange-pi-5b-sbc-adds-up-to-256gb-emmc-flash-built-in-wifi-6-and-bluetooth-5-0-module/) |
 | [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
+| [Cytron CM4 Maker Board review – Part 1: specifications, unboxing, and first boot](https://www.cnx-software.com/2023/03/27/cm4-maker-board-review-specifications-unboxing-and-first-boot/) |
 
 ## DIY CubeSat
 
