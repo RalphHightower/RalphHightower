@@ -58,6 +58,7 @@
 | [Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q) | (H/W) |
 | [Firefly Core Boards](https://www.firefly.store/category.php?id=3) | (H/W) |
 | [Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j) | (H/W) 16GBV  $679 (basic pkg) - $978 (Deluxe pkg) |
+| [Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188) | (H/W) $759 16GB |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
@@ -299,6 +300,7 @@
 | [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module](https://www.cnx-software.com/2023/03/23/orange-pi-5b-sbc-adds-up-to-256gb-emmc-flash-built-in-wifi-6-and-bluetooth-5-0-module/) |
 | [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
 | [Cytron CM4 Maker Board review – Part 1: specifications, unboxing, and first boot](https://www.cnx-software.com/2023/03/27/cm4-maker-board-review-specifications-unboxing-and-first-boot/) |
+| [Firefly Rockchip RK3588M automotive-grade AI SoC supports up to 16 camera inputs](https://www.cnx-software.com/2023/03/27/rockchip-rk3588m-automotive-grade-ai-soc-supports-up-to-16-camera-inputs/) 
 
 ## DIY CubeSat
 
