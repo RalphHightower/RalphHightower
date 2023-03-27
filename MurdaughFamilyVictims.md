@@ -30,7 +30,7 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 
 | Partners In Crime | Occupation | Crime(s) | Venue | Trial Date | Verdict | Sentence |
 |----|---|---|---|----|----|---|
-| [Alexander, Greg](https://github.com/RalphHightower/MurdaughPICGregAlexander) | Sheriff, Yemassee County |• |  | TBD | TBD | TBD |
+| [Alexander, Greg](https://ralphhightower.github.io/MurdaughPICGregAlexander/) | Sheriff, Yemassee County |• |  | TBD | TBD | TBD |
 | [Fleming, Cory]()[^1] | Attorney |• |  | TBD | TBD | TBD |
 | [Lafitte, Russell]()[^1] | Palmetto State Bank, ex-CEO |• |  | TBD | TBD | TBD |
 | [Roberts, Spencer Anwan]()[^1]| | 2022-GS-47-22:<br>• Obtaining Property by False Pretenses <br>• Money Laundering <br>• Computer Crime <br>• False Statement or Misrepresentation (Insurance Fraud)| Colleton County |.|.|. |
