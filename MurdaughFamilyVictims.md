@@ -6,7 +6,7 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 
 | Victim(s) | Crime(s) Committed by Murdaugh(s) | Venue | Trial Date | Verdict | Sentence |
 |----|----|----|----|----|----|
-| [Murdaugh, Margaret (wife)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/)<br>[Murdaugh, Paul (son)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/) | • Murder (2 counts)<br>• Possession of a weapon during commission of a violent crime (2 counts)| Colleton County | January 21, 2003 – March 3, 2023 | Guilty (all 4 counts) | Consecutive life sentences |
+| [Murdaugh, Margaret (wife)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/)<br>[Murdaugh, Paul (son)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/) | • Murder (2 counts)<br>- **2022-GS-15-00592:** Maggie <br>- **2022-GS-15-00593:** Paul<br>• Possession of a weapon during commission of a violent crime (2 counts)<br>- **2022-GS-15-00594:** Maggie <br>- **2022-GS-15-00595:** Paul | Colleton County | January 21, 2003 – March 3, 2023 | Guilty (all 4 counts) | Consecutive life sentences |
 | [Beach, Mallory]() | • |  | TBD | TBD | TBD |
 | [Smith, Stephen](https://ralphhightower.github.io/MurdaughColdCaseSmithStephen/) | Closed as a Hit and Run in 2015 by SC Highway Patrol.<br>Cold case reopened as murder investigation by SLED[^2] in 2023. |• | TBD | TBD | TBD |
 | [Anderson, Christopher]()[^1] | **2021-GS-47-34:** <br>• Breach of Trust with Fraudulent Intent<br>• Money Laundering<br>• Computer Crime| Hampton County| TBD | TBD | TBD |
@@ -18,13 +18,13 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 | [Martin, Dean J]()[^1] | **2021-GS-47-29:** <br>• Breach of Trust with Fraudulent Intent (2 counts) <br>• Computer Crime (2 counts) | Allendale County| TBD | TBD | TBD |
 | [Moore, Thomas L]()[^1] | **2021-GS-47-27:** <br>• Breach of Trust with Fraudulent Intent (1 count) <br>• Money Laundering (1 count)<br>• Computer Crime (1 count)<br>• Forgery (1 count)   | Orangeburg | TBD | TBD | TBD |
 | [Taylor, Sandra]()[^1] | **2021-GS-47-38:** <br>• Breach of Trust with Fraudulent Intent<br>• Money Laundering<br>• Computer Crime| Colleton County| TBD | TBD | TBD |
-| [Peters, Murtaugh, Parker, Eltzroth, Detrick]()[^1] | **2022-GS-47-03: (Hampton)** <br>• Obtaining Signature or Property by False Pretenses (two counts)<br>• Money Laundering (two counts) <br>• Computer Crime<br>**2022-GS-47-24 (Colleton):** <br>Obtaining Signature or Property by False Pretenses (two counts) <br>Money Laundering <br>• Computer Crime<br>**2021-GS-47-28 (Bamberg, due to Wilson, Chris):** <br>• Obtaining Signature or Property by False Pretenses (4 counts) <br>• Money Laundering (3 counts) <br>• Computer Crime (1 count).  | Hampton County  | TBD | TBD | TBD |
+| [Peters, Murtaugh, Parker, Eltzroth, Detrick]()[^1] | **2022-GS-47-03: (Hampton)** <br>• Obtaining Signature or Property by False Pretenses (two counts)<br>• Money Laundering (two counts) <br>• Computer Crime<br>**2022-GS-47-24 (Colleton):** <br>Obtaining Signature or Property by False Pretenses (two counts) <br>Money Laundering <br>• Computer Crime<br>**2021-GS-47-28 (Bamberg):** <br>• Obtaining Signature or Property by False Pretenses (4 counts) <br>• Money Laundering (3 counts) <br>• Computer Crime (1 count).  | Hampton County  | TBD | TBD | TBD |
 | [Pinckney Family Trust]()[^1] | **2022-GS-47-02 (Hampton):** <br>• Breach of Trust with Fraudulent Intent (3 counts) <br>• Computer Crime (2 counts) <br>• Criminal Conspiracy (2 counts) | Hampton County |.|.|.|
 | [Risher, Jamian]()[^1] | **2021-GS-47-37:** <br>• Breach of Trust 
 | [Santis-Cristiani, Manuel]()[^1] | **2021-GS-47-31:** <br>• Breach of Trust with Fraudulent Intent (1 count) <br>• Computer Crime (1 count)  | Colleton County| TBD | TBD | TBD |
 | [Satterfield, Gloria]()[^1] | **2021-GS-47-30:** <br>• Obtaining Property by False Pretenses  (3 counts) <br>• Money Laundering (3 counts) <br>• Computer Crime (3 counts)<br>• Criminal Conspiracy (1 count)<br>• False Statement or Misrepresentation (3 counts) | Beaufort  | TBD | TBD | TBD |
 | Thomas, Natasha | **2022-GS-47-01:** <br>• Breach of Trust with Fraudulent Intent (4 counts) <br>• Computer Crime (1 count)<br>• Criminal Conspiracy (1 count) | Hampton County |.|.|.|
-| [Wilson, Chris]()[^1] | *reference PMPED: 2021-GS-47-28* | Bamberg County | TBD | TBD | TBD |
+| [Wilson, Chris]()[^1] |• |  | TBD | TBD | TBD |
 | [State of South Carolina]()[^1] | **2022-GS-47-34:** <br>• Willful Attempt to Evade or Defeat a Tax (9 counts) <br> **2021-GS-25-00478 (Hampton):** <br>•False Claim for Payment <br>• Filing a False Police Report<br> • Conspiracy | Hampton County |.|.|.|
 
 ## Partners In Crime 
