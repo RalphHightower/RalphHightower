@@ -63,18 +63,18 @@
 
 | Description | Version | Date | Link |
 |-------------|---------|------|------|
-| Digital Photo Professional for Windows | 4.17.00| 2022-11-08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjIwNjQ1&cmp=ABR&lang=EN) |
-| EOS Utility for Windows | 3.16.00 | 2022-11-08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjcxNzAx&cmp=ABR&lang=EN) |
-| Picture Style Editor for Windows | 1.28.00 | 2022-11.08 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjcyMTAx&cmp=ABR&lang=EN) |
-| EOS Webcam Utility Pro | 2.0 | 2020-11-11 | [Download Form](https://www.usa.canon.com/support/p/eos-5d-mark-iii#idReference%3Dsoftware-drivers) |
+| Digital Photo Professional for Windows | 4.17.20 | 2023-03-30 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjIzMWEx&cmp=ABR&lang=EN) |
+| EOS Utility for Windows | 3.16.10 | 2023‐02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyNzAx&cmp=ABR&lang=EN) |
+| Picture Style Editor for Windows | 1.28.10 | 2023-02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyOTAx&cmp=ABR&lang=EN) |
+| EOS Webcam Utility Pro | 2.0 | 2022-11-09 | [Download Form](https://www.usa.canon.com/support/p/eos-5d-mark-iii#idReference%3Dsoftware-drivers) |
 
 #### Manuals
 
 | Description |  Date | Link |
 |---|---|---|
-| EOS 5D Mark III INSTRUCTION MANUAL | 2016-08.09 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzM0ODA2&cmp=ABR&lang=EN) |
+| EOS 5D Mark III INSTRUCTION MANUAL | 2016-08-09 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzM0ODA2&cmp=ABR&lang=EN) |
 | Pocket Guide (EOS 5D Mark III) | 2012-03.09 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzM1MzAx&cmp=ABR&lang=EN) |
-| Picture Style Editor Ver. 1.26 for Windows Instruction Manual | 2021-07-08| [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDA0MDI3NjAy&cmp=ABR&lang=EN)  |
+| Picture Style Editor Ver. 1.26 for Windows Instruction Manual | 2021-07-08| [Download](https://cam.start.canon/en/S004/)  |
 
 #### Canon EF 24-105mm f4L
 
@@ -84,12 +84,14 @@
 
 ### Flash
 
+#### [Speedlite 600EX II-RT](https://www.usa.canon.com/shop/p/speedlite-600ex-ii-rt)
+
 | Description | Date | Link |
 |-------------|------|------|
 | SPEEDLITE 600EX II-RT INSTRUCTION MANUAL | 2016-05-30 | [Download]() |
 | ST-E3-RT INSTRUCTION MANUAL | 2014-07-07 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDMwMDAwNzUxNTAy&cmp=ABR&lang=EN) |
 
-### GPS
+### [GPS Receiver GP-E2](https://www.usa.canon.com/shop/p/gps-receiver-gp-e2)
 
 #### Firmware, Software 
 
@@ -168,9 +170,9 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
 | Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
 | We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
-| What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site LensAuthority.com sells tested, guaranteed used equipment at an exceptional price. |
+| What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
 
-I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from lensrentals.com for use at The Masters and for the 2017 Total Solar Eclipse. 
+I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
 
 <hr>
 
