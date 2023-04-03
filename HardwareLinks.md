@@ -304,6 +304,7 @@
 | [A first look at GL.iNet GL-S200 Thread Border Router kit with three nRF52840 Thread boards](https://www.cnx-software.com/2023/03/19/a-first-look-at-gl-inet-gl-s200-thread-border-router-kit-with-three-nrf52840-thread-boards/) |
 | [Getting Started with GL-S200 Thread Border Router kit](https://www.cnx-software.com/2023/03/25/getting-started-with-gl-s200-thread-border-router-kit/) |
 | [Tenstorrent Shares Roadmap of Ultra-High-Performance RISC-V CPUs and AI Accelerators](https://www.tomshardware.com/news/tenstorrent-shares-roadmap-of-ultra-high-performance-risc-v-cpus-and-ai-accelerators) |
+| **[Orange Pi 5: Specs, Price, Release & Reviews](https://all3dp.com/2/orange-pi-5-review-specs/)** *(32GB RAM spec, not found)* |
 
 ## DIY CubeSat
 
