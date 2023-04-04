@@ -101,6 +101,7 @@
 | [The Velo Fellow ](http://thevelofellow.com/)[^4] | Greenville ||
 | Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
 | [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^3] | Summerville ||
+| [Wild Heart Brewing](https://wildheartbrewing.com/)[^1] | Hartsville ||
 | [Wind and Waves Brewing](https://www.windandwavesbrewing.com/home)[^10] | North Charleston ||
 
 [^1]: [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
