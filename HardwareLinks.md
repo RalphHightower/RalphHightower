@@ -304,6 +304,9 @@
 | [A first look at GL.iNet GL-S200 Thread Border Router kit with three nRF52840 Thread boards](https://www.cnx-software.com/2023/03/19/a-first-look-at-gl-inet-gl-s200-thread-border-router-kit-with-three-nrf52840-thread-boards/) |
 | [Getting Started with GL-S200 Thread Border Router kit](https://www.cnx-software.com/2023/03/25/getting-started-with-gl-s200-thread-border-router-kit/) |
 | [Tenstorrent Shares Roadmap of Ultra-High-Performance RISC-V CPUs and AI Accelerators](https://www.tomshardware.com/news/tenstorrent-shares-roadmap-of-ultra-high-performance-risc-v-cpus-and-ai-accelerators) |
+HardwareLinks/Articles:
+| [Seeed Studio Partners with Davide Cogliati for a Long-Range Grove Lightning Sensor](https://www.hackster.io/news/seeed-studio-partners-with-davide-cogliati-for-a-long-range-grove-lightning-sensor-2aecc4c4a148) |
+| [Bothered With Unpredictable Thunderstorms? Grove – Lightning Sensor (AS3935) Is Prepared To Hit Seeed Studio Shelves](https://www.seeedstudio.com/blog/2023/03/31/bothered-with-unpredictable-thunderstorms-grove-lightning-sensoras3935-is-prepared-to-hit-bazaar-shelves/) |
 
 ## DIY CubeSat
 
