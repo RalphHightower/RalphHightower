@@ -22,7 +22,7 @@
 | [Allwinner H616 TV Box Processor Comes with Mali G31 GPU, Supports Android 10](https://www.cnx-software.com/2020/02/27/allwinner-h616-tv-box-processor-comes-with-mali-g31-gpu-supports-android-10/) | (H/W) |
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
-| [AmbaSat— Space Satellite Kits](https://ambasat.com/)| (H/W) |
+| **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
@@ -45,7 +45,7 @@
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
-| [CM4 Maker Board and Kits](https://www.cytron.io/c-raspberry-pi/c-raspberry-pi-main-board/c-raspberry-pi-cm/p-cm4-maker-board-and-kits?ref=W8G5bu_iIYeT6H) | (H/W) $154.80 |
+| [Cytron CM4 Maker Board and Kits](https://www.cytron.io/c-raspberry-pi/c-raspberry-pi-main-board/c-raspberry-pi-cm/p-cm4-maker-board-and-kits?ref=W8G5bu_iIYeT6H) | (H/W) $154.80 |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
@@ -54,11 +54,11 @@
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 |
-| [Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)| (H/W) |
-| [Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q) | (H/W) |
-| [Firefly Core Boards](https://www.firefly.store/category.php?id=3) | (H/W) |
-| [Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j) | (H/W) 16GBV  $679 (basic pkg) - $978 (Deluxe pkg) |
-| [Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188) | (H/W) $759 16GB |
+| **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
+| **[Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q)** | (H/W) |
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
+| **[Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j)** | (H/W) **16GB $679** (basic pkg) - $978 (Deluxe pkg) |
+| **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $759 16GB** |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
@@ -78,9 +78,10 @@
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
-| [Lichee Pi4](https://sipeed.com/licheepi4a/) 16 GB | Pre-order |
+| **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
+| [Mekotronics R58X-HDD](https://www.mekotronics.com/h-pd-75.html) | (H/W) |
 | [Microchip Technology PIC-IoT WA Development Board (EV54Y39A)](https://www.mouser.com/new/microchip/microchip-pic-iot-wa-dev-board/) connection to Amazon Web Services | (H/W) $40.39 |
 | [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Microchip Get Launched — A global electronics design program to fund, manufacture, and ship amazing products](https://www.crowdsupply.com/microchip/get-launched) | (H/W) |
@@ -103,9 +104,9 @@
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | **[OpenMQTTGateway](https://openmqttgateway.com/)** | (H/W) |
-| [Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1) | $141.99 |
+| **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)** | $141.99 |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
-| [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html) | (H/W) [Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83) <br>[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html) |
+| **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br>**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
@@ -114,9 +115,9 @@
 | [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code) | (H/W) $159.00 ($30 off for $5 coupon purchase) |
 | [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
-| [RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/) | (H/W) |
+| **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
-| [ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>$219.95 USD (16GB) |
+| **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>**$219.95 USD (16GB)** |
 | [SB Components — Shopify](https://sbcshop.myshopify.com/) | (H/W) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
@@ -127,7 +128,7 @@
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
-| [SolidRun – Embedded Computers](https://www.solid-run.com/) | (H/W) |
+| **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
@@ -146,10 +147,10 @@
 | [Machinechat JEDI: What Can It Do?](https://www.sparkfun.com/news/5469?utm_content=224507427&utm_medium=social&utm_source=linkedin&hss_channel=lcp-1022976) \(SparkFun\) |
 | [Choose a License](https://choosealicense.com/) |
 | [Neon Programmers Guide](https://usermanual.wiki/Document/DEN0018Aneonprogrammersguide.1958102256) |
-| [Microsoft’s “Project Volterra” becomes an Arm-powered mini PC with 32GB of RAM](https://arstechnica.com/gadgets/2022/10/microsofts-snapdragon-powered-mini-pc-for-devs-includes-32gb-of-ram-costs-599/) |
+| **[Microsoft’s “Project Volterra” becomes an Arm-powered mini PC with 32GB of RAM](https://arstechnica.com/gadgets/2022/10/microsofts-snapdragon-powered-mini-pc-for-devs-includes-32gb-of-ram-costs-599/)** |
 | [Available today: Windows Dev Kit 2023 aka Project Volterra](https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/) |
 | [Hack A Day](https://hackaday.com/) |
-| [The Museum of HP Calculators](https://www.hpmuseum.org/) |
+| **[The Museum of HP Calculators](https://www.hpmuseum.org/)** |
 | [Mini Pupper 2 – Raspberry Pi 4 / CM4 robot dog adds ESP32, ROS2 support, servo feedback (Crowdfunding)](https://www.cnx-software.com/2022/10/19/mini-pupper-2-raspberry-pi-4-cm4-robot-dog-esp32-ros2-servo-feedback/) |
 | [Build a Passive Radar With Software-Defined RadioSpot](https://spectrum.ieee.org/passive-radar-with-sdr) |
 | [uConsole is a modular Arm or RISC-V handheld computer with optional 4G connectivity](https://www.cnx-software.com/2022/10/26/uconsole-modular-arm-or-risc-v-handheld-computer-4g-connectivity/) |
@@ -208,8 +209,8 @@
 | [Electronic music icon Korg makes music with Raspberry Pi](https://www.raspberrypi.com/news/electronic-music-icon-korg-makes-music-with-raspberry-pi/) |
 | [Cool Pi 4 Model B – A much faster alternative to Raspberry Pi 4 SBC](https://www.cnx-software.com/2022/12/04/cool-pi-4-model-b-powerful-raspberry-pi-4-alternative/) |
 | [Build your own Raspberry Pi flight tracker](https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/) |
-| [TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/) |
-| [TwoTrees TS2 laser engraver review – Part 2: A beginner’s experience with LaserGRBL and MKSLaser](https://www.cnx-software.com/2023/01/16/twotrees-ts2-laser-engraver-review-part-2-lasergrbl-mkslaser/) |
+| **[TOOCA Laser L1 review – An affordable 5W laser engraver](https://www.cnx-software.com/2022/12/15/twotrees-ts2-laser-engraver-review-unboxing-and-assembly/)** |
+| **[TwoTrees TS2 laser engraver review – Part 2: A beginner’s experience with LaserGRBL and MKSLaser](https://www.cnx-software.com/2023/01/16/twotrees-ts2-laser-engraver-review-part-2-lasergrbl-mkslaser/)** |
 | [$96+ Banana Pi BPI-M2S Amlogic A311D/S922X SBC offers dual GbE, optional PoE and WiFi 5](https://www.cnx-software.com/2022/12/20/96-banana-pi-bpi-m2s-amlogic-a311d-s922x-sbc-offers-dual-gbe-optional-poe-and-wifi-5/) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://www.cnx-software.com/2022/12/22/meadow-f7v2-feather-stm32f7-mcu-board-dotnet-c-programing/) |
 | [EdgeBox-ESP-100 – An ESP32-S3 industrial controller with RS485, CAN Bus, DIO, 4G LTE, and more](https://www.cnx-software.com/2022/12/21/edgebox-esp-100-esp32-s3-industrial-controller-with-rs485-can-bus-dio-4g-lte/) |
@@ -218,14 +219,14 @@
 | [Allwinner T3 automotive-grade processor powers industrial-grade SoM](https://www.cnx-software.com/2022/11/23/allwinner-t3-automotive-grade-processor-powers-industrial-grade-som/) |
 | [Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor](https://www.cnx-software.com/2022/12/27/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/) |
 | [Geniatech DS-3566 digital signage board is powered by a Rockchip RK3566 SoC](https://www.cnx-software.com/2022/12/26/ds-3566-rockchip-rk3566-digital-signage-board/) |
-| [Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot) |
+| **[Firefly's Mini-ITX ITX-3588J Is The Hulk to Raspberry Pi's Bruce Banner](https://www.tomshardware.com/news/itx-3588j-motherboard-is-a-lot)** |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [CANFDuino – A Dual CAN Arduino based platform with enclosure, proto area (Crowdfunding)](https://www.cnx-software.com/2022/02/15/canfduino-dual-can-arduino-based-platform-with-enclosure-proto-area/) |
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more](https://www.cnx-software.com/2022/12/30/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [$60 Raspberry Pi Mini Tower NAS kit takes one M.2 SATA SSD](https://www.cnx-software.com/2022/09/10/60-raspberry-pi-mini-tower-nas-kit-m2-sata-ssd/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) | 
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
-| [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
+| **[Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/)** |
 | [Orange Pi 5 Review – Powerful, No WiFi](https://jamesachambers.com/orange-pi-5-review/) |
 | [Khadas Edge2 review with Android 12](https://www.cnx-software.com/2022/10/04/khadas-edge2-review-with-android-12/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
@@ -255,8 +256,8 @@
 | [Khadas VIM1S (Amlogic S905Y4) SBC review with Android 11](https://www.cnx-software.com/2023/01/09/khadas-vim1s-amlogic-s905y4-sbc-review-android-11/) |
 | [Pine64 and Radxa's new Pi CM4-compatible boards](https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards) |
 | [Raspberry Pi: Tutorials, Models, How to Get Started](https://www.tomshardware.com/news/raspberry-pi) |
-| [Please forward this to anyone who got a Raspberry Pi for Christmas](https://www.raspberrypi.com/news/please-forward-this-to-anyone-who-got-a-raspberry-pi-for-christmas/) |
-| [Sipeed Lichee Pi 4A is a modular RISC-V mini PC with up to 16GB RAM](https://liliputing.com/sipeed-lichee-pi-4a-is-a-modular-risc-v-mini-pc-with-up-to-16gb-ram/) |
+| **[Please forward this to anyone who got a Raspberry Pi for Christmas](https://www.raspberrypi.com/news/please-forward-this-to-anyone-who-got-a-raspberry-pi-for-christmas/)** |
+| **[Sipeed Lichee Pi 4A is a modular RISC-V mini PC with up to 16GB RAM](https://liliputing.com/sipeed-lichee-pi-4a-is-a-modular-risc-v-mini-pc-with-up-to-16gb-ram/)** |
 | [Khadas VIM4 Review: Faster Than a Raspberry Pi](https://www.tomshardware.com/reviews/khadas-vim4-review) |
 | [Raspberry Pi HAT Brings 5G To Your Projects](https://www.tomshardware.com/news/raspberry-pi-5g-hat) |
 | [Develop for all six NVIDIA Jetson Orin modules with the power of one developer kit](https://www.arrow.com/en/research-and-events/articles/develop-for-all-six-nvidia-jetson-orin-modules-with-the-power-of-one-developer-kit) |
@@ -273,15 +274,15 @@
 | [VAR-SOM-MX93 SO-DIMM NXP i.MX 93 SoM features WiFi, Bluetooth, Audio codec](https://www.cnx-software.com/2023/01/19/var-som-mx93-so-dimm-nxp-i-mx-93-som-features-wifi-bluetooth-audio-codec/) |
 | [CHIPSEA CST85F01 480 MHz Cortex-M4 MCU supports dual-band WiFi 6 and Bluetooth 5.0 LE](https://www.cnx-software.com/2023/01/19/chipsea-cst85f01-480-mhz-cortex-m4-mcu-supports-dual-band-wifi-6-and-bluetooth-5-0-le/) |
 | [NVIDIA Grace CPU Superchip Architecture In Depth](https://developer.nvidia.com/blog/nvidia-grace-cpu-superchip-architecture-in-depth/) |
-| [Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/) |
-| [Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/) |
+| **[Radxa Rock5 Model A is a credit card-sized single-board PC with RK3588S and up to 16GB RAM](https://liliputing.com/radxa-rock5-model-a-is-a-credit-card-sized-single-board-pc-with-rk3588-and-up-to-16gb-ram/)** |
+| **[Radxa ROCK 5A SBC – A Raspberry Pi 4 lookalike with up to 16GB RAM, Rockchip RK3588S SoC](https://www.cnx-software.com/2023/01/22/radxa-rock-5a-sbc-a-raspberry-pi-4-lookalike-with-up-to-16gb-ram-rockchip-rk3588s-soc/)** |
 | [New NVIDIA Jetson Orin NX 16GB launches worldwide from $599](https://www.geeky-gadgets.com/nvidia-jetson-orin-nx-25-01-2023/) |
-| [HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summerb2023](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/) |
+| **[HiFive Pro P550 “Horse Creek” RISC-V motherboard with 16GB RAM to launch this summerb2023](https://www.cnx-software.com/2023/01/24/hifive-pro-p550-horse-creek-risc-v-sbc16gb-ram/)** |
 | [ESP32 OpenMQTTGateway smart plug acts as an BLE MQTT gateway and a power meter](https://www.cnx-software.com/2023/01/26/esp32-openmqttgateway-smart-plug-acts-as-an-ble-mqtt-gateway-and-a-power-meter/) |
 | [RAK2560 WisNode LoRaWAN & BLE Sensor Hub ships with a choice of sensor modules](https://www.cnx-software.com/2022/11/26/rak2560-wisnode-lorawan-ble-sensor-hub-ships-with-a-choice-for-sensor-modules/) |
-|[Theengs open-source tools to decode BLE sensors work on ESP32, Raspberry Pi, Android phone, etc…](https://www.cnx-software.com/2022/07/22/theengs-open-source-tools-to-decode-ble-sensors-work-on-esp32-raspberry-pi-android-phone/) |
+| [Theengs open-source tools to decode BLE sensors work on ESP32, Raspberry Pi, Android phone, etc…](https://www.cnx-software.com/2022/07/22/theengs-open-source-tools-to-decode-ble-sensors-work-on-esp32-raspberry-pi-android-phone/) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
-| [Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)<br>$99 for the 4GB model, $119 for the 8GB model, and $159 for the 16GB model |
+| **[Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)** <br>$99 for the 4GB model, $119 for the 8GB model, and **$159 for the 16GB model** |
 |[ON XGO 2 – A RASPBERRY PI CM4 BASED ROBOT DOG WITH AN ARM (CROWDFUNDING)](https://www.cnx-software.com/2023/02/01/xgo-2-a-raspberry-pi-cm4-robot-dog-robotic-arm/) |
 | [WinLink E850-96Board SBC is powered by Samsung Exynos 850 Octa-core Cortex-A55 SoC](https://www.cnx-software.com/2023/02/01/winlink-e850-96board-sbc-samsung-exynos-850/) |
 | [Rockchip RK3588 system-on-module exposes 400 pins through high-density connectors](https://www.cnx-software.com/2022/12/14/rockchip-rk3588-system-on-module-exposes-400-pins-through-high-density-connectors/) |
@@ -298,16 +299,17 @@
 | [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/) |
 | [Pironman review – A Raspberry Pi 4 enclosure with M.2 SATA, safe power off, RGB LED strip, and more (Sponsored)](https://www.cnx-software.com/2023/03/21/pironman-review-raspberry-pi-4-enclosure-with-m-2-sata-safe-power-off-rgb-led-strip/) |
 | [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module](https://www.cnx-software.com/2023/03/23/orange-pi-5b-sbc-adds-up-to-256gb-emmc-flash-built-in-wifi-6-and-bluetooth-5-0-module/) |
-| [Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/) |
+| **[Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/)** |
 | [Cytron CM4 Maker Board review – Part 1: specifications, unboxing, and first boot](https://www.cnx-software.com/2023/03/27/cm4-maker-board-review-specifications-unboxing-and-first-boot/) |
 | [Firefly Rockchip RK3588M automotive-grade AI SoC supports up to 16 camera inputs](https://www.cnx-software.com/2023/03/27/rockchip-rk3588m-automotive-grade-ai-soc-supports-up-to-16-camera-inputs/) 
 | [A first look at GL.iNet GL-S200 Thread Border Router kit with three nRF52840 Thread boards](https://www.cnx-software.com/2023/03/19/a-first-look-at-gl-inet-gl-s200-thread-border-router-kit-with-three-nrf52840-thread-boards/) |
 | [Getting Started with GL-S200 Thread Border Router kit](https://www.cnx-software.com/2023/03/25/getting-started-with-gl-s200-thread-border-router-kit/) |
 | [Tenstorrent Shares Roadmap of Ultra-High-Performance RISC-V CPUs and AI Accelerators](https://www.tomshardware.com/news/tenstorrent-shares-roadmap-of-ultra-high-performance-risc-v-cpus-and-ai-accelerators) |
-| **[Orange Pi 5: Specs, Price, Release & Reviews](https://all3dp.com/2/orange-pi-5-review-specs/)** *(32GB RAM spec, not found)* |
+| **[Orange Pi 5: Specs, Price, Release & Reviews](https://all3dp.com/2/orange-pi-5-review-specs/)** **(32GB RAM spec, not found)** |
 | [Seeed Studio Partners with Davide Cogliati for a Long-Range Grove Lightning Sensor](https://www.hackster.io/news/seeed-studio-partners-with-davide-cogliati-for-a-long-range-grove-lightning-sensor-2aecc4c4a148) |
 | [Bothered With Unpredictable Thunderstorms? Grove – Lightning Sensor (AS3935) Is Prepared To Hit Seeed Studio Shelves](https://www.seeedstudio.com/blog/2023/03/31/bothered-with-unpredictable-thunderstorms-grove-lightning-sensoras3935-is-prepared-to-hit-bazaar-shelves/) |
-
+| [Mekotronics Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
+| [Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
 
 ## DIY CubeSat
 
