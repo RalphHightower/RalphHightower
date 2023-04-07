@@ -43,6 +43,7 @@
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
+|[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Cytron CM4 Maker Board and Kits](https://www.cytron.io/c-raspberry-pi/c-raspberry-pi-main-board/c-raspberry-pi-cm/p-cm4-maker-board-and-kits?ref=W8G5bu_iIYeT6H) | (H/W) $154.80 |
@@ -50,6 +51,11 @@
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
+|[EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
+|[EDATEC CM4 Nano](https://edatec.cn/en/elpc/cm4-nano.html)| (H/W)|
+|[EDATEC CM4 Sensing](https://edatec.cn/en/elpc/cm4-sen.html)| (H/W)|
+|[EDATEC CM4 Industrial](https://edatec.cn/en/elpc/cm4-ind.html)| (H/W)|
+|[EDATEC CM4 IO Computer](https://edatec.cn/en/elpc/cm4-io-comp.html)| (H/W)|
 | [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
@@ -109,11 +115,14 @@
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br>**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
+|[Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
+| **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
+| **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
 | [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
 | [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code) | (H/W) $159.00 ($30 off for $5 coupon purchase) |
-| [RISC-V — RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
+| [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
@@ -124,7 +133,7 @@
 | [Seed Studio – Development Boards & Kits - ARM Grove Starter Kit for Azure IoT Edge](https://www.mouser.com/ProductDetail/Seeed-Studio/110060907?qs=F5EMLAvA7IDNpcLlKtTb1g%3D%3D) | $156.25 (H/W) |
 | [Seeed Studio reComputer J101 - Carrier Board for Jetson Nano, same size of NVIDIA® Jetson Nano™ Dev Kit carrier board, micro SD card slot, HDMI2.0, USB, CSI, M.2 key E, GPIO](https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html) | (H/W) $69 |
 | [Seeed Studio reComputer J202 - carrier Board for Jetson Nano/Xavier NX/TX2 NX, with 4xUSB, M.2 Key M,E same size of NVIDIA® Jetson Xavier™ NX Dev Kit carrier board (Power adapter included)](https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html) | (H/W) $139 |
-[24GHz mmWave Sensor - Human Static Presence Module Lite - human presence, FMCW, Configurable Underlying Parameter, Arduino support, Home Assistant, ESPHome](https://www.seeedstudio.com/24GHz-mmWave-Sensor-Human-Static-Presence-Module-Lite-p-5524.html) | (H/W) |
+| [24GHz mmWave Sensor - Human Static Presence Module Lite - human presence, FMCW, Configurable Underlying Parameter, Arduino support, Home Assistant, ESPHome](https://www.seeedstudio.com/24GHz-mmWave-Sensor-Human-Static-Presence-Module-Lite-p-5524.html) | (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
@@ -138,6 +147,7 @@
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
+|[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
 ## Articles 
 
@@ -310,6 +320,7 @@
 | [Bothered With Unpredictable Thunderstorms? Grove – Lightning Sensor (AS3935) Is Prepared To Hit Seeed Studio Shelves](https://www.seeedstudio.com/blog/2023/03/31/bothered-with-unpredictable-thunderstorms-grove-lightning-sensoras3935-is-prepared-to-hit-bazaar-shelves/) |
 | [Mekotronics Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
 | [Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
+| **[Radxa ROCK 5B vs Raspberry Pi 4B](https://emteria.com/blog/radxa-rock-5)** |
 
 ## DIY CubeSat
 
