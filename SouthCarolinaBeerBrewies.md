@@ -60,7 +60,7 @@
 | [Model A Brewing](https://modelabrewing.com/)[^4] |Tega Cay ||
 | [Munkle Brewing Co.](https://www.munklebrewing.com/)[^1] | Charleston | 2016 |
 | [New Groove Artisian Brewery](http://newgroovebrew.com/)[^3] | Boiling Springs ||
-| [New Realm Brewing] (https://newrealmbrewing.com/charleston/) *multi-state* | Charleston ||
+| [New Realm Brewing](https://newrealmbrewing.com/charleston/) *multi-state* | Charleston ||
 | [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
