@@ -119,9 +119,9 @@
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
-| [Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
+| **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
 | [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
-| [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code) | (H/W) $159.00 ($30 off for $5 coupon purchase) |
+| [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
 | [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
@@ -321,6 +321,8 @@
 | [Mekotronics Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
 | [Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
 | **[Radxa ROCK 5B vs Raspberry Pi 4B](https://emteria.com/blog/radxa-rock-5)** |
+| **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
+| **[Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)** |
 
 ## DIY CubeSat
 
