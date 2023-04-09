@@ -8,7 +8,7 @@
 
 ## Active Projects
 
-### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [TuringPi V1 (7 Node) Documentation](https://docs.turingpi.com/)
+### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
