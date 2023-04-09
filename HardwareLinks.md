@@ -311,6 +311,7 @@
 | [Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module](https://www.cnx-software.com/2023/03/23/orange-pi-5b-sbc-adds-up-to-256gb-emmc-flash-built-in-wifi-6-and-bluetooth-5-0-module/) |
 | **[Orange Pi 5 single-board PC is available for pre-order (single-board PC with RK3588S, up to 32GB RAM)](https://liliputing.com/orange-pi-5-single-board-pc-coming-soon-with-rk3588s-up-to-32gb-ram-and-wifi-6/)** |
 | [Cytron CM4 Maker Board review – Part 1: specifications, unboxing, and first boot](https://www.cnx-software.com/2023/03/27/cm4-maker-board-review-specifications-unboxing-and-first-boot/) |
+| [Cytron CM4 Maker Board review – Part 2: NVMe SSD, RTC, Buzzer, Grove modules, ChatGPT…](https://www.cnx-software.com/2023/04/09/cytron-cm4-maker-board-review-part-2-nvme-ssd-rtc-buzzer-grove-modules-chatgpt/) |
 | [Firefly Rockchip RK3588M automotive-grade AI SoC supports up to 16 camera inputs](https://www.cnx-software.com/2023/03/27/rockchip-rk3588m-automotive-grade-ai-soc-supports-up-to-16-camera-inputs/) 
 | [A first look at GL.iNet GL-S200 Thread Border Router kit with three nRF52840 Thread boards](https://www.cnx-software.com/2023/03/19/a-first-look-at-gl-inet-gl-s200-thread-border-router-kit-with-three-nrf52840-thread-boards/) |
 | [Getting Started with GL-S200 Thread Border Router kit](https://www.cnx-software.com/2023/03/25/getting-started-with-gl-s200-thread-border-router-kit/) |
