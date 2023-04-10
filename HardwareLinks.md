@@ -324,6 +324,7 @@
 | **[Radxa ROCK 5B vs Raspberry Pi 4B](https://emteria.com/blog/radxa-rock-5)** |
 | **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
 | **[Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)** |
+| [THE FUTURE OF RISC-V AND THE VISIONFIVE 2 SINGLE BOARD COMPUTER](https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/) |
 
 ## DIY CubeSat
 
