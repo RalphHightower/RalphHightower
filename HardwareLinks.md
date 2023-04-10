@@ -81,9 +81,9 @@
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [iWave i.MX 93 OSM-L LGA ModuleiW-RainboW-G50M®](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/#) | (H/W) |
+| [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
-| [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
@@ -103,6 +103,7 @@
 | [NVIDIA Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products) | (H/W) |
 | [Nvidia Jetson](https://store.nvidia.com/en-us/jetson/store/) | (H/W) |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
+| **[Obsolescence PiPDP-11 Console](https://obsolescence.wixsite.com/obsolescence/pidp-11-get-one/)** | (H/W) $270 |
 | [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
 | [OKdo x Radxa ROCK 5 Model B 8GB Single Board Computer Rockchip RK3588 Arm Cortex-A76](https://www.okdo.com/us/p/okdo-x-radxa-rock-5-model-b-8gb-single-board-computer-rockchip-rk3588-arm-cortex-a76/) | (H/W) $159 |
