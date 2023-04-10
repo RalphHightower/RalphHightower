@@ -1,14 +1,17 @@
 # Hardware Projects 
 
-| Resources |
-|------|
-| [Raspberry PI Locater](https://rpilocator.com/) |
-| [Single Board Computer Database](https://hackerboards.com/) |
-| [FindBoard Workshop](https://www.findboard.cn/#/home) |
+| Preferred Vendors | Resources | 
+|------|----|
+| [Arrow](https://www.arrow.com/) | [Raspberry PI Locater](https://rpilocator.com/) |
+| [Digi-Key](https://www.digikey.com/) | [Single Board Computer Database](https://hackerboards.com/) | 
+| [Mouser](https://www.mouser.com/) | [FindBoard Workshop](https://www.findboard.cn/#/home) | 
+| [Newark](https://www.newark.com/) |
+| [Seeed Studio](https://www.seeedstudio.com/) |
+| [SparkFun](https://www.sparkfun.com/) |
 
 ## Active Projects
 
-### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) | [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
+### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
@@ -71,8 +74,7 @@
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
 
-### [Raspberry Pi4 8GB](https://www.raspberrypi.com/)
-
+### [Raspberry Pi4 8GB](https://www.raspberrypi.com/) \| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)**
 | SBC | CPU | RAM | SSD (USB-C) |
 |---|---|---|---|
 | [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
