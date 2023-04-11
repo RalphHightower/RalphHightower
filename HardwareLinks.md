@@ -116,7 +116,8 @@
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br>**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
-|[Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
+| **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
+| [Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
@@ -326,6 +327,9 @@
 | **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
 | **[Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)** |
 | [THE FUTURE OF RISC-V AND THE VISIONFIVE 2 SINGLE BOARD COMPUTER](https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/) |
+| **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
+| **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
+| **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
 
 ## DIY CubeSat
 
