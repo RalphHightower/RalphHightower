@@ -83,6 +83,11 @@
 |-----|
 | [Raspberry Pi](https://www.raspberrypi.com/) |
 
+| Control Panels |
+|----|
+| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)** |
+| [PDP-8 replica kit: the PiDP-8](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/) $210 + shipping from Switzerland |
+
 <hr>
 
 ## Planned Projects 
