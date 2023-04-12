@@ -5,9 +5,15 @@
 | [Arrow](https://www.arrow.com/) | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Digi-Key](https://www.digikey.com/) | [Single Board Computer Database](https://hackerboards.com/) | 
 | [Mouser](https://www.mouser.com/) | [FindBoard Workshop](https://www.findboard.cn/#/home) | 
-| [Newark](https://www.newark.com/) |
-| [Seeed Studio](https://www.seeedstudio.com/) |
-| [SparkFun](https://www.sparkfun.com/) |
+| [Newark](https://www.newark.com/) | **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
+| [Seeed Studio](https://www.seeedstudio.com/) | [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
+| [SparkFun](https://www.sparkfun.com/) | [Circuit Cellar](https://circuitcellar.com/) |
+
+| [Circuit Cellar Residents](https://circuitcellar.com/subscription/)|1 year|2 years|3 years|
+|---|---|---|----|
+| Print Subscription|$50|$80|$105|
+| Digital Subscription| $50|$80|$105|
+|Print/Digital Combo Subscription|$85|$135|$180|
 
 ## Active Projects
 
@@ -39,6 +45,15 @@
 || [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
 || [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
 || [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
+
+| Firefly Products |
+|----|
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** |
+| **[Firefly Core-3588S-JD4 8-Core 8K AI Core Board Powered by Rockchip 16GB/32GB)](https://www.firefly.store/goods.php?id=169)** $519 16 GB |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** $429 16GB |
+| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** 12GB $649 |
+| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** up to 32GB |
+| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** up to 32GB |
 
 | Documentation |
 |----|
