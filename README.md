@@ -130,7 +130,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
-| [Orolia Systèmes et Solutions](https://github.com/Orolia2s) |
+| [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
+| [OpenAI](https://github.com/openai) | Artificial Intelligence |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -464,25 +465,18 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
+
+## Sports
+
+### Golf
+
+| [Masters Golf Tournament](https://www.masters.com/) |
+|----|
+| [Masters Golf Tournament Gear](https://www.mmogolf.com/) |
+| [Masters Golf Caddie Jumpsuits](https://fairwayjockey.com/products/adult-custom-caddie-uniform-with-name-and-number) |
+
 ## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
 
-## Automotive
-
-### OnStar Loss of Functionality Due to Cellular Sunsetting of 2G CDMA Technology 
-
-[GM-Canada 🇨🇦🍁 figured out how to retain OnStar functionality in 2015 when Cellular companies in Canada 🇨🇦🍁 sunsetted 2G CDMA technology in 2015. GM-USA 🇺🇸 solution is to supply a dongle that plugs into the ODB-II port.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
-
-### ODB-II Codes
-
-| ODB-II Codes |
-|--------------|
-| [Wikipedia PIDs](https://en.m.wikipedia.org/wiki/OBD-II_PIDs) |
-| [Wikipedia — On-board diagnostics](https://en.wikipedia.org/wiki/On-board_diagnostics#OBD-II?wprov=sfla1) |
-| [OBD II UART Hookup Guide — SparkFun](https://learn.sparkfun.com/tutorials/obd-ii-uart-hookup-guide/all) |
-| [Chevrolet ODB-II Codes](https://www.troublecodes.net/chevroletcodes/) |
-| [GM ODB-II Codes](https://www.troublecodes.net/gmcodes/) |
-| [RealDash — ODB-II Code Reader](https://realdash.net/) |
-| [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
 |   |
 |---|
