@@ -61,10 +61,22 @@
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 |
 | **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
+| [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W) |
+| [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W) |
+| [Firefly Embedded Computers](https://www.firefly.store/category.php?id=27) | (H/W) |
+| [Firefly Firefly Face Recognition](https://www.firefly.store/category.php?id=24) | (H/W) |
+| [Firefly Dev Kits](https://www.firefly.store/category.php?id=19) | (H/W) |
+| [Firefly Stations](https://www.firefly.store/category.php?id=26) | (H/W) |
+| [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W) |
 | **[Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q)** | (H/W) |
 | **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
 | **[Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j)** | (H/W) **16GB $679** (basic pkg) - $978 (Deluxe pkg) |
 | **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $759 16GB** |
+| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W) $ |
+| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB $ |
+| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
@@ -121,9 +133,9 @@
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
-| **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b) | (H/W) |
-| [RADXA TACO](https://shop.allnetchina.cn/products/taco) | (H/W)
-| [Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
+| **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
+| **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
+| **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
 | [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
@@ -330,6 +342,7 @@
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
+| **[Firefly Release Modular Rockchip RK3588 Mini PC](https://www.tomshardware.com/news/firefly-release-modular-rockchip-rk3588-mini-pc)** |
 
 ## DIY CubeSat
 
