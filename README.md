@@ -118,6 +118,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
+| [Freescale](https://github.com/Freescale) ||
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
@@ -143,6 +144,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
+| [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
+| [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 
