@@ -15,6 +15,20 @@
 | Digital Subscription| $50|$80|$105|
 |Print/Digital Combo Subscription|$85|$135|$180|
 
+## Useful Hardware
+
+| Useful Hardware |
+|----|
+| **[PiKVM V4 Plus](https://www.pishop.us/product/pikvm-v4-plus/)** | (H/W) $384.95 |
+
+## MIPI Definitions
+
+| MIPI Definitions |
+|----|
+| [MIPI-CSI Explanation](https://www.mipi.org/specifications/csi-2) |
+| [MIPI-DSI Explanation](https://www.mipi.org/specifications/dsi-2) |
+
+
 ## Active Projects
 
 ### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
@@ -45,6 +59,8 @@
 || [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
 || [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
 || [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
+| **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
+| **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
 
 | Firefly Products |
 |----|
@@ -111,6 +127,15 @@
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 
+## Embedded Computers 
+
+I could easily see this for installation in cars, SUVs, trucks. 
+
+| Firefly Embedded Computers |
+|---|
+| [Firefly EC-R3568PC Quad-Core 64-Bit AI Embedded Computer](https://www.firefly.store/goods.php?id=180) $209 4GB+32GB |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** $429 16GB+128GB *(up to 32GB)* |
+
 <hr>
 
 ## Possible Projects 
@@ -120,6 +145,29 @@
 | **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
 | [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
 | [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
+
+<hr>
+
+## Firefly Computers 
+
+| Firefly Computers | RAM+Storage |
+|----|---|
+| **[Firefly EC-A1684JD4 8-Core High Computing Power AI Computer Powered by SOPHON AI processor](https://www.firefly.store/goods.php?id=172)**  | $879 16GB+32GB |
+| **[Firefly EC-I3588J 8-Core 8K Computer](https://www.firefly.store/goods.php?id=165)** | $759 |
+| **[Firefly EC-R3399PC 6-Core 64-Bit Embedded Computer](https://www.firefly.store/goods.php?id=166)** |;$199 4GB+32GB |
+| **[Firefly ROC-RK3588-PC Octa-Core 8K AI Mini Computer](https://www.firefly.store/goods.php?id=175)** *PCIE 16x Interface*  | $249 *(up to 32GB optional)* |
+| **[Firefly Station M3 mini pc](https://www.firefly.store/goods.php?id=171)** | $389 16GB+256GB |
+
+## Firefly Motherboards 
+
+| Firefly Motherboards | RAM+Storage |
+|----|---|
+| [Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard](https://www.firefly.store/goods.php?id=178) | $649 12GB |
+| [Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188) | $759 16GB+128GB |
+| [Firefly AIO-3588JQ 8K AI Industrial Mainboard](https://www.firefly.store/goods.php?id=179) | $479 8GB+64GB |
+| [Firefly ITX-3568JQ Quad-core ITX Mainboard 8GB](https://en.t-firefly.com/product/industry/itx3568jq)  $978 16GB+128GB Deluxe Package A(4G) |
+| [Firefly ITX-3568Q Quad-core ITX Mainboard](https://www.firefly.store/goods.php?id=170) | $389 $4GB+16GB |
+| [Firefly ITX-3588J 8K AI Mini-ITX Mainboard Deluxe expandable to 32GB](https://www.firefly.store/goods.php?id=161) $1326 16GB+128GB Deluxe Package A(5G) |
 
 <hr>
 
