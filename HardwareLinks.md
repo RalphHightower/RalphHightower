@@ -71,6 +71,7 @@
 | [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W) |
 | **[Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q)** | (H/W) |
 | **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
+| [Firefly ITX-3568JQ Quad-core ITX Mainboard](https://en.t-firefly.com/product/industry/itx3568jq) | (H/W)
 | **[Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j)** | (H/W) **16GB $679** (basic pkg) - $978 (Deluxe pkg) |
 | **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $759 16GB** |
 | **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W) $ |
@@ -343,6 +344,7 @@
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
 | **[Firefly Release Modular Rockchip RK3588 Mini PC](https://www.tomshardware.com/news/firefly-release-modular-rockchip-rk3588-mini-pc)** |
+| [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) |
 
 ## DIY CubeSat
 
