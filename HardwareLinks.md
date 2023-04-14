@@ -46,7 +46,7 @@
 |[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
-| [Cytron CM4 Maker Board and Kits](https://www.cytron.io/c-raspberry-pi/c-raspberry-pi-main-board/c-raspberry-pi-cm/p-cm4-maker-board-and-kits?ref=W8G5bu_iIYeT6H) | (H/W) $154.80 |
+| **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | (H/W) $234.72 |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
@@ -86,7 +86,7 @@
 | [Garmin International](https://github.com/garmin) | (GitHub) |
 | **GeeekPi Raspberry Pi Mini Tower NAS Kit, Raspberry Pi ICE Tower Cooler with PWM RGB Fan, M.2 SATA SSD Expansion Board, GPIO 1 to 2 Expansion Board for Raspberry Pi 4 Model B** | Case<br> [Amazon](https://amzn.to/3L4bVJk)<br>[Aliexpress](https://s.click.aliexpress.com/e/_DFNhP0b) |
 | [Geniatech ARM Boards](https://shop.geniatech.com/products/industrial-pc/arm-board/)<br>From system on modules, single board computers, industrial IoT & Embedded motherboards to develop kits, carrier boards, and peripheral cards, Geniatech provides a comprehensive range of ARM Based computer board solutions with Linux or Android OS,  powerful performance, low power, compact, flexible options, different form factors and platforms available. Geniatech’s ARM boards are the ideal embedded platform for accelerating development and reducing the risk of new chip designs. Our SBCs are available to buy as Evaluation Kits to get you quickly started on your Embedded System project. | (H/W) |
-| [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/)c| (H/W) |
+| [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) | (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
