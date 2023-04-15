@@ -133,6 +133,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
+| [OpenZFS](https://github.com/openzfs) | ZFS file system for Linux, BSD |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -144,6 +145,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
+| [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) |
