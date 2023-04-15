@@ -338,7 +338,6 @@
 | [Rockchip RK3588 embedded PCs support PoE, 4G LTE, 10GbE, 2.5-inch SATA HDD, and more](https://www.cnx-software.com/2023/03/29/rockchip-rk3588-embedded-pcs-support-poe-4g-lte-10gbe-2-5-inch-sata-hdd/) |
 | **[Radxa ROCK 5B vs Raspberry Pi 4B](https://emteria.com/blog/radxa-rock-5)** |
 | **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
-| **[Radxa's Rock 5A Borrows the Raspberry Pi 4 Layout for an Eight-Core Beast with Up to 16GB of RAM](https://www.hackster.io/news/radxa-s-rock-5a-borrows-the-raspberry-pi-4-layout-for-an-eight-core-beast-with-up-to-16gb-of-ram-d97b583a8177)** |
 | [THE FUTURE OF RISC-V AND THE VISIONFIVE 2 SINGLE BOARD COMPUTER](https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/) |
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
