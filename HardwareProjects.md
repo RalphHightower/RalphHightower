@@ -74,6 +74,10 @@
 | Documentation |
 |----|
 | [NVIDIA Jetson Developer Documentation](https://developer.nvidia.com/) |
+| [Jetson Software](https://developer.nvidia.com/embedded/develop/software) |
+| [NVIDIA TAO Toolkit](https://developer.nvidia.com/tao-toolkit) |
+| [Jetson Linux](https://developer.nvidia.com/embedded/jetson-linux) |
+| [Jetson Developer Tools](https://developer.nvidia.com/embedded/develop/tools) |
 
 | Suppliers |
 |----|
