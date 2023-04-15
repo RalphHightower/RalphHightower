@@ -344,7 +344,8 @@
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
 | **[Firefly Release Modular Rockchip RK3588 Mini PC](https://www.tomshardware.com/news/firefly-release-modular-rockchip-rk3588-mini-pc)** |
-| [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) |
+| [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) | 
+| [The Pinecil: The $25 Smart Soldering Iron)(https://deninet.com/blog/2021/05/09/pinecil-25-smart-soldering-iron) |
 
 ## DIY CubeSat
 
