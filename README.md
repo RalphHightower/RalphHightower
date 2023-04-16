@@ -338,8 +338,8 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | Company | Location | About |
 |---------|----------|-------|
 | [KEH](https://www.keh.com)[^27] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
-| [B&H Photo/Video](https://www.bhphotovideo.com/)[^8] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
-| [Lensrentals.com](https://www.lensrentals.com/)[^9] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
+| [B&H Photo/Video](https://www.bhphotovideo.com/)[^28] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
+| [Lensrentals.com](https://www.lensrentals.com/)[^29] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
 
 | [About KEH](https://www.keh.com)[^27] |
 |-----|
