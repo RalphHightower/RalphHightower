@@ -62,7 +62,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
 | [GM-Canada-Onstar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular 2G CDMA technology in 2015  |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
-| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^1] |
+| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^21] |
 
 ## References 
 
@@ -97,11 +97,11 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
 | [Semantic Versioning 2.0.0](https://semver.org/) | Versioning |
 | [https://pagespeed.web.dev/report](https://pagespeed.web.dev/report) | Web page diagnostics |
-| [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^2] | Internet[DNS Root, IP addressing, Internet protocols] |
-| [RFC Editor (RFC)](https://www.rfc-editor.org/)[^3] | Internet[Technical, organizational documents] |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^4] | Internet[Standards development] |
-| [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^5] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
-| [Internet Architecture Board (IAB)](https://www.iab.org/)[^6] | Internet[Long-range technical direction] |
+| [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^22] | Internet[DNS Root, IP addressing, Internet protocols] |
+| [RFC Editor (RFC)](https://www.rfc-editor.org/)[^23] | Internet[Technical, organizational documents] |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^24] | Internet[Standards development] |
+| [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^25] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
+| [Internet Architecture Board (IAB)](https://www.iab.org/)[^26] | Internet[Long-range technical direction] |
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
@@ -337,11 +337,11 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Company | Location | About |
 |---------|----------|-------|
-| [KEH](https://www.keh.com)[^7] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
+| [KEH](https://www.keh.com)[^27] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
 | [B&H Photo/Video](https://www.bhphotovideo.com/)[^8] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
 | [Lensrentals.com](https://www.lensrentals.com/)[^9] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
 
-| [About KEH](https://www.keh.com)[^7] |
+| [About KEH](https://www.keh.com)[^27] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
 | KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
@@ -350,7 +350,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
-| [About B&H Photo/Video](https://www.bhphotovideo.com)[^8] |
+| [About B&H Photo/Video](https://www.bhphotovideo.com)[^28] |
 |-----------------------|
 | Get to know the people who know your gear best.
 | B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
@@ -360,7 +360,7 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
 | Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
 
-| [About Lensrentals.com](https://www.lensrentals.com)[^9] |
+| [About Lensrentals.com](https://www.lensrentals.com)[^29] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
@@ -498,12 +498,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal) |
 
-[^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
-[^2]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
-[^3]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
-[^4]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
-[^5]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
-[^6]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
-[^7]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^8]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^9]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+[^21]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
+[^22]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
+[^23]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
+[^24]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
+[^25]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
+[^26]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
+[^27]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^28]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^29]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
