@@ -68,35 +68,35 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 
 | References | Purpose |
 |------------------------|---------|
-| [Choose an open source license](https://choosealicense.com/) | Licensing |
-| [SPDX License List](https://spdx.org/licenses/) | Licensing |
+| [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting |
+| [Pandoc](https://pandoc.org/) | Document Conversion |
 | [GitHub Actions](https://github.com/marketplace?type=actions) | GitHub |
 | [GitHub Community Discussions](https://github.com/community) | GitHub |
+| [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) | GitHub: Markdown Documentation |
 | [Configuration options for the dependabot.yml file](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file) | GitHub Vulnerability Scanning |
-| [Open Source Security Foundation](https://bestpractices.coreinfrastructure.org/en) | Security Practices |
-| [Semantic Versioning 2.0.0](https://semver.org/) | Versioning |
-| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
+| [Jekyll Documentation](https://jekyllrb.com/docs/) | Jekyll: Documentation |
+| [The Official YAML Website](https://yaml.org/) | YAML: Reference |
 | [YAML Ain’t Markup Language (YAML™) version 1.2 Revision 1.2.2 (2021-10-01)](https://yaml.org/spec/1.2.2/) | YAML |
-| [The Official YAML Website](https://yaml.org/) | YAML |
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
-| [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)| GitHub Markdown  |
-| [Jekyll Documentation](https://jekyllrb.com/docs/) | GitHub Markdown |
-| [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax Markdown |
-| [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Jekyll add-on |
-| [Liquid reference](https://shopify.dev/api/liquid) | Template Language |
-| [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | Markdown |
-| [https://pagespeed.web.dev/report](https://pagespeed.web.dev/report) | Web page diagnostics |
-| [Pandoc](https://pandoc.org/) | Document Conversion |
-| [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting 
-| [Crontab Guru](https://crontab.guru/) | Schedule |
-| [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Telephone Resources |
-| [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
-| [Arm Developer Resources](https://developer.arm.com/) |
-| [Arm Software](https://github.com/ARM-software) |
-| [Blues Cellular](https://dev.blues.io/) |
-| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) |
+| [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | YAML: Table Generator |
+| [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax: Markdown Documentation |
+| [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Shopify (Jekyll add-on) Documentation |
+| [Choose an open source license](https://choosealicense.com/) | Licensing |
+| [SPDX License List](https://spdx.org/licenses/) | Licensing |
+| [Liquid reference](https://shopify.dev/api/liquid) | Liquid: Template Language Documentation |
 | [Node.js](https://nodejs.org/en/) | Node.js® is an open-source, cross-platform JavaScript runtime environment. |
-| [Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) |
+| [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Resources: North American Numbering Plan Administration (Resources: Telephone) |
+| [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
+| [Arm Developer Resources](https://developer.arm.com/) | RISC: ARM |
+| [Arm Software](https://github.com/ARM-software) | RISC: ARM |
+| [Blues Cellular](https://dev.blues.io/) | |
+| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) |
+| [Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) | |
+| [Crontab Guru](https://crontab.guru/) | Schedule |
+| [Open Source Security Foundation](https://bestpractices.coreinfrastructure.org/en) | Security Practices |
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
+| [Semantic Versioning 2.0.0](https://semver.org/) | Versioning |
+| [https://pagespeed.web.dev/report](https://pagespeed.web.dev/report) | Web page diagnostics |
 | [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^2] | Internet[DNS Root, IP addressing, Internet protocols] |
 | [RFC Editor (RFC)](https://www.rfc-editor.org/)[^3] | Internet[Technical, organizational documents] |
 | [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^4] | Internet[Standards development] |
