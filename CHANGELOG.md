@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.8](https://github.com/RalphHightower/RalphHightower/compare/v1.15.7...v1.15.8) (2023-04-17)
+
+
+### Bug Fixes
+
+* missed some footnotes resequencing ([a3b117e](https://github.com/RalphHightower/RalphHightower/commit/a3b117e29d5447bc246fcaf8b750a4461601fb22))
+
 ## [1.15.7](https://github.com/RalphHightower/RalphHightower/compare/v1.15.6...v1.15.7) (2023-04-07)
 
 
