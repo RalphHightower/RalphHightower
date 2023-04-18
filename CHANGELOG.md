@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.15.9](https://github.com/RalphHightower/RalphHightower/compare/v1.15.8...v1.15.9) (2023-04-18)
+
+
+### Bug Fixes
+
+* table in correct format ([d4ee37c](https://github.com/RalphHightower/RalphHightower/commit/d4ee37c5a9703887de4d1b27dc4d0358547d39c9))
+* table in correct format, move footnotes to where used ([139f813](https://github.com/RalphHightower/RalphHightower/commit/139f813ac30f97c84dbc5a44d1349e0587e2d397))
+
 ## [1.15.8](https://github.com/RalphHightower/RalphHightower/compare/v1.15.7...v1.15.8) (2023-04-17)
 
 
