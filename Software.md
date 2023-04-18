@@ -8,11 +8,11 @@
 | [GNU Radio](https://wiki.gnuradio.org/index.php/Main_Page) | open-source software development toolkit that provides signal processing blocks to implement software radios. |
 | [“MyriadRF” team](https://launchpad.net/~myriadrf) | Maintain packages of SDR hardware drivers and frameworks such as GNU Radio, along with key dependencies.
 
+[^1]: Free, just wants email registration to use
+
 # AWS 
 
 | Documentation |
 |----------------------|
 | [Quickly and easily develop IoT devices that connect securely to the AWS Cloud](https://aws.amazon.com/iot-expresslink/) |
 | [AWS IoT ExpressLink programmer's guide v1.0](https://docs.aws.amazon.com/iot-expresslink/)|
-
-[^1]: Free, just wants email registration to use
