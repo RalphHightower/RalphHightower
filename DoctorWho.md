@@ -18,9 +18,10 @@
 | Tennant, David | Fourteenth Doctor | Donna Noble | 2022—2023 |
 | Gatwa, Ncuti | Fifteenth Doctor | Ruby Sunday[^1] | 2024[^2]— |
 
+[^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
+[^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
+
 | YouTube Videos |
 |------|
 | [David Tennant (aka The Doctor) is Catherine Tait's (aka Donna Noble), as a recalcitrant student,  substitute teacher for English.](https://youtu.be/WxB1gB6K-2A) |
 
-[^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
-[^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
