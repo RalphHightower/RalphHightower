@@ -100,6 +100,8 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Choose an open source license](https://choosealicense.com/) | Licensing |
 | [SPDX License List](https://spdx.org/licenses/) | Licensing |
 | [Liquid reference](https://shopify.dev/api/liquid) | Liquid: Template Language Documentation |
+| [MQTT Version 5.0 \| OASIS Standard \| 07 March 2019](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) | MQTT: Standard |
+| [OpenMQTTGateway](https://docs.openmqttgateway.com/) | | MQTT: Products |
 | [Node.js](https://nodejs.org/en/) | Node.js® is an open-source, cross-platform JavaScript runtime environment. |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Resources: North American Numbering Plan Administration (Resources: Telephone) |
 | [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
@@ -132,6 +134,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
 | [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
+| [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) ||
@@ -162,7 +165,7 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
-| [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers |
+| [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) |
