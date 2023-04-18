@@ -27,6 +27,9 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 | [Wilson, Chris]()[^1] |• |  | TBD | TBD | TBD |
 | [State of South Carolina]()[^1] | **2022-GS-47-34:** <br>• Willful Attempt to Evade or Defeat a Tax (9 counts) <br> **2021-GS-25-00478 (Hampton):** <br>•False Claim for Payment <br>• Filing a False Police Report<br> • Conspiracy<br> **2022-06-23-0301977** (Colleton)<br>• Criminal Conspiracy (1 count)<br>• Manufacture, Distribute, Possess Narcotic Drugs in Schedule II (Oxycodone) (Conspiracy) (1 count) | Hampton County,<br>Colleton County |.|.|.|
 
+[^1]: Not online yet
+[^2]: SLED: South Carolina Law Enforcement Division. South Carolina's "FBI" on a state level. 
+
 ## Partners In Crime 
 
 | Partners In Crime | Occupation | Crime(s) | Venue | Trial Date | Verdict | Sentence |
@@ -48,7 +51,3 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 |Both Murdaugh and Fleming are also facing a separate criminal conspiracy charge. Not only that, more charges could be forthcoming. As this news outlet reported last month, a statewide grand jury is continuing to investigate what remains of the Murdaugh empire – which ran the South Carolina Lowcountry like its own fiefdom for more than a century. During that time, the Hampton, S.C.-based “House of Murdaugh” enjoyed near-dictatorial power over a five-county region in the southernmost tip of South Carolina. Three generations of Murdaughs – including Alex’s late father, Randolph Murdaugh III – held the post of S.C. fourteenth circuit solicitor between 1920-2006. Murdaugh himself was a badge-carrying assistant solicitor.|
 |Not surprisingly, there is also a public corruption component to this saga which could potentially involve several Murdaugh-friendly judges in the fourteenth circuit. Given the sheer number of known allegations – and the likelihood additional charges will be filed against other defendants tied to this saga – judge Newman’s sense of urgency is understandable. Unfortunately, as of the beginning of this week, no court dates had been set for any of the remaining Murdaugh-related cases according to Wilson spokesman Robert Kittle.|
 |Let’s hope that changes soon …|
-
-
-[^1]: Not online yet
-[^2]: SLED: South Carolina Law Enforcement Division. South Carolina's "FBI" on a state level. 
