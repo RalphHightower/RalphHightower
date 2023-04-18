@@ -164,6 +164,8 @@
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
+[^3]: Impressive performance specifications. Expensive, but **WANT!**
+
 ## Articles 
 
 | Articles |
@@ -192,7 +194,6 @@
 | [RISC-V Bases and Extensions Explained](https://www.cnx-software.com/2019/08/27/risc-v-bases-and-extensions-explained/) |
 | [Andes unveils AndesCore AX65 Out-of-Order RISC-V core for compute intensive applications](https://www.cnx-software.com/2022/11/03/andes-andescore-ax60-out-of-order-risc-v-core-for-compute-intensive-applications/) |
 | [SiFive P670 and P470 RISC-V processors feature RISC-V Vector Extensions](https://www.cnx-software.com/2022/11/02/sifive-p670-and-p470-risc-v-processors-add-risc-v-vector-extensions/) |
-| [Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2) |
 | [Raspberry Pi Takes Star Trek UI To Red Alert](https://www.tomshardware.com/news/raspberry-pi-star-trek-lcars-system) |
 | [ODROID-N2+ review with Ubuntu 21.10 using Wayland and Panfrost](https://www.cnx-software.com/2021/11/08/odroid-n2-plus-review-ubuntu-21-10/) |
 | [SBC ODROID-N2L is a smaller, low-cost variant of ODROID-N2+ Arm32GB](https://www.cnx-software.com/2022/11/08/odroid-n2l-is-a-smaller-low-cost-variant-of-odroid-n2-arm-sbc/) |
@@ -272,7 +273,6 @@
 | [Radxa Rock Pi 4 Review – Part 1: A First Look at RockPi 4B Performance Set](https://www.cnx-software.com/2019/01/10/radxa-rock-pi-4-review-rockpi-4b-performance-set/) |
 | [Banana Pi BPI-M6 SBC features SenaryTech SN3680 quad-core Cortex-A73 AI processor](https://www.cnx-software.com/2022/11/24/banana-pi-bpi-m6-sbc-senarytech-sn3680-quad-core-cortex-a73-ai-processor/) |
 | [Banana Pi BPI-CM4 Amlogic A311D system-on-module launched for $95](https://www.cnx-software.com/2023/01/05/banana-pi-bpi-cm4-amlogic-a311d-system-on-module/) |
-| [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 | [Pico-ITX SBC features NXP i.MX 93 LGA system-on-module](https://www.cnx-software.com/2022/12/29/pico-itx-sbc-features-nxp-i-mx-93-lga-system-on-module/) |
 | [NXP i.MX 95 processor features Cortex-A55, Cortex-M33, and Cortex-M7 cores, eIQ Neutron NPU](https://www.cnx-software.com/2023/01/05/nxp-i-mx-95-processor-arm-cortex-a55-cortex-m33-and-cortex-m7-cores-eiq-neutron-npu/) |
 | [Khadas VIM1S review – Ubuntu 22.04 tested on an Amlogic S905Y4 SBC](https://www.cnx-software.com/2022/12/30/khadas-vim1s-review-ubuntu-22-04-amlogic-s905y4-sbc/) |
@@ -345,6 +345,9 @@
 | [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) | 
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[The Pinecil: The $25 Smart Soldering Iron](https://deninet.com/blog/2021/05/09/pinecil-25-smart-soldering-iron)** |
+| [Derek Woodroffe's PicoCray Turns Raspberry Pi Pico Boards Into a Distributed Supercomputer of Sorts](https://www.hackster.io/news/derek-woodroffe-s-picocray-turns-raspberry-pi-pico-boards-into-a-distributed-supercomputer-of-sorts-8f13bc3b97be) |
+
+[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
 ## DIY CubeSat
 
@@ -358,6 +361,8 @@
 | Sensor 06: SI1132-A10-GMR | UV Sensor – The Si1132 is a low-power, ultraviolet (UV) index, and ambient light sensor with I2C digital interface and programmable-event interrupt output. This sensor IC includes an analog-to-digital converter, integrated high-sensitivity visible and infrared photodiodes, and a digital signal processor. The Si1132 offers excellent performance under a wide dynamic range and a variety of light sources including direct sunlight. |
 | Sensor 07: CCS811B-JOPD500 | TVOC & CO2 – The CCS811 is an ultra-low power digital gas sensor solution which integrates a metal oxide (MOX) gas sensor to detect a wide range of Volatile Organic Compounds (VOCs) and includes an Analog-to-Digital converter (ADC), and an I²C interface. Supporting intelligent algorithms to process raw sensor measurements and output equivalent total VOC (eTVOC) and equivalent CO2 (eCO2) values. |
 | Sensor 08: TESEO-LIV3R[^2] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
+
+[^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
 
 ## Projects 
 
@@ -380,6 +385,3 @@
 | [Google Android](https://source.android.com/docs/security/bulletin) |
 | [Samsung Android](https://security.samsungmobile.com/securityUpdate.smsb) |
 
-[^3]: Impressive performance specifications. Expensive, but **WANT!**
-[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
-[^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
