@@ -340,11 +340,11 @@
 | **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
 | [THE FUTURE OF RISC-V AND THE VISIONFIVE 2 SINGLE BOARD COMPUTER](https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/) |
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
-| **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
 | **[Firefly Release Modular Rockchip RK3588 Mini PC](https://www.tomshardware.com/news/firefly-release-modular-rockchip-rk3588-mini-pc)** |
 | [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) | 
-| [The Pinecil: The $25 Smart Soldering Iron)(https://deninet.com/blog/2021/05/09/pinecil-25-smart-soldering-iron) |
+| **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
+| **[The Pinecil: The $25 Smart Soldering Iron](https://deninet.com/blog/2021/05/09/pinecil-25-smart-soldering-iron)** |
 
 ## DIY CubeSat
 
