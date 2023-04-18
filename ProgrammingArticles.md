@@ -4,6 +4,8 @@
 
 ### Application Tech Stack[^1]
 
+[^1]: [Michael Shpilt](https://michaelscodingspot.com/about/)
+
 | Date | Article |
 |-----|------|
 | Jun 6, 2022 | [The Best C# .NET Web Application Tech Stack: Choosing The Front End](https://michaelscodingspot.com/web-application-tech-stack-front-end/) |
@@ -19,6 +21,8 @@
 
 ## Facebook[^2]
 
+[^2]: Sorry Meta, but you will always be known as Facebook. 
+
 | [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/) |
 |-----|
 | [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/productin-engineering/precision-time-protocol-at-meta/) |
@@ -28,7 +32,7 @@
 
 | Technical Blogs |
 |----|
-| [Facebook Engineering Blog](https://engineering.fb.com/
+| [Facebook Engineering Blog](https://engineering.fb.com/) |
 | [Microsoft Blog](https://blogs.microsoft.com/blog/) |
 | [Microsoft Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/) |
 | [Microsoft Azure Dev Ops Blog](https://devblogs.microsoft.com/devops/) |
@@ -63,5 +67,4 @@
 |----|
 ||
 
-[^1]: [Michael Shpilt](https://michaelscodingspot.com/about/)
-[^2]: Sorry Meta, but you will always be known as Facebook. 
+
