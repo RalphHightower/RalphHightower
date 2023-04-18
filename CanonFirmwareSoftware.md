@@ -45,6 +45,8 @@
 | Mamiya RZ67 | [Download]()[^1] |
 | Monorail 4×5 View Camera | |
 
+[^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
+
 ### Discontinued Films
 
 [Discontinued Films](https://en.wikipedia.org/wiki/List_of_discontinued_photographic_films)
@@ -128,6 +130,10 @@
 | CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras |
 | CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements |
 
+[^2]: Supported Firmware Version is after Version.1.6.0)
+[^3]: Supported Firmware Version is after Version.1.6.0)
+[^4]: Supported Firmware Version is after Version.1.2.0)
+
 ## Canon Magic Lantern
 
 Magic Lantern is a free software add-on that runs from the SD/CF card and adds a host of new features to Canon EOS cameras that weren't included from the factory by Canon.
@@ -154,6 +160,8 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
+[^5]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+
 | [About B&H Photo/Video](https://www.bhphotovideo.com)[^6] |
 |-----------------------|
 | Get to know the people who know your gear best.
@@ -164,6 +172,8 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
 | Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
 
+[^6]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+
 | [About Lensrentals.com](https://www.lensrentals.com)[^7] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
@@ -171,6 +181,8 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
 | We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
 | What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
+
+[^7]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
 
 I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
 
@@ -193,10 +205,3 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 | [REVIVING A LEGEND: REPAIRING A MAMIYA RB67](https://www.diyphotography.net/mamiya-rb67-repair/?mc_cid=54388c6e8c&mc_eid=1f08bf7a59) || **[Heavy Pan Tilt System](https://magpi.raspberrypi.com/articles/heavy-pan-tilt-system)** |
 | [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
 
-[^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
-[^2]: Supported Firmware Version is after Version.1.6.0)
-[^3]: Supported Firmware Version is after Version.1.6.0)
-[^4]: Supported Firmware Version is after Version.1.2.0)
-[^5]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^6]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^7]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
