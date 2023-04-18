@@ -1,5 +1,7 @@
 # Rebooted Television Series [^1]
 
+[^1]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
+
 | Rebooted TV Series | Network |
 |--------------------|---------|
 | Galactica 1980[^2] | ABC |
@@ -17,6 +19,9 @@
 | MacGyver | CBS |
 | Magnum PI | CBS (seasons 1 — 4)/NBC (seasons 5 — 6)|
 | Quantum Leap | NBC |
+
+[^2]: Battlestar Galactica 
+[^3]: Rumored 
 
 # Television Series Spinoffs
 
@@ -53,7 +58,3 @@
 | Series | Network |
 |--------|---------|
 | Air Wolf | CBS |
-
-[^1]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
-[^2]: Battlestar Galactica 
-[^3]: Rumored 
