@@ -11,6 +11,8 @@
 | [VIN Decoder](https://vpic.nhtsa.dot.gov/decoder) | What is it? What does it have? From [National Highway Traffic Safety Administration](https://www.nhtsa.dot.gov/) |
 | [Old Car City](https://www.oldcarcityusa.com/)[^1] | Old Car City in White, Georgia contains the worlds largest known classic car junkyard. |
 
+[^1]: [Old Car City](https://www.oldcarcityusa.com/) in White, Georgia contains the worlds largest known classic car junkyard. Visitors enjoy the beautiful vegetation of the deep south that is intertwined with the hundreds of cars that reside in Old Car City. Old Car City started as a small general store in 1931 and is still family owned and operated. Come enjoy the Old South environment, folk art, ghosts of beautiful classic cars, and much more! With over 34 acres and over 4000 American-made cars from the early 20th Century, these cars, trucks, vans, and even a couple school buses are placed in such a way as to be ideally suited for photos, videos and custom camera shoots. Over the 8 decades since first started, thousands of photographers, videographers, ad agencies and media companies have visited Old Car City USA. Popular news magazine and newspaper companies, like CBS Sunday Morning, the New York Times, the BBC and Georgia Public Television, have made press releases and/or video segments and transmitted it worldwide. Mayor of Old Car City USA, Dean Lewis, welcomes all who come out to visit his varied collection of automobile art with a little help from Mother Nature. You can come and just stroll along with winding paths for a nominal fee or, for a few dollars more, bring a camera and take pictures and/or videos and share them with friends. Among the many cars at Old Car City USA, there is the last car Elvis Presley ever bought back in 1977 just a couple months before he died. Also, a movie starring Andy Griffith and Johnny Cash used one of the cars that now call this place "home." The honorary mayor of the "City," Dean Lewis, is also an artist in his own rite with some of the most unique canvas...the styrofoam cup. In his upstairs loft, Lewis has hundreds of styrofoam canvases featuring his artistic talents on display along with some paintings he will proudly show off.
+
 ## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
 
 [Canada sunsetted cellular 2G CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. Documents retrieved from NHTSA (US) https://nhtsa.gov.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
@@ -41,6 +43,8 @@
 || SSR | 2005 | [2005 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA817/en_US/2.0/2005ChevroletSSROwnersManual.pdf) |
 || SSR | 2004 | [2004 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA225/en_US/2.0/2k04SSR.pdf) |
 || SSR | 2003 | [2003 Chevrolet SSR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA180/en_US/2.0/2k03ssr.pdf) |
+
+[^2]: My bucket list car
 
 ## Cars
 
@@ -253,6 +257,7 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |ZR6| Show Vehicle Zone|
 |ZV1| Statement of Origin Manufacture|
 
+[^3]: [Chevy HHR Net](https://chevyhhr.net/)
 
 ## ODB-II Codes
 
@@ -272,6 +277,3 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |----|
 | [Chevrolet El Camino models](https://livecarmodel.com/categories/chevrolet/el-camino.html) |
 
-[^1]: [Old Car City](https://www.oldcarcityusa.com/) in White, Georgia contains the worlds largest known classic car junkyard. Visitors enjoy the beautiful vegetation of the deep south that is intertwined with the hundreds of cars that reside in Old Car City. Old Car City started as a small general store in 1931 and is still family owned and operated. Come enjoy the Old South environment, folk art, ghosts of beautiful classic cars, and much more! With over 34 acres and over 4000 American-made cars from the early 20th Century, these cars, trucks, vans, and even a couple school buses are placed in such a way as to be ideally suited for photos, videos and custom camera shoots. Over the 8 decades since first started, thousands of photographers, videographers, ad agencies and media companies have visited Old Car City USA. Popular news magazine and newspaper companies, like CBS Sunday Morning, the New York Times, the BBC and Georgia Public Television, have made press releases and/or video segments and transmitted it worldwide. Mayor of Old Car City USA, Dean Lewis, welcomes all who come out to visit his varied collection of automobile art with a little help from Mother Nature. You can come and just stroll along with winding paths for a nominal fee or, for a few dollars more, bring a camera and take pictures and/or videos and share them with friends. Among the many cars at Old Car City USA, there is the last car Elvis Presley ever bought back in 1977 just a couple months before he died. Also, a movie starring Andy Griffith and Johnny Cash used one of the cars that now call this place "home." The honorary mayor of the "City," Dean Lewis, is also an artist in his own rite with some of the most unique canvas...the styrofoam cup. In his upstairs loft, Lewis has hundreds of styrofoam canvases featuring his artistic talents on display along with some paintings he will proudly show off.
-[^2]: My bucket list car
-[^3]: https://chevyhhr.net/
