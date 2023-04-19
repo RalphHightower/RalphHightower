@@ -15,6 +15,8 @@
 
 ### Canon F-1N 
 
+The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from [KEH](https://www.keh.com/).
+
 | Description | Link |
 |-------------|------|
 | Canon F-1N | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^1] |
@@ -38,12 +40,13 @@
 
 ### Bucket List Cameras 
 
-| Brand (Model) | Manual |
-|---------------|--------|
-| Mamiya 645 | [Download]()[^1] |
-| Mamiya RB67 | [Download]()[^1] |
-| Mamiya RZ67 | [Download]()[^1] |
-| Monorail 4×5 View Camera | |
+| Brand (Model) | Manual | Aquired |
+|---------------|--------|----|
+| Canon F-1N | | July 2013 |
+| Mamiya 645 | [Download]()[^1] | |
+| Mamiya RB67 | [Download]()[^1] | |
+| Mamiya RZ67 | [Download]()[^1] | |
+| Monorail 4×5 View Camera | | |
 
 [^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 
@@ -143,6 +146,50 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Source Code](https://www.magiclantern.fm/downloads.html#source) |
 | [Downloads](https://www.magiclantern.fm/downloads.html) |
 
+# Photography Articles/Blogs 
+
+| Photography Articles/Blogs |
+|----|
+| [B&H Photography/Video Explora — Photography](https://www.bhphotovideo.com/explora/photography) |
+| [DP Review](https://www.dpreview.com/) |
+| [FStoppers](https://fstoppers.com/) |
+| [Japan Camera Hunter](https://www.japancamerahunter.com/) |
+| [KEH Blog](https://www.keh.com/shop/blog/) |
+| [Lens Rentals Blog](https://www.lensrentals.com/blog/) |
+| [PetaPixel](https://petapixel.com/) |
+| [Photo Focus](https://photofocus.com/) |
+| [Slanted Lens](https://theslantedlens.com/) |
+| [SLR Lounge](https://www.slrlounge.com/) |
+||
+| [B&H Photography/Video Explora — Computers](https://www.bhphotovideo.com/explora/computers) |
+| [B&H Photography/Video Explora — Home Entertainment](https://www.bhphotovideo.com/explora/home-entertainment) |
+| [B&H Photography/Video Explora — Mobile](https://www.bhphotovideo.com/explora/mobile) |
+| [B&H Photography/Video Explora — Pro Audio](https://www.bhphotovideo.com/explora/pro-audio) |
+| [B&H Photography/Video Explora — Video](https://www.bhphotovideo.com/explora/video) |
+| [B&H Photography/Video Explora— Learn Photography](https://www.bhphotovideo.com/explora/learn-photography) |
+| [B&H Photography/Video Explora — Strobe Lighting](https://www.bhphotovideo.com/explora/strobe-lighting-for-your-studio-photography-needs) |
+| [B&H Photography/Video Explora — Learn Filmmaking](https://www.bhphotovideo.com/explora/filmmaking) |
+| [B&H Photography/Video Explora — Audio for Video](https://www.bhphotovideo.com/explora/learn-how-to-record-audio-for-video-and-film) |
+
+<hr>
+
+# International Press Telecommunications Council 
+
+| [International Press Telecommunications Council](https://iptc.org/) | 
+|----|
+| [IPTC Metadata](https://iptc.org/standards/photo-metadata/photo-metadata/) | 
+| [IPTC Developers](http://dev.iptc.org/) | 
+
+# Photography News/Tips
+
+| Photography News/Tips |
+|----|
+| [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
+| [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br>[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
+| **[REVIVING A LEGEND: MAMIYA RB67 REPAIR](https://hackaday.com/2023/04/06/reviving-a-legend-mamiya-rb67-repair/)** |
+| [REVIVING A LEGEND: REPAIRING A MAMIYA RB67](https://www.diyphotography.net/mamiya-rb67-repair/?mc_cid=54388c6e8c&mc_eid=1f08bf7a59) || **[Heavy Pan Tilt System](https://magpi.raspberrypi.com/articles/heavy-pan-tilt-system)** |
+| [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
+
 # Preferred Photography Retailers 
 
 | Company | Location | About |
@@ -185,23 +232,3 @@ An opportunity. A chance to create and share something extraordinary with the wo
 [^7]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
 
 I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
-
-<hr>
-
-## International Press Telecommunications Council 
-
-| [International Press Telecommunications Council](https://iptc.org/) | 
-|----|
-| [IPTC Metadata](https://iptc.org/standards/photo-metadata/photo-metadata/) | 
-| [IPTC Developers](http://dev.iptc.org/) | 
-
-## Photography News/Tips
-
-| Photography News/Tips |
-|----|
-| [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
-| [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br>[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
-| **[REVIVING A LEGEND: MAMIYA RB67 REPAIR](https://hackaday.com/2023/04/06/reviving-a-legend-mamiya-rb67-repair/)** |
-| [REVIVING A LEGEND: REPAIRING A MAMIYA RB67](https://www.diyphotography.net/mamiya-rb67-repair/?mc_cid=54388c6e8c&mc_eid=1f08bf7a59) || **[Heavy Pan Tilt System](https://magpi.raspberrypi.com/articles/heavy-pan-tilt-system)** |
-| [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
-
