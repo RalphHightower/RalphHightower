@@ -54,7 +54,7 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 
 ## Personal Projects 
 
-Now that I am retired, I am getting into the Arduino ecosystem.
+Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC-V ecosystem.
 
 | Status | Project |
 |----|-----|
@@ -68,7 +68,9 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | Articles/BugFixes | Date | Publication |
 |---------|------|-------------|
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
-| [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook) | 2008-12-01 | CodeProject |
+| [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook)[^21] | 2008-12-01 | CodeProject |
+
+[^21]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
 
 ## Authored Websites, Software Applications 
 
@@ -120,6 +122,12 @@ Now that I am retired, I am getting into the Arduino ecosystem.
 | [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^24] | Internet[Standards development] |
 | [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^25] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
 | [Internet Architecture Board (IAB)](https://www.iab.org/)[^26] | Internet[Long-range technical direction] |
+
+[^22]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
+[^23]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
+[^24]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
+[^25]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
+[^26]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
@@ -360,6 +368,10 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | [B&H Photo/Video](https://www.bhphotovideo.com/)[^28] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
 | [Lensrentals.com](https://www.lensrentals.com/)[^29] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
 
+[^27]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^28]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^29]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+
 | [About KEH](https://www.keh.com)[^27] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
@@ -517,12 +529,3 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal) |
 
-[^21]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
-[^22]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
-[^23]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
-[^24]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
-[^25]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
-[^26]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
-[^27]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^28]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^29]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
