@@ -89,6 +89,7 @@
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) | (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
+| **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W) Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4) |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
@@ -346,6 +347,9 @@
 | **[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU](https://www.tomshardware.com/reviews/pinecil-v2)** |
 | **[The Pinecil: The $25 Smart Soldering Iron](https://deninet.com/blog/2021/05/09/pinecil-25-smart-soldering-iron)** |
 | [Derek Woodroffe's PicoCray Turns Raspberry Pi Pico Boards Into a Distributed Supercomputer of Sorts](https://www.hackster.io/news/derek-woodroffe-s-picocray-turns-raspberry-pi-pico-boards-into-a-distributed-supercomputer-of-sorts-8f13bc3b97be) |
+| [BLIKVM open-source KVM over IP works with Raspberry Pi CM4, Raspberry Pi HAT, PCIe card, and soon Allwinner H616](https://www.cnx-software.com/2023/04/18/blikvm-open-source-kvm-over-ip-raspberry-pi-cm4-raspberry-pi-hat-pcie-board-allwinner-h616/) |
+| **[Cool Pi CM5 debuts as new SoM with expansion board support](https://www.notebookcheck.net/Cool-Pi-CM5-debuts-as-new-SoM-with-expansion-board-support.707634.0.html)** |
+| **[Cool Pi CM5 evaluation board features Rockchip RK3588/RK3588J system-on-module](https://www.cnx-software.com/2023/04/12/cool-pi-cm5-evaluation-board-features-rockchip-rk3588-rk3588j-system-on-module/)** |
 
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
