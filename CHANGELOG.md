@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.0](https://github.com/RalphHightower/RalphHightower/compare/v1.15.10...v1.16.0) (2023-04-20)
+
+
+### Features
+
+* Add Chevrolet C8 Corvette page ([43936f6](https://github.com/RalphHightower/RalphHightower/commit/43936f68a6de1dd4d39c46972643c9defc763c0b))
+
 ## [1.15.10](https://github.com/RalphHightower/RalphHightower/compare/v1.15.9...v1.15.10) (2023-04-18)
 
 
