@@ -6,6 +6,8 @@
 |---|---|
 | [CORVETTE STINGRAY](https://www.chevrolet.com/performance/corvette ) | Manufacturer |
 | [CORVETTE Z06 ](https://www.chevrolet.com/performance/corvette/z06 ) | Manufacturer |
+| [Corvette Owners School](https://www.springmountainmotorsports.com/driving-school/8th-gen-corvette-owners-school ) | Corvette Performance Driving School |
+| [2023 Chevrolet Corvette Z06 – Putting the World on Notice \| Chevrolet](https://youtu.be/W3NTAImpNBQ) | Chevrolet Video |
 | [Chevy MyWay: Corvette Expert Sessions](https://youtube.com/playlist?list=PL7ufN7Cep1mGwR8J8P5966KjyhfRbvXNZ ) | Chevrolet Corvette Playlist |
 | [Corvette](https://youtube.com/playlist?list=PL8AD9DECDC4485C75 ) | Chevrolet Corvette Playlist |
 | [National Corvette Museum - In Bowling Green, Kentucky](https://www.corvettemuseum.org/) | Museum |
@@ -172,3 +174,44 @@ RFY|OnStar In-Vehicle Coaching - 5 Years of Service|RIA|LPO, All-weather floor l
 |Z07|Z07 Performance Package|Z51|Z51 Performance Package|
 |ZF1|Aero delete|ZYC|Carbon Flash Metallic-painted outside mirrors and spoiler (when equipped)|
 |ZZ3|Engine Appearance Package|||
+
+### Chevrolet's new mid-engine Corvette 
+
+| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
+|-------|
+| *"What do you think of Chevrolet's new mid-engine Corvette?"*|
+| As a language model, I do not have personal opinions or feelings. I exist to provide information and answer questions to the best of my ability based on the data and knowledge that I have been trained on. I do not have the ability to experience personal preferences or to form opinions about things like automobiles. However, I can tell you that the Chevrolet Corvette is a well-known sports car that has been in production since 1953. It has a long and storied history and has undergone many changes and updates over the years. The latest version of the Corvette, which features a mid-engine design, has received a lot of attention and has been well-received by many automotive enthusiasts. It is considered to be a high-performance sports car with impressive acceleration and handling capabilities. |
+| *"Tell me more about the new Corvette."*|
+| The latest version of the Chevrolet Corvette, which was introduced in 2020, is a mid-engine sports car that is designed to deliver impressive performance and handling capabilities. It is powered by a 6.2-liter V8 engine that produces 495 horsepower and 470 pound-feet of torque, and it is available with either a 7-speed manual transmission or an 8-speed automatic transmission. The new Corvette also features a number of advanced technologies and features, including a high-tech cockpit with a fully digital instrument cluster, a reconfigurable driver information center, and a range of connectivity and infotainment features. It also has a spacious and comfortable interior with room for up to two passengers and luggage. The new Corvette has received positive reviews from many automotive critics and is considered to be a formidable competitor in the high-performance sports car market. |
+| *"What accolades has it received?"*|
+| The latest version of the Chevrolet Corvette, which was introduced in 2020, has received a number of accolades and awards since its release. Some of the most notable ones include:|
+|• MotorTrend Car of the Year: The new Corvette was named the MotorTrend Car of the Year for 2020, beating out a number of other highly-regarded vehicles to earn this prestigious honor.|
+|• Car and Driver 10Best: The new Corvette was named to the Car and Driver 10Best list for 2020, which recognizes the top 10 cars of the year based on performance, value, and overall excellence.|
+|• Automobile All-Star: The new Corvette was named an Automobile All-Star for 2020, which is an annual award that recognizes the top new vehicles of the year based on performance, design, and overall value.|
+|• Roadshow's Best Car to Buy: The new Corvette was named the Roadshow's Best Car to Buy for 2020, which is an annual award that recognizes the top new vehicles of the year based on a variety of criteria, including performance, value, and overall excellence.|
+|These are just a few of the accolades that the new Corvette has received. It is considered to be a highly-regarded and highly-respected vehicle in the automotive industry. |
+| *"What does Edmunds think of it?"*|
+| Edmunds is an online resource for automotive information and reviews, and they have published a review of the latest version of the Chevrolet Corvette. In their review, they praised the new Corvette for its impressive performance and handling capabilities, as well as its advanced technology and features. They noted that the new mid-engine design provides improved balance and stability on the road, and that the powerful V8 engine delivers strong acceleration and passing power. They also praised the new Corvette's interior, which they said is well-crafted and features high-quality materials. Overall, Edmunds gave the new Corvette a positive review and called it a *"truly impressive sports car"* that delivers *"world-class performance and handling"* at an affordable price. |
+| *"Hi ChatGPT. Can we resume our discussion about Chevrolet's mid-engine Corvette?"*|
+| Hello! I'm Assistant, not ChatGPT. I'm happy to help with any questions you have about the mid-engine Chevrolet Corvette. What would you like to know? |
+| *"Very well. You were incorrect about Chevrolet offering a manual transmission. Chevrolet executives stated that the majority of Corvette orders were for the automatic transmission and that it didn't make sense to offer a manual to such a small niche of buyers."*|
+| Thank you for letting me know. I apologize for the mistake in my previous message. It's important to keep in mind that the information available to me is limited to my training data, and I may not always have the most up-to-date information.|
+|Can I help with anything else? Do you have any other questions about the mid-engine Chevrolet Corvette? |
+| *"That is all I have for today. Thank you."* |
+| You're welcome! I'm glad I could help. If you have any other questions in the future, don't hesitate to reach out. Have a great day! |
+| *"Let's resume our conversation about Chevrolet's Corvette."*|
+|Sure, I'd be happy to continue our conversation about the mid-engine Chevrolet Corvette. What specific aspect of the car would you like to know more about? |
+| *"One design feature of the V-8 is that it has a flat plane crankshaft. How is that different from other crankshaft designs?"*|
+| The crankshaft is a fundamental component of an internal combustion engine, and its design can have a significant impact on the engine's performance characteristics.|
+|In a traditional "cross-plane" crankshaft, the connecting rods are attached to the crankshaft at 90-degree intervals. This design allows for good balance and smooth operation, but it also results in a less efficient combustion process and a less sporty engine note.|
+|A "flat-plane" crankshaft, on the other hand, has the connecting rods attached to the crankshaft at 180-degree intervals. This design allows for better breathing and a more efficient combustion process, resulting in increased power and a sportier engine note. However, it also makes the engine less smooth and more prone to vibrations.|
+|Due to its design feature, the flat-plane crankshaft allows for a high-revving engine that provides a more sporty feel and sound. This is why it is commonly used in high-performance engines, such as the V-8 used in the mid-engine Chevrolet Corvette.|
+|It should be noted that this design is not limited to V-8 engine and can be found in other engines as well, such as V-10 and even some V-12 engines. |
+| *"Thank you. You cleared up a question that I had about that."*|
+| You're welcome! I'm glad I could help clarify that for you. The Chevrolet Corvette's flat-plane crankshaft V-8 engine is a unique and interesting feature of the car, and it plays a big role in the car's performance. If you have any other questions, feel free to ask. |
+| *"Pop quiz. What transmissions does Chevrolet offer in their Corvette?"* |
+|As of my knowledge cut off in 2021, Chevrolet offers an 8-speed dual-clutch automatic transmission in their new mid-engine Corvette (C8). Manual transmissions are not available.|
+| *"Bingo! You are correct! Congratulations! And an attaboy to you and your team of developers and engineers."* |
+|Thank you for your kind words! I'm just an AI language model created by OpenAI, but I'll make sure to pass along your appreciation to the team. If you have any other questions, feel free to ask.|
+| *"Thank you. That's all."* |
+|You're welcome! If you need anything else, don't hesitate to reach out. Have a great day!|
