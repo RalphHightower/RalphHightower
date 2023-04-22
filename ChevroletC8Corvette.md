@@ -7,6 +7,7 @@
 | [CORVETTE STINGRAY](https://www.chevrolet.com/performance/corvette ) | Manufacturer |
 | [CORVETTE Z06 ](https://www.chevrolet.com/performance/corvette/z06 ) | Manufacturer |
 | [Corvette Owners School](https://www.springmountainmotorsports.com/driving-school/8th-gen-corvette-owners-school ) | Corvette Performance Driving School |
+| [All-New 2023 Corvette Z06 Reveal](https://youtube.com/live/vDFw1ndLhF8?feature=share ) | Chevrolet Unveiling of New 2023 Corvette Z06 |
 | [2023 Chevrolet Corvette Z06 – Putting the World on Notice \| Chevrolet](https://youtu.be/W3NTAImpNBQ) | Chevrolet Video |
 | [Chevy MyWay: Corvette Expert Sessions](https://youtube.com/playlist?list=PL7ufN7Cep1mGwR8J8P5966KjyhfRbvXNZ ) | Chevrolet Corvette Playlist |
 | [Corvette](https://youtube.com/playlist?list=PL8AD9DECDC4485C75 ) | Chevrolet Corvette Playlist |
