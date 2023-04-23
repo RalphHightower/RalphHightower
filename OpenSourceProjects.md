@@ -37,5 +37,7 @@
 | [sevensx / ntrip](https://github.com/sevensx/ntrip) | Simple ntrip caster/client/server example programs, using the NTRIP2.0 protocol |ntrip |
 | [newrelic / newrelic-dotnet-agent](https://github.com/newrelic/newrelic-dotnet-agent) | The New Relic .NET language agent.|Performance Monitor|
 | [tenable / pi_sniffer](https://github.com/tenable/pi_sniffer) | The pocket-sized wireless sniffer |security |
+| [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins<br>Jobbr is a .NET job server. It is designed to reduce artifical complexity when a job server is needed in a project. Jobbr tries to get out of your way as much as possible so that you can focus on business logic. Job implementations have no deppendency to Jobbr which makes it easy to integrate Jobbr in any .NET project.|
+| [Jobbr Documentation](https://jobbr.readthedocs.io/en/latest/index.html) | Documentation: Jobbr |
 
 [^1]: Dead project
