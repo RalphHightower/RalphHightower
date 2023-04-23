@@ -21,12 +21,16 @@ I loved the retro styling of the HHR and it was a practical hatchback. It had a 
 ### Sunroof Repair
 
 This frame is needed because the driver side pivot hold down is broken. When the sunroof is retracted, the slide arm that is supposed lower the wind baffle springs up, requiring two people to close the sunroof: 
-1. one person is needed outside to hold the arm down for the window
+1. one person is needed outside to hold the arm down for the glass to slide back into place.
 2. the other person is needed inside to push the button to close the sunroof. 
 
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
-| GM Genuine Parts Sunroof Frame | 25967123 | • Chevrolet:<br>MSRP: \$456.81<br>• GM Parts Direct:<br> MSRP:	\$456.81<br>Discount:	\$159.42 (34.90% off)<br>Sale Price:	\$297.39 |
+| GM Genuine Parts Sunroof Frame | 25967123 | • [Chevrolet Parts:](https://parts.chevrolet.com/)[^1]<br>MSRP: \$456.81<br>• [GM Parts Direct:](https://www.gmpartsdirect.com/)[^2]<br> MSRP:	\$456.81<br>Discount:	\$159.42 (34.90% off)<br>Sale Price:	\$297.39 |
+
+[^1]: [Chevrolet Parts](https://parts.chevrolet.com/) ([https://parts.chevrolet.com/](https://parts.chevrolet.com/))
+[^2]: [GM Parts Direct](https://www.gmpartsdirect.com/) ([https://www.gmpartsdirect.com/](https://www.gmpartsdirect.com/))
+
 
 ### 2011 Chevrolet HHR 2.4L I-4 Enable Remote Start?
 
@@ -34,11 +38,16 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
-| Hood Latch - GM (20765278) | 20765278 | $130.84 (GMD) |
+| Hood Latch - GM (20765278) | 20765278 | $130.84 [GMD](https://www.gmpartsdirect.com/)[^2] |
+
+| Source | Legend | Website |
+|--------|--------|---------|
+| [Chevrolet](https://parts.chevrolet.com/) | ([C](https://parts.chevrolet.com/)) [^1] | [https://parts.chevrolet.com/](https://parts.chevrolet.com/) |
+| [GM Parts Direct](https://www.gmpartsdirect.com/) | ([GMD](https://www.gmpartsdirect.com/))[^2] | [https://www.gmpartsdirect.com/](https://www.gmpartsdirect.com/) |
 
 ### 2011 GM Regular Production Codes 
 
-|RPO Codes[^1] | Description |RPO Codes|Description |
+|RPO Codes[^3] | Description |RPO Codes|Description |
 |----|----|---|---|
 |142| Trim Combination - Leather, Gray (2) (97)|14B| Trim Combination - Cloth, Gray (B) (97)|
 |14I| Interior Trim Gray|17A| Stripe Color Accent, Smoke (07)|
@@ -134,7 +143,7 @@ D30| Color Override Approved Color & Trim Combinations (All Products)|D7E| Tray 
 |ZAG |Wheel Spare Spare, Compact Size, 15X4, 5 Lugs"|ZR6| Show Vehicle Zone|
 |ZV1| Statement of Origin Manufacture| | |
 
-[^1]: [Chevy HHR Net](https://chevyhhr.net/)
+[^3]: [Chevy HHR Net](https://chevyhhr.net/)
 
 ## OnStar Functionality Impacted by US Cellular CDMA 2G Sunset 
 
@@ -151,11 +160,6 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 | | | | |UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br>No Results (C) |
 
 [^3]: Totalled 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
-
-| Source | Legend | Website |
-|--------|--------|---------|
-| Chevrolet | (C) | [https://parts.chevrolet.com/](https://parts.chevrolet.com/) |
-| GM Parts Direct | (GMD) | [https://www.gmpartsdirect.com/](https://www.gmpartsdirect.com/) |
 
 ### Service Bulletin 15-08-44-001J ([GM Canada](https://www.gm.ca/) 🇨🇦 🍁)
 
