@@ -19,6 +19,8 @@
 | [Corvette C8 Convertible / Mistakes Were Made](https://youtube.com/watch?v=T1SPIX8hxVg&feature=share ) | Savage Geese Video 
 | [Is It Worth The Hype?? // C8 Chevy Corvette Z51 Convertible Review](https://youtube.com/watch?v=B2QjBPvMGwM&feature=share ) | Sarah -n- Tune YouTube |
 | [SARAH N TUNED GOT A CORVETTE C8](https://youtube.com/watch?v=dfdwh1zPH6k&feature=share ) | Sarah -n- Tune YouTube |
+| [CorvetteBlogger - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/ ) | Blog: Corvette |
+[Corvette Specialist Mike Furman at Criswell Corvette](https://www.criswellcorvette.com/mike-furman ) | Dealership: Top Corvette Dealership |
 
 ## Owners Manual Manuals
 
