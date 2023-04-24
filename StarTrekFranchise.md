@@ -15,7 +15,9 @@
 | The Animated Series | (1973–1974) | James Kirk |
 | Lower Decks | (2020–present) |  |
 | Prodigy | (2021–present) | Brett Gray |
-| Section 31 | Rumored | |
+| Star Trek: Starfleet Academy[^1] | 2024/2025 | |
+
+[^1]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
 
 ## Star Trek Movies
 
@@ -34,3 +36,7 @@
 | Star Trek | 2009 | Kelvin Reboot |
 | Into Darkness| 2013 | Kelvin Reboot |
 | Beyond | 2016 | Kelvin Reboot |
+| Star Trek: Section 31[^2] | Paramount+ |
+
+[^2]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
+
