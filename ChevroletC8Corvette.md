@@ -13,6 +13,7 @@
 | [Corvette](https://youtube.com/playlist?list=PL8AD9DECDC4485C75 ) | Chevrolet Corvette Playlist |
 | [National Corvette Museum - In Bowling Green, Kentucky](https://www.corvettemuseum.org/) | Museum |
 | [Corvette Store](https://www.corvettestoreonline.com/) | Store |
+| [Corvette Build Sheets, Window Stickers (Moroney)](https://corvettestore.com/build-sheets-window-stickers/) | Build Sheets, Maroney Window Stickers |
 | [2020 Chevrolet Corvette: What's It Like to Live With?](https://www.edmunds.com/chevrolet/corvette/2020/long-term-road-test/) | Edmunds Long Term Test |
 | **[2023 Corvette C8 Z06 / Making Cars Great Again](https://youtube.com/watch?v=hJP6oXfZkFo&feature=share )** | Savage Geese Video |
 | [How It's Made / Chevy C8 Corvette](https://youtube.com/watch?v=Z2ag9b8BWzI&feature=share ) | Savage Geese Video |
