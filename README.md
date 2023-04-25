@@ -152,10 +152,11 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel) | Intel |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
+| [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
-| [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
+| [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
