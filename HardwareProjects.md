@@ -43,6 +43,9 @@
 | Product | Vendor | Turing Pi Compatible |
 |----|----|----|
 | Raspberry Pi CM4 || ✓ |
+| [Turing RK1 - Turing Pi 8GB ](https://turingpi.com/product/turing-rk1/) | [$110 8GB](https://turingpi.com/product/turing-rk1/) | ✓ |
+| [Turing RK1 - Turing Pi 16GB](https://turingpi.com/product/turing-rk1/) | [$160 16GB](https://turingpi.com/product/turing-rk1/) | ✓ |
+| [Turing RK1 - Turing Pi 32GB](https://turingpi.com/product/turing-rk1/) | [$210 32GB](https://turingpi.com/product/turing-rk1/) | ✓ |
 | NVIDIA Jetson AGX Xavier Industrial | [Arrow](https://www.arrow.com/products/900-82888-0080-000/nvidia) $1,449.00 | |
 | NVIDIA Jetson AGX Xavier 64GB | [Arrow](https://www.arrow.com/en/products/900-82888-0050-000/nvidia) $1,399.00  |  |
 | NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
@@ -83,6 +86,10 @@
 |----|
 | [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
 | [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
+
+| Articles |
+|----|
+| [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards)
 
