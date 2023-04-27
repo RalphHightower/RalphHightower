@@ -49,8 +49,10 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 | LinkedIn Profile | **[RalphHightower](https://www.linkedin.com/in/ralphhightower/)** (LinkedIn is where I spend the majority of my time.) |
 | Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
-| Twitter | [RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.) |
+| Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.)~~[^21] |
 | YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
+
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.<br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to hell. 
 
 ## Personal Projects 
 
@@ -68,9 +70,9 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | Articles/BugFixes | Date | Publication |
 |---------|------|-------------|
 | [Win NT reports Access Violation in mod_info.c](http://archive.apache.org/gnats/4623)| 1999-06-22 | Apache (web server) |
-| [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook)[^21] | 2008-12-01 | CodeProject |
+| [NASA Space Shuttle TV Schedule Transfer to Outlook Calendar](https://www.codeproject.com/Articles/21847/NASA-Space-Shuttle-TV-Schedule-Transfer-to-Outlook)[^31] | 2008-12-01 | CodeProject |
 
-[^21]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
+[^31]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the retirement of the Space Shuttle fleet.
 
 ## Authored Websites, Software Applications 
 
@@ -80,7 +82,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
 | [GM-Canada-Onstar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular 2G CDMA technology in 2015  |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
-| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^21] |
+| [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^31] |
 
 ## References 
 
@@ -117,17 +119,17 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
 | [Semantic Versioning 2.0.0](https://semver.org/) | Versioning |
 | [https://pagespeed.web.dev/report](https://pagespeed.web.dev/report) | Web page diagnostics |
-| [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^22] | Internet[DNS Root, IP addressing, Internet protocols] |
-| [RFC Editor (RFC)](https://www.rfc-editor.org/)[^23] | Internet[Technical, organizational documents] |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^24] | Internet[Standards development] |
-| [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^25] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
-| [Internet Architecture Board (IAB)](https://www.iab.org/)[^26] | Internet[Long-range technical direction] |
+| [Internet Assigned Numbering Authority (IANA)](https://www.iana.org/)[^41] | Internet[DNS Root, IP addressing, Internet protocols] |
+| [RFC Editor (RFC)](https://www.rfc-editor.org/)[^42] | Internet[Technical, organizational documents] |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)[^43] | Internet[Standards development] |
+| [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^44] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
+| [Internet Architecture Board (IAB)](https://www.iab.org/)[^45] | Internet[Long-range technical direction] |
 
-[^22]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
-[^23]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
-[^24]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
-[^25]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
-[^26]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
+[^41]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
+[^42]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
+[^43]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
+[^44]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
+[^45]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
@@ -365,15 +367,15 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Company | Location | About |
 |---------|----------|-------|
-| [KEH](https://www.keh.com)[^27] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
-| [B&H Photo/Video](https://www.bhphotovideo.com/)[^28] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
-| [Lensrentals.com](https://www.lensrentals.com/)[^29] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
+| [KEH](https://www.keh.com/)[^51] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
+| [B&H Photo/Video](https://www.bhphotovidphotograph/)[^52] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
+| [Lensrentals.com](https://www.lensrentals.com/)[^53] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
 
-[^27]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^28]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^29]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+[^51]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^52]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^53]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
 
-| [About KEH](https://www.keh.com)[^27] |
+| [About KEH](https://www.keh.com/)[^51] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
 | KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
@@ -382,7 +384,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
-| [About B&H Photo/Video](https://www.bhphotovideo.com)[^28] |
+| [About B&H Photo/Video](https://www.bhphotovideo.com/)[^52] |
 |-----------------------|
 | Get to know the people who know your gear best.
 | B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
@@ -392,7 +394,7 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
 | Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
 
-| [About Lensrentals.com](https://www.lensrentals.com)[^29] |
+| [About Lensrentals.com](https://www.lensrentals.com/)[^53] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
