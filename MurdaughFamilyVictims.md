@@ -25,7 +25,8 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 | [Satterfield, Gloria]()[^1] | **2021-GS-47-30:** <br>• Obtaining Property by False Pretenses  (3 counts) <br>• Money Laundering (3 counts) <br>• Computer Crime (3 counts)<br>• Criminal Conspiracy (1 count)<br>• False Statement or Misrepresentation (3 counts) | Beaufort County | TBD | TBD | TBD |
 | [Thomas, Natasha]()[^2] | **2022-GS-47-01:** <br>• Breach of Trust with Fraudulent Intent (4 counts) <br>• Computer Crime (1 count)<br>• Criminal Conspiracy (1 count) | Hampton County |.|.|.|
 | [Wilson, Chris]()[^1] |• |  | TBD | TBD | TBD |
-| [State of South Carolina]()[^1] | **2022-GS-47-34:** <br>• Willful Attempt to Evade or Defeat a Tax (9 counts) <br> **2021-GS-25-00478 (Hampton):** <br>•False Claim for Payment <br>• Filing a False Police Report<br> • Conspiracy<br> **2022-06-23-0301977** (Colleton)<br>• Criminal Conspiracy (1 count)<br>• Manufacture, Distribute, Possess Narcotic Drugs in Schedule II (Oxycodone) (Conspiracy) (1 count) | Hampton County,<br>Colleton County |.|.|.|
+| [State of South Carolina]()[^1] | **2022-GS-47-34:** <br>• Willful Attempt to Evade or Defeat a Tax (9 counts) <br> **2021-GS-25-00478 (Hampton):** <br>•False Claim for Payment <br>• Filing a False Police Report<br> • Conspiracy<br> **2022-06-23-0301977** (Colleton)<br>• Criminal Conspiracy (1 count)<br>• Manufacture, Distribute, Possess Narcotic Drugs in Schedule II (Oxycodone) (Conspiracy) (1 count)<br>**2023-GS-47-03 (Colleton)** <br>• Willful Attempt to Evade or Defeat a Tax (2 counts)
+| Hampton County,<br>Colleton County |.|.|.|
 
 [^1]: Not online yet
 [^2]: SLED: South Carolina Law Enforcement Division. South Carolina's "FBI" on a state level. 
