@@ -15,10 +15,16 @@
 | [Villa Tronco](https://www.villatronco.com/) |Italian | Columbia |
 | [Zorba's](https://zorbaschapin.com) | Greek | Chapin |
 
+[^1]: You don't go to a renowned steak house for fish or chicken!
+
 ## Charleston
 
 [Charleston Convention and VisitorsBureau – Seafood](https://www.charlestoncvb.com/plan-your-trip/dining-nightlife~124/seafood~1100/) 
 
 ## Greenville 
 
-[^1]: You don't go to a renowned steak house for fish or chicken!
+## Fort Mill
+
+| Restaurant/Condiments | Cuisine | City |
+|----|---|---|
+| [Puckerbutt Pepper Company creators of the world’s hottest pepper and intensely flavorful hot sauces – Puckerbutt Pepper Company](https://puckerbuttpeppercompany.com/) | Hot, insanely 🔥, pepper 🌶 sauce | Fort Mill |
