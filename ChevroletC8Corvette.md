@@ -21,7 +21,8 @@
 | [Is It Worth The Hype?? // C8 Chevy Corvette Z51 Convertible Review](https://youtube.com/watch?v=B2QjBPvMGwM&feature=share ) | Sarah -n- Tune YouTube |
 | [SARAH N TUNED GOT A CORVETTE C8](https://youtube.com/watch?v=dfdwh1zPH6k&feature=share ) | Sarah -n- Tune YouTube |
 | [CorvetteBlogger - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/ ) | Blog: Corvette |
-[Corvette Specialist Mike Furman at Criswell Corvette](https://www.criswellcorvette.com/mike-furman ) | Dealership: Top Corvette Dealership |
+| [Corvette Specialist Mike Furman at Criswell Corvette](https://www.criswellcorvette.com/mike-furman ) | Dealership: Top Corvette Dealership |
+| [\[VIDEO\] C8 Corvette Stingray with Z51 Runs Top Speed of 191.7 MPH on the Space Shuttle's Runway - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/03/22/video-c8-corvette-stingray-with-z51-runs-top-speed-of-191-7-mph-on-the-space-shuttles-runway/) | -YouTube |
 
 ## Owners Manual Manuals
 
