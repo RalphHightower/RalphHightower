@@ -105,7 +105,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [SPDX License List](https://spdx.org/licenses/) | Licensing |
 | [Liquid reference](https://shopify.dev/api/liquid) | Liquid: Template Language Documentation |
 | [MQTT Version 5.0 \| OASIS Standard \| 07 March 2019](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) | MQTT: Standard |
-| [OpenMQTTGateway](https://docs.openmqttgateway.com/) | | MQTT: Products |
+| [OpenMQTTGateway](https://docs.openmqttgateway.com/) | MQTT: Products |
 | [Node.js](https://nodejs.org/en/) | Node.js® is an open-source, cross-platform JavaScript runtime environment. |
 | [North American Numbering Plan Administrator](https://nationalnanpa.com/) | Resources: North American Numbering Plan Administration (Resources: Telephone) |
 | [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
