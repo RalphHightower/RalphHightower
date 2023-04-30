@@ -22,7 +22,8 @@
 | [SARAH N TUNED GOT A CORVETTE C8](https://youtube.com/watch?v=dfdwh1zPH6k&feature=share ) | Sarah -n- Tune YouTube |
 | [CorvetteBlogger - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/ ) | Blog: Corvette |
 | [Corvette Specialist Mike Furman at Criswell Corvette](https://www.criswellcorvette.com/mike-furman ) | Dealership: Top Corvette Dealership |
-| [\[VIDEO\] C8 Corvette Stingray with Z51 Runs Top Speed of 191.7 MPH on the Space Shuttle's Runway - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/03/22/video-c8-corvette-stingray-with-z51-runs-top-speed-of-191-7-mph-on-the-space-shuttles-runway/) | -YouTube |
+| [\[VIDEO\] C8 Corvette Stingray with Z51 Runs Top Speed of 191.7 MPH on the Space Shuttle's Runway - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/03/22/video-c8-corvette-stingray-with-z51-runs-top-speed-of-191-7-mph-on-the-space-shuttles-runway/) | YouTube |
+| [First Drive of 2020 Corvette Stingray Convertible Z51 - Jay Leno’s Garage](https://youtube.com/watch?v=nvTzcNtaSLU&feature=share ) | YouTube |
 
 ## Owners Manual Manuals
 
