@@ -100,6 +100,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | YAML: Table Generator |
 | [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax: Markdown Documentation |
+[Writing mathematical expressions - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions/) | MathJax Example |
 | [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Shopify (Jekyll add-on) Documentation |
 | [Choose an open source license](https://choosealicense.com/) | Licensing |
 | [SPDX License List](https://spdx.org/licenses/) | Licensing |
