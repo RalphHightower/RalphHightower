@@ -30,6 +30,7 @@
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
+| **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
@@ -108,6 +109,7 @@
 | [Microchip Get Launched — A global electronics design program to fund, manufacture, and ship amazing products](https://www.crowdsupply.com/microchip/get-launched) | (H/W) |
 | [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) | (H/W): $599) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
+| [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) <br> [Mouser Distributor](https://www.mouser.com/) | (H/W) |
 | **[Mixtile Core 3588E / Mixtile](https://www.mixtile.com/core-3588e/ )** | (H/W) 16GB |
 | [MS-98M3 3.5" SBC with Intel® Tiger Lake-UP3 for Fanless, Ultra Low-Power, High-Performance & Wide Temperature Solution](https://ipc.msi.com/product_detail/Single-Board-Computer/3.5%22-SBC/MS-98M3) | (H/W) |
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
@@ -341,7 +343,6 @@
 | **[Radxa ROCK 5B vs Raspberry Pi 4B](https://emteria.com/blog/radxa-rock-5)** |
 | **[Radxa CM5 – A Rockchip RK3588S module (somewhat) compatible with Raspberry Pi CM4](https://www.cnx-software.com/2022/09/08/radxa-cm5-rockchip-rk3588s-module-raspberry-pi-cm4/)** |
 | [THE FUTURE OF RISC-V AND THE VISIONFIVE 2 SINGLE BOARD COMPUTER](https://hackaday.com/2023/03/06/the-future-of-risc-v-and-the-visionfive-2-single-board-computer/) |
-| **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
 | **[Queclink WR300FG – A 5G industrial router with GbE, Wi-Fi 6, GNSS, RS232 and RS485 interfaces](https://www.cnx-software.com/2023/04/06/queclink-wr300fg-a-5g-industrial-router-with-gbe-wi-fi-6-gnss-rs232-and-rs485-interfaces/)** |
 | **[Firefly Release Modular Rockchip RK3588 Mini PC](https://www.tomshardware.com/news/firefly-release-modular-rockchip-rk3588-mini-pc)** |
 | [Firefly ITX-3568JQ – A Mini-ITX motherboard with Rockchip RK3568 CPU](https://www.cnx-software.com/2022/07/06/firefly-itx-3568jq-mini-itx-motherboard-rockchip-rk3568-cpu/) | 
@@ -351,7 +352,6 @@
 | [BLIKVM open-source KVM over IP works with Raspberry Pi CM4, Raspberry Pi HAT, PCIe card, and soon Allwinner H616](https://www.cnx-software.com/2023/04/18/blikvm-open-source-kvm-over-ip-raspberry-pi-cm4-raspberry-pi-hat-pcie-board-allwinner-h616/) |
 | **[Cool Pi CM5 debuts as new SoM with expansion board support](https://www.notebookcheck.net/Cool-Pi-CM5-debuts-as-new-SoM-with-expansion-board-support.707634.0.html)** |
 | **[Cool Pi CM5 evaluation board features Rockchip RK3588/RK3588J system-on-module](https://www.cnx-software.com/2023/04/12/cool-pi-cm5-evaluation-board-features-rockchip-rk3588-rk3588j-system-on-module/)** |
-| [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) || [Mouser Distributor](https://www.mouser.com/) | (H/W) |
 
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
