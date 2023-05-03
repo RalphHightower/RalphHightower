@@ -26,7 +26,8 @@
 |-------|--------|-------|-------------|
 | Chevrolet | HHR | 2011 | [Owners Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/1000/MA1279/en_US/2.0/2k11hhr4272835628035289288.pdf) |
 |||| [2011 Chevrolet HHR Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=2011&Category=&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=2011&md=HHR&dt=&module=&from=result&Style=helm&Sku=GMT11A&itemtype=N) $300.00 (paper) |
-| Chevrolet | Corvette[^2] | 2023 | [2023 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5697/en_US/2.0/23_CHEV_Corvette_OM_en_US_U_84795300B_2022AUG01_2P.pdf) |
+| Chevrolet | Corvette[^2] | 2024 |[2024 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/8000/MA8788/en_US/1.0/24_CHEV_Corvette_OM_en_US_U_84948178A_2023FEB20.pdf) |
+| | Corvette[^2] | 2023 | [2023 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5697/en_US/2.0/23_CHEV_Corvette_OM_en_US_U_84795300B_2022AUG01_2P.pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6690/en_US/1.0/GTK_2023_Chevrolet_Corvette_84795301_A.pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette Performance](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6691/en_US/1.0/GTK_2023_Chevrolet_Corvette_Performance%20_84840061_A.pdf) |
 || Corvette[^2] | 2022 | [2022 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5548/en_US/4.0/22_CHEV_Corvette_OM_en_US_U_84570408B_2021NOV18_2P.pdf) |
