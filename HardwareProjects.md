@@ -137,6 +137,7 @@
 | Planned Projects |
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
+| [Precise Point Positioning (PPP) HOWTO](https://gpsd.gitlab.io/gpsd/ppp-howto.html) |
 
 ## Embedded Computers 
 
