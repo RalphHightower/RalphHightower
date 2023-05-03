@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.2](https://github.com/RalphHightower/RalphHightower/compare/v1.16.1...v1.16.2) (2023-05-03)
+
+
+### Bug Fixes
+
+* move ASUS, Mixtile from articles to vendors ([5dcedd0](https://github.com/RalphHightower/RalphHightower/commit/5dcedd019647cd622c4b15b89ee2fe9bb9e378fa))
+
 ## [1.16.1](https://github.com/RalphHightower/RalphHightower/compare/v1.16.0...v1.16.1) (2023-04-29)
 
 
