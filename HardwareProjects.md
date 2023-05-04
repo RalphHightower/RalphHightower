@@ -124,6 +124,7 @@
 | Documentation |
 |-----|
 | [Raspberry Pi](https://www.raspberrypi.com/) |
+| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
 | Control Panels |
 |----|
