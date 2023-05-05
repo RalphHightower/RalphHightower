@@ -11,8 +11,8 @@
 | /etc |	Contains the local system configuration files for the host computer. | N |
 | /home	| Home directory storage for user files. Each user has a subdirectory in /home. | Y |
 | /lib |	Contains shared library files that are required to boot the system. | N |
-| /media	| A place to mount external removable media devices such as USB thumb drives that may be connected to the host. | N |
-| /mnt	| A temporary mountpoint for regular filesystems (as in not removable media) that can be used while the administrator is repairing or working on a filesystem. | N |
+| /media	| A place to mount external removable media devices such as USB thumb drives that may be connected to the host. | Y |
+| /mnt	| A temporary mountpoint for regular filesystems (as in not removable media) that can be used while the administrator is repairing or working on a filesystem. | Y |
 | /opt |	Optional files such as vendor supplied application programs should be located here. | Y |
 | /root	| This is not the root (/) filesystem. It is the home directory for the root user. | N |
 | /sbin	| System binary files. These are executables used for system administration. | N |
