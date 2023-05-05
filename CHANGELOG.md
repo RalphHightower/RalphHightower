@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.3](https://github.com/RalphHightower/RalphHightower/compare/v1.16.2...v1.16.3) (2023-05-05)
+
+
+### Bug Fixes
+
+* put GL.iNet GL-S200 5G Router in table ([a34459a](https://github.com/RalphHightower/RalphHightower/commit/a34459a379f55874ce7cdbbeebd60a34b3df74ad))
+
 ## [1.16.2](https://github.com/RalphHightower/RalphHightower/compare/v1.16.1...v1.16.2) (2023-05-03)
 
 
