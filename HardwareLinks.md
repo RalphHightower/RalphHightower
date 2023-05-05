@@ -352,9 +352,9 @@
 | [BLIKVM open-source KVM over IP works with Raspberry Pi CM4, Raspberry Pi HAT, PCIe card, and soon Allwinner H616](https://www.cnx-software.com/2023/04/18/blikvm-open-source-kvm-over-ip-raspberry-pi-cm4-raspberry-pi-hat-pcie-board-allwinner-h616/) |
 | **[Cool Pi CM5 debuts as new SoM with expansion board support](https://www.notebookcheck.net/Cool-Pi-CM5-debuts-as-new-SoM-with-expansion-board-support.707634.0.html)** |
 | **[Cool Pi CM5 evaluation board features Rockchip RK3588/RK3588J system-on-module](https://www.cnx-software.com/2023/04/12/cool-pi-cm5-evaluation-board-features-rockchip-rk3588-rk3588j-system-on-module/)** |
+| [GL.iNet Spitz AX (GL-X3000NR) 5G NR WiFi 6 router review - Part 1: Specs, unboxing, and first boot - CNX Software](https://www.cnx-software.com/2023/05/04/gl-inet-spitz-ax-gl-x3000nr-5g-nr-wifi-6-router-review-part-1-specs-unboxing-and-first-boot/) |
 
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
-| [GL.iNet Spitz AX (GL-X3000NR) 5G NR WiFi 6 router review - Part 1: Specs, unboxing, and first boot - CNX Software](https://www.cnx-software.com/2023/05/04/gl-inet-spitz-ax-gl-x3000nr-5g-nr-wifi-6-router-review-part-1-specs-unboxing-and-first-boot/) |
 
 ## DIY CubeSat
 
