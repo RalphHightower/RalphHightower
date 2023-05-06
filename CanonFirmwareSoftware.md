@@ -189,6 +189,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | **[REVIVING A LEGEND: MAMIYA RB67 REPAIR](https://hackaday.com/2023/04/06/reviving-a-legend-mamiya-rb67-repair/)** |
 | [REVIVING A LEGEND: REPAIRING A MAMIYA RB67](https://www.diyphotography.net/mamiya-rb67-repair/?mc_cid=54388c6e8c&mc_eid=1f08bf7a59) || **[Heavy Pan Tilt System](https://magpi.raspberrypi.com/articles/heavy-pan-tilt-system)** |
 | [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
+| [How to Shoot LIGHTNING for “Shocking” Landscape Photos (VIDEO) / Shutterbug](https://www.shutterbug.com/content/how-shoot-lightning-%E2%80%9Cshocking%E2%80%9D-landscape-photos-video) |
 
 # Preferred Photography Retailers 
 
