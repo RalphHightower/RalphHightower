@@ -20,18 +20,18 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 
 |  Test/Website | Result |
 |---|---|
-| [Top Gun Call Sign](http://www.topgunday.com/call-sign-generator/) | Lt. Ralph 'Tahoe' Hightower |
-| [Myers-Briggs Personality Test®](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/) | [INTP](https://www.mbtionline.com/en-US/MBTI-Types/INTP)[^11] |
+| [Top Gun Call Sign](http://www.topgunday.com/call-sign-generator/) | Lt. Ralph 'Tahoe' Hightower[^11] |
+| [Myers-Briggs Personality Test®](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/) | [INTP](https://www.mbtionline.com/en-US/MBTI-Types/INTP)[^12] |
 | [CliftonStrength 34™](https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx) | Ideation \| Deliberative \| Learner \| Input \| Strategic<br>Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analyzing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future. |
-| [Game of Thrones Personality Test](https://mygotcharacter.com/) | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^12]<br>Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^13]<br>Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14] |
+| [Game of Thrones Personality Test](https://mygotcharacter.com/) | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^13]<br>Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14]<br>Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^15] |
 
 I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I know of Game of Thrones is that's it's sorta like King Arthur set in medieval times.<br>I took the GOT Personality Test. I saw that reference in a LinkedIn news article about using personality tests to get the right balance of different personalities. I think using a personality test to determine employment is a form of discrimination and I use that rather strictly because there's race discrimination and gender discrimination.
 
-[^11]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br>• 4.8% of the population • 5.8% of men • 4.0% of women<br> analytical × conceptual × logical <br> quiet × independent × easygoing <br> complex × driven × curious <br> questioning × methodical × values competence <br> self-critical × thoughtful × innovative <br> problem solver × reflective × autonomous 
-
-[^12]: Primary Character: Mance Rayder <br>Nickname: King Beyond the Wall<br>Traits: Inspiring, Formidable, Pioneer<br>Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
-[^13]: Secondary Character:Ser Jaime Lannister<br>Nickname:The Kingslayer<br>Traits:Arrogant, Sarcastic, Apathetic<br>Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
-[^14]: Tertiary Character:Ygritte<br>Nickname:Ygritte<br>Traits:Wild, Uncoventional, Determined<br>Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
+[^11]: I'm a [Chevy](https://www.chevrolet.com/) and Tahoe is a model name. I love it!
+[^12]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br>• 4.8% of the population • 5.8% of men • 4.0% of women<br> analytical × conceptual × logical <br> quiet × independent × easygoing <br> complex × driven × curious <br> questioning × methodical × values competence <br> self-critical × thoughtful × innovative <br> problem solver × reflective × autonomous 
+[^13]: Primary Character: Mance Rayder <br>Nickname: King Beyond the Wall<br>Traits: Inspiring, Formidable, Pioneer<br>Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
+[^14]: Secondary Character:Ser Jaime Lannister<br>Nickname:The Kingslayer<br>Traits:Arrogant, Sarcastic, Apathetic<br>Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
+[^15]: Tertiary Character:Ygritte<br>Nickname:Ygritte<br>Traits:Wild, Uncoventional, Determined<br>Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
 
 ## Various Places Where I May Be
 
@@ -52,7 +52,30 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 | Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.)~~[^21] |
 | YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
 
-[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.<br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to hell. 
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.* <br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!*** 
+
+## Bucket Lists
+
+I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
+
+I also have different categories of bucket lists. 
+1)	Before I Die<br>a. Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)<br>b. The Masters (Practice Round: Wednesday 2015)<br>c.	~~Arecibo Observatory~~[^81] <br>d.	Slot Canyon (color & B&W photographs)<br>e.	Aurora 
+2)	Cars<br>a.	Corvette (mid-engine)<br>b.	El Camino (65-67)[^82]<br>c.	Mustang (64-67)[^83]<br>d.	HHR (2009-2011)[^84]<br>e.	55 Chevy Stepside pickup[^85]
+3)	Cameras<br>a.	[Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]<br>b.	Mamiya 645<br>c.	Mamiya RB67 or RZ 67<br>d.	4×5 monorail view camera
+4)	Computers<br>a.	DEC VAX11-780[^87]<br>b.	DEC PDP-11/70[^88] or PDP-11/45[^88]<br>c.	Cray 1[^89]<br>d.	Cray 2[^89]
+5)	Space Shuttles<br>a.	Atlantis (Kennedy Space Center Visitors Complex, November 2016)<br>b.	Discovery (Smithsonian Air Space Museum Udvar-Hazy Center, August 2012)<br>c.	Endeavour (California Science Center)[^90]
+
+[^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
+[^82]: This was the third car in high school. I drove thus through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. 
+[^83]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
+[^84]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
+[^85]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
+[^86]: July 1013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^87]: I love the instruction set of this magnificent beast of a computer. 
+[^88]: It's gotta have the blinking console lights and console switches.
+[^89]: Cray Computers can, besides a supercomputer, be considered works of art.
+[^90]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+
 
 ## Personal Projects 
 
@@ -100,7 +123,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [IETF RFC 7763 — The text/markdown Media Type](https://datatracker.ietf.org/doc/html/rfc7763) | YAML |
 | [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) *(I have tables under control, but this is a good table generator)* | YAML: Table Generator |
 | [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax: Markdown Documentation |
-[Writing mathematical expressions - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions/) | MathJax Example |
+| [Writing mathematical expressions - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions/) | MathJax Example |
 | [Shopify — Safe, customer-facing template language for flexible web apps](https://shopify.github.io/liquid/) | Shopify (Jekyll add-on) Documentation |
 | [Choose an open source license](https://choosealicense.com/) | Licensing |
 | [SPDX License List](https://spdx.org/licenses/) | Licensing |
@@ -279,11 +302,15 @@ A technology company had shut down and one of the Affinity Technology Group form
 | [DEC (Digital Equipment Corporation) VAXStation II/GPX](https://flic.kr/p/acYeze) |
 || DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
 | [Sun 3/110](https://flic.kr/p/acYvDi) ||
-| [Sun SPARCStation IPX](https://flic.kr/p/acYrMa) ||
-|| Sun 31 inch CRT (Cathode Ray Tube) |
-|| Sun CD-ROM Drive |
-|| Sun Tape Drive (3 SCSI Hard Drives) |
-|| SCSI Drive Cabinet |
+| [Sun SparcStation IPX](https://flic.kr/p/acYrMa)[^41] ||
+|| Sun 31 inch CRT (Cathode Ray Tube)[^41] |
+|| Sun CD-ROM Drive[^41] |
+|| Sun Tape Drive[^41] |
+|| SCSI Drive Cabinet[42] (3 SCSI drives[^43]) |
+
+[^41]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
+[^42]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
+[^43]: I bought SCSI hard disk drives from my fellow, former [NCR](https://www.ncr.com/) E&M-Columbia coworkers and lifelong friends. 
 
 | VAXStation II/GPX BSD Operating Systems |
 |-------|
@@ -303,9 +330,9 @@ A technology company had shut down and one of the Affinity Technology Group form
 | DEC PDP-11/45 Handbook |
 | DEC PDP-11/70 Handbook |
 
-### HP (Hewlett-Packard) Calculators
+### HP (Hewlett-Packard) Calculators[^51]
 
-What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. As HP said in their print advertisements, "HP has no equal."
+[^51]: HP said in their print advertisements *"HP has no equal."*<br>What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/)
 
@@ -368,15 +395,15 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Company | Location | About |
 |---------|----------|-------|
-| [KEH](https://www.keh.com/)[^51] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
-| [B&H Photo/Video](https://www.bhphotovidphotograph/)[^52] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
-| [Lensrentals.com](https://www.lensrentals.com/)[^53] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
+| [KEH](https://www.keh.com/)[^61] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
+| [B&H Photo/Video](https://www.bhphotovidphotograph/)[^62] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
+| [Lensrentals.com](https://www.lensrentals.com/)[^63] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
 
-[^51]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^52]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^53]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+[^61]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^62]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^63]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
 
-| [About KEH](https://www.keh.com/)[^51] |
+| [About KEH](https://www.keh.com/)[^61] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
 | KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
@@ -385,7 +412,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
-| [About B&H Photo/Video](https://www.bhphotovideo.com/)[^52] |
+| [About B&H Photo/Video](https://www.bhphotovideo.com/)[^62] |
 |-----------------------|
 | Get to know the people who know your gear best.
 | B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
@@ -395,7 +422,7 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
 | Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
 
-| [About Lensrentals.com](https://www.lensrentals.com/)[^53] |
+| [About Lensrentals.com](https://www.lensrentals.com)[^63] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
@@ -433,7 +460,8 @@ Bodies of Water That I Have Skiied:
 
 ## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
 
-South Carolina has a number of craft beer breweries. The heading is a list of the current active breweries. Below are my favorites brews:
+South Carolina has a number of craft beer breweries. The heading links to a list of the current active breweries. Below are my favorite brews:
+
 1. River Rat Broad River Red Ale
 2. River Rat Mourning Stout
 4. Steelhands Coffee Lager 
