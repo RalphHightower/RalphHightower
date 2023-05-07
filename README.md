@@ -59,29 +59,29 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
 
 I also have different categories of bucket lists. 
-1)	Before I Die
+1.	Before I Die
    - Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)
    - The Masters (Practice Round: Wednesday 2015)
    - ~~Arecibo Observatory~~[^81]
    - Slot Canyon (color & B&W photographs
    - Aurora 
-2)	Cars
+2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
    - Mustang (64-67)[^83]
    - HHR (2009-2011)[^84]
    - 55 Chevy Stepside pickup[^85]
-3)	Cameras
+3.	Cameras
    - [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
-4)	Computers
+4.	Computers
    - DEC VAX11-780[^87]
    - DEC PDP-11/70[^88] or PDP-11/45[^88]
    - Cray 1[^89]
    - Cray 2[^89]
-5)	Space Shuttles
+5.	Space Shuttles
    - Atlantis (Kennedy Space Center Visitors Complex, November 2016)
    - Discovery (Smithsonian Air Space Museum Udvar-Hazy Center, August 2012)
    - Endeavour (California Science Center)[^90]
