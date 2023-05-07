@@ -59,6 +59,7 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
 
 I also have different categories of bucket lists. 
+
 1.	Before I Die
    - Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)
    - The Masters (Practice Round: Wednesday 2015)
