@@ -59,11 +59,32 @@ I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I
 I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
 
 I also have different categories of bucket lists. 
-1)	Before I Die<br>a. Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)<br>b. The Masters (Practice Round: Wednesday 2015)<br>c.	~~Arecibo Observatory~~[^81] <br>d.	Slot Canyon (color & B&W photographs)<br>e.	Aurora 
-2)	Cars<br>a.	Corvette (mid-engine)<br>b.	El Camino (65-67)[^82]<br>c.	Mustang (64-67)[^83]<br>d.	HHR (2009-2011)[^84]<br>e.	55 Chevy Stepside pickup[^85]
-3)	Cameras<br>a.	[Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]<br>b.	Mamiya 645<br>c.	Mamiya RB67 or RZ 67<br>d.	4×5 monorail view camera
-4)	Computers<br>a.	DEC VAX11-780[^87]<br>b.	DEC PDP-11/70[^88] or PDP-11/45[^88]<br>c.	Cray 1[^89]<br>d.	Cray 2[^89]
-5)	Space Shuttles<br>a.	Atlantis (Kennedy Space Center Visitors Complex, November 2016)<br>b.	Discovery (Smithsonian Air Space Museum Udvar-Hazy Center, August 2012)<br>c.	Endeavour (California Science Center)[^90]
+1)	Before I Die
+   - Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)
+   - The Masters (Practice Round: Wednesday 2015)
+   - ~~Arecibo Observatory~~[^81]
+   - Slot Canyon (color & B&W photographs
+   - Aurora 
+2)	Cars
+   - Corvette (mid-engine)
+   - El Camino (65-67)[^82]
+   - Mustang (64-67)[^83]
+   - HHR (2009-2011)[^84]
+   - 55 Chevy Stepside pickup[^85]
+3)	Cameras
+   - [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]
+   - Mamiya 645
+   - Mamiya RB67 or RZ 67
+   - 4×5 monorail view camera
+4)	Computers
+   - DEC VAX11-780[^87]
+   - DEC PDP-11/70[^88] or PDP-11/45[^88]
+   - Cray 1[^89]
+   - Cray 2[^89]
+5)	Space Shuttles
+   - Atlantis (Kennedy Space Center Visitors Complex, November 2016)
+   - Discovery (Smithsonian Air Space Museum Udvar-Hazy Center, August 2012)
+   - Endeavour (California Science Center)[^90]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
 [^82]: This was the third car in high school. I drove thus through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. 
