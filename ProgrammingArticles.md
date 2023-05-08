@@ -34,6 +34,7 @@
 |----|
 | [Facebook Engineering Blog](https://engineering.fb.com/) |
 | [Microsoft Blog](https://blogs.microsoft.com/blog/) |
+| [Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/) |
 | [Microsoft Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/) |
 | [Microsoft Azure Dev Ops Blog](https://devblogs.microsoft.com/devops/) |
 | [NVIDIA Developer Blog](https://developer.nvidia.com/blog/) |
