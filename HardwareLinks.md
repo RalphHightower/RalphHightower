@@ -36,6 +36,7 @@
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
 | [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) | (H/W) |
+| [Banana Pi BPI W3 Rockchip RK3588 Quad Core A76 + Quad Core A55 LPDDR4 8G RAM 32G eMMC 2.5Gbps Ethernet Single Board Computer/ / - AliExpress](https://www.aliexpress.com/item/1005005492315338.html) | (H/W) |
 | [Banana Pi Smart Router](https://www.banana-pi.org/web/index.php?topclassid=16&classid=76&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi Core Board and Kit](https://www.banana-pi.org/web/index.php?topclassid=16&classid=279&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
@@ -354,6 +355,7 @@
 | **[Cool Pi CM5 evaluation board features Rockchip RK3588/RK3588J system-on-module](https://www.cnx-software.com/2023/04/12/cool-pi-cm5-evaluation-board-features-rockchip-rk3588-rk3588j-system-on-module/)** |
 | [GL.iNet Spitz AX (GL-X3000NR) 5G NR WiFi 6 router review - Part 1: Specs, unboxing, and first boot - CNX Software](https://www.cnx-software.com/2023/05/04/gl-inet-spitz-ax-gl-x3000nr-5g-nr-wifi-6-router-review-part-1-specs-unboxing-and-first-boot/) |
 | [Sipeed Teases a $40 Single-Board Computer with Fully-Ratified RISC-V Vector Extensions - Hackster.io](https://www.hackster.io/news/sipeed-teases-a-40-single-board-computer-with-fully-ratified-risc-v-vector-extensions-446455118fUSBm) |
+| [Banana Pi BPI-W3 SBC features Rockchip RK3588 SoM, M.2 NVMe socket, 2.5GbE, HDMI output and input - CNX Software](https://www.cnx-software.com/2023/05/05/banana-pi-bpi-w3-sbc-features-rockchip-rk3588-som-m-2-nvme-socket-2-5gbe-hdmi-output-and-input/ ) |
 
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
