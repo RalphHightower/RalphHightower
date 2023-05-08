@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.5](https://github.com/RalphHightower/RalphHightower/compare/v1.16.4...v1.16.5) (2023-05-08)
+
+
+### Bug Fixes
+
+* SCSI Drive Cabinet footnote ([c9d6a6e](https://github.com/RalphHightower/RalphHightower/commit/c9d6a6eb9f2ef281da0117428c771eabffc044b2))
+
 ## [1.16.4](https://github.com/RalphHightower/RalphHightower/compare/v1.16.3...v1.16.4) (2023-05-07)
 
 
