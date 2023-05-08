@@ -492,6 +492,7 @@ South Carolina has a number of craft beer breweries. The heading links to a list
 7. Holy City Brewing Bowens Island Oyster Stout
 8. Legal Remedy World Court Mocha Blonde Stout.
 9. Steelhands Pecan Brown Ale
+10. 
 ## Sky Above, Events, Weather
 
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
