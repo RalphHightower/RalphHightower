@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.6](https://github.com/RalphHightower/RalphHightower/compare/v1.16.5...v1.16.6) (2023-05-08)
+
+
+### Bug Fixes
+
+* **SCCraftBeerBreweries:** add blank line at end of favorites ([c99b0bc](https://github.com/RalphHightower/RalphHightower/commit/c99b0bc58923416d9607fef68f0bd4df166cc741))
+
 ## [1.16.5](https://github.com/RalphHightower/RalphHightower/compare/v1.16.4...v1.16.5) (2023-05-08)
 
 
