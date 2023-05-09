@@ -104,6 +104,7 @@
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
+| **[MediaTek LEC-MTK-I1200 / SMARC / COM / ADLINK](https://www.adlinktech.com/Products/Computer_on_Modules/SMARC/LEC-MTK-I1200 )** | (H/W) |
 | [Mekotronics R58X-HDD](https://www.mekotronics.com/h-pd-75.html) | (H/W) |
 | [Mekotronics — SBC Manufacturer](https://www.mekotronics.com/) | (H/W) |
 | [Microchip Technology PIC-IoT WA Development Board (EV54Y39A)](https://www.mouser.com/new/microchip/microchip-pic-iot-wa-dev-board/) connection to Amazon Web Services | (H/W) $40.39 |
@@ -356,6 +357,7 @@
 | [GL.iNet Spitz AX (GL-X3000NR) 5G NR WiFi 6 router review - Part 1: Specs, unboxing, and first boot - CNX Software](https://www.cnx-software.com/2023/05/04/gl-inet-spitz-ax-gl-x3000nr-5g-nr-wifi-6-router-review-part-1-specs-unboxing-and-first-boot/) |
 | [Sipeed Teases a $40 Single-Board Computer with Fully-Ratified RISC-V Vector Extensions - Hackster.io](https://www.hackster.io/news/sipeed-teases-a-40-single-board-computer-with-fully-ratified-risc-v-vector-extensions-446455118fUSBm) |
 | [Banana Pi BPI-W3 SBC features Rockchip RK3588 SoM, M.2 NVMe socket, 2.5GbE, HDMI output and input - CNX Software](https://www.cnx-software.com/2023/05/05/banana-pi-bpi-w3-sbc-features-rockchip-rk3588-som-m-2-nvme-socket-2-5gbe-hdmi-output-and-input/ ) |
+| **[MediaTek Genio 1200 system-on-module powers Cortex-A78/A55 AIoT & robotics development kit - CNX Software](https://www.cnx-software.com/2023/05/08/mediatek-genio-1200-linux-system-on-module-powers-cortex-a78-a55-aiot-development-kit/ )** |
 
 [^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
