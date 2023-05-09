@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.7](https://github.com/RalphHightower/RalphHightower/compare/v1.16.6...v1.16.7) (2023-05-09)
+
+
+### Bug Fixes
+
+* add guy to Chevy ([6e6835f](https://github.com/RalphHightower/RalphHightower/commit/6e6835f1518499870dfc9024c7ae3e5e3730cf20))
+
 ## [1.16.6](https://github.com/RalphHightower/RalphHightower/compare/v1.16.5...v1.16.6) (2023-05-08)
 
 
