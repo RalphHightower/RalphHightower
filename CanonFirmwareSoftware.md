@@ -4,6 +4,13 @@
 
 ### [Canon Technology](https://global.canon/en/technology/)
 
+| Canon Technical Articles |
+|----|
+|[Digital SLR Cameras / Canon Global](https://global.canon/en/technology/dslr2022s.html )|
+|[Interchangeable lenses / Canon Global](https://global.canon/en/technology/iclenses2021s.html )|
+|[Mirrorless Cameras / Canon Global](https://global.canon/en/technology/mcamera2021s.html )|
+|[RF Super-telephoto Zoom Lens / Canon Global](https://global.canon/en/technology/rf-2020.html )|
+
 ## Film Cameras
 
 ### Canon A-1
