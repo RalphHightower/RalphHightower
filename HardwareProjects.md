@@ -8,6 +8,7 @@
 | [Newark](https://www.newark.com/) | **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
 | [Seeed Studio](https://www.seeedstudio.com/) | [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
 | [SparkFun](https://www.sparkfun.com/) | [Circuit Cellar](https://circuitcellar.com/) |
+| | [RISC-V Landscape](https://landscape.riscv.org/ ) |
 
 | [Circuit Cellar Residents](https://circuitcellar.com/subscription/)|1 year|2 years|3 years|
 |---|---|---|----|
