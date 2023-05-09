@@ -61,10 +61,10 @@ I, along with a few other coworkers, were huddled around a portable B&W TV on Ap
 I also have different categories of bucket lists. 
 
 1.	Before I Die
-   - Space Shuttle Launch (July 8, 2011. Landing July 21, 2011)
-   - The Masters (Practice Round: Wednesday 2015)
+   - Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
+   - [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday 2015-04-08](https://flic.kr/s/aHBqjzH9EK).
    - ~~Arecibo Observatory~~[^81]
-   - Slot Canyon (color & B&W photographs
+   - Slot Canyon (color & B&W photographs)
    - Aurora 
 2.	Cars
    - Corvette (mid-engine)
@@ -83,12 +83,12 @@ I also have different categories of bucket lists.
    - Cray 1[^89]
    - Cray 2[^89]
 5.	Space Shuttles
-   - Atlantis (Kennedy Space Center Visitors Complex, November 2016)
-   - Discovery (Smithsonian Air Space Museum Udvar-Hazy Center, August 2012)
-   - Endeavour (California Science Center)[^90]
+   - Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
+   - Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^90]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
-[^82]: This was the third car in high school. I drove thus through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. 
+[^82]: This was the third car in high school. I drove thus through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
 [^83]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
 [^84]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
 [^85]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
