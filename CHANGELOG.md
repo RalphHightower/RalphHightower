@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.11](https://github.com/RalphHightower/RalphHightower/compare/v1.16.10...v1.16.11) (2023-05-10)
+
+
+### Bug Fixes
+
+* move Heavy Duty Pan/Tilt System to one and only column ([93a6f20](https://github.com/RalphHightower/RalphHightower/commit/93a6f20d7515abd83bbe77d58bfed1a7c89530a9))
+
 ## [1.16.10](https://github.com/RalphHightower/RalphHightower/compare/v1.16.9...v1.16.10) (2023-05-10)
 
 
