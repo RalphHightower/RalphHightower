@@ -118,6 +118,7 @@
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
 
 ### [Raspberry Pi4 8GB](https://www.raspberrypi.com/) \| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)**
+
 | SBC | CPU | RAM | SSD (USB-C) |
 |---|---|---|---|
 | [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
