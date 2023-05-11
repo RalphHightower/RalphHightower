@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.12](https://github.com/RalphHightower/RalphHightower/compare/v1.16.11...v1.16.12) (2023-05-11)
+
+
+### Bug Fixes
+
+* NASA History table ([ad2b7b6](https://github.com/RalphHightower/RalphHightower/commit/ad2b7b6303c839fdd79a553f93e952deb8ad9eee))
+
 ## [1.16.11](https://github.com/RalphHightower/RalphHightower/compare/v1.16.10...v1.16.11) (2023-05-10)
 
 
