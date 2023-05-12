@@ -66,14 +66,14 @@
 | **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
 | **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
 
-| Firefly Products |
-|----|
-| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** |
-| **[Firefly Core-3588S-JD4 8-Core 8K AI Core Board Powered by Rockchip 16GB/32GB)](https://www.firefly.store/goods.php?id=169)** $519 16 GB |
-| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** $429 16GB |
-| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** 12GB $649 |
-| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** up to 32GB |
-| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** up to 32GB |
+| Firefly Products | Price |
+|----|---|
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** ||
+| **[Firefly Core-3588S-JD4 8-Core 8K AI Core Board Powered by Rockchip 16GB/32GB)](https://www.firefly.store/goods.php?id=169)** | $519 16 GB |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | $429 16GB |
+| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | 12GB $649 |
+| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** up to 32GB ||
+| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** up to 32GB ||
 
 | Documentation |
 |----|
@@ -146,10 +146,10 @@
 
 I could easily see this for installation in cars, SUVs, trucks. 
 
-| Firefly Embedded Computers |
-|---|
-| [Firefly EC-R3568PC Quad-Core 64-Bit AI Embedded Computer](https://www.firefly.store/goods.php?id=180) $209 4GB+32GB |
-| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** $429 16GB+128GB *(up to 32GB)* |
+| Firefly Embedded Computers | Price |
+|---|---|
+| [Firefly EC-R3568PC Quad-Core 64-Bit AI Embedded Computer](https://www.firefly.store/goods.php?id=180) | $209 4GB+32GB |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | $429 16GB+128GB *(up to 32GB)* |
 
 <hr>
 
@@ -185,6 +185,18 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Firefly ITX-3588J 8K AI Mini-ITX Mainboard Deluxe expandable to 32GB](https://www.firefly.store/goods.php?id=161) $1326 16GB+128GB Deluxe Package A(5G) |
 
 <hr>
+
+## Precision Time (Keeping) Protocol — PTP
+
+| PTP — Precision Time Keeping Protocol |
+|---|
+|[Home » Open Compute Project](https://www.opencompute.org) |
+|[opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project): Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...|
+|[timebeat](https://store.timebeat.app/products/ocp-tap-timecard )|
+|[Watch "The most accurate Raspberry Pi atomic clock IN THE WORLD!" on YouTube](https://youtu.be/tU0xC1ynaT8 )|
+|[Watch "Democratizing Time: Hands on with an Atomic Clock PCIe Card" on YouTube](https://youtu.be/Gr7sZ4MPMu8 )|
+|[Watch "Nanosecond clock sync with a Raspberry Pi" on YouTube](https://youtu.be/RvnG-ywF6_s)|
+|[Watch "Why is this PCIe Card RADIOACTIVE?" on YouTube](https://youtu.be/JK3eTGkX6qY )|
 
 ## Completed Projects
 
@@ -261,7 +273,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 |   |    |
 |----|----|
 | [Time Appliance Project](https://github.com/opencomputeproject/Time-Appliance-Project) | Time Master is a critical part of a PTP enabled network. It provides accurate time via GNSS while maintaining accuracy in case of GNSS failure via a high stability (and holdover) oscillator such as an atomic clock. Existing products in the market are often closed sourced and are far from having sufficient features. The Time Card project presents an open source solution via a PCIe card. |
-| [YouTube PTP](https://youtu.be/tU0xC1ynaT8) ||
+| [YouTube PTP](https://youtu.be/tU0xC1ynaT8) ||m
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
 | [Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) ||
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
