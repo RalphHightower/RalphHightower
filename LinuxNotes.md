@@ -19,3 +19,12 @@
 | /tmp	| Temporary directory. Used by the operating system and many programs to store temporary files. Users may also store files here temporarily. Note that files stored here may be deleted at any time without prior notice. | ? |
 | /usr |	These are shareable, read-only files, including executable binaries and libraries, man files, and other types of documentation. | Y |
 | /var	| Variable data files are stored here. This can include things like log files, MySQL, and other database files, web server data files, email inboxes, and much more. | Y |
+
+## Linux Source 
+
+| Linux Source | Adaptation |
+|---|---|
+| [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) | Torvalds Source Tree |
+| [NVIDIA/open-gpu-kernel-modules: NVIDIA Linux open GPU kernel module source](https://github.com/NVIDIA/open-gpu-kernel-modules ) | NVIDIA GPU Kernel Modules |
+| [raspberrypi/linux: Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/](https://github.com/raspberrypi/linux ) | Raspberry Pi Linux |
+| [starfive-tech/linux](https://github.com/starfive-tech/linux ) | StarFiveTech VisionFive2 |
