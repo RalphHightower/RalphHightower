@@ -83,8 +83,8 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |C67| HVAC System - Air Conditioner Front, Electronic Controls|CF5| Roof - Sun, Glass, Sliding, Electric|
 |CV3| Country - Mexico|CW4| Country - Caribbean (Antigua, Antille, Bahama, Barbados, Bermudacayman, Dominican, Haiti, Jamaica, Nassau, S.M. Trinid)|
 |CW9| Country - Miscellaneous|CX2| Country - Colombia|
-|CZ1| Country - Central America (Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama)|D22| Mirror Outside - Left and Right, Remote Control, Electric||
-D30| Color Override Approved Color & Trim Combinations (All Products)|D7E| Tray - Load Floor, Storage|
+|CZ1| Country - Central America (Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama)|D22| Mirror Outside - Left and Right, Remote Control, Electric|
+|D30| Color Override Approved Color & Trim Combinations (All Products)|D7E| Tray - Load Floor, Storage|
 |D7R| Tray Load Floor Cargo, Slideout|D81| Spoiler - Rear, Aero Wing|
 |DCP| Processing - Directions and Connections Service Package|DD8| Mirror Inside Rearview - Light Sensitive|
 |DF5| Mirror I/S R/V Lt Sensitive, Compass, O/S Temp Display|DG7| Mirror Outside - Left and Right , Remote Control, Electric, Color|
