@@ -206,6 +206,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
+| [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
@@ -221,7 +222,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
-| [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
+| [Sipeed](https://github.com/sipeed ) | Sipeed AIoT opensource hardware platform || [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 | [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
