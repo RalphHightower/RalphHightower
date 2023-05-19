@@ -13,6 +13,13 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
+## Programing Articles 
+
+| Programing Articles |
+|---|
+|[Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 )|
+
+
 ## Kubernetes 
 
 | Kubernetes |
