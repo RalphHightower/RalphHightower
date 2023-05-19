@@ -66,6 +66,14 @@
 | **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
 | **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
 
+## TuringPi Documentation 
+
+| TuringPi Documentation |
+|---|
+| [Welcome – Turing Machines](https://help.turingpi.com/hc/en-us/articles/8685707578013-Welcome ) |
+
+## Firefly Products 
+
 | Firefly Products | Price |
 |----|---|
 | **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** ||
