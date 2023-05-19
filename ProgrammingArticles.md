@@ -19,12 +19,12 @@
 |---|
 |[Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 )|
 
-
 ## Kubernetes 
 
 | Kubernetes |
 |----|
 | [Developer Portals Can Abstract away Kubernetes Complexity](https://thenewstack.io/developer-portals-can-abstract-away-kubernetes-complexity/) |
+| [My Custom (Automated) LiM Kubernetes Cluster · l00nix's RPi blog](https://rpi.loonix.ca/lim-cluster-set-up/ ) |
 
 ## Facebook[^2]
 
