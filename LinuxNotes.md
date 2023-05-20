@@ -16,9 +16,11 @@
 | /opt |	Optional files such as vendor supplied application programs should be located here. | Y |
 | /root	| This is not the root (/) filesystem. It is the home directory for the root user. | N |
 | /sbin	| System binary files. These are executables used for system administration. | N |
-| /tmp	| Temporary directory. Used by the operating system and many programs to store temporary files. Users may also store files here temporarily. Note that files stored here may be deleted at any time without prior notice. | ? |
+| /tmp	| Temporary directory. Used by the operating system and many programs to store temporary files. Users may also store files here temporarily. Note that files stored here may be deleted at any time without prior notice. | ?[^11] |
 | /usr |	These are shareable, read-only files, including executable binaries and libraries, man files, and other types of documentation. | Y |
 | /var	| Variable data files are stored here. This can include things like log files, MySQL, and other database files, web server data files, email inboxes, and much more. | Y |
+
+[^11]: I'm fairly positive that /tmp can be a mountable directory. However, there would be two temp directories,  1) for single user mode and 2) the second /tmp for multi user mode 
 
 ## Linux Source 
 
@@ -35,3 +37,9 @@
 |---|
 | [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/ ) |
 |[Filesystems in the Linux kernel — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/index.html ) |
+
+## Linux History, Trivia 
+
+| Linux History/Trivia |
+|---|
+|[Is this the world's oldest Linux peripheral?](https://youtube.com/watch?v=35N5vKKGDy8&feature=share )|
