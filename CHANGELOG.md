@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.0](https://github.com/RalphHightower/RalphHightower/compare/v1.16.12...v1.17.0) (2023-05-20)
+
+
+### Features
+
+* add Home Automation page ([e56d521](https://github.com/RalphHightower/RalphHightower/commit/e56d521166b9fc114c39b773b4d78ff396d03e56))
+
 ## [1.16.12](https://github.com/RalphHightower/RalphHightower/compare/v1.16.11...v1.16.12) (2023-05-11)
 
 
