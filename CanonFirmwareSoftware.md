@@ -17,8 +17,8 @@
 
 | Description | Link |
 |-------------|------|
-| Canon A-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_a1.pdf)[^1] |
-| Canon Motor Drive MA | [Download](https://www.cameramanuals.org/canon_pdf/canon_motor_drive_ma.pdf)[^1] |
+| Canon A-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_a1.pdf)[^11] |
+| Canon Motor Drive MA | [Download](https://www.cameramanuals.org/canon_pdf/canon_motor_drive_ma.pdf)[^11] |
 
 ### Canon F-1N 
 
@@ -26,36 +26,36 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 
 | Description | Link |
 |-------------|------|
-| Canon F-1N | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^1] |
-| Canon AE Motor Drive FN | [Download](https://www.cameramanuals.org/canon_pdf/canon_ae_motor_drive_fn.pdf)[^1] |
-| Canon AE Finder FN | [Download]()[^1] |
+| Canon F-1N | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^11] |
+| Canon AE Motor Drive FN | [Download](https://www.cameramanuals.org/canon_pdf/canon_ae_motor_drive_fn.pdf)[^11] |
+| Canon AE Finder FN | [Download]()[^11] |
 
 ### FD Lenses 
 
 | Description | Link |
 |-------------|------|
-| Canon FD 28mm f2.8 | [Download]()[^1] |
-| Canon FD 50mm f1.8 | [Download]()[^1] |
-| Canon Macrophoto 20mm f3.5 | [Download]()[^1] |
-| Canon Auto Bellows | [Download](https://www.cameramanuals.org/canon_pdf/canon_auto_bellows.pdf)[^1] |
+| Canon FD 28mm f2.8 | [Download]()[^11] |
+| Canon FD 50mm f1.8 | [Download]()[^11] |
+| Canon Macrophoto 20mm f3.5 | [Download]()[^11] |
+| Canon Auto Bellows | [Download](https://www.cameramanuals.org/canon_pdf/canon_auto_bellows.pdf)[^11] |
 
 ### Flash
 
 | Description | Link |
 |-------------|------|
-| Sunpak 522 | [Download]()[^1] |
+| Sunpak 522 | [Download]()[^11] |
 
 ### Bucket List Cameras 
 
 | Brand (Model) | Manual | Aquired |
 |---------------|--------|----|
 | Canon F-1N | | July 2013 |
-| Mamiya 645 | [Download]()[^1] | |
-| Mamiya RB67 | [Download]()[^1] | |
-| Mamiya RZ67 | [Download]()[^1] | |
+| Mamiya 645 | [Download]()[^11] | |
+| Mamiya RB67 | [Download]()[^11] | |
+| Mamiya RZ67 | [Download]()[^11] | |
 | Monorail 4×5 View Camera | | |
 
-[^1]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
+[^11]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 
 ### Discontinued Films
 
@@ -76,8 +76,7 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 | Description | Version | Date | Link |
 |-------------|---------|------|------|
 | Digital Photo Professional for Windows | 4.17.20 | 2023-03-30 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjIzMWEx&cmp=ABR&lang=EN) |
-| EOS Utility for Windows | 3.16.10 | 2023‐02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyNzAx&cmp=ABR&lang=EN) |
-| Picture Style Editor for Windows | 1.28.10 | 2023-02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyOTAx&cmp=ABR&lang=EN) |
+|EOS Utility for Windows|3.16.11|2023-03-30|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjg3ODAx&cmp=ABR&lang=EN)|| Picture Style Editor for Windows | 1.28.10 | 2023-02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyOTAx&cmp=ABR&lang=EN) |
 | EOS Webcam Utility Pro | 2.0 | 2022-11-09 | [Download Form](https://www.usa.canon.com/support/p/eos-5d-mark-iii#idReference%3Dsoftware-drivers) |
 
 #### Manuals
@@ -113,6 +112,12 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 |GPS Log File Utility for Windows|1.0.3|2020-08-20|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjIyODAx&cmp=ABR&lang=EN)|
 |Map Utility for Windows||2016-12-01|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNTE3OTAx&cmp=ABR&lang=EN)|
 
+### Neural Network Upscaling Tool
+
+| Neural Network Upscaling Tool Software | Version | Date | Download |
+|----|---|----|---|
+|Neural network Upscaling Tool for Windows|1.0.0|2023-04-20|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwN) |
+
 #### Manuals 
 
 | Description | Date | Link |
@@ -132,17 +137,17 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 
 | Description | Version | Date | Updates |
 |-------------|---------|------|---------|
-| EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^2]/R6[^3])<br>• Enable to control \[High frame rate setting\] <br>● Got to control Mode Dial Setting by EOS R6[^3].<br>● Information for the following functionality has been added to EDSDK reference:<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>● Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
-| CCAPI | v1.1.0 Rev 1.9 | 2022-07-25 | New Features.<br>● Updated CCAPI Sample for Android<br>● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\]  (supported, for EOS R5[^2]/R6[^3]<br>• Enable to control \[Focus bracketing\]  (supported, for EOS R5[^2]/R6[^3]/R3[^4])<br>• Enable to control \[High frame rate setting\]  (supported, for R5[^2]/R6[^3])<br>● Got to control Mode Dial Setting by EOS R6[^2].<br>● RTP (Real-time Transport Protocol) got to be available on EOS R3[^4].<br>● Updated Android Sample
+| EDSDK & EDSDK with Raw file conversion | 13.15.20 | 2022-07-25 | ● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\] (supported, for EOS R5[^21]/R6[^22])<br>• Enable to control \[Focus bracketing\] (supported, for EOS R5[^21]/R6[^22])<br>• Enable to control \[High frame rate setting\] <br>● Got to control Mode Dial Setting by EOS R6[^22].<br>● Information for the following functionality has been added to EDSDK reference:<br>• Eye detection<br>• Movie Servo AF<br>• AF Operation setting<br>● Added support for EOS R7 / EOS R10 (EDSDK with Raw) |
+| CCAPI | v1.1.0 Rev 1.9 | 2022-07-25 | New Features.<br>● Updated CCAPI Sample for Android<br>● Added new functionality as follows:<br>• Enable to control \[Sensor Cleaning\]  (supported, for EOS R5[^21]/R6[^22]<br>• Enable to control \[Focus bracketing\]  (supported, for EOS R5[^21]/R3[^23])<br>• Enable to control \[High frame rate setting\]  (supported, for R5[^21]/R6[^22])<br>● Got to control Mode Dial Setting by EOS R6[^21].<br>● RTP (Real-time Transport Protocol) got to be available on EOS R3[^23].<br>● Updated Android Sample
 | CRMSDK | v2.7 R1 | 2022-03-04 | Added features and camera support |
 | CCAPI Reference Guide | v1.1.0 Rev. 1.9 | 2022-07-25 | Added new features for EOS R5/R6 |
 | CCAPI Sample for Android | v1.1.0H | 2022-07-25 | Added new feature |
 | CCAPI Activation Tool for Windows | v1.19 | 2020-01-28 | Activate CCAPI on Supported Cameras |
 | CCAPI Getting Started/Operations | v1.1 | 2020-01-28 | Updated System Requirements |
 
-[^2]: Supported Firmware Version is after Version.1.6.0)
-[^3]: Supported Firmware Version is after Version.1.6.0)
-[^4]: Supported Firmware Version is after Version.1.2.0)
+[^21]: Supported Firmware Version is after Version.1.6.0)
+[^22]: Supported Firmware Version is after Version.1.6.0)
+[^23]: Supported Firmware Version is after Version.1.2.0)
 
 ## Canon Magic Lantern
 
@@ -203,11 +208,15 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 
 | Company | Location | About |
 |---------|----------|-------|
-| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere.[^5] |
-| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^6]  |
-| [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^7] |
+| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere.[^31] |
+| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^32]  |
+| [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^33] |
 
-| [About KEH](https://www.keh.com)[^5] |
+[^31]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^32]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^33]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+
+| [About KEH](https://www.keh.com)[^31] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
 | KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
@@ -216,9 +225,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 An opportunity. A chance to create and share something extraordinary with the world. |
 | A camera is what you make of it. We can’t wait to see what develops. |
 
-[^5]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-
-| [About B&H Photo/Video](https://www.bhphotovideo.com)[^6] |
+| [About B&H Photo/Video](https://www.bhphotovideo.com)[^32] |
 |-----------------------|
 | Get to know the people who know your gear best.
 | B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
@@ -228,16 +235,12 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
 | Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
 
-[^6]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-
-| [About Lensrentals.com](https://www.lensrentals.com)[^7] |
+| [About Lensrentals.com](https://www.lensrentals.com)[^33] |
 |-----------------------|
 | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
 | Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
 | Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
 | We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
 | What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
-
-[^7]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
 
 I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
