@@ -171,6 +171,15 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^44] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
 | [Internet Architecture Board (IAB)](https://www.iab.org/)[^45] | Internet[Long-range technical direction] |
 
+References:
+| Regional Internet Registry | Region |
+|----|----|
+| [American Registry for Internet Numbers (ARIN)](https://wwwmarin.net) | Norh America |
+| [Réseaux IP Européens Network Coordination Centre (RIPE NCC)](https://www.ripe.net/) | Europe |
+| [Asia-Pacific Network Coordination Centre (APNIC)](https://www.apnic.net/) | Asia/Pacific Islands |
+| [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
+| [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
+
 [^41]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
 [^42]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
 [^43]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
@@ -221,6 +230,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
+| [Seeed Studio](https://github.com/Seeed-Studio ) |   |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT opensource hardware platform || [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 | [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
@@ -228,6 +238,10 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
+
+[^31]: Internet Of Things (Just in case you weren't aware of this TLA[^32]
+[^32]: Three Letter Acronym[^33]
+[^33]: Software developers and engineers are fond of acronyms. 
 
 | [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
 |-----|-----|
@@ -325,15 +339,15 @@ A technology company had shut down and one of the Affinity Technology Group form
 | [DEC (Digital Equipment Corporation) VAXStation II/GPX](https://flic.kr/p/acYeze) |
 || DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
 | [Sun 3/110](https://flic.kr/p/acYvDi) ||
-| [Sun SparcStation IPX](https://flic.kr/p/acYrMa)[^41] ||
-|| Sun 31 inch CRT (Cathode Ray Tube)[^41] |
-|| Sun CD-ROM Drive[^41] |
-|| Sun Tape Drive[^41] |
-|| SCSI Drive Cabinet[^42] (3 SCSI drives[^43]) |
+| [Sun SparcStation IPX](https://flic.kr/p/acYrMa)[^51] ||
+|| Sun 31 inch CRT (Cathode Ray Tube)[^51] |
+|| Sun CD-ROM Drive[^51] |
+|| Sun Tape Drive[^51] |
+|| SCSI Drive Cabinet[^42] (3 SCSI drives)[^53]) |
 
-[^41]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
-[^42]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
-[^43]: I bought SCSI hard disk drives from my fellow, former [NCR](https://www.ncr.com/) E&M-Columbia coworkers and lifelong friends. 
+[^51]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
+[^52]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
+[^53]: I bought SCSI hard disk drives from my fellow, former [NCR](https://www.ncr.com/) E&M-Columbia coworkers and lifelong friends. 
 
 | VAXStation II/GPX BSD Operating Systems |
 |-------|
