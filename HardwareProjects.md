@@ -136,6 +136,18 @@
 | [Raspberry Pi](https://www.raspberrypi.com/) |
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
+## Milk-V 64 core, up to 128GB RAM Support
+
+| Milk-V RISC-V 64 core CPU Supporting up to 128 GB RAM| Source |
+|---|---|
+|[Milk-V's Pioneer Is a Tall Glass of Cold RISC-V with 64 Cores, Up to 128GB of RAM - Hackster.io](https://www.hackster.io/news/milk-v-s-pioneer-is-a-tall-glass-of-cold-risc-v-with-64-cores-up-to-128gb-of-ram-fabf9f22747f )|News Article|
+|[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )|Design/Manufacturer|
+|[Linux kernel source code](https://github.com/milkv-pioneer/linux-riscv )|Design/Manufacturer|
+|[CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf )|Design/Manufacturer|
+|[Bootloader source code](https://github.com/milkv-pioneer/bootloader )|Design/Manufacturer|
+|[OpenSBI source code](https://github.com/milkv-pioneer/opensbi )|Design/Manufacturer|
+|[zsbl source code](https://github.com/milkv-pioneer/zsbl )|Design/Manufacturer|
+
 | Control Panels |
 |----|
 | **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)** |
