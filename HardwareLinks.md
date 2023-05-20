@@ -82,7 +82,7 @@
 | **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
 | **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
-| [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^3] |
+| [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
@@ -174,7 +174,7 @@
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
-[^3]: Impressive performance specifications. Expensive, but **WANT!**
+[^11]: Impressive performance specifications. Expensive, but **WANT!**
 
 ## Articles 
 
@@ -222,7 +222,7 @@
 | [Full-size Doctor Who K9 replica](https://www.raspberrypi.com/news/full-size-doctor-who-k9-replica/) |
 | [MSI MS-98M3 3.5-inch SBC is made for autonomous mobile robots](https://www.cnx-software.com/2022/11/29/msi-ms-98m3-3-5-inch-sbc-is-made-for-autonomous-mobile-robots/) |
 | [NanoPi R5C is tiny PC with dual 2.5 Gbps Ethernet ports, HDMI 2.0 and RK3568B2 for $49 and up](https://liliputing.com/nanopi-r5c-is-tiny-pc-with-dual-2-5-gbps-ethernet-ports-hdmi-2-0-and-rk3568b2-for-49-and-up/) |
-| [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^1] |
+| [The Raspberry Pi 4 is now Available](https://pimylifeup.com/raspberry-pi-4/)[^21] |
 | [The best Raspberry Pi alternatives (and whether there is a cheaper option)](https://www.zdnet.com/article/best-raspberry-pi-alternative/) |
 | [Sipeed Maix-III devkit features AXERA AX620A SoC for AI vision applications](https://www.cnx-software.com/2022/12/01/sipeed-maix-iii-devkit-features-axera-ax620a-soc-for-ai-vision-applications/) |
 | [Rock Pi Model C+ Revealed: Cheaper Six-Core Raspberry Pi Alternative](https://www.tomshardware.com/news/raspberry-pi-alternative-rock-pi-c-plus-revealed) |
@@ -366,8 +366,9 @@
 | **[Orange Pi 5 Plus SBC switches to Rockchip RK3588 SoC, brings dual HDMI 2.1, dual 2.5GbE, M.2 PCIe sockets - CNX Software](https://www.cnx-software.com/2023/05/10/orange-pi-5-plus-sbc-switches-to-rockchip-rk3588-soc-brings-dual-hdmi-2-1-dual-2-5gbe-m-2-pcie-sockets/ )** |
 | **[Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor - CNX Software](https://www.cnx-software.com/2023/05/06/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/ )** |
 |[Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
+| [LTE Sniffer Ferrets Out Cellular Communications / Hackaday](https://hackaday.com/2023/05/18/lte-sniffer-ferrets-out-cellular-communications/ ) |
 
-[^1]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
+[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
 ## DIY CubeSat
 
@@ -380,9 +381,9 @@
 | ~~Sensor 05: ZMOD4410AI1V~~ | TVOC (Total Volatile Organic Compounds) – Designed for detecting total volatile organic compounds (TVOC). The ZMOD4410 is a 12-pin LGA assembly (3.0 x 3.0 x 0.7 mm) that consists of a gas sense element and a CMOS signal conditioning IC. The module’s sense element consists of heater element on a Si-based MEMS structure and a metal oxide (MOx) chemiresistor. The signal conditioner controls the sensor temperature and measures the MOx conductivity, which is a function of the gas concentration. |
 | Sensor 06: SI1132-A10-GMR | UV Sensor – The Si1132 is a low-power, ultraviolet (UV) index, and ambient light sensor with I2C digital interface and programmable-event interrupt output. This sensor IC includes an analog-to-digital converter, integrated high-sensitivity visible and infrared photodiodes, and a digital signal processor. The Si1132 offers excellent performance under a wide dynamic range and a variety of light sources including direct sunlight. |
 | Sensor 07: CCS811B-JOPD500 | TVOC & CO2 – The CCS811 is an ultra-low power digital gas sensor solution which integrates a metal oxide (MOX) gas sensor to detect a wide range of Volatile Organic Compounds (VOCs) and includes an Analog-to-Digital converter (ADC), and an I²C interface. Supporting intelligent algorithms to process raw sensor measurements and output equivalent total VOC (eTVOC) and equivalent CO2 (eCO2) values. |
-| Sensor 08: TESEO-LIV3R[^2] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
+| Sensor 08: TESEO-LIV3R[^31] |GPS – The Teseo-LIV3R module is an easy to use Global Navigation Satellite System (GNSS) standalone positioning receiver IC working simultaneously on multiple constellations. This certified module comes with optimized RF, embedded firmware and is compact at only 9.7×10.1 mm. Supporting GPS, Glonass, BeiDou & QZSS positioning systems. |
 
-[^2]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
+[^31]: Please note: Due to COCOM restrictions, the TESEO GPS receiver will only work on Earth
 
 ## Projects 
 
