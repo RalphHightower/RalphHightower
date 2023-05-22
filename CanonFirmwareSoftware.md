@@ -158,9 +158,9 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Source Code](https://www.magiclantern.fm/downloads.html#source) |
 | [Downloads](https://www.magiclantern.fm/downloads.html) |
 
-# Photography Articles/Blogs 
+# Photography Blogs 
 
-| Photography Articles/Blogs |
+| Photography Blogs |
 |----|
 | [B&H Photography/Video Explora — Photography](https://www.bhphotovideo.com/explora/photography) |
 | [DP Review](https://www.dpreview.com/) |
@@ -203,6 +203,9 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | **[Heavy Pan Tilt System](https://magpi.raspberrypi.com/articles/heavy-pan-tilt-system)** |
 | [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
 | [How to Shoot LIGHTNING for “Shocking” Landscape Photos (VIDEO) / Shutterbug](https://www.shutterbug.com/content/how-shoot-lightning-%E2%80%9Cshocking%E2%80%9D-landscape-photos-video) |
+|[The Joys of Large Format Landscape Photography / Fstoppers](https://fstoppers.com/film/joys-large-format-landscape-photography-632072 )[^41]|
+
+[^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
 
 # Preferred Photography Retailers 
 
