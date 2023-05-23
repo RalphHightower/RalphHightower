@@ -23,6 +23,7 @@
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
+| [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ )
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
@@ -93,7 +94,7 @@
 | [GL\.iNet GL-X3000 / Spitz AX - GL.iNet](https://www.gl-inet.com/products/gl-x3000/ ) | $415 5G |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
-| **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W) Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4) |
+| **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
@@ -175,6 +176,7 @@
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
+[^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
 
 ## Articles 
 
@@ -367,6 +369,8 @@
 | **[Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor - CNX Software](https://www.cnx-software.com/2023/05/06/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/ )** |
 |[Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
 | [LTE Sniffer Ferrets Out Cellular Communications / Hackaday](https://hackaday.com/2023/05/18/lte-sniffer-ferrets-out-cellular-communications/ ) |
+|[AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) | (H/W) |
+|[Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
