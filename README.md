@@ -61,11 +61,13 @@ I, along with a few other coworkers, were huddled around a portable B&W TV on Ap
 I also have different categories of bucket lists. 
 
 1.	Before I Die
-   - Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
-   - [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday 2015-04-08](https://flic.kr/s/aHBqjzH9EK).
+   - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
+   - ✓ [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday 2015-04-08](https://flic.kr/s/aHBqjzH9EK).
    - ~~Arecibo Observatory~~[^81]
    - Slot Canyon (color & B&W photographs)
    - Aurora 
+   - ✓ August 17, 2017 — Chapin, South Carolina, United States of America 
+   - April 8, 2024
 2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
@@ -73,7 +75,7 @@ I also have different categories of bucket lists.
    - HHR (2009-2011)[^84]
    - 55 Chevy Stepside pickup[^85]
 3.	Cameras
-   - [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]
+   - ✓ [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
@@ -83,8 +85,8 @@ I also have different categories of bucket lists.
    - Cray 1[^89]
    - Cray 2[^89]
 5.	Space Shuttles
-   - Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
-   - Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
+   - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
+   - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
    - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^90]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
