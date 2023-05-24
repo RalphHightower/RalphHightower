@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.2](https://github.com/RalphHightower/RalphHightower/compare/v1.17.1...v1.17.2) (2023-05-24)
+
+
+### Bug Fixes
+
+* Regional Internet Registries table not formatted ([009b467](https://github.com/RalphHightower/RalphHightower/commit/009b467089831b94a2a7f74c4efd02ced4346737))
+
 ## [1.17.1](https://github.com/RalphHightower/RalphHightower/compare/v1.17.0...v1.17.1) (2023-05-24)
 
 
