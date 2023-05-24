@@ -66,8 +66,8 @@ I also have different categories of bucket lists.
    - ~~Arecibo Observatory~~[^81]
    - Slot Canyon (color & B&W photographs)
    - Aurora 
-   - ✓ August 17, 2017 — Chapin, South Carolina, United States of America 
-   - April 8, 2024
+   - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America 
+   - Total Solar Eclipse: April 8, 2024
 2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
