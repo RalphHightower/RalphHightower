@@ -173,7 +173,14 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [Internet Research Task Force (IRTF)](https://www.irtf.org/)[^44] | Internet[Research, Evolution: Internet protocols, applications, architecture, technology] |
 | [Internet Architecture Board (IAB)](https://www.iab.org/)[^45] | Internet[Long-range technical direction] |
 
-References:
+[^41]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
+[^42]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
+[^43]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
+[^44]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
+[^45]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
+
+### References:
+
 | Regional Internet Registry | Region |
 |----|----|
 | [American Registry for Internet Numbers (ARIN)](https://wwwmarin.net) | Norh America |
@@ -182,11 +189,7 @@ References:
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
 
-[^41]: [IANA](https://www.iana.org/) — Coordination of the DNS Root, IP addressing, and other Internet protocol resources
-[^42]: [RFC](https://www.rfc-editor.org/) — Contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
-[^43]: [IETF](https://www.ietf.org/) — Premiere standards development organization (SDO) for the Internet
-[^44]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
-[^45]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
+
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
