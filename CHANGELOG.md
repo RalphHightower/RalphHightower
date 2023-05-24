@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.1](https://github.com/RalphHightower/RalphHightower/compare/v1.17.0...v1.17.1) (2023-05-24)
+
+
+### Bug Fixes
+
+* Add Total Solar Eclipse to BID bucket list ([caac442](https://github.com/RalphHightower/RalphHightower/commit/caac44280df70c76addf6fc8239b2e50ab156ef4))
+
 ## [1.17.0](https://github.com/RalphHightower/RalphHightower/compare/v1.16.12...v1.17.0) (2023-05-20)
 
 
