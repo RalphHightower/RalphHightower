@@ -45,6 +45,7 @@
 | [Microsoft Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/) |
 | [Microsoft Azure Dev Ops Blog](https://devblogs.microsoft.com/devops/) |
 | [NVIDIA Developer Blog](https://developer.nvidia.com/blog/) |
+| [App Map Dev](https://dev.to/appmap/)|
 
 ## ARM
 
