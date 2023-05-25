@@ -25,6 +25,7 @@
 |----|
 | [Developer Portals Can Abstract away Kubernetes Complexity](https://thenewstack.io/developer-portals-can-abstract-away-kubernetes-complexity/) |
 | [My Custom (Automated) LiM Kubernetes Cluster · l00nix's RPi blog](https://rpi.loonix.ca/lim-cluster-set-up/ ) |
+|[Kubespray: Automated Kubernetes Home Lab Setup - Virtualization How To](https://www.virtualizationhowto.com/2023/05/kubespray-automated-kubernetes-home-lab-setup/ )|
 
 ## Facebook[^2]
 
