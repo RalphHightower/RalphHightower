@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.4](https://github.com/RalphHightower/RalphHightower/compare/v1.17.3...v1.17.4) (2023-05-26)
+
+
+### Bug Fixes
+
+* RISC-V link ([2a171a6](https://github.com/RalphHightower/RalphHightower/commit/2a171a6fb282e6cf46e2d59455cf780db5cc46b5))
+
 ## [1.17.3](https://github.com/RalphHightower/RalphHightower/compare/v1.17.2...v1.17.3) (2023-05-26)
 
 
