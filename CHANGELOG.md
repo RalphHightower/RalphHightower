@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.3](https://github.com/RalphHightower/RalphHightower/compare/v1.17.2...v1.17.3) (2023-05-26)
+
+
+### Bug Fixes
+
+* grammatical error "the" -&gt; "they" ([256d82b](https://github.com/RalphHightower/RalphHightower/commit/256d82b87f368befe46992f11d70029f6a1061c9))
+
 ## [1.17.2](https://github.com/RalphHightower/RalphHightower/compare/v1.17.1...v1.17.2) (2023-05-24)
 
 
