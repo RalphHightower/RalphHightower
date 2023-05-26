@@ -17,7 +17,7 @@
 
 [^11]: The Shrimp and Grits is excellent. Get their she-crab soup also.
 [^12]: They are the standard that I measure all sushi 🍣  places by.
-[^13]: Hamburgers are their specialty. The have fourteen different toppings for their burgers 
+[^13]: Hamburgers are their specialty. They have fourteen different toppings for their burgers 
 [^14]: It is my executive decision to make exceptions for franchises and multi-store locations because of the quality of their food.
 [^15]: You don't go to a renowned steak house for fish or chicken!
 [^16]: Villa Tronco is the oldest Italian restaurant in South Carolina. Their restaurant provided "comfort food" for Italian-Americans Army recruits training at Camp Jackson during WW II.
