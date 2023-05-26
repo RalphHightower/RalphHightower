@@ -260,7 +260,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [RISC-V — ISA Specifications](https://github.com/riscv) 
 | [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) |
 | [RISC-V — Software](https://github.com/riscv-software-src) |
-| RISC-V — Upstreaming](https://github.com/riscv-collab) |
+| [RISC-V — Upstreaming](https://github.com/riscv-collab) |
 | [RISC-V — Android](https://github.com/riscv-android-src) |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) |
 
