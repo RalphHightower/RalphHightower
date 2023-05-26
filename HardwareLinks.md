@@ -23,6 +23,7 @@
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
+|[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) 
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ )
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
@@ -371,6 +372,9 @@
 | [LTE Sniffer Ferrets Out Cellular Communications / Hackaday](https://hackaday.com/2023/05/18/lte-sniffer-ferrets-out-cellular-communications/ ) |
 |[AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) | (H/W) |
 |[Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
+[AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
+|[Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
+|[OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
