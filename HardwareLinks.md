@@ -23,6 +23,7 @@
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
+|**[Ampere Altra Developer Platform – I-Pi SMARC](https://www.ipi.wiki/products/ampere-altra-developer-platform )**| (H/W)|
 |[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) 
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ )
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
@@ -105,6 +106,7 @@
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
+|[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | **[MediaTek LEC-MTK-I1200 / SMARC / COM / ADLINK](https://www.adlinktech.com/Products/Computer_on_Modules/SMARC/LEC-MTK-I1200 )** | (H/W) |
@@ -375,6 +377,7 @@
 [AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
 |[Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
 |[OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
+|[Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
