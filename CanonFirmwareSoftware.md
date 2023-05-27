@@ -1,4 +1,4 @@
-# Camera Manuals, Firmware, Software
+# Canon Manuals, Firmware, Software, Photography Articles 
 
 ## [Canon Global](https://global.canon/en/)
 
