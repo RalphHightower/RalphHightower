@@ -64,10 +64,11 @@ I also have different categories of bucket lists.
    - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
    - ✓ [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday 2015-04-08](https://flic.kr/s/aHBqjzH9EK).
    - ~~Arecibo Observatory~~[^81]
+   - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America
    - Slot Canyon (color & B&W photographs)
    - Aurora 
-   - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America 
    - Total Solar Eclipse: April 8, 2024
+   - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
 2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
