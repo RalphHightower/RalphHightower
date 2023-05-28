@@ -593,8 +593,8 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 |   |
 |---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true) |
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&ring=3f99ed&fire=3f99ed&currStreakNum=3f99ed&currStreakLabel=3f99ed) |
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&bg_color=ffffff) |
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&ring=73000a&fire=73000a&currStreakNum=7300a&currStreakLabel=73000a&border=true) |
 
 |   |   |
 |---|---|
@@ -603,5 +603,4 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 |   |
 |---|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
-| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal) |
-
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal) |
