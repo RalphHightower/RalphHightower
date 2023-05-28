@@ -24,8 +24,8 @@
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
 |**[Ampere Altra Developer Platform – I-Pi SMARC](https://www.ipi.wiki/products/ampere-altra-developer-platform )**| (H/W)|
-|[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) 
-| [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ )
+|[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) |
+| [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
 | [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
@@ -33,7 +33,7 @@
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
-| **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB) |
+| **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
@@ -52,7 +52,8 @@
 | [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Express, SMARC, Qseven](https://www.congatec.com/us/) | (H/W) |
-| **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | (H/W) $234.72 |
+| **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | **(H/W) $234.72** |
+| **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html** ) | (H/W) $207.74 16GB DDR/64GB eMMC |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
@@ -150,7 +151,9 @@
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 | **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
-| [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
+|[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
+|[RAKWireless LoRaWAN Complete – RAKwireless Store](https://store.rakwireless.com/collections/lorawan-complete )|(H/W)|
+|[RAKWireless Modular IoT System of Modules for Building Custom LPWAN IoT Projects – RAKwireless Store](https://store.rakwireless.com/collections/wisblock )|(H/W)|| [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
 | **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
@@ -378,6 +381,8 @@
 |[Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
 |[OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
 |[Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
+| [Cool Pi 4 is a Raspberry Pi-shaped computer with RK3588S - Liliputing](https://liliputing.com/cool-pi-4-is-a-raspberry-pi-shaped-computer-with-rk3588s/ ) |
+|[Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
