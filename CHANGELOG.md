@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.5](https://github.com/RalphHightower/RalphHightower/compare/v1.17.4...v1.17.5) (2023-05-29)
+
+
+### Bug Fixes
+
+* Vendors table had more than 2 columns ([8920e0b](https://github.com/RalphHightower/RalphHightower/commit/8920e0b833484f02f3bf55da773eed7fc931e5d9))
+
 ## [1.17.4](https://github.com/RalphHightower/RalphHightower/compare/v1.17.3...v1.17.4) (2023-05-26)
 
 
