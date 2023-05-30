@@ -116,6 +116,9 @@
 | [Microchip Technology PIC-IoT WA Development Board (EV54Y39A)](https://www.mouser.com/new/microchip/microchip-pic-iot-wa-dev-board/) connection to Amazon Web Services | (H/W) $40.39 |
 | [Microchip Get Launched — A global electronics design program to fund, manufacture, and ship amazing products](https://www.crowdsupply.com/microchip/get-launched) | (H/W) |
 | [Microsoft — Everything you need to develop Windows apps for Arm. Powerful AI. All on one device.](https://www.microsoft.com/en-us/d/windows-dev-kit-2023/94k0p67w7581) | (H/W): $599) |
+| [Milk-V](https://milkv.io/ ) | (H/W) |
+| [Milk-V Pioneer](https://milkv.io/pioneer )| (H/W) |
+| [Milk-V Mars](https://milkv.io/mars )| (H/W) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
 | [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) <br> [Mouser Distributor](https://www.mouser.com/) | (H/W) |
 | **[Mixtile Core 3588E / Mixtile](https://www.mixtile.com/core-3588e/ )** | (H/W) 16GB |
@@ -384,6 +387,8 @@
 |[Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
 | [Cool Pi 4 is a Raspberry Pi-shaped computer with RK3588S - Liliputing](https://liliputing.com/cool-pi-4-is-a-raspberry-pi-shaped-computer-with-rk3588s/ ) |
 |[Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
+|[Milk-V Mars single board computer features RISC-V StarFive processor](https://linuxgizmos.com/milk-v-mars-single-board-computer-features-risc-v-starfive-processor/ )|
+|[Milk-V Surprises with a Second RISC-V SBC — Physically Compatible with the Raspberry Pi 3 Model B - Hackster.io](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8 )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
