@@ -62,7 +62,7 @@ I also have different categories of bucket lists.
 
 1.	Before I Die
    - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
-   - ✓ [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday 2015-04-08](https://flic.kr/s/aHBqjzH9EK).
+   - ✓ [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday April 4, 2015](https://flic.kr/s/aHBqjzH9EK).
    - ~~Arecibo Observatory~~[^81]
    - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America
    - Slot Canyon (color & B&W photographs)
