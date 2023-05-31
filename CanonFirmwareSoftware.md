@@ -172,6 +172,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Photo Focus](https://photofocus.com/) |
 | [Slanted Lens](https://theslantedlens.com/) |
 | [SLR Lounge](https://www.slrlounge.com/) |
+|[shutterbug](https://www.shutterbug.com/ )|
 ||
 | [B&H Photography/Video Explora — Computers](https://www.bhphotovideo.com/explora/computers) |
 | [B&H Photography/Video Explora — Home Entertainment](https://www.bhphotovideo.com/explora/home-entertainment) |
