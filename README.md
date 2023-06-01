@@ -69,6 +69,7 @@ I also have different categories of bucket lists.
    - Aurora 
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
+   - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
 2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
@@ -180,8 +181,6 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 [^44]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
 [^45]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
 
-### References:
-
 | Regional Internet Registry | Region |
 |----|----|
 | [American Registry for Internet Numbers (ARIN)](https://wwwmarin.net) | Norh America |
@@ -189,8 +188,6 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [Asia-Pacific Network Coordination Centre (APNIC)](https://www.apnic.net/) | Asia/Pacific Islands |
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
-
-
 
 ### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
