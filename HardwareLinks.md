@@ -106,6 +106,7 @@
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
+| [Khadas / VIM4](https://www.khadas.com/product-page/vim4 ) | (H/W) $239.90 NPU w/ active cooling |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 |[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
@@ -184,6 +185,7 @@
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
+| [Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
