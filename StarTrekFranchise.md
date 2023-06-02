@@ -11,13 +11,16 @@
 | Enterprise | (2001–2005) | Johnathan Archer |
 | Star Trek: Discovery | 2017–present |   |
 | Picard | (2020–present) |  |
-| Star Trek: Strange New Worlds | (2022–present) | Pike |
+| Star Trek: Strange New Worlds | (2022–present) | Christopher Pike |
 | The Animated Series | (1973–1974) | James Kirk |
 | Lower Decks | (2020–present) |  |
 | Prodigy | (2021–present) | Brett Gray |
-| Star Trek: Starfleet Academy[^1] | 2024/2025 | |
+| Star Trek: Starfleet Academy[^11] | 2024/2025 | |
+| Star Trek: Legacy[^12] | TBD | TBD |
 
-[^1]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
+[^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
+[^12]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
+
 
 ## Star Trek Movies
 
@@ -36,7 +39,6 @@
 | Star Trek | 2009 | Kelvin Reboot |
 | Into Darkness| 2013 | Kelvin Reboot |
 | Beyond | 2016 | Kelvin Reboot |
-| Star Trek: Section 31[^2] | Paramount+ |
+| Star Trek: Section 31[^21] | Paramount+ |
 
-[^2]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
-
+[^21]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
