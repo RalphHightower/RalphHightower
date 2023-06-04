@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.17.6](https://github.com/RalphHightower/RalphHightower/compare/v1.17.5...v1.17.6) (2023-06-04)
+
+
+### Bug Fixes
+
+* Articles table ([773c573](https://github.com/RalphHightower/RalphHightower/commit/773c573c4e9b471820c55b6e5a1749a0fe9f2e2f))
+* Fix Company GitHub table (should be two columns, not three) ([6b6cc81](https://github.com/RalphHightower/RalphHightower/commit/6b6cc813740ffe1b4d451837b55456b97ca5805d))
+* year bought Canon F-1N ([0417d9f](https://github.com/RalphHightower/RalphHightower/commit/0417d9ff903b607ded518894dec52fc59daa7fbe))
+
 ## [1.17.5](https://github.com/RalphHightower/RalphHightower/compare/v1.17.4...v1.17.5) (2023-05-29)
 
 
