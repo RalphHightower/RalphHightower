@@ -391,7 +391,8 @@
 |[Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
 |[Milk-V Mars single board computer features RISC-V StarFive processor](https://linuxgizmos.com/milk-v-mars-single-board-computer-features-risc-v-starfive-processor/ )|
 |[Milk-V Surprises with a Second RISC-V SBC — Physically Compatible with the Raspberry Pi 3 Model B - Hackster.io](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8 )|
-
+|[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 1 - Variscite](https://www.variscite.com/blog/438-variscite-i-mx6-based-som-solutions-part-1/ )|
+|[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 2](https://www.variscite.com/blog/439-variscite-i-mx6-based-som-solutions-part-2/ )|
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
 ## DIY CubeSat
