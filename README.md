@@ -96,7 +96,7 @@ I also have different categories of bucket lists.
 [^83]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
 [^84]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
 [^85]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
-[^86]: July 1013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^86]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^87]: I love the instruction set of this magnificent beast of a computer. 
 [^88]: It's gotta have the blinking console lights and console switches.
 [^89]: Cray Computers can, besides a supercomputer, be considered works of art.
