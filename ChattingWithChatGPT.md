@@ -2,7 +2,7 @@
 
 ## Cars/Trucks
 
-### Chevrolet's new mid-engine Corvette 
+### Chevrolet's new mid-engine Corvette[^11]
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
@@ -95,6 +95,7 @@
 | *"Alrighty. Bye."* |
 |Goodbye! Don't hesitate to reach out if you have any more questions in the future.|
 
+[^11]: The [Chevy](https://www.chevrolet.com/) Corvette is on the top of my bucket list cars.
 
 ### Metric System Use by American Automobile Manufacturers for Engine Displacements 
 
@@ -1018,11 +1019,13 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |"Exorcist," "Godfather," "Chinatown"|
 |"Jaws," "Annie Hall," "Star Wars"|
 |"Close Encounters of the Third Kind," "Taxi Driver," "Superman"|
-|Camp David, "The China Syndrome," "Three Mile Island"[^1]|
+|Camp David, "The China Syndrome," "Three Mile Island"[^21]|
 |"The Empire Strikes Back," "Reaganomics"|
 |"Born on the Fourth of July," "Wall Street"|
 |"Rocky III," "Patriots Day," "Red Dawn"|
 |"Thriller," "New York, New York" |
+
+[^21]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
 
 ### Love Shack by the B-52's 
 
@@ -1322,7 +1325,7 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 | *"Thank you."* |
 |**[ChatGPT](https://chat.openai.com/chat):** You're welcome! If you have any other questions, feel free to ask.|
 
-### Turn, Turn, Turn by The Byrds[^2]
+### Turn, Turn, Turn by The Byrds[^31]
 
 | Turn, Turn  Turn — The Byrds / **[ChatGPT]()** |
 |----|
@@ -1356,5 +1359,4 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 |A time for peace, I swear it's not too late|
 | **[ChatGPT](https://chat.openai.com/):** The lyrics you provided are from a song called "Turn! Turn! Turn!" written by Pete Seeger and made famous by the rock group The Byrds. The song is based on a passage from the Bible, Ecclesiastes 3:1-8, which describes the cyclical nature of life and the idea that there is a time and a purpose for everything under heaven. The lyrics describe the various stages and experiences that people go through in life, including birth and death, planting and reaping, killing and healing, and times of love and hate, war and peace. The song suggests that these experiences are all a part of the natural cycle of life and that there is a time and a purpose for everything.|
 
-[^1]: It is interesting that in the year 1979, a movie about a nuclear accident at a nuclear power plant was released and a real accident that occurred at a nuclear power plant also occurred. 
-[^2]: This is one of the songs that I planned for my service.
+[^31]: This is one of the songs that I planned for my service.
