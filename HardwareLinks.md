@@ -106,7 +106,7 @@
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
-| [Khadas / VIM4](https://www.khadas.com/product-page/vim4 ) | (H/W) $239.90 NPU w/ active cooling |
+| [Khadas / VIM4 w/ NPU, Active Cooling](https://www.khadas.com/product-page/vim4 ) | (H/W) $$239.90 w/ NPU, Active Cooling|
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 |[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
@@ -393,6 +393,7 @@
 |[Milk-V Surprises with a Second RISC-V SBC — Physically Compatible with the Raspberry Pi 3 Model B - Hackster.io](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8 )|
 |[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 1 - Variscite](https://www.variscite.com/blog/438-variscite-i-mx6-based-som-solutions-part-1/ )|
 |[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 2](https://www.variscite.com/blog/439-variscite-i-mx6-based-som-solutions-part-2/ )|
+|[Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
