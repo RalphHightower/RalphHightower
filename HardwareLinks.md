@@ -394,7 +394,7 @@
 |[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 1 - Variscite](https://www.variscite.com/blog/438-variscite-i-mx6-based-som-solutions-part-1/ )|
 |[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 2](https://www.variscite.com/blog/439-variscite-i-mx6-based-som-solutions-part-2/ )|
 |[Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ )|
-
+|[mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU - CNX Software](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/ )|
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
 ## DIY CubeSat
