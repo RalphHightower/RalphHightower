@@ -198,6 +198,9 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | Companies on GitHub | Description |
 |---------------------|-------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
+|[Amazon Web Services](https://github.com/aws )| |
+|[Amazon Web Services - Labs](https://github.com/awslabs )| |
+|[Amazon Archives](https://github.com/amazon-archives )| |
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
