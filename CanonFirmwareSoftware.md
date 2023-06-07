@@ -205,6 +205,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Canon CPS Is Changing for Professional and Enthusiast Photographers](https://fstoppers.com/gear/canon-cps-changing-professional-and-enthusiast-photographers-628734) |
 | [How to Shoot LIGHTNING for “Shocking” Landscape Photos (VIDEO) / Shutterbug](https://www.shutterbug.com/content/how-shoot-lightning-%E2%80%9Cshocking%E2%80%9D-landscape-photos-video) |
 |[The Joys of Large Format Landscape Photography / Fstoppers](https://fstoppers.com/film/joys-large-format-landscape-photography-632072 )[^41]|
+|[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
 
