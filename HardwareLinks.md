@@ -172,6 +172,7 @@
 | [Seeed Studio reComputer industrial J4012(Orin NX 16G) - Seeed Studio](https://www.seeedstudio.com/reComputer-Industrial-J4012-p-5684.html ) | (H/W) $1,199.00 16 GB |
 | [Seed Studio 24GHz mmWave Sensor - Human Static Presence Module Lite - human presence, FMCW, Configurable Underlying Parameter, Arduino support, Home Assistant, ESPHome](https://www.seeedstudio.com/24GHz-mmWave-Sensor-Human-Static-Presence-Module-Lite-p-5524.html) | (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
+| [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
@@ -396,6 +397,7 @@
 |[Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ )|
 |[mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU - CNX Software](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/ )|
 | [ECS RK3568-IS 3.5-inch SBC with Rockchip RK3568 SoC showcased at COMPUTEX 2023 - CNX Software](https://www.cnx-software.com/2023/05/31/ecs-rk3568-is-3-5-inch-sbc-with-rockchip-rk3568-soc-showcased-at-computex-2023/ ) |
+| [Silicon Labs FG28 Sub-GHz wireless and 2.4 GHz BLE SoC supports Amazon Sidewalk, Wi-SUN, etc... - CNX Software](https://www.cnx-software.com/2023/06/08/silicon-labs-fg28-sub-ghz-wireless-and-2-4-ghz-ble-soc-supports-amazon-sidewalk-wi-sun-etc/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
