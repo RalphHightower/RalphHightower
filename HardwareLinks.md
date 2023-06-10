@@ -98,6 +98,7 @@
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
+| [I-Pi SMARC 1200](https://www.ipi.wiki/products/i-pi-smarc-1200 ) | (H/W) $379 4GB |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
@@ -163,6 +164,8 @@
 | **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>**$219.95 USD (16GB)** |
+| [Rockchio Rk3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops Ai Npu,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html ) | (H/W) $191.05 16GB RAM/64G eMMC |
+| [Rockchip Rk3568 Evb Demo Board, Providing Single Board Hardware And Embedded Software Sdk - Demo Board - AliExpress](https://www.aliexpress.com/item/1005002343008085.html ) | (H/W) $1247.32|
 | [SB Components — Shopify](https://sbcshop.myshopify.com/) | (H/W) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
@@ -398,6 +401,7 @@
 |[mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU - CNX Software](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/ )|
 | [ECS RK3568-IS 3.5-inch SBC with Rockchip RK3568 SoC showcased at COMPUTEX 2023 - CNX Software](https://www.cnx-software.com/2023/05/31/ecs-rk3568-is-3-5-inch-sbc-with-rockchip-rk3568-soc-showcased-at-computex-2023/ ) |
 | [Silicon Labs FG28 Sub-GHz wireless and 2.4 GHz BLE SoC supports Amazon Sidewalk, Wi-SUN, etc... - CNX Software](https://www.cnx-software.com/2023/06/08/silicon-labs-fg28-sub-ghz-wireless-and-2-4-ghz-ble-soc-supports-amazon-sidewalk-wi-sun-etc/ ) |
+| [A first look at i-Pi SMARC 1200 (Genio 1200) development kit - CNX Software](https://www.cnx-software.com/2023/06/09/a-first-look-at-i-pi-smarc-1200-genio-1200-development-kit/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
