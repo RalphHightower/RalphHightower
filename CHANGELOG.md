@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.8](https://github.com/RalphHightower/RalphHightower/compare/v1.17.7...v1.17.8) (2023-06-10)
+
+
+### Bug Fixes
+
+* Software table – Picture Style Editor ([2019ae5](https://github.com/RalphHightower/RalphHightower/commit/2019ae5c22b1673a6c618dbf6bd361f55b93461e))
+
 ## [1.17.7](https://github.com/RalphHightower/RalphHightower/compare/v1.17.6...v1.17.7) (2023-06-10)
 
 
