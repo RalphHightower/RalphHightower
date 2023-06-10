@@ -17,7 +17,8 @@
 
 | Programing Articles |
 |---|
-|[Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 )|
+|c[Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
+| [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 
 ## Kubernetes 
 
