@@ -16,12 +16,13 @@
 | Lower Decks | (2020–present) |  |
 | Prodigy | (2021–present) | Brett Gray |
 | Star Trek: Starfleet Academy[^11] | 2024/2025 | |
-| Star Trek: Legacy[^12] | TBD | TBD |
-| Star Trek: Worf[^13] | TBD | TBD |
+| Star Trek: Legacy[^12][^13] | TBD | TBD |
+| Star Trek: Worf[^14] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
 [^12]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
-[^13]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^13]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
+[^14]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
 ## Star Trek Movies
 
@@ -40,6 +41,7 @@
 | Star Trek | 2009 | Kelvin Reboot |
 | Into Darkness| 2013 | Kelvin Reboot |
 | Beyond | 2016 | Kelvin Reboot |
-| Star Trek: Section 31[^21] | Paramount+ |
+| Star Trek: Section 31[^21][^22] | Paramount+ |
 
 [^21]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
+[^22]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
