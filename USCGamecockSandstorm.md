@@ -1,8 +1,5 @@
----
 # [USC Gamecock](https://www.sc.edu/) Sandstorm Theme Derived from [Jekyll](https://github.com/jekyll/)/[Minima](https://github.com/jekyll/minima)[^11]
----
 
-## Test bed to customize Jekyll minima theme[^11]
 
 [^11]: footnote 1
 
