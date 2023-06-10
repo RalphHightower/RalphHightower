@@ -172,7 +172,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Photo Focus](https://photofocus.com/) |
 | [Slanted Lens](https://theslantedlens.com/) |
 | [SLR Lounge](https://www.slrlounge.com/) |
-|[shutterbug](https://www.shutterbug.com/ )|
+| [shutterbug](https://www.shutterbug.com/ ) |
 ||
 | [B&H Photography/Video Explora — Computers](https://www.bhphotovideo.com/explora/computers) |
 | [B&H Photography/Video Explora — Home Entertainment](https://www.bhphotovideo.com/explora/home-entertainment) |
@@ -206,6 +206,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [How to Shoot LIGHTNING for “Shocking” Landscape Photos (VIDEO) / Shutterbug](https://www.shutterbug.com/content/how-shoot-lightning-%E2%80%9Cshocking%E2%80%9D-landscape-photos-video) |
 |[The Joys of Large Format Landscape Photography / Fstoppers](https://fstoppers.com/film/joys-large-format-landscape-photography-632072 )[^41]|
 |[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
+| [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
 
