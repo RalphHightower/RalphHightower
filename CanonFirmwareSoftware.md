@@ -76,7 +76,8 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 | Description | Version | Date | Link |
 |-------------|---------|------|------|
 | Digital Photo Professional for Windows | 4.17.20 | 2023-03-30 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectSerialTarget.do?id=NGE4MjIzMWEx&cmp=ABR&lang=EN) |
-|EOS Utility for Windows|3.16.11|2023-03-30|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjg3ODAx&cmp=ABR&lang=EN)|| Picture Style Editor for Windows | 1.28.10 | 2023-02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyOTAx&cmp=ABR&lang=EN) |
+|EOS Utility for Windows|3.16.11|2023-03-30|[Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjg3ODAx&cmp=ABR&lang=EN)|
+| Picture Style Editor for Windows | 1.28.10 | 2023-02-21 | [Download](https://pdisp01.c-wss.com/gdl/WWUFORedirectTarget.do?id=MDIwMDAwNjgyOTAx&cmp=ABR&lang=EN) |
 | EOS Webcam Utility Pro | 2.0 | 2022-11-09 | [Download Form](https://www.usa.canon.com/support/p/eos-5d-mark-iii#idReference%3Dsoftware-drivers) |
 
 #### Manuals
