@@ -189,7 +189,6 @@
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
-| [Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
