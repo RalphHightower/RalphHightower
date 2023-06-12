@@ -401,6 +401,7 @@
 | [ECS RK3568-IS 3.5-inch SBC with Rockchip RK3568 SoC showcased at COMPUTEX 2023 - CNX Software](https://www.cnx-software.com/2023/05/31/ecs-rk3568-is-3-5-inch-sbc-with-rockchip-rk3568-soc-showcased-at-computex-2023/ ) |
 | [Silicon Labs FG28 Sub-GHz wireless and 2.4 GHz BLE SoC supports Amazon Sidewalk, Wi-SUN, etc... - CNX Software](https://www.cnx-software.com/2023/06/08/silicon-labs-fg28-sub-ghz-wireless-and-2-4-ghz-ble-soc-supports-amazon-sidewalk-wi-sun-etc/ ) |
 | [A first look at i-Pi SMARC 1200 (Genio 1200) development kit - CNX Software](https://www.cnx-software.com/2023/06/09/a-first-look-at-i-pi-smarc-1200-genio-1200-development-kit/ ) |
+| [ECS RK3568-IS 3.5-inch SBC with Rockchip RK3568 SoC showcased at COMPUTEX 2023 - CNX Software](https://www.cnx-software.com/2023/05/31/ecs-rk3568-is-3-5-inch-sbc-with-rockchip-rk3568-soc-showcased-at-computex-2023/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
