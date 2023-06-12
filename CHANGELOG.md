@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.9](https://github.com/RalphHightower/RalphHightower/compare/v1.17.8...v1.17.9) (2023-06-12)
+
+
+### Bug Fixes
+
+* delete Khadas VIM4 cnx-software article from suppliers ([09e7090](https://github.com/RalphHightower/RalphHightower/commit/09e709062828658f64f87dacbb618695fc8554c6))
+
 ## [1.17.8](https://github.com/RalphHightower/RalphHightower/compare/v1.17.7...v1.17.8) (2023-06-10)
 
 
