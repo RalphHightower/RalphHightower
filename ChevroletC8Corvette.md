@@ -24,11 +24,16 @@
 | [Corvette Specialist Mike Furman at Criswell Corvette](https://www.criswellcorvette.com/mike-furman ) | Dealership: Top Corvette Dealership |
 | [\[VIDEO\] C8 Corvette Stingray with Z51 Runs Top Speed of 191.7 MPH on the Space Shuttle's Runway - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/03/22/video-c8-corvette-stingray-with-z51-runs-top-speed-of-191-7-mph-on-the-space-shuttles-runway/) | YouTube |
 | [First Drive of 2020 Corvette Stingray Convertible Z51 - Jay Leno’s Garage](https://youtube.com/watch?v=nvTzcNtaSLU&feature=share ) | YouTube |
+| [Astonishing C8 ZR1 & ZORA LEAKS! & Z06 will be the most POWERFUL NA V8 i...](https://youtube.com/watch?v=sPZeaWjOeJE&feature=share ) | Brink of Speed |
+| [Don't LIKE the C8 E-Ray? This WILL change your MIND!](https://youtube.com/watch?v=TrAL3zpfMMo&feature=share ) | Brink of Speed |
+| [What We Learned After Testing a Chevy C8 Corvette Over 40,000 Miles / Ca...](https://youtube.com/watch?v=u7YfAlDYMVE&feature=share ) | Car and Driver |
+| [FIRST TO TAKE DELIVERY OF A $185,000 C8 CORVETTE Z06!](https://youtube.com/watch?v=adYgvfv_CbE&feature=share ) | Speed Phenom |
 
 ## Articles 
 
 | Article |
 |---|
+| [2023 Corvette Gets Recommended Rating By Consumer Reports](https://gmauthority.com/blog/2022/11/2023-corvette-gets-recommended-rating-by-consumer-reports/) |
 
 ## Owners Manual Manuals
 
