@@ -208,6 +208,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 |[The Joys of Large Format Landscape Photography / Fstoppers](https://fstoppers.com/film/joys-large-format-landscape-photography-632072 )[^41]|
 |[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
 | [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
+| [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&fea_**r**_ture=share ) |
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
 
