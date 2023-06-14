@@ -17,9 +17,12 @@
 
 | Programing Articles |
 |---|
-|[Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
+| [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
+| [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
+| [Elevating open source contributors to open source maintainers / The GitHub Blog](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/ ) |
+| [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
 
 ## Kubernetes 
 
@@ -42,13 +45,16 @@
 
 | Technical Blogs |
 |----|
+| [App Map Dev](https://dev.to/appmap/)|
+| [DEV Community](https://dev.to/ ) |
 | [Facebook Engineering Blog](https://engineering.fb.com/) |
 | [Microsoft Blog](https://blogs.microsoft.com/blog/) |
 | [Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/) |
 | [Microsoft Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/) |
 | [Microsoft Azure Dev Ops Blog](https://devblogs.microsoft.com/devops/) |
 | [NVIDIA Developer Blog](https://developer.nvidia.com/blog/) |
-| [App Map Dev](https://dev.to/appmap/)|
+| [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/ ) |
+| [VS Code - DEV Community](https://dev.to/appmap/ ) |
 
 ## ARM
 
