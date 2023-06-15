@@ -72,6 +72,14 @@
 |---|
 | [Welcome – Turing Machines](https://help.turingpi.com/hc/en-us/articles/8685707578013-Welcome ) |
 
+## [NVIDIA Jetson AI Articles]()
+
+| [NVIDIA AI Articles]() |
+|----|
+[PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet)
+| [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
+| [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
+
 ## Firefly Products 
 
 | Firefly Products | Price |
@@ -99,6 +107,7 @@
 | Articles |
 |----|
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
+| [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards)
 
@@ -186,6 +195,9 @@ I could easily see this for installation in cars, SUVs, trucks.
 | **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
 | [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
 | [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
+| [A cheap and (relatively) easy microwave imager / radiotelescope / Saveitforparts](https://saveitforparts.wordpress.com/2023/03/29/a-cheap-and-relatively-easy-microwave-imager-radiotelescope/ ) |
+| [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200 ) |
+| [HackRF One - WRL-13001 - SparkFun Electronics](https://www.sparkfun.com/products/13001 ) |
 
 <hr>
 
@@ -217,8 +229,9 @@ I could easily see this for installation in cars, SUVs, trucks.
 | PTP — Precision Time Keeping Protocol |
 |---|
 |[Home » Open Compute Project](https://www.opencompute.org) |
+|[Timebeat's Precision Time Keeping Products](https://store.timebeat.app/products/ocp-tap-timecard )|
 |[opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project): Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...|
-|[timebeat](https://store.timebeat.app/products/ocp-tap-timecard )|
+| [Timebeat's TimeCard mini Turns a Raspberry Pi CM4 Into a PCI Express High-Precision Time Source - Hackster.io](https://www.hackster.io/news/timebeat-s-timecard-mini-turns-a-raspberry-pi-cm4-into-a-pci-express-high-precision-time-source-18b89b1732bc ) |
 |[Watch "The most accurate Raspberry Pi atomic clock IN THE WORLD!" on YouTube](https://youtu.be/tU0xC1ynaT8 )|
 |[Watch "Democratizing Time: Hands on with an Atomic Clock PCIe Card" on YouTube](https://youtu.be/Gr7sZ4MPMu8 )|
 |[Watch "Nanosecond clock sync with a Raspberry Pi" on YouTube](https://youtu.be/RvnG-ywF6_s)|
@@ -243,6 +256,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Remote Monitoring Feature for the Red Reactor](https://github.com/Scally-H/RedReactor/tree/main/RR_WebMonitor) | The Red Reactor now provides a remote monitoring feature that enables you to see the status information at a glance from your web-browser. |
 | [RR Battery Monitor Background App](https://github.com/Scally-H/RedReactor/tree/main/RR_BatMonitor) | This Red Reactor Battery Monitor Background App is an application designed for systems without a display ('Headless'), or are remotely located, or just need to run largely un-attended. |
 | [RS485 CAN HAT For Raspberry Pi](https://github.com/sbcshop/RS485-CAN-HAT) | RS485 CAN HAT is a multi node communication module, to communicate with devices in a long-range, designed dedicatedly for Raspberry Pi with an operating voltage of 3.3 V, CAN controller MCP2515 via SPI interface, onboard transceiver SN65HVD230 that is controlled via UART. It is built to support automatic TX/RX control without programming. It performs half-duplex communication and it has an onboard transceiver SP3485. |
+| [Air-Monitoring-HAT](https://github.com/sbcshop/Air-Monitoring-HAT) | SB Components developed the Air Monitor HAT for Raspberry Pi an open-source portable sensor that can provide the level of quantity of the suspended particulates with their mass. |
 
 <hr>
 
