@@ -2,8 +2,8 @@
 
 ## Patient Rooms
 
-|Channel|Name|Channel | Name |
-|---|---|---|---|---|
+| Channel | Name | Channel | Name |
+|---|---|---|---|
 |10|[NBC - WIS](https://www.#.com/)|19|[CBS - WLTX](https://www.#.com/)|
 |25|[ABC - WOLO](https://www.#.com/)|35|[PBS - WRLK](https://www.#.com/)|
 |47|[ION - WZRB](https://www.#.com/)|57|[FOX - WACH](https://www.#.com/)|
@@ -41,11 +41,37 @@
 |502|[Nickelodeon](https://www.#.com/)|
 |600|[Univision](https://www.#.com/)|601|[Telemundo](https://www.#.com/)|
 |800 - 850|Music Choice|
+|800|  |801|   |
+|802|  |803|   |
+|804|  |805|   |
+|806|  |807|   |
+|808|  |809|   |
+|810|  |811| Classic Rock |
+|812|  |813|   |
+|814|  |815|   |
+|816|  |817|   |
+|818|  |819|   |
+|820|  |821|   |
+|822|  |823|   |
+|824|  |825|   |
+|826|  |827|   |
+|828|  |829|   |
+|830|  |831|   |
+|832|  |833|   |
+|834|  |835|   |
+|836|  |837|   |
+|838|  |839|   |
+|840|  |841|   |
+|842|  |843|   |
+|844|  |845|   |
+|846|  |847|   |
+|848|  |849|   |
+|850|  |---||
 
 ## Pre-op Rooms
 
 |Channel|Name|Channel | Name |
-|---|---|---|---|---|
+|---|---|---|---|
 |65-1|[Bloomberg](https://www.#.com/)|65-2|[C-SPAN](https://www.#.com/)|
 |65-3|[MTV](https://www.#.com/)|65-4|[ESPN Classic](https://www.#.com/)|
 |65-5|[Comedy Central](https://www.#.com/)|65-6|[E!](https://www.#.com/)|
