@@ -32,6 +32,7 @@
 | [ARM](https://www.arm.com/) | (H/W) |
 | [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
+| [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB |
 | [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
@@ -142,10 +143,13 @@
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | **[OpenMQTTGateway](https://openmqttgateway.com/)** | (H/W) |
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)** | $141.99 |
-| **Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)** | **[Amazon $149.99](https://a.co/d/3ayh6T6)** |
+| **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply](https://a.co/d/3ayh6T6)**** | **[Amazon $149.99] |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br>**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orange Pi 5 Plus SBC dual HDMI 2.1, dual 2.5GbE, M.2 PCIe sockets](https://www.cnx-software.com/2023/05/10/orange-pi-5-plus-sbc-switches-to-rockchip-rk3588-soc-brings-dual-hdmi-2-1-dual-2-5gbe-m-2-pcie-sockets/)** | (H/W) **[AliExpress \$157.90 16GB/128GB eMMC](https://www.aliexpress.com/item/1005005363226571.html)**<br>**[Amazon: \$195.99 16GB/256GB eMMC](https://www.amazon.com/Orange-Pi-Rockchip-Computer-Frequency/dp/B0BZ4BBV11?th=1&psc=1)** |
+| **[Orange Pi 5 Plus 16g Ram Single Board Computer Rk3588 Pcie Module External Wifi-bt Ssd 8k Orange Pi5 Plus Demo Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005572414487.html )** | **(H/W) 16GB** |
+| **[Orange Pi 5 Plus 16GB Rockchip RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Run Orange Pi OS, Android, Debian, Ubuntu (OPi 5 Plus 16G+5V4A TC Supply)](https://a.co/d/4WFkS5z) - Amazon** | (H/W) **$151.99 16GB** |
+| **[Orange Pi 5B 16GB Rockchip RK3588S 8 Core 64 Bit WiFi6,BT5.0 Single Board Computer with 128GB eMMC, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian (OPi 5B 16GB/128G+5V4A TypeC Supply)](https://a.co/d/3xBTyUa) - Amazon** | **(H/W) $151.99** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
 | **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
@@ -183,6 +187,8 @@
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [Toradex System on Module](https://www.toradex.com/) | (H/W) |
+| [timebeat](https://timebeat.app/ ) | (H/W) |
+| [timebeat store](https://store.timebeat.app/ ) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
