@@ -105,6 +105,10 @@
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [iWave i.MX 93 OSM-L LGA ModuleiW-RainboW-G50M®](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/#) | (H/W) |
+| [iwavesystems SODIMM](https://www.iwavesystems.com/form-factor/sodimm/ ) | (H/W) |
+| [iwavesystems SMARC](https://www.iwavesystems.com/form-factor/smarc/ ) | (H/W) |
+| [iwavesystems SBC](https://www.iwavesystems.com/form-factor/sbc-cots/ ) | (H/W) |
+| [iwavesystems AM62Ax Based OSM-LF Module](https://www.iwavesystems.com/product/ti-am62ax-based-osm-lf-module/# )
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
@@ -419,6 +423,7 @@
 | [BeepBerry handheld Linux computer drives 2.7-inch display with Raspberry Pi Zero W - CNX Software](https://www.cnx-software.com/2023/05/18/beepberry-handheld-linux-computer-drives-2-7-inch-display-with-raspberry-pi-zero-w/ ) |
 | [Review of PocketCHIP Hackable Handheld Linux Computer - CNX Software](https://www.cnx-software.com/2016/06/25/review-of-pocketchip-hackable-portable-linux-computer/ ) |
 | [M5Stack Unveils the CM4Stack, a Powerful All-in-One Development Kit Based on the Raspberry Pi CM4 - Hackster.io](https://www.hackster.io/news/m5stack-unveils-the-cm4stack-a-powerful-all-in-one-development-kit-based-on-the-raspberry-pi-cm4-d98a6ef2b0be ) |
+| [iW-RainboW-G55M is an OSM-LF compliant module based on TI AM62A Cortex-A53 processor - CNX Software](https://www.cnx-software.com/2023/05/25/iw-rainbow-g55m-is-an-osm-lf-compliant-module-based-on-ti-am62a-cortex-a53-processor/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
