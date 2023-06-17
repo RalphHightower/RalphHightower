@@ -1,8 +1,10 @@
-# Programming Articles 
+# Programming / Security Articles 
 
-## C# .NET
+## Programing Articles 
 
-### Application Tech Stack[^1]
+### C# .NET
+
+#### Application Tech Stack[^1]
 
 [^1]: [Michael Shpilt](https://michaelscodingspot.com/about/)
 
@@ -13,7 +15,7 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
-## Programing Articles 
+#### Programing Articles 
 
 | Programing Articles |
 |---|
@@ -24,7 +26,7 @@
 | [Elevating open source contributors to open source maintainers / The GitHub Blog](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/ ) |
 | [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
 
-## Kubernetes 
+#### Kubernetes 
 
 | Kubernetes |
 |----|
@@ -32,7 +34,7 @@
 | [My Custom (Automated) LiM Kubernetes Cluster · l00nix's RPi blog](https://rpi.loonix.ca/lim-cluster-set-up/ ) |
 |[Kubespray: Automated Kubernetes Home Lab Setup - Virtualization How To](https://www.virtualizationhowto.com/2023/05/kubespray-automated-kubernetes-home-lab-setup/ )|
 
-## Facebook[^2]
+#### Facebook[^2]
 
 [^2]: Sorry Meta, but you will always be known as Facebook. 
 
@@ -41,7 +43,7 @@
 | [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/productin-engineering/precision-time-protocol-at-meta/) |
 | [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/) |
 
-## Technical Blogs
+### Technical Blogs
 
 | Technical Blogs |
 |----|
@@ -56,7 +58,7 @@
 | [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/ ) |
 | [VS Code - DEV Community](https://dev.to/appmap/ ) |
 
-## ARM
+#### ARM
 
 | [Arm](https://www.arm.com/) |
 |----|
@@ -73,16 +75,27 @@
 | [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/)<br>What had started as twelve people and a dream was now a billion-dollar company. |
 | [A history of ARM, part 3: Coming full circle](https://arstechnica.com/gadgets/2023/01/a-history-of-arm-part-3-coming-full-circle/) |
 
-## RISC-V
+#### RISC-V
 
 | [RISC-V](https://riscv.org/) |
 |----|
 ||
 
-## SPARC
+#### SPARC
 
 | [SPARC](https://sparc.org/) |
 |----|
 ||
 
+## Security 
 
+### Security Blogs
+
+| Security Blog |
+|----|
+| [Krebs on Security – In-depth security news and investigation](https://krebsonsecurity.com/ ) |
+
+### Security Articles 
+
+| Security Article |
+|---|
