@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.10](https://github.com/RalphHightower/RalphHightower/compare/v1.17.9...v1.17.10) (2023-06-18)
+
+
+### Bug Fixes
+
+* balance my quote in the Haiku ([2062bf9](https://github.com/RalphHightower/RalphHightower/commit/2062bf9255003b9386e27d533bbdd59c060f7bf2))
+
 ## [1.17.9](https://github.com/RalphHightower/RalphHightower/compare/v1.17.8...v1.17.9) (2023-06-12)
 
 
