@@ -49,7 +49,7 @@
 |-------|
 | *Greetings Assistant.* |
 | Hello! How can I assist you today? |
-| *"Could you produce five Haiku verses about Chevrolet's new mid-engine Corvette?* |
+| *"Could you produce five Haiku verses about Chevrolet's new mid-engine Corvette?"* |
 |Sure! Here are five Haiku verses about Chevrolet's new mid-engine Corvette:|
 |Sleek curves, mid-engine,<br>Corvette roars with pure might,<br>Speed's symphony.|
 |Muscle and finesse,<br>Corvette's heart beats midship,<br>Track-ready beauty.|
