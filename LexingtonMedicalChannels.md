@@ -41,12 +41,12 @@
 |502|[Nickelodeon](https://www.#.com/)|
 |600|[Univision](https://www.#.com/)|601|[Telemundo](https://www.#.com/)|
 |800 - 850|Music Choice|
-|800|  |801|   |
-|802|  |803|   |
-|804|  |805|   |
-|806|  |807|   |
-|808|  |809|   |
-|810|  |811| Classic Rock |
+|800| Kids Only |801| Throwback Jams  |
+|802| Rock Hits |803| Gospels |
+|804| Indie |805| Hit List  |
+|806| Party Favorites |807| Today's Country  |
+|808| Hip-Hop Classics *?* |809| C-RAP  |
+|810| Hip-Hop and R&B |811| Classic Rock |
 |812|  |813|   |
 |814|  |815|   |
 |816|  |817|   |
