@@ -40,7 +40,6 @@
 |500|[Disney](https://www.#.com/)|501|[Cartoon Network](https://www.#.com/)|
 |502|[Nickelodeon](https://www.#.com/)|
 |600|[Univision](https://www.#.com/)|601|[Telemundo](https://www.#.com/)|
-|800 - 850|Music Choice|
 |800| Kids Only |801| Throwback Jams  |
 |802| Rock Hits |803| Gospels |
 |804| Indie |805| Hit List  |
@@ -56,17 +55,17 @@
 |824| Dance/EDM |825| Contemporary Christian  |
 |826| Pop-Latino |827| Classic Country  |
 |828| Romances |829| Sounds if the Seasons – The Pulse  |
-|830|  |831|   |
-|832|  |833|   |
-|834|  |835|   |
-|836|  |837|   |
-|838|  |839|   |
-|840|  |841|   |
-|842|  |843|   |
-|844|  |845|   |
-|846|  |847|   |
-|848|  |849|   |
-|850|  |---||
+|830| Country Hits |831| 70's  |
+|832| Solid Gold Oldies |833| Pop and Country  |
+|834| Tropicales |835| Mexicana  |
+|836| Soundscapes |837| Smooth Jazz  |
+|838| Toddler Tunes |839| Stage and Screen [] at the Movies  |
+|840| Teen Beat |841| Musica Urbana  |
+|842| Love Songs |843| Adult Alternative  |
+|844| Jazz |845| Blues  |
+|846| Singers and Swing |847| Easy Listening  |
+|848| Classic Masterpieces |849| Light Classical  |
+|850| Light Classical |---||
 
 ## Pre-op Rooms
 
