@@ -47,15 +47,15 @@
 |806| Party Favorites |807| Today's Country  |
 |808| Hip-Hop Classics *?* |809| C-RAP  |
 |810| Hip-Hop and R&B |811| Classic Rock |
-|812|  |813|   |
-|814|  |815|   |
-|816|  |817|   |
-|818|  |819|   |
-|820|  |821|   |
-|822|  |823|   |
-|824|  |825|   |
-|826|  |827|   |
-|828|  |829|   |
+|812| R&B Classics |813| R&B Soul  |
+|814| Alternative |815| Metal  |
+|816| Rock |817| Reggae  |
+|818| Soft Rock |819| Pop Hits  |
+|820| Y2K |821| 90's  |
+|822| 80's |823| Music Choice Max  |
+|824| Dance/EDM |825| Contemporary Christian  |
+|826| Pop-Latino |827| Classic Country  |
+|828| Romances |829| Sounds if the Seasons – The Pulse  |
 |830|  |831|   |
 |832|  |833|   |
 |834|  |835|   |
