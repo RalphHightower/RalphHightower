@@ -19,7 +19,7 @@
 |202|[CNN](https://www.#.com/)|203|[MSNBC](https://www.#.com/)|
 |204|[C-SPAN](https://www.#.com/)|205|[Bloomberg](https://www.#.com)|
 |206|[CNBC](https://www.#.com/)|207|[The Weather Channel](https://www.#.com/)|
-|208|[BBC America](https://www.#.com/)|
+|208|[BBC America](https://www.bbcamerica.com/schedule??tz=ET)|
 |300|[ESPN](https://www.#.com/)|301|[ESPN2](https://www.#.com/)|
 |302|[ESPNU](https://www.#.com/)|303|[ESPNews](https://www.#.com/)|
 |304|[ESPN Classic](https://www.#.com/)|305|[Golf](https://www.#.com/)|
@@ -92,7 +92,7 @@
 |75-3|[A&E](https://www.#.com/)|76-1|[ESPN](https://www.#.com/)|
 |76-2|[ESPN2](https://www.#.com/)|77-1|[TNT](https://www.#.com/)|
 |77-2|[National Geographic](https://www.#.com/)|77-3|[TruTV](https://www.#.com/)|
-|78-1|[The Weather Channel](https://www.#.com/)|78-2|[BBC America](https://www.#.com/)|
+|78-1|[The Weather Channel](https://www.#.com/)|78-2|[BBC America]([https://www](https://www.bbcamerica.com/schedule??tz=ET)|
 |78-3|[Univision](https://www.#.com/)|78-4|[Telemundo](https://www.#.com/)|
 |78-5|[Nickelodeon](https://www.#.com/)|79-1|[ABC- WOLO](https://www.#.com/)|
 |79-2|[MYTV - WKTC](https://www.#.com/)|80-1|[CBS - WLTX](https://www.#.com/)|
