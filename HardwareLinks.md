@@ -428,6 +428,7 @@
 | [M5Stack Unveils the CM4Stack, a Powerful All-in-One Development Kit Based on the Raspberry Pi CM4 - Hackster.io](https://www.hackster.io/news/m5stack-unveils-the-cm4stack-a-powerful-all-in-one-development-kit-based-on-the-raspberry-pi-cm4-d98a6ef2b0be ) |
 | [iW-RainboW-G55M is an OSM-LF compliant module based on TI AM62A Cortex-A53 processor - CNX Software](https://www.cnx-software.com/2023/05/25/iw-rainbow-g55m-is-an-osm-lf-compliant-module-based-on-ti-am62a-cortex-a53-processor/ ) |
 |[Wavelet Lab's uSDR Is a Tiny Software-Defined Radio with Easily-Accessible Browser-Based Software - Hackster.io](https://www.hackster.io/news/wavelet-lab-s-usdr-is-a-tiny-software-defined-radio-with-easily-accessible-browser-based-software-acf3bd40eee0 )|
+| [uSDR - A tiny M.2 SDR board controllable from your web browser (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/06/16/usdr-an-m-2-sdr-board-controllable-from-your-web-browser/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
