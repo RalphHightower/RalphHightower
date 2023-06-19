@@ -198,6 +198,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | Companies on GitHub | Description |
 |---------------------|-------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
+| [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 |[Amazon Web Services](https://github.com/aws )| |
 |[Amazon Web Services - Labs](https://github.com/awslabs )| |
 |[Amazon Archives](https://github.com/amazon-archives )| |
