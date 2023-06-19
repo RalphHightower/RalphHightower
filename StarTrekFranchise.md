@@ -16,14 +16,16 @@
 | Lower Decks | (2020–present) |  |
 | Prodigy | (2021–present) | Brett Gray |
 | Star Trek: Starfleet Academy[^11] | 2024/2025 | |
-| Star Trek: Legacy[^12][^13][^14] | TBD | TBD |
-| Star Trek: Worf[^15] | TBD | TBD |
+| Star Trek: Legacy[^12][^13][^14][^15][^16] | TBD | TBD |
+| Star Trek: Worf[^17] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
 [^12]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
 [^13]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
 [^14]: [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ )
-[^15]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^15]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
+[^16]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
+[^17]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
 ## Star Trek Movies
 
