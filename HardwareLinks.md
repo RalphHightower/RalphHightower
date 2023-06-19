@@ -86,6 +86,7 @@
 | **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB $ |
 | **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
 | **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
+| [Fomu is the easiest way to get started with FPGA or RISC-V development.](https://www.crowdsupply.com/sutajio-kosagi/fomu) | (H/W) $50 |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
 | [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
@@ -99,6 +100,7 @@
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
+| [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
 | [I-Pi SMARC 1200](https://www.ipi.wiki/products/i-pi-smarc-1200 ) | (H/W) $379 4GB |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
@@ -198,6 +200,7 @@
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
+| [crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
@@ -424,6 +427,7 @@
 | [Review of PocketCHIP Hackable Handheld Linux Computer - CNX Software](https://www.cnx-software.com/2016/06/25/review-of-pocketchip-hackable-portable-linux-computer/ ) |
 | [M5Stack Unveils the CM4Stack, a Powerful All-in-One Development Kit Based on the Raspberry Pi CM4 - Hackster.io](https://www.hackster.io/news/m5stack-unveils-the-cm4stack-a-powerful-all-in-one-development-kit-based-on-the-raspberry-pi-cm4-d98a6ef2b0be ) |
 | [iW-RainboW-G55M is an OSM-LF compliant module based on TI AM62A Cortex-A53 processor - CNX Software](https://www.cnx-software.com/2023/05/25/iw-rainbow-g55m-is-an-osm-lf-compliant-module-based-on-ti-am62a-cortex-a53-processor/ ) |
+|[Wavelet Lab's uSDR Is a Tiny Software-Defined Radio with Easily-Accessible Browser-Based Software - Hackster.io](https://www.hackster.io/news/wavelet-lab-s-usdr-is-a-tiny-software-defined-radio-with-easily-accessible-browser-based-software-acf3bd40eee0 )|
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
