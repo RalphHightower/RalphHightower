@@ -234,6 +234,25 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don'thesitate to reach out if you have any other questions in the future.|
 
+#### DEC VAX 11/780 Haiku
+
+| DEC VAX Haiku |
+|---|
+| *"Good morning Assistant"* |
+| Good morning! How can I assist you today? |
+| *"I enjoyed your haiku about the Chevy Corvette. Could you create five Haiku verses about the DEC VAX 11/780?"* |
+|Certainly! Here are five haiku verses about the DEC VAX 11/780:|
+|Elegant power,<br>VAX 11/780 stands tall,<br>Computing marvel.|
+|Whirring processors,<br>Silicon symphony unfolds,<br>Digital prowess.|
+|Memory's heartbeat,<br>Pulses through VAX's circuits,<br>Data's sanctuary.|
+|Commands whispered low,<br>VAX responds with lightning speed,<br>Technology's dance.|
+|Legacy echoes,<br>VAX 11/780's brilliance,<br>Timeless innovation.|
+|I hope you enjoy these haiku verses dedicated to the DEC VAX 11/780!|
+| *"Thank you. That's great!"* |
+|You're welcome! I'm glad you liked them. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
+| *"That's it for today. Bye."* |
+|Alright! If you have any more questions in the future, feel free to ask. Goodbye, and have a great day!|
+
 #### Linux
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
