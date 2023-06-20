@@ -725,7 +725,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |Good morning! I'm an AI language model, so I don't have feelings, but I'm here and ready to assist you. How can I help you today?|
 | *"How familiar are you with the dog breed of Beagles?"* |
 |I'm quite familiar with the dog breed of Beagles. Beagles are a small to medium-sized breed known for their friendly and gentle nature. They are scent hounds and were originally bred for hunting purposes, particularly for tracking small game like rabbits. Beagles are known for their keen sense of smell, intelligence, and loyalty.<br><br>In terms of appearance, Beagles typically have a short coat that comes in a variety of colors, including tricolor (black, tan, and white), bicolor, and lemon. They have a muscular build, a slightly domed skull, and long, droopy ears that help enhance their sense of smell.<br><br>Beagles are known to be sociable and good with families and children. They are generally happy, curious, and outgoing dogs. However, they do have a strong prey drive and may chase small animals if not properly trained or supervised. Beagles are also known for their vocal nature and can be quite vocal when they want attention or are on the scent of something interesting.<br><br>If you have any specific questions about Beagles or need more information, feel free to ask!|
-| *"Could you create five Haiku verses about Beagles"* |
+| *"Could you create five Haiku verses about Beagles?"* |
 |Certainly! Here are five Haiku verses about Beagles:|
 |Nose to the damp earth,<br>Tracking scents through woods and fields,<br>Beagle's quest unfolds.|
 |Floppy ears perk up,<br>Melody of baying sounds,<br>Beagle's song of joy.|
