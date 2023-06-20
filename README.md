@@ -202,12 +202,21 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 |[Amazon Web Services](https://github.com/aws )| |
 |[Amazon Web Services - Labs](https://github.com/awslabs )| |
 |[Amazon Archives](https://github.com/amazon-archives )| |
+|[Ansible](https://github.com/ansible )|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
 | [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
+|[Cisco Data Center](https://github.com/datacenter )|
+Cisco Data Center – Cisco Open Source Projects for the Data Center|
+|[Cisco DevNet](https://github.com/CiscoDevNet )|
+Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
+|[Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )|
+Cisco Test Automation Platform with pyATS & Genie
+Scripts, libraries and plugins developed using Cisco pyATS|
+|[Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) ||
 | [Garmin International](https://github.com/garmin) | Garmin International  |
