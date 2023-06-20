@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.11](https://github.com/RalphHightower/RalphHightower/compare/v1.17.10...v1.17.11) (2023-06-20)
+
+
+### Bug Fixes
+
+* add question mark to request for Beagle Haiku ([1ca2bf4](https://github.com/RalphHightower/RalphHightower/commit/1ca2bf4e815f2ad8a8c689515c74405e81dafd70))
+
 ## [1.17.10](https://github.com/RalphHightower/RalphHightower/compare/v1.17.9...v1.17.10) (2023-06-18)
 
 
