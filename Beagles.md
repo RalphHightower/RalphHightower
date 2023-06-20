@@ -77,9 +77,12 @@ I start writing obituaries for our Beagles with Sweetheart.
 |Nose to the damp earth,<br>Tracking scents through woods and fields,<br>Beagle's quest unfolds.| 
 |Floppy ears perk up,<br>Melody of baying sounds,<br>Beagle's song of joy.| 
 |Loyal, gentle friend,<br>Playful eyes with wagging tail,<br>Beagle's love runs deep.| 
-|Curious sniffer,<br>Scent trails guide adventurous paws,<br>Beagle's quest for fun.| |Soulful eyes that gleam,<br>Beagle's heart full of mischief,<br>Pure love, forever.|
-|I hope you enjoy these Haiku verses about Beagles|| *"Thank you. I think that you captured the essence, personality, and spirit of Beagles."* | 
-|You're welcome! I'm glad you feel that way. Beagles are wonderful dogs with unique personalities, and I'm glad I could capture their essence through the Haiku verses. If you have any more questions or need further assistance, feel free to ask.| | *"Yes, I agree. Beagles have provided joy and companionship to my wife and me since 1978."* | 
+|Curious sniffer,<br>Scent trails guide adventurous paws,<br>Beagle's quest for fun.| 
+|Soulful eyes that gleam,<br>Beagle's heart full of mischief,<br>Pure love, forever.|
+|I hope you enjoy these Haiku verses about Beagles|
+| *"Thank you. I think that you captured the essence, personality, and spirit of Beagles."* | 
+|You're welcome! I'm glad you feel that way. Beagles are wonderful dogs with unique personalities, and I'm glad I could capture their essence through the Haiku verses. If you have any more questions or need further assistance, feel free to ask.| 
+| *"Yes, I agree. Beagles have provided joy and companionship to my wife and me since 1978."* | 
 |That's truly wonderful to hear! Beagles have a special way of bringing joy, companionship, and love to their owners' lives. It's incredible that you've had the pleasure of experiencing their wonderful presence for such a long time. Their loyalty and playful nature make them cherished family members for many people. If you have any more stories or questions about Beagles or anything else, feel free to share. I'm here to listen and assist you!| 
 | *"Thank you. Goodbye."* |
 |You're welcome! If you have any more questions in the future, don't hesitate to ask. Goodbye and have a great day!|
