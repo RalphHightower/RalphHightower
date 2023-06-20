@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.12](https://github.com/RalphHightower/RalphHightower/compare/v1.17.11...v1.17.12) (2023-06-20)
+
+
+### Bug Fixes
+
+* Beagles Haiku ([cb74fef](https://github.com/RalphHightower/RalphHightower/commit/cb74fef2bc5514e21d4fe12e8f21c3e7ad3d0399))
+
 ## [1.17.11](https://github.com/RalphHightower/RalphHightower/compare/v1.17.10...v1.17.11) (2023-06-20)
 
 
