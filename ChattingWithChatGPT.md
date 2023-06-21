@@ -713,6 +713,24 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
 
+### Doctor Who Haiku 
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|----|
+| *"Greetings, Assistant."* |
+|Hello! How can I assist you today?"* |
+| *"Could you create five Haiku verses about Doctor Who, one includes Amy Pond and another includes Donna Noble."* |
+|No problem! Here are five Haiku verses about Doctor Who, including one with Amy Pond and another with Donna Noble: |
+|Time Lord's ancient craft,<br>TARDIS whirs through time and space,<br>Doctor's loyal ship.|
+|Daleks' chilling cry,<br>Exterminate! They proclaim,<br>Doctor fights for all.|
+|Amy Pond, fierce friend,<br>Brave and bold, by Doctor's side,<br>Adventures unfold.|
+|Donna's noble heart,<br>A companion's selfless love,<br>Time's tragic erasure.|
+|Regeneration,<br>Doctor's essence ever thrives,<br>Hope in change's form.|
+|I hope you enjoy these Haiku verses! Let me know if there's anything else I can assist you with.|
+| *"Thank you. You've got it! Very good."* |
+|You're welcome! I'm glad you liked the Haiku verses. If you have any more questions or need further assistance, feel free to ask. Enjoy your day!|
+| *"Thank you. Goodbye."* |
+
 <hr>
 
 ## Dogs
