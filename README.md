@@ -242,21 +242,21 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
+| [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) |   |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
-| [Sipeed](https://github.com/sipeed ) | Sipeed AIoT opensource hardware platform |
+| [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
-| [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
+| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 
-[^31]: Internet Of Things (Just in case you weren't aware of this TLA[^32]
-[^32]: Three Letter Acronym[^33]
-[^33]: Software developers and engineers are fond of acronyms. 
+[^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
+[^92]: Three Letter Acronym[^93]
+[^93]: Software developers and engineers are fond of acronyms. 
 
 | [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
 |-----|-----|
