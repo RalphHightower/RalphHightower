@@ -201,6 +201,7 @@
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 | [crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
+| [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
 |[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
@@ -429,6 +430,7 @@
 | [iW-RainboW-G55M is an OSM-LF compliant module based on TI AM62A Cortex-A53 processor - CNX Software](https://www.cnx-software.com/2023/05/25/iw-rainbow-g55m-is-an-osm-lf-compliant-module-based-on-ti-am62a-cortex-a53-processor/ ) |
 |[Wavelet Lab's uSDR Is a Tiny Software-Defined Radio with Easily-Accessible Browser-Based Software - Hackster.io](https://www.hackster.io/news/wavelet-lab-s-usdr-is-a-tiny-software-defined-radio-with-easily-accessible-browser-based-software-acf3bd40eee0 )|
 | [uSDR - A tiny M.2 SDR board controllable from your web browser (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/06/16/usdr-an-m-2-sdr-board-controllable-from-your-web-browser/ ) |
+| [Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
