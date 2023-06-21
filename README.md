@@ -198,6 +198,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | Companies on GitHub | Description |
 |---------------------|-------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
+| [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) |  AI4Finance Foundation — An open-source community sharing AI tools for finance.|
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 |[Amazon Web Services](https://github.com/aws )| |
 |[Amazon Web Services - Labs](https://github.com/awslabs )| |
@@ -249,7 +250,8 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [SolidRun](https://github.com/SolidRun) | IoT & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
-| [TensorFlow](https://github.com/tensorflow) |
+| [TensorFlow](https://github.com/tensorflow) | TuringPi |
+| [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 
 [^31]: Internet Of Things (Just in case you weren't aware of this TLA[^32]
