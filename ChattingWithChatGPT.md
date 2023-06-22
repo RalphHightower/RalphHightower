@@ -43,7 +43,7 @@
 | *"Thank you. That's all."* |
 |You're welcome! If you need anything else, don't hesitate to reach out. Have a great day!|
 
-### [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) Haiku 
+### [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) Haiku Created by [ChatGPT](https://chat.openai.com/)
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
@@ -233,7 +233,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don'thesitate to reach out if you have any other questions in the future.|
 
-#### DEC VAX 11/780 Haiku
+#### DEC VAX 11/780 Haiku Created by [ChatGPT](https://chat.openai.com/)
 
 | DEC VAX Haiku |
 |---|
@@ -251,6 +251,25 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |You're welcome! I'm glad you liked them. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
 | *"That's it for today. Bye."* |
 |Alright! If you have any more questions in the future, feel free to ask. Goodbye, and have a great day!|
+
+#### DEC PDP-11/70 Haiku Created bt [ChatGPT](https://chat.openai.com/)
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|---|
+| *"Good afternoon Assistant."* |
+|Good afternoon! How can I assist you today?|
+|Could you produce five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70? Be sure to include the mesmerizing console lights and paddle switches in two separate Haiku, or both could be included about the front control panel."* |
+|Sure! Here are five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70:|
+|PDP-11 hums,<br>Console lights dance in the dark,<br>Legacy echoes.|
+|Paddle switches gleam,<br>Whispers of ancient power,<br>Control at my fingertips.|
+|Front panel aglow,<br>Silent symphony of lights,<br>Bits weave their story.|
+|PDP-11's heart,<br>Console, a portal to code,<br>Guiding digital dreams.|
+|In the darkness shines,<br>Paddle switches, magic keys,<br>Unlocking the past.|
+|I hope you find these Haiku verses about the PDP-11/70 captivating!|
+| *"Very good. It brings nostalgia back to memory. Thank you."* |
+|You're welcome! I'm glad the Haiku verses brought back nostalgic memories for you. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
+| *"Goodbye."* |
+|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
 
 #### Linux
 
@@ -419,7 +438,7 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Thank you. You've been very helpful."* |
 | You're welcome! I'm glad I could help. If you have any more questions, feel free to ask! |
 
-### NASA Space Shuttle Computers
+### NASA Space Shuttle
 
 | *"Ralph Hightower"* / [ChatGPT](https://openai.com) |
 |----|
@@ -449,6 +468,25 @@ I thought that I would do something different to announce our forty-fifth weddin
 |As for the colors of the "green card" reference card for the System/370 and its successors, I believe that the card remained green in color for the entire duration of the System/370 architecture. However, IBM did produce updated versions of the reference card over time, and these may have had slightly different colors or designs. For example, I believe that the System/390 reference card, which was introduced in the 1990s, had a similar design to the System/370 card but was printed in black and white instead of color. However, the green card reference card remains a well-known and enduring symbol of the System/370 architecture and its impact on the computing industry.|
 | *Thank you.  That's all I have for tonight.* |
 |You're welcome! Feel free to ask me any other questions in the future. Have a good night!|
+
+### Space Shuttle Haiku Created by [ChatGPT](https://chat.openai.com/)
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|---|
+| *"Good afternoon, Assistant."* |
+|Good afternoon! How can I assist you today?|
+| *"Your haiku creations have been excellent. Could you create five Haiku verses about NASA's Space Shuttle?"* |
+|Of course! Here are five Haiku verses about NASA's Space Shuttle:|
+|Wings soar through the sky,<br>Space Shuttle defies the Earth,<br>Dreams reaching the stars.|
+|Rocket's fiery breath,<br>Challenger, Columbia's grace,<br>Lost, but not in vain.|
+|Orbiting in space,<br>Discovery unveils realms,<br>Science's triumph.|
+|Atlantis takes flight,<br>A legacy of knowledge,<br>Exploring unknowns.|
+|Endeavour's mission,<br>Exploring celestial depths,<br>Inspiring wonder.|
+I hope you enjoy these Haiku verses dedicated to NASA's Space Shuttle!|
+| *"The tribute to Challenger and Columbia were poignant and a fitting tribute. Finely crafted Haiku. Thank you."* |
+|You're very welcome! I'm glad you found the Haiku verses meaningful and fitting as a tribute to Challenger and Columbia. The Space Shuttle program holds a significant place in the history of space exploration, and it's important to honor the lives and legacies of those who were part of it. If you have any more requests or if there's anything else I can assist you with, please feel free to let me know!|
+| *"Goodbye."* |
+|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
 
 ### Analysis of John F. Kennedy's Address to Rice University 
 
@@ -599,6 +637,25 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 | *"Thank you. You've been very helpful."*|
 | You're welcome! I'm glad that I could help. If you have any other questions, please don't hesitate to ask. |
 
+#### Dune Haiku Created by [ChatGPT](https://chat.openai.com/)
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|---|
+| *"Good afternoon, Assistant."* |
+|Good afternoon! How can I assist you today?|
+| *"Can you create five Haiku verses about the Dune series by Frank Herbert?"* |
+|Certainly! Here are five Haiku verses inspired by the Dune series by Frank Herbert:|
+|Arrakis whispers,<br>Sand embraces prophecy,<br>Muad'Dib ascends.|
+|Spice flows through the veins,<br>Navigators bend space-time,<br>Kwisatz Haderach.|
+|Bene Gesserit,<br>Sisterhood weaves the power,<br>Mind and body one.|
+|Sardaukar's might,<br>Empire crumbles in sand,<br>Fremen's hope takes root.|
+|Melange's allure,<br>Control the spice, control all,<br>Dune's destiny calls.|
+|I hope you find these Haiku verses captivating! If you have any more requests or if there's anything else I can assist you with, please let me know.|
+| *"Yes, you've captured the spirit of Dune. Thank you."* |
+|You're welcome! I'm delighted to hear that the Haiku verses captured the essence of Dune for you. If you have any more questions or need assistance in the future, feel free to ask. Enjoy your journey through the world of Dune!|
+| *"Goodbye."* |
+|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a wonderful day!|
+
 #### Hitchhiker's Guide to the Galaxy by Douglas Adams 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
@@ -622,7 +679,6 @@ There are several things that people commonly carry with them, such as a phone, 
 |Adams' humorous take on the humble towel has since become a pop culture phenomenon, and many fans of the book carry towels with them in tribute to the author and the book.|
 | *"Thank you."* |
 |You're welcome! If you have any other questions, feel free to ask!|
-
 
 <hr>
 
