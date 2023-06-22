@@ -6,35 +6,35 @@
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
-| *"What do you think of Chevrolet's new mid-engine Corvette?"*|
+| *"What do you think of Chevrolet's new mid-engine Corvette?"* |
 | As a language model, I do not have personal opinions or feelings. I exist to provide information and answer questions to the best of my ability based on the data and knowledge that I have been trained on. I do not have the ability to experience personal preferences or to form opinions about things like automobiles. However, I can tell you that the Chevrolet Corvette is a well-known sports car that has been in production since 1953. It has a long and storied history and has undergone many changes and updates over the years. The latest version of the Corvette, which features a mid-engine design, has received a lot of attention and has been well-received by many automotive enthusiasts. It is considered to be a high-performance sports car with impressive acceleration and handling capabilities. |
-| *"Tell me more about the new Corvette."*|
+| *"Tell me more about the new Corvette."* |
 | The latest version of the Chevrolet Corvette, which was introduced in 2020, is a mid-engine sports car that is designed to deliver impressive performance and handling capabilities. It is powered by a 6.2-liter V8 engine that produces 495 horsepower and 470 pound-feet of torque, and it is available with either a 7-speed manual transmission or an 8-speed automatic transmission. The new Corvette also features a number of advanced technologies and features, including a high-tech cockpit with a fully digital instrument cluster, a reconfigurable driver information center, and a range of connectivity and infotainment features. It also has a spacious and comfortable interior with room for up to two passengers and luggage. The new Corvette has received positive reviews from many automotive critics and is considered to be a formidable competitor in the high-performance sports car market. |
-| *"What accolades has it received?"*|
+| *"What accolades has it received?"* |
 | The latest version of the Chevrolet Corvette, which was introduced in 2020, has received a number of accolades and awards since its release. Some of the most notable ones include:|
 |• MotorTrend Car of the Year: The new Corvette was named the MotorTrend Car of the Year for 2020, beating out a number of other highly-regarded vehicles to earn this prestigious honor.|
 |• Car and Driver 10Best: The new Corvette was named to the Car and Driver 10Best list for 2020, which recognizes the top 10 cars of the year based on performance, value, and overall excellence.|
 |• Automobile All-Star: The new Corvette was named an Automobile All-Star for 2020, which is an annual award that recognizes the top new vehicles of the year based on performance, design, and overall value.|
 |• Roadshow's Best Car to Buy: The new Corvette was named the Roadshow's Best Car to Buy for 2020, which is an annual award that recognizes the top new vehicles of the year based on a variety of criteria, including performance, value, and overall excellence.|
 |These are just a few of the accolades that the new Corvette has received. It is considered to be a highly-regarded and highly-respected vehicle in the automotive industry. |
-| *"What does Edmunds think of it?"*|
+| *"What does Edmunds think of it?"* |
 | Edmunds is an online resource for automotive information and reviews, and they have published a review of the latest version of the Chevrolet Corvette. In their review, they praised the new Corvette for its impressive performance and handling capabilities, as well as its advanced technology and features. They noted that the new mid-engine design provides improved balance and stability on the road, and that the powerful V8 engine delivers strong acceleration and passing power. They also praised the new Corvette's interior, which they said is well-crafted and features high-quality materials. Overall, Edmunds gave the new Corvette a positive review and called it a *"truly impressive sports car"* that delivers *"world-class performance and handling"* at an affordable price. |
-| *"Hi ChatGPT. Can we resume our discussion about Chevrolet's mid-engine Corvette?"*|
+| *"Hi ChatGPT. Can we resume our discussion about Chevrolet's mid-engine Corvette?"* |
 | Hello! I'm Assistant, not ChatGPT. I'm happy to help with any questions you have about the mid-engine Chevrolet Corvette. What would you like to know? |
-| *"Very well. You were incorrect about Chevrolet offering a manual transmission. Chevrolet executives stated that the majority of Corvette orders were for the automatic transmission and that it didn't make sense to offer a manual to such a small niche of buyers."*|
+| *"Very well. You were incorrect about Chevrolet offering a manual transmission. Chevrolet executives stated that the majority of Corvette orders were for the automatic transmission and that it didn't make sense to offer a manual to such a small niche of buyers."* |
 | Thank you for letting me know. I apologize for the mistake in my previous message. It's important to keep in mind that the information available to me is limited to my training data, and I may not always have the most up-to-date information.|
 |Can I help with anything else? Do you have any other questions about the mid-engine Chevrolet Corvette? |
 | *"That is all I have for today. Thank you."* |
 | You're welcome! I'm glad I could help. If you have any other questions in the future, don't hesitate to reach out. Have a great day! |
-| *"Let's resume our conversation about Chevrolet's Corvette."*|
+| *"Let's resume our conversation about Chevrolet's Corvette."* |
 |Sure, I'd be happy to continue our conversation about the mid-engine Chevrolet Corvette. What specific aspect of the car would you like to know more about? |
-| *"One design feature of the V-8 is that it has a flat plane crankshaft. How is that different from other crankshaft designs?"*|
+| *"One design feature of the V-8 is that it has a flat plane crankshaft. How is that different from other crankshaft designs?"* |
 | The crankshaft is a fundamental component of an internal combustion engine, and its design can have a significant impact on the engine's performance characteristics.|
 |In a traditional "cross-plane" crankshaft, the connecting rods are attached to the crankshaft at 90-degree intervals. This design allows for good balance and smooth operation, but it also results in a less efficient combustion process and a less sporty engine note.|
 |A "flat-plane" crankshaft, on the other hand, has the connecting rods attached to the crankshaft at 180-degree intervals. This design allows for better breathing and a more efficient combustion process, resulting in increased power and a sportier engine note. However, it also makes the engine less smooth and more prone to vibrations.|
 |Due to its design feature, the flat-plane crankshaft allows for a high-revving engine that provides a more sporty feel and sound. This is why it is commonly used in high-performance engines, such as the V-8 used in the mid-engine Chevrolet Corvette.|
 |It should be noted that this design is not limited to V-8 engine and can be found in other engines as well, such as V-10 and even some V-12 engines. |
-| *"Thank you. You cleared up a question that I had about that."*|
+| *"Thank you. You cleared up a question that I had about that."* |
 | You're welcome! I'm glad I could help clarify that for you. The Chevrolet Corvette's flat-plane crankshaft V-8 engine is a unique and interesting feature of the car, and it plays a big role in the car's performance. If you have any other questions, feel free to ask. |
 | *"Pop quiz. What transmissions does Chevrolet offer in their Corvette?"* |
 |As of my knowledge cut off in 2021, Chevrolet offers an 8-speed dual-clutch automatic transmission in their new mid-engine Corvette (C8). Manual transmissions are not available.|
@@ -79,7 +79,7 @@
 | 3. Fiat 500 - The Fiat 500 has been in production since 2007 and features a retro-inspired design that pays homage to the original Fiat 500 produced in the 1950s and 1960s.|
 | 4. Ford Mustang - The Mustang has been in continuous production since 1964 and has gone through several design iterations over the years, but it has always maintained a certain retro flair.|
 |These retro-styled vehicles have proven to be popular among consumers who appreciate their nostalgic designs and unique aesthetics. However, it's worth noting that the trend towards retro styling seems to have slowed down in recent years, and many automakers are now focusing on more futuristic and modern designs.|
-|I wouldn't say that the current Mustang looks like the 1964/1965 styling.|
+| *"I wouldn't say that the current Mustang looks like the 1964/1965 styling."* |
 |You are correct. While the Ford Mustang has maintained certain design elements that pay homage to the original 1964 model, such as the long hood and short rear deck, the current Mustang's styling has evolved considerably from the original. The current Mustang features a more aggressive, modern design with sleek lines and a more aerodynamic shape. It is a good example of how retro styling can be updated and modernized while still retaining some of the original design cues.|
 | *"I think that you would agree that the Beetle, 500, and Mini Cooper don't have the cargo capacity of the HHR with the rear seats down."* |
 |Yes, that is correct. The Chevrolet HHR was a versatile vehicle that offered a large amount of cargo space with the rear seats folded down, which made it popular among customers who needed a vehicle that could carry a lot of cargo. While the Volkswagen Beetle, Fiat 500, and Mini Cooper are all compact cars that offer some cargo space, they do not have the same level of cargo capacity as the HHR. However, these vehicles do offer other advantages such as fuel efficiency and maneuverability, which make them attractive to consumers who prioritize those features over cargo space.|
@@ -258,7 +258,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |---|
 | *"Good afternoon Assistant."* |
 |Good afternoon! How can I assist you today?|
-|Could you produce five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70? Be sure to include the mesmerizing console lights and paddle switches in two separate Haiku, or both could be included about the front control panel."* |
+| *"Could you produce five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70? Be sure to include the mesmerizing console lights and paddle switches in two separate Haiku, or both could be included about the front control panel."* |
 |Sure! Here are five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70:|
 |PDP-11 hums,<br>Console lights dance in the dark,<br>Legacy echoes.|
 |Paddle switches gleam,<br>Whispers of ancient power,<br>Control at my fingertips.|
@@ -275,7 +275,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
-| *I  have a Raspberry Pi4 8 GB RAM, with two 1 GB SSD drives. Do you have any recommendations for Linux file system to use, and disk partitioning?* | 
+| *"I  have a Raspberry Pi4 8 GB RAM, with two 1 GB SSD drives. Do you have any recommendations for Linux file system to use, and disk partitioning?"* | 
 |For your Raspberry Pi4 with 8 GB of RAM and two 1 GB SSD drives, you have several options for the file system and disk partitioning, depending on your specific use case and requirements.|
 |For the file system, here are some popular options:|
 |Ext4: This is the most commonly used Linux file system and is known for its stability and reliability.|
@@ -283,7 +283,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |NTFS: This is a Windows file system that can be read and written to by Linux. It's not as efficient as Ext4 or Btrfs, but it may be useful if you need to share data between Windows and Linux.|
 |For disk partitioning, you can use the standard MBR (Master Boot Record) or GPT (GUID Partition Table) scheme. If your two 1 GB SSD drives are meant to be used for storage only, you can simply partition them as two separate drives and use either Ext4 or Btrfs on each one. If you want to use one of the drives as a boot drive, you'll need to partition it in a specific way to allow for booting the operating system.
 |It's also a good idea to make a backup of your data before performing any disk partitioning or file system changes, as these operations can result in data loss if not done correctly.|
-| *I was thinking about putting /home, /var, and /user on separate partitions.* |
+| *"I was thinking about putting /home, /var, and /user on separate partitions."* |
 |Putting different directories like /home, /var, and /user on separate partitions can be a good idea for several reasons:|
 |Isolation of data: By having different directories on separate partitions, you can isolate the data and reduce the risk of data loss in case of a system failure. For example, if something goes wrong with the system files in the /var partition, it won't affect your user data stored in the /home partition.|
 |Improved performance: Having separate partitions for different directories can also improve performance by allowing you to optimize the file system for each directory's specific needs. For example, you can set a larger block size for the /var partition if it requires high write performance.|
@@ -295,7 +295,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |/home partition (the remaining space on the first drive) - This partition will be used to store the user data, such as documents and music.|
 |Second drive (the entire second drive) - This drive can be used to store additional data, such as backups or media files.|
 |Note that these are just general guidelines, and the actual size of the partitions may vary based on your specific needs and usage patterns.|
-|*I am thinking about setting them up as servers.*|
+|*"I am thinking about setting them up as servers."*|
 If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to allocate separate partitions for different server components, such as /home, /var, and /usr. Here's a sample partitioning scheme that you can consider:|
 |Boot partition (around 100 MB) - This partition will be used to store the boot loader and the kernel.|
 |/ partition (around 2 GB) - This partition will be used to store the root file system, including the system files and libraries.|
@@ -305,9 +305,9 @@ If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to
 |Second drive (the entire second drive) - This drive can be used to store additional data, such as backups or media files.|
 |It's worth noting that these are just general guidelines and the actual size of the partitions may vary based on the specific server components you plan to run, and the amount of data you expect to store.|
 |Additionally, it's recommended to use a file system that's optimized for server workloads, such as Ext4, XFS, or Btrfs, as these file systems are known for their stability and reliability.|
-|*Exactly! Thank you.*|
+|*"Exactly! Thank you."*|
 |You're welcome! I'm glad I could help. If you have any more questions or need further clarification, feel free to ask. Good luck with setting up your servers!|
-|*That's all. Bye.*|
+|*"That's all. Bye."*|
 |Goodbye! Have a great day.|
 
 ### Q&A Session about Cellular Technology 
@@ -407,7 +407,7 @@ I thought that I would do something different to announce our forty-fifth weddin
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
-|Let's talk about NASA's Voyager spacecraft craft.|
+|*"Let's talk about NASA's Voyager spacecraft craft."*|
 |Sure! The Voyager spacecraft are two robotic space probes launched by NASA in 1977, with the mission to study the outer Solar System and beyond. The Voyager 1 and 2 spacecraft have sent back data from Jupiter, Saturn, Uranus, Neptune, and their moons, as well as from the interstellar space beyond our Solar System. These probes carry a "Golden Record" that contains a message from humanity, along with music and sounds from Earth, for any extraterrestrial civilization that may find the probes in the future. The Voyager missions continue to this day, with both spacecraft still sending back data and operating more than 40 years after their launch.|
 | *"What discoveries have been found?"* |
 |The Voyager missions have made a number of significant scientific discoveries, including:|
@@ -449,7 +449,7 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Is the AP-101 architecture based on any commercial computers?"* |
 |The IBM AP-101 computer architecture used in the Space Shuttle's General Purpose Computers (GPCs) was based on the IBM System/370 architecture, which was a popular and widely used computer architecture in the 1970s and 1980s. The System/370 architecture was used in many commercial IBM mainframe computers, as well as in some scientific and engineering computers. The IBM System/370 architecture was known for its reliability, compatibility, and scalability, which made it well-suited for use in a mission-critical system like the Space Shuttle's flight computer. The IBM AP-101 computer was specifically designed for use in aerospace applications and was modified from the original System/370 architecture to meet the demanding requirements of the Space Shuttle program.|
 | *"We're there any differences in the instruction set between the AP-101 and 370?"* |
-|Yes, there were some differences in the instruction set between the IBM AP-101 computer used in the Space Shuttle and the IBM System/370 architecture upon which it was based. The AP-101 used a modified version of the System/370 instruction set, with additional instructions to support real-time processing, interrupt handling, and other requirements specific to aerospace applications. The modifications to the instruction set were made to meet the needs of the Space Shuttle program and to ensure that the flight computer could perform its critical functions reliably and in real time. The changes to the instruction set were relatively minor, however, and the overall architecture of the AP-101 was still largely compatible with the System/370 architecture. This allowed NASA to leverage existing expertise and software tools developed for the System/370, while still meeting the specific requirements of the Space Shuttle program."* |
+|Yes, there were some differences in the instruction set between the IBM AP-101 computer used in the Space Shuttle and the IBM System/370 architecture upon which it was based. The AP-101 used a modified version of the System/370 instruction set, with additional instructions to support real-time processing, interrupt handling, and other requirements specific to aerospace applications. The modifications to the instruction set were made to meet the needs of the Space Shuttle program and to ensure that the flight computer could perform its critical functions reliably and in real time. The changes to the instruction set were relatively minor, however, and the overall architecture of the AP-101 was still largely compatible with the System/370 architecture. This allowed NASA to leverage existing expertise and software tools developed for the System/370, while still meeting the specific requirements of the Space Shuttle program |
 | *"Where can I find information about programming the AP-101"* |
 |Information about programming the IBM AP-101 computer used in the Space Shuttle can be difficult to find, as the computer was used exclusively for this program and was not commercially available. However, you may be able to find some information about the AP-101 and its programming in academic journals, conference proceedings, and historical documents related to the Space Shuttle program. You may also be able to find information about the IBM System/370 architecture, upon which the AP-101 was based, in textbooks, online resources, and other materials related to the history of computing.|
 |One place to start your research might be the NASA Technical Reports Server (NTRS), which is an online database of NASA-sponsored research and engineering reports. You can search the NTRS database for information about the Space Shuttle program and the AP-101 computer. You can also try searching online databases such as the IEEE Xplore Digital Library, the ACM Digital Library, or the arXiv preprint repository for articles and papers that may mention the AP-101 or the Space Shuttle program.|
@@ -461,12 +461,12 @@ I thought that I would do something different to announce our forty-fifth weddin
 |You're welcome! If you have any more questions, feel free to ask.|
 | *"That's all. Bye."* |
 |Goodbye! Have a great day.|
-| *Let's continue our discussion of the IBM mainframe.* |
+| *"Let's continue our discussion of the IBM mainframe.* |
 |Sure, I'd be happy to continue our discussion of the IBM mainframe. What would you like to know?|
-| *I have two questions. What color is the current "green card"? What colors were the "green card" past the 370 to your current knowledge base?* |
+| *I have two questions. What color is the current "green card"? What colors were the "green card" past the 370 to your current knowledge base?"* |
 |The current IBM System z mainframe architecture reference card is not green in color, but instead, it is blue. The System z architecture reference card provides a summary of the instruction set, system services, and other key information needed to program for the IBM System z mainframe.|
 |As for the colors of the "green card" reference card for the System/370 and its successors, I believe that the card remained green in color for the entire duration of the System/370 architecture. However, IBM did produce updated versions of the reference card over time, and these may have had slightly different colors or designs. For example, I believe that the System/390 reference card, which was introduced in the 1990s, had a similar design to the System/370 card but was printed in black and white instead of color. However, the green card reference card remains a well-known and enduring symbol of the System/370 architecture and its impact on the computing industry.|
-| *Thank you.  That's all I have for tonight.* |
+| *"Thank you.  That's all I have for tonight."* |
 |You're welcome! Feel free to ask me any other questions in the future. Have a good night!|
 
 ### Space Shuttle Haiku Created by [ChatGPT](https://chat.openai.com/)
@@ -613,7 +613,7 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |Technology: The technology on Discovery Two is more advanced than that of Discovery One. This includes improved propulsion systems, advanced communication and data processing systems, and better shielding and protection against the harsh conditions of deep space.|
 |Mission Profile: The mission profile of Discovery Two is much more focused and tightly defined, with specific objectives and a clear plan for investigating the monolith and its effects.|
 |Overall, the differences between Discovery One and Discovery Two reflect the advancement in technology and the progress of the space program in the years between the two missions. The improved technology and capabilities of Discovery Two play a key role in the events of the story and add to the excitement and suspense of the novel.|
-| *"Thank you. "* |
+| *"Thank you."* |
 |You're welcome! If you have any other questions, feel free to ask.|
 
 #### Dune by Frank Herbert 
@@ -703,7 +703,7 @@ There are several things that people commonly carry with them, such as a phone, 
 
 ## Science Fiction 
 
-### A Q&A session about Star Trek
+### Star Trek
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
@@ -788,12 +788,12 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
 
-### Doctor Who Haiku 
+### Doctor Who Haiku Created by [ChatGPT](https://chat.openai.com/)
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |----|
 | *"Greetings, Assistant."* |
-|Hello! How can I assist you today?"* |
+|Hello! How can I assist you today?"|
 | *"Could you create five Haiku verses about Doctor Who, one includes Amy Pond and another includes Donna Noble."* |
 |No problem! Here are five Haiku verses about Doctor Who, including one with Amy Pond and another with Donna Noble: |
 |Time Lord's ancient craft,<br>TARDIS whirs through time and space,<br>Doctor's loyal ship.|
@@ -810,7 +810,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 
 ## Dogs
 
-### Beagle Haiku
+### Beagle Haiku Created by [ChatGPT](https://chat.openai.com/)
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
