@@ -59,6 +59,8 @@ minima:
 #header_pages:
 # - about.md
 
+mathjax: true
+
 # Build settings
 theme: minima
 
