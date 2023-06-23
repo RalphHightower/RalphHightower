@@ -49,13 +49,14 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 
 | Brand (Model) | Manual | Aquired |
 |---------------|--------|----|
-| Canon F-1N | | July 2013 |
-| Mamiya 645 | [Download]()[^11] | |
-| Mamiya RB67 | [Download]()[^11] | |
-| Mamiya RZ67 | [Download]()[^11] | |
+| Canon F-1N[^11] | | July 2013 |
+| Mamiya 645 | [Download]()[^12] | |
+| Mamiya RB67 | [Download]()[^12] | |
+| Mamiya RZ67 | [Download]()[^12] | |
 | Monorail 4×5 View Camera | | |
 
-[^11]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
+[^11]: July 2013, Paula and I were traveling back home from Charleston, South Carolina, when I mentioned that [KEH](https://www.keh.com/) has a Canon F-1N, with AE Motor Drive FN, and AE Finder FN for sale. She asked "Is that there flagship camera?" I answered "Yes, for the 80's." She said "Buy it."
+[^12]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 
 ### Discontinued Films
 
@@ -159,6 +160,8 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [Source Code](https://www.magiclantern.fm/downloads.html#source) |
 | [Downloads](https://www.magiclantern.fm/downloads.html) |
 
+<hr>
+
 # Photography Blogs 
 
 | Photography Blogs |
@@ -194,6 +197,8 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [IPTC Metadata](https://iptc.org/standards/photo-metadata/photo-metadata/) | 
 | [IPTC Developers](http://dev.iptc.org/) | 
 
+<hr>
+
 # Photography News/Tips
 
 | Photography News/Tips |
@@ -208,9 +213,39 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 |[The Joys of Large Format Landscape Photography / Fstoppers](https://fstoppers.com/film/joys-large-format-landscape-photography-632072 )[^41]|
 |[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
 | [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
-| [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&fea_**r**_ture=share ) |
+| [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
+
+<hr>
+
+# Calculation of Exposure Value (Exposure Triangle)
+
+I developed programs for the HP-67 and HP-41CV that used the exposure triangle. 
+
+The simple calculations that lead to a reading are based on the Wikipedia entry on [exposure value](https://en.wikipedia.org/wiki/Exposure_value).
+
+The [illuminance](https://en.wikipedia.org/wiki/Illuminance) returned by the Pimoroni BH1745 ( $L$ ) is converted to an exposure value ( $E_v$ ) for ISO 100 using
+
+$$E_v=\log _2  {{L} \over {C}},$$
+
+where $C$ is the light meter [calibration constant](https://en.wikipedia.org/wiki/Light_meter#Calibration_constants).
+
+This exposure value is then adjusted to an Exposure value for the chosen ISO ( $E_{ISO}$ ) using
+
+$$E_{ISO}=E_v + \log_2 {{ISO}\over{100}}.$$
+
+Then, depending on the priority on the light meter, the remaining value is calculated using
+
+$$t = {{N^2} \over {2^{E_{ISO}}}}$$  
+
+or
+
+$$N = \sqrt{t 2^{ E_{ISO}}}$$
+
+where $t$ is shutter speed and $N$ is f-stop. The value is then rounded to the nearest nominal value and displayed on the screen.
+
+<hr>
 
 # Preferred Photography Retailers 
 
@@ -251,4 +286,4 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
 | What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
 
-I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
+I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system[^31] with AE Motor Drive FN, AE Finder FN, with three metering screens, split-image/microprism, partial, and spot. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
