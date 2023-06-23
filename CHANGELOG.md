@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.14](https://github.com/RalphHightower/RalphHightower/compare/v1.17.13...v1.17.14) (2023-06-23)
+
+
+### Bug Fixes
+
+* standardize my ChatGPT prompts ([121c6ac](https://github.com/RalphHightower/RalphHightower/commit/121c6ac5ea285edf07f59ceb27522ce8b5f34e28))
+
 ## [1.17.13](https://github.com/RalphHightower/RalphHightower/compare/v1.17.12...v1.17.13) (2023-06-21)
 
 
