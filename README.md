@@ -542,6 +542,10 @@ South Carolina has a number of craft beer breweries. The heading links to a list
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
 | [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
 | [Weather Data @ Crossroads Fire Station](http://www.rcwinds.com/?tab=data&loc=Crossroads%20Fire%20Station) | Chapin, South Carolina, USA |
+|||
+|[USGS Current Conditions for USGS 02168500 LAKE MURRAY NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168500&format=gif&period=31 )| Lake Murray, South Carolina |
+|[USGS Current Conditions for USGS 02168501 LAKE MURRAY TAILRACE NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168501&format=gif&period=31 )| Lake Murray, South Carolina |
+|[Saluda River Below LK Murray Dam NR Columbia, SC - USGS Water Data for the Nation](https://waterdata.usgs.gov/monitoring-location/02168504/#parameterCode=00065&period=P7D )| Saluda River Below Lake Murray Dam, South Carolina |
 
 ## Dewar's Profile
 
