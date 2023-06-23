@@ -252,7 +252,7 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 | *"That's it for today. Bye."* |
 |Alright! If you have any more questions in the future, feel free to ask. Goodbye, and have a great day!|
 
-#### DEC PDP-11/70 Haiku Created bt [ChatGPT](https://chat.openai.com/)
+#### DEC PDP-11/70 Haiku Created by [ChatGPT](https://chat.openai.com/)
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
