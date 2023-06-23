@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.15](https://github.com/RalphHightower/RalphHightower/compare/v1.17.14...v1.17.15) (2023-06-23)
+
+
+### Bug Fixes
+
+* misspelling ([5fdab46](https://github.com/RalphHightower/RalphHightower/commit/5fdab46c012068a5a409042ba27f2fc1e374f0f3))
+
 ## [1.17.14](https://github.com/RalphHightower/RalphHightower/compare/v1.17.13...v1.17.14) (2023-06-23)
 
 
