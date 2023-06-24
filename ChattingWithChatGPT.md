@@ -1485,7 +1485,7 @@ It's the end of the world as we know it and I feel fine (time I had some time al
 
 ### Turn, Turn, Turn by The Byrds[^31]
 
-| Turn, Turn  Turn — The Byrds / **[ChatGPT]()** |
+| Turn, Turn  Turn — The Byrds / **[ChatGPT](https://chat.openai.com/chat)** |
 |----|
 |To everything turn, turn, turn|
 |There is a season turn, turn, turn|
