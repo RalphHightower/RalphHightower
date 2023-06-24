@@ -227,7 +227,7 @@ The simple calculations that lead to a reading are based on the Wikipedia entry 
 
 The [illuminance](https://en.wikipedia.org/wiki/Illuminance) is converted to an exposure value ( $E_v$ ) for ISO 100 using
 
-$$E_v=\log _2  {{L} \over {C}},$$
+$$E_v=\log _2  {{L}\over{C}},$$
 
 where $C$ is the light meter [calibration constant](https://en.wikipedia.org/wiki/Light_meter#Calibration_constants).
 
