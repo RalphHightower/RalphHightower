@@ -225,7 +225,7 @@ I developed programs for the HP-67 and HP-41CV that used the exposure triangle.
 
 The simple calculations that lead to a reading are based on the Wikipedia entry on [exposure value](https://en.wikipedia.org/wiki/Exposure_value).
 
-The [illuminance](https://en.wikipedia.org/wiki/Illuminance) returned by the Pimoroni BH1745 ( $L$ ) is converted to an exposure value ( $E_v$ ) for ISO 100 using
+The [illuminance](https://en.wikipedia.org/wiki/Illuminance) is converted to an exposure value ( $E_v$ ) for ISO 100 using
 
 $$E_v=\log _2  {{L} \over {C}},$$
 
@@ -243,7 +243,7 @@ or
 
 $$N = \sqrt{t 2^{ E_{ISO}}}$$
 
-where $t$ is shutter speed and $N$ is f-stop. The value is then rounded to the nearest nominal value and displayed on the screen.
+where $t$ is shutter speed and $N$ is f-stop.
 
 <hr>
 
