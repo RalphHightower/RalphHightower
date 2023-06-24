@@ -70,7 +70,7 @@ I also have different categories of bucket lists.
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
-   - [Uluru-Kata Tjuta National Park *(Ayers Rock)*](https://parksaustralia.gov.au/uluru/ )
+   - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
 2.	Cars
    - Corvette (mid-engine)
    - El Camino (65-67)[^82]
