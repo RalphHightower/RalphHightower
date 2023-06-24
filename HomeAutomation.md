@@ -4,25 +4,37 @@ I have not decided on which home automation system that I want to deploy, but my
 
 ## Home Assistance
 
-### Article:
+### GitHub
+
+| GitHub |
+|---|
+| [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
+
+### Articles
 
 | [Home Assistant](https://www.home-assistant.io/ )|
 |----|
 |[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )|
 
-### Vendors:
+### Vendors
 
 | Vendors |
 |---|
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) |
 
-Articles:
+### Articles
 
-## ESPHome
+## [ESPHome — ESPHome](https://esphome.io/index.html ) 
 
-| [ESPHome — ESPHome](https://esphome.io/index.html ) |
-|----|
-||
+### GitHub 
+
+| GitHub |
+|---|
+| [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
+
+#### Vendors 
+
+#### Articles
 
 ## Interfaces — Home Automation
 
