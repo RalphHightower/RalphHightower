@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.16](https://github.com/RalphHightower/RalphHightower/compare/v1.17.15...v1.17.16) (2023-06-24)
+
+
+### Bug Fixes
+
+* remove exposure triangle ([697a5d6](https://github.com/RalphHightower/RalphHightower/commit/697a5d6e203415baf119c1ce0b86c9b6f7e771e0))
+
 ## [1.17.15](https://github.com/RalphHightower/RalphHightower/compare/v1.17.14...v1.17.15) (2023-06-23)
 
 
