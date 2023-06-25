@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.17](https://github.com/RalphHightower/RalphHightower/compare/v1.17.16...v1.17.17) (2023-06-25)
+
+
+### Bug Fixes
+
+* delete *, and close unbalanced italics ([5749f5b](https://github.com/RalphHightower/RalphHightower/commit/5749f5bcef07ae56b95fa85bc6b88bd28a1a4335))
+
 ## [1.17.16](https://github.com/RalphHightower/RalphHightower/compare/v1.17.15...v1.17.16) (2023-06-24)
 
 
