@@ -1,4 +1,4 @@
-# Star Wars Movies
+# Movies — Star Wars
 
 | Film | U.S. Release Date | Trilogy |
 |------|-------------------|---------|
