@@ -174,7 +174,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Cheers to you, too! Have a fantastic day ahead! If you ever need assistance in the future, don't hesitate to reach out. Take care!|
 
 [^21]: I have coveted the [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) since it was redesigned in 1968. To say that the current iteration of the eighth generation of the Corvette is the top car on my car bucket 🪣 list is an understatement. 
-[^22]: A mid-60's El Camino is on my car bucket 🪣 list. I drove a '66 from high school through college. After marriage to Paula, we have owned a few current year El Caminos, also including a used '65 *(since it had a manual transmission, Paula was unable to drive it.
+[^22]: A mid-60's El Camino is on my car bucket 🪣 list. I drove a '66 from high school through college. After marriage to Paula, we have owned a few current year El Caminos, also including a used '65 *(since it had a manual transmission, Paula was unable to drive it)*.
 [^23]: I loved the retro styling of the HHR, and it had enough cargo capacity (with the rear seats down) for us and our three Beagles. Unfortunately, I totalled my 2009 *(bought new)* in 2016, and Paula totalled the 2011 *(bought used in 2016)* in 2022.
 [^24]: I drove a '66 for a while in high school. 
 
@@ -442,7 +442,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | *"Good afternoon Assistant."* |
 |Good afternoon! How can I assist you today?|
 | *"Everyone knows who "The Boss" is. Right?"* |
-|"The Boss" is a term that can refer to different individuals depending on the context. It is often associated with influential figures in various fields, such as music, sports, or business. For example, Bruce Springsteen is commonly known as "The Boss" due to his nickname and his iconic status in music industry. However, without a specific context, it's difficult to determine exactly who you are referring to as "The Boss." Could you please provide more details or clarify your question?"* |
+|"The Boss" is a term that can refer to different individuals depending on the context. It is often associated with influential figures in various fields, such as music, sports, or business. For example, Bruce Springsteen is commonly known as "The Boss" due to his nickname and his iconic status in music industry. However, without a specific context, it's difficult to determine exactly who you are referring to as "The Boss." Could you please provide more details or clarify your question?" |
 | *"You nailed it with Springsteen. I would appreciate it if you would create five haikus about Springsteen, the E Street Band, and include the "Big Man", Clarence Clemons in one or two haikus."* |
 |Sure! Here are five haikus about Bruce Springsteen, the E Street Band, and the legendary saxophonist Clarence Clemons:|
 |Springsteen's heartfelt voice,<br>E Street Band's mighty groove,<br>Music's guiding light.|
