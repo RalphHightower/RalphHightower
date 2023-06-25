@@ -45,23 +45,6 @@
 
 ### [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) Haiku Created by [ChatGPT](https://chat.openai.com/)
 
-| *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
-|-------|
-| *Greetings Assistant.* |
-| Hello! How can I assist you today? |
-| *"Could you produce five Haiku verses about Chevrolet's new mid-engine Corvette?"* |
-|Sure! Here are five Haiku verses about Chevrolet's new mid-engine Corvette:|
-|Sleek curves, mid-engine,<br>Corvette roars with pure might,<br>Speed's symphony.|
-|Muscle and finesse,<br>Corvette's heart beats midship,<br>Track-ready beauty.|
-|Revving V8's soul,<br>Corvette's mid-engine dance,<br>Exhilarates.|
-|Corvette's legacy,<br>Mid-engine evolution,<br>Born to conquer roads.|
-|Roaring on the edge,<br>Corvette's mid-engine dream,<br>Unleashed horsepower.|
-|I hope you enjoy these Haiku verses about the Chevrolet mid-engine Corvette!|
-| *"Thank you. Those are impressive! Fantastic!"* |
-|You're very welcome! I'm glad you found the Haiku verses impressive. If you have any more questions or if there's anything else I can help you with, feel free to let me know. Enjoy your day!|
-| *"Thank you. You, too. Bye"* |
-|You're welcome! Have a wonderful day as well. Goodbye and take care!|
-
 ### Chevrolet HHR 
 
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
@@ -232,44 +215,6 @@ VAX also had a feature called "Virtual Memory" which allowed the system to treat
 |You're welcome! I'm glad I could help. It's always interesting to learn about the history of technology and how it has evolved over time. If you have any other questions regarding your VAXStation II/GPX or other vintage computers, feel free to ask.|
 |*"Thank you. Bye for now."*|
 |You're welcome, have a great day! Don'thesitate to reach out if you have any other questions in the future.|
-
-#### DEC VAX 11/780 Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| DEC VAX Haiku |
-|---|
-| *"Good morning Assistant"* |
-| Good morning! How can I assist you today? |
-| *"I enjoyed your haiku about the Chevy Corvette. Could you create five Haiku verses about the DEC VAX 11/780?"* |
-|Certainly! Here are five haiku verses about the DEC VAX 11/780:|
-|Elegant power,<br>VAX 11/780 stands tall,<br>Computing marvel.|
-|Whirring processors,<br>Silicon symphony unfolds,<br>Digital prowess.|
-|Memory's heartbeat,<br>Pulses through VAX's circuits,<br>Data's sanctuary.|
-|Commands whispered low,<br>VAX responds with lightning speed,<br>Technology's dance.|
-|Legacy echoes,<br>VAX 11/780's brilliance,<br>Timeless innovation.|
-|I hope you enjoy these haiku verses dedicated to the DEC VAX 11/780!|
-| *"Thank you. That's great!"* |
-|You're welcome! I'm glad you liked them. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
-| *"That's it for today. Bye."* |
-|Alright! If you have any more questions in the future, feel free to ask. Goodbye, and have a great day!|
-
-#### DEC PDP-11/70 Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|---|
-| *"Good afternoon Assistant."* |
-|Good afternoon! How can I assist you today?|
-| *"Could you produce five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70? Be sure to include the mesmerizing console lights and paddle switches in two separate Haiku, or both could be included about the front control panel."* |
-|Sure! Here are five Haiku verses about the Digital Equipment Corporation (DEC) PDP-11/70:|
-|PDP-11 hums,<br>Console lights dance in the dark,<br>Legacy echoes.|
-|Paddle switches gleam,<br>Whispers of ancient power,<br>Control at my fingertips.|
-|Front panel aglow,<br>Silent symphony of lights,<br>Bits weave their story.|
-|PDP-11's heart,<br>Console, a portal to code,<br>Guiding digital dreams.|
-|In the darkness shines,<br>Paddle switches, magic keys,<br>Unlocking the past.|
-|I hope you find these Haiku verses about the PDP-11/70 captivating!|
-| *"Very good. It brings nostalgia back to memory. Thank you."* |
-|You're welcome! I'm glad the Haiku verses brought back nostalgic memories for you. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
-| *"Goodbye."* |
-|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
 
 #### Linux
 
@@ -469,25 +414,6 @@ I thought that I would do something different to announce our forty-fifth weddin
 | *"Thank you.  That's all I have for tonight."* |
 |You're welcome! Feel free to ask me any other questions in the future. Have a good night!|
 
-### Space Shuttle Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|---|
-| *"Good afternoon, Assistant."* |
-|Good afternoon! How can I assist you today?|
-| *"Your haiku creations have been excellent. Could you create five Haiku verses about NASA's Space Shuttle?"* |
-|Of course! Here are five Haiku verses about NASA's Space Shuttle:|
-|Wings soar through the sky,<br>Space Shuttle defies the Earth,<br>Dreams reaching the stars.|
-|Rocket's fiery breath,<br>Challenger, Columbia's grace,<br>Lost, but not in vain.|
-|Orbiting in space,<br>Discovery unveils realms,<br>Science's triumph.|
-|Atlantis takes flight,<br>A legacy of knowledge,<br>Exploring unknowns.|
-|Endeavour's mission,<br>Exploring celestial depths,<br>Inspiring wonder.|
-I hope you enjoy these Haiku verses dedicated to NASA's Space Shuttle!|
-| *"The tribute to Challenger and Columbia were poignant and a fitting tribute. Finely crafted Haiku. Thank you."* |
-|You're very welcome! I'm glad you found the Haiku verses meaningful and fitting as a tribute to Challenger and Columbia. The Space Shuttle program holds a significant place in the history of space exploration, and it's important to honor the lives and legacies of those who were part of it. If you have any more requests or if there's anything else I can assist you with, please feel free to let me know!|
-| *"Goodbye."* |
-|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
-
 ### Analysis of John F. Kennedy's Address to Rice University 
 
 | John F. Kennedy / [ChatGPT](https://chat.openai.com/) |
@@ -553,25 +479,6 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 |Overall, Zen and the Art of Motorcycle Maintenance offers a unique and thought-provoking perspective on the nature of quality, values, and the human experience. It encourages readers to think critically about their own values and beliefs and to consider the role that quality plays in their lives. |
 | *"Thank you. You've been very helpful."* |
 | You're welcome! I'm glad that I could help. If you have any other questions, don't hesitate to ask. I'm here to help. |
-
-### Zen and the Art of Motorcycle Maintenance Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|---|
-| *"Greetings Assistant."* |
-|Hello! How can I assist you today?|
-| *"I have been enjoying your haiku. Could you create five Haiku verses about Zen and the Art of Motorcycle Maintenance by Robert Pirsig?"* |
-|Certainly! Here are five Haiku verses inspired by "Zen and the Art of Motorcycle Maintenance" by Robert Pirsig:|
-|Journey on two wheels,<br>Mind and machine in union,<br>Zen road unfolds wide.|
-|Maintenance's art,<br>Wrench turns, a symphony plays,<br>Balance found in screws.|
-|Thoughts, like gears, engage,<br>Philosophy of the road,<br>Meditation's ride.|
-|Pirsig's quest, profound,<br>Chasing quality's essence,<br>Wisdom's path revealed.|
-|Road's twists and turns speak,<br>Zen whispers through the engine,<br>Peace found in motion.|
-|I hope you find these Haiku verses enjoyable!|
-| *"Thank you. Excellent!"* |
-|You're welcome! I'm glad you liked them. If you have any more requests or if there's anything else I can assist you with, please feel free to let me know.|
-| *"Goodbye."* |
-|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
 
 ### Science Fiction 
 
@@ -655,25 +562,6 @@ We meet at a college noted for knowledge, in a city noted for progress, in a Sta
 | I'm sorry, but I am a language model and do not have the ability to watch movies. I also have a knowledge cutoff date of 2021, so I am not aware of any movies or other adaptations of Dune that have been released after that time. However, I can tell you that Dune has been adapted into various media over the years, including movies, television shows, video games, and other works of fiction. Some of these adaptations have been well-received, while others have received mixed reviews. It would be up to individual viewers to decide whether or not they enjoyed any particular adaptation of Dune. |
 | *"Thank you. You've been very helpful."*|
 | You're welcome! I'm glad that I could help. If you have any other questions, please don't hesitate to ask. |
-
-#### Dune Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|---|
-| *"Good afternoon, Assistant."* |
-|Good afternoon! How can I assist you today?|
-| *"Can you create five Haiku verses about the Dune series by Frank Herbert?"* |
-|Certainly! Here are five Haiku verses inspired by the Dune series by Frank Herbert:|
-|Arrakis whispers,<br>Sand embraces prophecy,<br>Muad'Dib ascends.|
-|Spice flows through the veins,<br>Navigators bend space-time,<br>Kwisatz Haderach.|
-|Bene Gesserit,<br>Sisterhood weaves the power,<br>Mind and body one.|
-|Sardaukar's might,<br>Empire crumbles in sand,<br>Fremen's hope takes root.|
-|Melange's allure,<br>Control the spice, control all,<br>Dune's destiny calls.|
-|I hope you find these Haiku verses captivating! If you have any more requests or if there's anything else I can assist you with, please let me know.|
-| *"Yes, you've captured the spirit of Dune. Thank you."* |
-|You're welcome! I'm delighted to hear that the Haiku verses captured the essence of Dune for you. If you have any more questions or need assistance in the future, feel free to ask. Enjoy your journey through the world of Dune!|
-| *"Goodbye."* |
-|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a wonderful day!|
 
 #### Hitchhiker's Guide to the Galaxy by Douglas Adams 
 
@@ -787,51 +675,6 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |I'm sorry, without more context I'm unable to determine who "Bo" is. Could you please provide more information or context?|
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
-
-### Doctor Who Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|----|
-| *"Greetings, Assistant."* |
-|Hello! How can I assist you today?"|
-| *"Could you create five Haiku verses about Doctor Who, one includes Amy Pond and another includes Donna Noble."* |
-|No problem! Here are five Haiku verses about Doctor Who, including one with Amy Pond and another with Donna Noble: |
-|Time Lord's ancient craft,<br>TARDIS whirs through time and space,<br>Doctor's loyal ship.|
-|Daleks' chilling cry,<br>Exterminate! They proclaim,<br>Doctor fights for all.|
-|Amy Pond, fierce friend,<br>Brave and bold, by Doctor's side,<br>Adventures unfold.|
-|Donna's noble heart,<br>A companion's selfless love,<br>Time's tragic erasure.|
-|Regeneration,<br>Doctor's essence ever thrives,<br>Hope in change's form.|
-|I hope you enjoy these Haiku verses! Let me know if there's anything else I can assist you with.|
-| *"Thank you. You've got it! Very good."* |
-|You're welcome! I'm glad you liked the Haiku verses. If you have any more questions or need further assistance, feel free to ask. Enjoy your day!|
-| *"Thank you. Goodbye."* |
-
-<hr>
-
-## Dogs
-
-### Beagle Haiku Created by [ChatGPT](https://chat.openai.com/)
-
-| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
-|---|
-| *"Good morning Assistant.  How are you doing today?"* |
-|Good morning! I'm an AI language model, so I don't have feelings, but I'm here and ready to assist you. How can I help you today?|
-| *"How familiar are you with the dog breed of Beagles?"* |
-|I'm quite familiar with the dog breed of Beagles. Beagles are a small to medium-sized breed known for their friendly and gentle nature. They are scent hounds and were originally bred for hunting purposes, particularly for tracking small game like rabbits. Beagles are known for their keen sense of smell, intelligence, and loyalty.<br><br>In terms of appearance, Beagles typically have a short coat that comes in a variety of colors, including tricolor (black, tan, and white), bicolor, and lemon. They have a muscular build, a slightly domed skull, and long, droopy ears that help enhance their sense of smell.<br><br>Beagles are known to be sociable and good with families and children. They are generally happy, curious, and outgoing dogs. However, they do have a strong prey drive and may chase small animals if not properly trained or supervised. Beagles are also known for their vocal nature and can be quite vocal when they want attention or are on the scent of something interesting.<br><br>If you have any specific questions about Beagles or need more information, feel free to ask!|
-| *"Could you create five Haiku verses about Beagles?"* |
-|Certainly! Here are five Haiku verses about Beagles:|
-|Nose to the damp earth,<br>Tracking scents through woods and fields,<br>Beagle's quest unfolds.|
-|Floppy ears perk up,<br>Melody of baying sounds,<br>Beagle's song of joy.|
-|Loyal, gentle friend,<br>Playful eyes with wagging tail,<br>Beagle's love runs deep.|
-|Curious sniffer,<br>Scent trails guide adventurous paws,<br>Beagle's quest for fun.|
-|Soulful eyes that gleam,<br>Beagle's heart full of mischief,<br>Pure love, forever.|
-|I hope you enjoy these Haiku verses about Beagles|
-| *"Thank you. I think that you captured the essence, personality, and spirit of Beagles."* |
-|You're welcome! I'm glad you feel that way. Beagles are wonderful dogs with unique personalities, and I'm glad I could capture their essence through the Haiku verses. If you have any more questions or need further assistance, feel free to ask.|
-| *"Yes, I agree. Beagles have provided joy and companionship to my wife and me since 1978."* |
-|That's truly wonderful to hear! Beagles have a special way of bringing joy, companionship, and love to their owners' lives. It's incredible that you've had the pleasure of experiencing their wonderful presence for such a long time. Their loyalty and playful nature make them cherished family members for many people. If you have any more stories or questions about Beagles or anything else, feel free to share. I'm here to listen and assist you!|
-| *"Thank you. Goodbye."* |
-|You're welcome! If you have any more questions in the future, don't hesitate to ask. Goodbye and have a great day!|
 
 <hr>
 
