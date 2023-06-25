@@ -1,3 +1,5 @@
+# Movies — Mission Impossible
+
 | Title	| Release date	| Plot |
 |---|---|---|
 | Mission: Impossible	| 1996-05-22 |Ethan Hunt is framed for the murder of his IMF team during a botched mission in Prague and accused of selling government secrets to an arms dealer known only as "Max". On the run, Ethan seeks to uncover the real traitor and clear his name.|
