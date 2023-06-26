@@ -184,17 +184,21 @@
 | [Seeed Studio reComputer J202 - carrier Board for Jetson Nano/Xavier NX/TX2 NX, with 4xUSB, M.2 Key M,E same size of NVIDIA® Jetson Xavier™ NX Dev Kit carrier board (Power adapter included)](https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html) | (H/W) $139 |
 | [Seeed Studio reComputer industrial J4012(Orin NX 16G) - Seeed Studio](https://www.seeedstudio.com/reComputer-Industrial-J4012-p-5684.html ) | (H/W) $1,199.00 16 GB |
 | [Seed Studio 24GHz mmWave Sensor - Human Static Presence Module Lite - human presence, FMCW, Configurable Underlying Parameter, Arduino support, Home Assistant, ESPHome](https://www.seeedstudio.com/24GHz-mmWave-Sensor-Human-Static-Presence-Module-Lite-p-5524.html) | (H/W) |
+| [Shinzin Ai-m62-12f Core Development Board, Wi-fi6 Ble5.3 Combo Module, Bl616 Low Power 32-bit Risc-v Cpu, Support Thread Protocol - Integrated Circuits - AliExpress](https://www.aliexpress.com/item/1005005438854506.html ) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
+| [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | | (H/W) |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
-| [Toradex System on Module](https://www.toradex.com/) | (H/W) |
+| [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
 | [timebeat](https://timebeat.app/ ) | (H/W) |
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
+| [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | | (H/W) |
+| [Toradex System on Module](https://www.toradex.com/) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
@@ -202,7 +206,7 @@
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 | [crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
-|[Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)|
+| [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)| — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
@@ -431,6 +435,19 @@
 |[Wavelet Lab's uSDR Is a Tiny Software-Defined Radio with Easily-Accessible Browser-Based Software - Hackster.io](https://www.hackster.io/news/wavelet-lab-s-usdr-is-a-tiny-software-defined-radio-with-easily-accessible-browser-based-software-acf3bd40eee0 )|
 | [uSDR - A tiny M.2 SDR board controllable from your web browser (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/06/16/usdr-an-m-2-sdr-board-controllable-from-your-web-browser/ ) |
 | [Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ ) |
+| [Ai-Thinker Launches Low-Cost Ai-M62-12F-Kit with Wi-Fi 6, BLE 5.3, and Thread on a RISC-V Core - Hackster.io](https://www.hackster.io/news/ai-thinker-launches-low-cost-ai-m62-12f-kit-with-wi-fi-6-ble-5-3-and-thread-on-a-risc-v-core-02b169e16802 ) |
+| [$5 Ai-M62-12F-Kit RISC-V development board features BL616 WiFi 6, BLE 5.2, and Zigbee MCU, plenty of I/Os - CNX Software](https://www.cnx-software.com/2023/06/19/5-ai-m62-12f-kit-risc-v-development-board-features-bl616-wifi-6-ble-5-2-and-zigbee-mcu-plenty-of-i-os/ ) |
+| [Qualcomm 212S and 9205S Satellite IoT modems target remote monitoring and asset tracking - CNX Software](https://www.cnx-software.com/2023/06/23/qualcomm-212s-and-9205s-satellite-iot-modems-target-remote-monitoring-and-asset-tracking/ ) |
+| [NOVELDA's latest UWB radar presence sensor consumes less than 100 µW - CNX Software](https://www.cnx-software.com/2023/06/22/novelda-latest-uwb-radar-presence-sensor-consumes-less-than-100-%C2%B5w/ ) |
+| [8K TV box board features Amlogic S928X Cortex-A76/A55 SoC - CNX Software](https://www.cnx-software.com/2023/06/22/8k-tv-box-board-amlogic-s928x-cortex-a76-a55-soc/ ) |
+| [Banana Pi BPI-R4 WiFi 7 router board is powered by a MediaTek Filogic 880 processor - CNX Software](https://www.cnx-software.com/2023/06/23/banana-pi-bpi-r4-wifi-7-router-board-mediatek-filogic-880-processor/ ) |
+| [Zvidar Z-GW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-gw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ ) |
+| [ESP32 WiFi Color Display Kit Grande is a soldering kit with a 3.5-inch touchscreen display - CNX Software](https://www.cnx-software.com/2023/06/16/esp32-wifi-color-display-kit-grande-is-a-soldering-kit-with-a-3-5-inch-touchscreen-display/ ) |
+| [A first look at i-Pi SMARC 1200 (Genio 1200) development kit - CNX Software](https://www.cnx-software.com/2023/06/09/a-first-look-at-i-pi-smarc-1200-genio-1200-development-kit/ ) |
+| [i-Pi SMARC 1200 (MediaTek Genio 1200) devkit tested with a Yocto Linux image - CNX Software](https://www.cnx-software.com/2023/06/17/i-pi-smarc-1200-a-mediatek-genio-1200-devkit-tested-with-a-yocto-linux-image/ ) |
+| [Ventbots Are Fans Of HVAC And Home Automation / Hackaday](https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/ ) |
+ | [Project Cottonwood SBC Promises Double Raspberry Pi 4's Performance / Tom's Hardware](https://www.tomshardware.com/news/libre-computer-project-cottonwood-double-pi-4-speeds ) |
+| [Milk-V Unveils RISC-V Raspberry Pi Alternative: Milk-V Mars / Tom's Hardware](https://www.tomshardware.com/news/milk-v-unveils-risc-v-raspberry-pi-alternative-milk-v-mars ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
