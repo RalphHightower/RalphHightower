@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.18](https://github.com/RalphHightower/RalphHightower/compare/v1.17.17...v1.17.18) (2023-06-26)
+
+
+### Bug Fixes
+
+* English grammar ([165cf52](https://github.com/RalphHightower/RalphHightower/commit/165cf520d496d2b17278c06fe56c0d0228905095))
+
 ## [1.17.17](https://github.com/RalphHightower/RalphHightower/compare/v1.17.16...v1.17.17) (2023-06-25)
 
 
