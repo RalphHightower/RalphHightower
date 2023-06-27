@@ -191,14 +191,14 @@
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
-| [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | | (H/W) |
+| [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
 | [timebeat](https://timebeat.app/ ) | (H/W) |
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
-| [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | | (H/W) |
-| [Toradex System on Module](https://www.toradex.com/) | (H/W) |
+| [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | (H/W) |
+| [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |](https://www.toradex.com/) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
@@ -206,7 +206,7 @@
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 | [crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
-| [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)| — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
+| [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)| 
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
@@ -407,7 +407,7 @@
 [AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
 |[Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
 |[OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
-|[Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
+| [Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
 | [Cool Pi 4 is a Raspberry Pi-shaped computer with RK3588S - Liliputing](https://liliputing.com/cool-pi-4-is-a-raspberry-pi-shaped-computer-with-rk3588s/ ) |
 |[Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
 |[Milk-V Mars single board computer features RISC-V StarFive processor](https://linuxgizmos.com/milk-v-mars-single-board-computer-features-risc-v-starfive-processor/ )|
