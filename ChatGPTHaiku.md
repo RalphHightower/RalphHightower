@@ -331,7 +331,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Silent cosmic winds,<br>Voyager's golden whispers,<br>Interstellar tales.|
 |Through Jupiter's storms,<br>Voyager's lens unveils grand,<br>Mysteries untold.|
 |Interstellar flight,<br>Voyager dances with time,<br>Exploring the void.|
-|Pale blue dot afar,<br>Voyager's glimpse of our home,<br<Fragile, yet profound.|
+|Pale blue dot afar,<br>Voyager's glimpse of our home,<br>Fragile, yet profound.|
 |Beyond our known realm,<br>Voyager wanders alone,<br>Brave pioneer's course.|
 |I hope you enjoy these haikus capturing the essence of Voyager 1 and 2's incredible journey!|
 | *"Thank you for the excellent haikus."* |
