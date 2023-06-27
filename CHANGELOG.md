@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.19](https://github.com/RalphHightower/RalphHightower/compare/v1.17.18...v1.17.19) (2023-06-27)
+
+
+### Bug Fixes
+
+* bold text of CoolPi product ([31f64d2](https://github.com/RalphHightower/RalphHightower/commit/31f64d267d83c1c7644ec6853c6659246a5440b3))
+
 ## [1.17.18](https://github.com/RalphHightower/RalphHightower/compare/v1.17.17...v1.17.18) (2023-06-26)
 
 
