@@ -54,7 +54,7 @@
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Express, SMARC, Qseven](https://www.congatec.com/us/) | (H/W) |
 | **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | **(H/W) $234.72** |
-| **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html** ) | (H/W) $207.74 16GB DDR/64GB eMMC |
+| **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
