@@ -14,6 +14,7 @@
 | Lynmax Apache Princess | Princess ||
 | Harnetts Centerfold | Jill ||
 | Harnetts Storm Chaser | Chaser ||
+| Harnetts Blockade Runner | Rebel ||
 | Lynmax Wherefore Bark Thou | Romeo | 2001-12-10 |
 | Lynmax Heart and Soul | Sweetheart | 2001-12-10 | 2016-01-29 |
 | Lynmax Athena | Athena | 2009-01-14 | 2020-11-30 |
