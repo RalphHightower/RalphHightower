@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.20](https://github.com/RalphHightower/RalphHightower/compare/v1.17.19...v1.17.20) (2023-06-27)
+
+
+### Bug Fixes
+
+* too many columns ([1dc0983](https://github.com/RalphHightower/RalphHightower/commit/1dc0983a576d6b214a246859e9a7819896c91bdc))
+
 ## [1.17.19](https://github.com/RalphHightower/RalphHightower/compare/v1.17.18...v1.17.19) (2023-06-27)
 
 
