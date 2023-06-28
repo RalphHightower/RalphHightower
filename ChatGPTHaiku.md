@@ -443,8 +443,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Good afternoon! How can I assist you today?|
 | *"Everyone knows who "The Boss" is. Right?"* |
 |"The Boss" is a term that can refer to different individuals depending on the context. It is often associated with influential figures in various fields, such as music, sports, or business. For example, Bruce Springsteen is commonly known as "The Boss" due to his nickname and his iconic status in music industry. However, without a specific context, it's difficult to determine exactly who you are referring to as "The Boss." Could you please provide more details or clarify your question?" |
-| *"You nailed it with Springsteen. I would appreciate it if you would create five haikus about Springsteen, the E Street Band, and include the "Big Man", Clarence Clemons in one or two haikus."* |
-|Sure! Here are five haikus about Bruce Springsteen, the E Street Band, and the legendary saxophonist Clarence Clemons:|
+| *"You nailed it with Springsteen. I would appreciate it if you would create five haikus about Springsteen, the E Street Band, and include the "Big Man", Clarence Clemons[^41] in one or two haikus."* |
+|Sure! Here are five haikus about Bruce Springsteen, the E Street Band, and the legendary saxophonist Clarence Clemons[^41]:|
 |Springsteen's heartfelt voice,<br>E Street Band's mighty groove,<br>Music's guiding light.|
 |Big Man's saxophone,<br>Clarence's soulful embrace,<br>Eternally missed.|
 |E Street's harmonies,<br>Instruments unite as one,<br>Legends on the stage.|
@@ -452,11 +452,13 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |E Street's thunderous beat,<br>Springsteen's passion ignites,<br>Rock and roll's true heart.|
 |I hope you enjoy these haikus!|
 | *"Thank you. A fitting tribute to the Big Man. Those were great."* |
-|You're welcome! I'm glad you liked the haikus. Clarence Clemons was indeed a remarkable musician, and his contributions to the E Street Band were significant. If you have any more questions or need further assistance, feel free to ask.|
+|You're welcome! I'm glad you liked the haikus. Clarence Clemons[^41] was indeed a remarkable musician, and his contributions to the E Street Band were significant. If you have any more questions or need further assistance, feel free to ask.|
 | *"I played tenor sax and high school and college. It is my favorite instrument."* |
 |That's wonderful! The tenor saxophone is a fantastic instrument with a rich and expressive sound. It's great to hear that it's your favorite instrument, and it must have been a fulfilling experience playing it in high school and college. The saxophone, in general, has a versatile and emotive quality that allows for a wide range of musical expressions. Whether you continue to play or simply appreciate listening to the saxophone, it's a beautiful instrument to connect with. If you have any more questions or want to discuss anything else, feel free to let me know!|
 | *"Cheers."* |
 |Cheers to you too! If you have any more questions or need assistance in the future, don't hesitate to reach out. Have a great day!|
+
+[^41]: Clarence Anicholas Clemons Jr. (January 11, 1942 – June 18, 2011), also known as The Big Man, was an American musician and actor. From 1972 until his death in 2011, he was the saxophonist for [Bruce Springsteen](https://en.wikipedia.org/wiki/Bruce_Springsteen) and [The E Street Band](https://en.wikipedia.org/wiki/The_E_Street_Band).
 
 ### Deep Purple
 
