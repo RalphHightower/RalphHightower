@@ -166,6 +166,7 @@
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 | **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
+| [RAKWireless — Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible ) | (H/W) |
 |[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
 |[RAKWireless LoRaWAN Complete – RAKwireless Store](https://store.rakwireless.com/collections/lorawan-complete )|(H/W)|
 |[RAKWireless Modular IoT System of Modules for Building Custom LPWAN IoT Projects – RAKwireless Store](https://store.rakwireless.com/collections/wisblock )|(H/W)|
@@ -448,6 +449,7 @@
 | [Ventbots Are Fans Of HVAC And Home Automation / Hackaday](https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/ ) |
  | [Project Cottonwood SBC Promises Double Raspberry Pi 4's Performance / Tom's Hardware](https://www.tomshardware.com/news/libre-computer-project-cottonwood-double-pi-4-speeds ) |
 | [Milk-V Unveils RISC-V Raspberry Pi Alternative: Milk-V Mars / Tom's Hardware](https://www.tomshardware.com/news/milk-v-unveils-risc-v-raspberry-pi-alternative-milk-v-mars ) |
+| [Using Link.ONE all-in-one LPWAN development kit with ChipStark, Node-Red, InfluxDB, and Grafana - CNX Software](https://www.cnx-software.com/2023/06/25/link-one-all-in-one-lpwan-development-kit-with-chipstark-node-red-influxdb-and-grafana/) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
