@@ -156,6 +156,7 @@
 | **[Orange Pi 5 Plus 16g Ram Single Board Computer Rk3588 Pcie Module External Wifi-bt Ssd 8k Orange Pi5 Plus Demo Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005572414487.html )** | **(H/W) 16GB** |
 | **[Orange Pi 5 Plus 16GB Rockchip RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Run Orange Pi OS, Android, Debian, Ubuntu (OPi 5 Plus 16G+5V4A TC Supply)](https://a.co/d/4WFkS5z) - Amazon** | (H/W) **$151.99 16GB** |
 | **[Orange Pi 5B 16GB Rockchip RK3588S 8 Core 64 Bit WiFi6,BT5.0 Single Board Computer with 128GB eMMC, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian (OPi 5B 16GB/128G+5V4A TypeC Supply)](https://a.co/d/3xBTyUa) - Amazon** | **(H/W) $151.99** |
+| **[Orange Pi 5 16GB RK3588S,PCIE Module External WiFi+BT,SSD Gigabit Ethernet Single Board Computer,Run Android Debian OS/ / - AliExpress](https://www.aliexpress.com/item/1005005554655739.html )** | (H/W) |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
 | **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
@@ -450,6 +451,10 @@
  | [Project Cottonwood SBC Promises Double Raspberry Pi 4's Performance / Tom's Hardware](https://www.tomshardware.com/news/libre-computer-project-cottonwood-double-pi-4-speeds ) |
 | [Milk-V Unveils RISC-V Raspberry Pi Alternative: Milk-V Mars / Tom's Hardware](https://www.tomshardware.com/news/milk-v-unveils-risc-v-raspberry-pi-alternative-milk-v-mars ) |
 | [Using Link.ONE all-in-one LPWAN development kit with ChipStark, Node-Red, InfluxDB, and Grafana - CNX Software](https://www.cnx-software.com/2023/06/25/link-one-all-in-one-lpwan-development-kit-with-chipstark-node-red-influxdb-and-grafana/) |
+| [Chip-scale atomic beam clocks could work where GPS doesn't](https://interestingengineering.com/innovation/chip-scale-atomic-clocks-accuracy-gps ) |
+| [TinyPilot: Raspberry Pi KVM over IP Solution Review - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/tinypilot-raspberry-pi-kvm-over-ip-solution/ ) |
+-       - | **[Orange Pi 5 vs Raspberry Pi 4: The Differences / All3DP](https://all3dp.com/2/orange-pi-5-vs-raspberry-pi-4-differences/ )** |
+
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
