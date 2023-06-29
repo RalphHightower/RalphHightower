@@ -26,6 +26,16 @@
 | [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
 | [Elevating open source contributors to open source maintainers / The GitHub Blog](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/ ) |
 | [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
+|[10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/ )|
+
+#### Careerr/Job Search Advice/Interview Questions 
+
+| Career/Job Search/Interview Preparation |
+|----|
+|[20 (Easy) C# Interview Questions and Answers (2023) Part 1 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions? )|
+|[20 C# Interview Questions (for Freshers) 2023 Part 2 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
+|[20 (Intermediate-Level) C# Interview Questions Part 3 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ ) |
+|[20 C# Interview Questions (for Experienced) 2023 Part 4 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
 
 #### Kubernetes 
 
