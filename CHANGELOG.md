@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.23](https://github.com/RalphHightower/RalphHightower/compare/v1.17.22...v1.17.23) (2023-06-29)
+
+
+### Bug Fixes
+
+* fixed Toradex in Vendors ([19c6238](https://github.com/RalphHightower/RalphHightower/commit/19c62383675d1dc5a03aa05fe0a116bcfb2dc3f1))
+
 ## [1.17.22](https://github.com/RalphHightower/RalphHightower/compare/v1.17.21...v1.17.22) (2023-06-29)
 
 
