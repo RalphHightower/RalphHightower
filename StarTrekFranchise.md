@@ -14,7 +14,7 @@
 | Star Trek: Strange New Worlds | (2022–present) | Christopher Pike |
 | The Animated Series | (1973–1974) | James Kirk |
 | Lower Decks | (2020–present) |  |
-| Prodigy | (2021–present) | Brett Gray |
+| Prodigy | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11] | 2024/2025 | |
 | Star Trek: Legacy[^12][^13][^14][^15][^16] | TBD | TBD |
 | Star Trek: Worf[^17] | TBD | TBD |
