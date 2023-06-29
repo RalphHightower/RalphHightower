@@ -259,6 +259,7 @@ Enterprise-Grade Open-Source Network Management |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
+| [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
