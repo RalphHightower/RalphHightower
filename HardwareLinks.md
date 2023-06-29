@@ -200,7 +200,7 @@
 | [timebeat](https://timebeat.app/ ) | (H/W) |
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
 | [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | (H/W) |
-| [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |](https://www.toradex.com/) | (H/W) |
+| [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
