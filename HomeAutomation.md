@@ -6,8 +6,8 @@ I have not decided on which home automation system that I want to deploy, but my
 
 ### GitHub
 
-| GitHub |
-|---|
+| GitHub | Description |
+|---|---|
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 
 ### Articles
@@ -28,8 +28,8 @@ I have not decided on which home automation system that I want to deploy, but my
 
 ### GitHub 
 
-| GitHub |
-|---|
+| GitHub | Description |
+|---|---|
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 
 #### Vendors 
