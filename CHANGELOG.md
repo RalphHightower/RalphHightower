@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.22](https://github.com/RalphHightower/RalphHightower/compare/v1.17.21...v1.17.22) (2023-06-29)
+
+
+### Bug Fixes
+
+* last article link was unnumbered list, not row ([341f7a0](https://github.com/RalphHightower/RalphHightower/commit/341f7a0e0db4d951830370d7545571e012615029))
+
 ## [1.17.21](https://github.com/RalphHightower/RalphHightower/compare/v1.17.20...v1.17.21) (2023-06-27)
 
 
