@@ -254,6 +254,8 @@ Enterprise-Grade Open-Source Network Management |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
+| [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA 
+| [starfive-tech](https://github.com/starfive-tech ) | RISC-V |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
