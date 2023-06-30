@@ -1,4 +1,6 @@
-## YouTube Channels
+## [YouTube](https://youtube.com/) Channels
+
+These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
 
 | Content Creator | Content Classification |
 |---|---|
@@ -9,11 +11,11 @@
 | [Chevrolet](https://youtube.com/@Chevrolet ) | Cars/Trucks |
 | [Edmunds Cars](https://youtube.com/@edmundscars ) | Cars/Trucks |
 | [Crosstalk Solutions](https://youtube.com/@CrosstalkSolutions ) | Computer Networking |
-| [Jeff Geerling](https://youtube.com/@JeffGeerling ) | Computering |
 | [Arm Software Developers](https://youtube.com/@ArmSoftwareDevelopers ) | Computers |
 | [Computerphile](https://youtube.com/@Computerphile ) | Computers |
 | [ExplainingComputers](https://youtube.com/@ExplainingComputers ) | Computers |
 | [Geerling Engineering](https://youtube.com/@GeerlingEngineering ) | Computers |
+| [Jeff Geerling](https://youtube.com/@JeffGeerling ) | Computers |
 | [O'Reilly](https://youtube.com/@oreilly ) | Computers |
 | [RISC-V International](https://youtube.com/@RISCVInternational ) | Computers |
 | [Arduino](https://youtube.com/@Arduino ) | Computers – Single Board |
