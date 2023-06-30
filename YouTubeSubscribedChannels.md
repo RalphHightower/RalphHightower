@@ -1,6 +1,6 @@
-## [YouTube](https://youtube.com/) Channels
+## [YouTube](https://youtube.com/) Subscribed Channels[^11]
 
-These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
+[^11]: These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
 
 | Content Creator | Content Classification |
 |---|---|
@@ -40,21 +40,33 @@ These are the [YouTube](https://youtube.com/) channels that I subscribe to.
 | [Saturday Night Live](https://youtube.com/@SaturdayNightLive ) | Humor |
 | [Allman Brothers on MV](https://youtube.com/@allmanbrothersmv ) | Music |
 | [Ally The Piper](https://youtube.com/@PiperAlly ) | Music |
+| [alyankovic](https://youtube.com/@alyankovic ) | Music Parody |
 | [Ana Popovic Music](https://youtube.com/@AnaPopovicMusic ) | Music |
+| [BlondieMusicOfficial](https://youtube.com/@BlondieMusicOfficial ) | Music |
 | [Blue Man Group](https://youtube.com/@bluemangroup ) | Music |
+| [BLUE OYSTER CULT](https://youtube.com/@BLUEOYSTERCULTofficial ) | Music |
+| [Bruce Springsteen](https://youtube.com/@brucespringsteen ) | Music |
+| [Deep Purple Official](https://youtube.com/@DeepPurpleOfficial )
+| [Dire Straits](https://youtube.com/@direstraitsofficial ) | Music |
+| [Eric Clapton](https://youtube.com/@ericclapton ) | Music |
 | [Fleetwood Mac](https://youtube.com/@fleetwoodmac ) | Music |
 | [Grateful Dead](https://youtube.com/@gratefuldead ) | Music |
 | [JGeilsBandVEVO](https://youtube.com/@JGeilsBandVEVO ) | Music |
+| [Jefferson Airplane](https://youtube.com/@jeffersonairplane ) | Music |
+| [Jefferson Starship](https://youtube.com/@JeffersonStarship ) | Music |
 | [John Mellencamp](https://youtube.com/@JohnMellencampDotCom ) | Music |
+| [OK Go](https://youtube.com/@okgo ) | Music – Rube Goldberg Music Videos |
 | [Pink Floyd](https://youtube.com/@pinkfloyd ) | Music |
 | [PinkFloydClassics](https://youtube.com/@pinkfloydclassics7044 ) | Music |
 | [Playing For Change](https://youtube.com/@PlayingForChange ) | Music |
-| [TheCarsOfficial](https://youtube.com/@TheCarsOfficial ) | Music |
-| [Virgin Rock](https://youtube.com/@VirginRock ) | Music |
-| [YOYOKA](https://youtube.com/@yoyoka_soma ) | Music |
+| [remhq](https://youtube.com/@remhq )
 | [sina-drums](https://youtube.com/@sina-drums ) | Music |
-| [alyankovic](https://youtube.com/@alyankovic ) | Music Parody |
-| [OK Go](https://youtube.com/@okgo ) | Music – Rube Goldberg Music Videos |
+| [The B-52's - Roam (Official Music Video)](https://youtube.com/watch?v=iNwC0sp-uA4&feature=share ) | Music |
+| [TheCarsOfficial](https://youtube.com/@TheCarsOfficial ) | Music |
+| [The Moody Blues](https://youtube.com/@MoodyBluesToday ) | Music |
+| [Virgin Rock](https://youtube.com/@VirginRock ) | Music |
+| [yesofficial](https://youtube.com/@yesofficial ) | Music  |
+| [YOYOKA](https://youtube.com/@yoyoka_soma ) | Music |
 | [Ubiquiti](https://youtube.com/@UbiquitiInc ) | Networking |
 | [FITSNEWS](https://youtube.com/@FitsTube ) | News |
 | [Adobe Photoshop Lightroom](https://youtube.com/@Lightroom ) | Photography |
@@ -153,5 +165,5 @@ These are the [YouTube](https://youtube.com/) channels that I subscribe to.
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
 | [DEWALT TV](https://youtube.com/@dewalttv ) | Tools |
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
+| [jeffostroff](https://youtube.com/@jeffostroff ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |
-|---|---|
