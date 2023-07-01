@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.0](https://github.com/RalphHightower/RalphHightower/compare/v1.17.23...v1.18.0) (2023-07-01)
+
+
+### Features
+
+* Create Home Lab page ([5e450ed](https://github.com/RalphHightower/RalphHightower/commit/5e450ed5fcd108302f5f46f501befe03d14c0582))
+
 ## [1.17.23](https://github.com/RalphHightower/RalphHightower/compare/v1.17.22...v1.17.23) (2023-06-29)
 
 
