@@ -92,6 +92,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 #### [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette)[^21]
 
+[^21]: I have coveted the [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) since it was redesigned in 1968. To say that the current iteration of the eighth generation of the Corvette is the top car on my car bucket 🪣 list is an understatement. 
+
 | *"Ralph Hightower"* / [ChatGPT](https://chat.openai.com/) |
 |-------|
 | *"Greetings, Assistant."* |
@@ -110,6 +112,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |You're welcome! Have a wonderful day as well. Goodbye and take care!|
 
 ### El Camino[^22]
+
+[^22]: A mid-60's El Camino is on my car bucket 🪣 list. I drove a '66 from high school through college. After marriage to Paula, we have owned a few current year El Caminos, also including a used '65 *(since it had a manual transmission, Paula was unable to drive it)*.
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
@@ -135,6 +139,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 ### HHR[^23]
 
+[^23]: I loved the retro styling of the HHR, and it had enough cargo capacity (with the rear seats down) for us and our three Beagles. Unfortunately, I totalled my 2009 *(bought new)* in 2016, and Paula totalled the 2011 *(bought used in 2016)* in 2022.
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good afternoon, Assistant."* |
@@ -156,6 +162,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 ### Mustang[^24]
 
+[^24]: I drove a '66 for a while in high school. 
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good afternoon, Assistant."* |
@@ -173,16 +181,13 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | *"Cheers."* |
 |Cheers to you, too! Have a fantastic day ahead! If you ever need assistance in the future, don't hesitate to reach out. Take care!|
 
-[^21]: I have coveted the [Chevrolet Corvette](https://www.chevrolet.com/performance/corvette) since it was redesigned in 1968. To say that the current iteration of the eighth generation of the Corvette is the top car on my car bucket 🪣 list is an understatement. 
-[^22]: A mid-60's El Camino is on my car bucket 🪣 list. I drove a '66 from high school through college. After marriage to Paula, we have owned a few current year El Caminos, also including a used '65 *(since it had a manual transmission, Paula was unable to drive it)*.
-[^23]: I loved the retro styling of the HHR, and it had enough cargo capacity (with the rear seats down) for us and our three Beagles. Unfortunately, I totalled my 2009 *(bought new)* in 2016, and Paula totalled the 2011 *(bought used in 2016)* in 2022.
-[^24]: I drove a '66 for a while in high school. 
-
 ## Computers
 
 ### [Cray Computers](https://www.cray.com/)
 
 #### Cray 1, 2[^31]
+
+[^31]: One of the computers on my computer bucket list. Cray Computers, models 1 and 2 can also be considered "works of art".
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
@@ -205,6 +210,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 #### PDP-11/70[^32]
 
+[^32]: A PDP-11/70, or 11/45, with the console lights and switches is also on my computer bucket list. Yes, the 11/20 also has the same attributes, but "go big, or go home."
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good afternoon, Assistant."* |
@@ -224,6 +231,8 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 #### VAX 11/780[^33]
 
+[^33]: Another computer on my computer bucket list. A magnificent beast of a machine. Plus, I love the versatility of its instruction set.
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good morning, Assistant"* |
@@ -240,10 +249,6 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |You're welcome! I'm glad you liked them. If you have any more requests or if there's anything else I can assist you with, feel free to let me know.|
 | *"That's it for today. Bye."* |
 |Alright! If you have any more questions in the future, feel free to ask. Goodbye, and have a great day!|
-
-[^31]: One of the computers on my computer bucket list. Cray Computers, models 1 and 2 can also be considered "works of art:.
-[^32]: A PDP-11/70, or 11/45, with the console lights and switches is also on my computer bucket list. Yes, the 11/20 also has the same attributes, but "go big, or go home."
-[^33]: Another computer on my computer bucket list. A magnificent beast of a machine. 
 
 ## Dogs
 
