@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.1](https://github.com/RalphHightower/RalphHightower/compare/v1.18.0...v1.18.1) (2023-07-01)
+
+
+### Bug Fixes
+
+* remove leading whitespace ([ff8f0ad](https://github.com/RalphHightower/RalphHightower/commit/ff8f0ad06c998908625f7dfd0ec96cc18eb87c63))
+
 ## [1.18.0](https://github.com/RalphHightower/RalphHightower/compare/v1.17.23...v1.18.0) (2023-07-01)
 
 
