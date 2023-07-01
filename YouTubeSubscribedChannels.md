@@ -39,35 +39,58 @@
 | [MabeInAmerica](https://youtube.com/@MabeInAmerica ) | Humor — Pranking Telemarketers |
 | [MyHarto](https://youtube.com/@Harto ) | Humor |
 | [Saturday Night Live](https://youtube.com/@SaturdayNightLive ) | Humor |
+| [Aerosmith](https://youtube.com/@aerosmith ) | Music |
 | [Allman Brothers on MV](https://youtube.com/@allmanbrothersmv ) | Music |
 | [Ally The Piper](https://youtube.com/@PiperAlly ) | Music |
 | [alyankovic](https://youtube.com/@alyankovic ) | Music Parody |
 | [Ana Popovic Music](https://youtube.com/@AnaPopovicMusic ) | Music |
+| [Arlo Guthrie](https://youtube.com/@ArloGuthrieRSR ) | Music |
+| [Creedence Clearwater Revival](https://youtube.com/@TheOfficialCCR ) | Music |
 | [BlondieMusicOfficial](https://youtube.com/@BlondieMusicOfficial ) | Music |
 | [Blue Man Group](https://youtube.com/@bluemangroup ) | Music |
 | [BLUE OYSTER CULT](https://youtube.com/@BLUEOYSTERCULTofficial ) | Music |
 | [Bruce Springsteen](https://youtube.com/@brucespringsteen ) | Music |
-| [Deep Purple Official](https://youtube.com/@DeepPurpleOfficial )
+| [Deep Purple Official](https://youtube.com/@DeepPurpleOfficial ) | Music |
+| [Dexys and Dexys Midnight Runners Official](https://youtube.com/@dexysofficial ) | Music |
 | [Dire Straits](https://youtube.com/@direstraitsofficial ) | Music |
+| [ELO](https://youtube.com/@elo ) | Music |
+| [enyatv](https://youtube.com/@enyatv ) | Music |
 | [Eric Clapton](https://youtube.com/@ericclapton ) | Music |
 | [Fleetwood Mac](https://youtube.com/@fleetwoodmac ) | Music |
 | [Grateful Dead](https://youtube.com/@gratefuldead ) | Music |
+| [Gordon Lightfoot](https://youtube.com/@GordonLightfootOfficial ) | Music |
+| [Hootie & the Blowfish](https://youtube.com/@hootieandtheblowfish ) | Music |
 | [JGeilsBandVEVO](https://youtube.com/@JGeilsBandVEVO ) | Music |
-| [Jefferson Airplane](https://youtube.com/@jeffersonairplane ) | Music |
+| [Jackson Browne](https://youtube.com/@jacksonbrowneofficial ) | Music |
+| [Janis Joplin](https://youtube.com/@janisjoplin) | Music |
 | [Jefferson Starship](https://youtube.com/@JeffersonStarship ) | Music |
+| [Jim Messina](https://youtube.com/@jimmessina2808 ) | Music |
+| [Jefferson Airplane](https://youtube.com/@jeffersonairplane ) | Music |
+| [John Fogerty](https://youtube.com/@JohnFogerty ) | Music |
 | [John Mellencamp](https://youtube.com/@JohnMellencampDotCom ) | Music |
+| [Linda Ronstadt](https://youtube.com/@lindaronstadtmusic ) | Music |
+| [KatrinaTheWavesVEVO](https://youtube.com/@KatrinaTheWavesVEVO ) | Music |
+| [Kenny Loggins](https://youtube.com/@KennyLoggins ) | Music |
+| [Manfred Manns Earth Band (MMEB)](https://youtube.com/@ManfredMannOfficial ) | Music |
+| [Meat Loaf](https://youtube.com/@RedPony2 ) | Music |
+| [Melissa Etheridge](https://youtube.com/@melissaetheridge ) | Music |
 | [OK Go](https://youtube.com/@okgo ) | Music – Rube Goldberg Music Videos |
 | [Pink Floyd](https://youtube.com/@pinkfloyd ) | Music |
 | [PinkFloydClassics](https://youtube.com/@pinkfloydclassics7044 ) | Music |
 | [Playing For Change](https://youtube.com/@PlayingForChange ) | Music |
-| [remhq](https://youtube.com/@remhq )
+| [PocoVEVO](https://youtube.com/@PocoVEVO ) | Music |
+| [Pretenders](https://youtube.com/@ThePretenders ) | Music |
+| [remhq](https://youtube.com/@remhq ) | Music |
+| [Sheryl Crow](https://youtube.com/@Sherylcrow ) | Music |
 | [sina-drums](https://youtube.com/@sina-drums ) | Music |
 | [The B-52's - Roam (Official Music Video)](https://youtube.com/watch?v=iNwC0sp-uA4&feature=share ) | Music |
 | [TheCarsOfficial](https://youtube.com/@TheCarsOfficial ) | Music |
 | [The Moody Blues](https://youtube.com/@MoodyBluesToday ) | Music |
+| [TravelingWilburys](https://youtube.com/@TravelingWilburysOfficial ) | Music |
 | [Virgin Rock](https://youtube.com/@VirginRock ) | Music |
 | [yesofficial](https://youtube.com/@yesofficial ) | Music  |
 | [YOYOKA](https://youtube.com/@yoyoka_soma ) | Music |
+| [ZZ Top](https://youtube.com/@zztop ) | Music |
 | [Ubiquiti](https://youtube.com/@UbiquitiInc ) | Networking |
 | [FITSNEWS](https://youtube.com/@FitsTube ) | News |
 | [Adobe Photoshop Lightroom](https://youtube.com/@Lightroom ) | Photography |
@@ -168,3 +191,5 @@
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
 | [jeffostroff](https://youtube.com/@jeffostroff ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |
+| [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
+| [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
