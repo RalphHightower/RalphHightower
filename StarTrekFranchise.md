@@ -1,20 +1,21 @@
-# Star Trek Franchise 
+# [Star Trek](https://www.startrek.com/) Franchise 
 
-## Star Trek Series 
+## [Star Trek](https://www.startrek.com/) Series 
 
-| Star Trek Series | Years | Captain |
+| [Star Trek](https://www.startrek.com/) Series | Years | Captain |
 |----|----|----|
-| Star Trek (The Original Series) | (1966–1969) | James T Kirk |
-| Star Trek: The Next Generation | (1987–1994) | Jean Luc Picard |
-| Star Trek: Deep Space Nine | (1993–1999) | Benjamin Sisko |
-| Star Trek: Voyager | (1995–2001) | Kathryn Janeway |
-| Enterprise | (2001–2005) | Johnathan Archer |
-| Star Trek: Discovery | 2017–present |   |
-| Picard | (2020–present) |  |
-| Star Trek: Strange New Worlds | (2022–present) | Christopher Pike |
-| The Animated Series | (1973–1974) | James Kirk |
-| Lower Decks | (2020–present) |  |
-| Prodigy | (2021–2022) | Brett Gray |
+| [Star Trek: The Original Series](https://www.startrek.com/shows/star-trek-the-original-series ) | (1966–1969) | James T Kirk |
+| [Star Trek: The Next Generation](https://www.startrek.com/shows/star-trek-the-next-generation ) | (1987–1994) | Jean Luc Picard |
+| [Star Trek: Deep Space Nine](https://www.startrek.com/shows/star-trek-deep-space-nine ) | (1993–1999) | Benjamin Sisko |
+| [Star Trek: Voyager](https://www.startrek.com/shows/star-trek-voyager ) | (1995–2001) | Kathryn Janeway |
+| [Star Trek: Enterprise](https://www.startrek.com/shows/star-trek-enterprise ) | (2001–2005) | Johnathan Archer |
+| [Star Trek: Discovery](https://www.startrek.com/shows/star-trek-discovery ) | 2017–present |   |
+| [Star Trek: Picard](https://www.startrek.com/shows/star-trek-picard) | (2020–present) |  |
+| [Star Trek: Strange New Worlds](https://www.startrek.com/shows/star-trek-strange-new-worlds ) | (2022–present) | Christopher Pike |
+| [Star Trek: The Animated Series](https://www.startrek.com/shows/star-trek-the-animated-series ) | (1973–1974) | James Kirk |
+| [Star Trek: Lower Decks](https://www.startrek.com/shows/star-trek-lower-decks ) | (2020–present) |  |
+| [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy )
+ | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11] | 2024/2025 | |
 | Star Trek: Legacy[^12][^13][^14][^15][^16] | TBD | TBD |
 | Star Trek: Worf[^17] | TBD | TBD |
@@ -27,23 +28,23 @@
 [^16]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
 [^17]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
-## Star Trek Movies
+## [Star Trek](https://www.startrek.com/) Movies
 
 | Title | Year | Cast |
 |-------|------|------|
-| I: The Motion Picture | 1979 | Original Cast |
-| II: The Wrath of Khan | 1982 | Original Cast |
-| III: The Search for Spock | 1984 | Original Cast |
-| IV: The Voyage Home | 1986 | Original Cast |
-| V: The Final Frontier | 1989 | Original Cast |
-| VI: The Undiscovered Country | 1991 | Original Cast |
-| Generations | 1994 | Next Generation |
-| First Contact | 1996 | Next Generation |
-| Insurrection | 1998 | Next Generation |
-| Nemesis | 2002 | Next Generation |
-| Star Trek | 2009 | Kelvin Reboot |
-| Into Darkness| 2013 | Kelvin Reboot |
-| Beyond | 2016 | Kelvin Reboot |
+| [Star Trek I: The Motion Picture](https://www.startrek.com/shows/star-trek-i-the-motion-picture ) | 1979 | Original Cast |
+| [Star Trek II: The Wrath of Khan](https://www.startrek.com/shows/star-trek-ii-the-wrath-of-khan ) | 1982 | Original Cast |
+| [Star Trek III: The Search for Spock](https://www.startrek.com/shows/star-trek-iii-the-search-for-spock ) | 1984 | Original Cast |
+| [Star Trek IV: The Voyage Home](https://www.startrek.com/shows/star-trek-iv-the-voyage-home ) | 1986 | Original Cast |
+| [Star Trek V: The Final Frontier](https://www.startrek.com/shows/star-trek-v-the-final-frontier ) | 1989 | Original Cast |
+| [Star Trek VI: The Undiscovered Country](https://www.startrek.com/shows/star-trek-vi-the-undiscovered-country ) | 1991 | Original Cast |
+| [Star Trek Generations](https://www.startrek.com/shows/star-trek-generations ) | 1994 | Next Generation |
+| [Star Trek VIII: First Contact](https://www.startrek.com/shows/star-trek-viii-first-contact ) | 1996 | Next Generation |
+| [Star Trek IX: Insurrection](https://www.startrek.com/shows/star-trek-ix-insurrection ) | 1998 | Next Generation |
+| [Star Trek Nemesis](https://www.startrek.com/shows/star-trek-nemesis ) | 2002 | Next Generation |
+| [Star Trek (2009)](https://www.startrek.com/shows/star-trek-2009 ) | 2009 | Kelvin Reboot |
+| [Star Trek Into Darkness](https://www.startrek.com/shows/star-trek-into-darkness ) | 2013 | Kelvin Reboot |
+| [Star Trek Beyond](https://www.startrek.com/shows/star-trek-beyond ) | 2016 | Kelvin Reboot |
 | Star Trek: Section 31[^21][^22][^23] | Paramount+ |
 
 [^21]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
