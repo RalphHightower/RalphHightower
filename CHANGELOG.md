@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.2](https://github.com/RalphHightower/RalphHightower/compare/v1.18.1...v1.18.2) (2023-07-01)
+
+
+### Bug Fixes
+
+* OpenNMS GitHub description ([35f4de6](https://github.com/RalphHightower/RalphHightower/commit/35f4de635929013f34308cff1ba93d737a874973))
+
 ## [1.18.1](https://github.com/RalphHightower/RalphHightower/compare/v1.18.0...v1.18.1) (2023-07-01)
 
 
