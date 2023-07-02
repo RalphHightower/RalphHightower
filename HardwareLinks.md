@@ -24,6 +24,7 @@
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
 |**[Ampere Altra Developer Platform – I-Pi SMARC](https://www.ipi.wiki/products/ampere-altra-developer-platform )**| (H/W)|
+| **[ameriDroid – ROCK 5 Model B](https://ameridroid.com/products/rock-5-model-b )** | **(H/W) 16GB $219.95 USD** |
 |[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) |
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
