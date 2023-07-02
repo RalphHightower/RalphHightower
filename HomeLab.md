@@ -1,5 +1,11 @@
 # Home Lab
 
+## Essential Services
+
+| Essential Services | Purpose |
+|---|---|
+| **[Unlocking High-Precision RTK Positioning - News - SparkFun Electronics](https://www.sparkfun.com/news/7401?_hsmi=264570328&_hsenc=p2ANqtz-8mYIMo-lyv0BAtJ14bPLj3KM60o_HLHbWEZhXF64wzJNd_GCy1LNde85sFDGAJWSWVg0qV7ZQ_o-tRI9-ZTcznsNjOQ7RGcXejfYVnLAN8t1dX3lg& )** | NTP/NTRIP Server | 
+
 ## Articles
 
 | Home Lab Articles |
