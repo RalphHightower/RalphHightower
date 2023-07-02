@@ -72,36 +72,37 @@ I also have different categories of bucket lists.
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
 2.	Cars
-   - Corvette (mid-engine)
-   - El Camino (65-67)[^82]
-   - Mustang (64-67)[^83]
-   - HHR (2009-2011)[^84]
-   - 55 Chevy Stepside pickup[^85]
+   - Corvette (mid-engine)[^82]
+   - El Camino (65-67)[^83]
+   - Mustang (64-67)[^84]
+   - HHR (2009-2011)[^85]
+   - 55 Chevy Stepside pickup[^86]
 3.	Cameras
-   - ✓ [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^86]
+   - ✓ [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
 4.	Computers
-   - DEC VAX11-780[^87]
-   - DEC PDP-11/70[^88] or PDP-11/45[^88]
-   - Cray 1[^89]
-   - Cray 2[^89]
+   - DEC VAX11-780[^88]
+   - DEC PDP-11/70[^89] or PDP-11/45[^89]
+   - Cray 1[^90]
+   - Cray 2[^90]
 5.	Space Shuttles
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
-   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^90]
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^91]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
-[^82]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
-[^83]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
-[^84]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
-[^85]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
-[^86]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
-[^87]: I love the instruction set of this magnificent beast of a computer. 
-[^88]: It's gotta have the blinking console lights and console switches.
-[^89]: Cray Computers can, besides a supercomputer, be considered works of art.
-[^90]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^82]: I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
+[^83]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
+[^84]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
+[^85]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
+[^86]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
+[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^88]: I love the instruction set of this magnificent beast of a computer. 
+[^89]: It's gotta have the blinking console lights and console switches.
+[^90]: Cray Computers can, besides a supercomputer, be considered works of art.
+[^91]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
 
 
 ## Personal Projects 
