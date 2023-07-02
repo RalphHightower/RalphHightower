@@ -231,6 +231,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
+| [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software.|
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
