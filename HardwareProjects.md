@@ -1,14 +1,26 @@
 # Hardware Projects 
 
-| Preferred Vendors | Resources | 
-|------|----|
-| [Arrow](https://www.arrow.com/) | [Raspberry PI Locater](https://rpilocator.com/) |
-| [Digi-Key](https://www.digikey.com/) | [Single Board Computer Database](https://hackerboards.com/) | 
-| [Mouser](https://www.mouser.com/) | [FindBoard Workshop](https://www.findboard.cn/#/home) | 
-| [Newark](https://www.newark.com/) | **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
-| [Seeed Studio](https://www.seeedstudio.com/) | [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
-| [SparkFun](https://www.sparkfun.com/) | [Circuit Cellar](https://circuitcellar.com/) |
-| | [RISC-V Landscape](https://landscape.riscv.org/ ) |
+| Preferred Vendors | 
+|------|
+| [Arrow](https://www.arrow.com/) | 
+| [Avnet: Quality Electronic Components & Services]( ) |
+| [Digi-Key](https://www.digikey.com/) |
+| [Mouser](https://www.mouser.com/) |
+| [Newark](https://www.newark.com/) | 
+| [Seeed Studio](https://www.seeedstudio.com/) | 
+| [SparkFun](https://www.sparkfun.com/) |
+
+
+| Resources | 
+|------|
+| [Raspberry PI Locater](https://rpilocator.com/) |
+| [Single Board Computer Database](https://hackerboards.com/) | 
+| [FindBoard Workshop](https://www.findboard.cn/#/home) | 
+| **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
+| [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
+| [Circuit Cellar](https://circuitcellar.com/) |
+| [RISC-V Landscape](https://landscape.riscv.org/ ) |
+
 
 | [Circuit Cellar Residents](https://circuitcellar.com/subscription/)|1 year|2 years|3 years|
 |---|---|---|----|
