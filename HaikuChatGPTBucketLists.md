@@ -1,4 +1,4 @@
-# [ChatGPT](https://chat.openai.com/) Haikus About Items in My Different Categories of Bucket Lists 
+# [ChatGPT](https://chat.openai.com/) Haikus — Bucket List Multiple Categories 
 
 I have multiple bucket lists of different categories.
 
