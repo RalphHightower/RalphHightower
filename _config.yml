@@ -51,8 +51,14 @@ plugins:
  - "jekyll-feed"
  - "jekyll-seo-tag"
  - "jekyll-last-modified-at"
+ 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
 repository: "RalphHightower/RalphHightower"
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
