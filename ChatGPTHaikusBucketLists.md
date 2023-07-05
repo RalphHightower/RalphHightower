@@ -276,7 +276,7 @@ I have multiple bucket lists of different categories.
 
 ### [Cray Computers](https://www.cray.com/)
 
-#### Cray 1, 2[^31]
+#### Cray 1[^31], 2[^31]
 
 [^31]: One of the computers on my computer bucket list. Cray Computers, models 1 and 2 can also be considered "works of art:.
 
