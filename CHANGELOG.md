@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.3](https://github.com/RalphHightower/RalphHightower/compare/v1.18.2...v1.18.3) (2023-07-05)
+
+
+### Bug Fixes
+
+* add price to AntSDR E200 ([d72dcaf](https://github.com/RalphHightower/RalphHightower/commit/d72dcaf276641e9e4b8ff7bfafd4efb9e0895da9))
+
 ## [1.18.2](https://github.com/RalphHightower/RalphHightower/compare/v1.18.1...v1.18.2) (2023-07-01)
 
 
