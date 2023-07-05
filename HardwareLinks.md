@@ -25,7 +25,7 @@
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
 |**[Ampere Altra Developer Platform – I-Pi SMARC](https://www.ipi.wiki/products/ampere-altra-developer-platform )**| (H/W)|
 | **[ameriDroid – ROCK 5 Model B](https://ameridroid.com/products/rock-5-model-b )** | **(H/W) 16GB $219.95 USD** |
-|[AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| (H/W) |
+| [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
