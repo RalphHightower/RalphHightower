@@ -66,7 +66,7 @@ I also have different categories of bucket lists.
    - ~~Arecibo Observatory~~[^81]
    - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America
    - Slot Canyon (color & B&W photographs)
-   - Aurora 
+   - Aurora Borealis
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
