@@ -457,6 +457,7 @@
 | [TinyPilot: Raspberry Pi KVM over IP Solution Review - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/tinypilot-raspberry-pi-kvm-over-ip-solution/ ) |
 | **[Orange Pi 5 vs Raspberry Pi 4: The Differences / All3DP](https://all3dp.com/2/orange-pi-5-vs-raspberry-pi-4-differences/ )** |
 | **[Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ )** |
+| [AntSDR E200 - Gigabit Ethernet connected SDR with Xilinx Zynq SoC FPGA supports 70 MHz - 6 GHz range (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/07/03/antsdr-e200-gigabit-ethernet-connected-sdr-with-xilinx-zynq-soc-fpga-supports-70-mhz-6-ghz-range/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
