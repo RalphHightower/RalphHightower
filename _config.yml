@@ -59,6 +59,6 @@ last-modified-at:
 repository: "RalphHightower/RalphHightower"
 
 titles_from_headings:
-  enabled:     false
-  strip_title: true
-  collections: true
+  enabled:     true
+  strip_title: false
+  collections: false
