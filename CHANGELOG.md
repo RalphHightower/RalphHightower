@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.4](https://github.com/RalphHightower/RalphHightower/compare/v1.18.3...v1.18.4) (2023-07-06)
+
+
+### Bug Fixes
+
+* titles_from_headings ([e8171d1](https://github.com/RalphHightower/RalphHightower/commit/e8171d1c82ee421d768e5de50ed01eb5afa73bdb))
+
 ## [1.18.3](https://github.com/RalphHightower/RalphHightower/compare/v1.18.2...v1.18.3) (2023-07-05)
 
 
