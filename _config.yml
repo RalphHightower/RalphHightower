@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   50++ years experience; still active for personal projects. Witnessed 
   two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis
   (launch and landing) w/ Final Four.
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -59,6 +59,6 @@ last-modified-at:
 repository: "RalphHightower/RalphHightower"
 
 titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
+  enabled:     false
+  strip_title: false
+  collections: false
