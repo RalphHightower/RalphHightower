@@ -61,4 +61,4 @@ repository: "RalphHightower/RalphHightower"
 titles_from_headings:
   enabled:     false
   strip_title: false
-  collections: false
+  collections: true
