@@ -4,18 +4,6 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
 
-## [USC — University of South Carolina](https://www.sc.edu)
-
-| [USC — University of South Carolina](https://www.sc.edu) |
-|---|
-| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
-| [USC Alumni Association](https://uofscalumni.org/) |
-| [USC Gamecock Sports](https://gamecocksonline.com/) |
-| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm) |
-| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php)  |
-| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
-| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
-
 ## About me
 
 |  Test/Website | Result |
@@ -104,6 +92,114 @@ I also have different categories of bucket lists.
 [^90]: Cray Computers can, besides a supercomputer, be considered works of art.
 [^91]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
 
+## Dewar's Profile
+
+| Dewar's Profile |
+|----|
+| RALPH HIGHTOWER |
+| PROFESSION: Software Developer |
+| HOBBY: Photography, water-skiing |
+| BUCKET LIST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing) |
+| QUOTE: Freedom from Consequences is not a protected Constitutional right. |
+| LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
+| MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
+| CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
+| BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
+| BUCKET LIST CAR: Chevrolet Corvette |
+| CAMERA BRAND: Canon |
+| FAVORITE (BEST) DOG BREED: Beagle |
+| FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder |
+| FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert |
+| FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks |
+| FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth |
+| FAVORITE MOVIE: Dune (2021) |
+| FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds) |
+| BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain |
+| BEST PARODY: American Pie  [The Saga Begins by Weird Al Yankovic](https://youtu.be/hEcjgJSqSRU) |
+| BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
+| FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos |
+| GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) |
+| GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming) |
+| TENOR SAX: Clarence Clemmons |
+| MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQTV9iy9yw) |
+| WHY I DO WHAT I DO: Software development involves creativity |
+| PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) |
+| HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso |
+
+## Interests 
+
+As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
+
+### Photography 
+
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
+
+My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered the classic look of B&W film when I photographed the final Space Shuttle landing. Since it was a pre-dawn landing, color would have been wasted. For that year, I had two photography projects:
+1) Photograph the sunrise over Columbia, South Carolina from the Lake Murray dam on the equinoxes and solstices;
+2) Photograph the full moon rising and setting (started in February and carried over to January).
+
+#### Camera equipment
+
+| Gear | Lenses, Accessories |
+|------|-------------|
+| Canon A-1 (FD Mount) | Motor Drive MA | 
+|| Sunpak 522 Flash |
+| Canon F-1N (FD Mount) | Canon AE Motor Drive FN |
+|| Canon AE Finder FN |
+|| center-weighted split-image/microprism metering screen |
+|| partial split-image/microprism metering screen |
+|| spot split-image/microprism metering screen |
+|| Canon Auto Bellows |
+| FD Mount Lenses | Canon FD 28mm f2.8 |
+|| Canon Macro Photo Lens 20mm f/3.5 |
+|| Canon FD 50mm f1.8 (2) |
+|| Profoto 80-205mm f4.5 |
+|| Spiratone 400mm f6.3 |
+| Canon EOS 5D Mark III | Canon RT 600 II flash |
+| EF Mount Lenses | Canon EF 24-105mm f4L |
+|| Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens |
+| PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
+|| 35mm slide film carriers (2) |
+
+| Bucket List Cameras | Status |
+|-----------|--------|
+| Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
+| Mamiya 645||
+| Mamiya RB67 or RZ67||
+| 4×5 monorail view camera ||
+
+#### [Camera Manuals, Software, Firmware: Updates/References](CanonFirmwareSoftware.md)
+
+#### Preferred Photography Retailers 
+
+| Company | Location | About |
+|---------|----------|-------|
+| [KEH](https://www.keh.com/)[^61] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
+| [B&H Photo/Video](https://www.bhphotovidphotograph/)[^62] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
+| [Lensrentals.com](https://www.lensrentals.com/)[^63] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
+
+[^61]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^62]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^63]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+
+### Software Development
+
+In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior management booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 .
+
+- Affinity Technology Group (Stock Symbol: AFFI)
+- HealthMagic
+- Global Health Technology (bought by CBSI aka Covansys)<br>
+
+As a Software Developer at the South Carolina Department of Health and Environmental Control, I developed web applications using C# and .Net using Microsoft Visual Studio and Microsoft SQL Server and IBM DB/2 databases. I have also written Windows services to monitor the health of web applications, their associated databases, SSL certificate expiration and network connectivity to alert the appropriate teams.
+Besides developing Windows services to monitor web applications and their associated databases, I have developed services to extract data for SFTP file exports on a monthly basis, update SCSERV hospitals and clinics in Microsoft SQL Server with reference data from the EFIS Oracle database.
+
+One large scale Windows application that I developed using C# and .Net for my personal use read the NASA mission schedules for the Space Shuttle missions that they published as Excel spreadsheets and created events in the calendar of Microsoft Outlook using Microsoft Visual Studio Tools for Office. I thought that others would be interested in using the application also, so I published the installation executable with the source code on  Microsoft’s now decommissioned source code publishing site, Codeplex; I migrated it over to GitHub although support of the application officially ended with wheelstop of Atlantis on mission STS-135 with the Final Four, CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim. 
+
+### NASA Spaceflight 
+
+On [July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person.](https://flic.kr/s/aHsjvNsNvU). I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, [got to see Atlantis land for the final time on July 21, 2011](https://flic.kr/s/aHsjvNti8h). I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
+
+Watching the Space Shuttle land on television, the twin sonic booms sound like a muffled *boom.boom.* In person, the twin sonic booms that Space Shuttles announce that they are returning home is loud, sharp, and crisp: **BANG! BANG!**
 
 ## Personal Projects 
 
@@ -135,6 +231,153 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^31] |
 | [RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
+
+### Obsolete Computer Collection 
+
+My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source code using gcc.
+I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
+
+A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
+
+| Computers | Peripherals, Books |
+|-----------|-------------|
+| [DEC (Digital Equipment Corporation) VAXStation II/GPX](https://flic.kr/p/acYeze) |
+|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
+| [Sun 3/110](https://flic.kr/p/acYvDi) ||
+| [Sun SparcStation IPX](https://flic.kr/p/acYrMa)[^51] ||
+|| Sun 31 inch CRT (Cathode Ray Tube)[^51] |
+|| Sun CD-ROM Drive[^51] |
+|| Sun Tape Drive[^51] |
+|| SCSI Drive Cabinet[^42] (3 SCSI drives)[^53]) |
+
+[^51]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
+[^52]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
+[^53]: I bought SCSI hard disk drives from my fellow, former [NCR](https://www.ncr.com/) E&M-Columbia coworkers and lifelong friends. 
+
+| VAXStation II/GPX BSD Operating Systems |
+|-------|
+| [OpenBSD — VAXStation](https://www.openbsd.org/) |
+| [NET BSD](https://www.netbsd.org/) |
+| [DEC Alpha YouTube video](https://youtu.be/RAxomG) |
+| [DEC and the PDP-11 YouTube video](https://youtu.be/bQUeMyAMQwo) |
+
+| Various Computer Books 📚 |
+|----------------------------|
+| Art of Computer Science (3 volume set) by Donald Knuth |
+| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
+| DEC PDP-8 Handbook |
+| DEC PDP-11 Handbook |
+| LSI 11 (PDP-11/03) Handbook |
+| DEC PDP-11/45 Handbook |
+| DEC PDP-11/70 Handbook |
+
+### HP (Hewlett-Packard) Calculators[^51]
+
+[^51]: HP said in their print advertisements *"HP has no equal."*<br>What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
+
+[The Museum of HP Calculators](https://www.hpmuseum.org/)
+
+| HP Calculators | Accessories |
+|--------------------|-----------------|
+| HP-12C ||
+| HP-12C Platinum ||
+| HP-16C ||
+| HP-17B ||
+| HP-41CV ||
+| HP-41CX ||
+|| HP-41 Card Reader |
+|| HP-41 Memory Modules |
+|| HP-41 Program Modules |
+| HP-45 ||
+| HP-48GX ||
+| HP-67 ||
+
+### Beagles 
+
+Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
+neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
+Runner. We got Writer and Rebecca from conformation breeder and they have earned Championships along
+with the CD obedience titles.
+
+We have bred and raised a few litters.
+
+[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
+
+### Water-skiing 
+
+I enjoy water-skiing. I learned on Lake Greenwood, South Carolina. I consider Lake Murray, 
+South Carolina to be my "home lake" since I live nearby. My wife, Paula, and I would camp
+at Hamilton Branch State Park on Clark Hill Lake, South Carolina and Georgia.
+
+Bodies of Water That I Have Skiied:
+- South Carolina Lakes 
+   - Lake Greenwood
+   - Lake Murray
+   - Clark Hill Lake
+- Midwestern Rivers
+   - Cedar River (Cedar Rapids, Iowa)
+   - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)
+
+## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
+
+South Carolina has a number of craft beer breweries. The heading links to a list of the current active breweries. Below are my favorite brews:
+
+1. River Rat Broad River Red Ale
+2. River Rat Mourning Stout
+4. Steelhands Coffee Lager 
+5. Palmetto Brewing Expresso 
+6. Palmetto Brewing GhostRider
+7. Holy City Brewing Bowens Island Oyster Stout
+8. Legal Remedy World Court Mocha Blonde Stout.
+9. Steelhands Pecan Brown Ale
+
+## Television Series Reboots and Spinoffs (Worth Watching)
+
+I enjoy television 📺 series that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
+
+[Television Series Reboots and Spinoffs](RebootedTVShows.md)
+
+## Tabasco Sauce Scoville Ratings 
+
+[Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
+
+## [USC — University of South Carolina](https://www.sc.edu)
+
+| [USC — University of South Carolina](https://www.sc.edu) |
+|---|
+| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Alumni Association](https://uofscalumni.org/) |
+| [USC Gamecock Sports](https://gamecocksonline.com/) |
+| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm) |
+| [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php)  |
+| [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
+| [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
+## Sky Above, Events, Weather
+
+| International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
+|------|--------|
+| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
+| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Lexington) | Lexington, South Carolina, USA |
+| [Sun & Moon Today](https://www.timeanddate.com/astronomy/usa/columbia) | Columbia, South Carolina, USA |
+| [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
+| [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
+| [Moon Phases](https://www.timeanddate.com/moon/phases/usa/columbia) | Columbia, South Carolina, USA |
+| [Solstices & Equinoxes](https://www.timeanddate.com/calendar/seasons.html?n=66) | Columbia, South Carolina, USA |
+| [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
+| [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
+| [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
+| [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
+| [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
+| [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
+| [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
+| [Weather Data @ Crossroads Fire Station](http://www.rcwinds.com/?tab=data&loc=Crossroads%20Fire%20Station) | Chapin, South Carolina, USA |
+|||
+|[USGS Current Conditions for USGS 02168500 LAKE MURRAY NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168500&format=gif&period=31 )| Lake Murray, South Carolina |
+|[USGS Current Conditions for USGS 02168501 LAKE MURRAY TAILRACE NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168501&format=gif&period=31 )| Lake Murray, South Carolina |
+|[Saluda River Below LK Murray Dam NR Columbia, SC - USGS Water Data for the Nation](https://waterdata.usgs.gov/monitoring-location/02168504/#parameterCode=00065&period=P7D )| Saluda River Below Lake Murray Dam, South Carolina |
+
+<hr>
 
 ## References 
 
@@ -331,141 +574,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 
 [Useful Software / Utilities](Software.md)
 
-## Interests 
-
-As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
-
-### Software Development
-
-In between my employment at NCR E&M-Columbia and SC DHEC, I had a brief tour of duty at Policy Management System (Stock Symbol: PMS). This was during the time when they were fined by the Securities and Exchange Commission because its executive and senior management booked revenue on December 32<sup>nd</sup>. I have also worked for a few DOT-COM'S 🎆 that became DOT-BOMB'S 💣 .
-
-- Affinity Technology Group (Stock Symbol: AFFI)
-- HealthMagic
-- Global Health Technology (bought by CBSI aka Covansys)<br>
-
-As a Software Developer at the South Carolina Department of Health and Environmental Control, I developed web applications using C# and .Net using Microsoft Visual Studio and Microsoft SQL Server and IBM DB/2 databases. I have also written Windows services to monitor the health of web applications, their associated databases, SSL certificate expiration and network connectivity to alert the appropriate teams.
-Besides developing Windows services to monitor web applications and their associated databases, I have developed services to extract data for SFTP file exports on a monthly basis, update SCSERV hospitals and clinics in Microsoft SQL Server with reference data from the EFIS Oracle database.
-
-One large scale Windows application that I developed using C# and .Net for my personal use read the NASA mission schedules for the Space Shuttle missions that they published as Excel spreadsheets and created events in the calendar of Microsoft Outlook using Microsoft Visual Studio Tools for Office. I thought that others would be interested in using the application also, so I published the installation executable with the source code on  Microsoft’s now decommissioned source code publishing site, Codeplex; I migrated it over to GitHub although support of the application officially ended with wheelstop of Atlantis on mission STS-135 with the Final Four, CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim. 
-
-### NASA Spaceflight 
-
-On [July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person.](https://flic.kr/s/aHsjvNsNvU). I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, [got to see Atlantis land for the final time on July 21, 2011](https://flic.kr/s/aHsjvNti8h). I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
-
-Watching the Space Shuttle land on television, the twin sonic booms sound like a muffled *boom.boom.* In person, the twin sonic booms that Space Shuttles announce that they are returning home is loud, sharp, and crisp: **BANG! BANG!**
-
-### Obsolete Computer Collection 
-
-My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source code using gcc.
-I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
-
-A technology company had shut down and one of the Affinity Technology Group former coworkers rescued a DEC VAXStation II/GPX from being trashed. He was moving from South Carolina to Washington (home of Microsoft) and he was going to toss it in the dumpster. He asked if I wanted it. "Sure!" That is a heavy sucka!
-
-| Computers | Peripherals, Books |
-|-----------|-------------|
-| [DEC (Digital Equipment Corporation) VAXStation II/GPX](https://flic.kr/p/acYeze) |
-|| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
-| [Sun 3/110](https://flic.kr/p/acYvDi) ||
-| [Sun SparcStation IPX](https://flic.kr/p/acYrMa)[^51] ||
-|| Sun 31 inch CRT (Cathode Ray Tube)[^51] |
-|| Sun CD-ROM Drive[^51] |
-|| Sun Tape Drive[^51] |
-|| SCSI Drive Cabinet[^42] (3 SCSI drives)[^53]) |
-
-[^51]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
-[^52]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
-[^53]: I bought SCSI hard disk drives from my fellow, former [NCR](https://www.ncr.com/) E&M-Columbia coworkers and lifelong friends. 
-
-| VAXStation II/GPX BSD Operating Systems |
-|-------|
-| [OpenBSD — VAXStation](https://www.openbsd.org/) |
-| [NET BSD](https://www.netbsd.org/) |
-| [DEC Alpha YouTube video](https://youtu.be/RAxomG) |
-| [DEC and the PDP-11 YouTube video](https://youtu.be/bQUeMyAMQwo) |
-
-
-| Various Computer Books 📚 |
-|----------------------------|
-| Art of Computer Science (3 volume set) by Donald Knuth |
-| DEC VAX 11/780 Architecture Manuals Volumes 1-3 (2) |
-| DEC PDP-8 Handbook |
-| DEC PDP-11 Handbook |
-| LSI 11 (PDP-11/03) Handbook |
-| DEC PDP-11/45 Handbook |
-| DEC PDP-11/70 Handbook |
-
-### HP (Hewlett-Packard) Calculators[^51]
-
-[^51]: HP said in their print advertisements *"HP has no equal."*<br>What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
-
-[The Museum of HP Calculators](https://www.hpmuseum.org/)
-
-| HP Calculators | Accessories |
-|--------------------|-----------------|
-| HP-12C ||
-| HP-12C Platinum ||
-| HP-16C ||
-| HP-17B ||
-| HP-41CV ||
-| HP-41CX ||
-|| HP-41 Card Reader |
-|| HP-41 Memory Modules |
-|| HP-41 Program Modules |
-| HP-45 ||
-| HP-48GX ||
-| HP-67 ||
-
-### Photography 
-
-Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. My first 35mm SLR is the Canon A-1, which I still own and use is the Canon A-1, an innovative camera in 1980 with its shutter priority, aperture priority, program, stoped-down metering, and manual control; I added a few accessories, and a few lenses. I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L.
-
-My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered the classic look of B&W film when I photographed the final Space Shuttle landing. Since it was a pre-dawn landing, color would have been wasted. For that year, I had two photography projects:
-1) Photograph the sunrise over Columbia, South Carolina from the Lake Murray dam on the equinoxes and solstices;
-2) Photograph the full moon rising and setting (started in February and carried over to January).
-
-#### Camera equipment
-
-| Gear | Lenses, Accessories |
-|------|-------------|
-| Canon A-1 (FD Mount) | Motor Drive MA | 
-|| Sunpak 522 Flash |
-| Canon F-1N (FD Mount) | Canon AE Motor Drive FN |
-|| Canon AE Finder FN |
-|| center-weighted split-image/microprism metering screen |
-|| partial split-image/microprism metering screen |
-|| spot split-image/microprism metering screen |
-|| Canon Auto Bellows |
-| FD Mount Lenses | Canon FD 28mm f2.8 |
-|| Canon Macro Photo Lens 20mm f/3.5 |
-|| Canon FD 50mm f1.8 (2) |
-|| Profoto 80-205mm f4.5 |
-|| Spiratone 400mm f6.3 |
-| Canon EOS 5D Mark III | Canon RT 600 II flash |
-| EF Mount Lenses | Canon EF 24-105mm f4L |
-|| Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens |
-| PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
-|| 35mm slide film carriers (2) |
-
-| Bucket List Cameras | Status |
-|-----------|--------|
-| Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
-| Mamiya 645||
-| Mamiya RB67 or RZ67||
-| 4×5 monorail view camera ||
-
-#### [Camera Manuals, Software, Firmware: Updates/References](CanonFirmwareSoftware.md)
-
-#### Preferred Photography Retailers 
-
-| Company | Location | About |
-|---------|----------|-------|
-| [KEH](https://www.keh.com/)[^61] | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere. |
-| [B&H Photo/Video](https://www.bhphotovidphotograph/)[^62] | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics  |
-| [Lensrentals.com](https://www.lensrentals.com/)[^63] | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States |
-
-[^61]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^62]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^63]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+<hr>
 
 | [About KEH](https://www.keh.com/)[^61] |
 |-----|
@@ -496,112 +605,6 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/) and used equipment from [KEH](https://www.keh.com/), including a complete Canon New F-1 system. [KEH](https://www.keh.com/) also does camera repairs. I have rented lenses from [lensrentals.com](https://www.lensrentals.com/) for use at The Masters and for the 2017 Total Solar Eclipse. 
 
-### Beagles 
-
-Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
-neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
-Runner. We got Writer and Rebecca from conformation breeder and they have earned Championships along
-with the CD obedience titles.
-
-We have bred and raised a few litters.
-
-[Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
-
-### Water-skiing 
-
-I enjoy water-skiing. I learned on Lake Greenwood, South Carolina. I consider Lake Murray, 
-South Carolina to be my "home lake" since I live nearby. My wife, Paula, and I would camp
-at Hamilton Branch State Park on Clark Hill Lake, South Carolina and Georgia.
-
-Bodies of Water That I Have Skiied:
-- South Carolina Lakes 
-   - Lake Greenwood
-   - Lake Murray
-   - Clark Hill Lake
-- Midwestern Rivers
-   - Cedar River (Cedar Rapids, Iowa)
-   - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)
-
-## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
-
-South Carolina has a number of craft beer breweries. The heading links to a list of the current active breweries. Below are my favorite brews:
-
-1. River Rat Broad River Red Ale
-2. River Rat Mourning Stout
-4. Steelhands Coffee Lager 
-5. Palmetto Brewing Expresso 
-6. Palmetto Brewing GhostRider
-7. Holy City Brewing Bowens Island Oyster Stout
-8. Legal Remedy World Court Mocha Blonde Stout.
-9. Steelhands Pecan Brown Ale
-
-## Sky Above, Events, Weather
-
-| International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
-|------|--------|
-| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
-| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Lexington) | Lexington, South Carolina, USA |
-| [Sun & Moon Today](https://www.timeanddate.com/astronomy/usa/columbia) | Columbia, South Carolina, USA |
-| [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
-| [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
-| [Moon Phases](https://www.timeanddate.com/moon/phases/usa/columbia) | Columbia, South Carolina, USA |
-| [Solstices & Equinoxes](https://www.timeanddate.com/calendar/seasons.html?n=66) | Columbia, South Carolina, USA |
-| [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
-| [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
-| [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
-| [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
-| [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
-| [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
-| [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
-| [Weather Data @ Crossroads Fire Station](http://www.rcwinds.com/?tab=data&loc=Crossroads%20Fire%20Station) | Chapin, South Carolina, USA |
-|||
-|[USGS Current Conditions for USGS 02168500 LAKE MURRAY NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168500&format=gif&period=31 )| Lake Murray, South Carolina |
-|[USGS Current Conditions for USGS 02168501 LAKE MURRAY TAILRACE NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168501&format=gif&period=31 )| Lake Murray, South Carolina |
-|[Saluda River Below LK Murray Dam NR Columbia, SC - USGS Water Data for the Nation](https://waterdata.usgs.gov/monitoring-location/02168504/#parameterCode=00065&period=P7D )| Saluda River Below Lake Murray Dam, South Carolina |
-
-## Dewar's Profile
-
-| Dewar's Profile |
-|----|
-| RALPH HIGHTOWER |
-| PROFESSION: Software Developer |
-| HOBBY: Photography, water-skiing |
-| BUCKET LIST ACCOMPLISHMENT: Checked off 30 year old bucket list item (Witnessed final Space Shuttle launch and landing) |
-| QUOTE: Freedom from Consequences is not a protected Constitutional right. |
-| LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
-| MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
-| CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
-| BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br>
-| BUCKET LIST CAR: Chevrolet Corvette |
-| CAMERA BRAND: Canon |
-| FAVORITE (BEST) DOG BREED: Beagle |
-| FAVORITE NON-FICTION BOOK: Soul of a New Machine by Tracy Kidder |
-| FAVORITE SCIENCE FICTION: Dune Trilogy by Frank Herbert |
-| FAVORITE TECHNICAL BOOK: The Mythical Man-Month by Frederick Brooks |
-| FAVORITE TECHNICAL ENCYCLOPEDIA: The Art of Computer Programming by Donald Knuth |
-| FAVORITE MOVIE: Dune (2021) |
-| FAVORITE TELEVISION SERIES: Star Trek (The Original Series, Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds) |
-| BEST COVER SONG: [American Pie by Greenwood, South Carolina musicians](https://youtu.be/wmIB-WbZi6I) with blessings by Don McClain |
-| BEST PARODY: American Pie  [The Saga Begins by Weird Al Yankovic](https://youtu.be/hEcjgJSqSRU) |
-| BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
-| FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos |
-| GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) |
-| GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming) |
-| TENOR SAX: Clarence Clemmons |
-| MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQTV9iy9yw) |
-| WHY I DO WHAT I DO: Software development involves creativity |
-| PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) |
-| HIS BEER: River Rat Broad River Red Ale, Palmetto Expresso |
-
-## Television Series Reboots and Spinoffs (Worth Watching)
-
-I enjoy television 📺 series that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching. <br>
-
-[Television Series Reboots and Spinoffs](RebootedTVShows.md)
-
-## Tabasco Sauce Scoville Ratings 
-
-[Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
 
 
 ## Sports
