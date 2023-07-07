@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.0](https://github.com/RalphHightower/RalphHightower/compare/v1.18.4...v1.19.0) (2023-07-07)
+
+
+### Features
+
+* moved a bunch of stuff around  ([29eaae1](https://github.com/RalphHightower/RalphHightower/commit/29eaae12a76c478d5ca53648ab5d2cb2e9d08110))
+
 ## [1.18.4](https://github.com/RalphHightower/RalphHightower/compare/v1.18.3...v1.18.4) (2023-07-06)
 
 
