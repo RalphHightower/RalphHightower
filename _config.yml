@@ -57,8 +57,8 @@ last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
 titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
+  enabled:     false
+  strip_title: false
+  collections: true
 
 repository: "RalphHightower/RalphHightower"
