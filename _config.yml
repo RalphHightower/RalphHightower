@@ -50,16 +50,17 @@ mathjax: true
 # Build settings
 theme: minima
 
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
-
 plugins:
  - "jekyll-feed"
  - "jekyll-seo-tag"
  - "jekyll-last-modified-at"
- 
+ - "jekyll-titles-from-headings"
+
+ titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+  
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
