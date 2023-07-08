@@ -1,4 +1,4 @@
-#title: Ralph Hightower — Primary Website
+title: Ralph Hightower — Primary Website
 
 author:
   name: Ralph Hightower 
@@ -56,7 +56,7 @@ plugins:
 
 #titles_from_headings:
 #  enabled: true
-#  strip_title: false
+#  strip_title: true
 #  collections: true
   
 # Optional. The default date format, used if none is specified in the tag.
