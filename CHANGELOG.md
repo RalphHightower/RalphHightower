@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.1](https://github.com/RalphHightower/RalphHightower/compare/v1.19.0...v1.19.1) (2023-07-08)
+
+
+### Bug Fixes
+
+* delete triplet dashes, titles_from_headings  ([9270fef](https://github.com/RalphHightower/RalphHightower/commit/9270fef64e9ca14ed2a2970f8cfb850dfb1280fb))
+
 ## [1.19.0](https://github.com/RalphHightower/RalphHightower/compare/v1.18.4...v1.19.0) (2023-07-07)
 
 
