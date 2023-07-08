@@ -1,6 +1,5 @@
 # [USC Gamecock](https://www.sc.edu/) Sandstorm Theme Derived from [Jekyll](https://github.com/jekyll/)/[Minima](https://github.com/jekyll/minima)[^11]
 
-
 [^11]: footnote 1
 
 | [Communications and Marketing - Communications and Marketing](https://sc.edu/about/offices_and_divisions/communications/index.php) / [University of South Carolina](https://www.sc.edu/) |
@@ -19,6 +18,18 @@
 | 10% Black | HEX: #ECECEC |
 | Warm Grey |HEX: #676156 |
 | Sandstorm | HEX: #FFF2E3 |
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
 
 [Ralph Hightower](https://ralphhightower.github.io/)[^21]
 
