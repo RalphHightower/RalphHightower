@@ -194,6 +194,7 @@
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
+| **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
@@ -462,6 +463,7 @@
 | [Orange Pi 5 vs Raspberry Pi 4: The Differences / All3DP](https://all3dp.com/2/orange-pi-5-vs-raspberry-pi-4-differences/ ) |
 | **[SparkFun's RTK Reference Station Is Its "Most Capable" GNSS Receiver and Logger Yet - Hackster.io](https://www.hackster.io/news/sparkfun-s-rtk-reference-station-is-its-most-capable-gnss-receiver-and-logger-yet-057c07287fa9 )** |
 | **[64-core RISC-V motherboard and workstation enable native RISC-V development (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/06/30/64-core-risc-v-motherboard-and-workstation-enables-native-risc-v-development/ )** |
+| **[LicheePi 4A RISC-V SBC gets 16GB/128GB version, metal enclosure, 10.1-inch display, and more accessories - CNX Software](https://www.cnx-software.com/2023/07/10/licheepi-4a-risc-v-sbc-gets-16gb-128gb-version-metal-enclosure-10-1-inch-display-and-more-accessories/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
