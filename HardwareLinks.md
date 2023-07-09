@@ -131,6 +131,7 @@
 | [Milk-V Pioneer](https://milkv.io/pioneer )| (H/W) |
 | [Milk-V Mars](https://milkv.io/mars )| (H/W) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
+| **[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )** | **(H/W) $1999 128 GB + 1 TB** |
 | [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) <br> [Mouser Distributor](https://www.mouser.com/) | (H/W) |
 | **[Mixtile Core 3588E / Mixtile](https://www.mixtile.com/core-3588e/ )** | (H/W) 16GB |
 | [MS-98M3 3.5" SBC with Intel® Tiger Lake-UP3 for Fanless, Ultra Low-Power, High-Performance & Wide Temperature Solution](https://ipc.msi.com/product_detail/Single-Board-Computer/3.5%22-SBC/MS-98M3) | (H/W) |
