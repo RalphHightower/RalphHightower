@@ -1,4 +1,4 @@
-# Home Automation 
+t# Home Automation 
 
 I have not decided on which home automation system that I want to deploy, but my decision will be based on versatility. 
 
@@ -42,4 +42,5 @@ I have not decided on which home automation system that I want to deploy, but my
 | Products / Articles |
 |----|
 | [SparkFun Thing Plus Matter - MGM240P board supports Matter, Zigbee, OpenThread, and Bluetooth Low Energy 5.3 - CNX Software](https://www.cnx-software.com/2023/03/03/sparkfun-thing-plus-matter-mgm240p-board-supports-matter-zigbee-openthread-and-bluetooth-low-energy-5-3/ ) |
+| [Thing Plus Matter - MGM240P Hookup Guide - SparkFun Learn](https://learn.sparkfun.com/tutorials/sparkfun-thing-plus-matter---mgm240p-hookup-guide/all ) |
 | [Ventbots Are Fans Of HVAC And Home Automation / Hackaday](https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/ ) |
