@@ -187,9 +187,8 @@
 | [NASA](https://youtube.com/@NASA ) | Space Exploration |
 | [SpaceX](https://youtube.com/@SpaceX ) | Space Exploration |
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
+| [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
 | [DEWALT TV](https://youtube.com/@dewalttv ) | Tools |
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
 | [jeffostroff](https://youtube.com/@jeffostroff ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |
-| [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
-| [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
