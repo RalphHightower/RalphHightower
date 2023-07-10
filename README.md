@@ -352,6 +352,22 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
+### [University of South Carolina Athletics](https://www.gamecocksonline.com/)
+
+| Men's | Women’s |
+|----|----|
+| [Baseball](https://gamecocksonline.com/sports/baseball/ ) | [Softball](https://gamecocksonline.com/sports/softball/ ) |
+| [Men’s Basketball](https://gamecocksonline.com/sports/mbball/ ) | [Women’s Basketball](https://gamecocksonline.com/sports/wbball/ ) |
+| [Football](https://gamecocksonline.com/sports/football/ ) | [Women’s Cross Country Athletics](https://gamecocksonline.com/sports/wcross/ ) |
+| [Men’s Golf](https://gamecocksonline.com/sports/mgolf/ ) | [Women’s Golf](https://gamecocksonline.com/sports/wgolf/ ) |
+| [Men’s Soccer](https://gamecocksonline.com/sports/msoc/ ) | [Women’s Soccer](https://gamecocksonline.com/sports/wsoc/ ) |
+| [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) | [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) |
+| [Men’s Tennis](https://gamecocksonline.com/sports/mten/ ) | [Women’s Tennis](https://gamecocksonline.com/sports/wten/ ) |
+[Track and Field](https://gamecocksonline.com/sports/track/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ )
+| | [Beach Volleyball](https://gamecocksonline.com/sports/bvball/ ) |
+| | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
+| | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
+
 ## Sky Above, Events, Weather
 
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
