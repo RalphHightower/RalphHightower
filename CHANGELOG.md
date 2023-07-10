@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.0](https://github.com/RalphHightower/RalphHightower/compare/v1.19.2...v1.20.0) (2023-07-10)
+
+
+### Features
+
+* USC Gamecock Sandstorm theme – Production Ready ([aa0c875](https://github.com/RalphHightower/RalphHightower/commit/aa0c8754444b9ddd9907f37ab70b70a7ef6ce328))
+
 ## [1.19.2](https://github.com/RalphHightower/RalphHightower/compare/v1.19.1...v1.19.2) (2023-07-10)
 
 
