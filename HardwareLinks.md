@@ -70,6 +70,7 @@
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 |
 | **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br>**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
+| **[Firefly – ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB** 
 | **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
 | [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W) |
 | [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W) |
@@ -181,6 +182,7 @@
 | **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br> $144.95 USD (4GB)<br>$169.95 USD (8GB)<br>**$219.95 USD (16GB)** |
 | [Rockchio Rk3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops Ai Npu,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html ) | (H/W) $191.05 16GB RAM/64G eMMC |
 | [Rockchip Rk3568 Evb Demo Board, Providing Single Board Hardware And Embedded Software Sdk - Demo Board - AliExpress](https://www.aliexpress.com/item/1005002343008085.html ) | (H/W) $1247.32|
+| **[Rockchip Development Board / Rockchip Rk 3588 / Rockchip Rk3588 / Rock Pi Rk3588 / Rk3588 Board - Demo Board - Aliexpress](https://www.aliexpress.com/item/1005004300099227.html )** | **(H/W) $357.74 16GB/128GB** |
 | [SB Components — Shopify](https://sbcshop.myshopify.com/) | (H/W) |
 | [SB Components \(UK\)](https://shop.sb-components.co.uk/) | (H/W) |
 | [Seed Studio Bazaar, the IoT Hardware Enabler](https://www.seeedstudio.com/) | (H/W) |
@@ -464,6 +466,8 @@
 | **[SparkFun's RTK Reference Station Is Its "Most Capable" GNSS Receiver and Logger Yet - Hackster.io](https://www.hackster.io/news/sparkfun-s-rtk-reference-station-is-its-most-capable-gnss-receiver-and-logger-yet-057c07287fa9 )** |
 | **[64-core RISC-V motherboard and workstation enable native RISC-V development (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/06/30/64-core-risc-v-motherboard-and-workstation-enables-native-risc-v-development/ )** |
 | **[LicheePi 4A RISC-V SBC gets 16GB/128GB version, metal enclosure, 10.1-inch display, and more accessories - CNX Software](https://www.cnx-software.com/2023/07/10/licheepi-4a-risc-v-sbc-gets-16gb-128gb-version-metal-enclosure-10-1-inch-display-and-more-accessories/ )** |
+| **[Rockchip RK3588 CPU module exposes more I/Os through four board-to-board connectors - CNX Software](https://www.cnx-software.com/2022/05/26/rockchip-rk3588-cpu-module-board-to-board-connectors/ )** |
+| **[Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
