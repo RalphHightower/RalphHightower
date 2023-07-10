@@ -229,7 +229,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [GM-Canada-Onstar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular 2G CDMA technology in 2015  |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^31] |
-| [RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
+| [RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
 
 ### Obsolete Computer Collection 
 
