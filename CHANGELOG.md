@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.1](https://github.com/RalphHightower/RalphHightower/compare/v1.20.0...v1.20.1) (2023-07-10)
+
+
+### Bug Fixes
+
+* stackoverflow account ([1c10a07](https://github.com/RalphHightower/RalphHightower/commit/1c10a076662a56acb0480f8e8e4fdbdf63c8e5ac))
+
 ## [1.20.0](https://github.com/RalphHightower/RalphHightower/compare/v1.19.2...v1.20.0) (2023-07-10)
 
 
