@@ -594,6 +594,8 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 ## Preferred Photography Vendors 
 
+I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/)[^62] and used equipment from [KEH](https://www.keh.com/)[^61], including a complete Canon New F-1 system. [KEH](https://www.keh.com/) also does camera repairs. I have rented lenses from [lensrentals.com](https://www.lensrentals.com/)[^63] for use at The Masters and for the 2017 Total Solar Eclipse. 
+
 | [About KEH](https://www.keh.com/)[^61] |
 |-----|
 | We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
@@ -620,8 +622,6 @@ An opportunity. A chance to create and share something extraordinary with the wo
 | Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
 | We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
 | What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site LensAuthority.com sells tested, guaranteed used equipment at an exceptional price. |
-
-I have bought new and used equipment from [B&H](https://www.bhphotovideo.com/) and used equipment from [KEH](https://www.keh.com/), including a complete Canon New F-1 system. [KEH](https://www.keh.com/) also does camera repairs. I have rented lenses from [lensrentals.com](https://www.lensrentals.com/) for use at The Masters and for the 2017 Total Solar Eclipse. 
 
 ## Sports
 
