@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.2](https://github.com/RalphHightower/RalphHightower/compare/v1.19.1...v1.19.2) (2023-07-10)
+
+
+### Bug Fixes
+
+* table border color ([02524ae](https://github.com/RalphHightower/RalphHightower/commit/02524aeab9b2d863e191247035e2108817478df4))
+
 ## [1.19.1](https://github.com/RalphHightower/RalphHightower/compare/v1.19.0...v1.19.1) (2023-07-08)
 
 
