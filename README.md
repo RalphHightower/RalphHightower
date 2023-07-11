@@ -118,8 +118,8 @@ I also have different categories of bucket lists.
 | BEST MUSIC VIDEO: [Learning to Fly by Pink Floyd](https://youtu.be/nVhNCTH8pDs) |
 | FAVORITE ALBUM: Layla and Other Assorted Love Songs by Derek and the Dominos |
 | GOAT ALTO SAX: [Candy Dulfer](https://youtube.com/channel/UCv_ecDLtmmc-Y_sTW1ZVzgw) |
+| GOAT TENOR SAX: Clarence Clemmons |
 | GOAT DRUMMER: [Sena Doering](https://youtube.com/c/sinadrumming) |
-| TENOR SAX: Clarence Clemmons |
 | MOST VERSATILE BAND: [Dire Straits](https://youtube.com/channel/UC9HKX4sDEYdgDEQTV9iy9yw) |
 | WHY I DO WHAT I DO: Software development involves creativity |
 | PROFILE: INTP (Myers-Briggs: Introvert, iNtuitive, Thinking, Perceptive) |
@@ -503,6 +503,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
 | [OpenZFS](https://github.com/openzfs) | ZFS file system for Linux, BSD |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
+| [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
