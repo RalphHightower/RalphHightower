@@ -27,6 +27,8 @@
 | [Smithsonian National Air and Space Museum](https://youtube.com/@airandspace ) | Education |
 | [South Carolina Gamecocks](https://youtube.com/@GamecocksOnline ) | Education |
 | [University of South Carolina](https://youtube.com/@UofSC ) | Education |
+| [Fran Blanche](https://youtube.com/@FranLab ) | Electronics |
+| [Jeri Ellsworth](https://youtube.com/@jeriellsworth ) | Electronics |
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
