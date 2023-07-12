@@ -291,7 +291,7 @@ A technology company had shut down and one of the Affinity Technology Group form
 | HP-48GX ||
 | HP-67 ||
 
-### Beagles 
+### [Beagles](Beagles.md)
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
 neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
@@ -497,11 +497,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
-| [OpenNMS](https://github.com/OpenNMS ) | OpenNMS — Enterprise-Grade Open-Source Network Management |
+| [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
 | [OpenZFS](https://github.com/openzfs) | ZFS file system for Linux, BSD |
+| [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
