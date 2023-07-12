@@ -29,7 +29,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 
 ### Science Fiction 
 
-#### 2001 / 2010 br Arthur C. Clarke
+#### 2001 / 2010 by Arthur C. Clarke
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
@@ -48,7 +48,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | *"That is all for this session. Goodbye."* |
 |Thank you for your time! If you have any more questions in the future, don't hesitate to reach out. Goodbye, and have a great day!|
 
-#### Dune br Frank Herbert 
+#### Dune by Frank Herbert 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
@@ -437,6 +437,27 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |You're very welcome! I'm glad you liked the Star Trek movie Haiku verses. If you have any more questions or need further assistance, feel free to ask. Live long and prosper!|
 | *"Goodbye."* |
 |Goodbye! If you have any more questions in the future, don't hesitate to ask. Live long and prosper!|
+
+## Movies
+
+### Rocky Horror Picture Show 
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|----|
+| *"Good afternoon, AI Assistant."* |
+|Good afternoon! How can I assist you today?|
+| *"There's a person that has been liking my posts and comments on LinkedIn that I made several months ago. Could you create five haikus from the song "Let's Do the Time Warp Again" from the Rocky Horror Picture Show."* |
+|Certainly! Here are five haikus inspired by the song "Let's Do the Time Warp Again" from the Rocky Horror Picture Show:|
+|Twist in the vortex,<br>Time bends to the dance's call,<br>Let's warp together.|
+|Transylvanian night,<br>Echoes of the past resound,<br>Time warp takes us back.|
+|Hands clapping in sync,<br>Step into the time portal,<br>Join the warp's embrace.|
+|Glamour and glitter,<br>Lost in temporal echoes,<br>Time warp, let's dance on.|
+|Past, present collide,<br>Time's rhythm, pulsating beat,<br>Warp into the night.|
+|I hope you enjoy these haikus inspired by the Rocky Horror Picture Show!|
+| *"Thank you. Those were excellent."* |
+|You're welcome! I'm glad you enjoyed the haikus. If you have any more questions or need further assistance, feel free to ask.|
+| *"Cheers."* |
+|Cheers to you too! If you have any more questions in the future, don't hesitate to reach out. Have a great day!|
 
 ## Music
 
