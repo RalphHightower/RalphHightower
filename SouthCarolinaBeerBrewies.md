@@ -47,7 +47,6 @@
 | [Hunter Gatherer Brewery/Taproom](https://huntergathererbrewery.com/)[^2] | Columbia |
 | Independent Republic Brewing Company[^4] | Myrtle Beach ||
 | [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/)[^3] | Charleston ||
-| [Iron Hill Brewery and Restaurant](https://www.ironhillbrewery.com/greenville-sc)[^3] | Greenville ||
 | Jocassee Valley Brewing Company[^4] | Salem |
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
 | Kite Hill Brewery[^8] | Clemson ||
