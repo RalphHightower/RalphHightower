@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.5](https://github.com/RalphHightower/RalphHightower/compare/v1.20.4...v1.20.5) (2023-07-13)
+
+
+### Bug Fixes
+
+* **GitHubCompanies:** should be 2 columns, not 4 ([6c5d69d](https://github.com/RalphHightower/RalphHightower/commit/6c5d69da7434425b06650995ef0d0ab5a33798a7))
+
 ## [1.20.4](https://github.com/RalphHightower/RalphHightower/compare/v1.20.3...v1.20.4) (2023-07-13)
 
 
