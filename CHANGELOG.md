@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.2](https://github.com/RalphHightower/RalphHightower/compare/v1.20.1...v1.20.2) (2023-07-13)
+
+
+### Bug Fixes
+
+* proper use of mourning, extra line breaks for River's obit. ([1369d80](https://github.com/RalphHightower/RalphHightower/commit/1369d80fb3647be372d9fc3a646bbfc5d08f7a63))
+
 ## [1.20.1](https://github.com/RalphHightower/RalphHightower/compare/v1.20.0...v1.20.1) (2023-07-10)
 
 
