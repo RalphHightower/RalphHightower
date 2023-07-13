@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.4](https://github.com/RalphHightower/RalphHightower/compare/v1.20.3...v1.20.4) (2023-07-13)
+
+
+### Bug Fixes
+
+* footnote for nuclear accidents ([9bfce86](https://github.com/RalphHightower/RalphHightower/commit/9bfce8673032c0c288c98589689865c12b47bfb1))
+
 ## [1.20.3](https://github.com/RalphHightower/RalphHightower/compare/v1.20.2...v1.20.3) (2023-07-13)
 
 
