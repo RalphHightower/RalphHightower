@@ -466,6 +466,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Amazon Archives](https://github.com/amazon-archives )| |
 | [Ansible](https://github.com/ansible )|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
 | [Arm Software](https://github.com/ARM-software ) ||
+| [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
 | [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
@@ -500,7 +501,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
-| [openmediavault](https://github.com/openmediavault ) |openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments || [Armbian](https://github.com/armbian) | Linux for single board computers |
+| [openmediavault](https://github.com/openmediavault ) |openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
