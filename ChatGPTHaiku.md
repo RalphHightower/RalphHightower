@@ -740,9 +740,9 @@ Good afternoon! How can I assist you today?|
 | *"Cheers."* |
 |Cheers to you too! If you ever need assistance in the future, don't hesitate to reach. out. Have a wondeful day!|
 
-## 1979 Nuclear Accidents, Real & Fictional Haiku[^21]
+## 1979 Nuclear Accidents, Real & Fictional Haiku[^51]
 
-[^21]: These two nuclear accidents, real and fictional, were referenced in Billy Joel's "We Didn't Start the Fire"
+[^51]: These two nuclear accidents, real and fictional, were referenced in Billy Joel's "We Didn't Start the Fire"
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
