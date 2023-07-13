@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.3](https://github.com/RalphHightower/RalphHightower/compare/v1.20.2...v1.20.3) (2023-07-13)
+
+
+### Bug Fixes
+
+* heading levels ([9e4362f](https://github.com/RalphHightower/RalphHightower/commit/9e4362f260b2dfdd0c525e7c601583ccf525c121))
+
 ## [1.20.2](https://github.com/RalphHightower/RalphHightower/compare/v1.20.1...v1.20.2) (2023-07-13)
 
 
