@@ -471,6 +471,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Arduino](https://github.com/arduino) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries. |
 | [Arduino Libraries](https://github.com/arduino-libraries) | This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
+| [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework|
 | [CHIPS Alliance](https://github.com/chipsalliance ) |
 Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
@@ -493,6 +494,8 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
+| [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
+| [Mastercard](https://github.com/Mastercard ) | |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software.|
@@ -530,6 +533,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
+| [Visa](https://github.com/visa ) | |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
