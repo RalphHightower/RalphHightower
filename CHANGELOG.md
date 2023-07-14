@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.7](https://github.com/RalphHightower/RalphHightower/compare/v1.20.6...v1.20.7) (2023-07-14)
+
+
+### Bug Fixes
+
+* social_links in _config.yml ([bef010a](https://github.com/RalphHightower/RalphHightower/commit/bef010a80e652d21f6193763fd43ee31ba1508f0))
+
 ## [1.20.6](https://github.com/RalphHightower/RalphHightower/compare/v1.20.5...v1.20.6) (2023-07-14)
 
 
