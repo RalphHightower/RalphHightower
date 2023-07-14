@@ -19,7 +19,7 @@
 |202|[CNN](https://www.#.com/)|203|[MSNBC](https://www.#.com/)|
 |204|[C-SPAN](https://www.#.com/)|205|[Bloomberg](https://www.#.com)|
 |206|[CNBC](https://www.#.com/)|207|[The Weather Channel](https://www.#.com/)|
-|208|[BBC America](https://www.bbcamerica.com/schedule??tz=ET)|
+|208|[BBC America](https://www.bbcamerica.com/schedule?tz=ET)|
 |300|[ESPN](https://www.#.com/)|301|[ESPN2](https://www.#.com/)|
 |302|[ESPNU](https://www.#.com/)|303|[ESPNews](https://www.#.com/)|
 |304|[ESPN Classic](https://www.#.com/)|305|[Golf](https://www.#.com/)|
@@ -31,7 +31,7 @@
 |406|[E!](https://www.#.com/)|407|[ABC Family](https://www.#.com/)|
 |408|[Animal Planet](https://www.#.com/)|409|[Science Channel](https://www.#.com/)|
 |410|[History](https://www.#.com/)|411|[Discovery](https://www.#.com/)|
-|412|[National Geographic](https://www.#.com/)|413|[AMC](https://www.amc.com/schedule??tz=ET)|
+|412|[National Geographic](https://www.#.com/)|413|[AMC](https://www.amc.com/schedule?tz=ET)|
 |414|[TBS](https://www.#.com/)|415|[A&E](https://www.#.com/)|
 |416|[TNT](https://www.#.com/)|417|[TLC](https://www.#.com/)|
 |418|[TruTV](https://www.#.com/)|419|[BET](https://www.#.com/)|
