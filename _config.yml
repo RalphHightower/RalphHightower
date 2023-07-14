@@ -21,7 +21,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
   # generate social links in footer
-social_links:
+  social_links:
      - { platform: devto,          user_url: "https://dev.to/RalphHightower"}
   #   - { platform: dribbble,       user_url: "https://dribbble.com/RalphHightower" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/ralph.hightower" }
