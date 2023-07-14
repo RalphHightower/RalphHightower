@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.6](https://github.com/RalphHightower/RalphHightower/compare/v1.20.5...v1.20.6) (2023-07-14)
+
+
+### Bug Fixes
+
+* **BBC America:** BBC America link ([1f29715](https://github.com/RalphHightower/RalphHightower/commit/1f29715fb860882181f2870807ac3e63a84d42e1))
+
 ## [1.20.5](https://github.com/RalphHightower/RalphHightower/compare/v1.20.4...v1.20.5) (2023-07-13)
 
 
