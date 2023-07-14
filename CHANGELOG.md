@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.8](https://github.com/RalphHightower/RalphHightower/compare/v1.20.7...v1.20.8) (2023-07-14)
+
+
+### Bug Fixes
+
+* add youtube.svg ([fe8d310](https://github.com/RalphHightower/RalphHightower/commit/fe8d310f10e9f6480b61194c91826ec7502ce5ed))
+
 ## [1.20.7](https://github.com/RalphHightower/RalphHightower/compare/v1.20.6...v1.20.7) (2023-07-14)
 
 
