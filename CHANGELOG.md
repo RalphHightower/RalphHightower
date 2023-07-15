@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.9](https://github.com/RalphHightower/RalphHightower/compare/v1.20.8...v1.20.9) (2023-07-15)
+
+
+### Bug Fixes
+
+* PTP table ([e10bc21](https://github.com/RalphHightower/RalphHightower/commit/e10bc211aa6de1fa7137cb4f6cd9f5176f6d6f7e))
+
 ## [1.20.8](https://github.com/RalphHightower/RalphHightower/compare/v1.20.7...v1.20.8) (2023-07-14)
 
 
