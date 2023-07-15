@@ -454,6 +454,26 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 [Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
 
+#### Assessment of Software Package Data Exchange Licenses 
+
+The following licenses from the [Software Package Data Exchange](https://spdx.org/) are those that are OSI approved that mandate reciprocal source code sharing.
+
+##### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
+
+| License | Short Identifor | OSI Approved | Disclose Source Changes | 
+|---|---|---|---|
+| [Adaptive Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/APL-1.0.html ) | APL-1.0 | Y | Must |
+| [GNU Affero General Public License v3.0 only / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/AGPL-3.0-only.html ) | AGPL-3.0-only | Y | Must |
+| [Motosoto License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Motosoto.html ) | Motosoto | Y | Must |
+| ~~[Q Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/QPL-1.0.html )~~  | QPL-1.0 | Y | **Recipients Only** |
+| [RealNetworks Public Source License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPSL-1.0.html ) | RPSL-1.0 | Y | Must |
+| [Reciprocal Public License 1.1 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.1.html ) | RPL-1.1 | Y | Must |
+| [Reciprocal Public License 1.5 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.5.html ) | RPL-1.5 | Y | Must |
+| [Ricoh Source Code Public License / Software Package Data Exchange  (SPDX)](https://spdx.org/licenses/RSCPL.html ) | RSCPL | Y | Must |
+| [Sleepycat License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Sleepycat.html ) | Sleepycat | Y | Must |
+| [Simple Public License 2.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SimPL-2.0.html ) | SimPL-2.0 | Y | Must |
+| [Sun Public License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SPL-1.0.html ) | SISSL | Y | Must (?) |
+
 ## [GitHub](https://github.com/)
 
 | Companies on GitHub | Description |
