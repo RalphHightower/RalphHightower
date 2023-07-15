@@ -319,7 +319,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 |   |    |
 |----|----|
 | [Time Appliance Project](https://github.com/opencomputeproject/Time-Appliance-Project) | Time Master is a critical part of a PTP enabled network. It provides accurate time via GNSS while maintaining accuracy in case of GNSS failure via a high stability (and holdover) oscillator such as an atomic clock. Existing products in the market are often closed sourced and are far from having sufficient features. The Time Card project presents an open source solution via a PCIe card. |
-| [YouTube PTP](https://youtu.be/tU0xC1ynaT8) ||m
+| [YouTube PTP](https://youtu.be/tU0xC1ynaT8) ||
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
 | [Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) ||
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
