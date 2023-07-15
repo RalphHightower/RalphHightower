@@ -460,6 +460,10 @@ The following licenses from the [Software Package Data Exchange](https://spdx.or
 
 ##### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
 
+I went through the list of licenses listed on: [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ) and reviewed the licenses that have OSI marked as Y since OSI is an international standards organization. The usual IANAL[^101] applies to my assessment. I chose those licenses where, in my opinion, the entity modifying the source must reciprocate and  publish their source code modifications. 
+
+[^101]: I am not a lawyer. 
+
 | License | Short Identifor | OSI Approved | Disclose Source Changes | 
 |---|---|---|---|
 | [Adaptive Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/APL-1.0.html ) | APL-1.0 | Y | Must |
