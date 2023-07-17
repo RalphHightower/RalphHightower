@@ -28,7 +28,7 @@
 | [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
 |[10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/ )|
 
-#### Careerr/Job Search Advice/Interview Questions 
+## Career/Job Search Advice/Interview Questions 
 
 | Career/Job Search/Interview Preparation |
 |----|
@@ -37,7 +37,7 @@
 |[20 (Intermediate-Level) C# Interview Questions Part 3 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ ) |
 |[20 C# Interview Questions (for Experienced) 2023 Part 4 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
 
-#### Kubernetes 
+## Kubernetes 
 
 | Kubernetes |
 |----|
@@ -46,14 +46,14 @@
 |[Kubespray: Automated Kubernetes Home Lab Setup - Virtualization How To](https://www.virtualizationhowto.com/2023/05/kubespray-automated-kubernetes-home-lab-setup/ )|
 | [Kubectl Port Forwarding: Easy Kubernetes Ports Access - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/kubectl-port-forwarding-easy-kubernetes-ports-access/ ) |  - HomeLab
 
-#### Home Lab
+## Home Lab
 
 | Home Lab |
 |---|
 | [Top 7 Low Power Home Server Tips and Tricks in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/top-7-low-power-home-server-tips-and-tricks-in-2023/ ) |
 
 
-#### Facebook[^2]
+## Facebook[^2]
 
 [^2]: Sorry Meta, but you will always be known as Facebook. 
 
@@ -62,7 +62,7 @@
 | [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/productin-engineering/precision-time-protocol-at-meta/) |
 | [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/) |
 
-### Technical Blogs
+## Technical Blogs
 
 | Technical Blogs |
 |----|
@@ -77,7 +77,7 @@
 | [Netflix Technology Blog – Medium](https://netflixtechblog.medium.com/ ) |
 | [VS Code - DEV Community](https://dev.to/appmap/ ) |
 
-#### ARM
+## ARM
 
 | [Arm](https://www.arm.com/) |
 |----|
@@ -94,13 +94,13 @@
 | [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/)<br>What had started as twelve people and a dream was now a billion-dollar company. |
 | [A history of ARM, part 3: Coming full circle](https://arstechnica.com/gadgets/2023/01/a-history-of-arm-part-3-coming-full-circle/) |
 
-#### RISC-V
+## RISC-V
 
 | [RISC-V](https://riscv.org/) |
 |----|
 ||
 
-#### SPARC
+## SPARC
 
 | [SPARC](https://sparc.org/) |
 |----|
