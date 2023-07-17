@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.10](https://github.com/RalphHightower/RalphHightower/compare/v1.20.9...v1.20.10) (2023-07-17)
+
+
+### Bug Fixes
+
+* updated copyright year ([7c3ce98](https://github.com/RalphHightower/RalphHightower/commit/7c3ce98da370c716906c4de665261e10bfd639aa))
+
 ## [1.20.9](https://github.com/RalphHightower/RalphHightower/compare/v1.20.8...v1.20.9) (2023-07-15)
 
 
