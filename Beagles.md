@@ -2,27 +2,47 @@
 
 | Registered Name | Call Name | Birth | Death |
 |-----------------|-----------|-------|-------|
-|| Sport |1978 | 1981 |
-| Road Runner of Raintree CD | Runner | 1981-11-20 |
-| Lone Ranger of Raintree CD | Ranger | 1981-11-20 |
-| Ch. Harnetts Playwright CD | Writer ||
-| Ch. Sureluvs Little Rebecca CD | Becky ||
-| Lynmax King of the Road | Trucker ||
-| Lynmax Born A Travelin' Man[^1] | Traveler ||
-| Lee's Lady in Red of Holihouse | Lady ||
-| Lynmax Apache Warrior | Patton ||
-| Lynmax Apache Princess | Princess ||
-| Harnetts Centerfold | Jill ||
-| Harnetts Storm Chaser | Chaser ||
-| Harnetts Blockade Runner | Rebel ||
-| Lynmax Wherefore Bark Thou | Romeo | 2001-12-10 |
-| Lynmax Heart and Soul | Sweetheart | 2001-12-10 | 2016-01-29 |
-| Lynmax Athena | Athena | 2009-01-14 | 2020-11-30 |
-| Lynmax Zeus | Zeus | 2009-01-14 | 2020-10-27 |
-| Encore River of Dreams at Lynmax | River | 2016-07-05 | 2023-06-14 |
-| GCH CH Ornre One’s Don’t Mess With Texas BCAT | Austin | 2011-10-26 ||
+|| Sport[^11] | 1978 | 1981 |
+| Road Runner of Raintree CD[^12] | Runner | 1981-11-20 |
+| Lone Ranger of Raintree CD[^13] | Ranger | 1981-11-20 |
+| Ch. Harnetts Playwright CD[^14] | Writer ||
+| Ch. Sureluvs Little Rebecca CD[^15]| Becky ||
+| Densom Playing Possum[^16] | Possom ||
+| Lynmax Apache Warrior[^17] | Patton ||
+| Lynmax Apache Princess[^18] | Princess ||
+| Lynmax King of the Road[^19] | Trucker ||
+| Lynmax Born A Travelin' Man[^20] | Traveler ||
+| Lee's Lady in Red of Holihouse[^21] | Lady ||
+| Harnetts Centerfold[^22] | Jill ||
+| Harnetts Blockade Runner[^25] | Rebel ||
+| Harnetts Storm Chaser[^26] | Chaser ||
+| Lynmax Wherefore Bark Thou[^23] | Romeo | 2001-12-10 |
+| Lynmax Heart and Soul[^24] | Sweetheart | 2001-12-10 | 2016-01-29 |
+| Lynmax Athena[^27] | Athena | 2009-01-14 | 2020-11-30 |
+| Lynmax Zeus[^28] | Zeus | 2009-01-14 | 2020-10-27 |
+| Encore River of Dreams at Lynmax[^29] | River | 2016-07-05 | 2023-06-14 |
+| GCH CH Ornre One’s Don’t Mess With Texas BCAT[^30] | Austin | 2011-10-26 ||
 
-[^1]: I was mistaken about the Allman Brothers Song "Born a Rambling Man"
+[^11]: Sport - Someone dropped Sport off in our neighborhood. Paula named Sport after a poodle that she had while growing up.
+[^12]: Runner - When we first saw the litter, Runner was the first that was trying to run, so he was named Road Runner
+[^13]: Ranger - On our second visit, Ranger has black around his eyes like a mask, so 
+[^14]: Writer - Writer was already named, he was named after a racehorse, but a playwright is a writer. 
+[^15]: Becky - She was named after a character in a Dickens novel. Our dogs' named were confusing to members of the Greater Columbia Obedience Club, all beginning with an R sound (Ranger, Runner, and Writer); we kept it up, but gave the a break.
+[^16]: Possom - She was already named.
+[^17]: Patton - We named this litter honoring their sire, who had Apache in his registered name. 
+[^18]: Princess - We named this litter honoring their sire, who had Apache in his registered name. 
+[^19]: Trucker - Less than 24 hours old, they had crawled away from their mom, so they were given songs of the road.
+[^20]: Traveler - Less than 24 hours old, they had crawled away from their mom, so they were given songs of the road. But I was wrong about the Allman Brothers Song. It's "Called a Rambling Man". But Trucker and Traveler fits with the theme of naming litters beginning with one letter of the alphabet.
+[^21]: Lady - Named by breeder.
+[^22]: Jill - She was already named by the breeder.
+[^23]: Romeo - Paula wanted the Romeo name, so it's a play off "Wherefore art thou?"
+[^24]: Sweetheart - She was named after the T'Pau song, Heart and Soul. 
+[^25]: Rebel - He was already named by the breeder.
+[^26]: Chaser - He was already named by the breeder.
+[^27]: Athena - Paula wanted the name after Greek mythology.
+[^28]: Zeus - Paula wanted the name after Greek mythology.
+[^29]: River - The breeder wanted Dream as part of her registered name, so we named her after the Billy Joel song.
+[^30]: Austin - He was already named by the breeder.
 
 ## Athena, Zeus, and River 
 
