@@ -166,6 +166,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 
 | Photography Blogs |
 |----|
+| [35mmc - Photography Blog - Reviews, Theory, Reflections, Tutorials, Knowhow and Photography Experiences](https://www.35mmc.com/ ) |
 | [B&H Photography/Video Explora — Photography](https://www.bhphotovideo.com/explora/photography) |
 | [Digital Camera World — Camera news, reviews and features](https://www.digitalcameraworld.com/ ) |
 | [DP Review](https://www.dpreview.com/) |
