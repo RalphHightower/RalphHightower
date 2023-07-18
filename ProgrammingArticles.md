@@ -27,6 +27,7 @@
 | [Elevating open source contributors to open source maintainers / The GitHub Blog](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/ ) |
 | [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
 |[10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/ )|
+| [amis92/csharp-source-generators: A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.](https://github.com/amis92/csharp-source-generators ) |
 
 ## Career/Job Search Advice/Interview Questions 
 
