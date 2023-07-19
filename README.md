@@ -450,34 +450,6 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
 
-### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
-
-[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
-
-#### Assessment of Software Package Data Exchange Licenses 
-
-The following licenses from the [Software Package Data Exchange](https://spdx.org/) are those that are OSI approved that mandate reciprocal source code sharing.
-
-##### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
-
-I went through the list of licenses listed on: [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ) and reviewed the licenses that have OSI marked as Y since OSI is an international standards organization. The usual IANAL[^101] applies to my assessment. I chose those licenses where, in my opinion, the entity modifying the source must reciprocate and  publish their source code modifications. 
-
-[^101]: I am not a lawyer. 
-
-| License | Short Identifor | OSI Approved | Disclose Source Changes | 
-|---|---|---|---|
-| [Adaptive Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/APL-1.0.html ) | APL-1.0 | Y | Must |
-| [GNU Affero General Public License v3.0 only / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/AGPL-3.0-only.html ) | AGPL-3.0-only | Y | Must |
-| [Motosoto License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Motosoto.html ) | Motosoto | Y | Must |
-| ~~[Q Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/QPL-1.0.html )~~  | QPL-1.0 | Y | **Recipients Only** |
-| [RealNetworks Public Source License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPSL-1.0.html ) | RPSL-1.0 | Y | Must |
-| [Reciprocal Public License 1.1 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.1.html ) | RPL-1.1 | Y | Must |
-| [Reciprocal Public License 1.5 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.5.html ) | RPL-1.5 | Y | Must |
-| [Ricoh Source Code Public License / Software Package Data Exchange  (SPDX)](https://spdx.org/licenses/RSCPL.html ) | RSCPL | Y | Must |
-| [Sleepycat License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Sleepycat.html ) | Sleepycat | Y | Must |
-| [Simple Public License 2.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SimPL-2.0.html ) | SimPL-2.0 | Y | Must |
-| [Sun Public License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SPL-1.0.html ) | SISSL | Y | Must (?) |
-
 ## [GitHub](https://github.com/)
 
 | Companies on GitHub | Description |
@@ -623,6 +595,65 @@ Common Hardware for Interfaces, Processors and Systems |
 [Open Source Projects](FavOpenSourceProjects.md)
 
 [Useful Software / Utilities](Software.md)
+
+### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
+
+[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
+
+#### Assessment of Software Package Data Exchange Licenses 
+
+The following licenses from the [Software Package Data Exchange](https://spdx.org/) are those that are OSI approved that mandate reciprocal source code sharing.
+
+##### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
+
+I went through the list of licenses listed on: [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ) and reviewed the licenses that have OSI marked as Y since OSI is an international standards organization. The usual IANAL[^101] applies to my assessment. I chose those licenses where, in my opinion, the entity modifying the source must reciprocate and  publish their source code modifications. 
+
+[^101]: I am not a lawyer. 
+
+| License | Short Identifor | OSI Approved | Disclose Source Changes | 
+|---|---|---|---|
+| [Adaptive Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/APL-1.0.html ) | APL-1.0 | Y | Must |
+| [GNU Affero General Public License v3.0 only / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/AGPL-3.0-only.html ) | AGPL-3.0-only | Y | Must |
+| [Motosoto License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Motosoto.html ) | Motosoto | Y | Must |
+| ~~[Q Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/QPL-1.0.html )~~  | QPL-1.0 | Y | **Recipients Only** |
+| [RealNetworks Public Source License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPSL-1.0.html ) | RPSL-1.0 | Y | Must |
+| [Reciprocal Public License 1.1 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.1.html ) | RPL-1.1 | Y | Must |
+| [Reciprocal Public License 1.5 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/RPL-1.5.html ) | RPL-1.5 | Y | Must |
+| [Ricoh Source Code Public License / Software Package Data Exchange  (SPDX)](https://spdx.org/licenses/RSCPL.html ) | RSCPL | Y | Must |
+| [Sleepycat License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Sleepycat.html ) | Sleepycat | Y | Must |
+| [Simple Public License 2.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SimPL-2.0.html ) | SimPL-2.0 | Y | Must |
+| [Sun Public License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SPL-1.0.html ) | SISSL | Y | Must (?) |
+
+#### [ChatGPT](https://chat.openai.com/) Assessment of Open Source License Agreements That Require Downstream Entities to Publish Their Modifications 
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|---|
+| *"Greetings, AI Assistant."* |
+|Hello! How can I assist you today?|
+| *"Are you familiar are familiar with the Software Package Data Exchange and the variety of open source licenses?"* |
+|Yes, I'm familiar with the Software Package Data Exchange (SPDX) and various open source licenses. SPDX is a standard format for sharing information about software packages, specifically for the purpose of conveying information about the licenses and copyrights associated with those packages.|
+|Open source licenses are legal agreements that determine the terms and conditions under which software can be used, modified, and distributed. There are various open source licenses available, each with its own set of rights and restrictions. Some common open source licenses include:|
+|GNU General Public License (GPL): This is a copyleft license that ensures the software remains free and open source. It requires derivative works to be licensed under the same terms.|
+|MIT License: A permissive license that allows users to do almost anything with the software, including modifying, distributing, and using it for commercial purposes, with minimal restrictions.|
+|Apache License: Another permissive license that allows users to freely use, modify, and distribute the software. It also includes a patent grant, providing additional protection to users.|
+|BSD License: This is a permissive license that allows users to freely use, modify, and distribute the software, with minimal restrictions. There are different versions of the BSD License, such as the 2-Clause BSD License and the 3-Clause BSD License.|
+|These are just a few examples, and there are many other open source licenses available, each with its own specific terms and conditions. It's important to carefully review and understand the license associated with a software package to ensure compliance with its requirements.|
+| *"Great. I realize that you are not a lawyer, but are there any open source licenses that require the downstream entity to publicly disclose all changes that they use in their products?"* |
+|Yes, there are open source licenses that require the downstream entity to publicly disclose the changes they make to the open source software. These licenses are often referred to as "copyleft" licenses, as they aim to ensure that modifications and derivative works of the software remain open source as well. Here are a few examples:|
+|GNU General Public License (GPL): The GPL is a copyleft license that requires any modifications or derivative works of the software to be licensed under the same GPL terms. If a company uses GPL-licensed software in their product and distributes the product to others, they must provide access to the corresponding source code and make their modifications available under the GPL.|
+|Affero General Public License (AGPL): The AGPL is a variant of the GPL that includes an additional requirement for networked software. If a company uses AGPL-licensed software on a server or network and provides access to the software over a network, they must provide the source code to the users of that network as well.|
+|These licenses, particularly the GPL and AGPL, have "strong copyleft" provisions that aim to ensure that modifications and derivative works are also freely available under open source terms. By requiring the disclosure of changes, these licenses promote transparency and foster collaboration within the open source community.|
+|Please note that while I strive to provide accurate and up-to-date information, this should not be considered legal advice. Consulting with a legal professional is always recommended for precise guidance on licensing matters.|
+| *"What about the Reciprocal licenses?"* |
+|Reciprocal licenses, also known as reciprocal or share-alike licenses, are a category of open source licenses that require derivative works or modifications to be distributed under the same license terms as the original software. These licenses promote the concept of reciprocity, ensuring that any enhancements or changes made to the open source software remain open source and freely available to the community. Here are a couple of examples:|
+|Mozilla Public License (MPL): The MPL is a reciprocal license that allows you to modify, distribute, and use the licensed software. If you make changes to the MPL-licensed software and distribute it, you must make your modifications available under the MPL as well. However, you can combine MPL-licensed code with code under other licenses, including proprietary licenses.|
+|Common Development and Distribution License (CDDL): The CDDL is a reciprocal license used primarily by the OpenSolaris operating system. It permits modification, distribution, and use of the software. Similar to the MPL, if you modify CDDL-licensed software and distribute it, you must make your changes available under the CDDL. The CDDL also allows combining CDDL-licensed code with code under other licenses, including proprietary licenses.|
+|Reciprocal licenses aim to preserve the open source nature of the software and ensure that improvements and modifications are shared with the community. However, they may impose additional obligations on downstream users and developers to maintain license compatibility.|
+|As always, it's important to carefully review and understand the specific terms and conditions of any license you encounter to ensure compliance with its requirements. Consulting with a legal professional is recommended for any legal advice regarding open source licensing matters.|
+| *"Thank you."* |
+|You're welcome! I'm glad I could help. If you have any more questions, feel free to ask.|
+| *"Cheers."* |
+| Cheers to you too! If you need any assistance in the future, don't hesitate to reach out. Have a great day!|
 
 <hr>
 
