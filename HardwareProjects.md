@@ -356,3 +356,9 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Engineering Shock](https://www.engineeringshock.com/) | |
 | [SB Components](https://github.com/sbcshop) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012 |
 | [starfive-tech](https://github.com/starfive-tech) ||
+
+## Receivers
+
+| Receivers |
+|---|
+| [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
