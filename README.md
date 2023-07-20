@@ -506,6 +506,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
 | [OpenZFS](https://github.com/openzfs) | ZFS file system for Linux, BSD |
+| [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
