@@ -34,3 +34,15 @@
 | Restaurant/Condiments | Cuisine | City |
 |----|---|---|
 | [Puckerbutt Pepper Company creators of the world’s hottest pepper and intensely flavorful hot sauces – Puckerbutt Pepper Company](https://puckerbuttpeppercompany.com/) | Hot, insanely 🔥, pepper 🌶 sauce | Fort Mill |
+
+## Coastal Seafood Restaurants
+
+| Coastal Seafood Restaurants to Try|
+|---|
+| [Lee's Inlet Kitchen - Murrells Inlet, SC](https://leesinletkitchen.com/# ) |
+| [Hudson's Seafood House on the Docks - Hilton Head, South Carolina](https://www.hudsonsonthedocks.com/ ) |
+| [Bowens Island Restaurant - Folly Beach, Charleston, SC](https://bowensisland.com/ ) |
+| [Charleston Crab Shacks / Fresh Seafood Restaurant Near Me / Local Charleston Seafood Restaurant](https://crabshacks.com/ ) |
+| [The Sea Shack](https://sites.google.com/view/theseashack/home ) |
+| [Sullivan's Fish Camp / Seafood Restaurant in Sullivan's Island, SC](https://www.sullivansfishcamp.com/ ) |
+| [The Wreck of the Richard and Charlene](https://wreckrc.com/ ) |
