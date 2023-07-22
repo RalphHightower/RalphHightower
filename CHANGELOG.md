@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.12](https://github.com/RalphHightower/RalphHightower/compare/v1.20.11...v1.20.12) (2023-07-22)
+
+
+### Bug Fixes
+
+* Company GitHub: fixed Capstone appearing in 3,4 columns ([a540c05](https://github.com/RalphHightower/RalphHightower/commit/a540c05b9ff580cdc09ea8100b353e814b12f8fc))
+
 ## [1.20.11](https://github.com/RalphHightower/RalphHightower/compare/v1.20.10...v1.20.11) (2023-07-20)
 
 
