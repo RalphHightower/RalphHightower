@@ -503,7 +503,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
-| [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. || [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework|
+| [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |
