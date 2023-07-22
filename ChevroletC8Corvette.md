@@ -28,6 +28,8 @@
 | [Don't LIKE the C8 E-Ray? This WILL change your MIND!](https://youtube.com/watch?v=TrAL3zpfMMo&feature=share ) | Brink of Speed |
 | [What We Learned After Testing a Chevy C8 Corvette Over 40,000 Miles / Ca...](https://youtube.com/watch?v=u7YfAlDYMVE&feature=share ) | Car and Driver |
 | [FIRST TO TAKE DELIVERY OF A $185,000 C8 CORVETTE Z06!](https://youtube.com/watch?v=adYgvfv_CbE&feature=share ) | Speed Phenom |
+| [Watch "What We Learned After Testing a Chevy C8 Corvette Over 40,000 Miles / Car and Driver" on YouTube](https://youtu.be/u7YfAlDYMVE ) | Car and Driver |
+| [Watch "How MUCH was my C8 CORVETTE?  Insurance Cost SHOCKED / Total Cost / Monthly Payment" on YouTube](https://youtu.be/w9sGMzZ5MPw ) | Jump Squad Auto |
 
 ## Articles 
 
