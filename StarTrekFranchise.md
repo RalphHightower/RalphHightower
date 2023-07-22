@@ -14,19 +14,19 @@
 | [Star Trek: Strange New Worlds](https://www.startrek.com/shows/star-trek-strange-new-worlds ) | (2022–present) | Christopher Pike |
 | [Star Trek: The Animated Series](https://www.startrek.com/shows/star-trek-the-animated-series ) | (1973–1974) | James Kirk |
 | [Star Trek: Lower Decks](https://www.startrek.com/shows/star-trek-lower-decks ) | (2020–present) |  |
-| [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy )
- | (2021–2022) | Brett Gray |
-| Star Trek: Starfleet Academy[^11] | 2024/2025 | |
-| Star Trek: Legacy[^12][^13][^14][^15][^16] | TBD | TBD |
-| Star Trek: Worf[^17] | TBD | TBD |
+| [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy ) | (2021–2022) | Brett Gray |
+| Star Trek: Starfleet Academy[^11][^18] | 2024/2025 | |
+| Star Trek: Legacy[^13][^14][^15][^16][^17] | TBD | TBD |
+| Star Trek: Worf[^18] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
-[^12]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
-[^13]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
-[^14]: [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ )
-[^15]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
-[^16]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
-[^17]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^12]: [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ )
+[^13]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
+[^14]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
+[^15]: [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ )
+[^15(6]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
+[^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
+[^18]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
 ## [Star Trek](https://www.startrek.com/) Movies
 
