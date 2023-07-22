@@ -231,7 +231,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^31] |
 | [RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
 
-### Obsolete Computer Collection 
+## Obsolete Computer Collection 
 
 My wife bought me a Sun SparcStation IPX at a company salvage sale so I  could keep my UNIX skills active. I had Apache Web Server with OpenSSL installed from source code, and OpenLDAP also installed from source code using gcc.
 I installed Apache web server installed on my Windows NT Workstation as a proxy server so the SparcStation and Linux server could share internet access, first using dial-up and later with cable.
@@ -270,7 +270,7 @@ A technology company had shut down and one of the Affinity Technology Group form
 | DEC PDP-11/45 Handbook |
 | DEC PDP-11/70 Handbook |
 
-### HP (Hewlett-Packard) Calculators[^51]
+## HP (Hewlett-Packard) Calculators[^51]
 
 [^51]: HP said in their print advertisements *"HP has no equal."*<br>What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
 
@@ -291,7 +291,11 @@ A technology company had shut down and one of the Affinity Technology Group form
 | HP-48GX ||
 | HP-67 ||
 
-### [Beagles](Beagles.md)
+### [SwissMicros - RPN Calculators](https://www.swissmicros.com/products? ) RPN Calculators 
+
+[SwissMicros - Product Line](https://www.swissmicros.com/products? )
+
+## [Beagles](Beagles.md)
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
 neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
@@ -302,7 +306,7 @@ We have bred and raised a few litters.
 
 [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/)
 
-### Water-skiing 
+## Water-skiing 
 
 I enjoy water-skiing. I learned on Lake Greenwood, South Carolina. I consider Lake Murray, 
 South Carolina to be my "home lake" since I live nearby. My wife, Paula, and I would camp
@@ -466,7 +470,8 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Arm Software](https://github.com/ARM-software ) ||
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
-| [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework|
+| [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
+| [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CHIPS Alliance](https://github.com/chipsalliance ) |
 Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
@@ -495,8 +500,10 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software.|
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
+| [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
+| [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. || [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework|
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |
@@ -626,6 +633,9 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 | [Sleepycat License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Sleepycat.html ) | Sleepycat | Y | Must |
 | [Simple Public License 2.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SimPL-2.0.html ) | SimPL-2.0 | Y | Must |
 | [Sun Public License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SPL-1.0.html ) | SISSL | Y | Must (?) |
+
+#### [The Legal Side of Open Source / Open Source Guides](https://opensource.guide/legal/ )
+#### [ClearlyDefined — Bringing clarity to Open Source Software licenses.](https://clearlydefined.io/ )
 
 #### [ChatGPT](https://chat.openai.com/) Assessment of Open Source License Agreements That Require Downstream Entities to Publish Their Modifications 
 
