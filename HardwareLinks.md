@@ -107,6 +107,7 @@
 | [I-Pi SMARC 1200](https://www.ipi.wiki/products/i-pi-smarc-1200 ) | (H/W) $379 4GB |
 | [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
+| [iWave Systems – Versal AI Edge/Prime SOM](https://www.iwavesystems.com/product/versal-ai-edge-or-prime-system-on-module/ ) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
 | [iWave ZU7/ZU5/ZU4- Zynq UltraScale+ SOM iW-RainboW-G30M](https://www.iwavesystems.com/product/zu7-zu5-zu4-zynq-ultrascale-mpsocsom/) | (H/W) |
 | [iWave i.MX 93 OSM-L LGA ModuleiW-RainboW-G50M®](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/#) | (H/W) |
@@ -468,6 +469,8 @@
 | **[LicheePi 4A RISC-V SBC gets 16GB/128GB version, metal enclosure, 10.1-inch display, and more accessories - CNX Software](https://www.cnx-software.com/2023/07/10/licheepi-4a-risc-v-sbc-gets-16gb-128gb-version-metal-enclosure-10-1-inch-display-and-more-accessories/ )** |
 | **[Rockchip RK3588 CPU module exposes more I/Os through four board-to-board connectors - CNX Software](https://www.cnx-software.com/2022/05/26/rockchip-rk3588-cpu-module-board-to-board-connectors/ )** |
 | **[Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ )** |
+| [AMD Versal AI Edge SoC FPGA system-on-module targets ADAS, robotics, medical imaging, and other AI applications - CNX Software](https://www.cnx-software.com/2023/05/12/amd-versal-ai-edge-soc-fpga-system-on-module-targets-adas-robotics-medical-imaging-and-other-ai-applications/ ) |
+| [Planet Launches Funky Arm-Based XR Mini Desktops with Touchscreens / Tom's Hardware](https://www.tomshardware.com/news/planet-launches-arm-based-xr-mini-desktops.
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
