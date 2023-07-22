@@ -15,3 +15,4 @@
 | [Top 5 Home Lab Storage Solutions in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/top-5-home-lab-storage-solutions-in-2023/ ) |
 | [Heimdall Dashboard: Organize and Access Home Lab Apps - Virtualization Howto](https://www.virtualizationhowto.com/2023/04/heimdall-dashboard-organize-and-access-home-lab-apps/ ) |
 | [Top 5 Home Lab Server Backup Solutions - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/top-5-home-lab-server-backup-solutions/ ) |
+| [Top 7 Low Power Home Server Tips and Tricks in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/top-7-low-power-home-server-tips-and-tricks-in-2023/ ) |
