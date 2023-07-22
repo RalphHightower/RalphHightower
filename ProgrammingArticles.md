@@ -29,7 +29,7 @@
 |[10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/ )|
 | [amis92/csharp-source-generators: A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.](https://github.com/amis92/csharp-source-generators ) |
 
-### [10 Unexpected Challenges Software Developers Face in Their Careers / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/10-unexpected-challenges-software-developers-face-in-their-careers-3f4533d1b1c3 )
+#### [10 Unexpected Challenges Software Developers Face in Their Careers / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/10-unexpected-challenges-software-developers-face-in-their-careers-3f4533d1b1c3 )
 
 | *"RalphHightower"* / [ChatGPT](https://chat.open.ai/) |
 |----|
