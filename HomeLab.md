@@ -19,3 +19,4 @@
 | [ESXTOP commands: The Ultimate Guide - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/esxtop-commands-the-ultimate-guide/ ) |
 | [Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/ ) |
 |[Best Hypervisor for Home Lab in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/best-hypervisor-for-home-lab-in-2023/ )|
+| [K3s vs K8s: The Best Kubernetes Home Lab Distribution - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/k3s-vs-k8s-the-best-kubernetes-home-lab-distribution/ ) |
