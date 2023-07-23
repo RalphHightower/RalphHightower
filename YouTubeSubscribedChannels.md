@@ -6,6 +6,7 @@
 | Content Creator | Content Classification |
 |---|---|
 | [Sam Mahdavi](https://youtube.com/@sammahdavi7031 ) | Auto Repair |
+| [Scotty Kilmer](https://youtube.com/@scottykilmer ) | Auto Repair |
 | [Oliver the Beagle](https://youtube.com/@OlivertheBeagle ) | Beagles |
 | [Sarah -n- Tuned](https://youtube.com/@SarahnTuned ) | Cars |
 | [savagegeese](https://youtube.com/@savagegeese ) | Cars |
