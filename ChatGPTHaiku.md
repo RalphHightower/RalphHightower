@@ -608,7 +608,31 @@ Hello! I'm here to assist you. How can I help you today?|
 | *"Cheers."* |
 |Cheers to you too! If you ever need assistance or just want to chat, feel free to return. Have a fantastic day!|
 
+### [ChatGPT](https://chat.openai.com) Magnum PI Haiku 
 
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) Magnum PI Haiku 
+|----|
+| *"Good afternoon, AI Assistant."* |
+|Good afternoon! How can I assist you today?|
+| *"I am enjoying your haikus. They have great creativity. Could you create five haikus, each for the original Magnum PI, and the rebooted Magnum PI?"* |
+|Thank you for your kind words! I'd be delighted to create haikus for both the original Magnum PI and the rebooted Magnum PI:|
+| **Original Magnum PI:** |
+|Hawaii's sun sets low,<br>Magnum's charm, a private pro,<br>Solving cases, oh!|
+|Ferrari's red glow,<br>Higgins and TC in tow,<br>Crime's foe, watch him go.|
+|Island life's delight,<br>Thomas Magnum's clever might,<br>A sleuth shining bright.|
+|With 'stache and wit, he braves,<br>Mysteries, danger he craves,<br>Honor's path he paves.|
+|Robin's nest he guards,<br>Aloha spirit, regard,<br>Magnum's legacy, cherished.|
+| **Rebooted Magnum PI:** |
+|Rebooted delight,<br>Magnum's back with modern fight,<br>New crimes to ignite.|
+|Tech-savvy and bold,<br>Magnum's tales now unfold,<br>In a world retold.|
+|Higgins, a new face,<br>Friendship finds its steady place,<br>Solving crimes with grace.|
+|Hawaii's scenic hues,<br>Magnum's team, a bond renews,<br>Justice they'll pursue.|
+|In the rebooted tale,<br>Magnum's courage will prevail,<br>New adventures sail.|
+|I hope you enjoy these haikus capturing the essence of both the original and the rebooted Magnum PI!|
+| *"Thank you. Those are great!"* |
+|You're very welcome! I'm glad you liked the haikus. If you have any more requests or if there's anything else I can assist you with, feel free to let me know. Happy reading and have a wonderful day!|
+| *"Cheers."* |
+|Cheers! If you ever need help or have more questions in the future, don't hesitate to reach out. Have a fantastic day!|
 
 ## Music
 
