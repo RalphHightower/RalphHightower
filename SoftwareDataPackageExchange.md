@@ -64,6 +64,11 @@
 
 [^1]: [Software Data Package Exchange \(SPDX\)](https://spdx.dev)
 
+| Open Source License | Briefly |
+|---|---|
+| [The Legal Side of Open Source](https://opensource.guide/legal/ ) / Open Source Guides | Open Source Guides |
+| [ClearlyDefined](https://clearlydefined.io/ ) | Bringing clarity to Open Source Software licenses. |
+
 ## [ChatGPT](https://chat.openai.com/) Assessment of Open Source License Agreements That Require Downstream Entities to Reciprocate
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
