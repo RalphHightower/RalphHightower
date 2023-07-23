@@ -61,6 +61,7 @@ Rosie Knight is a contributing freelancer for IGN covering everything from anime
 [^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
 
 ## [ChatGPT](https://chat.openai.com/) — Dune Haikus 
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good afternoon, Assistant."* |
