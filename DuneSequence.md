@@ -7,7 +7,6 @@ BY ROSIE KNIGHT
 
 Ever since Frank Herbert released his seminal sci-fi novel Dune in 1965, readers have been consumed by the expansive and complex political wranglings of his influential stories. While Herbert only wrote six Dune novels while he was alive, since his death, his son Brian Herbert and bestselling author Kevin J. Anderson have authored many new canon Dune stories. In fact, the series is currently at an astounding 23 novels and counting; spanning 15,000 years. If you're wondering where to start and how you're supposed to read them, we're here to help.
 
-
 | Title/Author(s) |
 |---|
 | **The Butlerian Jihad by Brian Herbert and Kevin J. Anderson** |
@@ -60,3 +59,21 @@ Set 100 years after the events at the beginning of The Butlerian Jihad, the book
 Rosie Knight is a contributing freelancer for IGN covering everything from anime to comic books to kaiju to kids movies to horror flicks. She has over half a decade of experience in entertainment journalism with bylines at Nerdist, Den of Geek, Polygon, and more.
 
 [^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
+
+## [ChatGPT](https://chat.openai.com/) — Dune Haikus 
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|---|
+| *"Good afternoon, Assistant."* |
+|Good afternoon! How can I assist you today?|
+| *"Can you create five Haiku verses about the Dune series by Frank Herbert?"* |
+|Certainly! Here are five Haiku verses inspired by the Dune series by Frank Herbert:|
+|Arrakis whispers,<br>Sand embraces prophecy,<br>Muad'Dib ascends.|
+|Spice flows through the veins,<br>Navigators bend space-time,<br>Kwisatz Haderach.|
+|Bene Gesserit,<br>Sisterhood weaves the power,<br>Mind and body one.|
+|Sardaukar's might,<br>Empire crumbles in sand,<br>Fremen's hope takes root.|
+|Melange's allure,<br>Control the spice, control all,<br>Dune's destiny calls.|
+|I hope you find these Haiku verses captivating! If you have any more requests or if there's anything else I can assist you with, please let me know.|
+| *"Yes, you've captured the spirit of Dune. Thank you."* |
+|You're welcome! I'm delighted to hear that the Haiku verses captured the essence of Dune for you. If you have any more questions or need assistance in the future, feel free to ask. Enjoy your journey through the world of Dune!|
+| *"Goodbye."* |
+|Goodbye! If you have any more questions in the future, don't hesitate to ask. Have a wonderful day!|
