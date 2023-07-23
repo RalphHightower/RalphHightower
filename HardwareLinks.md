@@ -213,7 +213,8 @@
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
-| [crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
+| [Wavelet crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
+| [Yahboom 6DOF ROS AI Vision Robotic Arm for Nvidia Jetson NANO 4GB](https://category.yahboom.net/products/dofbot-jetson_nano ) | (H/W) |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
 | [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W)| 
 
@@ -471,6 +472,9 @@
 | **[Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ )** |
 | [AMD Versal AI Edge SoC FPGA system-on-module targets ADAS, robotics, medical imaging, and other AI applications - CNX Software](https://www.cnx-software.com/2023/05/12/amd-versal-ai-edge-soc-fpga-system-on-module-targets-adas-robotics-medical-imaging-and-other-ai-applications/ ) |
 | [Planet Launches Funky Arm-Based XR Mini Desktops with Touchscreens / Tom's Hardware](https://www.tomshardware.com/news/planet-launches-arm-based-xr-mini-desktops.
+| [LiFi 802.11bb standard uses light for in-room data transmission up to 224GB/s - cnx-software](https://www.cnx-software.com/2023/07/14/lifi-802-11bb-wifi-standard-uses-light-for-in-room-data-transmission-up-to-224gb-s/ ) |
+| [Edgeble AI Neural Compute Module 2 (Neu2) follows 96Boards SoM form factor - cnx-software](https://www.cnx-software.com/2023/07/19/edgeble-ai-neural-compute-module-2-neu2-follows-96boards-som-form-factor/ ) |
+| [Yahboom DOFBOT 6 DoF AI Vision robotic arm for Jetson Nano sells for $289 and up - CNX Software](https://www.cnx-software.com/2023/07/18/yahboom-dofbot-6-dof-ai-vision-robotic-arm-for-jetson-nano-sells-for-289-and-up/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
