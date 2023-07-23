@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.13](https://github.com/RalphHightower/RalphHightower/compare/v1.20.12...v1.20.13) (2023-07-23)
+
+
+### Bug Fixes
+
+* NASA link ([ec1a2b7](https://github.com/RalphHightower/RalphHightower/commit/ec1a2b7b1fd0fe900f2611eeab31fcc58d06028a))
+
 ## [1.20.12](https://github.com/RalphHightower/RalphHightower/compare/v1.20.11...v1.20.12) (2023-07-22)
 
 
