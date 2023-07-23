@@ -25,3 +25,31 @@
 |------|
 | [David Tennant (aka The Doctor) is Catherine Tait's (aka Donna Noble), as a recalcitrant student,  substitute teacher for English.](https://youtu.be/WxB1gB6K-2A) |
 
+## [ChatGPT](https://chat.openai.com/) Haikus — Doctor Who
+
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+|----|
+| *"Greetings, Assistant."* |
+|Hello! How can I assist you today?"|
+| *"Could you create five Haiku verses about Doctor Who, one includes Amy Pond and another includes Donna Noble."* |
+|No problem! Here are five Haiku verses about Doctor Who, including one with Amy Pond and another with Donna Noble: |
+|Time Lord's ancient craft,<br>TARDIS whirs through time and space,<br>Doctor's loyal ship.|
+|Daleks' chilling cry,<br>Exterminate! They proclaim,<br>Doctor fights for all.|
+|Amy Pond, fierce friend,<br>Brave and bold, by Doctor's side,<br>Adventures unfold.|
+|Donna's noble heart,<br>A companion's selfless love,<br>Time's tragic erasure.|
+|Regeneration,<br>Doctor's essence ever thrives,<br>Hope in change's form.|
+|I hope you enjoy these Haiku verses! Let me know if there's anything else I can assist you with.|
+| *"Thank you. You've got it! Very good."* |
+|You're welcome! I'm glad you liked the Haiku verses. If you have any more questions or need further assistance, feel free to ask. Enjoy your day!|
+| *"Thank you. Goodbye."* |
+||
+| *"Good morning, Assistant."* |
+|Good morning! How can I assist you today?|
+| *"Your Haiku about Doctor Who was spot on. Could you create one with the Weeping Angels?"* |
+|Certainly! Here's a Haiku featuring the Weeping Angels:|
+|Silent as statues,<br>Weeping Angels watch, they wait,<br>Time's predators lurk.|
+|The Weeping Angels are a truly captivating and eerie presence in the Doctor Who universe. Let me know if there's anything else I can help you with!|
+| *"Excellent! Thank you."* |
+|You're very welcome! I'm glad you liked the Weeping Angels Haiku. If you have any more questions or if there's anything else I can assist you with, feel free to ask. Have a great day!|
+| *"Goodbye"* |
+|Goodbye! If you have any more questions in the future, feel free to ask. Have a wonderful day ahead! |
