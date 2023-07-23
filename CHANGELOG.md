@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.15](https://github.com/RalphHightower/RalphHightower/compare/v1.20.14...v1.20.15) (2023-07-23)
+
+
+### Bug Fixes
+
+* College of Engineering-4 columns, now 2 ([9db61ee](https://github.com/RalphHightower/RalphHightower/commit/9db61ee2c028ff87253433f0d73f49b57302ce0e))
+
 ## [1.20.14](https://github.com/RalphHightower/RalphHightower/compare/v1.20.13...v1.20.14) (2023-07-23)
 
 
