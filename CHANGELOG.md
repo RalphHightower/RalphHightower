@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.14](https://github.com/RalphHightower/RalphHightower/compare/v1.20.13...v1.20.14) (2023-07-23)
+
+
+### Bug Fixes
+
+* ChatGPT Dune Haiku table ([0661c98](https://github.com/RalphHightower/RalphHightower/commit/0661c9808ea110f9a81be573ca3a1034c2cbfc48))
+
 ## [1.20.13](https://github.com/RalphHightower/RalphHightower/compare/v1.20.12...v1.20.13) (2023-07-23)
 
 
