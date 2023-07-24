@@ -20,3 +20,5 @@
 | [Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/ ) |
 |[Best Hypervisor for Home Lab in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/best-hypervisor-for-home-lab-in-2023/ )|
 | [K3s vs K8s: The Best Kubernetes Home Lab Distribution - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/k3s-vs-k8s-the-best-kubernetes-home-lab-distribution/ ) |
+| [Top 5 Home Lab Server Backup Solutions - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/top-5-home-lab-server-backup-solutions/ ) |
+| [Top 5 Home Lab Storage Solutions in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/top-5-home-lab-storage-solutions-in-2023/ ) |
