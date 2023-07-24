@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.16](https://github.com/RalphHightower/RalphHightower/compare/v1.20.15...v1.20.16) (2023-07-24)
+
+
+### Bug Fixes
+
+* Hawaii 5-O, 5-0 ([60d99c1](https://github.com/RalphHightower/RalphHightower/commit/60d99c17fa17de1cc679217b04ad8b7edb4b2b07))
+
 ## [1.20.15](https://github.com/RalphHightower/RalphHightower/compare/v1.20.14...v1.20.15) (2023-07-23)
 
 
