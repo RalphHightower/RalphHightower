@@ -366,7 +366,8 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Men’s Golf](https://gamecocksonline.com/sports/mgolf/ ) | [Women’s Golf](https://gamecocksonline.com/sports/wgolf/ ) |
 | [Men’s Soccer](https://gamecocksonline.com/sports/msoc/ ) | [Women’s Soccer](https://gamecocksonline.com/sports/wsoc/ ) |
 | [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) | [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) |
-| [Men’s Tennis](https://gamecocksonline.com/sports/mten/ ) | [Women’s Tennis](https://gamecocksonline.com/sports/wten/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ )
+| [Men’s Tennis](https://gamecocksonline.com/sports/mten/ ) | [Women’s Tennis](https://gamecocksonline.com/sports/wten/ ) |
+| [Track and Field](https://gamecocksonline.com/sports/track/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ )
 | | [Beach Volleyball](https://gamecocksonline.com/sports/bvball/ ) |
 | | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
 | | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
