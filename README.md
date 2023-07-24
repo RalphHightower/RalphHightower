@@ -404,6 +404,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 |------------------------|---------|
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting |
 | [Pandoc](https://pandoc.org/) | Document Conversion |
+| [Pandoc - Pandoc User’s Guide](https://pandoc.org/MANUAL.html ) | Pandoc User’s Guide |
 | [GitHub Actions](https://github.com/marketplace?type=actions) | GitHub |
 | [GitHub Community Discussions](https://github.com/community) | GitHub |
 | [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) | GitHub: Markdown Documentation |
