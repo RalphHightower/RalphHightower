@@ -272,7 +272,7 @@ A technology company had shut down and one of the Affinity Technology Group form
 
 ## HP (Hewlett-Packard) Calculators[^51]
 
-[^51]: HP said in their print advertisements *"HP has no equal."*<br>What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
+[^51]: HP said in their print advertisements *"HP has no equal."*<br />What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/)
 
@@ -535,7 +535,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
-| [Triton Inference Server](https://github.com/triton-inference-server ) |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<brìThis top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br>• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br>• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server.|
+| [Triton Inference Server](https://github.com/triton-inference-server ) |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server.|
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
@@ -545,7 +545,7 @@ Common Hardware for Interfaces, Processors and Systems |
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
-| [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br>Government agencies at the national, state, and local level use GitHub to share and collaborate. |
+| [Governments Agencies on GitHub](https://government.github.com/community/) | Who's using GitHub?<br />Government agencies at the national, state, and local level use GitHub to share and collaborate. |
 |-----|-----|
 | [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision) |
 | Canada ||
