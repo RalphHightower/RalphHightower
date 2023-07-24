@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.17](https://github.com/RalphHightower/RalphHightower/compare/v1.20.16...v1.20.17) (2023-07-24)
+
+
+### Bug Fixes
+
+* USC Sports table ([30153dd](https://github.com/RalphHightower/RalphHightower/commit/30153dde8bab6d944fb8c34d94e04f9df2f8b816))
+
 ## [1.20.16](https://github.com/RalphHightower/RalphHightower/compare/v1.20.15...v1.20.16) (2023-07-24)
 
 
