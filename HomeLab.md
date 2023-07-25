@@ -22,3 +22,5 @@
 | [K3s vs K8s: The Best Kubernetes Home Lab Distribution - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/k3s-vs-k8s-the-best-kubernetes-home-lab-distribution/ ) |
 | [Top 5 Home Lab Server Backup Solutions - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/top-5-home-lab-server-backup-solutions/ ) |
 | [Top 5 Home Lab Storage Solutions in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/top-5-home-lab-storage-solutions-in-2023/ ) |
+|[Headscale: Awesome Self-Hosted Tailscale Control Server - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/headscale-awesome-self-hosted-tailscale-control-server/ )|
+|[Heimdall Dashboard: Organize and Access Home Lab Apps - Virtualization Howto](https://www.virtualizationhowto.com/2023/04/heimdall-dashboard-organize-and-access-home-lab-apps/ )|
