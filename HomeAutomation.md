@@ -43,18 +43,19 @@ I have not decided on which home automation system that I want to deploy, but my
 
 | GitHub | Description |
 |---|---|
-| [ESPHome]([https://github.com/esphome](https://github.com/openhab) ) | empowering the smart home — a vendor and technology agnostic open source automation software for your home |
+| [openHAB]([https://github.com/esphome](https://github.com/openhab) ) | empowering the smart home — a vendor and technology agnostic open source automation software for your home |
 
 ### Vendors 
 
 | [openHAB](https://github.com/openhab ) |
 |---|
+|  |
 
 ### Articles 
 
 | [openHAB](https://github.com/openhab ) |
 |---|
-
+|   |
 
 ## Interfaces — Home Automation
 
