@@ -10,13 +10,6 @@ I have not decided on which home automation system that I want to deploy, but my
 |---|---|
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 
-### Articles
-
-| [Home Assistant](https://www.home-assistant.io/ )|
-|----|
-|[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )|
-|[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )|
-
 ### Vendors
 
 | Vendors |
@@ -24,6 +17,11 @@ I have not decided on which home automation system that I want to deploy, but my
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) |
 
 ### Articles
+
+| [Home Assistant](https://www.home-assistant.io/ )|
+|----|
+|[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )|
+|[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )|
 
 ## [ESPHome — ESPHome](https://esphome.io/index.html ) 
 
@@ -47,15 +45,7 @@ I have not decided on which home automation system that I want to deploy, but my
 
 ### Vendors 
 
-| [openHAB](https://github.com/openhab ) |
-|---|
-|  |
-
 ### Articles 
-
-| [openHAB](https://github.com/openhab ) |
-|---|
-|   |
 
 ## Interfaces — Home Automation
 
