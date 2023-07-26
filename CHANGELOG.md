@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.18](https://github.com/RalphHightower/RalphHightower/compare/v1.20.17...v1.20.18) (2023-07-26)
+
+
+### Bug Fixes
+
+* fix openHAB tables ([5ce09ef](https://github.com/RalphHightower/RalphHightower/commit/5ce09effd578625a8cdcf70d86accb3b0ed1e982))
+
 ## [1.20.17](https://github.com/RalphHightower/RalphHightower/compare/v1.20.16...v1.20.17) (2023-07-24)
 
 
