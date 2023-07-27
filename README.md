@@ -342,7 +342,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 ## Tabasco Sauce Scoville Ratings 
 
-[Tabasco Sauce Scoville Ratings](Tabasco_Scoville_Rating.md)
+[Tabasco Sauce Scoville Ratings](TabascoScovilleRating.md)
 
 ## [USC — University of South Carolina](https://www.sc.edu)
 
