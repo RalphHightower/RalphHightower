@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.19](https://github.com/RalphHightower/RalphHightower/compare/v1.20.18...v1.20.19) (2023-07-27)
+
+
+### Bug Fixes
+
+* link to Tabasco Scoville Ratings ([5cfda16](https://github.com/RalphHightower/RalphHightower/commit/5cfda1670009840e6f1c673402b3808fe060941e))
+
 ## [1.20.18](https://github.com/RalphHightower/RalphHightower/compare/v1.20.17...v1.20.18) (2023-07-26)
 
 
