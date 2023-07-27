@@ -3,7 +3,7 @@
 | Preferred Vendors | 
 |------|
 | [Arrow](https://www.arrow.com/) | 
-| [Avnet: Quality Electronic Components & Services]( ) |
+| [Avnet: Quality Electronic Components & Services](https://www.avnet.com/wps/portal/us/) |
 | [Digi-Key](https://www.digikey.com/) |
 | [Mouser](https://www.mouser.com/) |
 | [Newark](https://www.newark.com/) | 
