@@ -536,6 +536,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [starfive-tech](https://github.com/starfive-tech ) | RISC-V |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
+| [T-Firefly · GitLab](https://gitlab.com/T-Firefly ) | RISC-V System Manufacturer |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
 | [Triton Inference Server](https://github.com/triton-inference-server ) |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server.|
 | [TuringPi Machines](https://github.com/turing-machines ) |
