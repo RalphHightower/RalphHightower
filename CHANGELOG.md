@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.24](https://github.com/RalphHightower/RalphHightower/compare/v1.20.23...v1.20.24) (2023-07-29)
+
+
+### Bug Fixes
+
+* close row; italicize prompt ([27aed20](https://github.com/RalphHightower/RalphHightower/commit/27aed20b6797f7c5e298c69f8d4db4b25d3d26b6))
+
 ## [1.20.23](https://github.com/RalphHightower/RalphHightower/compare/v1.20.22...v1.20.23) (2023-07-29)
 
 
