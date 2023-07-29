@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.25](https://github.com/RalphHightower/RalphHightower/compare/v1.20.24...v1.20.25) (2023-07-29)
+
+
+### Bug Fixes
+
+* Dire Straits haikus ([075a21f](https://github.com/RalphHightower/RalphHightower/commit/075a21fad903b0861179c61541bf2b22d04034b5))
+
 ## [1.20.24](https://github.com/RalphHightower/RalphHightower/compare/v1.20.23...v1.20.24) (2023-07-29)
 
 
