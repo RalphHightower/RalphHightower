@@ -37,11 +37,11 @@
 |Good morning! How can I assist you today? |
 | *"I am reading an article about ten challenges to software development, and the challenges echoed with me : “But That’s Not in the Requirements!” — Shifting Goalposts and “Can We Add Just One More Thing?” — The Feature Creep Phenomenon. Those two challenges were the reason why the project failed. I compare those two problems to "Trying to nail Jello to a wall. Could you create five haiku verses about software development challenges, include references to those three challenges?"* |
 |Certainly! Here are five haiku verses about software development challenges, incorporating references to the challenges of "But That's Not in the Requirements!", "Can We Add Just One More Thing?", and "Trying to Nail Jello to a Wall":|
-|Ever-shifting goals,<br>Jello eludes the nail's touch,<br>Requirements dance.|
-|Feature list expands,<br>Creeping vines devour scope,<br>Chaos in its wake.|
-|Jello's slippery,<br>Hidden needs breed confusion,<br>Goalposts on the move.|
-|Whispers of one more,<br>Siren calls disrupt the flow,<br>Focus fades away.|
-|Software's canvas,<br>Jello molded, warped, and stretched,<br>Tame the shifting beast.|
+|Ever-shifting goals,<br />Jello eludes the nail's touch,<br />Requirements dance.|
+|Feature list expands,<br />Creeping vines devour scope,<br />Chaos in its wake.|
+|Jello's slippery,<br />Hidden needs breed confusion,<br />Goalposts on the move.|
+|Whispers of one more,<br />Siren calls disrupt the flow,<br þ>Focus fades away.|
+|Software's canvas,<br />Jello molded, warped, and stretched,<br />Tame the shifting beast.|
 |I hope these haiku verses capture the essence of the challenges you mentioned in an artistic manner!|
 | *"Thank you. Those haiku represent the developer's challenges."* |
 | You're welcome! I'm glad the haiku resonated with the challenges faced by developers. Software development can indeed be a complex and ever-evolving process, filled with various obstacles along the way. If you have any more questions or if there's anything else I can assist you with, please feel free to let me know.|
@@ -104,7 +104,7 @@
 
 | ARM History |
 |----|
-| [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)<br>In 1983, Acorn Computers needed a CPU. So 10 people built one. |
+| [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)<br />In 1983, Acorn Computers needed a CPU. So 10 people built one. |
 | [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/)<br>What had started as twelve people and a dream was now a billion-dollar company. |
 | [A history of ARM, part 3: Coming full circle](https://arstechnica.com/gadgets/2023/01/a-history-of-arm-part-3-coming-full-circle/) |
 
