@@ -190,7 +190,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [B&H Photography/Video Explora — Learn Filmmaking](https://www.bhphotovideo.com/explora/filmmaking) |
 | [B&H Photography/Video Explora — Audio for Video](https://www.bhphotovideo.com/explora/learn-how-to-record-audio-for-video-and-film) |
 
-<hr>
+<hr />
 
 # International Press Telecommunications Council 
 
@@ -199,7 +199,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 | [IPTC Metadata](https://iptc.org/standards/photo-metadata/photo-metadata/) | 
 | [IPTC Developers](http://dev.iptc.org/) | 
 
-<hr>
+<hr />
 
 # Photography News/Tips
 
@@ -219,7 +219,7 @@ Magic Lantern is a free software add-on that runs from the SD/CF card and adds a
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
 
-<hr>
+<hr />
 
 # Preferred Photography Retailers 
 
