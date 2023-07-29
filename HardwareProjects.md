@@ -10,7 +10,6 @@
 | [Seeed Studio](https://www.seeedstudio.com/) | 
 | [SparkFun](https://www.sparkfun.com/) |
 
-
 | Resources | 
 |------|
 | [Raspberry PI Locater](https://rpilocator.com/) |
@@ -41,15 +40,14 @@
 | [MIPI-CSI Explanation](https://www.mipi.org/specifications/csi-2) |
 | [MIPI-DSI Explanation](https://www.mipi.org/specifications/dsi-2) |
 
-
 ## Active Projects
 
 ### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
-| 1 | NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
-| 2 | NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
+| 1 | NVIDIA Jetson TX2 NX 4 GB<br />(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
+| 2 | NVIDIA Jetson TX2 NX 4 GB<br />(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
 | *3* | *Raspberry Pi CM4* |   |   |
 | *4* | *Raspberry Pi CM4* |   |   |
 
@@ -64,12 +62,12 @@
 | NVIDIA Jetson AGX Orin 32GB | [Arrow](https://www.arrow.com/products/900-13701-0040-000/nvidia) $999.00 | |
 | NVIDIA Jetson AGX Xavier | [Arrow](https://www.arrow.com/products/900-82888-0040-000/nvidia) $999.00  | |
 | NVIDIA Jetson TX2i | [Arrow](https://www.arrow.com/en/products/900-83489-0000-000/nvidia) $849.00  | |
-| Jetson Orin NX 16GB Module<br>Jetson Orin NX 16GB System-on-Module (SOM): 1024-Core Ampere GPU, 8-Core ARM 64 Bit CPU, 16 GB LPDDR5  | [Arrow](https://www.arrow.com/en/products/900-13767-0000-000/nvidia) $699.00 | ✓ |
-| NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br>(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
-| NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br>(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
+| Jetson Orin NX 16GB Module<br />Jetson Orin NX 16GB System-on-Module (SOM): 1024-Core Ampere GPU, 8-Core ARM 64 Bit CPU, 16 GB LPDDR5  | [Arrow](https://www.arrow.com/en/products/900-13767-0000-000/nvidia) $699.00 | ✓ |
+| NVIDIA Jetson Xavier NX 16GB — 14 TOPS at 10W or 21 TOPS at 15W or 20W<br />(Jetson Xavier NX 16GB System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 16 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) $579.00 N/A 24 wks 2023-01-14  | ✓ |
+| NVIDIA Jetson Xavier NX 8 GB — 14 TOPS at 10W or 21 TOPS at 15W<br />(Jetson Xavier NX System-on-Module (SOM): 384-Core Volta GPU, 6-Core ARM 64 Bit CPU, 8 GB LPDDR4, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-83668-0000-000/nvidia) $479.00  | ✓ |
 | NVIDIA Jetson TX2 4GB | [Arrow](https://www.arrow.com/en/products/900-83489-0080-000/nvidia) $299.00  |  |
-| NVIDIA Jetson TX2 NX 4 GB<br>(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-13636-0010-000/nvidia) $199.00  | ✓ |
-| NVIDIA Jetson Nano<br>(Jetson Nano System-on-Module (SOM): 128-Core Maxwell GPU, 4-Core 64-bit ARM CPU, 4GB LPDDR4, 16GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) $129.00 | ✓ |
+| NVIDIA Jetson TX2 NX 4 GB<br />(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | [Arrow](https://www.arrow.com/products/900-13636-0010-000/nvidia) $199.00  | ✓ |
+| NVIDIA Jetson Nano<br />(Jetson Nano System-on-Module (SOM): 128-Core Maxwell GPU, 4-Core 64-bit ARM CPU, 4GB LPDDR4, 16GB eMMC) | [Arrow](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) $129.00 | ✓ |
 | NVIDIA Jetson Nano Developer Kit | [Arrow](https://www.arrow.com/products/945-13450-0000-100/nvidia) $149.00  | |
 || [Amazon](https://www.amazon.com/gp/product/B084DSDDLT/) $129.00  ||
 || [Seeed](https://www.seeedstudio.com/NVIDIA-Jetson-Nano-Develeopment-Kit-B01-p-4437.html) HTTP 404 ||
@@ -174,7 +172,7 @@
 | **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)** |
 | [PDP-8 replica kit: the PiDP-8](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/) $210 + shipping from Switzerland |
 
-<hr>
+<hr />
 
 ## Planned Projects 
 
@@ -192,7 +190,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Firefly EC-R3568PC Quad-Core 64-Bit AI Embedded Computer](https://www.firefly.store/goods.php?id=180) | $209 4GB+32GB |
 | **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | $429 16GB+128GB *(up to 32GB)* |
 
-<hr>
+<hr />
 
 ## Possible Projects 
 
@@ -205,7 +203,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200 ) |
 | [HackRF One - WRL-13001 - SparkFun Electronics](https://www.sparkfun.com/products/13001 ) |
 
-<hr>
+<hr />
 
 ## Firefly Computers 
 
@@ -228,7 +226,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Firefly ITX-3568Q Quad-core ITX Mainboard](https://www.firefly.store/goods.php?id=170) | $389 $4GB+16GB |
 | [Firefly ITX-3588J 8K AI Mini-ITX Mainboard Deluxe expandable to 32GB](https://www.firefly.store/goods.php?id=161) $1326 16GB+128GB Deluxe Package A(5G) |
 
-<hr>
+<hr />
 
 ## Precision Time (Keeping) Protocol — PTP
 
@@ -245,7 +243,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 ## Completed Projects
 
-<hr>
+<hr />
 
 ## Kickstarter Backed Projects 
 
@@ -264,7 +262,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [RS485 CAN HAT For Raspberry Pi](https://github.com/sbcshop/RS485-CAN-HAT) | RS485 CAN HAT is a multi node communication module, to communicate with devices in a long-range, designed dedicatedly for Raspberry Pi with an operating voltage of 3.3 V, CAN controller MCP2515 via SPI interface, onboard transceiver SN65HVD230 that is controlled via UART. It is built to support automatic TX/RX control without programming. It performs half-duplex communication and it has an onboard transceiver SP3485. |
 | [Air-Monitoring-HAT](https://github.com/sbcshop/Air-Monitoring-HAT) | SB Components developed the Air Monitor HAT for Raspberry Pi an open-source portable sensor that can provide the level of quantity of the suspended particulates with their mass. |
 
-<hr>
+<hr />
 
 ## Documentation / Resources 
 
@@ -343,11 +341,11 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
 
 
-<hr>
+<hr />
 
 ## Backed Kickstarter Projects
 
-<hr>
+<hr />
 
 ## Kickstarter Companies 
 
