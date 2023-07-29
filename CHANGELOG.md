@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.21](https://github.com/RalphHightower/RalphHightower/compare/v1.20.20...v1.20.21) (2023-07-29)
+
+
+### Bug Fixes
+
+* **Magnum PI:** Got rid of third column ([4fa2845](https://github.com/RalphHightower/RalphHightower/commit/4fa28454d9ad68f892e3f1a1f4618ebda028658e))
+
 ## [1.20.20](https://github.com/RalphHightower/RalphHightower/compare/v1.20.19...v1.20.20) (2023-07-29)
 
 
