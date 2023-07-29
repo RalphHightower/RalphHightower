@@ -5,7 +5,7 @@
 | [NASA Open Data Portal](https://data.nasa.gov/ ) |
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
 
-<hr>
+<hr />
 
 # Satellite Technology
 
@@ -29,7 +29,7 @@
 
 ### [7.0 Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control)
 
-## [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
+### [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
 
 ### [9.0 Communications](https://www.nasa.gov/smallsat-institute/sst-soa/communications/)
 
@@ -43,7 +43,7 @@
 
 ### [Summary](https://www.nasa.gov/smallsat-institute/sst-soa/summary)
 
-<hr>
+<hr />
 
 ## NASA History 
 
