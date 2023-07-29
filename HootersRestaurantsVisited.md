@@ -2,7 +2,7 @@
 
 While working at [NCR](https://www.ncr.com) E&M-Columbia[^1], it was a Friday tradition that Customer Support would meet at the Hooters[^2] on Broad River Road for Happy Hour.
 
-<a href="https://m.maploco.com/visited-states/mine.php?states=AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA.png" border=0><br>Create Your Own Visited States Map</a>
+<a href="https://m.maploco.com/visited-states/mine.php?states=AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA.png" border=0><br />Create Your Own Visited States Map</a>
 
 Working in the landlocked state of Iowa, I wanted some raw oysters. When I passed by the [Red Lobster](https://www.redlobster.com/) in Cedar Rapids, the line was always out the door. But I remembered that the one in Cayce, South Carolina, quit serving raw oysters. I logged into [CompuServe](https://www.compuserve.com/), and found that Des Moines had a Hooters. While in Cedar Rapids, I wanted to visit [The Mall of Americap](https://www.mallofamerica.com/), so I drove my van up there with a few fellow contractors. One of the crazier things that I did was drive to Omaha for lunch, and then drive to Kansas City for dinner. I tried to find a motel to rest a night, but there were no vacancies; I ended up having to drive back to Cedar Rapids putting 900 miles on the van that weekend.
 
