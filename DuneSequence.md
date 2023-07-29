@@ -109,11 +109,11 @@ Rosie Knight is a contributing freelancer for IGN covering everything from anime
 |Good afternoon! How can I assist you today?|
 | *"Can you create five Haiku verses about the Dune series by Frank Herbert?"* |
 |Certainly! Here are five Haiku verses inspired by the Dune series by Frank Herbert:|
-|Arrakis whispers,<br>Sand embraces prophecy,<br>Muad'Dib ascends.|
-|Spice flows through the veins,<br>Navigators bend space-time,<br>Kwisatz Haderach.|
-|Bene Gesserit,<br>Sisterhood weaves the power,<br>Mind and body one.|
-|Sardaukar's might,<br>Empire crumbles in sand,<br>Fremen's hope takes root.|
-|Melange's allure,<br>Control the spice, control all,<br>Dune's destiny calls.|
+|Arrakis whispers,<br />Sand embraces prophecy,<br />Muad'Dib ascends.|
+|Spice flows through the veins,<br />Navigators bend space-time,<br />Kwisatz Haderach.|
+|Bene Gesserit,<br />Sisterhood weaves the power,<br />Mind and body one.|
+|Sardaukar's might,<br />Empire crumbles in sand,<br />Fremen's hope takes root.|
+|Melange's allure,<br />Control the spice, control all,<br />Dune's destiny calls.|
 |I hope you find these Haiku verses captivating! If you have any more requests or if there's anything else I can assist you with, please let me know.|
 | *"Yes, you've captured the spirit of Dune. Thank you."* |
 |You're welcome! I'm delighted to hear that the Haiku verses captured the essence of Dune for you. If you have any more questions or need assistance in the future, feel free to ask. Enjoy your journey through the world of Dune!|
