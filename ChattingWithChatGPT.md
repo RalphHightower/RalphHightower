@@ -282,7 +282,7 @@ If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to
 
 ### [ *Ralph Hightower LinkedIn Profile* ](https://www.linkedin.com/in/ralphhightower/) / [ChatGPT](https://chat.openai.com/)  
 
-| RalphHightower / **[ChatGPT](https://chat.openai.com/)** |
+| *"RalphHightower"* / **[ChatGPT](https://chat.openai.com/)** |
 |-----|
 | *"As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML."* |
 | *"One large scale Windows application that I developed using C# and .Net for my personal use read the NASA mission schedules for the Space Shuttle missions that they published as Excel spreadsheets and created events in the calendar of Microsoft Outlook using Microsoft Visual Studio Tools for Office. I thought that others would be interested in using the application also, so I published the installation executable with the source code on Microsoft’s now decommissioned source code publishing site, Codeplex; I migrated it over to GitHub although support of the application officially ended with wheelstop of Atlantis on mission STS-135 with the Final Four, CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim. On July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person. I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, got to see Atlantis land for the final time on July 21. I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person."* |
@@ -763,7 +763,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 |Hmm, they do the walk of life|
 |Woohoo|
 |Woohoo-hoo|
-|Woohoo-hoo
+|Woohoo-hoo|
 |Woohoo|
 |Woohoo-hoo|
 |"Here Comes Johnny" is a song that describes a musician, Johnny, who performs oldies and goldies, sings about love and women, and has the ability to turn the night into day with his music. He has dedication and devotion to his craft and performs the "walk of life," which is a reference to his journey through life and his experiences. The song celebrates Johnny's music and the power it holds.|
