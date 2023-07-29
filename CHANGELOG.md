@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.22](https://github.com/RalphHightower/RalphHightower/compare/v1.20.21...v1.20.22) (2023-07-29)
+
+
+### Bug Fixes
+
+* malformed line break ([b345bce](https://github.com/RalphHightower/RalphHightower/commit/b345bce635d826820ecbed46e137f8709925e8ff))
+
 ## [1.20.21](https://github.com/RalphHightower/RalphHightower/compare/v1.20.20...v1.20.21) (2023-07-29)
 
 
