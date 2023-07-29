@@ -484,6 +484,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
+| [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) ||
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
@@ -526,7 +527,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs || [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
+| [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) |   |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
