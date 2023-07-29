@@ -119,7 +119,7 @@
 | *"Goodbye."* |
 |Goodbye! Have a great day!
 
-<hr>
+<hr />
 
 ## Technology 
 
@@ -276,7 +276,7 @@ If you're planning to set up your Raspberry Pi4 as a server, it's a good idea to
 | *"Thank you. You have been very helpful in my decision making process for buying a new General Motors vehicle. I'm a Chevy guy."* | 
 |You're welcome! I'm glad I could help. General Motors, including Chevrolet, have been known for providing a wide range of vehicles with the latest technology. Having knowledge of the cellular technology used in vehicles is important when considering the range of services available on the car. You might want to check the specific models and options available to make sure you're getting the cellular technology that is best suited to your needs and preferences. Don't hesitate to reach out if you have any further questions, I'll be happy to help. And as a Chevy guy, I'm sure you'll find the perfect vehicle that meets your needs and preferences! |
 
-<hr>
+<hr />
 
 ## People 
 
@@ -344,7 +344,7 @@ I thought that I would do something different to announce our forty-fifth weddin
 |As an AI language model, I am not capable of playing games such as Jeopardy! however, if I were to be pitted against IBM's Watson, I believe that Watson would likely emerge as the winner. Watson is a highly advanced AI system that was specifically designed and trained to play Jeopardy!. It has a deep understanding of language and is capable of quickly processing vast amounts of information to find the answers to clues. While I am a capable language model, I do not have the specialized skills and abilities that Watson was designed to possess.|
 | *"Thank you."* |
 
-<hr>
+<hr />
 
 ## Space
 
@@ -587,7 +587,7 @@ There are several things that people commonly carry with them, such as a phone, 
 | *"Thank you."* |
 |You're welcome! If you have any other questions, feel free to ask!|
 
-<hr>
+<hr />
 
 ## Science Fiction 
 
@@ -676,7 +676,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 | *"Thank you."* |
 |You're welcome! Let me know if you have any other questions, I'll do my best to help.|
 
-<hr>
+<hr />
 
 ## Music 
 
