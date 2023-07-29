@@ -95,7 +95,7 @@ I have multiple bucket lists of different categories.
 |I hope you enjoy these haikus capturing the essence of Manhattanhenge!|
 | *"Excellent haikus for The City That Never Sleeps."* |
 |Thank you! I'm glad you liked the haikus. New York City, often referred to as "The City That Never Sleeps," is a vibrant and bustling metropolis that has inspired countless artists and writers throughout the years. If you have any more requests or if there's anything else I can assist you with, feel free to let me know!|
-|Cheers.|
+|*"Cheers."*|
 |Cheers to you too! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
 
 ### Masters Golf Tournament
