@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.20.20](https://github.com/RalphHightower/RalphHightower/compare/v1.20.19...v1.20.20) (2023-07-29)
+
+
+### Bug Fixes
+
+* Companies on GitHub ([0e269f7](https://github.com/RalphHightower/RalphHightower/commit/0e269f7ab1842d57973460544d087dc60de420d6))
+
 ## [1.20.19](https://github.com/RalphHightower/RalphHightower/compare/v1.20.18...v1.20.19) (2023-07-27)
 
 
