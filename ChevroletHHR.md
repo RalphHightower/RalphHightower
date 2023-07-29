@@ -28,7 +28,7 @@ This frame is needed because the driver side pivot hold down is broken. When the
 
 | Parts Description | Part Number | Price |
 |-------------------|-------------|-------|
-| GM Genuine Parts Sunroof Frame | 25967123 | • [Chevrolet Parts:](https://parts.chevrolet.com/)[^1]<br>MSRP: \$456.81<br>• [GM Parts Direct:](https://www.gmpartsdirect.com/)[^2]<br> MSRP:	\$456.81<br>Discount:	\$159.42 (34.90% off)<br>Sale Price:	\$297.39 |
+| GM Genuine Parts Sunroof Frame | 25967123 | • [Chevrolet Parts:](https://parts.chevrolet.com/)[^1]<br />MSRP: \$456.81<br />• [GM Parts Direct:](https://www.gmpartsdirect.com/)[^2]<br /> MSRP:	\$456.81<br />Discount:	\$159.42 (34.90% off)<br />Sale Price:	\$297.39 |
 
 [^1]: [Chevrolet Parts](https://parts.chevrolet.com/) ([https://parts.chevrolet.com/](https://parts.chevrolet.com/))
 [^2]: [GM Parts Direct](https://www.gmpartsdirect.com/) ([https://www.gmpartsdirect.com/](https://www.gmpartsdirect.com/))
