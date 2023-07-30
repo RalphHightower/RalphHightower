@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.0](https://github.com/RalphHightower/RalphHightower/compare/v1.20.25...v1.21.0) (2023-07-30)
+
+
+### Features
+
+* copied from Apache ([c48d383](https://github.com/RalphHightower/RalphHightower/commit/c48d38318b0d51500e111e4befec54f719d64117))
+
 ## [1.20.25](https://github.com/RalphHightower/RalphHightower/compare/v1.20.24...v1.20.25) (2023-07-29)
 
 
