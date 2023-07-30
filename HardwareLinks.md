@@ -121,6 +121,7 @@
 | [Khadas / VIM4 w/ NPU, Active Cooling](https://www.khadas.com/product-page/vim4 ) | (H/W) $$239.90 w/ NPU, Active Cooling|
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 |[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
+| **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** |  **$350.50 32GB/128GB** |.Articles:
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | **[MediaTek LEC-MTK-I1200 / SMARC / COM / ADLINK](https://www.adlinktech.com/Products/Computer_on_Modules/SMARC/LEC-MTK-I1200 )** | (H/W) |
@@ -475,6 +476,8 @@
 | [LiFi 802.11bb standard uses light for in-room data transmission up to 224GB/s - cnx-software](https://www.cnx-software.com/2023/07/14/lifi-802-11bb-wifi-standard-uses-light-for-in-room-data-transmission-up-to-224gb-s/ ) |
 | [Edgeble AI Neural Compute Module 2 (Neu2) follows 96Boards SoM form factor - cnx-software](https://www.cnx-software.com/2023/07/19/edgeble-ai-neural-compute-module-2-neu2-follows-96boards-som-form-factor/ ) |
 | [Yahboom DOFBOT 6 DoF AI Vision robotic arm for Jetson Nano sells for $289 and up - CNX Software](https://www.cnx-software.com/2023/07/18/yahboom-dofbot-6-dof-ai-vision-robotic-arm-for-jetson-nano-sells-for-289-and-up/ ) |
+| [Liontron Rockchip RK3588 motherboard ships with 32GB RAM for $352 - CNX Software](https://www.cnx-software.com/2023/07/27/liontron-rockchip-rk3588-motherboard-32gb-ram/ ) |
+| [Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://www.aliexpress.com/item/1005005776979120.html ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
