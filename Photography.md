@@ -235,7 +235,7 @@
 |6x4.5: Approximate equivalent focal length is around 45mm.|
 |6x7: Approximate equivalent focal length is around 39mm.|
 |4x5: Approximate equivalent focal length is around 24mm.|
-|50mm on 35mm format (considered "normal"):|
+| **50mm on 35mm format (considered "normal"):** |
 |6x4.5: Approximate equivalent focal length is around 80mm.|
 |6x7: Approximate equivalent focal length is around 67mm.|
 |4x5: Approximate equivalent focal length is around 40mm.|
