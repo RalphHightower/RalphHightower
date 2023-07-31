@@ -295,7 +295,7 @@
 |Good afternoon! How can I assist you today? If you have any questions or need help with anything, feel free to ask.|
 | *"Let's resume our conversation about photography."* |
 |Absolutely, let's continue our conversation about photography! Is there anything specific you would like to discuss or learn more about in the world of photography? Whether it's camera gear, shooting techniques, post-processing, or any other photography-related topic, feel free to share your interests or ask any questions, and I'll be happy to help!|
-| *"I just went to a website that has manuals for many cameras; Butkus scanned many camera and photography accessories, such as flash and bellows, into PDF fi. Earlier you said that the Mamiya RZ does not have a rotating back. However, the manual states that the Mamiya RZ67 does indeed have a rotating back."* |
+| *"I just went to a website that has manuals for many cameras; Butkus scanned many camera and photography accessories, such as flash and bellows, into PDF files. Earlier you said that the Mamiya RZ does not have a rotating back. However, the manual states that the Mamiya RZ67 does indeed have a rotating back."* |
 |You are correct, and I apologize for the oversight in my previous response. You are right that the Mamiya RZ67 does have a rotating back, allowing photographers to switch between landscape and portrait orientations without having to recompose the shot. The rotating back is a valuable feature that enhances the camera's versatility and convenience during shooting.|
 |Thank you for bringing this to my attention, and I appreciate your understanding. If you have any more questions or need further clarification about photography or any other topic, feel free to ask!|
 | *"Thank you."* |
