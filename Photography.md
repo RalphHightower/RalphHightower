@@ -266,7 +266,7 @@
 |6x4.5 cm: Approximate equivalent focal length is around 55mm.|
 |6x7 cm: Approximate equivalent focal length is around 49mm.|
 |4x5 inches: Approximate equivalent focal length is around 24mm.|
-|50mm on 35mm format (considered "normal"):|
+| **50mm on 35mm format (considered "normal"):** |
 |6x4.5 cm: Approximate equivalent focal length is around 100mm.|
 |6x7 cm: Approximate equivalent focal length is around 85mm.|
 |4x5 inches: Approximate equivalent focal length is around 40mm.|
@@ -274,11 +274,11 @@
 |6x4.5 cm: Approximate equivalent focal length is around 170mm.|
 |6x7 cm: Approximate equivalent focal length is around 145mm.|
 |4x5 inches: Approximate equivalent focal length is around 71mm.|
-|105mm on 35mm format:|
+| **105mm on 35mm format:** |
 |6x4.5 cm: Approximate equivalent focal length is around 212mm.|
 |6x7 cm: Approximate equivalent focal length is around 180mm.|
 |4x5 inches: Approximate equivalent focal length is around 88mm.|
-|135mm on 35mm format:|
+| **135mm on 35mm format:** |
 |6x4.5 cm: Approximate equivalent focal length is around 270mm.|
 |6x7 cm: Approximate equivalent focal length is around 230mm.|
 |4x5 inches: Approximate equivalent focal length is around 112mm.|
