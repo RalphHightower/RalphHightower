@@ -580,7 +580,7 @@ Hello! I'm here to assist you. How can I help you today?|
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
-|Good afternoon, AI Assistant."*|
+|*Good afternoon, AI Assistant."*|
 |Good afternoon! How can I assist you today?|
 | *"Your haikus have shown great creativity. Could you create a haiku for each of the Star Wars movies?"*|
 |Certainly! Here are haikus dedicated to each of the main Star Wars movies:|
