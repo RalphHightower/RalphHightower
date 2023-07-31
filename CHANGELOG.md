@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.1](https://github.com/RalphHightower/RalphHightower/compare/v1.21.0...v1.21.1) (2023-07-31)
+
+
+### Bug Fixes
+
+* Italics on my prompt for Star Wars ([ef7e291](https://github.com/RalphHightower/RalphHightower/commit/ef7e2912d5f68cafd76ba489573ebaff162e4abc))
+
 ## [1.21.0](https://github.com/RalphHightower/RalphHightower/compare/v1.20.25...v1.21.0) (2023-07-30)
 
 
