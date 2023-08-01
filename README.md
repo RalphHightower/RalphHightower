@@ -625,7 +625,7 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 
 [^101]: I am not a lawyer. 
 
-| License | Short Identifor | OSI Approved | Disclose Source Changes | 
+| License | Short Identifor | OSI Approved[^102]  | Disclose Source Changes | 
 |---|---|---|---|
 | [Adaptive Public License 1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/APL-1.0.html ) | APL-1.0 | Y | Must |
 | [GNU Affero General Public License v3.0 only / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/AGPL-3.0-only.html ) | AGPL-3.0-only | Y | Must |
@@ -638,6 +638,8 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 | [Sleepycat License / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/Sleepycat.html ) | Sleepycat | Y | Must |
 | [Simple Public License 2.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SimPL-2.0.html ) | SimPL-2.0 | Y | Must |
 | [Sun Public License v1.0 / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/SPL-1.0.html ) | SISSL | Y | Must (?) |
+
+[^102]: [Open Source Initiative – The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem.](https://opensource.org/ )
 
 #### [The Legal Side of Open Source / Open Source Guides](https://opensource.guide/legal/ )
 #### [ClearlyDefined — Bringing clarity to Open Source Software licenses.](https://clearlydefined.io/ )
