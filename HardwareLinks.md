@@ -209,7 +209,8 @@
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
 | [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | (H/W) |
 | [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
-| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
+| [Tungsten700 SMARC](https://www.lairdconnect.com/product/tungsten700-smarc ) | (H/W) |
+| [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production]ten700 SMARC SoM and devkit features MediaTek Genio 700 AIoT processor - CNX Software](https://www.cnx-software.com/2023/07/28/tungsten700-smarc-som-and-devkit-features-mediatek-genio-700-aiot-processor/ ) || [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
@@ -478,6 +479,7 @@
 | [Yahboom DOFBOT 6 DoF AI Vision robotic arm for Jetson Nano sells for $289 and up - CNX Software](https://www.cnx-software.com/2023/07/18/yahboom-dofbot-6-dof-ai-vision-robotic-arm-for-jetson-nano-sells-for-289-and-up/ ) |
 | [Liontron Rockchip RK3588 motherboard ships with 32GB RAM for $352 - CNX Software](https://www.cnx-software.com/2023/07/27/liontron-rockchip-rk3588-motherboard-32gb-ram/ ) |
 | [Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://www.aliexpress.com/item/1005005776979120.html ) |
+| [Tungsten700 SMARC SoM and devkit features MediaTek Genio 700 AIoT processor - CNX Software](https://www.cnx-software.com/2023/07/28/tungsten700-smarc-som-and-devkit-features-mediatek-genio-700-aiot-processor/ ) || [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br>• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br>• Full-throughput Gigabit Ethernet<br>• Dual-band 802.11ac wireless networking<br>• Bluetooth 5.0<br>• Two USB 3.0 and two USB 2.0 ports<br>• Dual monitor support, at resolutions up to 4K<br>• VideoCore VI graphics, supporting OpenGL ES 3.x<br>• 4Kp60 hardware decode of HEVC video<br>Complete compatibility with earlier Raspberry Pi products
 
