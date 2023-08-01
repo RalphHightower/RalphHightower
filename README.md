@@ -83,7 +83,7 @@ I also have different categories of bucket lists.
 [^82]: I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
 [^83]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
 [^84]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
-[^85]:  [Paula totaled mine] I love the retro styling and with the rear seats down, it had enough cargo capacity for us and our beagles.)
+[^85]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
 [^86]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
 [^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^88]: I love the instruction set of this magnificent beast of a computer. 
