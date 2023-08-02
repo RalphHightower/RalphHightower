@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.2](https://github.com/RalphHightower/RalphHightower/compare/v1.21.1...v1.21.2) (2023-08-02)
+
+
+### Bug Fixes
+
+* preposition in "Sounds of the Season" ([9b9b8a3](https://github.com/RalphHightower/RalphHightower/commit/9b9b8a37452724aa0f99b7ddc7b0f8f034a5428b))
+
 ## [1.21.1](https://github.com/RalphHightower/RalphHightower/compare/v1.21.0...v1.21.1) (2023-07-31)
 
 
