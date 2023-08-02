@@ -62,7 +62,7 @@
 |822| 80's |823| Music Choice Max  |
 |824| Dance/EDM |825| Contemporary Christian  |
 |826| Pop-Latino |827| Classic Country  |
-|828| Romances |829| Sounds if the Seasons – The Pulse  |
+|828| Romances |829| Sounds of the Seasons – The Pulse  |
 |830| Country Hits |831| 70's  |
 |832| Solid Gold Oldies |833| Pop and Country  |
 |834| Tropicales |835| Mexicana  |
