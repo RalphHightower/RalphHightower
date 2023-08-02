@@ -244,11 +244,11 @@ RFY|OnStar In-Vehicle Coaching - 5 Years of Service|RIA|LPO, All-weather floor l
 | Hello! How can I assist you today? |
 | *"Could you produce five Haiku verses about Chevrolet's new mid-engine Corvette?"* |
 |Sure! Here are five Haiku verses about Chevrolet's new mid-engine Corvette:|
-|Sleek curves, mid-engine,<br>Corvette roars with pure might,<br>Speed's symphony.|
-|Muscle and finesse,<br>Corvette's heart beats midship,<br>Track-ready beauty.|
-|Revving V8's soul,<br>Corvette's mid-engine dance,<br>Exhilarates.|
-|Corvette's legacy,<br>Mid-engine evolution,<br>Born to conquer roads.|
-|Roaring on the edge,<br>Corvette's mid-engine dream,<br>Unleashed horsepower.|
+|Sleek curves, mid-engine,<br />Corvette roars with pure might,<br />Speed's symphony.|
+|Muscle and finesse,<br />Corvette's heart beats midship,<br />Track-ready beauty.|
+|Revving V8's soul,<br />Corvette's mid-engine dance,<br />Exhilarates.|
+|Corvette's legacy,<br />Mid-engine evolution,<br />Born to conquer roads.|
+|Roaring on the edge,<br />Corvette's mid-engine dream,<br />Unleashed horsepower.|
 |I hope you enjoy these Haiku verses about the Chevrolet mid-engine Corvette!|
 | *"Thank you. Those are impressive! Fantastic!"* |
 |You're very welcome! I'm glad you found the Haiku verses impressive. If you have any more questions or if there's anything else I can help you with, feel free to let me know. Enjoy your day!|

@@ -117,11 +117,11 @@
 |Greetings! How can I assist you today?|
 | *"Uwas remiss. Could you create five haikus of University of South Carolina?"* |
 |Of course! Here are five haikus inspired by the University of South Carolina:|
-|Horseshoe's embrace<br>Oak trees and history meet<br>USC's heart|
-|Gamecocks unite strong<br>Garnet and black pride displayed<br>Alma mater's song|
-|Strom Thurmond stands tall<br>Fitness and wellness abound<br>Healthy minds and souls|
-|Melton's watchful eye<br>Stargazers seek cosmic gems<br>Celestial dreams|
-|Russell House alive<br>Student life thrives in its walls<br>Memories enshrined|
+|Horseshoe's embrace<br />Oak trees and history meet<br />USC's heart|
+|Gamecocks unite strong<br />Garnet and black pride displayed<br />Alma mater's song|
+|Strom Thurmond stands tall<br />Fitness and wellness abound<br />Healthy minds and souls|
+|Melton's watchful eye<br />Stargazers seek cosmic gems<br />Celestial dreams|
+|Russell House alive<br />Student life thrives in its walls<br />Memories enshrined|
 |I hope you enjoy these haikus capturing the essence of the University of South Carolina!|
 | *"Thank you. Those were great."* |
 |You're very welcome! I'm glad you liked the haikus. If you have any more questions or need further assistance, feel free to ask. Have a wonderful day!|
