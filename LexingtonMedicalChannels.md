@@ -1,5 +1,13 @@
 # [Lexington Medical Center Channel Lineup/Schedule](https://www.lexmed.com/)[^11][^12][^13]
 
+[^11]: Since I have had more hospitalizations than I wanted, I created this channel guide for myself.
+[^12]: None the links to the channel schedules are active yet.
+[^13]: [SWANK Patient Network](https://www.swank.com/) supplies [Lexington Medical Center](https://www.lexmed.com/) movies.
+
+## Disclaimer 
+
+***My renaming of Faux News for Fox News, and Crap for RAP, is my personal assessment, and does not reflect on Lexington Medical.***
+
 ## Patient Rooms
 
 | Channel | Name | Channel | Name |
@@ -44,7 +52,7 @@
 |802| Rock Hits |803| Gospels |
 |804| Indie |805| Hit List  |
 |806| Party Favorites |807| Today's Country  |
-|808| Hip-Hop Classics *?* |809| C-RAP  |
+|808| Hip-Hop Classics[^22] *?* |809| CRAP[^23]  |
 |810| Hip-Hop and R&B |811| Classic Rock |
 |812| R&B Classics |813| R&B Soul  |
 |814| Alternative |815| Metal  |
@@ -59,13 +67,17 @@
 |832| Solid Gold Oldies |833| Pop and Country  |
 |834| Tropicales |835| Mexicana  |
 |836| Soundscapes |837| Smooth Jazz  |
-|838| Toddler Tunes |839| Stage and Screen [] at the Movies  |
+|838| Toddler Tunes |839| Stage and Screen at the Movies  |
 |840| Teen Beat |841| Musica Urbana  |
 |842| Love Songs |843| Adult Alternative  |
 |844| Jazz |845| Blues  |
 |846| Singers and Swing |847| Easy Listening  |
 |848| Classic Masterpieces |849| Light Classical  |
 |850| Light Classical |---||
+
+[^21]: Intentionally, but appropriately, renaming that network since Faux News does not adhere to journalistic standards of integrity.
+[^22]: ***Seriously?***
+[^23]: It's noise. That's my assessment. 
 
 ## Pre-op Rooms
 
@@ -99,16 +111,37 @@
 |80-2|[PBS - WRLK](https://www.#.com/)|81-1|[FOX - WACH](https://www.#.com/)|
 |81-2|[NBC - WIS](https://www.#.com/)|81-3|[ION - WZRB](https://www.#.com/)|
 |83-1|[NFL Network](https://www.#.com/)|87-XX|Music Choice|
-|123-1|Welcome Channe|124-1|CARE Channel|
+|87-1||87-2||
+|87-3||87-4||
+|87-5||87-6||
+|87-7||87-8||
+|87-9||87-9||
+|87-10||87-11||
+|87-12||87-13||
+|87-14||87-15||
+|87-16|Classic Rock|87-17||
+|87-18||87-19||
+|87-20||87-21||
+|87-22||87-23||
+|87-24||87-25||
+|87-26||87-27||
+|87-28||87-29||
+|87-30||87-31||
+|87-32||87-33||
+|87-34||87-35||
+|87-36||87-37||
+|87-38||87-39||
+|87-40||87-41||
+|87-42||87-43||
+|87-44||87-45||
+|87-46||87-47||
+|87-48||87-49||
+|87-50||||
+|123-1|Welcome Channel|124-1|CARE Channel|
 |125-1|CARE Channel|126-1|[Movie Channel - Family Channel](https://www.#.com/)|
 |127-1|[Movie Channel - Kid Channel](https://www.#.com/)|128-1|[Movie Channel - Action Channel](https://www.#.com/)|
 |129-1|Education Channel|130-1|Education Channel - Spanish|
 |131-1|Newborn Channel|132-1|Newborn Channel - Spanish|
 |133-1|Open|134-1|Open|
 
-[^11]: Since I have had more hospitalizations than I wanted, I created this channel guide for myself.
-[^12]: None the links to the channel schedules are active yet.
-[^13]: [SWANK Patient Network](https://www.swank.com/) supplies [Lexington Medical Center](https://www.lexmed.com/) movies.
- [^21]: Intentionally, but appropriately, renaming that network since Faux News does not adhere to journalistic standards of integrity.
- 
 [Centrella Smart+ Hospital Bed / Hillrom](https://www.hillrom.com/en/products/centrella-smart-bed/ )
