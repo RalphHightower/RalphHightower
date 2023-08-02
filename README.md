@@ -675,7 +675,7 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 | *"Cheers."* |
 | Cheers to you too! If you need any assistance in the future, don't hesitate to reach out. Have a great day!|
 
-<hr>
+<hr />
 
 ## Preferred Photography Vendors 
 

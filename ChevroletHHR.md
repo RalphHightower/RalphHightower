@@ -157,18 +157,18 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 
 | Year | Brand | Model | Module Part Number | Function | Part | Price |
 |------|-------|-------|--------------------|----------|------|-------|
-| 2011 | Chevrolet | HHR[^3] | 23235227 (2011) |  |  | $392.62 (GMD)<br>No Results (C) |
-| | | | |Female to Male Cable (2010 & Under) | 23242476 | $7.78 (GMD)<br>No Results (C) |
-| | | | |UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br>No Results (C) |
+| 2011 | Chevrolet | HHR[^3] | 23235227 (2011) |  |  | $392.62 (GMD)<br />No Results (C) |
+| | | | |Female to Male Cable (2010 & Under) | 23242476 | $7.78 (GMD)<br />No Results (C) |
+| | | | |UHF Adapter Cable (2010 & Under)    | 23242478 | $8.10 (GMD)<br />No Results (C) |
 
 [^3]: Totalled 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
 
 ### Service Bulletin 15-08-44-001J ([GM Canada](https://www.gm.ca/) 🇨🇦 🍁)
 
-| [GM Canada](https://www.gm.ca/) Service Bulletins | Offline<br> (this repository on GitHub) | [National Highway Traffic Safety Administration (USA gov 🇺🇸)](https://www.nhtsa.gov) |
+| [GM Canada](https://www.gm.ca/) Service Bulletins | Offline<br /> (this repository on GitHub) | [National Highway Traffic Safety Administration (USA gov 🇺🇸)](https://www.nhtsa.gov) |
 |-----------------------------|---------|--------|
-| Bulletin No.: 15-08-44-001<br> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf](https://static.nhtsa.gov/odi/tsbs/2019/MC-10166666-9999.pdf) |
-| File in Section: 08 -Body and Accessories<br> Bulletin No.: 15-08-44-001 H<br> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
+| Bulletin No.: 15-08-44-001<br /> Date: Mar-2015 | [MC-10113720-9999.pdf](MC-10113720-9999.pdf) | [MC-10113720-9999.pdf](https://static.nhtsa.gov/odi/tsbs/2019/MC-10166666-9999.pdf) |
+| File in Section: 08 -Body and Accessories<br /> Bulletin No.: 15-08-44-001 H<br /> Date: June, 2016  | [SB-10089229-2280.pdf](SB-10089229-2280.pdf) | [SB-10089229-2280.pdf](https://static.nhtsa.gov/odi/tsbs/2016/SB-10089229-2280.pdf) |
 
 ## Chevrolet HHR 
 
@@ -230,11 +230,11 @@ Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
 |Good afternoon! How can I assist you today?|
 | *"Could you create five Haiku verses about the Chevrolet HHR?"* |
 |Sure! Here are five Haiku verses about the Chevrolet HHR:|
-|Retro charm on wheels,<br>HHR's sleek lines entice,<br>Classic meets today.|
-|Compact and agile,<br>HHR cruises with grace,<br>Efficiency shines.|
-|Spacious cabin holds,<br>Comfort for all on the go,<br>Journey with delight.|
-|Bold curves catch the eye,<br>Chevrolet's emblem of strength,<br>HHR, a star.|
-|Versatile spirit,<br>HHR adapts to your needs,<br>Utility unleashed.|
+|Retro charm on wheels,<br />HHR's sleek lines entice,<br />Classic meets today.|
+|Compact and agile,<br />HHR cruises with grace,<br />Efficiency shines.|
+|Spacious cabin holds,<br />Comfort for all on the go,<br />Journey with delight.|
+|Bold curves catch the eye,<br />Chevrolet's emblem of strength,<br />HHR, a star.|
+|Versatile spirit,<br />HHR adapts to your needs,<br />Utility unleashed.|
 |I hope you enjoy these Haiku verses about the Chevrolet HHR!|
 | *"Excellent! Thank you."* |
 |You're welcome! I'm glad you liked the Haiku verses. If you have any more questions or need further assistance, feel free to ask.|

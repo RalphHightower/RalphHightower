@@ -148,11 +148,11 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Good afternoon! How can I assist you today?|
 | *"Could you create five Haiku verses about the Chevrolet HHR?"* |
 |Sure! Here are five Haiku verses about the Chevrolet HHR:|
-|Retro charm on wheels,<br />HHR's sleek lines entice,<br>Classic meets today.|
-|Compact and agile,<br />HHR cruises with grace,<br>Efficiency shines.|
-|Spacious cabin holds,<br />Comfort for all on the go,<br>Journey with delight.|
-|Bold curves catch the eye,<br />Chevrolet's emblem of strength,<br>HHR, a star.|
-|Versatile spirit,<br />HHR adapts to your needs,<br>Utility unleashed.|
+|Retro charm on wheels,<br />HHR's sleek lines entice,<br />Classic meets today.|
+|Compact and agile,<br />HHR cruises with grace,<br />Efficiency shines.|
+|Spacious cabin holds,<br />Comfort for all on the go,<br />Journey with delight.|
+|Bold curves catch the eye,<br />Chevrolet's emblem of strength,<br />HHR, a star.|
+|Versatile spirit,<br />HHR adapts to your needs,<br />Utility unleashed.|
 |I hope you enjoy these Haiku verses about the Chevrolet HHR!|
 | *"Excellent! Thank you."* |
 |You're welcome! I'm glad you liked the Haiku verses. If you have any more questions or need further assistance, feel free to ask.|
@@ -171,11 +171,11 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Good afternoon! How can I assist you today?|
 | *"I have been enjoying your haikus. Could you create five haikus about the Ford Mustang?"* |
 |Certainly! I'm glad to hear that you've been enjoying the haikus. Here are five haikus dedicated to the Ford Mustang:|
-|Roaring down the road,<br />Muscle car's relentless might,<br>Mustang claims its throne.|
-|Sleek and swift it glides,<br />Iconic lines cutting through,<br>Mustang, wild and free.|
-|V8's symphony,<br />Racing heart, unleashed power,<br>Mustang's thunderous.|
-|Wind in your hair, thrill,<br />Mustang's top down, soul on fire,<br>Freedom knows no bounds.|
-|Heritage of speed,<br />Legends born on open roads,<br>Mustang's legacy.|
+|Roaring down the road,<br />Muscle car's relentless might,<br />Mustang claims its throne.|
+|Sleek and swift it glides,<br />Iconic lines cutting through,<br />Mustang, wild and free.|
+|V8's symphony,<br />Racing heart, unleashed power,<br />Mustang's thunderous.|
+|Wind in your hair, thrill,<br />Mustang's top down, soul on fire,<br />Freedom knows no bounds.|
+|Heritage of speed,<br />Legends born on open roads,<br />Mustang's legacy.|
 |I hope you enjoy these Mustang-inspired haikus! Let me know if there's anything else I can assist you with.|
 | *"Thank you. Those were excellent."* |
 |You're very welcome! I'm thrilled to hear that you found the Mustang haikus excellent. If you have any more requests or if there's anything else I can help you with, feel free to let me know. Enjoy your day!|
@@ -356,17 +356,17 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | *"Your haikus have shown great creativity. Could you create five haikus for each Battlestar Galactica?"* |
 |Of course! Here are five haikus for each of the Battlestar Galactica series:|
 | **Battlestar Galactica (1978):** |
-|Cylons strike with might,<br>Galactica's brave flight soars,<br>Hope prevails in space.|
-|Starbuck's charm ignites,<br>Adama leads with wisdom,<br>Battle cries resound.|
-|Fleet seeks Earth's embrace,<br>Viper squadrons fiercely guard,<br>Destiny unfolds.|
-|Colonies shattered,<br>Galactica stands steadfast,<br>Frakkin' to survive.|
-|In stars' cosmic dance,<br>A journey's quest for refuge,<br>Humanity's hope.|
+|Cylons strike with might,<br />Galactica's brave flight soars,<br />Hope prevails in space.|
+|Starbuck's charm ignites,<br />Adama leads with wisdom,<br />Battle cries resound.|
+|Fleet seeks Earth's embrace,<br />Viper squadrons fiercely guard,<br />Destiny unfolds.|
+|Colonies shattered,<br />Galactica stands steadfast,<br />Frakkin' to survive.|
+|In stars' cosmic dance,<br />A journey's quest for refuge,<br />Humanity's hope.|
 | **Battlestar Galactica (2004):** |
-|Adama's resolve,<br>Cylons in shadows conceal,<br>Earth's search unites all.|
-|Number Six tempts fate,<br>Centurions seek rebirth,<br>Identity blurs.|
-|Starbuck's fate unknown,<br>Admiral leads through despair,<br>Earth's promise awaits.|
-|Cylon-Human strife,<br>Morals blurred in space's void,<br>Survival's high price.|
-|Final Five revealed,<br>Galactica's legacy,<br>New Earth's hope reborn.|
+|Adama's resolve,<br />Cylons in shadows conceal,<br />Earth's search unites all.|
+|Number Six tempts fate,<br />Centurions seek rebirth,<br />Identity blurs.|
+|Starbuck's fate unknown,<br />Admiral leads through despair,<br />Earth's promise awaits.|
+|Cylon-Human strife,<br />Morals blurred in space's void,<br />Survival's high price.|
+|Final Five revealed,<br />Galactica's legacy,<br />New Earth's hope reborn.|
 |I hope you enjoy these haikus inspired by Battlestar Galactica!|
 | *"Excellent."* |
 |Thank you! I'm glad you liked the haikus. If you have any more questions or need further assistance, feel free to ask!|
@@ -395,7 +395,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 |Good morning! How can I assist you today?|
 | *"Your Haiku about Doctor Who was spot on. Could you create one with the Weeping Angels?"* |
 |Certainly! Here's a Haiku featuring the Weeping Angels:|
-|Silent as statues,<br>Weeping Angels watch, they wait,<br>Time's predators lurk.|
+|Silent as statues,<br />Weeping Angels watch, they wait,<br />Time's predators lurk.|
 |The Weeping Angels are a truly captivating and eerie presence in the Doctor Who universe. Let me know if there's anything else I can help you with!|
 | *"Excellent! Thank you."* |
 |You're very welcome! I'm glad you liked the Weeping Angels Haiku. If you have any more questions or if there's anything else I can assist you with, feel free to ask. Have a great day!|
@@ -411,21 +411,21 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | *"I would appreciate you creating Haiku verses, each featuring one from the following series: The Original Series, The Next Generation, Deep Space Nine, Voyager, Enterprise, Discovery, Picard, Strange New Worlds."* |
 |Certainly! Here are some Haiku verses featuring each Star Trek series you mentioned:|
 | **The Original Series:** 
-|Bold crew of the ship,<br />Exploring vast galaxies,<br>Boldly going on.|
+|Bold crew of the ship,<br />Exploring vast galaxies,<br />Boldly going on.|
 | **The Next Generation:** |
-|Picard leads the way,<br />United as one Starfleet,<br>New horizons wait.|
+|Picard leads the way,<br />United as one Starfleet,<br />New horizons wait.|
 | **Deep Space Nine:** |
-|Station in the stars,<br />War and peace, intertwined lives,<br>Unity prevails.|
+|Station in the stars,<br />War and peace, intertwined lives,<br />Unity prevails.|
 | **Voyager:** |
-|Lost in unknown space,<br />Crew braves trials and triumphs,<br>Hope guides them homeward.|
+|Lost in unknown space,<br />Crew braves trials and triumphs,<br />Hope guides them homeward.|
 | **Enterprise:** |
-|Early warp explorers,<br />Venturing to the unknown,<br>Future's foundation.|
+|Early warp explorers,<br />Venturing to the unknown,<br />Future's foundation.|
 | **Discovery:** |
-|Spores guide the ship's path,<br />New worlds, secrets to uncover,<br>Discovery dawns.|
+|Spores guide the ship's path,<br />New worlds, secrets to uncover,<br />Discovery dawns.|
 | **Picard:** |
-|Retired captain's call,<br />To save what's left of ideals,<br>Legacy endures.|
+|Retired captain's call,<br />To save what's left of ideals,<br />Legacy endures.|
 | **Strange New Worlds:** |
-|Classic tales reborn,<br />Adventure in familiar light,<br>New journeys await.|
+|Classic tales reborn,<br />Adventure in familiar light,<br />New journeys await.|
 ||
 |I hope you enjoy these Star Trek-themed Haiku verses!|
 | *"Thank you. Those were great."* |
@@ -447,7 +447,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | **Generations:** |
 |Two captains, one fate,<br />Temporal nexus unfolds,<br />Legacy passes.|
 | **First Contact:** |
-|Time rift's dark purpose,<br>Humanity's triumph shines,<br />Resistance fights on.|
+|Time rift's dark purpose,<br />Humanity's triumph shines,<br />Resistance fights on.|
 | **Insurrection:** |
 |Hidden paradise,<br />Ageless lives, youth's eternal,<br />Nature's healing touch.|
 | **Nemesis:** |
@@ -455,7 +455,7 @@ A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.
 | **Star Trek (2009 Kelvin Reboot)**:|
 |Time's altered course,<br />Crew's destiny intertwined,<br />New legends take flight.|
 | **Into Darkness:** |
-|Darkness tempts within,<br>Friendship's test, secrets revealed,<br />Light prevails, hope shines.|
+|Darkness tempts within,<br />Friendship's test, secrets revealed,<br />Light prevails, hope shines.|
 | **Beyond:** |
 |Crew lost, unity,<br />Frontiers met with newfound friends,<br />Unity restores.|
 ||
