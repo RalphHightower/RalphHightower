@@ -482,6 +482,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
 | [Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
+| [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
@@ -497,6 +498,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
+| [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) |Torvalds Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [Mastercard](https://github.com/Mastercard ) | |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
