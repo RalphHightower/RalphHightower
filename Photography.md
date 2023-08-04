@@ -50,49 +50,9 @@
 |[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
 | [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
 | [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
+| [4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length ) |
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List  
-
-## Preferred Photography Retailers 
-
-| Company | Location | About |
-|---------|----------|-------|
-| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere.[^31] |
-| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^32]  |
-| [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^33] |
-
-[^31]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
-[^32]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
-[^33]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
-
-| [About KEH](https://www.keh.com)[^31] |
-|-----|
-| We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
-| KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
-| In an age that treats every camera like a disposable camera and every photo like an instant photo, we believe in making the best last. Gear that earns the KEH stamp of approval is gear that goes further and reaches higher. Graded by experts. Renewed with care. One-of-a-kind. Sustainable. Exchangeable. |
-| A KEH camera is an instrument of possibility. In your hands, that secondhand camera instantly becomes something new:
-An opportunity. A chance to create and share something extraordinary with the world. |
-| A camera is what you make of it. We can’t wait to see what develops. |
-
-| [About B&H Photo/Video](https://www.bhphotovideo.com)[^32] |
-|-----------------------|
-| Get to know the people who know your gear best.
-| B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
-| We hire and extensively train our product specialists so that each one can speak from a place of confidence and expertise... which means when you need answers, we're ready with solutions, tailored to you. |
-| We believe in making customers, not sales. That's why we've perfected the "art of the downsell": we'll always recommend the best options based on your specific needs, rather than the price tag. The customer comes first, second and third at B&H. |
-| With nearly half a million items in stock, every day, our selection is legendary and that's made us a trusted resource for photographers, musicians and creative professionals around the world for decades. Choose from 11+ football fields' worth of leading-edge technology plus hard-to-find rarities. You might even find a bona fide electronics collectible in our Used Department! |
-| The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
-| Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
-
-| [About Lensrentals.com](https://www.lensrentals.com)[^33] |
-|-----------------------|
-| Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
-| Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
-| Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
-| We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
-| What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
-
-I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system[^31] with AE Motor Drive FN, AE Finder FN, with three metering screens, split-image/microprism, partial, and spot. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/) for use at The Masters and the 2017 Total Solar Eclipse. 
 
 ## [ChatGPT](https://chat.openai.com/)
 
@@ -396,3 +356,55 @@ I have bought new and used equipment from B&H and used equipment from KEH, inclu
 |You're welcome! If you have any more questions or need assistance in the future, don't hesitate to reach out. Have a great day and happy photography|
 | *"Cheers."* |
 |Cheers! Have a wonderful day! If you ever need help or want to chat again, feel free to come back anytime. Take care!|
+
+## Preferred Photography Retailers 
+
+| Company | Location | About |
+|---------|----------|-------|
+| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere.[^31] |
+| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^32]  |
+| [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^33] |
+
+[^31]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^32]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^33]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+ilers 
+
+| Company | Location | About |
+|---------|----------|-------|
+| [KEH](https://www.keh.com) | Georgia, Smyrna | KEH is the original reseller of professional, collectible, and everyday gear for camera lovers everywhere.[^31] |
+| [B&H Photo/Video](https://www.bhphotovideo.com/) | New York, New York City | Photography, Computers, TV & Entertainment, Professional Video, Mobile, Pro Audio, Photo Accessories, Drones & Camcorders, Lighting, Audio-Visual, Surveillance, Optics[^32]  |
+| [Lensrentals.com](https://www.lensrentals.com/) | Tennessee, Cordova | Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States[^33] |
+
+[^31]: Information supplied from [KEH website https:www.keh.com](https://www.keh.com)
+[^32]: Information supplied from [B&H Photo/Video https://www.bhphotovideo.com](https://www.bhphotovideo.com) 
+[^33]: Information supplied from [Lensrentals.com https://www.lensrentals.com](https://www.lensrentals.com) 
+
+| [About KEH](https://www.keh.com)[^31] |
+|-----|
+| We’re camera people - photographers and videographers, collectors and crafters, makers, and muses. |
+| KEH has always envisioned a better way to put rare and quality secondhand cameras in the hands of fellow photographers. With your support, we’ve become the largest curated market for used (or, in our view, field-tested) photo and video equipment in the industry. |
+| In an age that treats every camera like a disposable camera and every photo like an instant photo, we believe in making the best last. Gear that earns the KEH stamp of approval is gear that goes further and reaches higher. Graded by experts. Renewed with care. One-of-a-kind. Sustainable. Exchangeable. |
+| A KEH camera is an instrument of possibility. In your hands, that secondhand camera instantly becomes something new:
+An opportunity. A chance to create and share something extraordinary with the world. |
+| A camera is what you make of it. We can’t wait to see what develops. |
+
+| [About B&H Photo/Video](https://www.bhphotovideo.com)[^32] |
+|-----------------------|
+| Get to know the people who know your gear best.
+| B&H is not a big box store, or a faceless chain... or a personality-free zone. B&H is a group of people who are passionate about the things you're passionate about—from photography, film, music and audio to art and technology, creating and imagining. |
+| We hire and extensively train our product specialists so that each one can speak from a place of confidence and expertise... which means when you need answers, we're ready with solutions, tailored to you. |
+| We believe in making customers, not sales. That's why we've perfected the "art of the downsell": we'll always recommend the best options based on your specific needs, rather than the price tag. The customer comes first, second and third at B&H. |
+| With nearly half a million items in stock, every day, our selection is legendary and that's made us a trusted resource for photographers, musicians and creative professionals around the world for decades. Choose from 11+ football fields' worth of leading-edge technology plus hard-to-find rarities. You might even find a bona fide electronics collectible in our Used Department! |
+| The thing that makes B&H so amazing is its people. Every one of our product specialists has a passion—for photography, music, film or art—to match their love of all things tech.
+| Located inside our NYC SuperStore, the Tech Corner is where you can visit one of our resident experts for a hands-on demonstration of gear you either just bought or equipment you already own. |
+
+| [About Lensrentals.com](https://www.lensrentals.com)[^33] |
+|-----------------------|
+| Lensrentals is the largest online rental provider for photography, videography, and lighting equipment and accessories in the United States. Headquartered in Memphis, Tennessee, with a satellite office in Nashville, Lensrentals ships gear to customers in all 50 states and also provides in-person pickups and returns to local customers. |
+| Founded in 2006 by Roger Cicala as a way to expand his own gear collection and share his photographic knowledge, Lensrentals has grown from a one-man operation in a spare bedroom to a company with nearly 100 employees, dozens of experienced photo and video technicians, an in-house repair department, and the best customer service representatives in the industry. Roger continues to provide guidance and expertise to photographers of all experience levels, and is considered an industry authority on lens quality and testing, as shown by his work evaluating NASA satellite lenses. |
+| Lensrentals serves hundreds of thousands of photographers and videographers annually, always while maintaining the values of our founder – share the best available equipment at its optimum quality, and educate and provide support to our customers to ensure they can achieve their goals regardless of experience level. |
+| We carry camera bodies and lenses in every format from every major manufacturer, and all the audio, lighting and support accessories needed to cover any kind of shoot, from a family holiday card to a commercial advertising job. All equipment purchased is sold within two years so customers are assured our stock is always in like-new condition. |
+| What makes Lensrentals different from other rental houses is our staff of trained photo and video professionals with a commitment to excellence, quality, and customer support! Every piece of gear is cleaned and inspected optically and physically to guarantee orders arrive on-time with compatible, working equipment. We’ve also developed additional programs such as Lenscap, Lenscap+, HD Subscription Shipping, and Keeper to offer customers added protection, value, and ease of process in their rental experience. For those looking to purchase rather than rent, Lensrentals’ sister site [LensAuthority](https://www.lensauthority.com/) sells tested, guaranteed used equipment at an exceptional price. |
+
+I have bought new and used equipment from B&H and used equipment from KEH, including a complete Canon New F-1 system[^31] with AE Motor Drive FN, AE Finder FN, with three metering screens, split-image/microprism, partial, and spot. KEH also does camera repairs. I have rented lenses from [Lenssentals](https://www.lensrentals.com/)[^33] for use at The Masters and the 2017 Total Solar Eclipse. 
