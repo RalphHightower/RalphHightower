@@ -58,6 +58,7 @@
 | [Dire Straits](https://youtube.com/@direstraitsofficial ) | Music |
 | [ELO](https://youtube.com/@elo ) | Music |
 | [enyatv](https://youtube.com/@enyatv ) | Music |
+| [europethebandtv](https://youtube.com/@europethebandtv ) | Music |
 | [Eric Clapton](https://youtube.com/@ericclapton ) | Music |
 | [Fleetwood Mac](https://youtube.com/@fleetwoodmac ) | Music |
 | [Grateful Dead](https://youtube.com/@gratefuldead ) | Music |
@@ -84,6 +85,7 @@
 | [PocoVEVO](https://youtube.com/@PocoVEVO ) | Music |
 | [Pretenders](https://youtube.com/@ThePretenders ) | Music |
 | [remhq](https://youtube.com/@remhq ) | Music |
+| [Rush](https://youtube.com/@rush ) | Music |
 | [Sheryl Crow](https://youtube.com/@Sherylcrow ) | Music |
 | [sina-drums](https://youtube.com/@sina-drums ) | Music |
 | [Taj Mahal](https://youtube.com/@TajMahalMusic ) | Music |
