@@ -241,6 +241,12 @@ I could easily see this for installation in cars, SUVs, trucks.
 |[Watch "Nanosecond clock sync with a Raspberry Pi" on YouTube](https://youtu.be/RvnG-ywF6_s)|
 |[Watch "Why is this PCIe Card RADIOACTIVE?" on YouTube](https://youtu.be/JK3eTGkX6qY )|
 
+## [Amazon Web Services](https://aws.amazon.com/)
+
+| [Amazon Web Services](https://aws.amazon.com/) |
+|---|
+|[Discover qualified IoT hardware and devices / Build and deliver successful IoT solutions on AWS](https://devices.amazonaws.com/ ) |
+
 ## Completed Projects
 
 <hr />
