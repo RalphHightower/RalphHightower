@@ -44,7 +44,7 @@
 |416|[TNT](https://www.#.com/)|417|[TLC](https://www.#.com/)|
 |418|[TruTV](https://www.#.com/)|419|[BET](https://www.#.com/)|
 |420|[MTV](https://www.#.com/)|421|[Comedy Central](https://www.#.com/)|
-|422|[FX](https://www.#.com/)|423|[SyFy](https://www.#.com/)|
+|422|[FX](https://www.#.com/)|423|[SyFy](https://www.syfy.com/schedule)|
 |500|[Disney](https://www.#.com/)|501|[Cartoon Network](https://www.#.com/)|
 |502|[Nickelodeon](https://www.#.com/)|
 |600|[Univision](https://www.#.com/)|601|[Telemundo](https://www.#.com/)|
@@ -93,7 +93,7 @@
 |68-1|[Animal Planet](https://www.#.com/)|68-2|[FX](https://www.#.com/)|
 |68-3|[Travel Channel](https://www.#.com/)|69-1|[HGTV](https://www.#.com/)|
 |69-2|[NBC Sports](https://www.#.com/)|69-3|[Science Channel](https://www.#.com/)|
-|70-1|[Faux News](https://www.#.com/)[^21]|71-2|[SyFy](https://www.#.com/)|
+|70-1|[Faux News](https://www.#.com/)[^21]|71-2|[SyFy](https://www.syfy.com/schedule))|
 |70-3|[History](https://www.#.com/)|71-1|[Disney](https://www.#.com/)|
 |71-2|[Cartoon Network](https://www.#.com/)|71-3|[Discovery](https://www.#.com/)|
 |72-1|[CNBC](https://www.#.com/)|72-2|[ESPNU](https://www.#.com/)|
