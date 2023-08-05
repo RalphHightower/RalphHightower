@@ -52,7 +52,7 @@ jobs:
           # cli     -> command line interface
           # fn      -> Pulsar Functions
           # io      -> Pulsar Connectors
-          # md.     -> Markdown (RMH 2023-07-30)
+          # md      -> Markdown (RMH 2023-07-30)
           # offload -> tiered storage
           # sec     -> security
           # sql     -> Pulsar Trino Plugin
@@ -69,10 +69,11 @@ jobs:
             ci
             cli
             client
+            config
             doc
             fn
             io
-            md    # RMH 2023-07-30
+            md
             meta
             misc
             ml
@@ -88,6 +89,7 @@ jobs:
             test
             txn
             ws
+            yml
             zk
             pip
           # The pull request's title should be fulfilled the following pattern:
