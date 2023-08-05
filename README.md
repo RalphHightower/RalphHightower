@@ -474,6 +474,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
+| [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) |
 Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
