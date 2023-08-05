@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.21.4](https://github.com/RalphHightower/RalphHightower/compare/v1.21.3...v1.21.4) (2023-08-05)
+
+
+### Bug Fixes
+
+* **config:** add config, yml ([a626d85](https://github.com/RalphHightower/RalphHightower/commit/a626d854e198a31df133477771e3aafbb0156068))
+
 ## [1.21.3](https://github.com/RalphHightower/RalphHightower/compare/v1.21.2...v1.21.3) (2023-08-05)
 
 
