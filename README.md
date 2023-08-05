@@ -472,7 +472,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Arm Software](https://github.com/ARM-software ) ||
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
-| [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
+| [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CHIPS Alliance](https://github.com/chipsalliance ) |
 Common Hardware for Interfaces, Processors and Systems |
@@ -501,11 +501,13 @@ Common Hardware for Interfaces, Processors and Systems |
 | [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) |Torvalds Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [Mastercard](https://github.com/Mastercard ) | |
+| [Meta Research](https://github.com/facebookresearch ) |   |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software.|
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
+| [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
@@ -537,6 +539,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA 
+| [SPDX](https://github.com/spdx ) | SPDX is an open standard for communicating SBOM information, including provenance, license, security, and other related information. ISO/IEC 5962:2021 |
 | [starfive-tech](https://github.com/starfive-tech ) | RISC-V |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
@@ -547,6 +550,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Visa](https://github.com/visa ) | |
+| [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload || [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
