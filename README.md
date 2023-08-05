@@ -551,7 +551,7 @@ Common Hardware for Interfaces, Processors and Systems |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Visa](https://github.com/visa ) | |
-| [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload || [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
+| [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
