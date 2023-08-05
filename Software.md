@@ -10,9 +10,4 @@
 
 [^1]: Free, just wants email registration to use
 
-# AWS 
-
-| Documentation |
-|----------------------|
-| [Quickly and easily develop IoT devices that connect securely to the AWS Cloud](https://aws.amazon.com/iot-expresslink/) |
-| [AWS IoT ExpressLink programmer's guide v1.0](https://docs.aws.amazon.com/iot-expresslink/)|
+m
