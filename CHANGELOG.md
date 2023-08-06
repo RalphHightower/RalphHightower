@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.22.3](https://github.com/RalphHightower/RalphHightower/compare/v1.22.2...v1.22.3) (2023-08-06)
+
+
+### Bug Fixes
+
+* **md:** put the right heading level for cars ([eb498a4](https://github.com/RalphHightower/RalphHightower/commit/eb498a457d05ff5e7c5025b031b75f5203cf0ab4))
+
 ## [1.22.2](https://github.com/RalphHightower/RalphHightower/compare/v1.22.1...v1.22.2) (2023-08-06)
 
 
