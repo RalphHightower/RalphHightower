@@ -16,10 +16,14 @@
 
 ## [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com/ )
 
+### Documentation 
+
 | Documentation | Description |
 |-----------|---|
 | [Quickly and easily develop IoT devices that connect securely to the AWS Cloud](https://aws.amazon.com/iot-expresslink/) |  |
 | [AWS IoT ExpressLink programmer's guide v1.0](https://docs.aws.amazon.com/iot-expresslink/) |   |
+
+### Interfaces 
 
 | Interfaces |
 |---|
