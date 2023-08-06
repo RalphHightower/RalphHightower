@@ -807,8 +807,7 @@ Good afternoon! How can I assist you today?|
 | *"Your haikus show great originality and creativity. Could you create five haikus about the musical duo, Loggins and Messina?"* |
 |Thank you for your kind words! I'd be delighted to create five haikus about the musical duo, Loggins and Messina:|
 |Harmony they find,<br />Loggins and Messina's blend,<br />Songs touch hearts and minds.|
-|Sailing through the night,<br />Footloose spirit takes to flight,|
-|Their melodies bright.|
+|Sailing through the night,<br />Footloose spirit takes to flight,<br>Their melodies bright.|
 |Sunset on the bay,<br />Loggins' voice and Messina's play,<br />Timeless songs they sway.|
 |Guitar strings entwine,<br />Soulful tunes, hearts intertwine,<br />Music's sweet design.|
 |California dream,<br />Loggins and Messina's theme,<br />Endless joy they beam.|
