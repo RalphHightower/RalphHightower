@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.22.2](https://github.com/RalphHightower/RalphHightower/compare/v1.22.1...v1.22.2) (2023-08-06)
+
+
+### Bug Fixes
+
+* **md:** Loggins and Messina haiku was split ([1d15ae2](https://github.com/RalphHightower/RalphHightower/commit/1d15ae202bd0f6d2ffba86321cefc95a50e0030d))
+
 ## [1.22.1](https://github.com/RalphHightower/RalphHightower/compare/v1.22.0...v1.22.1) (2023-08-06)
 
 
