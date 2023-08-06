@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.22.0](https://github.com/RalphHightower/RalphHightower/compare/v1.21.4...v1.22.0) (2023-08-06)
+
+
+### Features
+
+* **build:** add grammar for changes to correct improper English, misspellings ([5cee0c4](https://github.com/RalphHightower/RalphHightower/commit/5cee0c47139d80e724b18960b1696be992aff808))
+* **doc:** copy Azure resources from README ([d719427](https://github.com/RalphHightower/RalphHightower/commit/d719427df4af1892cf650956420ecb9ba5f5f53c))
+
 ## [1.21.4](https://github.com/RalphHightower/RalphHightower/compare/v1.21.3...v1.21.4) (2023-08-05)
 
 
