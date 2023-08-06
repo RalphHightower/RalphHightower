@@ -51,8 +51,9 @@ jobs:
           # Scope abbreviation comments:
           # cli     -> command line interface
           # fn      -> Pulsar Functions
+          # grammar -> Language corrections: grammar, spelling (RalphHightower 202308-06)
           # io      -> Pulsar Connectors
-          # md      -> Markdown (RMH 2023-07-30)
+          # md      -> Markdown (RalphHightower 2023-07-30)
           # offload -> tiered storage
           # sec     -> security
           # sql     -> Pulsar Trino Plugin
@@ -72,6 +73,7 @@ jobs:
             config
             doc
             fn
+            grammar
             io
             md
             meta
