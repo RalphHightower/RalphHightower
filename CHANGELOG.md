@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.22.1](https://github.com/RalphHightower/RalphHightower/compare/v1.22.0...v1.22.1) (2023-08-06)
+
+
+### Bug Fixes
+
+* **md:** AWS table wasn't displayed properly ([a7e106e](https://github.com/RalphHightower/RalphHightower/commit/a7e106e1b423522d5fe660676e92b0b8437d4b14))
+
 ## [1.22.0](https://github.com/RalphHightower/RalphHightower/compare/v1.21.4...v1.22.0) (2023-08-06)
 
 
