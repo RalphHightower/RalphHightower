@@ -202,7 +202,7 @@ I have multiple bucket lists of different categories.
 | *"Thank you. You, too. Bye"* |
 |You're welcome! Have a wonderful day as well. Goodbye and take care!|
 
-### El Camino[^22]
+#### El Camino[^22]
 
 [^22]: A mid-60's El Camino is on my car bucket 🪣 list. I drove a '66 from high school through college. After marriage to Paula, we have owned a few current year El Caminos, also including a used '65 *(since it had a manual transmission, Paula was unable to drive it.
 
@@ -228,7 +228,7 @@ I have multiple bucket lists of different categories.
 | *"Have a great day. Goodbye."* |
 |Thank you! I hope you have a wonderful day as well. Goodbye, and take care!|
 
-### HHR[^23]
+#### HHR[^23]
 
 [^23]: I loved the retro styling of the HHR, and it had enough cargo capacity (with the rear seats down) for us and our three Beagles. Unfortunately, I totalled my 2009 *(bought new)* in 2016, and Paula totalled the 2011 *(bought used in 2016)* in 2022.
 
@@ -249,9 +249,9 @@ I have multiple bucket lists of different categories.
 | *"Take care and cheers."* |
 |Thank you! Take care and have a wonderful day. Cheers to you as well! If you ever need assistance in the future, feel free to reach out.|
 
-## [Ford](https://www.ford.com/)
+### [Ford](https://www.ford.com/)
 
-### Mustang[^24]
+#### Mustang[^24]
 
 [^24]: I drove a '66 for a while in high school. 
 
