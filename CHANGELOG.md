@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.23.0](https://github.com/RalphHightower/RalphHightower/compare/v1.22.3...v1.23.0) (2023-08-07)
+
+
+### Features
+
+* **build:** Create .release.json ([97b3c38](https://github.com/RalphHightower/RalphHightower/commit/97b3c382770c4ce629fd6160659462d1fe267372))
+* **docs:** New page — Locations.md ([423e090](https://github.com/RalphHightower/RalphHightower/commit/423e090e4599c5b0f1437b6b235fd6ffc81b095a))
+
+
+### Bug Fixes
+
+* **md:** malformed line line break in About Me(CliftonStrength) ([9bef8d9](https://github.com/RalphHightower/RalphHightower/commit/9bef8d9d2a4b6b935be058a9855ef416584a1c64))
+
 ## [1.22.3](https://github.com/RalphHightower/RalphHightower/compare/v1.22.2...v1.22.3) (2023-08-06)
 
 
