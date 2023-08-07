@@ -25,8 +25,8 @@
 
 ### Interfaces 
 
-| Interfaces |
-|---|
-|   |
+| Interfaces | Price |
+|---|---|
+| [AWS IoT ExpressLink SARA-R5 Starter Kit V2 - KIT-21229 - SparkFun Electronics](https://www.sparkfun.com/products/21229 ) | $199.99 |
 
 [^11]: **RalphHightower:** *"I have a Microsoft Enterprise account, so it is my discretion to place Microsoft over Amazon."*
