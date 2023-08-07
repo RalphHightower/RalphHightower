@@ -81,6 +81,7 @@ jobs:
             config
             data
             doc
+            docs
             fn
             grammar
             io
