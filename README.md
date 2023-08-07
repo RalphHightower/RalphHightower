@@ -10,7 +10,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 |---|---|
 | [Top Gun Call Sign](http://www.topgunday.com/call-sign-generator/) | Lt. Ralph 'Tahoe' Hightower[^11] |
 | [Myers-Briggs Personality Test®](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/) | [INTP](https://www.mbtionline.com/en-US/MBTI-Types/INTP)[^12] |
-| [CliftonStrength 34™](https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx) | Ideation \| Deliberative \| Learner \| Input \| Strategic<br /ìLeaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analyzing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future. |
+| [CliftonStrength 34™](https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx) | Ideation \| Deliberative \| Learner \| Input \| Strategic<br />Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analyzing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future. |
 | [Game of Thrones Personality Test](https://mygotcharacter.com/)[^13] | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14]<br />Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^15]<br />Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^16] |
 
 [^11]: I'm a [Chevy](https://www.chevrolet.com/) guy and Tahoe is a model name. I love it!
