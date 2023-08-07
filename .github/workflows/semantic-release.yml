@@ -40,30 +40,38 @@ jobs:
         with:
           # Type abbreviation comments:
           # feat -> feature
+          # blog, info (2023-08-07 RalphHightower)
           types: |
+            blog
             cleanup
             docs
             feat
             fix
             improve
+            info
             refactor
             revert
           # Scope abbreviation comments:
+          # biz     -> business layer (2023-08-07 RalphHightower)
           # cli     -> command line interface
+          # data    -> data access layer (2023-08-07 RalphHightower)
           # fn      -> Pulsar Functions
           # grammar -> Language corrections: grammar, spelling (RalphHightower 202308-06)
           # io      -> Pulsar Connectors
-          # md      -> Markdown (RalphHightower 2023-07-30)
+          # md      -> Markdown (2023-07-30 RalphHightower)
           # offload -> tiered storage
           # sec     -> security
           # sql     -> Pulsar Trino Plugin
+          # trans   -> tranaction (2023-08-07 RalphHightower)
           # txn     -> transaction
           # ws      -> websocket
           # ml      -> managed ledger
           # zk      -> zookeeper
           # bk      -> bookkeeper
+          # ui      -> user interface (2023-08-07 RalphHightower)
           scopes: |
             admin
+            biz
             bk
             broker
             build
@@ -71,6 +79,7 @@ jobs:
             cli
             client
             config
+            data
             doc
             fn
             grammar
@@ -89,8 +98,10 @@ jobs:
             scss
             storage
             test
+            trans
             txn
             ws
+            ui
             yml
             zk
             pip
