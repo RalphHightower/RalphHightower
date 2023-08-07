@@ -1,6 +1,6 @@
 # Locations
 
-## Columbia, South Carolina and Cedar Rapids, Iowa comparisons
+## Comparisons: Columbia, South Carolina and Cedar Rapids, Iowa
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
