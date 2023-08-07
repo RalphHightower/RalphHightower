@@ -57,7 +57,7 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 | Mamiya RZ67 | [Download]()[^12] | |
 | Monorail 4×5 View Camera | | |
 
-[^11]: July 2013, Paula and I were traveling back home from Charleston, South Carolina, when I mentioned that [KEH](https://www.keh.com/) has a Canon F-1N, with AE Motor Drive FN, and AE Finder FN for sale. She asked "Is that there flagship camera?" I answered "Yes, for the 80's." She said "Buy it."
+[^11]: July 2013, Paula and I were traveling back home from Charleston, South Carolina, when I mentioned that [KEH](https://www.keh.com/) has a Canon F-1N, with AE Motor Drive FN, and AE Finder FN for sale. She asked *"Is that there flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^12]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 
 ### Discontinued Films
