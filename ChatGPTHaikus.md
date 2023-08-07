@@ -1,5 +1,5 @@
 
-# [ChatGPT](https://chat.openai.com/) Haiku[^11]
+# [ChatGPT](https://chat.openai.com/) Haikus[^11]
 
 [^11]: The definition of "haiku" Merriam-Webster's definition of "haiku": http://www.merriam-webster.com/dictionary/haiku
 
@@ -888,6 +888,28 @@ Good afternoon! How can I assist you today?|
 |I'm glad you enjoyed them! Taj Mahal's music and legacy provide a rich source of inspiration. If you have any more questions or if there's anything else I can assist you with, please feel free to ask!"|
 | *"Cheers."* |
 |Cheers to you too! If you ever need assistance in the future, don't hesitate to reach. out. Have a wondeful day!|
+
+### Iko Iko
+
+| "RalphHightower" / [ChatGPT](https://chat.openai.com/) |
+|----|
+| *"G'morning, AI Assistant,"* |
+|Good morning! How can I assist you today?|
+| *"Are familiar with the song, Iko, iko?"* |
+|Yes, I'm familiar with the song "Iko Iko." It is a popular folk song that has been covered and adapted by various artists over the years. The song has its roots in New Orleans' Mardi Gras Indian tradition and has been performed by different musicians in different styles, blending elements of rhythm and blues, soul, and Cajun music.|
+|The most well-known version of "Iko Iko" was recorded by The Dixie Cups in 1965, which became a hit and brought the song to a wider audience. Since then, it has been covered and reinterpreted by numerous artists in various genres, making it a timeless and recognizable tune.|
+| *"Yes, you are correct that the Dixie Cups created the song. I am more familiar with the Grateful Dead version; I also enjoy Captain Jacks video. I have been enjoying the creativity and imagination in creating the various haikus. Could you create five haikus of the song Iko, Iko?"* |
+|Sure, I'd be happy to create five haikus inspired by the song "Iko Iko":|
+|Mardi Gras Indians,<br>Iko Iko's vibrant beat,<br>Swaying to the groove.|
+|Dixie Cups' sweet voice,<br>Iko Iko's playful tale,<br>Dancing through the streets.|
+|Grateful Dead's jamming,<br>Iko Iko's cosmic ride,<br>Lost in melodies.|
+|Captain Jack's bright world,<br>Iko Iko's colors blend,<br>A visual delight.|
+|Through time it endures,<br>Iko Iko's joyful chant,<br>Boundless, evergreen.|
+|I hope you enjoy these haikus! Let me know if there's anything else I can do for you.|
+| *"Excellent! Thank you."* |
+|You're welcome! I'm glad you liked the haikus. If you have any more questions or need further assistance, feel free to ask. Enjoy your day!|
+| *"Cheers."* |
+|Cheers! If you ever need help or just want to chat, don't hesitate to reach out. Have a wonderful day!|
 
 ## 1979 Nuclear Accidents, Real & Fictional Haiku[^51]
 
