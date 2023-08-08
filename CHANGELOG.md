@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.24.0](https://github.com/RalphHightower/RalphHightower/compare/v1.23.1...v1.24.0) (2023-08-08)
+
+
+### Features
+
+* **docs:** moved ##References from README to here ([2b5f654](https://github.com/RalphHightower/RalphHightower/commit/2b5f6544392faf6abdb988968f9bbcdf9afa6277))
+* **docs:** Paste from README to References ([35aebf5](https://github.com/RalphHightower/RalphHightower/commit/35aebf50d281bf56223afdf60ebfdbe8b692f93b))
+* **docs:** PetaPixel Canon RF Lens kit ([c8fa96d](https://github.com/RalphHightower/RalphHightower/commit/c8fa96d2c7906fcd11edd83b680925ea4d1876c2))
+* **docs:** Step 1. Cut ##References from README ([6d351d6](https://github.com/RalphHightower/RalphHightower/commit/6d351d67c327b759dfbeb29a571364b766659237))
+* **website:** add TensorFlow deploy to ProgramingArticles ([79562d9](https://github.com/RalphHightower/RalphHightower/commit/79562d9018ce3f999fa95ee520e8a69891ba3a14))
+
 ## [1.23.1](https://github.com/RalphHightower/RalphHightower/compare/v1.23.0...v1.23.1) (2023-08-08)
 
 
