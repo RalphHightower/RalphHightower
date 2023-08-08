@@ -8,7 +8,7 @@
 
 ## Hardware 
 
-| Hardware Suppliers | H/W, GitHub |
+| Hardware Suppliers | H/W |
 |-----------|--------|
 | [AAEON AI CORE XM 2280AI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-xm-2280) | (H/W) |
 | [AAEON AI CORE XAI Edge Computing Module with Intel® Movidius™ Myriad™ X VPU](https://www.aaeon.com/en/p/ai-edge-computing-board-ai-core-x) | (H/W) |
@@ -28,10 +28,6 @@
 | [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
-| [Arduino — This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See @arduino-libraries for the official libraries.](https://github.com/arduino) | (GitHub) |
-| [Arduino Libraries — This org contains the official Arduino Libraries. See @arduino for the tools (IDE, CLI...) and everything else](https://github.com/arduino-libraries) | (GitHub) |
-| [ARM](https://www.arm.com/) | (H/W) |
-| [Arm Software](https://github.com/ARM-software) | (GitHub) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
@@ -48,17 +44,14 @@
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
-| [google-coral — Open source projects for coral.ai](https://github.com/google-coral) | (GitHub) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 |[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
-| [Cisco Systems — Open Source Projects from Cisco Systems](https://github.com/cisco) | (GitHub) |
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Express, SMARC, Qseven](https://www.congatec.com/us/) | (H/W) |
 | **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | **(H/W) $234.72** |
 | **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
-| [Eclipse Mosquitto™ — An open source MQTT broker](https://mosquitto.org/) | (GitHub) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
 |[EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
 |[EDATEC CM4 Nano](https://edatec.cn/en/elpc/cm4-nano.html)| (H/W)|
@@ -92,10 +85,8 @@
 | [Fomu is the easiest way to get started with FPGA or RISC-V development.](https://www.crowdsupply.com/sutajio-kosagi/fomu) | (H/W) $50 |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
-| [FreeCores — A home for open source hardware cores](https://github.com/freecores) | (GitHub) |
 | [FriendlyElec NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W) $119.00 |
 | [FriendlyElec NanoPi R5Cpk](https://www.friendlyelec.com/index.php?route=product/product&product_id=290) | (H/W) |
-| [Garmin International](https://github.com/garmin) | (GitHub) |
 | **GeeekPi Raspberry Pi Mini Tower NAS Kit, Raspberry Pi ICE Tower Cooler with PWM RGB Fan, M.2 SATA SSD Expansion Board, GPIO 1 to 2 Expansion Board for Raspberry Pi 4 Model B** | Case<br /> [Amazon](https://amzn.to/3L4bVJk)<br />[Aliexpress](https://s.click.aliexpress.com/e/_DFNhP0b) |
 | [Geniatech ARM Boards](https://shop.geniatech.com/products/industrial-pc/arm-board/)<br />From system on modules, single board computers, industrial IoT & Embedded motherboards to develop kits, carrier boards, and peripheral cards, Geniatech provides a comprehensive range of ARM Based computer board solutions with Linux or Android OS,  powerful performance, low power, compact, flexible options, different form factors and platforms available. Geniatech’s ARM boards are the ideal embedded platform for accelerating development and reducing the risk of new chip designs. Our SBCs are available to buy as Evaluation Kits to get you quickly started on your Embedded System project. | (H/W) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) | (H/W) |
@@ -105,7 +96,6 @@
 | **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
 | [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
 | [I-Pi SMARC 1200](https://www.ipi.wiki/products/i-pi-smarc-1200 ) | (H/W) $379 4GB |
-| [Intel Corporation](https://github.com/intel) | (H/W) |
 | [iWave SBC](https://www.iwavesystems.com/product-category/soms-sbcs/) | (H/W) |
 | [iWave Systems – Versal AI Edge/Prime SOM](https://www.iwavesystems.com/product/versal-ai-edge-or-prime-system-on-module/ ) | (H/W) |
 | [iW-RainboW-G50S Pico-ITX SBC](https://www.iwavesystems.com/product/i-mx-93-osm-l-lga-module/) | (H/W) |
@@ -178,8 +168,6 @@
 |[RAKWireless LoRaWAN Complete – RAKwireless Store](https://store.rakwireless.com/collections/lorawan-complete )|(H/W)|
 |[RAKWireless Modular IoT System of Modules for Building Custom LPWAN IoT Projects – RAKwireless Store](https://store.rakwireless.com/collections/wisblock )|(H/W)|
 | [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
-| [RISC-V — The Free and Open RISC Instruction Set Architecture](https://github.com/riscv) | (GitHub) |
-| **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br /> $144.95 USD (4GB)<br />$169.95 USD (8GB)<br />**$219.95 USD (16GB)** |
 | [Rockchio Rk3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops Ai Npu,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html ) | (H/W) $191.05 16GB RAM/64G eMMC |
@@ -200,7 +188,6 @@
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
-| [SparkFun Electronics — Building opensource widgets to make prototyping hardware easier since 2002.](https://github.com/sparkfun) | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
