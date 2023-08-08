@@ -1,4 +1,4 @@
-## References  
+# References  
 
 | References | Purpose |
 |------------------------|---------|
@@ -55,7 +55,7 @@
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
 
-## [GitHub](https://github.com/)
+# [GitHub](https://github.com/)
 
 | Companies on GitHub | Description |
 |---------------------|-------|
@@ -82,7 +82,6 @@
 | [Cisco Data Center](https://github.com/datacenter )| Cisco Data Center – Cisco Open Source Projects for the Data Center|
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
-| [Cisco Systems](https://github.com/cisco ) | Open Source Projects from Cisco Systems |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
@@ -92,6 +91,7 @@
 | [Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
 | [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
+| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
@@ -119,11 +119,12 @@
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
-| [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
+| [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) |openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
+| [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [openssl/openssl: TLS/SSL and crypto library](https://github.com/openssl/openssl ) | Secure Sockets Layer |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
@@ -165,7 +166,7 @@
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
-## [Microsoft](https://www.microsoft.com/)
+# [Microsoft](https://www.microsoft.com/)
 
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 |----------------------------------|
@@ -176,21 +177,21 @@
 | [Remote Development Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better) |
 | [C# Online Compiler](https://dotnetfiddle.net/Mobile?id=CsCons#code-editor) |
 
-## Software 
+# Software 
 
 [Open Source Projects](FavOpenSourceProjects.md)
 
 [Useful Software / Utilities](Software.md)
 
-### [Software Package Data Exchange](SoftwareDataPackageExchange.md)
+## [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
 [Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
 
-#### Assessment of Software Package Data Exchange Licenses 
+### Assessment of Software Package Data Exchange Licenses 
 
 The following licenses from the [Software Package Data Exchange](https://spdx.org/) are those that are OSI approved that mandate reciprocal source code sharing.
 
-##### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
+### [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ).
 
 I went through the list of licenses listed on: [SPDX License List / Software Package Data Exchange (SPDX)](https://spdx.org/licenses/ ) and reviewed the licenses that have OSI marked as Y since OSI is an international standards organization. The usual IANAL[^101] applies to my assessment. I chose those licenses where, in my opinion, the entity modifying the source must reciprocate and  publish their source code modifications. 
 
@@ -212,6 +213,5 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 
 [^102]: [Open Source Initiative – The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem.](https://opensource.org/ )
 
-#### [The Legal Side of Open Source / Open Source Guides](https://opensource.guide/legal/ )
-#### [ClearlyDefined — Bringing clarity to Open Source Software licenses.](https://clearlydefined.io/ )
-
+### [The Legal Side of Open Source / Open Source Guides](https://opensource.guide/legal/ )
+### [ClearlyDefined — Bringing clarity to Open Source Software licenses.](https://clearlydefined.io/ )
