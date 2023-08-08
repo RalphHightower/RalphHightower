@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.23.1](https://github.com/RalphHightower/RalphHightower/compare/v1.23.0...v1.23.1) (2023-08-08)
+
+
+### Bug Fixes
+
+* **md:** extra column in vendors ([ecd4459](https://github.com/RalphHightower/RalphHightower/commit/ecd4459f9ac2ca109f22480a7c07ee5d38c75e5b))
+* **md:** properly terminate breaks &lt;br /&gt; ([383c4f6](https://github.com/RalphHightower/RalphHightower/commit/383c4f6e505c2a6d058d2fad8f1dad68da895caf))
+* **md:** TPM in vendor is in 3rd, 4th columns ([a2d810e](https://github.com/RalphHightower/RalphHightower/commit/a2d810e9b60f132478845953d925a69e38ad197c))
+
 ## [1.23.0](https://github.com/RalphHightower/RalphHightower/compare/v1.22.3...v1.23.0) (2023-08-07)
 
 
