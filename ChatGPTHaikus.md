@@ -807,7 +807,7 @@ Good afternoon! How can I assist you today?|
 | *"Your haikus show great originality and creativity. Could you create five haikus about the musical duo, Loggins and Messina?"* |
 |Thank you for your kind words! I'd be delighted to create five haikus about the musical duo, Loggins and Messina:|
 |Harmony they find,<br />Loggins and Messina's blend,<br />Songs touch hearts and minds.|
-|Sailing through the night,<br />Footloose spirit takes to flight,<br>Their melodies bright.|
+|Sailing through the night,<br />Footloose spirit takes to flight,<br />Their melodies bright.|
 |Sunset on the bay,<br />Loggins' voice and Messina's play,<br />Timeless songs they sway.|
 |Guitar strings entwine,<br />Soulful tunes, hearts intertwine,<br />Music's sweet design.|
 |California dream,<br />Loggins and Messina's theme,<br />Endless joy they beam.|
@@ -900,11 +900,11 @@ Good afternoon! How can I assist you today?|
 |The most well-known version of "Iko Iko" was recorded by The Dixie Cups in 1965, which became a hit and brought the song to a wider audience. Since then, it has been covered and reinterpreted by numerous artists in various genres, making it a timeless and recognizable tune.|
 | *"Yes, you are correct that the Dixie Cups created the song. I am more familiar with the Grateful Dead version; I also enjoy Captain Jacks video. I have been enjoying the creativity and imagination in creating the various haikus. Could you create five haikus of the song Iko, Iko?"* |
 |Sure, I'd be happy to create five haikus inspired by the song "Iko Iko":|
-|Mardi Gras Indians,<br>Iko Iko's vibrant beat,<br>Swaying to the groove.|
-|Dixie Cups' sweet voice,<br>Iko Iko's playful tale,<br>Dancing through the streets.|
-|Grateful Dead's jamming,<br>Iko Iko's cosmic ride,<br>Lost in melodies.|
-|Captain Jack's bright world,<br>Iko Iko's colors blend,<br>A visual delight.|
-|Through time it endures,<br>Iko Iko's joyful chant,<br>Boundless, evergreen.|
+|Mardi Gras Indians,<br />Iko Iko's vibrant beat,<br />Swaying to the groove.|
+|Dixie Cups' sweet voice,<br />Iko Iko's playful tale,<br />Dancing through the streets.|
+|Grateful Dead's jamming,<br />Iko Iko's cosmic ride,<br />Lost in melodies.|
+|Captain Jack's bright world,<br />Iko Iko's colors blend,<br />A visual delight.|
+|Through time it endures,<br />Iko Iko's joyful chant,<br />Boundless, evergreen.|
 |I hope you enjoy these haikus! Let me know if there's anything else I can do for you.|
 | *"Excellent! Thank you."* |
 |You're welcome! I'm glad you liked the haikus. If you have any more questions or need further assistance, feel free to ask. Enjoy your day!|
