@@ -215,4 +215,3 @@ I went through the list of licenses listed on: [SPDX License List / Software Pac
 
 ### [The Legal Side of Open Source / Open Source Guides](https://opensource.guide/legal/ )
 ### [ClearlyDefined — Bringing clarity to Open Source Software licenses.](https://clearlydefined.io/ )
-
