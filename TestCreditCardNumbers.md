@@ -38,4 +38,4 @@ I have worked for four financial services firms; while I did not work with credi
 | Tarjeta Shopping[^12] | 6034-8832-6561-9896 | 09/2026 | | AR/ARS | Success |
 
 [^11]: [Test Card Numbers](https://support.bluesnap.com/docs/test-credit-card-numbers )
-[^12]: Only supported for testing LatAm integrations. Your account must first have LatAm processing enabled by contacting Merchant Support. | 
+[^12]: Only supported for testing LatAm integrations. Your account must first have LatAm processing enabled by contacting Merchant Support.
