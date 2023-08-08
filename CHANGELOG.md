@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.1](https://github.com/RalphHightower/RalphHightower/compare/v1.24.0...v1.24.1) (2023-08-08)
+
+
+### Bug Fixes
+
+* **website:** fix Security malformed table ([70c1333](https://github.com/RalphHightower/RalphHightower/commit/70c13339c669df31a8217c02e2ad5efd22f5eddf))
+
 ## [1.24.0](https://github.com/RalphHightower/RalphHightower/compare/v1.23.1...v1.24.0) (2023-08-08)
 
 
