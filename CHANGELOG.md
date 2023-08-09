@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.4](https://github.com/RalphHightower/RalphHightower/compare/v1.24.3...v1.24.4) (2023-08-09)
+
+
+### Bug Fixes
+
+* **md:** [ChatGPT] Haikus — Star Trek displayed two columns ([56b9a3e](https://github.com/RalphHightower/RalphHightower/commit/56b9a3e3a775b41b5ad6b3d27b37d3047a409dd6))
+
 ## [1.24.3](https://github.com/RalphHightower/RalphHightower/compare/v1.24.2...v1.24.3) (2023-08-09)
 
 
