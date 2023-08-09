@@ -115,7 +115,7 @@
 
 ## [ChatGPT] Haikus — Star Trek 
 
-.| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
 | *"Good morning, Assistant."* |
 |Good morning! How can I assist you today?|
