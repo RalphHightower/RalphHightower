@@ -17,16 +17,17 @@
 | [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy ) | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11][^18] | 2024/2025 | |
 | Star Trek: Legacy[^13][^14][^15][^16][^17] | TBD | TBD |
-| Star Trek: Worf[^18] | TBD | TBD |
+| Star Trek: Worf[^19] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
 [^12]: [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ )
 [^13]: [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ )
 [^14]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
 [^15]: [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ )
-[^15(6]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
-[^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
-[^18]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^16]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
+[^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )| Star Trek: Legacy[^13][^14][^15][^16][^17][^19] | TBD | TBD |
+[^18]: [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ )
+[^19]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
 ## [Star Trek](https://www.startrek.com/) Movies
 
@@ -45,11 +46,11 @@
 | [Star Trek (2009)](https://www.startrek.com/shows/star-trek-2009 ) | 2009 | Kelvin Reboot |
 | [Star Trek Into Darkness](https://www.startrek.com/shows/star-trek-into-darkness ) | 2013 | Kelvin Reboot |
 | [Star Trek Beyond](https://www.startrek.com/shows/star-trek-beyond ) | 2016 | Kelvin Reboot |
-| Star Trek: Section 31[^21][^22][^23] | Paramount+ |
+| Star Trek: Section 31[^31][^32][#33] | Paramount+ |
 
-[^21]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
-[^22]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
-[^23]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
+[^31]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
+[^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
+[^33]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
 
 ## [ChatGPT](https://chat.openai.com/) Haiku 
 
