@@ -25,7 +25,7 @@
 [^14]: [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ )
 [^15]: [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ )
 [^16]: [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ )
-[^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )| Star Trek: Legacy[^13][^14][^15][^16][^17][^19] | TBD | TBD |
+[^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
 [^18]: [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ )
 [^19]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
