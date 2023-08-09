@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.2](https://github.com/RalphHightower/RalphHightower/compare/v1.24.1...v1.24.2) (2023-08-08)
+
+
+### Bug Fixes
+
+* **website:** nice effect of boxing footnotes  ([2cbabad](https://github.com/RalphHightower/RalphHightower/commit/2cbabad56b672580f858696d9d33515eb3f05fb5))
+
 ## [1.24.1](https://github.com/RalphHightower/RalphHightower/compare/v1.24.0...v1.24.1) (2023-08-08)
 
 
