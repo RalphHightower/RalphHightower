@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.3](https://github.com/RalphHightower/RalphHightower/compare/v1.24.2...v1.24.3) (2023-08-09)
+
+
+### Bug Fixes
+
+* **md:** (extended description) ([cdbf816](https://github.com/RalphHightower/RalphHightower/commit/cdbf81698b2c7a6ac8188f02eef342a58f1139d1))
+
 ## [1.24.2](https://github.com/RalphHightower/RalphHightower/compare/v1.24.1...v1.24.2) (2023-08-08)
 
 
