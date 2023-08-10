@@ -82,7 +82,7 @@
 
 | [Toyota](https://www.toyota.com/) |
 |---|
-| [Toyota API Portal / Toyota Developer Portal](https://developer.eig.toyota.com/toyota-api-portal ) | |
+| [Toyota API Portal / Toyota Developer Portal](https://developer.eig.toyota.com/toyota-api-portal ) |
 
 ## Scale Model Cars
 
