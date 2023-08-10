@@ -44,6 +44,11 @@
 
 ### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
 
+Expansion options 
+- 2x SATA Ports 6 Gbps
+- 2x Mini PCI Express Slots
+- 4x M.2 ports, 2260, 2280, Key-M NVME support
+
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
 | 1 | NVIDIA Jetson TX2 NX 4 GB<br />(Jetson TX2 NX System-on-Module (SOM): 256-Core Pascal GPU, 6-Core ARM 64 Bit CPU, 4 GB LPDDR4x, 16 GB eMMC) | 4GB |   |
