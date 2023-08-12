@@ -15,7 +15,7 @@
 | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Single Board Computer Database](https://hackerboards.com/) | 
 | [FindBoard Workshop](https://www.findboard.cn/#/home) | 
-| **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** | (H/W) |
+| **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** |
 | **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
 | [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
 | [Circuit Cellar](https://circuitcellar.com/) |
