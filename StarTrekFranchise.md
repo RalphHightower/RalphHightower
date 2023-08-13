@@ -16,7 +16,7 @@
 | [Star Trek: Lower Decks](https://www.startrek.com/shows/star-trek-lower-decks ) | (2020–present) |  |
 | [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy ) | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11][^18] | 2024/2025 | |
-| Star Trek: Legacy[^13][^14][^15][^16][^17] | TBD | TBD |
+| Star Trek: Legacy[^13][^14][^15][^16][^17][^20] | TBD | TBD |
 | Star Trek: Worf[^19] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
@@ -28,6 +28,7 @@
 [^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
 [^18]: [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ )
 [^19]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^20]: [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ )
 
 ## [Star Trek](https://www.startrek.com/) Movies
 
