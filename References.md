@@ -75,6 +75,7 @@
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
+| [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | The Berkeley Out-of-Order RISC-V Processor |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
