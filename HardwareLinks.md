@@ -191,6 +191,7 @@
 | **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
+| **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card)** | **(H/W) $119.00** |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
@@ -474,6 +475,7 @@
 | [Banana Pi BPI-CM2 - A Raspberry Pi CM4-compatible Rockchip RK3568 SoM with extra I/Os - CNX Software](https://www.cnx-software.com/2023/08/08/banana-pi-bpi-cm2-a-raspberry-pi-cm4-compatible-rockchip-rk3568-som-with-extra-i-os/ ) |
 [Raspberry Pi CM4-powered outdoor gateway supports GbE, WiFi 5, Bluetooth 5.0, 4G LTE, LoRaWAN, and GPS connectivity - CNX Software](https://www.cnx-software.com/2023/08/10/raspberry-pi-cm4-outdoor-gateway-gbe-wifi-5-bluetooth-5-0-4g-lte-lorawan-gps/ ) |
 | [Orange Pi 3B - A Rockchip RK3566 SBC with an M.2 NVMe/SATA SSD socket, up to 8GB RAM - CNX Software](https://www.cnx-software.com/2023/08/05/orange-pi-3b-a-rockchip-rk3566-sbc-with-an-m-2-nvme-sata-ssd-socket-up-to-8gb-ram/ ) 
+| **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
