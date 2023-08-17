@@ -1,1 +1,0 @@
-Get-AzWebApp -Name RalphHightower | Get-AzWebAppPublishingProfile -OutputFile deployRalphHightower | Out-Null
