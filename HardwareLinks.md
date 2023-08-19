@@ -476,6 +476,7 @@
 [Raspberry Pi CM4-powered outdoor gateway supports GbE, WiFi 5, Bluetooth 5.0, 4G LTE, LoRaWAN, and GPS connectivity - CNX Software](https://www.cnx-software.com/2023/08/10/raspberry-pi-cm4-outdoor-gateway-gbe-wifi-5-bluetooth-5-0-4g-lte-lorawan-gps/ ) |
 | [Orange Pi 3B - A Rockchip RK3566 SBC with an M.2 NVMe/SATA SSD socket, up to 8GB RAM - CNX Software](https://www.cnx-software.com/2023/08/05/orange-pi-3b-a-rockchip-rk3566-sbc-with-an-m-2-nvme-sata-ssd-socket-up-to-8gb-ram/ ) 
 | **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )** |
+| [YouYeeToo – A Versatile Single Board Computer - Electronics For You](https://www.electronicsforu.com/news/a-versatile-single-board-computer ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
