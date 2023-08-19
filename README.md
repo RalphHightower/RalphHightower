@@ -270,9 +270,9 @@ A technology company had shut down and one of the Affinity Technology Group form
 | DEC PDP-11/45 Handbook |
 | DEC PDP-11/70 Handbook |
 
-## HP (Hewlett-Packard) Calculators[^51]
+## HP (Hewlett-Packard) Calculators[^41]
 
-[^51]: HP said in their print advertisements *"HP has no equal."*<br />What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
+[^41]: HP said in their print advertisements *"HP has no equal."*<br />What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/)
 
