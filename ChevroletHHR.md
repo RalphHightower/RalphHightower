@@ -151,7 +151,7 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 
 Canada sunsetted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.ca/) 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is [GM USA](https://www.gm.com/) 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
-Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
+Documents retrieved from [NHTSA (US)](https://nhtsa.gov/) [https://nhtsa.gov](https://nhtsa.gov/).
 
 ### Hightower Affected Cars
 
