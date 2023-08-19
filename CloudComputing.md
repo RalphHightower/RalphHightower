@@ -7,6 +7,7 @@
 | Documentation | Description |
 |---|---|
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
+| **[The Azure Periodic Table](https://azure-periodic-table.onwardplatforms.com/ )** | Suggested prefixes for Azure resources *(similar to Windows Hungarian notation)* |
 
 ### Interfaces
 
