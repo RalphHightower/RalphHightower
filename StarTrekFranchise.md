@@ -53,6 +53,12 @@
 [^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
 [^33]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
 
+## Star Trek Food Recipes 
+
+| Star Trek Food Recipes |
+|---|
+| ["Pike made jambalaya": How "Strange New Worlds" Captain Pike expresses care and diplomacy with food / Salon.com](https://www.salon.com/2023/08/18/star-trek-strange-new-worlds-captain-pike-cook-jambalaya/ ) |
+
 ## [ChatGPT](https://chat.openai.com/) Haiku 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
