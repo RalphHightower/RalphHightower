@@ -48,11 +48,12 @@
 | [alyankovic](https://youtube.com/@alyankovic ) | Music Parody |
 | [Ana Popovic Music](https://youtube.com/@AnaPopovicMusic ) | Music |
 | [Arlo Guthrie](https://youtube.com/@ArloGuthrieRSR ) | Music |
-| [Creedence Clearwater Revival](https://youtube.com/@TheOfficialCCR ) | Music |
 | [BlondieMusicOfficial](https://youtube.com/@BlondieMusicOfficial ) | Music |
 | [Blue Man Group](https://youtube.com/@bluemangroup ) | Music |
 | [BLUE OYSTER CULT](https://youtube.com/@BLUEOYSTERCULTofficial ) | Music |
 | [Bruce Springsteen](https://youtube.com/@brucespringsteen ) | Music |
+| [ClarenceClemonsVEVO](https://youtube.com/@ClarenceClemonsVEVO ) | Music |
+| [Creedence Clearwater Revival](https://youtube.com/@TheOfficialCCR ) | Music |
 | [Deep Purple Official](https://youtube.com/@DeepPurpleOfficial ) | Music |
 | [Dexys and Dexys Midnight Runners Official](https://youtube.com/@dexysofficial ) | Music |
 | [Dire Straits](https://youtube.com/@direstraitsofficial ) | Music |
