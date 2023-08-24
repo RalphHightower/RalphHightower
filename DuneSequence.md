@@ -1,8 +1,11 @@
 # [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order )
 BY ROSIE KNIGHT 
 
-## Dune — Part Two Premiere Date Set for November 3, 2023[^11]
- 
+## Dune — Part Two Premiere Date Set for November 3, 2023[^11][^12]
+
+[^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
+[^12]: [Dune 2's Release Plan Is Completely Changing The Movie Industry (For The Better)](https://screenrant.com/dune-2-imax-delay-the-marvels-movie/ )
+
 *Warning: this piece contains spoilers for the Dune book series.*
 
 Ever since Frank Herbert released his seminal sci-fi novel Dune in 1965, readers have been consumed by the expansive and complex political wranglings of his influential stories. While Herbert only wrote six Dune novels while he was alive, since his death, his son Brian Herbert and bestselling author Kevin J. Anderson have authored many new canon Dune stories. In fact, the series is currently at an astounding 23 novels and counting; spanning 15,000 years. If you're wondering where to start and how you're supposed to read them, we're here to help.
@@ -57,9 +60,6 @@ Set 100 years after the events at the beginning of The Butlerian Jihad, the book
 |Filled with clones, shocking returns, and a huge reveal about the antagonists of the series, this is an event level book that brings together the many loose threads left by the original books. Combining a complex structure, multiple character arcs, and an epic final battle this is a true climax to the overarching Dune series, which has been evolving and growing since 1967.|
 
 Rosie Knight is a contributing freelancer for IGN covering everything from anime to comic books to kaiju to kids movies to horror flicks. She has over half a decade of experience in entertainment journalism with bylines at Nerdist, Den of Geek, Polygon, and more.
-
-[^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
-
 
 ## Dune by Frank Herbert 
 
