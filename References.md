@@ -143,6 +143,7 @@
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
+| [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | |
 | [Seeed Studio](https://github.com/Seeed-Studio ) |   |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
