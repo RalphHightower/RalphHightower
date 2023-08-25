@@ -481,6 +481,7 @@
 | [YouYeeToo – A Versatile Single Board Computer - Electronics For You](https://www.electronicsforu.com/news/a-versatile-single-board-computer ) |
 | **[Lichee Pi 4A RISC-V Desktop Gets Unboxed, Offers Strong Linux Performance / Tom's Hardware](https://www.tomshardware.com/news/risc-v-lichee-pi-4a-desktop-unboxing )** |
 | [Setting up a private LoRaWAN network with WisGate Connect gateway - CNX Software](https://www.cnx-software.com/2023/08/20/setting-up-a-private-lorawan-network-with-wisgate-connect-gateway/ ) |
+| [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks - Phoronix](https://www.phoronix.com/review/visionfive2-riscv-benchmarks ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
