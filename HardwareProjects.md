@@ -186,6 +186,9 @@ Expansion options
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 | [Precise Point Positioning (PPP) HOWTO](https://gpsd.gitlab.io/gpsd/ppp-howto.html) |
+| **[Game of Life Coffee Table : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/Game-of-Life-Coffee-Table/ )[^11]** |
+
+[^11]: **Incredibly, cool project**
 
 ## Embedded Computers 
 
@@ -372,3 +375,4 @@ I could easily see this for installation in cars, SUVs, trucks.
 | Receivers |
 |---|
 | [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
+
