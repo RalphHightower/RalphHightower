@@ -1,5 +1,5 @@
 {
   "release": {
-    "branches": ["master", "next"]
+    "branches": ["main", "_staging", "master", "next"]
   }
 }
