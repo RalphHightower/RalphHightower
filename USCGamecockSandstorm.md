@@ -180,7 +180,7 @@
 |Cheers! If you ever need information or have any inquiries, don't hesitate to return. Have a wonderful day!|
 | *"Greetings AI Assistant."* |
 |Greetings! How can I assist you today?|
-| *"Uwas remiss. Could you create five haikus of University of South Carolina?"* |
+| *"I was remiss. Could you create five haikus of University of South Carolina?"* |
 |Of course! Here are five haikus inspired by the University of South Carolina:|
 |Horseshoe's embrace<br />Oak trees and history meet<br />USC's heart|
 |Gamecocks unite strong<br />Garnet and black pride displayed<br />Alma mater's song|
