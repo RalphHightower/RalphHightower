@@ -170,6 +170,7 @@
 |[RAKWireless LoRaWAN Complete – RAKwireless Store](https://store.rakwireless.com/collections/lorawan-complete )|(H/W)|
 |[RAKWireless Modular IoT System of Modules for Building Custom LPWAN IoT Projects – RAKwireless Store](https://store.rakwireless.com/collections/wisblock )|(H/W)|
 | [Raspberry Pi CM4-powered outdoor gateway](https://www.edatec.cn/en/iot-gateway/ED_GWL2110_181.html )
+| [RaspberryShake / Earthquake & Earth Monitoring Solutions](https://raspberryshake.org/ ) | (H/W) $175 - $800 |
 | [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br /> $144.95 USD (4GB)<br />$169.95 USD (8GB)<br />**$219.95 USD (16GB)** |
@@ -482,6 +483,7 @@
 | **[Lichee Pi 4A RISC-V Desktop Gets Unboxed, Offers Strong Linux Performance / Tom's Hardware](https://www.tomshardware.com/news/risc-v-lichee-pi-4a-desktop-unboxing )** |
 | [Setting up a private LoRaWAN network with WisGate Connect gateway - CNX Software](https://www.cnx-software.com/2023/08/20/setting-up-a-private-lorawan-network-with-wisgate-connect-gateway/ ) |
 | [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks - Phoronix](https://www.phoronix.com/review/visionfive2-riscv-benchmarks ) |
+| [Raspberry Shake HAT brings earthquake monitoring to the Raspberry Pi SBC - CNX Software](https://www.cnx-software.com/2023/08/25/raspberry-shake-hat-brings-earthquake-monitoring-to-the-raspberry-pi-sbc/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
