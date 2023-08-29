@@ -364,9 +364,9 @@ I have multiple bucket lists of different categories.
 | *"Cheers."* |
 |Cheers to you too! If you ever need assistance in the future, don't hesitate to reach out. Have a great day!|
 
-#### Canon F-1N, AE Motor Drive FN, and AE Finder FN[^41]
+#### Canon New F-1, AE Motor Drive FN, and AE Finder FN[^41]
 
-[^41]: One of the cameras on my Camera Bucket List. Julu 2013, Paula and I were returning home after visiting Charleston, South Carolina to watch her niece to in a Little League baseball ⚾️ playoff. I mentioned to Paula the [KEH](https://www.keh.com/) had a Canon F-1N with the AE Finder FN and the AE Motor Drive FN for sale. She asked "Is that their flagship camera?" I answered "Yes. For the 80's." She responded "But it."
+[^41]: One of the cameras on my Camera Bucket List. Julu 2013, Paula and I were returning home after visiting Charleston, South Carolina to watch her niece to in a Little League baseball ⚾️ playoff. I mentioned to Paula the [KEH](https://www.keh.com/) had a Canon New F-1 with the AE Finder FN and the AE Motor Drive FN for sale. She asked "Is that their flagship camera?" I answered "Yes. For the 80's." She responded "But it."
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
