@@ -47,7 +47,7 @@
 | [Star Trek (2009)](https://www.startrek.com/shows/star-trek-2009 ) | 2009 | Kelvin Reboot |
 | [Star Trek Into Darkness](https://www.startrek.com/shows/star-trek-into-darkness ) | 2013 | Kelvin Reboot |
 | [Star Trek Beyond](https://www.startrek.com/shows/star-trek-beyond ) | 2016 | Kelvin Reboot |
-| Star Trek: Section 31[^31][^32][#33] | Paramount+ |
+| Star Trek: Section 31[^31][^32][^33] | Paramount+ |
 
 [^31]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
 [^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
