@@ -2,7 +2,7 @@ Hi, I’m @RalphHightower.
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
 
-Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
 
 ## About me
 
@@ -65,7 +65,7 @@ I also have different categories of bucket lists.
    - HHR (2009-2011)[^85]
    - 55 Chevy Stepside pickup[^86]
 3.	Cameras
-   - ✓ [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
+   - ✓ [Canon New F-1](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
@@ -85,7 +85,7 @@ I also have different categories of bucket lists.
 [^84]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
 [^85]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
 [^86]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
-[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [New F-1](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^88]: I love the instruction set of this magnificent beast of a computer. 
 [^89]: It's gotta have the blinking console lights and console switches.
 [^90]: Cray Computers can, besides a supercomputer, be considered works of art.
@@ -103,7 +103,7 @@ I also have different categories of bucket lists.
 | LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
 | MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
 | CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
-| BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br />
+| BUCKET LIST CAMERAS: Canon New F-1 (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br />
 | BUCKET LIST CAR: Chevrolet Corvette |
 | CAMERA BRAND: Canon |
 | FAVORITE (BEST) DOG BREED: Beagle |
@@ -143,7 +143,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 |------|-------------|
 | Canon A-1 (FD Mount) | Motor Drive MA | 
 || Sunpak 522 Flash |
-| Canon F-1N (FD Mount) | Canon AE Motor Drive FN |
+| Canon New F-1 (FD Mount) | Canon AE Motor Drive FN |
 || Canon AE Finder FN |
 || center-weighted split-image/microprism metering screen |
 || partial split-image/microprism metering screen |
@@ -162,7 +162,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Bucket List Cameras | Status |
 |-----------|--------|
-| Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
+| Canon New F-1, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
 | Mamiya 645||
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
