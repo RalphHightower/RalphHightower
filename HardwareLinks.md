@@ -33,8 +33,9 @@
 | [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB |
-| [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
+| [ASUS IoT Global](https://iot.asus.com/ ) | (H/W) |
 | [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
+| [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
 | [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) | (H/W) |
@@ -484,6 +485,7 @@
 | [Setting up a private LoRaWAN network with WisGate Connect gateway - CNX Software](https://www.cnx-software.com/2023/08/20/setting-up-a-private-lorawan-network-with-wisgate-connect-gateway/ ) |
 | [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks - Phoronix](https://www.phoronix.com/review/visionfive2-riscv-benchmarks ) |
 | [Raspberry Shake HAT brings earthquake monitoring to the Raspberry Pi SBC - CNX Software](https://www.cnx-software.com/2023/08/25/raspberry-shake-hat-brings-earthquake-monitoring-to-the-raspberry-pi-sbc/ ) |
+| [Think and Tinker your own IoT solutions ...](https://www.eenewseurope.com/en/think-and-tinker-your-own-iot-solutions/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
