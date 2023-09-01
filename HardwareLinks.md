@@ -28,6 +28,7 @@
 | **[ameriDroid – ROCK 5 Model B](https://ameridroid.com/products/rock-5-model-b )** | **(H/W) 16GB $219.95 USD** |
 | [Anker SOLIX F1200 (PowerHouse 757)- 1229Wh / 1500W - Anker US](https://www.anker.com/products/a1770111 ) | (H/W) $1099.99 |
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
+| [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
@@ -488,7 +489,7 @@
 | [Raspberry Shake HAT brings earthquake monitoring to the Raspberry Pi SBC - CNX Software](https://www.cnx-software.com/2023/08/25/raspberry-shake-hat-brings-earthquake-monitoring-to-the-raspberry-pi-sbc/ ) |
 | [Think and Tinker your own IoT solutions ...](https://www.eenewseurope.com/en/think-and-tinker-your-own-iot-solutions/ ) |
 | [Orange Pi Compute Module 4 with Rockchip RK3566 launches for under US$23 - NotebookCheck.net News](https://www.notebookcheck.net/Orange-Pi-Compute-Module-4-with-Rockchip-RK3566-launches-for-under-US-23.744503.0.html ) |
-| [The Complete Guide to Understanding Anker 757 PowerHouse - Anker US](https://www.anker.com/blogs/toplist/the-complete-guide-to-understanding-anker-757-powerhouse ) || [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
+| [The Complete Guide to Understanding Anker 757 PowerHouse - Anker US](https://www.anker.com/blogs/toplist/the-complete-guide-to-understanding-anker-757-powerhouse ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
