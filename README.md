@@ -57,6 +57,7 @@ I also have different categories of bucket lists.
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
+   - [B&H Photo Video](https://www.bhphotovideo.com/) 420 9th Avenue, New York, NY 10001
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
 2.	Cars
@@ -75,10 +76,11 @@ I also have different categories of bucket lists.
    - DEC PDP-11/70[^89] or PDP-11/45[^89]
    - Cray 1[^90]
    - Cray 2[^90]
+   - DEC PDP-8[^91]
 5.	Space Shuttles
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
-   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^91]
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^92]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
 [^82]: I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
@@ -90,7 +92,8 @@ I also have different categories of bucket lists.
 [^88]: I love the instruction set of this magnificent beast of a computer. 
 [^89]: It's gotta have the blinking console lights and console switches.
 [^90]: Cray Computers can, besides a supercomputer, be considered works of art.
-[^91]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^91]: First experience programming computers 
+[^92]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
 
 ## Dewar's Profile
 
