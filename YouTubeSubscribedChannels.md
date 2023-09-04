@@ -180,6 +180,7 @@
 | [Zeke Kamm](https://youtube.com/@NiceIndustries ) | Photography/Video |
 | [The Lincoln Project](https://youtube.com/@TheLincolnProject ) | Politics |
 | [BPS.space](https://youtube.com/@BPSspace ) | Rocketry |
+| [Battlestar Galactica](https://youtube.com/@BattlestarGalactica?si=OQjwyxmunuJTvuJA ) | Science Fiction |
 | [Doctor Who](https://youtube.com/@DoctorWho ) | Science Fiction |
 | [Albert Bellamy](https://youtube.com/@AlbertBellamy_Major_Data ) | Self Improvement |
 | [Visual Education](https://youtube.com/@VisualEducationStudio ) | Software Development |
