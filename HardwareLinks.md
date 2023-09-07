@@ -215,6 +215,7 @@
 | [Yahboom 6DOF ROS AI Vision Robotic Arm for Nvidia Jetson NANO 4GB](https://category.yahboom.net/products/dofbot-jetson_nano ) | (H/W) |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
 | [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W) | 
+| [SparkFun launches ESP32-based "Arduino IoT Weather Station" with Arduino IoT Cloud integration - CNX Software](https://www.cnx-software.com/2023/09/03/sparkfun-esp32-arduino-iot-weather-station-with-arduino-iot-cloud/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
