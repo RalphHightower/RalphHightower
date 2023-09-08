@@ -491,6 +491,7 @@
 | [Think and Tinker your own IoT solutions ...](https://www.eenewseurope.com/en/think-and-tinker-your-own-iot-solutions/ ) |
 | [Orange Pi Compute Module 4 with Rockchip RK3566 launches for under US$23 - NotebookCheck.net News](https://www.notebookcheck.net/Orange-Pi-Compute-Module-4-with-Rockchip-RK3566-launches-for-under-US-23.744503.0.html ) |
 | [The Complete Guide to Understanding Anker 757 PowerHouse - Anker US](https://www.anker.com/blogs/toplist/the-complete-guide-to-understanding-anker-757-powerhouse ) |
+| [Sipeed unveils RISC-V tablet, portable Linux console, and cluster - CNX Software](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/ ) | 
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
