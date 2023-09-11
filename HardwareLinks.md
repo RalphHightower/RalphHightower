@@ -162,6 +162,7 @@
 | Orange Pi Compute Module 4 8GB+64GB, Rockchip RK3566 Quad-Core 64-Bit Single Board Compute, Orange Pi CM4 8GB RAM 64GB eMMC, Support 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM48G64G+WiFi) | [$53.99 8GB/64GB](https://a.co/d/e5TEyWP) |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
+| **[PikoQube- PocketQube Training Kit from Orion Space on Tindie](https://www.tindie.com/products/orionspace/pikoqube-pocketqube-training-kit/ )** | **(H/W) $800** |
 | **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
 | [Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
@@ -497,6 +498,7 @@
 | [Sipeed unveils RISC-V tablet, portable Linux console, and cluster - CNX Software](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/ ) | 
 | **[Raspberry Pi CM4 compatible RISC-V SoM features StarFive JH7110 SoC - CNX Software](https://www.cnx-software.com/2023/09/05/raspberry-pi-cm4-compatible-risc-v-som-features-starfive-jh7110-soc/ )** |
 | [Milk-V Continues Its Breakneck Pace, Launches Raspberry Pi 4-Style 2GHz RISC-V Meles SBC - Hackster.io](https://www.hackster.io/news/milk-v-continues-its-breakneck-pace-launches-raspberry-pi-4-style-2ghz-risc-v-meles-sbc-c4cd7dfdfde0 ) |
+| **[Nepal's Orion Space Wants to Put a Satellite on Your Desk with the PikoQube Trainer Kit - Hackster.io](https://www.hackster.io/news/nepal-s-orion-space-wants-to-put-a-satellite-on-your-desk-with-the-pikoqube-trainer-kit-87b4f0f7cf7d )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
