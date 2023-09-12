@@ -13,6 +13,8 @@
 |[Mirrorless Cameras / Canon Global](https://global.canon/en/technology/mcamera2021s.html )|
 |[RF Super-telephoto Zoom Lens / Canon Global](https://global.canon/en/technology/rf-2020.html )|
 
+### [Canon Help Desk Contacts - LiveAgent](https://www.liveagent.com/directory/canon-help-desk-contacts/ )
+
 ## Film Cameras
 
 ### Canon A-1
