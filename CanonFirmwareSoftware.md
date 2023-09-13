@@ -13,6 +13,8 @@
 |[Mirrorless Cameras / Canon Global](https://global.canon/en/technology/mcamera2021s.html )|
 |[RF Super-telephoto Zoom Lens / Canon Global](https://global.canon/en/technology/rf-2020.html )|
 
+### [Canon Help Desk Contacts - LiveAgent](https://www.liveagent.com/directory/canon-help-desk-contacts/ )
+
 ## Film Cameras
 
 ### Canon A-1
@@ -22,13 +24,13 @@
 | Canon A-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_a1.pdf)[^11] |
 | Canon Motor Drive MA | [Download](https://www.cameramanuals.org/canon_pdf/canon_motor_drive_ma.pdf)[^11] |
 
-### Canon F-1N 
+### Canon New F-1
 
-The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from [KEH](https://www.keh.com/).
+The Canon New F-1 is one of my bucket list cameras that I bought in July 2013 from [KEH](https://www.keh.com/).
 
 | Description | Link |
 |-------------|------|
-| Canon F-1N | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^11] |
+| Canon New F-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_f-1n.pdf)[^11] |
 | Canon AE Motor Drive FN | [Download](https://www.cameramanuals.org/canon_pdf/canon_ae_motor_drive_fn.pdf)[^11] |
 | Canon AE Finder FN | [Download]()[^11] |
 
@@ -51,13 +53,13 @@ The Canon F-1N is one of my bucket list cameras that I bought in July 2013 from 
 
 | Brand (Model) | Manual | Aquired |
 |---------------|--------|----|
-| Canon F-1N[^11] | | July 2013 |
+| Canon New F-1[^11] | | July 2013 |
 | Mamiya 645 | [Download]()[^12] | |
 | Mamiya RB67 | [Download]()[^12] | |
 | Mamiya RZ67 | [Download]()[^12] | |
 | Monorail 4×5 View Camera | | |
 
-[^11]: July 2013, Paula and I were traveling back home from Charleston, South Carolina, when I mentioned that [KEH](https://www.keh.com/) has a Canon F-1N, with AE Motor Drive FN, and AE Finder FN for sale. She asked *"Is that there flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^11]: July 2013, Paula and I were traveling back home from Charleston, South Carolina, when I mentioned that [KEH](https://www.keh.com/) has a Canon New F-1, with AE Motor Drive FN, and AE Finder FN for sale. She asked *"Is that there flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^12]: Links to [OrphanCameras.com](https://www.butkus.org/chinon/) / [Butkus.us](https://www.butkus.org/chinon/). Camera Manual Library 1997 - 2022
 
 ### Discontinued Films

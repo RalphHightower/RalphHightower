@@ -16,7 +16,7 @@
 | [Star Trek: Lower Decks](https://www.startrek.com/shows/star-trek-lower-decks ) | (2020–present) |  |
 | [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy ) | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11][^18] | 2024/2025 | |
-| Star Trek: Legacy[^13][^14][^15][^16][^17] | TBD | TBD |
+| Star Trek: Legacy[^13][^14][^15][^16][^17][^20] | TBD | TBD |
 | Star Trek: Worf[^19] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
@@ -28,6 +28,7 @@
 [^17]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
 [^18]: [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ )
 [^19]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^20]: [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ )
 
 ## [Star Trek](https://www.startrek.com/) Movies
 
@@ -46,11 +47,17 @@
 | [Star Trek (2009)](https://www.startrek.com/shows/star-trek-2009 ) | 2009 | Kelvin Reboot |
 | [Star Trek Into Darkness](https://www.startrek.com/shows/star-trek-into-darkness ) | 2013 | Kelvin Reboot |
 | [Star Trek Beyond](https://www.startrek.com/shows/star-trek-beyond ) | 2016 | Kelvin Reboot |
-| Star Trek: Section 31[^31][^32][#33] | Paramount+ |
+| Star Trek: Section 31[^31][^32][^33] | Paramount+ |
 
 [^31]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
 [^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
 [^33]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
+
+## Star Trek Food Recipes 
+
+| Star Trek Food Recipes |
+|---|
+| ["Pike made jambalaya": How "Strange New Worlds" Captain Pike expresses care and diplomacy with food / Salon.com](https://www.salon.com/2023/08/18/star-trek-strange-new-worlds-captain-pike-cook-jambalaya/ ) |
 
 ## [ChatGPT](https://chat.openai.com/) Haiku 
 

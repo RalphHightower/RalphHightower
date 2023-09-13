@@ -14,7 +14,7 @@
 |---|---|---|---|
 |10|[NBC - WIS](https://www.#.com/)|19|[CBS - WLTX](https://www.#.com/)|
 |25|[ABC - WOLO](https://www.#.com/)|35|[PBS - WRLK](https://www.#.com/)|
-|47|[ION - WZRB](https://www.#.com/)|57|[FOX - WACH](https://www.#.com/)|
+|47|[ION - WZRB](https://iontelevision.com/schedule)|57|[FOX - WACH](https://www.#.com/)|
 |63|[NYTV - WKTC](https://www.#.com/)|
 |123|Welcome Channel|124|Care Channel|
 |125|Care Channel|
@@ -109,7 +109,7 @@
 |78-5|[Nickelodeon](https://www.#.com/)|79-1|[ABC- WOLO](https://www.#.com/)|
 |79-2|[MYTV - WKTC](https://www.#.com/)|80-1|[CBS - WLTX](https://www.#.com/)|
 |80-2|[PBS - WRLK](https://www.#.com/)|81-1|[FOX - WACH](https://www.#.com/)|
-|81-2|[NBC - WIS](https://www.#.com/)|81-3|[ION - WZRB](https://www.#.com/)|
+|81-2|[NBC - WIS](https://www.#.com/)|81-3|[ION - WZRB](https://iontelevision.com/schedule)|
 |83-1|[NFL Network](https://www.#.com/)|87-XX|Music Choice|
 |87-1||87-2||
 |87-3||87-4||

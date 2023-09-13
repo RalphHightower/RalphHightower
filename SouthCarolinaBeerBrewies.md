@@ -18,6 +18,7 @@
 | [Charles Towne Fermentory](www.chsfermentory.com)[^1] | Charleston | 2016 |
 | [Ciclops Cyderi & Brewery](www.ciclopscyderiandbrewery.com)[^3] | Spartanburg ||
 | COAST Brewing Co.[^1] | North Charleston | 2007 |
+| [Coffin Island Brewing](https://www.coffinislandbrewing.com/ )[^3] | North Charleston ||
 | [Columbia Craft Brewing Company](https://www.columbiacraft.com/)[^1] | Columbia | 2017 |
 | [Commonhouse Aleworks](https://www.commonhousealeworks.com)[^1] | North Charleston | 2018 |
 | ~~Conquest Brewing~~[^11] | Columbia ||
@@ -42,8 +43,9 @@
 | Grand Strand Brewing Company[^3] | Myrtle Beach ||
 | Hazelwood Brewing Company[^5] | Lexington ||
 | Hilton Head Brewing Company[^1] | Hilton Head Island | 1994 |
+| [Hobcaw Brewing Company](https://hobcawbrewing.com/ )[^3] | Mount Pleasant ||
 | [Holy City Brewing](https://holycitybrewing.com/)[^1] | North Charleston | 2011 |
-|[Holliday Brewing](http://www.hollidaybrewing.com/ )[^5] | Spartanburg ||
+| [Holliday Brewing](http://www.hollidaybrewing.com/ )[^5] | Spartanburg ||
 | [Hunter Gatherer Brewery/Taproom](https://huntergathererbrewery.com/)[^2] | Columbia |
 | Independent Republic Brewing Company[^4] | Myrtle Beach ||
 | [Indigo Reef Brewing Co](http://www.indigoreefbrewing.com/)[^3] | Charleston ||
@@ -53,8 +55,10 @@
 | [Krafty Draft Brew Pub](http://www.kraftydraft.com/)[^4] | Lexington ||
 | [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
+| [LOCAL MOTIVE BREWING COMPANY](https://lomobrewing.com/ )[^3] | Florence ||
 | LO-Fi Brewing[^1] | Charleston | 2013 |
 | [Lore Brewing](https://lorebrewing.com/)[^4] | Indian Land ||
+| [lot 9 brewing co.](https://lot9brew.com/ )[^3] | Bluffton ||
 | [Low Tide Brewing](https://www.lowtidebrewing.com/)[^1] | Johns Island | 2016 |
 | [Magnetic South Brewery](http://www.magneticsouthbeer.com/)[^4] | Clemson ||
 | [Model A Brewing](https://modelabrewing.com/)[^4] |Tega Cay ||
@@ -72,6 +76,7 @@
 | [Quest Brewing Co.](http://questbrewing.com/)[^4] | Greenville ||
 | [Quigleys Pint & Plate](https://www.pintandplate.com/)[^4] | Pawleys Island ||
 | [Rail Line Brewing](http://www.raillinebrewing.com/)[^4] |Simpsonville ||
+| [Replay Brewing](https://www.replaybrewing.com/ )[^3] | Fort Mill |
 | [Revelry Brewing Co.](https://www.revelrybrewingco.com/)[^1] | Charleston | 2014 |
 | [River Dog Brewing Company](http://riverdogbrewing.com/)[^1] | Ridgeland | 2012 |
 | [River Rat Brewing](http://www.riverratbrewery.com/)[^1] | Columbia | 2013 |
@@ -81,22 +86,27 @@
 | Salt Marsh Brewing Company[^1] | Bluffton | 2013 |
 | [Savage Craft Ale Works](https://savagecraft.com/)[^6] | West Columbia ||
 | [Seminar Brewing](http://www.seminarbrewing.com/)[^1] | Florence | 2010 |
+| [Shellring Ale Works](https://shellringaleworks.com/ )[^3] | Port Royal ||
 | [Shoeless Brewing Company](http://grapeandgrains.com/)[^4] | Greenville |
 | [Silos Brewing Co.](https://www.silosbrewing.com/)[^7] | Greenville |
 | [Skull Coast Ale Co.](http://www.skullcoastales.com/)[^4] | Fort Mill ||
+| [Slow Play Brewing](https://www.slowplaybrewing.com/ )[^3] | Rock Hill ||
 | [Snafu Brewing Company](http://www.snafubrewingcompany.com/)[^8] | North Charleston ||
 | [Southern Barrel Brewing Co](http://southernbarrelbrewingco.com/)[^3] | Bluffton ||
 | The Southern Growl[^5] | Greer ||
 | [Southern Hops Brewing Co](http://www.southernhops.com/)[^3] | Florence ||
+| [Southernside Brewing Co.](https://southernsidebrewing.com/ )[^3] | Greenville ||
 | [Steel Hands Brewing](https://steelhandsbrewing.com/)[^1] | Cayce | 2018 |
 | [Sumter Original Brewery](http://sumteroriginalbrewery.com/)[^3] | Sumter ||
 | ~~[Swamp Cabbage Brewing](https://www.swampcabbagebrewing.com/)~~[^9] | Columbia ||
 | [Swamp Rabbit Brewery and Taproom](http://www.theswamprabbitbrewery.com/)[^3] | Travelers Rest ||
 | [Tetrad Brewing Co.](https://www.tetradbrewingco.com/)[^7] | Greenville |
+| [Think Tank Brew Lab](https://thinktankbrewlab.com/ )[^3] | Greenville ||
 | [Thomas Creek Brewing Company](http://thomascreekbeer.com/)[^1] | Greenville | 1998 |
 | [Tidal Creek Brewhouse](https://tidalcreekbrewhouse.com/)[^3] | Myrtle Beach ||
 | Tideland Brewing[^5] | North Charleston ||
 | [Tradesman Brewing Company](http://tradesmanbrewing.com/)[^1] | Charleston | 2014 |
+| [Traveling Circus Brewing](https://www.travelingcircusbrewing.com/ )[^3] | Summerville ||
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
 | [The Velo Fellow ](http://thevelofellow.com/)[^4] | Greenville ||
@@ -107,7 +117,7 @@
 
 [^1]: [Wikipedia — List of Breweries in South Carolina](https://en.wikipedia.org/wiki/List_of_breweries_in_South_Carolina)
 [^2]: 2022-10-12 Ralph Hightower contributions of omissions  
-[^3]: 2022-10-11 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
+[^3]: 2023-08-14 [South Carolina Brewers Guild](http://www.scbeer.org/brewery-map.html)
 [^4]: 2023-01-02 [South Carolina Beer Breweries](https://southcarolina.beer/about/)
 [^5]: 2022-11-19 Craft and Draft (Irmo)
 [^6]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)

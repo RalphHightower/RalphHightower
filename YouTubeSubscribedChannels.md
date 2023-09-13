@@ -48,11 +48,12 @@
 | [alyankovic](https://youtube.com/@alyankovic ) | Music Parody |
 | [Ana Popovic Music](https://youtube.com/@AnaPopovicMusic ) | Music |
 | [Arlo Guthrie](https://youtube.com/@ArloGuthrieRSR ) | Music |
-| [Creedence Clearwater Revival](https://youtube.com/@TheOfficialCCR ) | Music |
 | [BlondieMusicOfficial](https://youtube.com/@BlondieMusicOfficial ) | Music |
 | [Blue Man Group](https://youtube.com/@bluemangroup ) | Music |
 | [BLUE OYSTER CULT](https://youtube.com/@BLUEOYSTERCULTofficial ) | Music |
 | [Bruce Springsteen](https://youtube.com/@brucespringsteen ) | Music |
+| [ClarenceClemonsVEVO](https://youtube.com/@ClarenceClemonsVEVO ) | Music |
+| [Creedence Clearwater Revival](https://youtube.com/@TheOfficialCCR ) | Music |
 | [Deep Purple Official](https://youtube.com/@DeepPurpleOfficial ) | Music |
 | [Dexys and Dexys Midnight Runners Official](https://youtube.com/@dexysofficial ) | Music |
 | [Dire Straits](https://youtube.com/@direstraitsofficial ) | Music |
@@ -179,6 +180,7 @@
 | [Zeke Kamm](https://youtube.com/@NiceIndustries ) | Photography/Video |
 | [The Lincoln Project](https://youtube.com/@TheLincolnProject ) | Politics |
 | [BPS.space](https://youtube.com/@BPSspace ) | Rocketry |
+| [Battlestar Galactica](https://youtube.com/@BattlestarGalactica?si=OQjwyxmunuJTvuJA ) | Science Fiction |
 | [Doctor Who](https://youtube.com/@DoctorWho ) | Science Fiction |
 | [Albert Bellamy](https://youtube.com/@AlbertBellamy_Major_Data ) | Self Improvement |
 | [Visual Education](https://youtube.com/@VisualEducationStudio ) | Software Development |

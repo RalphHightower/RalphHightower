@@ -40,10 +40,12 @@ jobs:
         with:
           # Type abbreviation comments:
           # feat -> feature
-          # blog, info (2023-08-07 RalphHightower)
+          # blog, info (2023-08-07 @RalphHightower)
+          # chore (2023-08-22 @RalphHightower) 
           types: |
             blog
             cleanup
+            chore
             docs
             feat
             fix

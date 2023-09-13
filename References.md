@@ -70,11 +70,10 @@
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [Arm Software](https://github.com/ARM-software ) ||
-| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
-| [Arm Software](https://github.com/ARM-software ) ||
 | [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
+| [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | The Berkeley Out-of-Order RISC-V Processor |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
@@ -82,6 +81,7 @@
 | [Cisco Data Center](https://github.com/datacenter )| Cisco Data Center – Cisco Open Source Projects for the Data Center|
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
+| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
@@ -143,6 +143,7 @@
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
+| [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | |
 | [Seeed Studio](https://github.com/Seeed-Studio ) |   |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |

@@ -34,7 +34,7 @@ For generations, the Murdaugh family has ruled over the Fourteenth Judicial Circ
 
 | Partners In Crime | Occupation | Crime(s) | Venue | Trial Date | Verdict | Sentence |
 |----|---|---|---|----|----|---|
-| [Alexander, Greg](https://ralphhightower.github.io/MurdaughPICGregAlexander/) | Sheriff, Yemassee County |• |  | TBD | TBD | TBD |
+| [Alexander, Greg](https://ralphhightower.github.io/ConspiracyliCGregAlexander/) | Sheriff, Yemassee County |• |  | TBD | TBD | TBD |
 | [Fleming, Cory]()[^1] | Attorney | **2021-GS-47-30 (Beaufort):** <br />• Breach of Trust with Fraudulent Intent (7 counts)<br />• False Statement or Misrepresentation (3 counts) <br />• Money Laundering (5 counts) <br />• Computer Crime (1 count) <br />**2022-GS-47-03 (Hampton):** <br />• Breach of Trust with Fraudulent Intent (4 counts) <br />• Criminal Conspiracy (1 count) <br /> **2022-GS-47-02 (Hampton):** <br />• Breach of Trust with Fraudulent Intent (4 counts)<br />• Criminal Conspiracy (1 count) | Beaufort County,<br />Hampton County | TBD | TBD | TBD |
 | [Lafitte, Russell]()[^1] | Palmetto State Bank, ex-CEO | **2022-GS-02 (Hampton):** <br />• Computer Crime (1 count)<br />• Criminal Conspiracy (1 count)<br />• Breach of Trust with Fraudulent Intent (1 count)  |  | TBD | TBD | TBD |
 | [Roberts, Spencer Anwan]()[^1]| | **2022-GS-47-22:** <br />• Obtaining Property by False Pretenses <br />• Money Laundering <br />• Computer Crime <br />• False Statement or Misrepresentation (Insurance Fraud)| Colleton County |.|.|. |

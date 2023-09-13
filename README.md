@@ -2,7 +2,7 @@ Hi, I’m @RalphHightower.
 
 I freeze time; I photograph. I have 50++ years of computer programming and software development; most recently using C# and .Net. Athough I am retired from software development as a vocation, I am still active for personal projects. I have witnessed two final space flights: the US half of the Apollo/Soyuz Test Project, and Space Shuttle STS-135 Atlantis with the Final Four [CDR Chris Ferguson, PLT Doug Hurley, MS1 Sandra Magnus,  MS2 Rex Walheim], as well as the final landing next to the control tower of the Shuttle Landing Facility (200 yards from the runway).
 
-Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
+Photography is another creative endeavor that I have enjoyed almost as long as I've used computers. I started with film photography in 1980 with the Canon A-1. I added one of my bucket list cameras in July 2013 with the Canon New F-1 with the AE Finder FN and the AE Motor Drive FN. December 2013, I added digital to the mix with the Canon 5D Mark III and the Canon EF 24-105mm f4L. 
 
 ## About me
 
@@ -17,8 +17,8 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 [^12]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br />• 4.8% of the population • 5.8% of men • 4.0% of women<br /> analytical × conceptual × logical <br /> quiet × independent × easygoing <br /> complex × driven × curious <br /> questioning × methodical × values competence <br /> self-critical × thoughtful × innovative <br /> problem solver × reflective × autonomous 
 [^13]: I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I know of Game of Thrones is that's it's sorta like King Arthur set in medieval times.<br />I took the GOT Personality Test. I saw that reference in a LinkedIn news article about using personality tests to get the right balance of different personalities. I think using a personality test to determine employment is a form of discrimination and I use that rather strictly because there's race discrimination and gender discrimination.
 [^14]: Primary Character: Mance Rayder <br />Nickname: King Beyond the Wall<br />Traits: Inspiring, Formidable, Pioneer<br />Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
-[^15]: Secondary Character:Ser Jaime Lannister<br />Nickname:The Kingslayer<br />Traits:Arrogant, Sarcastic, Apathetic<br />Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
-[^16]: Tertiary Character:Ygritte<br />Nickname:Ygritte<br t>Traits:Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
+[^15]: Secondary Character: Ser Jaime Lannister<br />Nickname: The Kingslayer<br />Traits: Arrogant, Sarcastic, Apathetic<br />Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
+[^16]: Tertiary Character: Ygritte<br />Nickname: Ygritte<br />Traits: Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
 
 ## Various Places Where I May Be
 
@@ -39,7 +39,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 | Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21] |
 | YouTube | [@RalphHightower](https://youtube.com/user/@RalphHightower) |
 
-[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br >>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!*** 
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!*** 
 
 ## Bucket Lists
 
@@ -57,7 +57,9 @@ I also have different categories of bucket lists.
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
+   - [B&H Photo Video](https://www.bhphotovideo.com/) 420 9th Avenue, New York, NY 10001
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
+   - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
 2.	Cars
    - Corvette (mid-engine)[^82]
    - El Camino (65-67)[^83]
@@ -65,7 +67,7 @@ I also have different categories of bucket lists.
    - HHR (2009-2011)[^85]
    - 55 Chevy Stepside pickup[^86]
 3.	Cameras
-   - ✓ [Canon F-1N](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
+   - ✓ [Canon New F-1](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
@@ -74,10 +76,11 @@ I also have different categories of bucket lists.
    - DEC PDP-11/70[^89] or PDP-11/45[^89]
    - Cray 1[^90]
    - Cray 2[^90]
+   - DEC PDP-8[^91]
 5.	Space Shuttles
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
-   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^91]
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^92]
 
 [^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
 [^82]: I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
@@ -85,11 +88,12 @@ I also have different categories of bucket lists.
 [^84]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
 [^85]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
 [^86]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
-[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [F-1N](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [New F-1](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^88]: I love the instruction set of this magnificent beast of a computer. 
 [^89]: It's gotta have the blinking console lights and console switches.
 [^90]: Cray Computers can, besides a supercomputer, be considered works of art.
-[^91]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^91]: First experience programming computers 
+[^92]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
 
 ## Dewar's Profile
 
@@ -103,7 +107,7 @@ I also have different categories of bucket lists.
 | LAST BOOK READ: Zen and the Art of Motorcycle Maintenance by Robert Pirsig (several times) |
 | MOST AMAZING EXPERIENCE: Total Solar Eclipse, Augusta 21, 2017, Chapin, South Carolina |
 | CARS I WISH I KEPT: 1966 Chevrolet El Camino, 1966 Ford Mustang |
-| BUCKET LIST CAMERAS: Canon F-1N (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br />
+| BUCKET LIST CAMERAS: Canon New F-1 (July 2013), Mamiya 645, Mamiya RB67 or RZ67, 4×5 Monorail View Camera<br />
 | BUCKET LIST CAR: Chevrolet Corvette |
 | CAMERA BRAND: Canon |
 | FAVORITE (BEST) DOG BREED: Beagle |
@@ -143,7 +147,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 |------|-------------|
 | Canon A-1 (FD Mount) | Motor Drive MA | 
 || Sunpak 522 Flash |
-| Canon F-1N (FD Mount) | Canon AE Motor Drive FN |
+| Canon New F-1 (FD Mount) | Canon AE Motor Drive FN |
 || Canon AE Finder FN |
 || center-weighted split-image/microprism metering screen |
 || partial split-image/microprism metering screen |
@@ -162,7 +166,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Bucket List Cameras | Status |
 |-----------|--------|
-| Canon F-1N, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
+| Canon New F-1, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
 | Mamiya 645||
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
@@ -270,9 +274,9 @@ A technology company had shut down and one of the Affinity Technology Group form
 | DEC PDP-11/45 Handbook |
 | DEC PDP-11/70 Handbook |
 
-## HP (Hewlett-Packard) Calculators[^51]
+## HP (Hewlett-Packard) Calculators[^41]
 
-[^51]: HP said in their print advertisements *"HP has no equal."*<br />What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
+[^41]: HP said in their print advertisements *"HP has no equal."*<br />What can I say? I've been a big fan of HP Calculators ever since they introduced the HP-35. I finally managed to buy an HP-45. I use the Reverse Polish Notation (RPN). I cannot use an algebraic calculator. I bought my wife an HP-16C in 1988 since I couldn't use her algebraic calculator to balance our checkbook. The HP-16C still works to this day. 
 
 [The Museum of HP Calculators](https://www.hpmuseum.org/)
 

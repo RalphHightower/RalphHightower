@@ -19,21 +19,25 @@
 | [AAEON M2AI-2242-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2242-720) | (H/W) |
 | [AAEON M2AI-2280-720AI Edge Computing Module with Kneron KL720 NPU](https://www.aaeon.com/en/p/ai-edge-computing-solutions-m2ai-2280-720) | (H/W) |
 | [AcSiP Development Kits](https://www.acsip.com.tw/index.php?action=products&fid1=21) | (H/W) |
+| [Akida™ PCIe Board - BrainChip Inc](https://shop.brainchipinc.com/products/akida%e2%84%a2-development-kit-pcie-board ) | $499.00 |
 | [Allwinner H616 TV Box Processor Comes with Mali G31 GPU, Supports Android 10](https://www.cnx-software.com/2020/02/27/allwinner-h616-tv-box-processor-comes-with-mali-g31-gpu-supports-android-10/) | (H/W) |
 | [Allwinner D1s/F133 RISC-V processor integrates 64MB DDR2](https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/) | (H/W) |
 | [Allwinner T113-S3 dual-core Cortex-A7 SoC features 128MB DDR3, targets automotive and industrial applications](https://www.cnx-software.com/2022/02/13/allwinner-t113-s3-dual-core-cortex-a7-soc-features-128mb-ddr3-targets-automotive-and-industrial-applications/) | (H/W) |
 | **[AmbaSat— Space Satellite Kits](https://ambasat.com/)** | (H/W) |
 |**[Ampere Altra Developer Platform – I-Pi SMARC](https://www.ipi.wiki/products/ampere-altra-developer-platform )**| (H/W)|
 | **[ameriDroid – ROCK 5 Model B](https://ameridroid.com/products/rock-5-model-b )** | **(H/W) 16GB $219.95 USD** |
-| [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
+| [Anker SOLIX F1200 (PowerHouse 757)- 1229Wh / 1500W - Anker US](https://www.anker.com/products/a1770111 ) | (H/W) $1099.99 |
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
+| [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
+| **[Arace Tech — Milk-V Mars CM](https://arace.tech/products/milk-v-mars-cm )** | **[$84.00 8GB w/ WiFi 5/BT5.2](https://arace.tech/products/milk-v-mars-cm)** |
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB |
-| [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
+| [ASUS IoT Global](https://iot.asus.com/ ) | (H/W) |
 | [Avnet MSC SM2S-IMX8PLUS NXP™ i.MX 8M Plus ARM® Cortex™-A53](https://embedded.avnet.com/product/msc-sm2s-imx8plus/) | (H/W) |
+| [Avnet](https://www.avnet.com/wps/portal/us/) | (H/W) |
 | [Banana Pi BPI-M6 with Senary(Synaptics) VS680 design ,onboard 4G LPDDR4 and 16G eMMC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&id=141&wap=1) | (H/W) |
 | [Banana Pi SBC](https://www.banana-pi.org/web/index.php?topclassid=16&classid=64&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi AI/IoT](https://www.banana-pi.org/web/index.php?topclassid=16&classid=93&lanstr=en&wap=1) | (H/W) |
@@ -91,6 +95,7 @@
 | [Geniatech ARM Boards](https://shop.geniatech.com/products/industrial-pc/arm-board/)<br />From system on modules, single board computers, industrial IoT & Embedded motherboards to develop kits, carrier boards, and peripheral cards, Geniatech provides a comprehensive range of ARM Based computer board solutions with Linux or Android OS,  powerful performance, low power, compact, flexible options, different form factors and platforms available. Geniatech’s ARM boards are the ideal embedded platform for accelerating development and reducing the risk of new chip designs. Our SBCs are available to buy as Evaluation Kits to get you quickly started on your Embedded System project. | (H/W) |
 | [Genitec RK3568 SMARC Industrial Core Board](https://www.geniatech.com/product/som-3568-smarc/) | (H/W) |
 | [GL\.iNet GL-X3000 / Spitz AX - GL.iNet](https://www.gl-inet.com/products/gl-x3000/ ) | (H/W) $415 5G |
+| [GnuBee Personal Cloud 1 / Crowd Supply](https://www.crowdsupply.com/gnubee/personal-cloud-1 ) | (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
 | **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
@@ -123,6 +128,7 @@
 | [Milk-V](https://milkv.io/ ) | (H/W) |
 | [Milk-V Pioneer](https://milkv.io/pioneer )| (H/W) |
 | [Milk-V Mars](https://milkv.io/mars )| (H/W) |
+| [Milk-V Meles: The Classic Creation of a RISC-V Single Board Computer](https://milkv.io/meles ) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
 | **[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )** | **(H/W) $1999 128 GB + 1 TB** |
 | [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) <br /> [Mouser Distributor](https://www.mouser.com/) | (H/W) |
@@ -143,7 +149,7 @@
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
-| **[OpenMQTTGateway](https://openmqttgateway.com/)** | (H/W) |
+| Orange Pi 3B 8G RK3566 with 256GB eMMC Module Quad Core 64 Bit Single Board Computer, 1.8 GHz Frequency WiFi Bluetooth Run Orange Pi OS, Android, Debian, Ubuntu, OpenHarmony (Pi 3B 8GB+256GB eMMC) 
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply)](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83/ref=mp_s_a_1_1_sspa?keywords=Orange%2BPi&qid=1672663315&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTjJTNjVNSFUxQSZlbmNyeXB0ZWRJZD1BMDk5Njg0MTJYMVpDNDFLODc4NVImZW5jcnlwdGVkQWRJZD1BMDE0NTU4OTFNWE42QlhYRFowTUQmd2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)** | $141.99 |
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply](https://a.co/d/3ayh6T6)** | ** **Amazon $149.99** |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
@@ -153,8 +159,10 @@
 | **[Orange Pi 5 Plus 16GB Rockchip RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Run Orange Pi OS, Android, Debian, Ubuntu (OPi 5 Plus 16G+5V4A TC Supply)](https://a.co/d/4WFkS5z) - Amazon** | (H/W) **$151.99 16GB** |
 | **[Orange Pi 5B 16GB Rockchip RK3588S 8 Core 64 Bit WiFi6,BT5.0 Single Board Computer with 128GB eMMC, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian (OPi 5B 16GB/128G+5V4A TypeC Supply)](https://a.co/d/3xBTyUa) - Amazon** | **(H/W) $151.99** |
 | **[Orange Pi 5 16GB RK3588S,PCIE Module External WiFi+BT,SSD Gigabit Ethernet Single Board Computer,Run Android Debian OS/ / - AliExpress](https://www.aliexpress.com/item/1005005554655739.html )** | (H/W) |
+| Orange Pi Compute Module 4 8GB+64GB, Rockchip RK3566 Quad-Core 64-Bit Single Board Compute, Orange Pi CM4 8GB RAM 64GB eMMC, Support 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM48G64G+WiFi) | [$53.99 8GB/64GB](https://a.co/d/e5TEyWP) |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
+| **[PikoQube- PocketQube Training Kit from Orion Space on Tindie](https://www.tindie.com/products/orionspace/pikoqube-pocketqube-training-kit/ )** | **(H/W) $800** |
 | **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
 | [Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
 | [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
@@ -163,10 +171,13 @@
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 | **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
+| [RAKWireless RAK7391 Compute Module 4 (CM4) Carrier Board – RAKwireless Store](https://store.rakwireless.com/products/wisgate-connect-base-kit-rak7391 ) | (H/W) $381 |
 | [RAKWireless — Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible ) | (H/W) |
 |[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
 |[RAKWireless LoRaWAN Complete – RAKwireless Store](https://store.rakwireless.com/collections/lorawan-complete )|(H/W)|
 |[RAKWireless Modular IoT System of Modules for Building Custom LPWAN IoT Projects – RAKwireless Store](https://store.rakwireless.com/collections/wisblock )|(H/W)|
+| [Raspberry Pi CM4-powered outdoor gateway](https://www.edatec.cn/en/iot-gateway/ED_GWL2110_181.html )
+| [RaspberryShake / Earthquake & Earth Monitoring Solutions](https://raspberryshake.org/ ) | (H/W) $175 - $800 |
 | [RISC-V — RISC-V is a open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration](https://riscv.org/) | (H/W) |
 | [ROCK Pi 4 Model C+](https://ameridroid.com/products/rock-pi-4c) | (H/W) 84.95 USD |
 | **[ROCK 5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W)<br /> $144.95 USD (4GB)<br />$169.95 USD (8GB)<br />**$219.95 USD (16GB)** |
@@ -184,11 +195,13 @@
 | [Shinzin Ai-m62-12f Core Development Board, Wi-fi6 Ble5.3 Combo Module, Bl616 Low Power 32-bit Risc-v Cpu, Support Thread Protocol - Integrated Circuits - AliExpress](https://www.aliexpress.com/item/1005005438854506.html ) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
+| **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
+| **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card)** | **(H/W) $119.00** |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
@@ -206,6 +219,7 @@
 | [Yahboom 6DOF ROS AI Vision Robotic Arm for Nvidia Jetson NANO 4GB](https://category.yahboom.net/products/dofbot-jetson_nano ) | (H/W) |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
 | [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W) | 
+| [SparkFun launches ESP32-based "Arduino IoT Weather Station" with Arduino IoT Cloud integration - CNX Software](https://www.cnx-software.com/2023/09/03/sparkfun-esp32-arduino-iot-weather-station-with-arduino-iot-cloud/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
@@ -467,6 +481,24 @@
 | [Liontron Rockchip RK3588 motherboard ships with 32GB RAM for $352 - CNX Software](https://www.cnx-software.com/2023/07/27/liontron-rockchip-rk3588-motherboard-32gb-ram/ ) |
 | [Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://www.aliexpress.com/item/1005005776979120.html ) |
 | [Tungsten700 SMARC SoM and devkit features MediaTek Genio 700 AIoT processor - CNX Software](https://www.cnx-software.com/2023/07/28/tungsten700-smarc-som-and-devkit-features-mediatek-genio-700-aiot-processor/ ) |
+| [BrainChip's $499 Akida AI Board Goes Solo / Tom's Hardware](https://www.tomshardware.com/news/brainchip-akida-pcie-board-goes-solo ) |
+| [Asus unveils Tinker Board 3N based on Rockchip RK3566 SoC](https://linuxgizmos.com/asus-unveils-tinker-board-3n-based-on-rockchip-rk3566-soc/ ) |
+| [Banana Pi BPI-CM2 - A Raspberry Pi CM4-compatible Rockchip RK3568 SoM with extra I/Os - CNX Software](https://www.cnx-software.com/2023/08/08/banana-pi-bpi-cm2-a-raspberry-pi-cm4-compatible-rockchip-rk3568-som-with-extra-i-os/ ) |
+[Raspberry Pi CM4-powered outdoor gateway supports GbE, WiFi 5, Bluetooth 5.0, 4G LTE, LoRaWAN, and GPS connectivity - CNX Software](https://www.cnx-software.com/2023/08/10/raspberry-pi-cm4-outdoor-gateway-gbe-wifi-5-bluetooth-5-0-4g-lte-lorawan-gps/ ) |
+| [Orange Pi 3B - A Rockchip RK3566 SBC with an M.2 NVMe/SATA SSD socket, up to 8GB RAM - CNX Software](https://www.cnx-software.com/2023/08/05/orange-pi-3b-a-rockchip-rk3566-sbc-with-an-m-2-nvme-sata-ssd-socket-up-to-8gb-ram/ ) 
+| **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )** |
+| [YouYeeToo – A Versatile Single Board Computer - Electronics For You](https://www.electronicsforu.com/news/a-versatile-single-board-computer ) |
+| **[Lichee Pi 4A RISC-V Desktop Gets Unboxed, Offers Strong Linux Performance / Tom's Hardware](https://www.tomshardware.com/news/risc-v-lichee-pi-4a-desktop-unboxing )** |
+| [Setting up a private LoRaWAN network with WisGate Connect gateway - CNX Software](https://www.cnx-software.com/2023/08/20/setting-up-a-private-lorawan-network-with-wisgate-connect-gateway/ ) |
+| [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks - Phoronix](https://www.phoronix.com/review/visionfive2-riscv-benchmarks ) |
+| [Raspberry Shake HAT brings earthquake monitoring to the Raspberry Pi SBC - CNX Software](https://www.cnx-software.com/2023/08/25/raspberry-shake-hat-brings-earthquake-monitoring-to-the-raspberry-pi-sbc/ ) |
+| [Think and Tinker your own IoT solutions ...](https://www.eenewseurope.com/en/think-and-tinker-your-own-iot-solutions/ ) |
+| [Orange Pi Compute Module 4 with Rockchip RK3566 launches for under US$23 - NotebookCheck.net News](https://www.notebookcheck.net/Orange-Pi-Compute-Module-4-with-Rockchip-RK3566-launches-for-under-US-23.744503.0.html ) |
+| [The Complete Guide to Understanding Anker 757 PowerHouse - Anker US](https://www.anker.com/blogs/toplist/the-complete-guide-to-understanding-anker-757-powerhouse ) |
+| [Sipeed unveils RISC-V tablet, portable Linux console, and cluster - CNX Software](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/ ) | 
+| **[Raspberry Pi CM4 compatible RISC-V SoM features StarFive JH7110 SoC - CNX Software](https://www.cnx-software.com/2023/09/05/raspberry-pi-cm4-compatible-risc-v-som-features-starfive-jh7110-soc/ )** |
+| [Milk-V Continues Its Breakneck Pace, Launches Raspberry Pi 4-Style 2GHz RISC-V Meles SBC - Hackster.io](https://www.hackster.io/news/milk-v-continues-its-breakneck-pace-launches-raspberry-pi-4-style-2ghz-risc-v-meles-sbc-c4cd7dfdfde0 ) |
+| **[Nepal's Orion Space Wants to Put a Satellite on Your Desk with the PikoQube Trainer Kit - Hackster.io](https://www.hackster.io/news/nepal-s-orion-space-wants-to-put-a-satellite-on-your-desk-with-the-pikoqube-trainer-kit-87b4f0f7cf7d )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 

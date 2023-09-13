@@ -4,9 +4,13 @@
 
 ### Documentation 
 
-| Documentation | Description |
-|---|---|
+| Documentation |
+|---|
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
+| **[The Azure Periodic Table](https://azure-periodic-table.onwardplatforms.com/ )** | Suggested prefixes for Azure resources *(similar to Windows Hungarian notation)* |
+| [Resource naming and tagging decision guide - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide )|
+|  [Define your tagging strategy - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging ) |
+| [Management groups - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-management-groups ) |
 
 ### Interfaces
 
@@ -18,10 +22,10 @@
 
 ### Documentation 
 
-| Documentation | Description |
-|-----------|---|
-| [Quickly and easily develop IoT devices that connect securely to the AWS Cloud](https://aws.amazon.com/iot-expresslink/) |  |
-| [AWS IoT ExpressLink programmer's guide v1.0](https://docs.aws.amazon.com/iot-expresslink/) |   |
+| Documentation |
+|-----------|
+| [Quickly and easily develop IoT devices that connect securely to the AWS Cloud](https://aws.amazon.com/iot-expresslink/) |  
+| [AWS IoT ExpressLink programmer's guide v1.0](https://docs.aws.amazon.com/iot-expresslink/) |
 
 ### Interfaces 
 

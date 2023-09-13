@@ -15,6 +15,7 @@
 | [Raspberry PI Locater](https://rpilocator.com/) |
 | [Single Board Computer Database](https://hackerboards.com/) | 
 | [FindBoard Workshop](https://www.findboard.cn/#/home) | 
+| **[RISC-V "Wikipedia" of Single Board Computers, Chips](https://antmicro.com/blog/2022/08/renodepedia/)** |
 | **[RISC-V Bytes: Exploring a Custom ESP32 Bootloader](https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/)** |
 | [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/getting-started.html) |
 | [Circuit Cellar](https://circuitcellar.com/) |
@@ -42,7 +43,12 @@
 
 ## Active Projects
 
-### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [Documentation for Turing Pi 2](https://help.turingpi.com/hc/en-us/categories/8685418660125-Docs)
+### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [TuringPi V2 Documentation](https://docs.turingpi.com/docs )
+
+Expansion options 
+- 2x SATA Ports 6 Gbps
+- 2x Mini PCI Express Slots
+- 4x M.2 ports, 2260, 2280, Key-M NVME support
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
@@ -86,7 +92,7 @@
 
 | [NVIDIA AI Articles]() |
 |----|
-[PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet)
+| [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
 
@@ -180,6 +186,9 @@
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 | [Precise Point Positioning (PPP) HOWTO](https://gpsd.gitlab.io/gpsd/ppp-howto.html) |
+| **[Game of Life Coffee Table : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/Game-of-Life-Coffee-Table/ )[^11]** |
+
+[^11]: **Incredibly, cool project**
 
 ## Embedded Computers 
 
@@ -366,3 +375,4 @@ I could easily see this for installation in cars, SUVs, trucks.
 | Receivers |
 |---|
 | [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
+

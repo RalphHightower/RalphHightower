@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.24.5](https://github.com/RalphHightower/RalphHightower/compare/v1.24.4...v1.24.5) (2023-08-14)
+
+
+### Bug Fixes
+
+* **md:** Toyota table has two columns, not one ([00dfdc3](https://github.com/RalphHightower/RalphHightower/commit/00dfdc35742437ef57dc5b64d78113855031b09d))
+
 ## [1.24.4](https://github.com/RalphHightower/RalphHightower/compare/v1.24.3...v1.24.4) (2023-08-09)
 
 

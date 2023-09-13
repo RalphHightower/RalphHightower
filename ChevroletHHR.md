@@ -95,7 +95,7 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 |FE3| Suspension System - Sport|FE9| Certification - Emission, Federal|
 |FR7| Ratio - Transaxle Final Drive 3.95|FX2| Ratio - Transaxle Final Drive 3.91|
 |FY1| Ratio - Transaxle Final Drive 3.63|G63| Provisions - Luggage Carrier, Roof|
-|GAM| Vehicle Government (G.S.A. Sales|GAN| Primary Color Exterior, Switchblade Silver Met (G) 636R|
+|GAM| Vehicle Government (G.S.A. Sales)|GAN| Primary Color Exterior, Switchblade Silver Met (G) 636R|
 |GAP| Primary Color Exterior, Imperial Blue Met (G) 403P|GAR| Primary Color Exterior, Carbon Flash MET (G) 501Q|
 |GBE| Primary Color Exterior, Crystal Claret Tintcoat (G) 505Q|GBR| Primary Color Exterior, Platinum Ice Tri-Coat (G) 560Q|
 |GBU| Primary Color Exterior, Ice White (G)|GBV| Primary Color Exterior, Cyber Gray Met (G) 637R|
@@ -151,7 +151,7 @@ This part is for HHR's built with remote starting. I don't think that Chevrolet 
 
 Canada sunsetted cellular 2G CDMA technology in 2015. [GM Canada](https://www.gm.ca/) 🇨🇦  figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is [GM USA](https://www.gm.com/) 🇺🇸  solution. A dongle that plugs into the ODB-II port is unacceptable to me.
 
-Documents retrieved from NHTSA (US) [https://nhtsa.gov](https://nhtsa.gov/).
+Documents retrieved from [NHTSA (US)](https://nhtsa.gov/) [https://nhtsa.gov](https://nhtsa.gov/).
 
 ### Hightower Affected Cars
 
