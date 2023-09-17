@@ -11,14 +11,14 @@ Working in the landlocked state of Iowa, I wanted some raw oysters. When I passe
 | Alabama | Huntsville ||
 | Georgia | Augusta ||
 | Georgia | Cumberland | (Atlanta) |
-| Indiana | Indianapolis[^3] ||
-| Iowa | Davenport[^5] ||
-| Iowa | Des Moines[^4] ||
-| Kansas | Overland Park[^4] | (Kansas, City) |
-| Kentucky | Lexington[^3] ||
-| Minnesota | Bloomington[^4] | (Minneapolis) |
+| Indiana | Indianapolis[^13] ||
+| Iowa | Davenport[^15] ||
+| Iowa | Des Moines[^14] ||
+| Kansas | Overland Park[^14] | (Kansas, City) |
+| Kentucky | Lexington[^13] ||
+| Minnesota | Bloomington[^14] | (Minneapolis) |
 | Missouri | St. Louis ||
-| Nebraska | Omaha[^4] ||
+| Nebraska | Omaha[^14] ||
 | North Carolina | Charlotte ||
 | North Carolina | Greensboro ||
 | North Carolina | Raleigh ||
@@ -26,7 +26,7 @@ Working in the landlocked state of Iowa, I wanted some raw oysters. When I passe
 | Ohio | Cincinnati | (Kentucky, Newport) |
 | Rhode Island | Warwick ||
 | South Carolina | Charleston | (North Charleston) |
-| South Carolina | Columbia | (Broad River) |
+| South Carolina | Columbia | (Broad River)[^12] |
 | South Carolina | Columbia | (Harbison) |
 | South Carolina | Columbia | (Two Notch) |
 | South Carolina | Greenville ||
@@ -34,16 +34,16 @@ Working in the landlocked state of Iowa, I wanted some raw oysters. When I passe
 | South Carolina | Myrtle Beach |   |
 | South Carolina | Myrtle Beach |   |
 | South Carolina | Spartanburg ||
-| Tennessee | Chattanooga[^5] ||
-| Tennessee | Knoxville[^3] ||
-| Tennessee | Memphis[^5] ||
+| Tennessee | Chattanooga[^15] ||
+| Tennessee | Knoxville[^13] ||
+| Tennessee | Memphis[^15] ||
 | Tennessee | Nashville ||
 | Virginia | Chantilly ||
 | Virginia | Manassas ||
 | Virginia | Richmond ||
 
-[^1]: [NCR](https://www.ncr.com/) E&M-Columbia, 3325 Platt Springs Road, West Columbia, South Carolina. When NCR moved out, [Cisco](https://www.cisco.com/) moved in. When Cisco moved out, Time-Warner moved in, which became [Spectrum](https:://www.spectrum.com/).
-[^2]: Hooters moved from the Broad River Road location to the one on Fernandino Road.
-[^3]: Van Haulin' Tour (moving from Iowa back home to South Carolina) 
-[^4]: Heartland Hooters Tour
-[^5]: Iowa State Fair Tour
+[^11]: [NCR](https://www.ncr.com/) E&M-Columbia, 3325 Platt Springs Road, West Columbia, South Carolina. When NCR moved out, [Cisco](https://www.cisco.com/) moved in. When Cisco moved out, Time-Warner moved in, which became [Spectrum](https:://www.spectrum.com/).
+[^12]: Hooters moved from the Broad River Road location to the one on Fernandino Road.
+[^13]: Van Haulin' Tour (moving from Iowa back home to South Carolina) 
+[^14]: Heartland Hooters Tour
+[^15]: Iowa State Fair Tour
