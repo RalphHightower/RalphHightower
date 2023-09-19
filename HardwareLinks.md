@@ -196,9 +196,10 @@
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
+| **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **(H/W) $1239.00 16GB/128GB** |
+| **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
-| **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
 | **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card)** | **(H/W) $119.00** |
@@ -499,6 +500,7 @@
 | **[Raspberry Pi CM4 compatible RISC-V SoM features StarFive JH7110 SoC - CNX Software](https://www.cnx-software.com/2023/09/05/raspberry-pi-cm4-compatible-risc-v-som-features-starfive-jh7110-soc/ )** |
 | [Milk-V Continues Its Breakneck Pace, Launches Raspberry Pi 4-Style 2GHz RISC-V Meles SBC - Hackster.io](https://www.hackster.io/news/milk-v-continues-its-breakneck-pace-launches-raspberry-pi-4-style-2ghz-risc-v-meles-sbc-c4cd7dfdfde0 ) |
 | **[Nepal's Orion Space Wants to Put a Satellite on Your Desk with the PikoQube Trainer Kit - Hackster.io](https://www.hackster.io/news/nepal-s-orion-space-wants-to-put-a-satellite-on-your-desk-with-the-pikoqube-trainer-kit-87b4f0f7cf7d )** |
+| **[Lichee Cluster 4A mini-ITX RISC-V cluster board launched for $929 and up - CNX Software](https://www.cnx-software.com/2023/09/19/lichee-cluster-4a-mini-itx-risc-v-cluster-board/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
