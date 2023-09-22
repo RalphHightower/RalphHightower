@@ -212,6 +212,7 @@
 | [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
 | [Tungsten700 SMARC](https://www.lairdconnect.com/product/tungsten700-smarc ) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
+| **[youyeetoo YY3568 RockChip RK3568 Development Board Dual Gigabit Ethernet Expandable SATA / SSD Supports Android 11 / Debian10 - AliExpress](https://www.aliexpress.com/item/3256804953233950.html )** | **$267.28 8GB/64GB w/ WiFi** |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
@@ -501,6 +502,7 @@
 | [Milk-V Continues Its Breakneck Pace, Launches Raspberry Pi 4-Style 2GHz RISC-V Meles SBC - Hackster.io](https://www.hackster.io/news/milk-v-continues-its-breakneck-pace-launches-raspberry-pi-4-style-2ghz-risc-v-meles-sbc-c4cd7dfdfde0 ) |
 | **[Nepal's Orion Space Wants to Put a Satellite on Your Desk with the PikoQube Trainer Kit - Hackster.io](https://www.hackster.io/news/nepal-s-orion-space-wants-to-put-a-satellite-on-your-desk-with-the-pikoqube-trainer-kit-87b4f0f7cf7d )** |
 | **[Lichee Cluster 4A mini-ITX RISC-V cluster board launched for $929 and up - CNX Software](https://www.cnx-software.com/2023/09/19/lichee-cluster-4a-mini-itx-risc-v-cluster-board/ )** |
+| **[Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK - CNX Software](https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
