@@ -29,6 +29,9 @@
 | [Quickly learn how new-to-you code works using sequence diagrams - DEV Community](https://dev.to/appmap/quickly-learn-how-new-to-you-code-works-using-sequence-diagrams-h9g ) |
 |[10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/ )|
 | [amis92/csharp-source-generators: A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.](https://github.com/amis92/csharp-source-generators ) |
+| [Introduction to GitOps - CodeProject](https://www.codeproject.com/Articles/5334970/Introduction-to-GitOps ) |
+| [GitOps with Terraform and GitHub - CodeProject](https://www.codeproject.com/Articles/5334971/GitOps-with-Terraform-and-GitHub ) |
+| [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
 
 #### [10 Unexpected Challenges Software Developers Face in Their Careers / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/10-unexpected-challenges-software-developers-face-in-their-careers-3f4533d1b1c3 )
 
