@@ -214,7 +214,6 @@
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | **[youyeetoo YY3568 RockChip RK3568 Development Board Dual Gigabit Ethernet Expandable SATA / SSD Supports Android 11 / Debian10 - AliExpress](https://www.aliexpress.com/item/3256804953233950.html )** | **$267.28 8GB/64GB w/ WiFi** |
 | [Useful Sensors: AI in a Box / Crowd Supply](https://www.crowdsupply.com/useful-sensors/ai-in-a-box/ ) | (H/W) $299 - $475 |
-
 | [Variscite: Single BoardComputers](https://www.variscite.com/products/single-board-computers/) | (H/W) |
 | [Variscite VAR-SOM-MX93 : NXP i.MX93](https://www.variscite.com/product/system-on-module-som/cortex-a55/var-som-mx93-nxp-i-mx-93/) | (H/W) |
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
@@ -477,7 +476,7 @@
 | **[Rockchip RK3588 CPU module exposes more I/Os through four board-to-board connectors - CNX Software](https://www.cnx-software.com/2022/05/26/rockchip-rk3588-cpu-module-board-to-board-connectors/ )** |
 | **[Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ )** |
 | [AMD Versal AI Edge SoC FPGA system-on-module targets ADAS, robotics, medical imaging, and other AI applications - CNX Software](https://www.cnx-software.com/2023/05/12/amd-versal-ai-edge-soc-fpga-system-on-module-targets-adas-robotics-medical-imaging-and-other-ai-applications/ ) |
-| [Planet Launches Funky Arm-Based XR Mini Desktops with Touchscreens / Tom's Hardware](https://www.tomshardware.com/news/planet-launches-arm-based-xr-mini-desktops.
+| [Planet Launches Funky Arm-Based XR Mini Desktops with Touchscreens / Tom's Hardware](https://www.tomshardware.com/news/planet-launches-arm-based-xr-mini-desktops.) |
 | [LiFi 802.11bb standard uses light for in-room data transmission up to 224GB/s - cnx-software](https://www.cnx-software.com/2023/07/14/lifi-802-11bb-wifi-standard-uses-light-for-in-room-data-transmission-up-to-224gb-s/ ) |
 | [Edgeble AI Neural Compute Module 2 (Neu2) follows 96Boards SoM form factor - cnx-software](https://www.cnx-software.com/2023/07/19/edgeble-ai-neural-compute-module-2-neu2-follows-96boards-som-form-factor/ ) |
 | [Yahboom DOFBOT 6 DoF AI Vision robotic arm for Jetson Nano sells for $289 and up - CNX Software](https://www.cnx-software.com/2023/07/18/yahboom-dofbot-6-dof-ai-vision-robotic-arm-for-jetson-nano-sells-for-289-and-up/ ) |
@@ -487,7 +486,7 @@
 | [BrainChip's $499 Akida AI Board Goes Solo / Tom's Hardware](https://www.tomshardware.com/news/brainchip-akida-pcie-board-goes-solo ) |
 | [Asus unveils Tinker Board 3N based on Rockchip RK3566 SoC](https://linuxgizmos.com/asus-unveils-tinker-board-3n-based-on-rockchip-rk3566-soc/ ) |
 | [Banana Pi BPI-CM2 - A Raspberry Pi CM4-compatible Rockchip RK3568 SoM with extra I/Os - CNX Software](https://www.cnx-software.com/2023/08/08/banana-pi-bpi-cm2-a-raspberry-pi-cm4-compatible-rockchip-rk3568-som-with-extra-i-os/ ) |
-[Raspberry Pi CM4-powered outdoor gateway supports GbE, WiFi 5, Bluetooth 5.0, 4G LTE, LoRaWAN, and GPS connectivity - CNX Software](https://www.cnx-software.com/2023/08/10/raspberry-pi-cm4-outdoor-gateway-gbe-wifi-5-bluetooth-5-0-4g-lte-lorawan-gps/ ) |
+| [Raspberry Pi CM4-powered outdoor gateway supports GbE, WiFi 5, Bluetooth 5.0, 4G LTE, LoRaWAN, and GPS connectivity - CNX Software](https://www.cnx-software.com/2023/08/10/raspberry-pi-cm4-outdoor-gateway-gbe-wifi-5-bluetooth-5-0-4g-lte-lorawan-gps/ ) |
 | [Orange Pi 3B - A Rockchip RK3566 SBC with an M.2 NVMe/SATA SSD socket, up to 8GB RAM - CNX Software](https://www.cnx-software.com/2023/08/05/orange-pi-3b-a-rockchip-rk3566-sbc-with-an-m-2-nvme-sata-ssd-socket-up-to-8gb-ram/ ) 
 | **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )** |
 | [YouYeeToo – A Versatile Single Board Computer - Electronics For You](https://www.electronicsforu.com/news/a-versatile-single-board-computer ) |
