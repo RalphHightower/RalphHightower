@@ -60,6 +60,8 @@ I also have different categories of bucket lists.
    - [B&H Photo Video](https://www.bhphotovideo.com/) 420 9th Avenue, New York, NY 10001
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
+   - Hawaii
+   - Japan (primarily Tokyo(
 2.	Cars
    - Corvette (mid-engine)[^82]
    - El Camino (65-67)[^83]
