@@ -1,4 +1,4 @@
-# [ChatGPT — Travel Agent](https://chat.openai.com/)
+0# [ChatGPT — Travel Agent](https://chat.openai.com/)
 
 ## Continents 
 
@@ -14,5 +14,5 @@
 
 ### Australia 🇦🇺/New Zealand 🇳🇿 
 
-### Antarctic
+### Antarctica
 
