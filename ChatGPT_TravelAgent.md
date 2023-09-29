@@ -1,10 +1,20 @@
 # [ChatGPT — Travel Agent](https://chat.openai.com/)
 
-## Continents 
-
-### North America 🌎 
-
-#### United States of America 🇺🇸 
+# Continents
+## North America 🌎 
+### United States of America 🇺🇸 
+#### Alabama/Birmingham 
+#### Alabama/Huntsville 
+#### California/Los Angeles 
+#### California/Sacramento 
+#### California/San Diego 
+#### California/San Francisco 
+#### District of Columbia/Washington 
+#### Georgia/Atlanta
+#### Georgia/Savannah 
+#### Florida/Space Coast
+#### Florida/Miami 
+#### Florida/Orlando 
 
 ##### Hawaii[^15]
 
@@ -116,10 +126,46 @@
 
 [^15]: Technically, Hawaii does not sit on a continent; however, since Hawaii is the United States of America 50<sup>th</sup>, that's where I'm grouping it.
 
-##### Illinois/Chicago
-
-##### New York/New York City 
-
+#### Illinois/Chicago 
+#### Indiana/Indianapolis 
+#### Iowa/Cedar Rapids
+#### Iowa/Des Moines
+#### Kansas/Kansas City
+#### Kentucky/Bowling Green *([Chevrolet](https://www.chevrolet.com/) Corvette Manufacturing Plant)*
+#### Kentucky/Louisville 
+#### Kentucky/Memphis 
+#### Michigan/Detroit 
+#### Massachusetts/Boston
+#### Minnesota/Minneapolis 
+#### Missouri/St. Louis
+#### Nebraska/Omaha
+#### Ohio/Cincinnati 
+#### Ohio/Columbus 
+#### Ohio/Dayton 
+#### Philadelphia/Pittsburgh 
+#### Pennsylvania/Philadelphia 
+#### Louisiana/New Orleans 
+#### New York/New York City 
+#### North Carolina/Charlotte 
+#### North Carolina/Research Triangle
+#### North Carolina/Outer Banks
+#### South Carolina/Charleston 
+#### South Carolina/Columbia 
+#### South Carolina/Greenville-Spartanburg 
+#### Tennessee/Chattanooga
+#### ~~Tennessee/Gatlinburg~~[^47]
+[^47]: Too touristy. Myrtle Beach of the Smokies
+#### Tennessee/Memphis
+#### Tennessee/Knoxville 
+#### Texas/Austin 
+#### Texas/Dallas 
+#### Texas/Houston 
+#### Utah/Monument Valley *(Airwolf's Lair)*
+#### Utah/Zion National Park *(slot canyons)*
+#### Virginia/Chantilly 
+#### Virginia/Richmond 
+#### Virginia/Leesburg 
+ 
 ### South America 
 
 ### Europe 🇪🇺 
@@ -328,4 +374,3 @@
 ### Australia 🇦🇺/New Zealand 🇳🇿 
 
 ### Antarctica
-
