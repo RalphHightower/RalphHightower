@@ -6,7 +6,7 @@
 
 #### United States of America 🇺🇸 
 
-##### Hawaii[^81]
+##### Hawaii[^15]
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
 |----| 
@@ -114,7 +114,7 @@
 | *"Mahalo."* |
 | You're welcome! If you have any more questions or need further assistance in the future, feel free to reach out. Mahalo, and I hope you achieve your dream of owning a Chevrolet Corvette in Hawaii! |
 
-[^81]: Technically, Hawaii does not sit on a continent; however, since Hawaii is the United States of America 50<sup>th</sup>, that's where I'm grouping it.
+[^15]: Technically, Hawaii does not sit on a continent; however, since Hawaii is the United States of America 50<sup>th</sup>, that's where I'm grouping it.
 
 ##### Illinois/Chicago
 
