@@ -194,7 +194,7 @@
 |Certainly! Here are the Japanese phrases with phonetic pronunciation:| 
 | **1. Konnichiwa (こんにちは):** "Koh-nee-chee-wah" | 
 | **2. Arigatou gozaimasu (ありがとうございます):** "Ah-ree-gah-toh goh-zye-mahs"| 
-| **3. Sumimasen (すみません):** "Soo-mee-mah-sen"** | 
+| **3. Sumimasen (すみません):** "Soo-mee-mah-sen" | 
 | **4. Onegaishimasu (お願いします):** "Oh-neh-gah-ee-shee-mahs"| 
 | **5. Otsukaresama desu (お疲れ様です):** "Oht-soo-kah-reh-sah-mah des"| 
 | **6. Sayonara (さようなら): "Sah-yoh-nah-rah"** | 
