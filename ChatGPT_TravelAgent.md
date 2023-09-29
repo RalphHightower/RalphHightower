@@ -126,6 +126,8 @@
 
 ### Asia 🌏 
 
+#### Japan 
+
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
 |---|
 | *"Konnichiwa AI Assistant"* | 
