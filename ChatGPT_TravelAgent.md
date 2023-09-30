@@ -3,18 +3,34 @@
 # Continents
 ## North America 🌎 
 ### United States of America 🇺🇸 
-#### Alabama/Birmingham 
-#### Alabama/Huntsville 
-#### California/Los Angeles 
-#### California/Sacramento 
-#### California/San Diego 
-#### California/San Francisco 
+# Continents
+## North America 
+### United States of America 
+#### Alabama
+##### Birmingham 
+##### Huntsville
+#### Alaska
+#### Arkansas
+#### Arizona 
+#### California
+##### Los Angeles 
+##### Sacramento 
+##### San Diego 
+##### San Francisco  
+#### Colorado 
+#### Connecticut 
+#### Delaware 
 #### District of Columbia/Washington 
-#### Georgia/Atlanta
-#### Georgia/Savannah 
-#### Florida/Space Coast
-#### Florida/Miami 
-#### Florida/Orlando 
+#### Florida
+##### Everglades 
+##### Miami 
+##### Orlando 
+##### Space Coast
+##### Tampa 
+#### Georgia
+##### Athens 
+##### Atlanta
+##### Savannah 
 
 ##### Hawaii[^15]
 
@@ -147,47 +163,128 @@
 
 [^15]: Technically, Hawaii does not sit on a continent; however, since Hawaii is the United States of America 50<sup>th</sup>, that's where I'm grouping it.
 
-#### Illinois/Chicago 
-#### Indiana/Indianapolis 
-#### Iowa/Cedar Rapids
-#### Iowa/Des Moines
-#### Kansas/Kansas City
-#### Kentucky/Bowling Green *([Chevrolet](https://www.chevrolet.com/) Corvette Manufacturing Plant)*
-#### Kentucky/Louisville 
-#### Kentucky/Memphis 
-#### Michigan/Detroit 
-#### Massachusetts/Boston
-#### Minnesota/Minneapolis 
-#### Missouri/St. Louis
-#### Nebraska/Omaha
-#### Ohio/Cincinnati 
-#### Ohio/Columbus 
-#### Ohio/Dayton 
-#### Philadelphia/Pittsburgh 
-#### Pennsylvania/Philadelphia 
-#### Louisiana/New Orleans 
-#### Nevada/Valley of Fire
-#### New York/New York City 
-#### North Carolina/Charlotte 
-#### North Carolina/Research Triangle
-#### North Carolina/Outer Banks
-#### South Carolina/Charleston 
-#### South Carolina/Columbia 
-#### South Carolina/Greenville-Spartanburg 
-#### Tennessee/Chattanooga
+#### Idaho 
+#### Illinois
+##### Chicago 
+#### Indiana
+##### Indianapolis 
+#### Iowa
+##### Bettendorf 
+##### Cedar Rapids
+##### Davenport 
+##### Des Moines
+#### Kansas
+##### Kansas City
+#### Kentucky
+##### Bowling Green *([Chevrolet](https://www.chevrolet.com/) Corvette Manufacturing Plant)*
+##### Louisville 
+##### Memphis
+#### Louisiana 
+#### Maine
+#### Maryland 
+#### Massachusetts 
+#### Michigan
+##### Detroit 
+#### Massachusetts
+##### Boston
+#### Minnesota
+##### Minneapolis 
+#### Missippiil
+#### Missouri
+##### St. Louis
+#### Montana 
+#### Nebraska
+##### Omaha
+#### Nevada 
+#### New Hampshire 
+#### New Jersey
+#### New Mexico 
+#### New York
+##### New York 
+#### Louisiana 
+##### New Orleans 
+#### North Carolina
+##### Charlotte 
+##### Research Triangle
+##### Outer Banks
+#### North Dakota
+##### Fargo 
+#### Ohio
+##### Cincinnati 
+##### Columbus 
+##### Dayton
+#### Oklahoma
+#### Oregon 
+#### Pennsylvania
+##### Philadelphia
+##### Pittsburgh 
+#### Rhode Island 
+#### Louisiana
+#### South Carolina
+##### Charleston 
+##### Columbia 
+##### Greenville-Spartanburg 
+#### South Dakota 
+#### Tennessee
+#### Chattanooga
 #### ~~Tennessee/Gatlinburg~~[^47]
 [^47]: Too touristy. Myrtle Beach of the Smokies
-#### Tennessee/Memphis
-#### Tennessee/Knoxville 
-#### Texas/Austin 
-#### Texas/Dallas 
-#### Texas/Houston 
-#### Utah/Monument Valley *(Airwolf's Lair)*
-#### Utah/Zion National Park *(slot canyons)*
-#### Virginia/Chantilly 
-#### Virginia/Richmond 
-#### Virginia/Leesburg 
- 
+##### Memphis
+##### Knoxville 
+#### Texas
+##### Austin 
+##### Dallas 
+##### Houston
+#### Utah
+#### Vermont 
+#### Virginia
+##### Chantilly 
+##### Richmond 
+##### Leesburg
+#### Washington 
+#### West Virginia 
+#### Wisconsin 
+#### Wyoming 
+
+
+## South America 
+### Ecuador 🇩🇪 
+#### Galápogas Islands
+
+## Europe 🇪🇺 
+### Finland 🇫🇮 
+### Ireland 🇮🇪 
+### Italy 🇮🇹 
+### Finland 🇫🇮 
+### France 🇫🇷 
+#### Paris 
+### Germany 🇩🇪 
+### Netherlands 🇳🇱 
+### Norway 🇳🇴 
+### Scotland 
+### Spain 🇪🇸 
+### Sweden 🇸🇪 
+### Switzerland 🇨🇭 
+### United Kingdom 🇬🇧 
+#### London 
+
+## Asia
+### Japan 
+### South Korea 🇰🇷
+### Vietnam 🇻🇳 
+
+## Australia 🇦🇺 
+### Australian Capital Territory  
+### New South Wales 
+### Northern Territory 
+### Queensland 
+### South Australia 
+### Tasmania 
+### Victoria 
+### Western Australia 
+## New Zealand 🇳🇿 
+
+
 ### South America 
 
 ### Europe 🇪🇺 
