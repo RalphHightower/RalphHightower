@@ -19,6 +19,7 @@
 | [Private Property](https://www.privatepropertysc.com/ )[^18] | Cajun | Lexington |
 | [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/)[^15] | Pan Asian,  Sushi | Lexington |
 | [Grecian Gardens](http://www.greciangardenssc.com/) | Greek | West Columbia |
+| [Columbia's Greek Festival - Columbia, SC](https://columbiasgreekfestival.com/ )[^19] | Greek | 1931 Sumter Street<br />Columbia SC 29201<br>Thu-Sat 10a-10p<br />Sun 12p-6p|
 
 [^11]: I haven't been there, but I enjoy oysters, seafood, and steak.
 [^12]: Hamburgers are their specialty. They have fourteen different toppings for their burgers 
@@ -28,6 +29,7 @@
 [^16]: You don't go to a renowned steak house for fish or chicken.
 [^17]: Villa Tronco is the oldest Italian restaurant in South Carolina. Their restaurant provided "comfort food" for Italian-Americans Army recruits training at Camp Jackson during WW II.
 [^18]: I haven't eaten there yet, but I enjoy Cajun cuisine. 
+[^19]: Third Friday through third Sunday. Holy Trinity Greek Orthodox Church, Columbia, South Carolina 
 
 ## Charleston
 
