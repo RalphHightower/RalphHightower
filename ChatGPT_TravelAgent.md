@@ -2,10 +2,7 @@
 
 # Continents
 ## North America 🌎 
-### United States of America 🇺🇸 
-# Continents
-## North America 
-### United States of America 
+### United States of America 🇺🇸  
 #### Alabama
 ##### Birmingham 
 ##### Huntsville
@@ -221,9 +218,12 @@
 #### Rhode Island 
 #### Louisiana
 #### South Carolina
+##### Beaufort 
 ##### Charleston 
 ##### Columbia 
 ##### Greenville-Spartanburg 
+##### Hilton Head 
+##### Pawleys Island 
 #### South Dakota 
 #### Tennessee
 #### Chattanooga
@@ -245,7 +245,6 @@
 #### West Virginia 
 #### Wisconsin 
 #### Wyoming 
-
 
 ## South America 
 ### Ecuador 🇩🇪 
@@ -270,28 +269,6 @@
 
 ## Asia
 ### Japan 
-### South Korea 🇰🇷
-### Vietnam 🇻🇳 
-
-## Australia 🇦🇺 
-### Australian Capital Territory  
-### New South Wales 
-### Northern Territory 
-### Queensland 
-### South Australia 
-### Tasmania 
-### Victoria 
-### Western Australia 
-## New Zealand 🇳🇿 
-
-
-### South America 
-
-### Europe 🇪🇺 
-
-### Asia 🌏 
-
-#### Japan 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
 |---|
@@ -510,6 +487,22 @@
 | You're welcome! Arigatou gozaimasu for your kind words. If you have any more questions or need further assistance in the future, feel free to reach out. Enjoy planning your trip and your experiences in Japan! Have a great day! |
 | *"Sayonara."* |
 | Sayonara! If you ever return or need assistance again, don't hesitate to reach out. Safe travels, and goodbye for now! |
+
+### South Korea 🇰🇷
+### Vietnam 🇻🇳 
+
+## Australia 🇦🇺 
+### Australian Capital Territory  
+### New South Wales 
+### Northern Territory 
+### Queensland 
+### South Australia 
+### Tasmania 
+### Victoria 
+### Western Australia 
+## New Zealand 🇳🇿 
+
+### South America 
 
 ### Africa 🌍 
 
