@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) — North America 🌎 
+# [ChatGPT Travel Agent](https://chat.openai.com/) — North America 🌎 / United States of America 🇺🇸 
 ## United States of America 🇺🇸 
 ### United States of America 🇺🇸  
 #### Alabama
