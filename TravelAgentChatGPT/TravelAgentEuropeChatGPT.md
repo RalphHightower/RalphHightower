@@ -1,4 +1,4 @@
-# Europe 🇪🇺 
+# [ChatGPT Travel Agent](https://chat.openai.com/) — Europe 🇪🇺 
 ## Albania 🇦🇱 
 ## Andorra 🇦🇩 
 ## Armenia 🇦🇲 
