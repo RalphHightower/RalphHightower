@@ -1,4 +1,4 @@
-# South America 
+# [ChatGPT Travel Agent](https://chat.openai.com/) — South America 
 ## Argentina 🇦🇷 
 ## Bolivia 🇧🇴 
 ## Brazil 🇧🇷 
