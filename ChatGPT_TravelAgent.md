@@ -227,7 +227,7 @@
 #### South Dakota 
 #### Tennessee
 #### Chattanooga
-#### ~~Tennessee/Gatlinburg~~[^47]
+#### ~~Gatlinburg~~[^47]
 [^47]: Too touristy. Myrtle Beach of the Smokies
 ##### Memphis
 ##### Knoxville 
