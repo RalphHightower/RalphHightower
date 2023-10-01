@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) — North America
+# [ChatGPT Travel Agent](https://chat.openai.com/) — North America / Central America 
 ## Central America 
 ### Honduras 🇭🇳 
 ### Mexico 🇲🇽 
