@@ -1,4 +1,4 @@
-# North America 🌎 
+## [ChatGPT Travel Agent](https://chat.openai.com/) — North America 🌎 
 ## Canada 🇨🇦 
 ### Alberta 
 ### British Columbia 
