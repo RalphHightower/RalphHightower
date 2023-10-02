@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) — Africa 🌍 
+# [ChatGPT Travel Agent](https://chat.openai.com/) — Africa 🌍  
 ## Algeria 🇩🇿 
 ## Angola 🇦🇴 
 ## Benin 🇧🇯 
@@ -52,4 +52,4 @@
 ## Tunisia 🇹🇳 
 ## Uganda 🇺🇬 
 ## Zambia 🇿🇲 
-## Zimbabwe 🇿🇼 
+## Zimbabwe 🇿🇼 p
