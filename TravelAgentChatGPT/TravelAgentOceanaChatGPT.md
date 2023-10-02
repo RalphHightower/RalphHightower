@@ -1,11 +1,15 @@
 # [ChatGPT Travel Agent](https://chat.openai.com/) — Oceana 
 ## Australia 🇦🇺 
-## Marshall Islands 🇲🇭 
+## Fiji 🇫🇯 
+## Kiribati 🇰🇮 
+## Marshall Islands
 ## Micronesia 🇫🇲 
 ## Nauru 🇳🇷 
 ## New Zealand 🇳🇿 
 ## Palau 🇵🇼 
-## Papua New Guinea 🇵🇬 
-## Philippines 🇵🇭 
+## Papua New Guinea 🇵🇬
 ## Samoa 🇼🇸 
-## Solomon Islands 🇸🇧
+## Solomon Islands 🇸🇧 
+## Tonga 🇹🇴 
+## Tuvalu 🇹🇻 
+## Vanuatu 🇻🇺 
