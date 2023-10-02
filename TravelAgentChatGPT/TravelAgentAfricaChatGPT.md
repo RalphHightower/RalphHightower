@@ -1,18 +1,18 @@
 # [ChatGPT Travel Agent](https://chat.openai.com/) — Africa 🌍 
 ## Algeria 🇩🇿 
 ## Angola 🇦🇴 
-## Bahrain 🇧🇭 
 ## Benin 🇧🇯 
 ## Botswana 🇧🇼 
-## Burkina Faso 🇧🇫 
+## Burkina Faso 🇧🇫
 ## Burundi 🇧🇮 
-## Cabo Verde 
+## Cabo Verde
 ## Cameroon 🇨🇲 
-## Central African l Republic
+## Central African Republic
 ## Chad 🇹🇩 
 ## Comoros 🇰🇲 
-## Côte d’Ivoire
-## Democratic Republic of the Congo 🇨🇩 
+## Congo, Democratic Republic of the
+## Congo, Republic of the
+## Cote d'Ivoire
 ## Djibouti 🇩🇯 
 ## Egypt 🇪🇬 
 ## Equatorial Guinea 🇬🇶 
@@ -20,36 +20,26 @@
 ## Eswatini
 ## Ethiopia 🇪🇹 
 ## Gabon 🇬🇦 
+## Gambia 🇬🇲 
 ## Ghana 🇬🇭 
 ## Guinea 🇬🇳 
 ## Guinea-Bissau
-## Iran 🇮🇷 
-## Iraq 🇮🇶 
-## Israel 🇮🇱 
-## Jordan 🇯🇴 
 ## Kenya 🇰🇪 
-## Kuwait 🇰🇼 
-## Lebanon 🇱🇧 
-## Lesotho 🇱🇸
+## Lesotho 🇱🇸 
 ## Liberia 🇱🇷 
 ## Libya 🇱🇾 
 ## Madagascar 🇲🇬 
 ## Malawi 🇲🇼 
 ## Mali 🇲🇱 
-## Morocco 🇲🇦 
 ## Mauritania 🇲🇷 
 ## Mauritius 🇲🇺 
+## Morocco 🇲🇦 
 ## Mozambique 🇲🇿 
 ## Namibia 🇳🇦 
 ## Niger 🇳🇪 
 ## Nigeria 🇳🇬 
-## Oman 🇴🇲 
-## Palestinian Territories
-## Qatar 🇶🇦 
-## Republic of the Congo 🇨🇩 
-## Rwanda 🇷🇼 
+## Rwanda
 ## Sao Tome and Principe
-## Saudi Arabia 🇸🇦 
 ## Senegal 🇸🇳 
 ## Seychelles
 ## Sierra Leone 🇸🇱 
@@ -57,11 +47,9 @@
 ## South Africa 🇿🇦 
 ## South Sudan 🇸🇸 
 ## Sudan 🇸🇩 
-## Syria 🇸🇾 
 ## Tanzania 🇹🇿 
-## Tunisia 🇹🇳 
 ## Togo 🇹🇬 
+## Tunisia 🇹🇳 
 ## Uganda 🇺🇬 
-## United Arab Emirates
-## Yemen 🇾🇪
-## Zambia 🇿🇲
+## Zambia 🇿🇲 
+## Zimbabwe 🇿🇼 
