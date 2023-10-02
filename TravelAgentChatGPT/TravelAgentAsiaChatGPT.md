@@ -1,9 +1,21 @@
 # [ChatGPT Travel Agent](https://chat.openai.com/) — Asia 🌏 
+# Asia 🌏 
 ## Afghanistan 🇦🇫 
+## Armenia 🇦🇲 
+## Azerbaijan 🇦🇿 
+## Bahrain 🇧🇭 
 ## Bangladesh 🇧🇩 
 ## Bhutan 🇧🇹 
+## Brunei 🇧🇳 
+## Cambodia 🇰🇭 
+## China 🇨🇳 
+## Cyprus 🇨🇾 
+## Georgia 🇬🇪 
 ## India 🇮🇳 
-
+## Indonesia 🇮🇩 
+## Iran 🇮🇷 
+## Iraq 🇮🇶 
+## Israel 🇮🇱 
 ## Japan 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
@@ -201,25 +213,35 @@
 |Sayonara.|
 |Sayonara! If you ever return or have more questions, feel free to reach out. Have a wonderful day and goodbye for now!|
 
+## Jordan 🇯🇴 
 ## Kazakhstan 🇰🇿 
+## Kuwait 🇰🇼 
 ## Kyrgyzstan 🇰🇬 
+## Laos 🇱🇦 
+## Lebanon 🇱🇧 
+## Malaysia 🇲🇾 
 ## Maldives 🇲🇻 
 ## Mongolia 🇲🇳 
+## Myanmar 🇲🇲 
 ## Nepal 🇳🇵 
 ## North Korea
+## Oman 🇴🇲 
 ## Pakistan 🇵🇰 
+## Palestine 🇵🇸 
+## Philippines 🇵🇭 
+## Qatar 🇶🇦 
 ## Russia 🇷🇺 
+## Saudi Arabia 🇸🇦
 ## Singapore 🇸🇬 
-## South Korea 🇰🇷 
-## Sri Lanka 🇱🇰 
-## Tajikistan and Taiwan 🇹🇼 
+## South Korea
+## Sri Lanka
+## Syiwan 🇹🇼
+## Tajikistan 🇹🇯 
 ## Thailand 🇹🇭 
 ## Timor-Leste
-## Tonga 🇹🇴 
 ## Turkey 🇹🇷 
-## Tuvalu 🇹🇻 
 ## Turkmenistan 🇹🇲 
-## Ukraine 🇺🇦 
+## United Arab Emirates (UAE)
 ## Uzbekistan 🇺🇿 
-## Vanuatu 🇻🇺 
-## Vietnam
+## Vietnam 🇻🇳 
+## Yemen 🇾🇪 
