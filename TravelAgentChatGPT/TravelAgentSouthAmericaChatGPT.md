@@ -5,8 +5,12 @@
 ## Chile 🇨🇱 
 ## Colombia 🇨🇴 
 ## Ecuador 🇪🇨 
-## Guatemala 🇬🇹 
+## Falkland Islands (UK) 🇫🇰 
+## French Guiana 🇬🇫 (France)
+## Guyana 🇬🇾 
 ## Paraguay 🇵🇾 
 ## Peru 🇵🇪 
+## South and the South Sandwich Islands (UK)
+## Suriname 🇸🇷 
 ## Uruguay 🇺🇾 
 ## Venezuela 🇻🇪 
