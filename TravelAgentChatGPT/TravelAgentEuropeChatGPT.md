@@ -10,7 +10,7 @@
 ## Bulgaria 🇧🇬 
 ## Croatia 🇭🇷 
 ## Cyprus 🇨🇾 
-## Czechia
+## Czechia 
 ## Denmark 🇩🇰 
 ## Estonia 🇪🇪 
 ## Finland 🇫🇮 
@@ -18,12 +18,12 @@
 ## Georgia 🇬🇪 
 ## Germany 🇩🇪 
 ## Greece 🇬🇷 
-## Greenland 🇬🇱 
-## Holy See 🇻🇦 
+## Greenland 🇬🇱 (Denmark)
 ## Hungary 🇭🇺 
 ## Iceland 🇮🇸 
 ## Ireland 🇮🇪 
 ## Italy 🇮🇹 
+## Kazakhstan 🇰🇿 
 ## Kosovo 🇽🇰 
 ## Latvia 🇱🇻 
 ## Liechtenstein 🇱🇮 
@@ -36,6 +36,7 @@
 ## Netherlands 🇳🇱 
 ## North Macedonia 🇲🇰 
 ## Norway 🇳🇴 
+## Poland 🇵🇱 
 ## Portugal 🇵🇹 
 ## Romania 🇷🇴 
 ## San Marino 🇸🇲 
@@ -45,4 +46,7 @@
 ## Spain 🇪🇸 
 ## Sweden 🇸🇪 
 ## Switzerland 🇨🇭 
-## United Kingdom 🇬🇧 
+## Turkey 🇹🇷 
+## Ukraine 🇺🇦 
+## United Kingdom (UK) 🇬🇧 
+## Vatican City (Holy See) 🇻🇦
