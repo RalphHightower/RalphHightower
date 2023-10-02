@@ -1,33 +1,33 @@
 # [ChatGPT Travel Agent](https://chat.openai.com/) — North America 🌎 / United States of America 🇺🇸 
-## North America 🇺🇸 
-### United States of America 🇺🇸  
-#### Alabama
-##### Birmingham 
-##### Huntsville
-#### Alaska
-#### Arkansas
-#### Arizona 
-#### California
-##### Los Angeles 
-##### Sacramento 
-##### San Diego 
-##### San Francisco  
-#### Colorado 
-#### Connecticut 
-#### Delaware 
-#### District of Columbia
-##### Washington 
-#### Florida
-##### Everglades 
-##### Miami 
-##### Orlando 
-##### Space Coast
-##### Tampa 
-#### Georgia
-##### Athens 
-##### Atlanta
-##### Savannah 
-##### Hawaii[^15]
+# North America
+## United States of America 🇺🇸  
+### Alabama
+#### Birmingham 
+#### Huntsville
+### Alaska
+### Arkansas
+### Arizona 
+### California
+#### Los Angeles 
+#### Sacramento 
+#### San Diego 
+#### San Francisco  
+### Colorado 
+### Connecticut 
+### Delaware 
+### District of Columbia
+#### Washington 
+### Florida
+#### Everglades 
+#### Miami 
+#### Orlando 
+#### Space Coast
+#### Tampa 
+### Georgia
+#### Athens 
+#### Atlanta
+#### Savannah 
+### Hawaii[^15]
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
 |----| 
@@ -170,88 +170,86 @@
 
 [^15]: Technically, Hawaii does not sit on a continent; however, since Hawaii is the United States of America 50<sup>th</sup>, that's where I'm grouping it.
 
-#### Idaho 
-#### Illinois
-##### Chicago 
-#### Indiana
-##### Indianapolis 
-#### Iowa
-##### Bettendorf 
-##### Cedar Rapids
-##### Davenport 
-##### Des Moines
-#### Kansas
-##### Kansas City
-#### Kentucky
-##### Bowling Green *([Chevrolet](https://www.chevrolet.com/) Corvette Manufacturing Plant)*
-##### Louisville 
-##### Memphis
-#### Louisiana 
-#### Maine
-#### Maryland 
-#### Massachusetts 
-#### Michigan
-##### Detroit 
-#### Massachusetts
-##### Boston
-#### Minnesota
-##### Minneapolis 
-#### Missippii
-#### Missouri
-##### St. Louis
-#### Montana 
-#### Nebraska
-##### Omaha
-#### Nevada 
-#### New Hampshire 
-#### New Jersey
-#### New Mexico 
-#### New York
-##### New York 
-#### Louisiana 
-##### New Orleans 
-#### North Carolina
-##### Charlotte 
-##### Research Triangle
-##### Outer Banks
-#### North Dakota
-##### Fargo 
-#### Ohio
-##### Cincinnati 
-##### Columbus 
-##### Dayton
-#### Oklahoma
-#### Oregon 
-#### Pennsylvania
-##### Philadelphia
-##### Pittsburgh 
-#### Rhode Island 
-#### Louisiana
-#### South Carolina
-##### Beaufort 
-##### Charleston 
-##### Columbia 
-##### Greenville-Spartanburg 
-##### Hilton Head 
-##### Pawleys Island 
-#### South Dakota 
-#### Tennessee
-##### Chattanooga
-##### ~~Gatlinburg~~[^47]
+### Idaho 
+### Illinois
+#### Chicago 
+### Indiana
+#### Indianapolis 
+### Iowa
+#### Bettendorf 
+#### Cedar Rapids
+#### Davenport 
+#### Des Moines
+### Kansas
+#### Kansas City
+### Kentucky
+#### Bowling Green *([Chevrolet](https://www.chevrolet.com/) Corvette Manufacturing Plant)*
+#### Louisville 
+#### Memphis
+### Louisiana 
+#### New Orleans 
+### Maine
+### Maryland 
+### Massachusetts 
+### Michigan
+#### Detroit 
+### Massachusetts
+#### Boston
+### Minnesota
+#### Minneapolis 
+### Missippi
+### Missouri
+#### St. Louis
+### Montana 
+### Nebraska
+#### Omaha
+### Nevada 
+### New Hampshire 
+### New Jersey
+### New Mexico 
+### New York
+#### New York City 
+### North Carolina
+#### Charlotte 
+#### Research Triangle
+#### Outer Banks
+### North Dakota
+#### Fargo 
+### Ohio
+#### Cincinnati 
+#### Columbus 
+#### Dayton
+### Oklahoma
+### Oregon 
+### Pennsylvania
+#### Philadelphia
+#### Pittsburgh 
+### Rhode Island 
+### South Carolina
+#### Beaufort 
+#### Charleston 
+#### Columbia 
+#### Greenville-Spartanburg 
+#### Hilton Head 
+#### Pawleys Island 
+### South Dakota 
+### Tennessee
+#### Chattanooga
+#### ~~Gatlinburg~~[^47]
 [^47]: Too touristy. Myrtle Beach of the Smokies
-##### Memphis
-##### Knoxville 
-#### Texas
-##### Austin 
-##### Dallas 
-##### Houston
-#### Utah
-#### Vermont 
-#### Virginia
-##### Chantilly 
-##### Richmond 
-##### Leesburg
-#### Washington 
-#### West Virginia 
-#### Wisconsin 
-#### Wyoming 
+#### Memphis
+#### Knoxville 
+### Texas
+#### Austin 
+#### Dallas 
+#### Houston
+### Utah
+### Vermont 
+### Virginia
+#### Chantilly 
+#### Richmond 
+#### Leesburg
+### Washington 
+### West Virginia 
+### Wisconsin 
+### Wyoming 
