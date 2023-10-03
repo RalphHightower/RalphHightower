@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) — Caribbean 
+# [ChatGPT Travel Agent](https://chat.openai.com/) — North America / Caribbean 
 
 # North America
 ## Caribbean 
