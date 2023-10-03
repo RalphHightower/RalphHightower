@@ -43,7 +43,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 
 ## Bucket Lists
 
-I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
+I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person on my bucket list. After that was checked ✔️ off, I thought "What's next?", so I added more items.
 
 I also have different categories of bucket lists. 
 
