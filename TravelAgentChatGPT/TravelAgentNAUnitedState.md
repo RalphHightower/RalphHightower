@@ -187,6 +187,8 @@
 #### Louisville 
 #### Memphis
 ### Louisiana 
+#### Avery Island[^22045]
+[^22045]: Home of McIlhenny Company [Tabasco Sauce](https://www.tabasco.com)
 #### New Orleans 
 ### Maine
 ### Maryland 
