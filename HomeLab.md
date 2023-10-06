@@ -7,6 +7,9 @@
 | **[Unlocking High-Precision RTK Positioning - News - SparkFun Electronics](https://www.sparkfun.com/news/7401?_hsmi=264570328&_hsenc=p2ANqtz-8mYIMo-lyv0BAtJ14bPLj3KM60o_HLHbWEZhXF64wzJNd_GCy1LNde85sFDGAJWSWVg0qV7ZQ_o-tRI9-ZTcznsNjOQ7RGcXejfYVnLAN8t1dX3lg& )** | NTP/NTRIP Server | 
 | [Atomic Clocks and Oscillators - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/atomic-clocks-and-oscillators/ ) | PTP |
 | [GPS NTP Servers - Network Time Servers - Timing & Sync - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/timing-and-synchronization/ ) | PTP 
+| [Wazuh Open Source SIEM: XDR for Enterprise and Home Lab - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/wazuh-open-source-siem-xdr-for-enterprise-and-home-lab/ )[^11]  | Security Platform |
+
+[^11]: Wazuh operates as a security platform, offering both Extended Detection and open-source unified XDR and Security Information and Event Management (SIEM) functionalities for log data analysis. It is designed to protect endpoints as well as cloud workloads.
 
 ## Articles
 
