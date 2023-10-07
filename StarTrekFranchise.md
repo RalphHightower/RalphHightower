@@ -1,6 +1,6 @@
-# [Star Trek](https://www.startrek.com/) Franchise 
+# [Star Trek Franchise](https://www.startrek.com/)  
 
-## [Star Trek](https://www.startrek.com/) Series 
+## [Star Trek Series](https://www.startrek.com/)
 
 | [Star Trek](https://www.startrek.com/) Series | Years | Captain |
 |----|----|----|
@@ -31,7 +31,7 @@
 [^28]: [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ )
 [^40]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
-## [Star Trek](https://www.startrek.com/) Movies
+## [Star Trek Movies](https://www.startrek.com/)
 
 | Title | Year | Cast |
 |-------|------|------|
@@ -53,6 +53,13 @@
 [^31]: [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh)
 [^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
 [^33]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
+
+## Articles 
+
+| Star Trek Articles |
+|---|
+| [Letting Jonathan Frakes Direct Star Trek Came Back To Bite The Show's Producer](https://www.slashfilm.com/820701/reasons-why-the-next-generation-is-the-best-star-trek-show/ ) |
+| [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/#star-trek-discovery-season-1-amp-2 ) |
 
 ## Star Trek Food Recipes 
 
@@ -121,7 +128,7 @@
 | *"Goodbye."* |
 |Goodbye! If you have any more questions in the future, don't hesitate to ask. Live long and prosper!|
 
-## [ChatGPT] Haikus — Star Trek 
+## ChatGPT](https://chat.openai.com/) Haikus — Star Trek 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
@@ -177,7 +184,6 @@
 |Darkness tempts within,<br />Friendship's test, secrets revealed,<br />Light prevails, hope shines.|
 | **Beyond:** |
 |Crew lost, unity,<br />Frontiers met with newfound friends,<br />Unity restores.|
-||
 |I hope you enjoy these Haiku verses inspired by the Star Trek movies! Let me know if there's anything else I can assist you with.|
 | *"Excellent! Thank you."* |
 |You're very welcome! I'm glad you liked the Star Trek movie Haiku verses. If you have any more questions or need further assistance, feel free to ask. Live long and prosper!|
