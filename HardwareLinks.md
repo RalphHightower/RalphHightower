@@ -67,7 +67,7 @@
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [TS2 10W Diode Laser Engraver - TwoTrees](https://www.twotrees3dofficial.com/products/laser-engraver-ts2) | (H/W) $759 |
 | **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br />**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
-| **[Firefly – ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB** 
+| **[Firefly – ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB** |
 | **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
 | [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W) |
 | [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W) |
