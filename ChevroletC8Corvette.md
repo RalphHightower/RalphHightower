@@ -30,6 +30,7 @@
 | [FIRST TO TAKE DELIVERY OF A $185,000 C8 CORVETTE Z06!](https://youtube.com/watch?v=adYgvfv_CbE&feature=share ) | Speed Phenom |
 | [Watch "What We Learned After Testing a Chevy C8 Corvette Over 40,000 Miles / Car and Driver" on YouTube](https://youtu.be/u7YfAlDYMVE ) | Car and Driver |
 | [Watch "How MUCH was my C8 CORVETTE?  Insurance Cost SHOCKED / Total Cost / Monthly Payment" on YouTube](https://youtu.be/w9sGMzZ5MPw ) | Jump Squad Auto |
+| [2025 C8 ZR1 to be an AWD 830HP Hybrid BEAST?](https://youtube.com/live/kavgumiyURs?si=PdXLFFvk0trUVHmy ) | Brink Of Speed |
 
 ## Articles 
 
