@@ -11,6 +11,9 @@
 | [Resource naming and tagging decision guide - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide )|
 |  [Define your tagging strategy - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-tagging ) |
 | [Management groups - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-management-groups ) |
+| [Azure Academy](https://youtube.com/@AzureAcademy )
+[Tools and templates - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready ) |
+| [Azure documentation / Microsoft Learn](https://learn.microsoft.com/en-us/azure/ ) |
 
 ### Interfaces
 
