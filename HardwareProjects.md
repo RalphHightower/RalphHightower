@@ -87,6 +87,8 @@ Expansion options
 | TuringPi Documentation |
 |---|
 | [Welcome – Turing Machines](https://help.turingpi.com/hc/en-us/articles/8685707578013-Welcome ) |
+| [Turing RK1 - compute module based on Rockchip RK3588](https://turingpi.com/product/turing-rk1/ ) |
+| [Turing RK1 RK3588 system-on-module for cluster boards is now available (for pre-order) - CNX Software](https://www.cnx-software.com/2023/07/28/turing-rk1-rk3588-system-on-module-for-cluster-boards/ ) |
 
 ## [NVIDIA Jetson AI Articles]()
 
@@ -96,7 +98,7 @@ Expansion options
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
 
-## Firefly Products 
+## [Firefly / Make technology more simple , Make life more intellingent.](https://en.t-firefly.com/ )
 
 | Firefly Products | Price |
 |----|---|
@@ -125,6 +127,13 @@ Expansion options
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 | [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
+### Raspberry Pi 5
+
+| Raspberry Pi 5 Articles |
+|---|
+| [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
+| [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
+
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards)
 
 | VisionFive2 | CPU | RAM | SSD (M.2 M Key) |
@@ -148,7 +157,8 @@ Expansion options
 
 | Documentation |
 |-----|
-| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |
+| [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |. M###
+
 
 ### [Raspberry Pi4 8GB](https://www.raspberrypi.com/) \| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)**
 
