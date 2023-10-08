@@ -10,3 +10,7 @@
 | Canon RF 100mm f/2.8 L |
 
 [^11]: [The Best Lenses for Canon's RF Mount / PetaPixel](https://petapixel.com/best-canon-rf-lenses/ )
+
+| Canon RF Lenses Articles |
+|---|
+| [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
