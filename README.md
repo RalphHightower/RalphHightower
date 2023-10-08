@@ -206,6 +206,10 @@ On [July 8, 2011, I was able to check off a 30 year old bucket list item: witnes
 
 Watching the Space Shuttle land on television, the twin sonic booms sound like a muffled *boom.boom.* In person, the twin sonic booms that Space Shuttles announce that they are returning home is loud, sharp, and crisp: **BANG! BANG!**
 
+### NASA Spaceflight Replicas
+
+[CONCORD AEROSPACE / FULLY OPERABLE SPACECRAFT PANELS – Concord Aerospace](https://www.concordaerospace.com/ ) 
+
 ## Personal Projects 
 
 Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC-V ecosystem.
