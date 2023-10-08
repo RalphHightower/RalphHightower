@@ -32,34 +32,7 @@
 | [Introduction to GitOps - CodeProject](https://www.codeproject.com/Articles/5334970/Introduction-to-GitOps ) |
 | [GitOps with Terraform and GitHub - CodeProject](https://www.codeproject.com/Articles/5334971/GitOps-with-Terraform-and-GitHub ) |
 | [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
-
-#### [10 Unexpected Challenges Software Developers Face in Their Careers / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/10-unexpected-challenges-software-developers-face-in-their-careers-3f4533d1b1c3 )
-
-| *"RalphHightower"* / [ChatGPT](https://chat.open.ai/) |
-|----|
-| *"Good morning, Assistant."* |
-|Good morning! How can I assist you today? |
-| *"I am reading an article about ten challenges to software development, and the challenges echoed with me : “But That’s Not in the Requirements!” — Shifting Goalposts and “Can We Add Just One More Thing?” — The Feature Creep Phenomenon. Those two challenges were the reason why the project failed. I compare those two problems to "Trying to nail Jello to a wall. Could you create five haiku verses about software development challenges, include references to those three challenges?"* |
-|Certainly! Here are five haiku verses about software development challenges, incorporating references to the challenges of "But That's Not in the Requirements!", "Can We Add Just One More Thing?", and "Trying to Nail Jello to a Wall":|
-|Ever-shifting goals,<br />Jello eludes the nail's touch,<br />Requirements dance.|
-|Feature list expands,<br />Creeping vines devour scope,<br />Chaos in its wake.|
-|Jello's slippery,<br />Hidden needs breed confusion,<br />Goalposts on the move.|
-|Whispers of one more,<br />Siren calls disrupt the flow,<br þ>Focus fades away.|
-|Software's canvas,<br />Jello molded, warped, and stretched,<br />Tame the shifting beast.|
-|I hope these haiku verses capture the essence of the challenges you mentioned in an artistic manner!|
-| *"Thank you. Those haiku represent the developer's challenges."* |
-| You're welcome! I'm glad the haiku resonated with the challenges faced by developers. Software development can indeed be a complex and ever-evolving process, filled with various obstacles along the way. If you have any more questions or if there's anything else I can assist you with, please feel free to let me know.|
-| *"Cheers."* |
-|Cheers! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
-
-## Career/Job Search Advice/Interview Questions 
-
-| Career/Job Search/Interview Preparation |
-|----|
-|[20 (Easy) C# Interview Questions and Answers (2023) Part 1 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions? )|
-|[20 C# Interview Questions (for Freshers) 2023 Part 2 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
-|[20 (Intermediate-Level) C# Interview Questions Part 3 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ ) |
-|[20 C# Interview Questions (for Experienced) 2023 Part 4 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
+| [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 
 ## Kubernetes 
 
@@ -116,7 +89,7 @@
 
 | [RISC-V](https://riscv.org/) |
 |----|
-||
+| [Posts · Daniel Mangum –> RISC-V Topics](https://danielmangum.com/posts/ ) |
 
 ## SPARC
 
@@ -137,3 +110,34 @@
 | Security Article |
 |---|
 |   |
+
+## Software Development 
+
+### [10 Unexpected Challenges Software Developers Face in Their Careers / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/10-unexpected-challenges-software-developers-face-in-their-careers-3f4533d1b1c3 )
+
+| *"RalphHightower"* / [ChatGPT](https://chat.open.ai/) |
+|----|
+| *"Good morning, Assistant."* |
+|Good morning! How can I assist you today? |
+| *"I am reading an article about ten challenges to software development, and the challenges echoed with me : “But That’s Not in the Requirements!” — Shifting Goalposts and “Can We Add Just One More Thing?” — The Feature Creep Phenomenon. Those two challenges were the reason why the project failed. I compare those two problems to "Trying to nail Jello to a wall. Could you create five haiku verses about software development challenges, include references to those three challenges?"* |
+|Certainly! Here are five haiku verses about software development challenges, incorporating references to the challenges of "But That's Not in the Requirements!", "Can We Add Just One More Thing?", and "Trying to Nail Jello to a Wall":|
+|Ever-shifting goals,<br />Jello eludes the nail's touch,<br />Requirements dance.|
+|Feature list expands,<br />Creeping vines devour scope,<br />Chaos in its wake.|
+|Jello's slippery,<br />Hidden needs breed confusion,<br />Goalposts on the move.|
+|Whispers of one more,<br />Siren calls disrupt the flow,<br þ>Focus fades away.|
+|Software's canvas,<br />Jello molded, warped, and stretched,<br />Tame the shifting beast.|
+|I hope these haiku verses capture the essence of the challenges you mentioned in an artistic manner!|
+| *"Thank you. Those haiku represent the developer's challenges."* |
+| You're welcome! I'm glad the haiku resonated with the challenges faced by developers. Software development can indeed be a complex and ever-evolving process, filled with various obstacles along the way. If you have any more questions or if there's anything else I can assist you with, please feel free to let me know.|
+| *"Cheers."* |
+|Cheers! If you have any more questions in the future, don't hesitate to ask. Have a great day!|
+
+### Career/Job Search Advice/Interview Questions 
+
+| Career/Job Search/Interview Preparation |
+|----|
+|[20 (Easy) C# Interview Questions and Answers (2023) Part 1 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions? )|
+|[20 C# Interview Questions (for Freshers) 2023 Part 2 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
+|[20 (Intermediate-Level) C# Interview Questions Part 3 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ ) |
+|[20 C# Interview Questions (for Experienced) 2023 Part 4 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
+
