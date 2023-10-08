@@ -47,7 +47,8 @@ I have not decided on which home automation system that I want to deploy, but my
 
 ### Articles 
 
-OpenHab
+| OpenHab |
+|---|
 | [openHAB 4.0 Release / openHAB](https://www.openhab.org/blog/2023-07-23-openhab-4-0-release.html ) | Release |
 | [openHAB](https://github.com/openhab ) | GitHub |
 
