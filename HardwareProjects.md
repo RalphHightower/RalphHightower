@@ -82,7 +82,7 @@ Expansion options
 | **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
 | **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
 
-## TuringPi Documentation 
+### TuringPi Documentation 
 
 | TuringPi Documentation |
 |---|
@@ -90,7 +90,7 @@ Expansion options
 | [Turing RK1 - compute module based on Rockchip RK3588](https://turingpi.com/product/turing-rk1/ ) |
 | [Turing RK1 RK3588 system-on-module for cluster boards is now available (for pre-order) - CNX Software](https://www.cnx-software.com/2023/07/28/turing-rk1-rk3588-system-on-module-for-cluster-boards/ ) |
 
-## [NVIDIA Jetson AI Articles]()
+### [NVIDIA Jetson AI Articles]()
 
 | [NVIDIA AI Articles]() |
 |----|
@@ -98,7 +98,7 @@ Expansion options
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
 
-## [Firefly / Make technology more simple , Make life more intellingent.](https://en.t-firefly.com/ )
+### [Firefly / Make technology more simple , Make life more intellingent.](https://en.t-firefly.com/ )
 
 | Firefly Products | Price |
 |----|---|
