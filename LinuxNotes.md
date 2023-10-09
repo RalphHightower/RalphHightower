@@ -38,6 +38,12 @@
 | [The Linux Kernel documentation — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/ ) |
 |[Filesystems in the Linux kernel — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/index.html ) |
 
+## Linux Articles
+
+| Linux Articles |
+|---|
+| [CBL-Mariner: Azure Linux Distribution Now Generally Available](https://www.infoq.com/news/2023/06/azure-linux-cbl-mariner/ ) |
+
 ## Linux History, Trivia 
 
 | Linux History/Trivia |
