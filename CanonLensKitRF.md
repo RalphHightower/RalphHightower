@@ -14,3 +14,4 @@
 | Canon RF Lenses Articles |
 |---|
 | [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
+| [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
