@@ -45,6 +45,7 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 [Even 200+ Years in the Future, Captain Pike Is Still a Proud Fan of Lodge Cast Ironj
 ](https://www.foodandwine.com/star-trek-strange-new-worlds-kitchen-products-7580272 )
 <br />
+
 ## Barbecue Dry Rub
 
 | Barbecue Dry Rub |
@@ -60,6 +61,7 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 |1 tablespoons ground white pepper|
 |1-2 teaspoons cayenne pepper|
 |For ribs: 1 teaspoon ground cloves|
+
 <br />
 
 | Food Recipes|
