@@ -70,7 +70,8 @@
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [Arm Software](https://github.com/ARM-software ) ||
-| [Armbian](https://github.com/armbian) | Linux for single board computers |
+| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) |
+| [Armbian](https://github.com/armbian) | Linux for single board computers ||
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | The Berkeley Out-of-Order RISC-V Processor |
@@ -104,6 +105,7 @@
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel) | Intel |
+| [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
@@ -119,6 +121,7 @@
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
+| [Octokit](https://github.com/octokit ) |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
@@ -167,6 +170,16 @@
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
+| **GitHub** | 
+|----| 
+| [Explore](https://github.com/explore) | 
+| [Topics](https://github.com/topics) | 
+| [Trending](https://github.com/trending) | 
+| [Collections](https://github.com/collections) | 
+| [Events](https://github.com/events) | 
+| [About code owners - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners ) |
+| [GitHub Stars: inspire, educate & influence developer communities](https://stars.github.com/ ) |
+
 # [Microsoft](https://www.microsoft.com/)
 
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
@@ -180,9 +193,11 @@
 
 # Software 
 
-[Open Source Projects](FavOpenSourceProjects.md)
-
-[Useful Software / Utilities](Software.md)
+| Software |
+|---|
+| [Open Source Projects](FavOpenSourceProjects.md) |
+| [Useful Software / Utilities](Software.md)
+| [A professional collaborative platform for embedded development · PlatformIO](https://platformio.org/ ) |
 
 ## [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
