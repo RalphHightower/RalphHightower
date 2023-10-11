@@ -18,7 +18,7 @@ Enterprise-Grade Open-Source Network Management |
 | [jwhois](https://github.com/jonasob/jwhois) (GitHub) | improved, configurable jwhois client |
 | [Security Hardened NTP Server](https://gitlab.com/NTPsec) ||
 | [Tesseract](https://github.com/tesseract-ocr) | Optical Character Recognition ||
-| [Open SS7](http://www.openss7.org/)[^1] | Telephone network and next generation network Signalling System No. 7 (SS7)and Signalling Transport (SIGTRAN) protocol stack ||
+| [Open SS7](http://www.openss7.org/)[^11] | Telephone network and next generation network Signalling System No. 7 (SS7)and Signalling Transport (SIGTRAN) protocol stack ||
 | [ASCL.net](http://ascl.net/) | The Astrophysics Source Code Library (ASCL) is a free online registry for source codes of interest to astronomers and astrophysicists, including solar system astronomers, and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications. The ASCL is indexed by the SAO/NASA Astrophysics Data System (ADS) and Web of Science and is citable by using the unique ascl ID assigned to each code. The ascl ID can be used to link to the code entry by prefacing the number with ascl.net (i.e., ascl.net/1201.001). ||
 | [esphome / esphome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | Home Automation |
 | [jacobjhansen / RTCM-Pi](https://github.com/jacobjhansen/RTCM-Pi) | GNSS Base Station based on Raspberry Pi 4B | GNSS/GPS |
@@ -41,5 +41,6 @@ Enterprise-Grade Open-Source Network Management |
 | [tenable / pi_sniffer](https://github.com/tenable/pi_sniffer) | The pocket-sized wireless sniffer |security |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins<br />Jobbr is a .NET job server. It is designed to reduce artifical complexity when a job server is needed in a project. Jobbr tries to get out of your way as much as possible so that you can focus on business logic. Job implementations have no deppendency to Jobbr which makes it easy to integrate Jobbr in any .NET project.|
 | [Jobbr Documentation](https://jobbr.readthedocs.io/en/latest/index.html) | Documentation: Jobbr |
+| [newrelic/newrelic-dotnet-agent: The New Relic .NET language agent.](https://github.com/newrelic/newrelic-dotnet-agent ) | New Relic's .NET agent monitors your .NET app, giving you an end-to-end view of your app's performance. It works with all .NET compatible languages, such as C#, VB.NET and CLI. | Monitor |
 
-[^1]: Dead project
+[^11]: Dead project

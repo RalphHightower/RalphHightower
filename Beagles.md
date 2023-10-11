@@ -106,3 +106,15 @@ I start writing obituaries for our Beagles with Sweetheart.
 |That's truly wonderful to hear! Beagles have a special way of bringing joy, companionship, and love to their owners' lives. It's incredible that you've had the pleasure of experiencing their wonderful presence for such a long time. Their loyalty and playful nature make them cherished family members for many people. If you have any more stories or questions about Beagles or anything else, feel free to share. I'm here to listen and assist you!| 
 | *"Thank you. Goodbye."* |
 |You're welcome! If you have any more questions in the future, don't hesitate to ask. Goodbye and have a great day!|
+
+## Beagle Stories
+
+### Becky
+
+Yesterday was the seventeenth anniversary of the passing away of Ch. Sureluv's Little Rebecca CD. Becky was our second show Beagle. She had some recent problems so we took her to the vet. Later the veterinarian said her prognosis was not that great. Friday night, Paula Hightower and I decided to end her suffering. She passed away that night. Becky was two months shy of crossing eighteen.
+Some funny moments from Becky's life:
+1) Becky was just a pup when we brought a watermelon home from the grocery store and laid it on the kitchen floor. Becky saw this big green monster and started barking at it.
+2) Becky qualified for her CD obedience title. However, there was a runoff for high scoring hound with a Borzoi. Becky sat and watched Paula do the runoff.
+3) Becky believed in exercise. While she could not run in her later years, she would walk along the fence every day. Acupuncture and herbal medicine helped her keep her mobility.
+
+Becky gave birth to two sons, Trucker and Traveler. The origins of their names is another story.

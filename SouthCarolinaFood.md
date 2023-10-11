@@ -1,27 +1,35 @@
 # South Carolina Food 
 
-## Columbia 
+## Columbia Area
 
 | Restaurant | Cuisine | City |
 |----|----|-----|
-| [Blue Marlin](http://www.bluemarlincolumbia.com/)[^11] | Seafood | Columbia |
-| [Camon Japanese Restaurant & Sushi Bar](https://camonsushi.wordpress.com/)[^12] | Sushi/Japanese | Columbia |
-| [California Dreaming](https://californiadreaming.rest/location/Columbia-SC/) | Seafood, Steak, Chicken | Columbia |
-| [Grecian Gardens](http://www.greciangardenssc.com/) | Greek | West Columbia |
-| [Higher Ground Char House](https://highergroundcharhouse.com/)[^13] | Hamburgers | Chapin |
-| [Ruth Chris House](https://www.ruthschris.com/restaurant-locations/columbia/)[^14] | Steak[^15]  | Columbia |
-| [Long House Steakhouse](https://www.longhornsteakhouse.com/locations/sc/columbia/columbia-harbison-road/5094)[^14] | Steak | Columbia |
-| [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/)[^14] | Pan Asian,  Sushi | Lexington |
-| [Private Property](https://www.privatepropertysc.com/ ) | Cajun | Lexington |
-| [Villa Tronco](https://www.villatronco.com/)[^16] |Italian | Columbia |
+| [George Roberts Oysters Raw Bar & Wine](https://www.georgerobertsrawbarsc.com/ )[^11] | Seaford/Steaks | Ballentine |
+| [Chophouse of Chapin / Your Neighborhood Chophouse in Chapin, SC](https://www.chophouseofchapin.com/ ) | Steak | Chapin |
+| [Bart's Crazy Good Coffee](https://bartscoffee.com/ ) | Coffee | Chapin |
+| [Higher Ground Char House](https://highergroundcharhouse.com/)[^12] | Hamburgers | Chapin |
 | [Zorba's](https://zorbaschapin.com) | Greek | Chapin |
+| [J.R. Cash's Grill & Bar](https://www.jrcashs.com/food ) | Steak | Chapin |
+| [Blue Marlin](http://www.bluemarlincolumbia.com/)[^13] | Seafood | Columbia |
+| [California Dreaming](https://californiadreaming.rest/location/Columbia-SC/) | Seafood, Steak, Chicken | Columbia |
+| [Camon Japanese Restaurant & Sushi Bar](https://camonsushi.wordpress.com/)[^14] | Sushi/Japanese | Columbia |
+| [Long Horn Steakhouse](https://www.longhornsteakhouse.com/locations/sc/columbia/columbia-harbison-road/5094)[^15] | Steak | Columbia |
+| [Ruth Chris House](https://www.ruthschris.com/restaurant-locations/columbia/)[^15][^16] | Steak  | Columbia |
+| [Villa Tronco](https://www.villatronco.com/)[^17] |Italian | Columbia |
+| [Private Property](https://www.privatepropertysc.com/ )[^18] | Cajun | Lexington |
+| [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/)[^15] | Pan Asian,  Sushi | Lexington |
+| [Grecian Gardens](http://www.greciangardenssc.com/) | Greek | West Columbia |
+| [Columbia's Greek Festival - Columbia, SC](https://columbiasgreekfestival.com/ )[^19] | Greek | 1931 Sumter Street<br />Columbia SC 29201<br>Thu-Sat 10a-10p<br />Sun 12p-6p|
 
-[^11]: The Shrimp and Grits is excellent. Get their she-crab soup also.
-[^12]: They are the standard that I measure all sushi 🍣  places by.
-[^13]: Hamburgers are their specialty. They have fourteen different toppings for their burgers 
-[^14]: It is my executive decision to make exceptions for franchises and multi-store locations because of the quality of their food.
-[^15]: You don't go to a renowned steak house for fish or chicken!
-[^16]: Villa Tronco is the oldest Italian restaurant in South Carolina. Their restaurant provided "comfort food" for Italian-Americans Army recruits training at Camp Jackson during WW II.
+[^11]: I haven't been there, but I enjoy oysters, seafood, and steak.
+[^12]: Hamburgers are their specialty. They have fourteen different toppings for their burgers 
+[^13]: Their Shrimp and Grits are excellent. Get their she-crab soup also.
+[^14]: They are the standard that I measure all sushi 🍣  places by.
+[^15]: It is my executive decision to make exceptions for franchises and multi-store locations because of the quality of their food.
+[^16]: You don't go to a renowned steak house for fish or chicken.
+[^17]: Villa Tronco is the oldest Italian restaurant in South Carolina. Their restaurant provided "comfort food" for Italian-Americans Army recruits training at Camp Jackson during WW II.
+[^18]: I haven't eaten there yet, but I enjoy Cajun cuisine. 
+[^19]: Third Friday through third Sunday. Holy Trinity Greek Orthodox Church, Columbia, South Carolina 
 
 ## Charleston
 

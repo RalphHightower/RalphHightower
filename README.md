@@ -43,7 +43,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 
 ## Bucket Lists
 
-I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person. After that was checked ✔️ off, I thought "What's next?", so I added more items.
+I, along with a few other coworkers, were huddled around a portable B&W TV on April 12, 1981 to watch NASA's Space Shuttle Columbia make her maiden voyage. It was then that I, as a 20-something, put seeing a Space Shuttle launch in person on my bucket list. After that was checked ✔️ off, I thought "What's next?", so I added more items.
 
 I also have different categories of bucket lists. 
 
@@ -60,6 +60,8 @@ I also have different categories of bucket lists.
    - [B&H Photo Video](https://www.bhphotovideo.com/) 420 9th Avenue, New York, NY 10001
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
+   - Hawaii
+   - Japan (primarily Tokyo)
 2.	Cars
    - Corvette (mid-engine)[^82]
    - El Camino (65-67)[^83]
@@ -203,6 +205,10 @@ One large scale Windows application that I developed using C# and .Net for my pe
 On [July 8, 2011, I was able to check off a 30 year old bucket list item: witness a Space Shuttle launch in person.](https://flic.kr/s/aHsjvNsNvU). I also had the opportunity that few people have seen; I, as well as forty-nine other people by the Shuttle Landing Facility Control Tower, [got to see Atlantis land for the final time on July 21, 2011](https://flic.kr/s/aHsjvNti8h). I have witnessed two final manned spaceflights in person, Atlantis and the US half of Apollo/Soyuz Test Project on July 15, 1975. Atlantis was the second final manned spaceflight that I witnessed in person.
 
 Watching the Space Shuttle land on television, the twin sonic booms sound like a muffled *boom.boom.* In person, the twin sonic booms that Space Shuttles announce that they are returning home is loud, sharp, and crisp: **BANG! BANG!**
+
+### NASA Spaceflight Replicas
+
+[CONCORD AEROSPACE / FULLY OPERABLE SPACECRAFT PANELS – Concord Aerospace](https://www.concordaerospace.com/ ) 
 
 ## Personal Projects 
 
