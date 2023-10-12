@@ -210,6 +210,10 @@ Watching the Space Shuttle land on television, the twin sonic booms sound like a
 
 [CONCORD AEROSPACE / FULLY OPERABLE SPACECRAFT PANELS – Concord Aerospace](https://www.concordaerospace.com/ ) 
 
+### NASA Space Patches / Emblems 
+
+[Tim Gagnon — kscartist](https://www.kscartist.com/?page=section/patches.html )
+
 ## Personal Projects 
 
 Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC-V ecosystem.
