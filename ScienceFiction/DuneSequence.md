@@ -1,4 +1,4 @@
-# [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order )
+# Science Fiction — [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order )
 BY ROSIE KNIGHT 
 
 ## Dune — Part Two Premiere Date Set for November 3, 2023[^11][^12]
