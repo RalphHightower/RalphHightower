@@ -91,6 +91,7 @@
 | [RISC-V](https://github.com/riscv ) | The Free and Open RISC Instruction Set Architecture |
 | [Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
+|[Connected Vehicle Systems Alliance](https://github.com/COVESA )|
 | [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
@@ -134,6 +135,7 @@
 | [OpenAI](https://github.com/openai) | Artificial Intelligence |
 | [OpenZFS](https://github.com/openzfs) | ZFS file system for Linux, BSD |
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
+| [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -190,6 +192,7 @@
 | [Microsoft Azure](https://azure.microsoft.com/en-us/) |
 | [Remote Development Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better) |
 | [C# Online Compiler](https://dotnetfiddle.net/Mobile?id=CsCons#code-editor) |
+| [Using Visual Studio Code for C# development / InfoWorld](https://www.infoworld.com/article/3708255/using-visual-studio-code-for-c-sharp-development.html ) |
 
 # Software 
 
@@ -198,6 +201,14 @@
 | [Open Source Projects](FavOpenSourceProjects.md) |
 | [Useful Software / Utilities](Software.md)
 | [A professional collaborative platform for embedded development · PlatformIO](https://platformio.org/ ) |
+
+## GitHub 
+
+| GitHub Engineering |
+|---|
+|[How to communicate like a GitHub engineer: our principles, practices, and tools - The GitHub Blog](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/ ) |
+| [github/how-engineering-communicates: A community version of the "common API" for how the GitHub Engineering organization communicates](https://github.com/github/how-engineering-communicates ) |
+
 
 ## [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
