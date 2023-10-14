@@ -38,3 +38,4 @@
 | [Proxmox 8: New Features and Home Lab Upgrade Instructions - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/proxmox-8-new-features-and-home-lab-upgrade-instructions/ ) |
 |[Best Hypervisor for Home Lab in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/best-hypervisor-for-home-lab-in-2023/ )|
 |[The Best DNS Servers for Secure Browsing](https://www.howtogeek.com/874773/the-best-dns-servers-for-secure-browsing/ ) |
+| [DietPi: Tiny OS for Home Server Self-hosting - Virtualization Howto](https://www.virtualizationhowto.com/2023/09/dietpi-tiny-os-for-home-server-self-hosting/ ) |
