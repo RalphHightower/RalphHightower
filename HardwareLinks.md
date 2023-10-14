@@ -507,6 +507,20 @@
 | **[Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK - CNX Software](https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ )** |
 | [AI in a box offline LLM solution leverages Rockchip RK3588S' NPU (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/09/21/ai-in-a-box-offline-llm-solution-rockchip-rk3588s-npu/ ) |
 | **[Lichee Cluster 4A mini-ITX RISC-V cluster board launched for $929 and up - CNX Software](https://www.cnx-software.com/2023/09/19/lichee-cluster-4a-mini-itx-risc-v-cluster-board/ )** |
+| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
+| [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
+| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
+| [ESP32 with RCWL-0516 Microwave Radar Proximity Sensor (Arduino IDE) / Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-rcwl-0516-arduino/ ) |
+| [An ARM-Based Single-Board Computer for the IIoT Era - Electronics For You](https://www.electronicsforu.com/news/an-arm-based-single-board-computer-for-the-iiot-era ) |
+| [How I made the PicoCray / HackSpace #69 - Raspberry Pi](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/ ) |
+| [VOIPAC iMX8M Industrial Development Kit Review - Part 1: Specs, Unboxing, and first boot - CNX Software](https://www.cnx-software.com/2023/07/11/voipac-imx8m-industrial-development-kit-review-part-1-specs-unboxing-and-first-boot/ ) |
+| [Getting started with VOIPAC IMX8M Industrial development kit (Yocto Linux SDK)](https://www.cnx-software.com/2023/08/22/getting-started-with-voipac-imx8m-industrial-development-kit-yocto-linux-sdk/ ) |
+| [The Zendure SuperBase V is a power bank for your whole home or electric car / ZDNET](https://www.zdnet.com/article/the-zendure-superbase-v-is-a-power-bank-for-your-whole-home-or-electric-car/ ) (A/C 220V) $2500 |
+| [Superbase Pro Power Station Review / Space](https://www.space.com/zendure-super-base-pro-power-station-review ) |
+| [Fnirsi HS-01 Review: Smarter Soldering Iron / Tom's Hardware](https://www.tomshardware.com/reviews/fnirsi-hs-01 ) |
+| [Intel To Ship Quantum Chip / Hackaday](https://hackaday.com/2023/06/17/intel-to-ship-quantum-chip/#comment-6653792 ) |
+| [GigaDevice GD-xD-W515-EVAL board features GD32W515 Cortex-M33 MCU, a fingerprint scanner, and an LCD module - CNX Software](https://www.cnx-software.com/2023/10/09/gigadevice-gd-xd-w515-eval-board-features-gd32w515-cortex-m33-mcu-a-fingerprint-scanner-and-an-lcd-module/ ) |
+
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
