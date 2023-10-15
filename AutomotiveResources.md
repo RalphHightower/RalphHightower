@@ -75,6 +75,7 @@
 
 | Reviews |
 |---|
+| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) |
 | [2024 Chevrolet Trax First Drive Review – YouTube](https://youtube.com/watch?v=DDLwenI5PHA&feature=share) |
 
 ### [General Motors](https://www.gm.com/) 
