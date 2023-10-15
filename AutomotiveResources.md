@@ -21,7 +21,7 @@
 
 | Automotive News |
 |---|
-[Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ )|
+| [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
 
 ## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
 
@@ -70,6 +70,12 @@
 | [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
 ## API (Application Program Interface)
+
+## Reviews 
+
+| Reviews |
+|---|
+| [2024 Chevrolet Trax First Drive Review – YouTube](https://youtube.com/watch?v=DDLwenI5PHA&feature=share) |
 
 ### [General Motors](https://www.gm.com/) 
 
