@@ -32,6 +32,7 @@
 | **[Arace Tech — Milk-V Mars CM](https://arace.tech/products/milk-v-mars-cm )** | **[$84.00 8GB w/ WiFi 5/BT5.2](https://arace.tech/products/milk-v-mars-cm)** |
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
+| **[ASUS Tinker Board 3N](https://tinker-board.asus.com/product/tinker-board-3N.html )** | **8 GB/64GB** (H/W) |
 | [Artificial Intelligence Radio - Transceiver \(AIR-T\) / Crowd Supply](https://www.crowdsupply.com/deepwave-digital/air-t )|(H/W) $5,500 - $5,925 |
 | [ASUS Tinkerboard SBC](https://tinker-board.asus.com/series.html) | (H/W)
 | **[ASUS unveils Tinker V RISC-V single board computer, Tinker board 3 SBC with Rockchip RK3568 SoC](https://www.cnx-software.com/2023/03/14/asus-tinker-v-risc-v-single-board-computer-tinker-board-3-sbc-with-rockchip-rk3568-soc/)** | (H/W) $ 16GB |
@@ -114,6 +115,7 @@
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Khadas / VIM4 w/ NPU, Active Cooling](https://www.khadas.com/product-page/vim4 ) | (H/W) $$239.90 w/ NPU, Active Cooling|
+| [Kria KV260 Vision AI Starter Kit](https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html#whatsinside ) | (H/W) $249.00 MSRP |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 |[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
 | **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** |  **$350.50 32GB/128GB** |
@@ -171,6 +173,7 @@
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 | **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
+| **[Raxda Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **[$189.00 16GB](https://shop.allnetchina.cn/products/rock5-model-b)** |
 | [RAKWireless RAK7391 Compute Module 4 (CM4) Carrier Board – RAKwireless Store](https://store.rakwireless.com/products/wisgate-connect-base-kit-rak7391 ) | (H/W) $381 |
 | [RAKWireless — Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible ) | (H/W) |
 |[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
@@ -221,9 +224,18 @@
 | [VAR-SOM-AM62 : TI AM62x](https://www.variscite.com/product/system-on-module-som/cortex-a53-krait/var-som-am62-ti-am625x/#ordering_info) | (H/W) |
 | [Wavelet crowdsupply — Wavelet Lab's uSDR](https://www.crowdsupply.com/wavelet-lab/usdr ) | (H/W) $277 - $997 2023-07-26 |
 | [Yahboom 6DOF ROS AI Vision Robotic Arm for Nvidia Jetson NANO 4GB](https://category.yahboom.net/products/dofbot-jetson_nano ) | (H/W) |
+| [youyeetoo YY3568 RockChip RK3568 Development Board Dual Gigabit Ethernet Expandable SATA / SSD Supports Android 11 / Debian10 - AliExpress](https://www.aliexpress.com/item/3256804953233950.html ) | (H/W) |
+| [youyeetoo YY3568 ARM Development Board, Based on Rockchip RK3568 Quad Core A55 for AIOT](https://www.youyeetoo.com/products/yy3568-rk3568-single-board-computer ) | (H/W) $94.98 8GB/64GB |
+| **[Youyeetoo YY3568 Open-Source Developer Kit Rockchip RK3568 Soc Support Android11.0, Debian10.0 and OpenHarmony OS, 64-bit AI Mainboard for Face Recognition Prototyping \(Starter Kit 8GB RAM\)](https://a.co/d/bpsKnor)** | [**8GB 94.99**](https://a.co/d/bpsKnor) |
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) | (H/W) |
 | [Zymbit Secure Edge Node D35](https://store.zymbit.com/products/secure-compute-node-d35)| (H/W) | 
 | [SparkFun launches ESP32-based "Arduino IoT Weather Station" with Arduino IoT Cloud integration - CNX Software](https://www.cnx-software.com/2023/09/03/sparkfun-esp32-arduino-iot-weather-station-with-arduino-iot-cloud/ ) |
+| [Xilinx Introduces Kria K26 SoM and vision AI devkit based on Zynq Ultrascale+ XCK26 FPGA MPSoC - CNX Software](https://www.cnx-software.com/2021/04/28/xilinx-kria-k26-som-vision-ai-devkit-zynq-ultrascale-xck26-fpga-mpsoc/ ) |
+| [Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ ) |
+| [Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK](!https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ ) |
+| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
+| [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
+| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
