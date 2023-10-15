@@ -21,6 +21,10 @@
 [^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
 [^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
 
+| Doctor Who News |
+|---|
+| [Doctor Who Must Break The Oldest Regeneration Rule To Save RTD From His Previous Trap](https://screenrant.com/doctor-who-ncuti-gatwa-60th-anniversary-regeneration-rule-break/ ) |
+
 | YouTube Videos |
 |------|
 | [David Tennant (aka The Doctor) is Catherine Tait's (aka Donna Noble), as a recalcitrant student,  substitute teacher for English.](https://youtu.be/WxB1gB6K-2A) |
