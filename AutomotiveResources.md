@@ -75,7 +75,7 @@
 
 | Reviews |
 |---|
-| [2024 Chevrolet Trax First Drive Review](https://youtube.com/watch?v=DDLwenI5PHA&feature=share ) |
+| [2024 Chevrolet Trax First Drive Review – YouTube](https://youtube.com/watch?v=DDLwenI5PHA&feature=share) |
 
 ### [General Motors](https://www.gm.com/) 
 
