@@ -524,7 +524,14 @@
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
-## DIY CubeSat
+## Satellite Projects 
+
+| Satellite Projects |
+|---|
+| [PikoQube- PocketQube Training Kit from Orion Space on Tindie](https://www.tindie.com/products/orionspace/pikoqube-pocketqube-training-kit/ ) | **800.00 (H/W)** |
+| [Nepal's Orion Space Wants to Put a Satellite on Your Desk with the PikoQube Trainer Kit - Hackster.io](https://www.hackster.io/news/nepal-s-orion-space-wants-to-put-a-satellite-on-your-desk-with-the-pikoqube-trainer-kit-87b4f0f7cf7d.html ) |
+
+### DIY CubeSat
 
 | [AmbaSat Sensor Add-ons]() | Function |
 |---|-----|
