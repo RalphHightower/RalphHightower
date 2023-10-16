@@ -1,5 +1,17 @@
 # Home Lab
 
+## Hardware 
+
+### Storage 
+
+| [45drives](https://www.45drives.com/ ) |
+| [45homelab](https://45homelab.com|/ ) |
+
+### Time Keeping 
+
+| [The Timebeat Store - Not Dick's Clock Shop](https://store.timebeat.app/ ) |
+
+
 ## Essential Services
 
 | Essential Services | Purpose |
