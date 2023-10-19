@@ -22,6 +22,12 @@
 
 [^11]: I'm fairly positive that /tmp can be a mountable directory. However, there would be two temp directories,  1) for single user mode and 2) the second /tmp for multi user mode 
 
+## File Systems
+
+| File Systems |
+|---|
+| [OpenZFS 2.2 Released with Linux 6.5 Support, Block Cloning, and More - 9to5Linux](https://9to5linux.com/openzfs-2-2-released-with-linux-6-5-support-block-cloning-and-more ) |
+
 ## Linux Source 
 
 | Linux Source | Adaptation |
