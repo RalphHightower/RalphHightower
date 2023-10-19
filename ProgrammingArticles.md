@@ -2,6 +2,17 @@
 
 ## Programing Articles 
 
+### Artificial Intelligence 
+
+| Artificial Intelligence |
+|---|
+| **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
+| **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
+| [Slimming Down ML Models for Tiny Hardware - Hackster.io](https://www.hackster.io/news/slimming-down-ml-models-for-tiny-hardware-234e0fd4c64a ) |
+| [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
+| [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
+| [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
+
 ### C# .NET
 
 #### Application Tech Stack[^1]
@@ -19,12 +30,6 @@
 
 | Programing Articles |
 |---|
-| **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
-| **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
-| [Slimming Down ML Models for Tiny Hardware - Hackster.io](https://www.hackster.io/news/slimming-down-ml-models-for-tiny-hardware-234e0fd4c64a ) |
-| [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
-| [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
-| [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
 | [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
 | [Elevating open source contributors to open source maintainers / The GitHub Blog](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/ ) |
