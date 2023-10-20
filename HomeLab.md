@@ -1,5 +1,19 @@
 # Home Lab
 
+## Hardware 
+
+### Storage 
+
+| Storage |
+|---|
+| [45drives](https://www.45drives.com/ ) |
+| [45homelab](https://45homelab.com/ ) |
+
+### Time Keeping 
+
+| [The Timebeat Store - Not Dick's Clock Shop](https://store.timebeat.app/ ) |
+
+
 ## Essential Services
 
 | Essential Services | Purpose |
@@ -7,6 +21,8 @@
 | **[Unlocking High-Precision RTK Positioning - News - SparkFun Electronics](https://www.sparkfun.com/news/7401?_hsmi=264570328&_hsenc=p2ANqtz-8mYIMo-lyv0BAtJ14bPLj3KM60o_HLHbWEZhXF64wzJNd_GCy1LNde85sFDGAJWSWVg0qV7ZQ_o-tRI9-ZTcznsNjOQ7RGcXejfYVnLAN8t1dX3lg& )** | NTP/NTRIP Server | 
 | [Atomic Clocks and Oscillators - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/atomic-clocks-and-oscillators/ ) | PTP |
 | [GPS NTP Servers - Network Time Servers - Timing & Sync - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/timing-and-synchronization/ ) | PTP 
+| [SparkFun's RTK Reference Station Is Its "Most Capable" GNSS Receiver and Logger Yet - Hackster.io](https://www.hackster.io/news/sparkfun-s-rtk-reference-station-is-its-most-capable-gnss-receiver-and-logger-yet-057c07287fa9 ) |
+| [Time Cards with Atomic Clocks at OCP Regional Summit 2023 Prague](https://www.servethehome.com/time-cards-with-atomic-clocks-at-ocp-regional-summit-2023-prague-meta-safran-orolia-intel-amd-xilinx-microchip/ ) |
 | [Wazuh Open Source SIEM: XDR for Enterprise and Home Lab - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/wazuh-open-source-siem-xdr-for-enterprise-and-home-lab/ )[^11]  | Security Platform |
 
 [^11]: Wazuh operates as a security platform, offering both Extended Detection and open-source unified XDR and Security Information and Event Management (SIEM) functionalities for log data analysis. It is designed to protect endpoints as well as cloud workloads.
@@ -29,3 +45,11 @@
 | [Top 5 Home Lab Storage Solutions in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/top-5-home-lab-storage-solutions-in-2023/ ) |
 |[Headscale: Awesome Self-Hosted Tailscale Control Server - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/headscale-awesome-self-hosted-tailscale-control-server/ )|
 |[Heimdall Dashboard: Organize and Access Home Lab Apps - Virtualization Howto](https://www.virtualizationhowto.com/2023/04/heimdall-dashboard-organize-and-access-home-lab-apps/ )|
+| [DietPi: Tiny OS for Home Server Self-hosting - Virtualization Howto](https://www.virtualizationhowto.com/2023/09/dietpi-tiny-os-for-home-server-self-hosting/ ) |
+| [Virtual machine vs container: Which is best for home lab? - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/virtual-machine-vs-container-which-is-best-for-home-lab/ ) |
+| [Amazon.com: Asustor AS-T10G3, 10GbE & M.2 NVMe SSD Network Card (for Lockerstor 4 Gen 2 & 6 Gen2 / Lockerstor 4R & 12R / Lockerstor 12R Pro & 16R Pro) : Electronics](https://www.amazon.com/Asustor-AS-T10G3-10GbE-Network-Lockerstor/dp/B0BTLG7ZFP?keywords=asustor+as-T10g3&qid=1688770801&sr=8-1&ufe=app_do:amzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&linkCode=sl1&tag=mmjjg-20&linkId=4d383554d4c9d90fd004cebab32f9297&language=en_US& ) |
+| [How I installed TrueNAS on my new ASUSTOR NAS / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas ) |
+| [Proxmox 8: New Features and Home Lab Upgrade Instructions - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/proxmox-8-new-features-and-home-lab-upgrade-instructions/ ) |
+|[Best Hypervisor for Home Lab in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/best-hypervisor-for-home-lab-in-2023/ )|
+|[The Best DNS Servers for Secure Browsing](https://www.howtogeek.com/874773/the-best-dns-servers-for-secure-browsing/ ) |
+| [DietPi: Tiny OS for Home Server Self-hosting - Virtualization Howto](https://www.virtualizationhowto.com/2023/09/dietpi-tiny-os-for-home-server-self-hosting/ ) |

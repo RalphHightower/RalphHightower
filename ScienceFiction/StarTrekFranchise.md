@@ -1,4 +1,4 @@
-# [Star Trek Franchise](https://www.startrek.com/)  
+# Science Fiction — [Star Trek Franchise](https://www.startrek.com/)  
 
 ## [Star Trek Series](https://www.startrek.com/)
 
@@ -17,7 +17,7 @@
 | [Star Trek: Prodigy](https://www.startrek.com/shows/star-trek-prodigy ) | (2021–2022) | Brett Gray |
 | Star Trek: Starfleet Academy[^11][^12] | 2024/2025 | |
 | Star Trek: Legacy[^21][^22][^23][^24][^25][^26][^27][^28] | TBD | TBD |
-| Star Trek: Worf[^40] | TBD | TBD |
+| Star Trek: Worf[^29] | TBD | TBD |
 
 [^11]: [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy)
 [^12]: [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ )
@@ -29,7 +29,7 @@
 [^26]: [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ )
 [^27]: [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ )
 [^28]: [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ )
-[^40]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^29]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
 
 ## [Star Trek Movies](https://www.startrek.com/)
 
@@ -62,6 +62,24 @@
 | [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/#star-trek-discovery-season-1-amp-2 ) |
 | [A Message From - And To - NASA From Star Trek Strange New Worlds - SpaceRef](https://spaceref.com/newspace-and-tech/a-message-from-and-to-nasa-from-star-trek-strange-new-worlds/ ) |
 | [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
+| [Deep Space Nine's Surprise Star Trek Comeback Proves It’s Time For A Revival](https://screenrant.com/star-trek-deep-space-nine-lower-decks-revival/ ) |
+| ['Star Trek Starfleet Academy' to Film in 2024, Will Be Funny](https://collider.com/star-trek-starfleet-academy-filming-2024-comedy/ ) |
+| [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh) |
+| [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ ) |
+| [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
+| [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy) |
+| [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ ) |
+| [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ ) |
+| [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ ) |
+| [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ ) |
+| [Star Trek: Legacy Can Finally Reveal Voyager's EMH Doctor's Fate](https://screenrant.com/star-trek-legacy-can-finally-reveal-voyagers-emh-doctors-fate/ ) |
+| [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ ) |
+| [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ ) |
+| [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ ) |
+| [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ ) |
+| A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
+
+
 ## Star Trek Food Recipes 
 
 | Star Trek Food Recipes |

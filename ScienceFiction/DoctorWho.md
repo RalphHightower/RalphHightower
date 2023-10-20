@@ -1,4 +1,4 @@
-# Doctor Who Timelords
+# Science Fiction — Doctor Who Timelords
 
 | Series Lead | Incarnation | Companions | Tenure |
 |-------------|-------------|------------|--------|
@@ -20,6 +20,20 @@
 
 [^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
 [^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
+
+| Doctor Who News |
+|---|
+| [Doctor Who Must Break The Oldest Regeneration Rule To Save RTD From His Previous Trap](https://screenrant.com/doctor-who-ncuti-gatwa-60th-anniversary-regeneration-rule-break/ ) |
+
+| One Person's Life as a Doctor Who Fan|
+|---|
+|[My Life as a Doctor Who Fan: Part 1 – the 1960s to 1974 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-1/ )|
+|[My Life as a Doctor Who Fan: Part 2 – 1974 to 1981 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-2/ )|
+|[My Life as a Doctor Who Fan: Part 3 – 1982 to 1984 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-3/ )|
+|[My Life as a Doctor Who Fan: Part 4 – 1985 to 1989 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-4/ )|
+|[My Life as a Doctor Who Fan: Part 5 – 1990 to 2012 / Radio Time](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-5/ ) |
+|[My Life as a Doctor Who Fan: Part 6 – 2013 to now / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-6/ ) |
+
 
 | YouTube Videos |
 |------|

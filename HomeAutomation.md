@@ -24,6 +24,7 @@ I have not decided on which home automation system that I want to deploy, but my
 |[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )| 
 | [A Guard Bot For Your Home Assistant / Hackaday](https://hackaday.com/2023/05/14/a-guard-bot-for-your-home-assistant/ ) |
 | [PricelessToolkit's MailboxGuard Watches for Activity Then Alerts You via Home Assistant or WhatsApp - Hackster.io](https://www.hackster.io/news/pricelesstoolkit-s-mailboxguard-watches-for-activity-then-alerts-you-via-home-assistant-or-whatsapp-012c5c092aef ) |
+| [Home Assistant Yellow / Crowd Supply](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow ) |
 
 ### GitHub 
 
@@ -62,3 +63,4 @@ I have not decided on which home automation system that I want to deploy, but my
 | [Thing Plus Matter - MGM240P Hookup Guide - SparkFun Learn](https://learn.sparkfun.com/tutorials/sparkfun-thing-plus-matter---mgm240p-hookup-guide/all ) |
 | [Ventbots Are Fans Of HVAC And Home Automation / Hackaday](https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/ ) |
 | [Monitoring your smart home server with prometheus on a Raspberry Pi - use the power of professional tools » The smarthome journey](https://thesmarthomejourney.com/2022/07/25/monitoring-smarthome-prometheus/ ) |
+| [Jon Aguado's ePaper Energy Monitor Keeps Track of Your Home's Usage Across Up to Six Channels - Hackster.io](https://www.hackster.io/news/jon-aguado-s-epaper-energy-monitor-keeps-track-of-your-home-s-usage-across-up-to-six-channels-ce34c0d314da ) |

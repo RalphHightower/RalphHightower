@@ -23,6 +23,8 @@
 |-------------|------|
 | Canon A-1 | [Download](https://www.cameramanuals.org/canon_pdf/canon_a1.pdf)[^11] |
 | Canon Motor Drive MA | [Download](https://www.cameramanuals.org/canon_pdf/canon_motor_drive_ma.pdf)[^11] |
+| [Canon A-1 - Camera-wiki.org - The free camera encyclopedia](http://camera-wiki.org/wiki/Canon_A-1 ) |
+
 
 ### Canon New F-1
 
