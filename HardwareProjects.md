@@ -127,12 +127,55 @@ Expansion options
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 | [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
+## Raspberry Pi 4
+
+| Raspberry Pi 4 |
+|---|
+| [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
+| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
+| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
+
 ### Raspberry Pi 5
 
 | Raspberry Pi 5 Articles |
 |---|
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
+
+## Milk-V Pioneer 
+
+| Milk-V Pioneer |
+|---|
+| [Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer ) |
+
+## Communications 
+
+### Cellular 
+
+| [Cellular Function Board - Blues Wireless Notecarrier](https://learn.sparkfun.com/tutorials/cellular-function-board---blues-wireless-notecarrier/all) |
+|----|
+| [Qwiic Cellular Notecarrier - Blues Wireless](https://www.sparkfun.com/products/17114) |
+| [SparkFun MicroMod Cellular Function Board - Blues Wireless Notecarrier](https://www.sparkfun.com/products/20409) | 
+| [Qwiic Cellular Notecarrier](https://www.sparkfun.com/products/18617) | 
+| [LTE Hinged External Antenna - 698MHz-2.7GHz, SMA Male](https://www.sparkfun.com/products/16432) | 
+| [Quad-band Cellular Duck Antenna SMA](https://www.sparkfun.com/products/18617) | 
+| [SparkFun MicroMod Main Board - Single](https://www.sparkfun.com/products/20748) | 
+| [SparkFun MicroMod Main Board - Double](https://www.sparkfun.com/products/20595) | 
+
+## RISC-V
+
+### Software
+
+| RISC-V Software |
+|---|
+| [SiFive Software - Accelerate & Enhance your RISC-V Development.](https://www.sifive.com/software ) |
+
+### Satellite Projects 
+
+| Satellite Projects |
+|---|
+| [How To Build A MILSAT SATCOM Turnstile Antenna](https://www.youtube.com/watch?v=Xdc7l0O5fYo ) |
+| [Receiving voice transmissions from GPS satellites // Satellite reception...](https://youtube.com/watch?v=U_pCHTeamn8&feature=share ) |
 
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards)
 
@@ -365,7 +408,6 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
 | [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
 
-
 <hr />
 
 ## Backed Kickstarter Projects
@@ -386,3 +428,8 @@ I could easily see this for installation in cars, SUVs, trucks.
 |---|
 | [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
 
+## General Computer Building 
+
+| General Computer Building |
+|---|
+| [Why Building Your Own PC Is Still a Smart Move in 2023 / Tom's Hardware](https://www.tomshardware.com/news/building-your-own-pc-smart-move ) |
