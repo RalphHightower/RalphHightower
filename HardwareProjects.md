@@ -135,7 +135,7 @@ Expansion options
 | [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
-### Raspberry Pi 5
+## Raspberry Pi 5
 
 | Raspberry Pi 5 Articles |
 |---|
@@ -161,6 +161,12 @@ Expansion options
 | [Quad-band Cellular Duck Antenna SMA](https://www.sparkfun.com/products/18617) | 
 | [SparkFun MicroMod Main Board - Single](https://www.sparkfun.com/products/20748) | 
 | [SparkFun MicroMod Main Board - Double](https://www.sparkfun.com/products/20595) | 
+
+### Satellite 
+
+| Satellite |
+|---|
+| [The Voice Of GPS / Hackaday](https://hackaday.com/2023/06/23/the-voice-of-gps/ ) |
 
 ## RISC-V
 
