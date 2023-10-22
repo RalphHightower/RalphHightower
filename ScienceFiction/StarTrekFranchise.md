@@ -78,7 +78,8 @@
 | [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ ) |
 | [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ ) |
 | A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
-
+| [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
+| [Why Star Trek's Avery Brooks Returning To The Franchise After Deep Space Nine Seems Unlikely](https://www.cinemablend.com/television/star-trek-deep-spae-nine-avery-brooks-return-to-franchise-unlikely ) |
 
 ## Star Trek Food Recipes 
 
