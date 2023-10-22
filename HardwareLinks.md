@@ -6,6 +6,12 @@
 | [Single Board Computer Database](https://hackerboards.com/) |
 | [FindBoard Workshop](https://www.findboard.cn/#/home) |
 
+## Hardware Crowd Funding 
+
+| Crowd Supply — Hardware |
+|---|
+| [Crowd Supply - For the Greater Goods](https://www.crowdsupply.com/ ) |
+
 ## Hardware 
 
 | Hardware Suppliers | H/W |
@@ -58,6 +64,8 @@
 | **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
 | [CORE-V MCU DevKit / GroupGets](https://groupgets.com/campaigns/1040/show ) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
+| **[deskpi — Raspberry Pi Products](https://deskpi.com/ )** | (H/W) |
+| **[Pre-sale! Orange Pi 5 16gb+5v4a Type-c Power Supply,rk3588s Pcie Module External Wifi+bt,ssd Single Computer Development 
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
 |[EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
@@ -155,6 +163,8 @@
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | Orange Pi 3B 8G RK3566 with 256GB eMMC Module Quad Core 64 Bit Single Board Computer, 1.8 GHz Frequency WiFi Bluetooth Run Orange Pi OS, Android, Debian, Ubuntu, OpenHarmony (Pi 3B 8GB+256GB eMMC) | |
+Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
+| **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W)** |
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br />**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply](https://a.co/d/3ayh6T6)** | ** **Amazon $149.99** |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
@@ -165,9 +175,7 @@
 | **[Orange Pi 5 Plus 16GB Rockchip RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Run Orange Pi OS, Android, Debian, Ubuntu (OPi 5 Plus 16G+5V4A TC Supply)](https://a.co/d/4WFkS5z) - Amazon** | (H/W) **$151.99 16GB** |
 | **[Orange Pi 5B 16GB Rockchip RK3588S 8 Core 64 Bit WiFi6,BT5.0 Single Board Computer with 128GB eMMC, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian (OPi 5B 16GB/128G+5V4A TypeC Supply)](https://a.co/d/3xBTyUa) - Amazon** | **(H/W) $151.99** |
 | **[Orange Pi 5 16GB RK3588S,PCIE Module External WiFi+BT,SSD Gigabit Ethernet Single Board Computer,Run Android Debian OS/ / - AliExpress](https://www.aliexpress.com/item/1005005554655739.html )** | (H/W) |
-Hardware:
 | **[Orange Pi 5B 32GB RK3588S with 256GB eMMC 8 Core 64 Bit WiFi 6,Bluetooth 5.0 Single Board Computer, Support 8K Video Codec AI Accelerator NPU Run Orange Pi OS, Android, Debian \(OPi 5B 32G/256G+Supply\)](https://a.co/d/aPu6p70)** | $206.99 |
-Vendors:
 | **Orange Pi Compute Module 4 8GB+64GB, Rockchip RK3566 Quad-Core 64-Bit Single Board Compute, Orange Pi CM4 8GB RAM 64GB eMMC, Support 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM48G64G+WiFi)** | **[$53.99 8GB/64GB](https://a.co/d/e5TEyWP)** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | (H/PW) **$179.00 32 GB** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
@@ -551,6 +559,9 @@ Vendors:
 | [Intel To Ship Quantum Chip / Hackaday](https://hackaday.com/2023/06/17/intel-to-ship-quantum-chip/#comment-6653792 ) |
 | [GigaDevice GD-xD-W515-EVAL board features GD32W515 Cortex-M33 MCU, a fingerprint scanner, and an LCD module - CNX Software](https://www.cnx-software.com/2023/10/09/gigadevice-gd-xd-w515-eval-board-features-gd32w515-cortex-m33-mcu-a-fingerprint-scanner-and-an-lcd-module/ ) |
 | **[Orange Pi Doubles the RAM on Its Orange Pi 5 Single-Board Computers, Now Offers Up to 32GB - Hackster.io](https://www.hackster.io/news/orange-pi-doubles-the-ram-on-its-orange-pi-5-single-board-computers-now-offers-up-to-32gb-d7a973ed807b )** |
+| [Conversation With ChatGPT Was Enough to Develop Part of a CPU / Tom's Hardware](https://www.tomshardware.com/news/conversation-with-chatgpt-was-enough-to-develop-part-of-a-cpu ) |
+| [RISC-V Serves Up Open-Source Possibilities for the Future / Electronic Design](https://www.electronicdesign.com/technologies/embedded/article/21246374/electronic-design-riscv-serves-up-opensource-possibilities-for-the-future ) |
+| [Marco Attia's Script Turns a Raspberry Pi Into a Plug-and-Play USB Gadget with Web VNC, VS Code - Hackster.io](https://www.hackster.io/news/marco-attia-s-script-turns-a-raspberry-pi-into-a-plug-and-play-usb-gadget-with-web-vnc-vs-code-0c6720392468 ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
