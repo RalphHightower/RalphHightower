@@ -24,6 +24,7 @@
 | Doctor Who News |
 |---|
 | [Doctor Who Must Break The Oldest Regeneration Rule To Save RTD From His Previous Trap](https://screenrant.com/doctor-who-ncuti-gatwa-60th-anniversary-regeneration-rule-break/ ) |
+| [11 Ways Doctor Who Changed Forever Under Chris Chibnall](https://screenrant.com/every-doctor-who-chris-chibnall-big-change/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
