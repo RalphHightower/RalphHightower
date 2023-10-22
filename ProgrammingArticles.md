@@ -15,14 +15,21 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
+#### Artificial Intelligence 
+
+| Artificial Intelligence |
+|---|
+| [Overview - OpenAI API](https://platform.openai.com/overview ) |
+| [Featured Projects, Templates and Resources / Flux Community](https://www.flux.ai/p/projects ) |
+| **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
+| [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
+| [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
+
 #### Programing Articles 
 
 | Programing Articles |
 |---|
 | **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
-| **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
-| [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
-| [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
 | [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
