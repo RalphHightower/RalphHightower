@@ -24,6 +24,7 @@
 | [SparkFun's RTK Reference Station Is Its "Most Capable" GNSS Receiver and Logger Yet - Hackster.io](https://www.hackster.io/news/sparkfun-s-rtk-reference-station-is-its-most-capable-gnss-receiver-and-logger-yet-057c07287fa9 ) |
 | [Time Cards with Atomic Clocks at OCP Regional Summit 2023 Prague](https://www.servethehome.com/time-cards-with-atomic-clocks-at-ocp-regional-summit-2023-prague-meta-safran-orolia-intel-amd-xilinx-microchip/ ) |
 | [Wazuh Open Source SIEM: XDR for Enterprise and Home Lab - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/wazuh-open-source-siem-xdr-for-enterprise-and-home-lab/ )[^11]  | Security Platform |
+| [Security Onion Install: Awesome Open Source Security for Home Lab - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/security-onion-install-awesome-open-source-security-for-home-lab/ ) |
 
 [^11]: Wazuh operates as a security platform, offering both Extended Detection and open-source unified XDR and Security Information and Event Management (SIEM) functionalities for log data analysis. It is designed to protect endpoints as well as cloud workloads.
 
