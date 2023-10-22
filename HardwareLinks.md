@@ -165,6 +165,8 @@
 | Orange Pi 3B 8G RK3566 with 256GB eMMC Module Quad Core 64 Bit Single Board Computer, 1.8 GHz Frequency WiFi Bluetooth Run Orange Pi OS, Android, Debian, Ubuntu, OpenHarmony (Pi 3B 8GB+256GB eMMC) | |
 Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W)** |
+Vendors
+| **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W) $255.71** |
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br />**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply](https://a.co/d/3ayh6T6)** | ** **Amazon $149.99** |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
@@ -262,6 +264,10 @@ Board - Demo Board - AliExpress](https://www.aliexpress.com/item/100500495774817
 | [Geeky Gadgets – LimeSDR XTRX high-performance SDR in a Mini PCIe form factor](https://www.crowdsupply.com/lime-micro/limesdr-xtrx ) |
 | [Monitor One - A customizable cellular IoT gateway for industrial equipment monitoring - CNX Software](https://www.cnx-software.com/2023/07/16/monitor-one-a-customizable-cellular-iot-gateway-for-industrial-equipment-monitoring/ ) |
 | **[Orange Pi 5, 5B, and 5 Plus SBCs are now offered with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/10/13/orange-pi-5-5b-and-5-plus-sbc-32gb-ram/ )** |
+Articles 
+| [Best GPS Tracking Devices - Buy GPS Tracker Online / Family1st](https://family1st.io/gps-trackers/ ) |
+| [Radxa ROCK 5B vs Raspberry Pi 4B](http://emteria.com/blog/radxa-rock-5 ) |
+| [SiFive P870 RISC-V Processor at Hot Chips 2023](https://www.servethehome.com/sifive-p870-risc-v-processor-at-hot-chips-2023/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
