@@ -96,12 +96,15 @@
 | [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
+| [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) ||
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
-|[Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions.|
+| [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
+| [Google Research](https://github.com/google-research ) | |
+| [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions.|
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
