@@ -80,6 +80,11 @@
 | A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
 | [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
 | [Why Star Trek's Avery Brooks Returning To The Franchise After Deep Space Nine Seems Unlikely](https://www.cinemablend.com/television/star-trek-deep-spae-nine-avery-brooks-return-to-franchise-unlikely ) |
+| [Why Ezri Replaced Jadzia As Dax Explained By Star Trek: DS9 Writer](https://screenrant.com/star-trek-ds9-dax-jadzia-ezri-replacement-why/ ) |
+| [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
+| [William Shatner Was “A Pleasure” In Star Trek Generations, Despite Patrick Stewart’s Early “Disappointment”](https://screenrant.com/william-shatner-star-trek-generations-pleasure-patrick-stewart/ ) |
+| [Enterprise Had A Big Problem From The Star Trek Prequel's Start, Says Showrunner](https://screenrant.com/star-trek-enterprise-problem-conccept-alone-showrunner/ ) |
+| [12 Important Star Trek Heroes Who Aren't In Starfleet](https://screenrant.com/star-trek-important-heroes-not-starfleet/#dr-agnes-jurati-the-borg-queen---star-trek-picard ) |
 
 ## Star Trek Food Recipes 
 
