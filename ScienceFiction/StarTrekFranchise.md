@@ -85,6 +85,16 @@
 | [William Shatner Was “A Pleasure” In Star Trek Generations, Despite Patrick Stewart’s Early “Disappointment”](https://screenrant.com/william-shatner-star-trek-generations-pleasure-patrick-stewart/ ) |
 | [Enterprise Had A Big Problem From The Star Trek Prequel's Start, Says Showrunner](https://screenrant.com/star-trek-enterprise-problem-conccept-alone-showrunner/ ) |
 | [12 Important Star Trek Heroes Who Aren't In Starfleet](https://screenrant.com/star-trek-important-heroes-not-starfleet/#dr-agnes-jurati-the-borg-queen---star-trek-picard ) |
+| ["Picard Maneuver" & Star Trek: TNG Uniform Change Explained By Patrick Stewart](https://screenrant.com/picard-maneuver-star-trek-tng-uniform-change-explained/ ) |
+| [2 Great Barriers In Star Trek's Galaxy Explained](https://screenrant.com/star-trek-galactic-great-barrier-differences-explained/ ) |
+| [Picard & Jack Crusher Got What Star Trek Movies Denied Kirk](https://screenrant.com/star-trek-denied-kirk-picard-jack-crusher-relationship/ ) |
+| [Star Trek: TNG Writer Believes Jonathan Frakes Is the Force Behind Riker’s Success](https://movieweb.com/star-trek-tng-writer-believes-jonathan-frakes-is-the-force-behind-rikers-success/ ) |
+| [Star Trek's Kathryn Janeway Wasn't Happy as Voyager's Captain](https://www.cbr.com/star-trek-voyager-kathryn-janeway-unhappy-captain/ ) |
+| [16 Star Trek Doctors Ranked Worst To Best](https://screenrant.com/star-trek-every-doctor-ranked-worst-best/#dr-leonard-quot-bones-quot-mccoy-deforest-kelley---star-trek-the-original-series ) |
+| [“Sky’s The Limit”: Who Invented Star Trek: TNG Finale's Last Line Revealed By Patrick Stewart](https://screenrant.com/star-trek-tng-finale-last-line-patrick-stewart/ ) |
+| [Patrick Stewart Reveals How He Wanted Star Trek: Picard to End](https://www.cbr.com/patrick-stewart-star-trek-picard-ending-idea/ ) |
+| [Tom Hanks Is A Big Star Trek: The Next Generation Fan, And Patrick Stewart Has Made A Wild Claim About His Love For The Franchise](https://www.cinemablend.com/television/tom-hanks-big-star-trek-next-generation-fan-patrick-stewart-wild-claim-love-franchise ) |
+
 
 ## Star Trek Food Recipes 
 
