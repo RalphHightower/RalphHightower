@@ -7,12 +7,14 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - name: Release 
+        uses: google-github-actions/release-please-action@v3
         with:
           release-type: simple
           pull-request-header: New release created for the following reasons
           package-name: release-please-action
-      - uses: mikepenz/release-changelog-builder-action@{latest-release}
+      - name: Changelog
+        uses: mikepenz/release-changelog-builder-action@{latest-release}
         with:
            command: manifest
       - name: "Build Changelog"
