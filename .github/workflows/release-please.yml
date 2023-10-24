@@ -13,8 +13,8 @@ jobs:
           release-type: simple
           pull-request-header: New release created for the following reasons
           package-name: release-please-action
-      - name: Changelog
+      - name: "Build Changelog"
         uses: mikepenz/release-changelog-builder-action@{latest-release}
         with:
-           command: manifest
-      - name: "Build Changelog"
+          command: manifest
+      
