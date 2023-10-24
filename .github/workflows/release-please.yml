@@ -7,7 +7,6 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-#2345678912345678
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: simple
