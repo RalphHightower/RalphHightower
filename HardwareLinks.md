@@ -568,6 +568,7 @@ Articles
 | [Conversation With ChatGPT Was Enough to Develop Part of a CPU / Tom's Hardware](https://www.tomshardware.com/news/conversation-with-chatgpt-was-enough-to-develop-part-of-a-cpu ) |
 | [RISC-V Serves Up Open-Source Possibilities for the Future / Electronic Design](https://www.electronicdesign.com/technologies/embedded/article/21246374/electronic-design-riscv-serves-up-opensource-possibilities-for-the-future ) |
 | [Marco Attia's Script Turns a Raspberry Pi Into a Plug-and-Play USB Gadget with Web VNC, VS Code - Hackster.io](https://www.hackster.io/news/marco-attia-s-script-turns-a-raspberry-pi-into-a-plug-and-play-usb-gadget-with-web-vnc-vs-code-0c6720392468 ) |
+| [Arm at HC35 (2023): CSS-Genesis – Chips and Cheese](https://chipsandcheese.com/2023/09/13/arm-at-hc35-2023-css-genesis/ )   |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
