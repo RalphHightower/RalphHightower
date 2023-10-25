@@ -61,6 +61,16 @@ Set 100 years after the events at the beginning of The Butlerian Jihad, the book
 
 Rosie Knight is a contributing freelancer for IGN covering everything from anime to comic books to kaiju to kids movies to horror flicks. She has over half a decade of experience in entertainment journalism with bylines at Nerdist, Den of Geek, Polygon, and more.
 
+## News / Articles 
+
+| News / Articles |
+|---|
+| [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
+| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
+| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
+| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
+| [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
+
 ## Dune by Frank Herbert 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
