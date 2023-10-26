@@ -65,7 +65,6 @@
 | [CORE-V MCU DevKit / GroupGets](https://groupgets.com/campaigns/1040/show ) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | **[deskpi — Raspberry Pi Products](https://deskpi.com/ )** | (H/W) |
-| **[Pre-sale! Orange Pi 5 16gb+5v4a Type-c Power Supply,rk3588s Pcie Module External Wifi+bt,ssd Single Computer Development 
 | [Digikey](https://www.digikey.com/) | (H/W) |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
 |[EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
@@ -164,6 +163,7 @@
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
 | Orange Pi 3B 8G RK3566 with 256GB eMMC Module Quad Core 64 Bit Single Board Computer, 1.8 GHz Frequency WiFi Bluetooth Run Orange Pi OS, Android, Debian, Ubuntu, OpenHarmony (Pi 3B 8GB+256GB eMMC) | |
 Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
+| **[Pre-sale! Orange Pi 5 16gb+5v4a Type-c Power Supply,rk3588s Pcie Module External Wifi+bt,ssd Single Computer Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W)** |
 Vendors
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W) $255.71** |
