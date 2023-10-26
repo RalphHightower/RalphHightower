@@ -25,6 +25,11 @@
 |---|
 | [Doctor Who Must Break The Oldest Regeneration Rule To Save RTD From His Previous Trap](https://screenrant.com/doctor-who-ncuti-gatwa-60th-anniversary-regeneration-rule-break/ ) |
 | [11 Ways Doctor Who Changed Forever Under Chris Chibnall](https://screenrant.com/every-doctor-who-chris-chibnall-big-change/ ) |
+| [Doctor Who Theory Explains The Real Reason Jodie Whittaker Regenerated Into David Tennant](https://screenrant.com/doctor-who-david-tennant-regeneration-timeline-broken-theory-toymaker/ ) |
+| [I Watched Every Doctor Who Episode With Jodie Whittaker's Thirteenth Doctor – These Are The Best - Men's Journal / Streaming](https://www.mensjournal.com/streaming/doctor-who-best-jodie-whittaker-episodes#gid=ci02cc29e0f0002657&pid=the-haunting-of-villa-diodati ) |
+| [Doctor Who Theory Explains The Real Reason Jodie Whittaker Regenerated Into David Tennant](https://screenrant.com/doctor-who-david-tennant-regeneration-timeline-broken-theory-toymaker/ ) |
+| [Doctor Who: The Toymaker May Not Have Caused the Doctor's Regeneration](https://www.cbr.com/doctor-who-toymaker-regeneration-red-herring/ ) |
+| [Possible New Doctor Who Regeneration Prophecy Teased In 60th Anniversary Special Image](https://screenrant.com/doctor-who-60th-anniversary-david-tennant-regeneration-teased-image/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
@@ -34,7 +39,6 @@
 |[My Life as a Doctor Who Fan: Part 4 – 1985 to 1989 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-4/ )|
 |[My Life as a Doctor Who Fan: Part 5 – 1990 to 2012 / Radio Time](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-5/ ) |
 |[My Life as a Doctor Who Fan: Part 6 – 2013 to now / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-6/ ) |
-
 
 | YouTube Videos |
 |------|
