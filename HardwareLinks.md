@@ -259,8 +259,7 @@
 | [Geeky Gadgets – LimeSDR XTRX high-performance SDR in a Mini PCIe form factor](https://www.crowdsupply.com/lime-micro/limesdr-xtrx ) |
 | [Monitor One - A customizable cellular IoT gateway for industrial equipment monitoring - CNX Software](https://www.cnx-software.com/2023/07/16/monitor-one-a-customizable-cellular-iot-gateway-for-industrial-equipment-monitoring/ ) |
 | **[Orange Pi 5, 5B, and 5 Plus SBCs are now offered with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/10/13/orange-pi-5-5b-and-5-plus-sbc-32gb-ram/ )** |
-Articles 
-| [Best GPS Tracking Devices - Buy GPS Tracker Online / Family1st](https://family1st.io/gps-trackers/ ) |
+ [Best GPS Tracking Devices - Buy GPS Tracker Online / Family1st](https://family1st.io/gps-trackers/ ) |
 | [Radxa ROCK 5B vs Raspberry Pi 4B](http://emteria.com/blog/radxa-rock-5 ) |
 | [SiFive P870 RISC-V Processor at Hot Chips 2023](https://www.servethehome.com/sifive-p870-risc-v-processor-at-hot-chips-2023/ ) |
 
