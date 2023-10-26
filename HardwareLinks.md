@@ -164,7 +164,6 @@
 | **[Orange Pi 5 16GB+5V4A Type-C Power Supply,RK3588S PCIE Module External WiFi+BT,SSD Single Computer Development Board - AliExpress](https://www.aliexpress.com/item/3256804771433419.html )** | **(H/W) $117.90** |
 | **[Pre-sale! Orange Pi 5 16gb+5v4a Type-c Power Supply,rk3588s Pcie Module External Wifi+bt,ssd Single Computer Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W) $255.71** |
-| **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br />**[Aliexpress 16GB \$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
 | **[Orange Pi 5 16GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Development Board Mini PC Desktop Run Orange Pi OS,Android12,Debian11 (Pi 5 16GB+5V4A TypeC Supply](https://a.co/d/3ayh6T6)** | ** **Amazon $149.99** |
 | [Orange Pi with 8GB LPDDR4/4x memory](https://amzn.to/3UtrrlU) | (H/W)  $75 |
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br />**$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
@@ -247,21 +246,6 @@
 | [SparkFun launches ESP32-based "Arduino IoT Weather Station" with Arduino IoT Cloud integration - CNX Software](https://www.cnx-software.com/2023/09/03/sparkfun-esp32-arduino-iot-weather-station-with-arduino-iot-cloud/ ) |
 | [Xilinx Introduces Kria K26 SoM and vision AI devkit based on Zynq Ultrascale+ XCK26 FPGA MPSoC - CNX Software](https://www.cnx-software.com/2021/04/28/xilinx-kria-k26-som-vision-ai-devkit-zynq-ultrascale-xck26-fpga-mpsoc/ ) |
 | [Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ ) |
-| [Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK](!https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ ) |
-| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
-| [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
-| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
-| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
-| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
-| **[Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ )** |
-| [$150 Axelera M.2 AI accelerator module claims to deliver up to 214 TOPS - CNX Software](https://www.cnx-software.com/2023/01/02/150-axelera-m2-ai-accelerator-214-tops/ ) |
-| [CORE-V MCU Devkit features open-source 32-bit RISC-V core, Amazon AWS IoT connectivity, Mikrobus expansion, VGA camera - CNX Software](https://www.cnx-software.com/2023/08/04/core-v-mcu-devkit-features-open-source-32-bit-risc-v-core-amazon-aws-iot-connectivity-mikrobus-expansion-vga-camera/ ) |
-| [Geeky Gadgets – LimeSDR XTRX high-performance SDR in a Mini PCIe form factor](https://www.crowdsupply.com/lime-micro/limesdr-xtrx ) |
-| [Monitor One - A customizable cellular IoT gateway for industrial equipment monitoring - CNX Software](https://www.cnx-software.com/2023/07/16/monitor-one-a-customizable-cellular-iot-gateway-for-industrial-equipment-monitoring/ ) |
-| **[Orange Pi 5, 5B, and 5 Plus SBCs are now offered with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/10/13/orange-pi-5-5b-and-5-plus-sbc-32gb-ram/ )** |
- [Best GPS Tracking Devices - Buy GPS Tracker Online / Family1st](https://family1st.io/gps-trackers/ ) |
-| [Radxa ROCK 5B vs Raspberry Pi 4B](http://emteria.com/blog/radxa-rock-5 ) |
-| [SiFive P870 RISC-V Processor at Hot Chips 2023](https://www.servethehome.com/sifive-p870-risc-v-processor-at-hot-chips-2023/ ) |
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
@@ -563,6 +547,21 @@
 | [RISC-V Serves Up Open-Source Possibilities for the Future / Electronic Design](https://www.electronicdesign.com/technologies/embedded/article/21246374/electronic-design-riscv-serves-up-opensource-possibilities-for-the-future ) |
 | [Marco Attia's Script Turns a Raspberry Pi Into a Plug-and-Play USB Gadget with Web VNC, VS Code - Hackster.io](https://www.hackster.io/news/marco-attia-s-script-turns-a-raspberry-pi-into-a-plug-and-play-usb-gadget-with-web-vnc-vs-code-0c6720392468 ) |
 | [Arm at HC35 (2023): CSS-Genesis – Chips and Cheese](https://chipsandcheese.com/2023/09/13/arm-at-hc35-2023-css-genesis/ )   |
+| [Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK](!https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ ) |
+| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
+| [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
+| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
+| [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
+| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
+| **[Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ )** |
+| [$150 Axelera M.2 AI accelerator module claims to deliver up to 214 TOPS - CNX Software](https://www.cnx-software.com/2023/01/02/150-axelera-m2-ai-accelerator-214-tops/ ) |
+| [CORE-V MCU Devkit features open-source 32-bit RISC-V core, Amazon AWS IoT connectivity, Mikrobus expansion, VGA camera - CNX Software](https://www.cnx-software.com/2023/08/04/core-v-mcu-devkit-features-open-source-32-bit-risc-v-core-amazon-aws-iot-connectivity-mikrobus-expansion-vga-camera/ ) |
+| [Geeky Gadgets – LimeSDR XTRX high-performance SDR in a Mini PCIe form factor](https://www.crowdsupply.com/lime-micro/limesdr-xtrx ) |
+| [Monitor One - A customizable cellular IoT gateway for industrial equipment monitoring - CNX Software](https://www.cnx-software.com/2023/07/16/monitor-one-a-customizable-cellular-iot-gateway-for-industrial-equipment-monitoring/ ) |
+| **[Orange Pi 5, 5B, and 5 Plus SBCs are now offered with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/10/13/orange-pi-5-5b-and-5-plus-sbc-32gb-ram/ )** |
+ [Best GPS Tracking Devices - Buy GPS Tracker Online / Family1st](https://family1st.io/gps-trackers/ ) |
+| [Radxa ROCK 5B vs Raspberry Pi 4B](http://emteria.com/blog/radxa-rock-5 ) |
+| [SiFive P870 RISC-V Processor at Hot Chips 2023](https://www.servethehome.com/sifive-p870-risc-v-processor-at-hot-chips-2023/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
