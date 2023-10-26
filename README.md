@@ -261,7 +261,7 @@ A technology company had shut down and one of the Affinity Technology Group form
 || Sun 31 inch CRT (Cathode Ray Tube)[^51] |
 || Sun CD-ROM Drive[^51] |
 || Sun Tape Drive[^51] |
-|| SCSI Drive Cabinet[^42] (3 SCSI drives)[^53]) |
+|| SCSI Drive Cabinet[^52] (3 SCSI drives)[^53]) |
 
 [^51]: My wife bought me a Sun SparcStation system at a company salvage sale in 1995 so I could keep my UNIX skills active and up to date.
 [^52]: I bought a three bay SCSI  Drive Cabinet to expand my storage capacity. 
