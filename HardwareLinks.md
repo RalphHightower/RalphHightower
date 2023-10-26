@@ -161,8 +161,7 @@
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
 | [openHab — empowering the smart home](https://www.openhab.org/) | (H/W), (S/W) |
 | [OnLogic Factor 200 Series by OnLogic — The Industrial Raspberry Pi You've Been Waiting For](https://www.onlogic.com/computers/industrial/fanless/factor-200/?gclid=EAIaIQobChMI5fqms5CB-wIV4VjBCh3nPAXjEAEYASAAEgJEJfD_BwE) | (H/W) |
-| Orange Pi 3B 8G RK3566 with 256GB eMMC Module Quad Core 64 Bit Single Board Computer, 1.8 GHz Frequency WiFi Bluetooth Run Orange Pi OS, Android, Debian, Ubuntu, OpenHarmony (Pi 3B 8GB+256GB eMMC) | |
-Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
+| **[Orange Pi 5 16GB+5V4A Type-C Power Supply,RK3588S PCIE Module External WiFi+BT,SSD Single Computer Development Board - AliExpress](https://www.aliexpress.com/item/3256804771433419.html )** | **(H/W) $117.90** |
 | **[Pre-sale! Orange Pi 5 16gb+5v4a Type-c Power Supply,rk3588s Pcie Module External Wifi+bt,ssd Single Computer Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004957748171.html )** | **(H/W) 16 GB $128.90** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **(H/W)** |
 Vendors
