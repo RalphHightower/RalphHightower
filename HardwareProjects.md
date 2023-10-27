@@ -177,6 +177,7 @@ Expansion options
 | RISC-V Software |
 |---|
 | [SiFive Software - Accelerate & Enhance your RISC-V Development.](https://www.sifive.com/software ) |
+| [What's going on with SiFive and RISC V? / TechSpot](https://www.techspot.com/news/100578-what-going-sifive-risc-v.html ) |
 
 ### Satellite Projects 
 
