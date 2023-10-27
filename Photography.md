@@ -65,6 +65,7 @@
 | [Canon EOS R5 Review - A Masterpiece of Camera Technology - Campkins Cameras](https://www.campkinscameras.com/guides/canon-eos-r5-review/ ) | Mirrorless |
 | [Review: Canon EOS R5 for pet photography / MPB](https://www.mpb.com/en-us/content/kit-guides/review-canon-eos-r5-for-pet-photography ) |
 | [Canon EOS 6D Mark II review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-6d-mk-ii-review ) | Mirrorless |
+| [Review: Canon EOS R5 for pet photography / MPB](https://www.mpb.com/en-us/content/kit-guides/review-canon-eos-r5-for-pet-photography ) | Mirrorless |
 
 ## [ChatGPT](https://chat.openai.com/)
 
