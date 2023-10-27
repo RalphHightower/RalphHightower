@@ -1,4 +1,6 @@
-# [NASA Links](https://www.nasa.gov/)
+# [NASA](https://www.nasa.gov/) / Space News
+
+## NASA Links
 
 | [NASA Links](https://www.nasa.gov/) |
 |----|
@@ -7,43 +9,50 @@
 
 <hr />
 
-# Satellite Technology
+## Satellite Technology
 
-## [State-of-the-Art of Small Spacecraft Technology](https://www.nasa.gov/smallsat-institute/sst-soa/)[^11]
+### [State-of-the-Art of Small Spacecraft Technology](https://www.nasa.gov/smallsat-institute/sst-soa/)[^11]
 
 [^11]: [Small Spacecraft Virtual Institute](https://www.nasa.gov/smallsat-institute)
 
-### [Acknowledgements](https://www.nasa.gov/smallsat-institute/sst-soa/acknowledgements)
+#### [Acknowledgements](https://www.nasa.gov/smallsat-institute/sst-soa/acknowledgements)
 
-### [1.0 Introduction](https://www.nasa.gov/smallsat-institute/sst-soa/introduction)
+#### [1.0 Introduction](https://www.nasa.gov/smallsat-institute/sst-soa/introduction)
 
-### [2.0 Integrated Spacecraft Platforms](https://www.nasa.gov/smallsat-institute/sst-soa/integrated-spacecraft-platforms)
+#### [2.0 Integrated Spacecraft Platforms](https://www.nasa.gov/smallsat-institute/sst-soa/integrated-spacecraft-platforms)
 
-### [3.0 Power](https://www.nasa.gov/smallsat-institute/sst-soa/power)
+#### [3.0 Power](https://www.nasa.gov/smallsat-institute/sst-soa/power)
 
-### [4.0 In-Space Propulsion](https://www.nasa.gov/smallsat-institute/sst-soa/in-space-propulsion)
+#### [4.0 In-Space Propulsion](https://www.nasa.gov/smallsat-institute/sst-soa/in-space-propulsion)
 
-### [5.0 Guidance, Navigation, and Contro](https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control)
+#### [5.0 Guidance, Navigation, and Contro](https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control)
 
-### [6.0 Structures, Materials, and Mechanisms](https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms)
+#### [6.0 Structures, Materials, and Mechanisms](https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms)
 
-### [7.0 Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control)
+#### [7.0 Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control)
 
-### [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
+#### [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
 
-### [9.0 Communications](https://www.nasa.gov/smallsat-institute/sst-soa/communications/)
+#### [9.0 Communications](https://www.nasa.gov/smallsat-institute/sst-soa/communications/)
 
-### [10.0 Integration, Launch, and Deployment](https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment)
+#### [10.0 Integration, Launch, and Deployment](https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment)
 
-### [11.0 Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations)
+#### [11.0 Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations)
 
-### [12.0 Identification and Tracking Systems](https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems)
+#### [12.0 Identification and Tracking Systems](https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems)
 
-### [13.0 Deorbit Systems](https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems)
+#### [13.0 Deorbit Systems](https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems)
 
-### [Summary](https://www.nasa.gov/smallsat-institute/sst-soa/summary)
+#### [Summary](https://www.nasa.gov/smallsat-institute/sst-soa/summary)
 
 <hr />
+
+## Space News 
+
+| Space News |
+|---|
+| [How NASA’s first six women astronauts changed space - The Verge](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex ) |
+| [Interstellar Travel: Magnetic Fusion Plasma Engines Could Carry Us Across the Solar System and Beyond](https://scitechdaily.com/interstellar-travel-magnetic-fusion-plasma-engines-could-carry-us-across-the-solar-system-and-beyond/ ) |
 
 ## NASA History 
 
