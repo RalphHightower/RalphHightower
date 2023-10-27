@@ -141,6 +141,8 @@ Expansion options
 |---|
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
+| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
+| [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) |
 
 ## Milk-V Pioneer 
 
