@@ -122,6 +122,7 @@
 | [iwavesystems SBC](https://www.iwavesystems.com/form-factor/sbc-cots/ ) | (H/W) |
 | [iwavesystems AM62Ax Based OSM-LF Module](https://www.iwavesystems.com/product/ti-am62ax-based-osm-lf-module/# )
 | [Jameco](https://www.jameco.com/c/Fans-Cooling.html) | (H/W) |
+| [Kendryte K230 RISC-V Development Board – CanMV-K230 – AnalogLamb](https://www.analoglamb.com/product/kendryte-k230-risc-v-development-board-canmv-k230/ ) | $49.99 |
 | **[Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module)** | (H/W) $239.90 |
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Khadas / VIM4 w/ NPU, Active Cooling](https://www.khadas.com/product-page/vim4 ) | (H/W) $$239.90 w/ NPU, Active Cooling|
@@ -562,6 +563,7 @@
 | [SparkFun launches ESP32-based "Arduino IoT Weather Station" with Arduino IoT Cloud integration - CNX Software](https://www.cnx-software.com/2023/09/03/sparkfun-esp32-arduino-iot-weather-station-with-arduino-iot-cloud/ ) |
 | [Xilinx Introduces Kria K26 SoM and vision AI devkit based on Zynq Ultrascale+ XCK26 FPGA MPSoC - CNX Software](https://www.cnx-software.com/2021/04/28/xilinx-kria-k26-som-vision-ai-devkit-zynq-ultrascale-xck26-fpga-mpsoc/ ) |
 | [Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ ) |
+| [CanMV-K230 AI development board features Kendryte K230 dual-core 64-bit RISC-V processor - CNX Software](https://www.cnx-software.com/2023/10/24/canmv-k230-ai-development-board-features-kendryte-k230-dual-core-64-bit-risc-v-processor/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
