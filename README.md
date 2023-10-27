@@ -163,6 +163,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | Canon EOS 5D Mark III | Canon RT 600 II flash |
 | EF Mount Lenses | Canon EF 24-105mm f4L |
 || Mitakon Zhongyi 20mm f/2 4.5x Super Macro Lens |
+|| Canon GPS Receiver GP-E2 |
 | PlusTek OpticFilm 8200i Ai film scanner | 35mm negative film carriers (2) |
 || 35mm slide film carriers (2) |
 
