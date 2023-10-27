@@ -1,10 +1,21 @@
-# Science Fiction — [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order )
-BY ROSIE KNIGHT 
+# Science Fiction — Dune
 
 ## Dune — Part Two Premiere Date Set for November 3, 2023[^11][^12]
 
 [^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
 [^12]: [Dune 2's Release Plan Is Completely Changing The Movie Industry (For The Better)](https://screenrant.com/dune-2-imax-delay-the-marvels-movie/ )
+
+## News / Articles 
+
+| News / Articles |
+|---|
+| [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
+| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
+| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
+| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
+| [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
+
+## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
 *Warning: this piece contains spoilers for the Dune book series.*
 
@@ -60,16 +71,6 @@ Set 100 years after the events at the beginning of The Butlerian Jihad, the book
 |Filled with clones, shocking returns, and a huge reveal about the antagonists of the series, this is an event level book that brings together the many loose threads left by the original books. Combining a complex structure, multiple character arcs, and an epic final battle this is a true climax to the overarching Dune series, which has been evolving and growing since 1967.|
 
 Rosie Knight is a contributing freelancer for IGN covering everything from anime to comic books to kaiju to kids movies to horror flicks. She has over half a decade of experience in entertainment journalism with bylines at Nerdist, Den of Geek, Polygon, and more.
-
-## News / Articles 
-
-| News / Articles |
-|---|
-| [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
-| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
-| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
-| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
-| [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
 
 ## Dune by Frank Herbert 
 
