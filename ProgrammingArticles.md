@@ -41,6 +41,7 @@
 | [GitOps with Terraform and GitHub - CodeProject](https://www.codeproject.com/Articles/5334971/GitOps-with-Terraform-and-GitHub ) |
 | [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
 | [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
+| [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
 
 ## Kubernetes 
 
