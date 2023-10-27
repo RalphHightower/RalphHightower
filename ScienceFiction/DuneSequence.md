@@ -14,6 +14,33 @@
 | [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
 | [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
 | [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
+| [Lego reveals Dune set, and a cast of incredible minifigs - Polygon](https://www.polygon.com/23930166/lego-dune-set-buy-order ) |
+| [Dune: What Is "The Spice" - Melange Drug Explained](https://screenrant.com/dune-what-is-the-spice-melange-drug-explained/ ) |
+| [Dune: How Space Travel Works & Why Spice Is Important](https://screenrant.com/dune-space-travel-spice-important-reason/ ) |
+| [Dune Movie Glossary & Terminology Guide](https://screenrant.com/dune-movie-2021-glossary-terms-word-meaning-guide/ ) |
+| [Dune: Emperor/Imperium Explainer](https://screenrant.com/dune-movie-2021-emperor-imperium-explained/ ) |
+| [Dune Cast & Character Guided](https://screenrant.com/dune-2021-movie-cast-character-guide/ ) |
+| [Dune Timeline Explained: Present To There Year 10191](https://screenrant.com/dune-movie-timeline-story-setting-years-explained/ ) |
+| [10 Major Book Changes To Expect In Dune 2 That Will Make Villleneuve's Sequel Better](https://screenrant.com/dune-2-movie-book-changes-theories-prediction/ ) |
+| [Dune 2 Is A Big Denis Villeneuve First (& It Make it it look It More Exciting)](https://screenrant.com/dune-2-denis-villeneuve-sequel-first-exciting/ ) |
+| [Dune 2: The Biggest Questions About Villeneuve's Sequel](https://screenrant.com/dune-2021-sequel-questions-story-production-timeline/ ) |
+| [Yes, Dune 2 Is Fixing The First Movie's Olympic Big Mistake](https://screenrant.com/dune-2-zendaya-chani-bigger-role-fix/ ) |
+| [Denis Villeneuve’s Dune 2 Has Already Avoided 2 Common Sequel Mistakes](https://screenrant.com/dune-2-movie-sequels-story-plan-risks-good/ ) |
+| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
+| [Dune: What Sandworms Looked Like In Every Adaptation](https://screenrant.com/dune-sandworms-look-like-movies/ ) |
+| [Every Dune Book Ranked Worst To Best](https://screenrant.com/dune-books-ranked-worst-best/ ) |
+| [How Many Dune Movies Will There Be? Every Possible Sequel & Spinoff](https://screenrant.com/dune-movies-sequels-spinoffs-future-universe-explained/ ) |
+| [How The Success of Dune's Reboot Will Be Decided By One Side Character](https://screenrant.com/dune-movie-success-failure-liet-kynes-character-important/ ) |
+| [Why Dune Uses Swords Instead Of Guns](https://screenrant.com/dune-swords-no-guns-future-explained/ ) |
+| [Why Dune's Reviews Are So Positive](https://screenrant.com/dune-movie-reviews-positive-rotten-tomatoes-explained/ ) |
+| [Why Dune 2021 Can’t Be A True Book Adaptation](https://screenrant.com/dune-2021-book-adaptation-accurate-problems/ ) |
+| [Why The Dune Books Could Kill The Film Franchise](https://screenrant.com/dune-books-kill-film-scope-franchise/ ) |
+| [Why Dune 2 Hasn't Been Greenlit By The Studio Yet](https://screenrant.com/dune-2-movie-sequel-wb-not-confirmed-reason/ ) |
+| [What You Need To Know Before Seeing Dune](https://screenrant.com/dune-know-before-seeing/ ) |
+| [Why Dune Was Always Destined To Be A Divisive Movie](https://screenrant.com/dune-2021-denis-villeneuve-movie-divisive-reason/ ) |
+| [Why Dune's Streaming Performance in More Important (to WB) Than Box Office](https://screenrant.com/dune-streaming-performance-more-important-box-office-wb/ ) |
+| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
+| [Villeneuve's Dune 2 Follow-Up Is Perfect For His Next Sci-Fi Miracle](https://screenrant.com/denis-villeneuve-next-movie-after-dune-2-perfect/ ) |
 
 ## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
