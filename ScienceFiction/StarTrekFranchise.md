@@ -77,11 +77,10 @@
 | [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ ) |
 | [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ ) |
 | [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ ) |
-| A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
+| [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
 | [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
 | [Why Star Trek's Avery Brooks Returning To The Franchise After Deep Space Nine Seems Unlikely](https://www.cinemablend.com/television/star-trek-deep-spae-nine-avery-brooks-return-to-franchise-unlikely ) |
 | [Why Ezri Replaced Jadzia As Dax Explained By Star Trek: DS9 Writer](https://screenrant.com/star-trek-ds9-dax-jadzia-ezri-replacement-why/ ) |
-| [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
 | [William Shatner Was “A Pleasure” In Star Trek Generations, Despite Patrick Stewart’s Early “Disappointment”](https://screenrant.com/william-shatner-star-trek-generations-pleasure-patrick-stewart/ ) |
 | [Enterprise Had A Big Problem From The Star Trek Prequel's Start, Says Showrunner](https://screenrant.com/star-trek-enterprise-problem-conccept-alone-showrunner/ ) |
 | [12 Important Star Trek Heroes Who Aren't In Starfleet](https://screenrant.com/star-trek-important-heroes-not-starfleet/#dr-agnes-jurati-the-borg-queen---star-trek-picard ) |
@@ -94,7 +93,9 @@
 | [“Sky’s The Limit”: Who Invented Star Trek: TNG Finale's Last Line Revealed By Patrick Stewart](https://screenrant.com/star-trek-tng-finale-last-line-patrick-stewart/ ) |
 | [Patrick Stewart Reveals How He Wanted Star Trek: Picard to End](https://www.cbr.com/patrick-stewart-star-trek-picard-ending-idea/ ) |
 | [Tom Hanks Is A Big Star Trek: The Next Generation Fan, And Patrick Stewart Has Made A Wild Claim About His Love For The Franchise](https://www.cinemablend.com/television/tom-hanks-big-star-trek-next-generation-fan-patrick-stewart-wild-claim-love-franchise ) |
-
+| [Patrick Stewart Was Glad Star Trek: The Next Generation Ended With Season 7](https://www.slashfilm.com/1423433/patrick-stewart-glad-star-trek-the-next-generation-ended-season-7/ ) |
+| [Why Making Star Trek: The Next Generation's Most Famous Episode Was So Painful For Patrick Stewart](https://www.slashfilm.com/1424505/star-trek-the-next-generation-patrick-stewart-best-of-both-worlds-painful/ ) |
+| [Star Trek: DS9 Was "Never Going To Go Into A Movie" Says Kira Actor](https://screenrant.com/star-trek-ds9-movie-never-considered-reason-expensive/ ) |
 
 ## Star Trek Food Recipes 
 
