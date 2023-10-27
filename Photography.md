@@ -51,6 +51,7 @@
 | [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
 | [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
 | [4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length ) |
+| [The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119 ) |
 
 [^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List 
 
