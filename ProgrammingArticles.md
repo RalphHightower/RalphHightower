@@ -42,6 +42,7 @@
 | [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
 | [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 | [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
+| [Code Review: A Developer's Checklist](https://www.codemotion.com/magazine/backend/code-review-checklist-for-developers/ ) |
 
 ## Kubernetes 
 
