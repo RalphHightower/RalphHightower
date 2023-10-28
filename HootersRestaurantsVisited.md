@@ -1,6 +1,6 @@
 # [Hooter Restaurants Visited](https://www.hooters.com)
 
-While working at [NCR](https://www.ncr.com) E&M-Columbia[^1], it was a Friday tradition that Customer Support would meet at the Hooters[^2] on Broad River Road for Happy Hour.
+While working at [NCR](https://www.ncr.com) E&M-Columbia[^11], it was a Friday tradition that Customer Support would meet at the Hooters[^2] on Broad River Road for Happy Hour.
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-GA-IA-IN-KS-KY-MN-MO-NC-NE-OH-RI-SC-TN-VA.png" border=0><br />Create Your Own Visited States Map</a>
 
