@@ -32,8 +32,8 @@ Working in the landlocked state of Iowa, I wanted some raw oysters. When I passe
 | South Carolina | Columbia | (Two Notch) |
 | South Carolina | Greenville ||
 | South Carolina | Myrtle Beach |   |
-| South Carolina | Myrtle Beach |   |
-| South Carolina | Myrtle Beach |   |
+| South Carolina | Myrtle Beach North |   |
+| South Carolina | Myrtle Beach South |   |
 | South Carolina | Spartanburg ||
 | Tennessee | Chattanooga[^14] ||
 | Tennessee | Knoxville[^13] ||
