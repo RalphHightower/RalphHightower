@@ -44,6 +44,15 @@
 | [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
 | [Code Review: A Developer's Checklist](https://www.codemotion.com/magazine/backend/code-review-checklist-for-developers/ ) |
 
+## Qt for VS Code 
+
+| Qt for VS Code |
+|---|
+| [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
+| [VS Code for Qt Applications - Part 1 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/ ) |
+| [VS Code for Qt Applications - Part 2 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-2/ ) | 
+| [VS Code for Qt Applications - Part 3 - KDAB on Qt development](https://www.kdab.com/using-vsc-for-qt-apps-part-3/ ) |
+
 ## Kubernetes 
 
 | Kubernetes |
