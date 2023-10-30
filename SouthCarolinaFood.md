@@ -19,6 +19,7 @@
 | [Private Property](https://www.privatepropertysc.com/ )[^18] | Cajun | Lexington |
 | [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/)[^15] | Pan Asian,  Sushi | Lexington |
 | [Grecian Gardens](http://www.greciangardenssc.com/) | Greek | West Columbia |
+| [Ariana's Greek Restaurant](https://www.arianasgreekrestaurant.com/ ) | Greek | West Columbia |
 | [Columbia's Greek Festival - Columbia, SC](https://columbiasgreekfestival.com/ )[^19] | Greek | 1931 Sumter Street<br />Columbia SC 29201<br>Thu-Sat 10a-10p<br />Sun 12p-6p|
 
 [^11]: I haven't been there, but I enjoy oysters, seafood, and steak.
