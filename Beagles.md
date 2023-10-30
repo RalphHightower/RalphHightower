@@ -119,7 +119,8 @@ Some funny moments from Becky's life:
 
 Becky gave birth to two sons, Trucker and Traveler. The origins of their names is another story.
 
-### Beagle Links / Articles |
+### Beagle Links / Articles
+
 | Beagle Links / Articles |
 |---|
 | [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/) |
