@@ -25,6 +25,24 @@
 | [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
 | [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
 
+| Free AI Courses |
+|---|
+| **Beginner Courses** |
+| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ ) |
+| [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/ ) |
+| [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/ ) |
+| [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/ ) |
+| [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/ ) |
+| [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/ ) |
+| [Pair Programming with a Large Language Model](https://www.deeplearning.ai/short-courses/pair-programming-llm/ ) |
+| [Understanding and Applying Text Embeddings](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/ ) |
+| [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/ ) |
+| **Intermediate Courses** |
+| [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/ ) |
+| [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/ ) |
+| [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/ ) 
+| [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/ ) |
+
 #### Programing Articles 
 
 | Programing Articles |
