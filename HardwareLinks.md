@@ -110,6 +110,7 @@
 | [GnuBee Personal Cloud 1 / Crowd Supply](https://www.crowdsupply.com/gnubee/personal-cloud-1 ) | (H/W) |
 | [Hailo AI Accelerator](https://hailo.ai/) | (H/W) |
 | [Hailo-8™ M.2 AI Acceleration Module](https://hailo.ai/products/hailo-8-m2-module/) | (H/W) |
+| [Hat Labs — Sailor Hat for Raspberry Pi v2 Development Update - Hat Labs](https://static.hatlabs.fi/post/2022/12/25/shrpi-v2-update.html ) | (H/W) |
 | **[Home Assistant](https://www.home-assistant.io/yellow/)** | (H/W)[^12] |
 | [Icom America – Wideband Receiver - Features  America](http://www.icomamerica.com/en/products/amateur/receivers/r8600/default.aspx ) | (H/W) |
 | [I-Pi SMARC 1200](https://www.ipi.wiki/products/i-pi-smarc-1200 ) | (H/W) $379 4GB |
@@ -222,6 +223,7 @@
 | **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
+| **[SolidRun / HummingBoard 8P Edge AI](https://shop.solid-run.com/product/SRMP8-EVKHP-H8-R1.2/ )** | (H/W) $590.00 |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
 | **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card)** | **(H/W) $119.00** |
@@ -578,8 +580,18 @@
 | [Mixtile Cluster Box supports four Rockchip RK3588 SBCs connected over PCIe - CNX Software](https://www.cnx-software.com/2023/10/20/mixtile-cluster-box-supports-four-rockchip-rk3588-sbcs-connected-over-pcie/ ) |
 | [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) |
 | [The Portenta Hat Carrier board adds Raspberry Pi HAT support to the Portenta X8 SBC - CNX Software](https://www.cnx-software.com/2023/10/26/portenta-hat-carrier-board-raspberry-pi-hat-portenta-x8-sbc/ ) |
-
-[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
+| [Junk Bin Cyberdish Turns You Into The Satellite Tracker / Hackaday](https://hackaday.com/2023/10/21/junk-bin-cyberdish-turns-you-into-the-satellite-tracker/ ) |
+| [Cortex X2: Arm Aims High – Chips and Cheese](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/ ) |
+| [2023 Hackaday Supercon Badge: Welcome To The Vectorscope / Hackaday](https://hackaday.com/2023/10/18/2023-hackaday-supercon-badge-welcome-to-the-vectorscope/ ) |
+| [SV6301A Handheld Vector Network Analyzer Teardown – Kerry D. Wong](http://www.kerrywong.com/2023/10/15/sv6301a-haeld-vector-network-analyzer-teardown-pictures/ ) |
+| [Hummingboard 8P Edge AI SBC combines NXP i\.MX 8M Plus SoC with Hailo-8 AI accelerator - CNX Software](https://www.cnx-software.com/2023/10/17/hummingboard-8p-edge-ai-sbc-nxp-i-mx-8m-plus-soc-hailo-8-ai-accelerator/ ) |
+| [Debug Probes for RP2040 with VS Code / MCU on Eclipse](https://mcuoneclipse.com/2023/10/22/debug-probes-for-rp2040-with-vs-code/ ) |
+| [SECO Modular Vision HMI displays support Arm and x86 SMARC 2.1 modules - CNX Software](https://www.cnx-software.com/2023/10/10/seco-modular-vision-hmi-displays-support-arm-and-x86-smarc-2-1-modules/ ) |
+| [Blues Accelerates Developing Globally Connected IIoT Devices with Their Latest Hardware Kits - Hackster.io](https://www.hackster.io/news/blues-accelerates-developing-globally-connected-iiot-devices-with-their-latest-hardware-kits-ff164d3841fd ) |
+| [ZimaCube looks like a compelling open source NAS alternative to Synology, QNAP / Stark Insider](https://www.starkinsider.com/2023/10/zimacube-open-source-nas-alternative-synology-qnap.html ) |
+| [SONOFF SNZB-06P Zigbee human presence sensor is base mon a 5.8GHz microwave radar - CNX Software](https://www.cnx-software.com/2023/10/25/sonoff-snzb-06p-zigbee-human-presence-sensor-5-8ghz-microwave-radar/ ) |
+| [Raspberry Pi CM4-based industrial panel PC adds 4G LTE, RS232 and RS485, M.2 NVMe SSD - CNX Software](https://www.cnx-software.com/2023/10/27/raspberry-pi-cm4-based-industrial-panel-pc-adds-4g-lte-rs232-and-rs485-m-2-nvme-ssd/ ) |
+| [PC Fan Controller Works On Most Operating Systems / Hackaday](https://hackaday.com/2023/10/27/pc-fan-controller-works-on-most-operating-systems/ ) |
 
 ## Satellite Projects 
 
