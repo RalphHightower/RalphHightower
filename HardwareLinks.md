@@ -144,7 +144,10 @@
 | [Milk-V Meles: The Classic Creation of a RISC-V Single Board Computer](https://milkv.io/meles ) |
 | [Mikroe — Time Saving Embedded Tools](https://www.mikroe.com/) | (H/W) |
 | **[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )** | **(H/W) $1999 128 GB + 1 TB** |
-| [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) <br /> [Mouser Distributor](https://www.mouser.com/) | (H/W) |
+| [Mixtile Store / Mixtile](https://www.mixtile.com/store/ ) |
+| [Mixtile Cluster Box Archives / Mixtile](https://www.mixtile.com/article-categories/cluster-box/ ) |
+| [Cluster Box / Mixtile](https://www.mixtile.com/store/accessory/cluster-box/ ) |
+| **[Blade 3 / Mixtile](https://www.mixtile.com/store/sbc/blade-3/ )** | **(H/W) $399.00 16GB** |
 | **[Mixtile Core 3588E / Mixtile](https://www.mixtile.com/core-3588e/ )** | (H/W) 16GB |
 | [MS-98M3 3.5" SBC with Intel® Tiger Lake-UP3 for Fanless, Ultra Low-Power, High-Performance & Wide Temperature Solution](https://ipc.msi.com/product_detail/Single-Board-Computer/3.5%22-SBC/MS-98M3) | (H/W) |
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
@@ -569,6 +572,10 @@
 | [DSOM-020R PX30 development board review - Unboxing, Benchmarks, and Zigbee gateway - CNX Software](https://www.cnx-software.com/2023/10/24/dsom-020r-px30-development-board-review-unboxing-benchmarks-and-zigbee-gateway/ ) |
 | [CanMV-K230 AI development board features Kendryte K230 dual-core 64-bit RISC-V processor - CNX Software](https://www.cnx-software.com/2023/10/24/canmv-k230-ai-development-board-features-kendryte-k230-dual-core-64-bit-risc-v-processor/ ) |
 | [RISC-V Bases and Extensions Explained - CNX Software](https://www.cnx-software.com/2019/08/27/risc-v-bases-and-extensions-explained/ ) |
+| [Mixtile Blade 3 - A Rockchip RK3588 Pico-ITX board for server applications - CNX Software](https://www.cnx-software.com/2022/03/11/mixtile-blade-3-rockchip-rk3588-pico-itx-board-server-applications/ ) |
+| [Mixtile reveals U.2 to PCIe/SATA breakout board for Rockchip RK3588 cluster - CNX Software](https://www.cnx-software.com/2022/06/18/mixtile-u2-to-pcie-sata-breakout-board-rockchip-rk3588-cluster/ ) |
+| [Mixtile Cluster Box supports four Rockchip RK3588 SBCs connected over PCIe - CNX Software](https://www.cnx-software.com/2023/10/20/mixtile-cluster-box-supports-four-rockchip-rk3588-sbcs-connected-over-pcie/ ) |
+| [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
