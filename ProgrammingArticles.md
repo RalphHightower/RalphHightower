@@ -40,7 +40,7 @@
 | **Intermediate Courses** |
 | [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/ ) |
 | [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/ ) |
-| [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/ ) 
+| [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/ ) |
 | [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/ ) |
 
 #### Programing Articles 
