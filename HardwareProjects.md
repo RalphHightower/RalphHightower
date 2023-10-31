@@ -143,6 +143,12 @@ Expansion options
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
 | [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) |
+| [Raspberry Pi 5 Review: A New Standard for Makers (Updated) / Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-5 ) |
+| [The Raspberry Pi 5 is here!](https://www.yodeck.com/news/raspberry-pi-5/ ) |
+| [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
+| [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) |
+| [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
+| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
 
 ## Milk-V Pioneer 
 
