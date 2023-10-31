@@ -96,6 +96,12 @@
 | [Patrick Stewart Was Glad Star Trek: The Next Generation Ended With Season 7](https://www.slashfilm.com/1423433/patrick-stewart-glad-star-trek-the-next-generation-ended-season-7/ ) |
 | [Why Making Star Trek: The Next Generation's Most Famous Episode Was So Painful For Patrick Stewart](https://www.slashfilm.com/1424505/star-trek-the-next-generation-patrick-stewart-best-of-both-worlds-painful/ ) |
 | [Star Trek: DS9 Was "Never Going To Go Into A Movie" Says Kira Actor](https://screenrant.com/star-trek-ds9-movie-never-considered-reason-expensive/ ) |
+| [TNG's Enterprise-D & Picard Season 3's Starships Assembled In Amazing Star Trek VFX](https://screenrant.com/star-trek-picard-starships-titan-enterprise-d-frontier-day/ ) |
+| [10 Best Quotes From Star Trek: First Contact](https://screenrant.com/star-trek-first-contact-best-dialogue-quotes/ ) |
+| [Picard's Cardassian Torture Made Star Trek: DS9's Setup Personal](https://screenrant.com/star-trek-picard-cardassian-torture-ds9-setup-personal/ ) |
+| [Patrick Stewart Thinks He Wasn't Great in TNG's Early Seasons](https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847 ) |
+| [Whoopi Goldberg Wanted Worf’s Job In Star Trek: TNG, Says Executive Producer](https://screenrant.com/whoopi-goldberg-star-trek-tng-chief-security-bartender/ ) |
+| [5 Famous Starship Bars In Star Trek Explained](https://screenrant.com/star-trek-starship-bars-10-forward-explained/#ten-forward-in-star-trek-picard-season-3 ) |
 
 ## Star Trek Food Recipes 
 
