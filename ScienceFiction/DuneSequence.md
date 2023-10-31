@@ -45,6 +45,8 @@
 | [Dune's Lady Jessica Book Change Shows Why It's Such A Great Adaption](https://screenrant.com/dune-movie-books-jessica-paul-fear-quote-change/ ) |
 | [Dune 2021 Ending & Real Meaning Explained](https://screenrant.com/dune-movie-2021-ending-explained-meaning/ ) |
 
+## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
+
 *Warning: this piece contains spoilers for the Dune book series.*
 
 Ever since Frank Herbert released his seminal sci-fi novel Dune in 1965, readers have been consumed by the expansive and complex political wranglings of his influential stories. While Herbert only wrote six Dune novels while he was alive, since his death, his son Brian Herbert and bestselling author Kevin J. Anderson have authored many new canon Dune stories. In fact, the series is currently at an astounding 23 novels and counting; spanning 15,000 years. If you're wondering where to start and how you're supposed to read them, we're here to help.
