@@ -41,8 +41,9 @@
 | [Why Dune's Streaming Performance in More Important (to WB) Than Box Office](https://screenrant.com/dune-streaming-performance-more-important-box-office-wb/ ) |
 | [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
 | [Villeneuve's Dune 2 Follow-Up Is Perfect For His Next Sci-Fi Miracle](https://screenrant.com/denis-villeneuve-next-movie-after-dune-2-perfect/ ) |
-
-## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
+| [Dune 2 Will Struggle To Adapt 1 Important Paul Scene From The Books](https://screenrant.com/dune-2-struggle-adapt-paul-scene-books/ ) |
+| [Dune's Lady Jessica Book Change Shows Why It's Such A Great Adaption](https://screenrant.com/dune-movie-books-jessica-paul-fear-quote-change/ ) |
+| [Dune 2021 Ending & Real Meaning Explained](https://screenrant.com/dune-movie-2021-ending-explained-meaning/ ) |
 
 *Warning: this piece contains spoilers for the Dune book series.*
 
