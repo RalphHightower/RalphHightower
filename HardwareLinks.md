@@ -36,6 +36,7 @@
 | [AndesAIRE™ AnDLA I350 AI/ML - Andes Technology](http://www.andestech.com/en/products-solutions/andesaire-ai/ ) | (H/W)|
 | [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200#products )| $299 - $499 (H/W) |
 | **[Arace Tech — Milk-V Mars CM](https://arace.tech/products/milk-v-mars-cm )** | **[$84.00 8GB w/ WiFi 5/BT5.2](https://arace.tech/products/milk-v-mars-cm)** |
+| [Arduino Portenta Hat Carrier](https://www.arduino.cc/pro/hardware-product-portenta-hat-carrier/ ) | (H/W) $45.00 |
 | [Arduino](https://store-usa.arduino.cc/) | (H/W) |
 | [Asus IOT](https://iot.asus.com/products/coral/) | (H/W) |
 | **[ASUS Tinker Board 3N](https://tinker-board.asus.com/product/tinker-board-3N.html )** | **8 GB/64GB** (H/W) |
@@ -576,6 +577,7 @@
 | [Mixtile reveals U.2 to PCIe/SATA breakout board for Rockchip RK3588 cluster - CNX Software](https://www.cnx-software.com/2022/06/18/mixtile-u2-to-pcie-sata-breakout-board-rockchip-rk3588-cluster/ ) |
 | [Mixtile Cluster Box supports four Rockchip RK3588 SBCs connected over PCIe - CNX Software](https://www.cnx-software.com/2023/10/20/mixtile-cluster-box-supports-four-rockchip-rk3588-sbcs-connected-over-pcie/ ) |
 | [Mixtile Core 3588E Rockchip RK3588 system-on-module works with NVIDIA Jetson TX2 NX carrier boards - CNX Software](https://www.cnx-software.com/2023/04/28/mixtile-core-3588e-rockchip-rk3588-system-on-module-nvidia-jetson-tx2-nx-carrier-boards/ ) |
+| [The Portenta Hat Carrier board adds Raspberry Pi HAT support to the Portenta X8 SBC - CNX Software](https://www.cnx-software.com/2023/10/26/portenta-hat-carrier-board-raspberry-pi-hat-portenta-x8-sbc/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
