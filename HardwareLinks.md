@@ -593,6 +593,8 @@
 | [Raspberry Pi CM4-based industrial panel PC adds 4G LTE, RS232 and RS485, M.2 NVMe SSD - CNX Software](https://www.cnx-software.com/2023/10/27/raspberry-pi-cm4-based-industrial-panel-pc-adds-4g-lte-rs232-and-rs485-m-2-nvme-ssd/ ) |
 | [PC Fan Controller Works On Most Operating Systems / Hackaday](https://hackaday.com/2023/10/27/pc-fan-controller-works-on-most-operating-systems/ ) |
 
+[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
+
 ## Satellite Projects 
 
 | Satellite Projects |
