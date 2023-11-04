@@ -185,8 +185,8 @@
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
 | **[PikoQube- PocketQube Training Kit from Orion Space on Tindie](https://www.tindie.com/products/orionspace/pikoqube-pocketqube-training-kit/ )** | **(H/W) $800** |
 | **[Queclink WR300FG 5G Industrial Cellular Router](https://www.queclink.com/product/wr300fg/)** | (H/W) |
-| [Rak Wireless Wisgate Connect](https://www.rakwireless.com/en-us/products/wisgate-connect)| (H/W)|
-| [Raspberry PI](https://www.raspberrypi.com/) | (H/W) 
+| [RAKWireless Blues.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | (H/W) $158.00 |
+| [Raspberry PI](https://www.raspberrypi.com/) | (H/W) |
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
@@ -592,6 +592,7 @@
 | [SONOFF SNZB-06P Zigbee human presence sensor is base mon a 5.8GHz microwave radar - CNX Software](https://www.cnx-software.com/2023/10/25/sonoff-snzb-06p-zigbee-human-presence-sensor-5-8ghz-microwave-radar/ ) |
 | [Raspberry Pi CM4-based industrial panel PC adds 4G LTE, RS232 and RS485, M.2 NVMe SSD - CNX Software](https://www.cnx-software.com/2023/10/27/raspberry-pi-cm4-based-industrial-panel-pc-adds-4g-lte-rs232-and-rs485-m-2-nvme-ssd/ ) |
 | [PC Fan Controller Works On Most Operating Systems / Hackaday](https://hackaday.com/2023/10/27/pc-fan-controller-works-on-most-operating-systems/ ) |
+| [RAKwireless Blues.ONE LoRaWAN, LTE-M and NB-IoT devkit ships with Blues NoteCard including a 500MB data plan - CNX Software](https://www.cnx-software.com/2023/11/01/rakwireless-blues-one-lorawan-lte-m-and-nb-iot-devkit-ships-with-blues-notecard/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
