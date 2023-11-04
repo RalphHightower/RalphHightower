@@ -1,4 +1,4 @@
-# References  
+# References / [GitHub](https://github.com/)
 
 | References | Purpose |
 |------------------------|---------|
@@ -83,6 +83,7 @@
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
+| [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
@@ -172,6 +173,7 @@
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Visa](https://github.com/visa ) | |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
+| [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
