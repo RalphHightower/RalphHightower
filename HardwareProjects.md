@@ -174,7 +174,7 @@ Expansion options
 
 | Single Board Computers |
 |--
-| [6 Fantastic Single Board Computers (SBC) compared - Geeky Gadgets](https://www.geeky-gadgets.com/single-board-computers-sbc-compared/ ) 
+| [6 Fantastic Single Board Computers (SBC) compared - Geeky Gadgets](https://www.geeky-gadgets.com/single-board-computers-sbc-compared/ ) |
 | [Getting RISC-V (again): Milk-V's Mars CM / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm ) |
 
 ### Satellite 
