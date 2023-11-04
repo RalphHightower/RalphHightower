@@ -102,6 +102,11 @@
 | [Patrick Stewart Thinks He Wasn't Great in TNG's Early Seasons](https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847 ) |
 | [Whoopi Goldberg Wanted Worf’s Job In Star Trek: TNG, Says Executive Producer](https://screenrant.com/whoopi-goldberg-star-trek-tng-chief-security-bartender/ ) |
 | [5 Famous Starship Bars In Star Trek Explained](https://screenrant.com/star-trek-starship-bars-10-forward-explained/#ten-forward-in-star-trek-picard-season-3 ) |
+| [Jonathan Frakes Is Patrick Stewart's "First Choice" & Favorite Star Trek Director](https://screenrant.com/jonathan-frakes-patrick-stewart-favorite-star-trek-director/ ) |
+| [‘Picard’ Makeup Designer Reveals ‘Star Trek 4’ Pre-Production Shut Down In 2022 Over Script Issues – TrekMovie.com](https://trekmovie.com/2023/11/01/picard-makeup-designer-reveals-star-trek-4-pre-production-shut-down-in-2022-over-script-issues/ ) |
+| [Patrick Stewart Realized Next Gen Was A Big Deal During A Hilarious Star Trek Fan Encounter](https://www.slashfilm.com/1426072/patrick-stewart-next-generation-big-deal-hilarious-star-trek-fan-encounter/ ) |
+| [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
+| [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
 
 ## Star Trek Food Recipes 
 
