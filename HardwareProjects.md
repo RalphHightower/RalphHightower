@@ -170,6 +170,13 @@ Expansion options
 | [SparkFun MicroMod Main Board - Single](https://www.sparkfun.com/products/20748) | 
 | [SparkFun MicroMod Main Board - Double](https://www.sparkfun.com/products/20595) | 
 
+## Single Board Computers 
+
+| Single Board Computers |
+|--
+| [6 Fantastic Single Board Computers (SBC) compared - Geeky Gadgets](https://www.geeky-gadgets.com/single-board-computers-sbc-compared/ ) |
+| [Getting RISC-V (again): Milk-V's Mars CM / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm ) |
+
 ### Satellite 
 
 | Satellite |
