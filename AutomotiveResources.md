@@ -23,11 +23,11 @@
 |---|
 | [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
 
-## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
+## [GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
 [Canada sunsetted cellular 2G CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. Documents retrieved from NHTSA (US) https://nhtsa.gov.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
-## Owners Manuals 
+### Owners Manuals 
 
 | Make | Model | Year | Publication |
 |-------|--------|-------|-------------|
@@ -57,7 +57,7 @@
 
 [^21]: My bucket list car
 
-## ODB-II Codes
+### ODB-II Codes
 
 | ODB-II Codes | 
 |--------------|
@@ -69,9 +69,9 @@
 | [RealDash — ODB-II Code Reader](https://realdash.net/) |
 | [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
-## API (Application Program Interface)
+### API (Application Program Interface)
 
-## Reviews 
+### Reviews 
 
 | Reviews |
 |---|
@@ -91,6 +91,17 @@
 | [Toyota](https://www.toyota.com/) |
 |---|
 | [Toyota API Portal / Toyota Developer Portal](https://developer.eig.toyota.com/toyota-api-portal ) |
+
+## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
+
+| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) |
+|---|
+|[2024 Chevelle 70/SS: What We Know So Far](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
+| [10 Ways The New Chevelle 70/SS Reignites The Muscle Car Market](https://www.hotcars.com/how-new-chevelle-reignites-muscle-cars/ ) |
+| [10 Reasons We're Excited About The New Chevelle Model: 70/SS](https://www.hotcars.com/new-chevrolet-chevelle-model/ ) |
+| [The New Chevelle 70/SS: 10 Features Every Gearhead Wants](https://www.hotcars.com/chevelle-70ss-anticipated-features/ ) |
+| [This Retro-Modern Trans Am 70/SS Chevelle Super Sport Is Worth Every Penny](https://www.hotcars.com/retro-modern-trans-am-70ss-chevelle-super-sport/ ) |
+| [TransAm Worldwide](https://transamworldwide.com/current-models-2-2/? ) |
 
 ## Scale Model Cars
 
