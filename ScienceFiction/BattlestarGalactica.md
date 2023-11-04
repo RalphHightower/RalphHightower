@@ -1,4 +1,6 @@
-# Science Fiction — Battlestar Galactica 
+# Science Fiction — Battlestar Galactica
+
+## News / Articles 
 
 | Battlestar Galactica |
 |---|
@@ -8,3 +10,6 @@
 | [Battlestar Galactica: The Physics Behind The FTL Drive](https://gamerant.com/battlestar-galactica-physics-behind-ftl-drive/ ) |
 | [Battlestar Galactica: Who Are The Acmarans?](https://gamerant.com/battlestar-galactica-who-are-acmarans-explained/ ) |
 | [Battlestar Galactica: Who Are The Centurions?](https://gamerant.com/battlestar-galactica-who-are-centurions-explained/ ) |
+| [Battlestar Galactica: The Fall Of Count Iblis, Explained](https://gamerant.com/battlestar-galactica-fall-count-iblis-explained/ ) |
+| [Battlestar Galactica: The Lords of Kobol, Explained](https://gamerant.com/battlestar-galactica-lords-of-kobol-explained/ ) |
+| [Battlestar Galactica: The Cylon War, Explained](https://gamerant.com/battlestar-galactica-the-cylon-war-explained/ ) |
