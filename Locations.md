@@ -46,3 +46,12 @@
 |You're welcome! I'm glad I could assist you. If you ever have more questions or need help in the future, don't hesitate to reach out. Have a great day!|
 | *"Live long and prosper."* |
 |Thank you! Live long and prosper as well 🖖 If you need anything else, feel free to ask anytime! Have a wonderful day!|
+
+## South Carolina 
+
+### Coastal 
+
+| [56-Acre Retreating Offers Private Island Living in the Heart of the South Carolina Lowcountry](https://www.mansionglobal.com/articles/this-56-acre-retreat-offers-private-island-living-in-the-heart-of-the-south-carolina-lowcountry-44bbe985 ) |
+|---|
+| [8 Pine Island, Okatie, SC, 29909](https://www.serhant.com/listings/7649017 ) |
+| [This 56-Acre Retreating Offers Private Island Living in the Heart of the South Carolina Lowcountry](https://www.mansionglobal.com/articles/this-56-acre-retreat-offers-private-island-living-in-the-heart-of-the-south-carolina-lowcountry-44bbe985 ) |
