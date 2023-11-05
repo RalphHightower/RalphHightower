@@ -2,6 +2,7 @@
 
 | Best Calvin And Hobbes Collections |
 |---|
+| **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 ) $99.58** |
 | [15 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/#calvin-39-s-parents-worry-about-his-mental-health ) |
 | [Calvin & Hobbes 10 Best Characters](https://www.cbr.com/calvin-n-hobbes-favorite-characters/ ) |
 | [Calvin's Iconic Moments In Calvin & Hobbes](https://www.cbr.com/calvin-hobbes-best-calvin-stories/ ) |
