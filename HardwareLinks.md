@@ -56,7 +56,13 @@
 | [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
-| [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
+| [102110646 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110646/15929655 ) | $185.22000  |
+| [102110646 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110646/15929655 )  | $185.22000 |
+| [102110646 BeagleBoard by Seeed Studio / Mouser](https://www.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110646?qs=Znm5pLBrcAKSPlLdpqfmWA%3D%3D ) | $189.00 |
+| [102110898 BeagleBoard by Seeed Studio / Mouser](https://www.sparkfun.com.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110898?qs=HoCaDK9Nz5eU8X3%252BpFx5gw%3D%3D ) | (H/W) $149.00 |
+| [102110898 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110898/21706497 ) | $170.67 |
+| [BeagleBone® AI-64 - BeagleBoard](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
+| [BeagleBone® AI-64](https://www.beagleboard.org/boards/beaglebone-ai-64 ) || [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 |[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
@@ -129,6 +135,7 @@
 | [Khadas \(ARM Single Board Computers\)](https://www.khadas.com/shop?Collection=All) | (H/W) |
 | [Khadas / VIM4 w/ NPU, Active Cooling](https://www.khadas.com/product-page/vim4 ) | (H/W) $$239.90 w/ NPU, Active Cooling|
 | [Kria KV260 Vision AI Starter Kit](https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html#whatsinside ) | (H/W) $249.00 MSRP |
+| [Libre Computer Board ROC-RK3328-CC (Renegade) Mini Computer with Gigabit Ethernet and USB 3.0 (4GB) : Electronics](https://www.amazon.com/Libre-Computer-ROC-RK3328-CC-Renegade-Ethernet/dp/B078RT6H8X/ref=sr_1_5?content-id=amzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4%3Aamzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4&keywords=libre+computer&pd_rd_r=e1c74c98-1574-4339-9721-ff1e568f9915&pd_rd_w=9YmX0&pd_rd_wg=Tzry2&pf_rd_p=e29ec872-7a6b-4239-85fc-3765694525e4&pf_rd_r=0B0GCZB30G161H5X4YWV&qid=1699158837&sr=8-5 ) | Amazon $50.00 |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** Pre-order |
 |[Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B – RAKwireless Store](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible )|(H/W) $94|
 | **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** |  **$350.50 32GB/128GB** |
@@ -193,6 +200,7 @@
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 | **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
 | **[Raxda Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **[$189.00 16GB](https://shop.allnetchina.cn/products/rock5-model-b)** |
+| [RAKWireless – Blues\.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | $158.00 |
 | [RAKWireless RAK7391 Compute Module 4 (CM4) Carrier Board – RAKwireless Store](https://store.rakwireless.com/products/wisgate-connect-base-kit-rak7391 ) | (H/W) $381 |
 | [RAKWireless — Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible ) | (H/W) |
 |[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
@@ -594,6 +602,14 @@
 | [PC Fan Controller Works On Most Operating Systems / Hackaday](https://hackaday.com/2023/10/27/pc-fan-controller-works-on-most-operating-systems/ ) |
 | [RAKwireless Blues.ONE LoRaWAN, LTE-M and NB-IoT devkit ships with Blues NoteCard including a 500MB data plan - CNX Software](https://www.cnx-software.com/2023/11/01/rakwireless-blues-one-lorawan-lte-m-and-nb-iot-devkit-ships-with-blues-notecard/ ) |
 | [Rockchip roadmap reveals RK3576 and RK3506 IoT processors, Linux 6.1 SDK - CNX Software](https://www.cnx-software.com/2023/11/02/rockchip-roadmap-reveals-rk3576-and-rk3506-iot-processors-linux-6-1-sdk/ ) |
+| [BeagleBoard\.org Makes FPGA and RISC-V Accessible with New BeagleV-Fire Single Board Computer at $150 - BeagleBoard](https://www.beagleboard.org/blog/2023-11-02-beaglev-fire-announcement ) | (H/W) $150.00 |
+| [BeagleBoard.\org Makes FPGA and RISC-V Accessible with New BeagleV-Fire Single Board Computer at $150 - BeagleBoard](https://www.beagleboard.org/blog/2023-11-02-beaglev-fire-announcement ) |
+| [Arm Acquires Minority Stake in Raspberry Pi / Tbom's Hardware](https://www.tomshardware.com/raspberry-pi/arm-acquires-minority-stake-in-raspberry-pi ) |
+| [Pine64 SOQuartz · Issue #7 · geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews/issues/7 ) |
+| [$150 BeagleV-Fire SBC features Microchip PolarFire RISC-V SoC FPGA, support BeagleBone capes - CNX Software](https://www.cnx-software.com/2023/11/03/beaglev-fire-sbc-features-microchip-polarfire-risc-v-soc-fpga-support-beaglebone-capes/ ) |
+| [Alibaba T-Head TH1520 user manuals released - CNX Software](https://www.cnx-software.com/2023/11/02/alibaba-t-head-th1520-user-manuals/ ) |
+| [Banana Pi BPI-CM4 · Issue #11 · geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews/issues/11 ) |
+| [Libre Computer AML-A311D-CC Alta is an Amlogic-powered single-board PC with a 5 TOPS NPU - Liliputing](https://liliputing.com/libre-computer-aml-a311d-cc-alta-is-an-amlogic-powered-single-board-pc-with-a-5-tops-npu/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
