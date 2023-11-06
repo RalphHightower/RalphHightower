@@ -62,13 +62,12 @@
 | [102110898 BeagleBoard by Seeed Studio / Mouser](https://www.sparkfun.com.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110898?qs=HoCaDK9Nz5eU8X3%252BpFx5gw%3D%3D ) | (H/W) $149.00 |
 | [102110898 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110898/21706497 ) | $170.67 |
 | [BeagleBone® AI-64 - BeagleBoard](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
-| [BeagleBone® AI-64](https://www.beagleboard.org/boards/beaglebone-ai-64 ) || [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
+| [BeagleBone® AI-64](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
+| [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 |[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
-| [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Express, SMARC, Qseven](https://www.congatec.com/us/) | (H/W) |
-| **[CoolPi CM5 RK3588 8G+64G Board kits with Cooling...](https://www.aliexpress.com/item/1005005414364005.html)** | **(H/W) $234.72** |
-| **[Cool Pi RK3588s Single Board Computer With 8 Cores 64 Bits,6.0 Tops AI NPU,8k Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
+| [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
 | [CORE-V MCU DevKit / GroupGets](https://groupgets.com/campaigns/1040/show ) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | **[deskpi — Raspberry Pi Products](https://deskpi.com/ )** | (H/W) |
@@ -602,7 +601,7 @@
 | [PC Fan Controller Works On Most Operating Systems / Hackaday](https://hackaday.com/2023/10/27/pc-fan-controller-works-on-most-operating-systems/ ) |
 | [RAKwireless Blues.ONE LoRaWAN, LTE-M and NB-IoT devkit ships with Blues NoteCard including a 500MB data plan - CNX Software](https://www.cnx-software.com/2023/11/01/rakwireless-blues-one-lorawan-lte-m-and-nb-iot-devkit-ships-with-blues-notecard/ ) |
 | [Rockchip roadmap reveals RK3576 and RK3506 IoT processors, Linux 6.1 SDK - CNX Software](https://www.cnx-software.com/2023/11/02/rockchip-roadmap-reveals-rk3576-and-rk3506-iot-processors-linux-6-1-sdk/ ) |
-| [BeagleBoard\.org Makes FPGA and RISC-V Accessible with New BeagleV-Fire Single Board Computer at $150 - BeagleBoard](https://www.beagleboard.org/blog/2023-11-02-beaglev-fire-announcement ) | (H/W) $150.00 |
+| [BeagleBoard\.org Makes FPGA and RISC-V Accessible with New BeagleV-Fire Single Board Computer at $150 - BeagleBoard](https://www.beagleboard.org/blog/2023-11-02-beaglev-fire-announcement ) |
 | [BeagleBoard.\org Makes FPGA and RISC-V Accessible with New BeagleV-Fire Single Board Computer at $150 - BeagleBoard](https://www.beagleboard.org/blog/2023-11-02-beaglev-fire-announcement ) |
 | [Arm Acquires Minority Stake in Raspberry Pi / Tbom's Hardware](https://www.tomshardware.com/raspberry-pi/arm-acquires-minority-stake-in-raspberry-pi ) |
 | [Pine64 SOQuartz · Issue #7 · geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews/issues/7 ) |
