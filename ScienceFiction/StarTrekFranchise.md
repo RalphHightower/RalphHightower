@@ -107,6 +107,23 @@
 | [Patrick Stewart Realized Next Gen Was A Big Deal During A Hilarious Star Trek Fan Encounter](https://www.slashfilm.com/1426072/patrick-stewart-next-generation-big-deal-hilarious-star-trek-fan-encounter/ ) |
 | [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
 | [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
+| [A Great Wesley Crusher TNG Episode Hinted At His Best Star Trek Destiny](https://screenrant.com/star-trek-tng-wesley-crusher-traveler-mentor/ ) |
+| [Captain Janeway’s 7 Star Trek: Voyager Hairstyles, Ranked Worst To Best](https://screenrant.com/captain-janeway-star-trek-voyager-hairstyles-worst-best/#the-natural-bob ) |
+| [Best Episodes Of Star Trek: Voyager](https://gamerant.com/best-episodes-star-trek-voyager/ ) |
+| [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
+| [Star Trek Picard: Ways Seven Of Nine Changed Since Voyager](http://gamerant.com/star-trek-picard-seven-of-nine-different-voyager/ ) |
+| [Star Trek: How Was Warp Achieved When Dilithium Is Not Found On Earth?](https://gamerant.com/star-trek-warp-dilithium-earth-discovery-plot-hole/ ) |
+| [Star Trek: Unexplained Anomalies In The Delta Quadrant](https://gamerant.com/star-trek-unexplained-anomalies-delta-quadrant/ ) |
+| [Star Trek: Unluckiest Characters](https://gamerant.com/star-trek-unluckiest-characters/ ) |
+| [Star Trek: What Is Dilithium?](https://gamerant.com/star-trek-what-is-dilithium-explained/ ) |
+| [Space Shuttle Endeavour by Martin / Download free STL model / Printables.com](https://www.printables.com/model/628010-space-shuttle-endeavour ) |
+| [TNG & DS9 Cameos In Star Trek: The Original Series’ Final Movie Explained](https://screenrant.com/star-trek-6-michael-dorn-rene-auberjonois-cameos/ ) |
+| [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
+| [Underrated Star Trek: Voyager Episodes](https://gamerant.com/underrated-star-trek-voyager-episodes/ ) |
+| [Were the Borg Actually Created By The Romulans? Ultimate Fan Theory - YouTube](https://www.youtube.com/watch?v=8ZWh_uam7ds ) |
+| [Why Bajor Never Joined the Federation on Star Trek: DS9](https://www.cbr.com/star-trek-deep-space-nine-bajor-federation/ ) |
+| [Picard's Enterprise Has A Big Difference From Kirk's, And Star Trek: TNG Finally Made It Matter](https://screenrant.com/star-trek-tng-enterprise-d-families-kids-taken/ ) |
+| [Picard’s Warrior Poet Worf Almost Happened In Star Trek: TNG Season 3](https://screenrant.com/worf-star-trek-tng-cut-line-picard-soulful/ ) |
 
 ## Star Trek Food Recipes 
 
