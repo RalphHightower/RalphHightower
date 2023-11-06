@@ -30,6 +30,11 @@
 | [Doctor Who Theory Explains The Real Reason Jodie Whittaker Regenerated Into David Tennant](https://screenrant.com/doctor-who-david-tennant-regeneration-timeline-broken-theory-toymaker/ ) |
 | [Doctor Who: The Toymaker May Not Have Caused the Doctor's Regeneration](https://www.cbr.com/doctor-who-toymaker-regeneration-red-herring/ ) |
 | [Possible New Doctor Who Regeneration Prophecy Teased In 60th Anniversary Special Image](https://screenrant.com/doctor-who-60th-anniversary-david-tennant-regeneration-teased-image/ ) |
+| [Doctor Who Celebrates New Streaming Collection With Epic Eras-Spanning Intro](https://screenrant.com/doctor-who-bbc-iplayer-streaming-intro-video/ ) |
+| [Doctor Who Launches "The Whoniverse" With New Original Series, MORE Spinoffs Coming! - YouTube](https://www.youtube.com/watch?v=ZpyMus-u4l4 ) |
+| [Doctor Who Officially Makes A 40-Year Old Companion Theory Canon](https://screenrant.com/doctor-who-tegan-nyssa-relationship-canon/ ) |
+| [Doctor Who's Tales of the TARDIS pays touching tribute to Deborah Watling / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-tales-tardis-deborah-watling-newsupdate/ ) |
+| [Doctor Who: Tales of the TARDIS is "absolutely" canon says showrunner Russell T Davies / GamesRadar+](https://www.gamesradar.com/doctor-who-tales-of-the-tardis-is-absolutely-canon-says-showrunner-russell-t-davies/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
