@@ -35,6 +35,7 @@
 | [Doctor Who Officially Makes A 40-Year Old Companion Theory Canon](https://screenrant.com/doctor-who-tegan-nyssa-relationship-canon/ ) |
 | [Doctor Who's Tales of the TARDIS pays touching tribute to Deborah Watling / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-tales-tardis-deborah-watling-newsupdate/ ) |
 | [Doctor Who: Tales of the TARDIS is "absolutely" canon says showrunner Russell T Davies / GamesRadar+](https://www.gamesradar.com/doctor-who-tales-of-the-tardis-is-absolutely-canon-says-showrunner-russell-t-davies/ ) |
+| [The Doctor Who 'Hand Pose' Is a Timeless Icon](https://gizmodo.com/doctor-who-hand-pose-tom-baker-david-tennant-ncuti-gatw-1850987145 ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
