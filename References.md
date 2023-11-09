@@ -111,7 +111,7 @@
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel) | Intel |
-| [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
+| [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
 | [Khadas](https://github.com/khadas) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more. |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
@@ -170,6 +170,7 @@
 | [Triton Inference Server](https://github.com/triton-inference-server ) |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server.|
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
+| [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Visa](https://github.com/visa ) | |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
