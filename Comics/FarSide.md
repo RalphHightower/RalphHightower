@@ -7,3 +7,5 @@
 | [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/#damned-if-you-do-damned-if-you-don-39-t ) |
 | [13 Funniest Far Side Comics That Prove It's Obsessed with Ducks](https://screenrant.com/funniest-far-side-comics-ducks-birds-dark/ ) |
 | [15 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/#damned-if-you-do-damned-if-you-don-39-t ) |
+| [10 Funniest Far Side Comics That Prove It's Obsessed with Chickens](https://screenrant.com/funniest-far-side-comics-chicken-birds-dark/ ) |
+| [Why The Far Side Needs a TV Series Adaptation](https://movieweb.com/why-the-far-side-needs-a-tv-series-adaptation/ ) |
