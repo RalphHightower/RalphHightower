@@ -52,22 +52,13 @@
 | [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
 | [4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length ) |
 | [The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119 ) |
+| **[How to Get Started in Large Format Phot- Photography 
+ography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )** |
+| [How to Deal With Harsh Sunlight in Portrait Photography / Fstoppers](https://fstoppers.com/lighting/how-deal-harsh-sunlight-portrait-photography-647590 ) |
+| [Photographing Mushrooms in Their Natural World / PetaPixel](https://petapixel.com/2023/11/04/photographing-mushrooms-in-their-natural-world/ ) |
+| [How to Take Sharper Photos / Fstoppers](https://fstoppers.com/education/how-take-sharper-photos-647466 ) |
 
-[^41]: A monorail 4×5 view camera is one of the cameras on my Camera Bucket List 
-
-## Canon Camera Reviews 
-
-| Canon Camera Reviews | Technology |
-|---|---|
-| [Canon EOS-1D X Mark III review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-1d-x-mark-iii-review ) | DSLR |
-| [Canon EOS 5D Mark IV review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-5d-mark-iv-review#section-specifications ) | DSLR |
-| [Canon EOS R5: Full Mirrorless Camera Review](https://www.learnphotographyskills.com/canon-eos-r5-full-review/ ) | Mirrorless |
-| [Canon EOS R5 Review - A Masterpiece of Camera Technology - Campkins Cameras](https://www.campkinscameras.com/guides/canon-eos-r5-review/ ) | Mirrorless |
-| [Review: Canon EOS R5 for pet photography / MPB](https://www.mpb.com/en-us/content/kit-guides/review-canon-eos-r5-for-pet-photography ) |
-| [Canon EOS 6D Mark II review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-6d-mk-ii-review ) | Mirrorless |
-| [Review: Canon EOS R5 for pet photography / MPB](https://www.mpb.com/en-us/content/kit-guides/review-canon-eos-r5-for-pet-photography ) | Mirrorless |
-
-## [ChatGPT](https://chat.openai.com/)
+in## [ChatGPT](https://chat.openai.com/)
 
 | "RalphHightower" / [ChatGPT](https://chat.openai.com/) |
 |---|
