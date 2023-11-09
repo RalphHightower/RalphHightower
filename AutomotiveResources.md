@@ -93,6 +93,8 @@
 | [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
 | ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) |
 | [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) |
+| [Italian Company Ares Is Turning the C8 Corvette into a Hypercar](https://www.caranddriver.com/news/a45676763/ares-s1-corvette-hypercar/ ) |
+
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
