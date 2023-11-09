@@ -56,3 +56,7 @@
 |---|
 | [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
 | [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
+| [Canon Announces the RF 24-105mm f/2.8 L IS USM Z Lens / Fstoppers](https://fstoppers.com/gear/canon-announces-rf-24-105mm-f28-l-usm-z-lens-647035 ) |
+| [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
+| [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
+| [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
