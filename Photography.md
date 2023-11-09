@@ -57,7 +57,7 @@
 | [Photographing Mushrooms in Their Natural World / PetaPixel](https://petapixel.com/2023/11/04/photographing-mushrooms-in-their-natural-world/ ) |
 | [How to Take Sharper Photos / Fstoppers](https://fstoppers.com/education/how-take-sharper-photos-647466 ) |
 
-in## [ChatGPT](https://chat.openai.com/)
+## [ChatGPT](https://chat.openai.com/)
 
 | "RalphHightower" / [ChatGPT](https://chat.openai.com/) |
 |---|
