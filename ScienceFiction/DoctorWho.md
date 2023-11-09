@@ -36,6 +36,13 @@
 | [Doctor Who's Tales of the TARDIS pays touching tribute to Deborah Watling / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-tales-tardis-deborah-watling-newsupdate/ ) |
 | [Doctor Who: Tales of the TARDIS is "absolutely" canon says showrunner Russell T Davies / GamesRadar+](https://www.gamesradar.com/doctor-who-tales-of-the-tardis-is-absolutely-canon-says-showrunner-russell-t-davies/ ) |
 | [The Doctor Who 'Hand Pose' Is a Timeless Icon](https://gizmodo.com/doctor-who-hand-pose-tom-baker-david-tennant-ncuti-gatw-1850987145 ) |
+| [David Tennant Addresses Doctor Who Future After 60th Anniversary Episodes](https://screenrant.com/doctor-who-60th-anniversary-episodes-david-tennant-future-response/ ) |
+| [Doctor Who Boldly Overturns Its Outdated Classic-Era Show Policy](https://movieweb.com/doctor-who-overturns-outdated-classic-era-policy/ ) |
+| [Doctor Who Confirms Its Absurd 30th Anniversary Special Is Canon (& More Important Than Anyone Thought)](https://screenrant.com/doctor-who-dimensions-in-time-30th-anniversary-canon/ ) |
+| [Doctor Who Just Reversed 3 Big Mistakes From Jodie Whittaker's Final Episode](https://screenrant.com/doctor-who-jodie-whittaker-final-episode-mistakes-fix/ ) |
+| [Doctor Who: River Song's Timeline, Explained](https://www.cbr.com/doctor-who-river-song-chronological-order/ ) |
+| [Ncuti Gatwa’s Doctor Who Era Will Be Labeled as Season One](https://www.cbr.com/ncuti-gatwa-doctor-who-era-season-one/ ) |
+| [Ncuti Gatwa’s First Doctor Who Special Title Revealed By New Disney+ Release Calendar](https://screenrant.com/doctor-who-holiday-special-release-date-church-on-ruby-road/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
