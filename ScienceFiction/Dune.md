@@ -44,6 +44,9 @@
 | [Dune 2 Will Struggle To Adapt 1 Important Paul Scene From The Books](https://screenrant.com/dune-2-struggle-adapt-paul-scene-books/ ) |
 | [Dune's Lady Jessica Book Change Shows Why It's Such A Great Adaption](https://screenrant.com/dune-movie-books-jessica-paul-fear-quote-change/ ) |
 | [Dune 2021 Ending & Real Meaning Explained](https://screenrant.com/dune-movie-2021-ending-explained-meaning/ ) |
+| ['Dune: The Prophet' - Troubled Bene Gesserit Series Gets New Release Date - Bell of Lost Souls](https://www.belloflostsouls.net/2023/11/dune-the-prophet-troubled-bene-gesserit-series-gets-new-release-date.html ) |
+| [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
+| [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
 
 ## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
