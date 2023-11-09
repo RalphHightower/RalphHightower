@@ -53,7 +53,23 @@
 |---|
 | [How NASA’s first six women astronauts changed space - The Verge](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex ) |
 | [Interstellar Travel: Magnetic Fusion Plasma Engines Could Carry Us Across the Solar System and Beyond](https://scitechdaily.com/interstellar-travel-magnetic-fusion-plasma-engines-could-carry-us-across-the-solar-system-and-beyond/ ) |
+| [After the sting of Ariane 6, Europe finally embraces commercial rockets / Ars Technica](https://arstechnica.com/space/2023/11/after-the-sting-of-ariane-6-europe-finally-embraces-commercial-rockets/ ) |
+| [Astronomers want JWST to study the Milky Way core for hundreds of hours](https://phys.org/news/2023-10-astronomers-jwst-milky-core-hundreds.html ) |
+| [Euclid 'dark universe' telescope captures 1st full-color views of the cosmos (images) / Space](https://www.space.com/dark-matter-euclid-mission-first-breathtaking-images ) |
+| [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html ) |
+| [Supermassive black hole found only half a billion years after Big Bang / Ars Technica](https://arstechnica.com/science/2023/11/half-of-the-mass-of-an-early-galaxy-is-in-its-central-black-hole/ ) |
+| [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) |
+| [NASA Shows Off Experimental ‘Next-Generation’ Advanced Electric Propulsion System - The Debrief](https://thedebrief.org/nasa-shows-off-experimental-next-generation-advanced-electric-propulsion-system/ ) |
 
+- NASA_Files
+   - News
+      - | [After the sting of Ariane 6, Europe finally embraces commercial rockets / Ars Technica](https://arstechnica.com/space/2023/11/after-the-sting-of-ariane-6-europe-finally-embraces-commercial-rockets/ ) |
+      - | [Astronomers want JWST to study the Milky Way core for hundreds of hours](https://phys.org/news/2023-10-astronomers-jwst-milky-core-hundreds.html ) |
+      - | [Euclid 'dark universe' telescope captures 1st full-color views of the cosmos (images) / Space](https://www.space.com/dark-matter-euclid-mission-first-breathtaking-images ) |
+      - | [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html ) |
+      - | [Supermassive black hole found only half a billion years after Big Bang / Ars Technica](https://arstechnica.com/science/2023/11/half-of-the-mass-of-an-early-galaxy-is-in-its-central-black-hole/ ) |
+      - | [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) |
+      - | [NASA Shows Off Experimental ‘Next-Generation’ Advanced Electric Propulsion System - The Debrief](https://thedebrief.org/nasa-shows-off-experimental-next-generation-advanced-electric-propulsion-system/ ) |
 ## NASA History 
 
 | Article |
