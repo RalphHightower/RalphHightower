@@ -52,7 +52,7 @@
 | [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
 | [4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length ) |
 | [The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119 ) |
-| **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )** |
+| **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[41]** |
 | [How to Deal With Harsh Sunlight in Portrait Photography / Fstoppers](https://fstoppers.com/lighting/how-deal-harsh-sunlight-portrait-photography-647590 ) |
 | [Photographing Mushrooms in Their Natural World / PetaPixel](https://petapixel.com/2023/11/04/photographing-mushrooms-in-their-natural-world/ ) |
 | [How to Take Sharper Photos / Fstoppers](https://fstoppers.com/education/how-take-sharper-photos-647466 ) |
