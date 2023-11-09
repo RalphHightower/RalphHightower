@@ -139,6 +139,8 @@ Expansion options
 
 | Raspberry Pi 5 Articles |
 |---|
+| **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
+| **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** |
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
@@ -149,6 +151,8 @@ Expansion options
 | [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) |
 | [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
+| [Reducing Raspberry Pi 5's power consumption by 140x / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x ) |
+| [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) |
 
 ## Milk-V Pioneer 
 
