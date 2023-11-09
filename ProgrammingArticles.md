@@ -25,6 +25,7 @@
 | [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
 | [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
 | [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/ ) |
+| [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
 
 | Free AI Courses |
 |---|
@@ -63,6 +64,9 @@
 | [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 | [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
 | [Code Review: A Developer's Checklist](https://www.codemotion.com/magazine/backend/code-review-checklist-for-developers/ ) |
+| [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
+| [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
+| [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
 
 ## Qt for VS Code 
 
