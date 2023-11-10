@@ -39,6 +39,9 @@
 
 | Photography News/Tips |
 |----|
+| **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[^41]** |
+| **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
+| **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
 | [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br />[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
 | **[REVIVING A LEGEND: MAMIYA RB67 REPAIR](https://hackaday.com/2023/04/06/reviving-a-legend-mamiya-rb67-repair/)** |
@@ -50,9 +53,6 @@
 |[Why I chose to upgrade to an R6 Mark II from a 5D Mark III - Simon Wiffen Photography](https://www.simonwiffenphotography.co.uk/blog/2023/02/why-i-chose-to-upgrade-to-an-r6-mark-ii-from-a-5d-mark-iii/ )|
 | [Why Photoshop's Amazing New REMOVE Tool is a GAME CHANGER! (VIDEO) / Shutterbug](https://www.shutterbug.com/content/why-photoshops-amazing-new-remove-tool-game-changer-video ) |
 | [Large Format Landscape Photography in Zion, Winter 2023: Episode 7](https://youtube.com/watch?v=M6vA26KLVXc&feature=share ) |
-| [4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length ) |
-| [The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119 ) |
-| **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[41]** |
 | [How to Deal With Harsh Sunlight in Portrait Photography / Fstoppers](https://fstoppers.com/lighting/how-deal-harsh-sunlight-portrait-photography-647590 ) |
 | [Photographing Mushrooms in Their Natural World / PetaPixel](https://petapixel.com/2023/11/04/photographing-mushrooms-in-their-natural-world/ ) |
 | [How to Take Sharper Photos / Fstoppers](https://fstoppers.com/education/how-take-sharper-photos-647466 ) |
