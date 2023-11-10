@@ -619,6 +619,7 @@
 | [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits - CNX Software](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/ ) |
 | [Toradex Titan Evaluation Kit features NXP i.MX 95 AI processor for IoT, industrial, and automotive applications - CNX Software](https://www.cnx-software.com/2023/11/08/toradex-titan-evaluation-kit-nxp-i-mx-95-ai-processor-iot-industrial-automotive/ ) |
 
+[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
 ## Satellite Projects 
 
