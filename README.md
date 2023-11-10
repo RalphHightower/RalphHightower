@@ -57,7 +57,7 @@ I also have different categories of bucket lists.
    - Total Solar Eclipse: April 8, 2024
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
-   - [B&H Photo Video](https://www.bhphotovideo.com/) 420 9th Avenue, New York, NY 10001
+   - [B&H Photo Video, 420 9th Avenue, New York, NY 10001](https://www.bhphotovideo.com/find/jsp/HelpCenter/StoreInfo.jsp#nycSuperstore )
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
    - Hawaii
