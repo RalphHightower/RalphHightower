@@ -233,12 +233,15 @@
 | **[SolidRun / HummingBoard 8P Edge AI](https://shop.solid-run.com/product/SRMP8-EVKHP-H8-R1.2/ )** | (H/W) $590.00 |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
-| **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card)** | **(H/W) $119.00** |
+| **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card )[^13]** | **(H/W) $119.00** |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
+| [Texas Instruments SK-AM68 Evaluation board / TI.com](https://www.ti.com/tool/SK-AM68 ) | (H/W) |
+| [Texas Instruments SK-AM62A-LP Evaluation board / TI.com](https://www.ti.com/tool/SK-AM62A-LP ) | $249.00 |
 | [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
 | [timebeat](https://timebeat.app/ ) | (H/W) |
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
+| [Toradex i\.MX 95 Titan Evaluation Kit (EVK) / NXP eIQ Neutron NPU, ISP, Arm Mali GPU](https://www.toradex.com/products/nxp-imx95-titan-evaluation-kit ) | (H/W) |
 | [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | (H/W) |
 | [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
 | [Tungsten700 SMARC](https://www.lairdconnect.com/product/tungsten700-smarc ) | (H/W) |
@@ -260,6 +263,7 @@
 
 [^11]: Impressive performance specifications. Expensive, but **WANT!**
 [^12]: Bring Your Own Raspberry Pi(π) Compute Module 4 (CM4)
+[^13]: **Want**
 
 ## Articles 
 
@@ -609,8 +613,12 @@
 | [Alibaba T-Head TH1520 user manuals released - CNX Software](https://www.cnx-software.com/2023/11/02/alibaba-t-head-th1520-user-manuals/ ) |
 | [Banana Pi BPI-CM4 · Issue #11 · geerlingguy/sbc-reviews](https://github.com/geerlingguy/sbc-reviews/issues/11 ) |
 | [Libre Computer AML-A311D-CC Alta is an Amlogic-powered single-board PC with a 5 TOPS NPU - Liliputing](https://liliputing.com/libre-computer-aml-a311d-cc-alta-is-an-amlogic-powered-single-board-pc-with-a-5-tops-npu/ ) |
+| **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )[^13]** |
+| [Imagination and Ventana to Build a RISC-V CPU-GPU Platform / Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/imagination-and-ventana-to-build-a-risc-v-cpu-gpu-platform ) |
+| [NVIDIA Grace Hopper and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/ ) |
+| [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits - CNX Software](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/ ) |
+| [Toradex Titan Evaluation Kit features NXP i.MX 95 AI processor for IoT, industrial, and automotive applications - CNX Software](https://www.cnx-software.com/2023/11/08/toradex-titan-evaluation-kit-nxp-i-mx-95-ai-processor-iot-industrial-automotive/ ) |
 
-[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
 ## Satellite Projects 
 
