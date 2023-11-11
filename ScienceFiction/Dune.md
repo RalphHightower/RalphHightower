@@ -47,6 +47,10 @@
 | ['Dune: The Prophet' - Troubled Bene Gesserit Series Gets New Release Date - Bell of Lost Souls](https://www.belloflostsouls.net/2023/11/dune-the-prophet-troubled-bene-gesserit-series-gets-new-release-date.html ) |
 | [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
 | [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
+| ['Dune: The Prophet' - Troubled Bene Gesserit Series Gets New Release Date - Bell of Lost Souls](https://www.belloflostsouls.net/2023/11/dune-the-prophet-troubled-bene-gesserit-series-gets-new-release-date.html ) |
+| [Dune 2 Faces Stiff Competition To Be 2024's Best Sci-Fi Movie (There Might Be A Better One The Same Month!)](https://screenrant.com/dune-2-mickey-17-best-sci-fi-movie-march-2024/ ) |
+| [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
+| [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
 
 ## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
