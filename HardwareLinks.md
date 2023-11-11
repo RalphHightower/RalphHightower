@@ -57,7 +57,6 @@
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [102110646 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110646/15929655 ) | $185.22000  |
-| [102110646 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110646/15929655 )  | $185.22000 |
 | [102110646 BeagleBoard by Seeed Studio / Mouser](https://www.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110646?qs=Znm5pLBrcAKSPlLdpqfmWA%3D%3D ) | $189.00 |
 | [102110898 BeagleBoard by Seeed Studio / Mouser](https://www.sparkfun.com.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110898?qs=HoCaDK9Nz5eU8X3%252BpFx5gw%3D%3D ) | (H/W) $149.00 |
 | [102110898 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110898/21706497 ) | $170.67 |
