@@ -195,10 +195,9 @@
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
+| **[RAXDA Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **$189.00 16GB** || 
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
-| **[Radxa Rock5 Model A](https://shop.allnetchina.cn/products/rock5-model-a-pre-order-discount-redeem-code)** | (H/W) $159.00 ($30 off for $5 coupon purchase) |
-| **[Raxda Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **[$189.00 16GB](https://shop.allnetchina.cn/products/rock5-model-b)** |
-| [RAKWireless – Blues\.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | $158.00 |
+[RAKWireless – Blues\.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | $158.00 |
 | [RAKWireless RAK7391 Compute Module 4 (CM4) Carrier Board – RAKwireless Store](https://store.rakwireless.com/products/wisgate-connect-base-kit-rak7391 ) | (H/W) $381 |
 | [RAKWireless — Link.ONE - LTE-M NB-IoT LoRaWAN Device based on nRF52840, SX1262 and B](https://store.rakwireless.com/products/link-one-lte-m-nb-iot-lorawan-device-based-on-nrf52840-sx1262-and-bg77-arduino-ide-compatible ) | (H/W) |
 |[RAKWireless Cellular IoT – RAKwireless Store](https://store.rakwireless.com/collections/cellular-iot )|(H/W)|
