@@ -545,7 +545,7 @@
 | **[Lichee Cluster 4A mini-ITX RISC-V cluster board launched for $929 and up - CNX Software](https://www.cnx-software.com/2023/09/19/lichee-cluster-4a-mini-itx-risc-v-cluster-board/ )** |
 | [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
 | [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
-| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
+| **[Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ )** |
 | [ESP32 with RCWL-0516 Microwave Radar Proximity Sensor (Arduino IDE) / Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-rcwl-0516-arduino/ ) |
 | [An ARM-Based Single-Board Computer for the IIoT Era - Electronics For You](https://www.electronicsforu.com/news/an-arm-based-single-board-computer-for-the-iiot-era ) |
 | [How I made the PicoCray / HackSpace #69 - Raspberry Pi](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/ ) |
@@ -564,9 +564,7 @@
 | [Review of Youyeetoo Rockchip RK3568 SBC with Lubuntu 20.04 and the RKNPU2 AI SDK](!https://www.cnx-software.com/2023/09/21/review-rockchip-rk3568-sbc-lubuntu-20-04-rknpu2-ai-sdk/ ) |
 | [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
 | [Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/testing-coral-tpu-accelerator-m2-or-pcie-docker ) |
-| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
 | [Asus Has a New Raspberry Pi-Like PC With an ARM CPU](https://www.howtogeek.com/asus-has-a-new-raspberry-pi-like-pc-with-an-arm-cpu/ ) |
-| [Raspberry Pi 5 SBC launched with 2.4 GHz Broadcom BCM2712 quad-core Cortex-A76 SoC - CNX Software](https://www.cnx-software.com/2023/09/28/raspberry-pi-5-sbc-broadcom-bcm2712-quad-core-cortex-a76-soc/ ) |
 | **[Youyeetoo YY3568 devkit review - Part 1: Unboxing, specifications, and Android 11 testing - CNX Software](https://www.cnx-software.com/2023/08/25/youyeetoo-yy3568-devkit-review-part-1-unboxing-specifications-and-android-11-testing/ )** |
 | [$150 Axelera M.2 AI accelerator module claims to deliver up to 214 TOPS - CNX Software](https://www.cnx-software.com/2023/01/02/150-axelera-m2-ai-accelerator-214-tops/ ) |
 | [CORE-V MCU Devkit features open-source 32-bit RISC-V core, Amazon AWS IoT connectivity, Mikrobus expansion, VGA camera - CNX Software](https://www.cnx-software.com/2023/08/04/core-v-mcu-devkit-features-open-source-32-bit-risc-v-core-amazon-aws-iot-connectivity-mikrobus-expansion-vga-camera/ ) |
