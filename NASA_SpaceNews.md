@@ -60,16 +60,36 @@
 | [Supermassive black hole found only half a billion years after Big Bang / Ars Technica](https://arstechnica.com/science/2023/11/half-of-the-mass-of-an-early-galaxy-is-in-its-central-black-hole/ ) |
 | [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) |
 | [NASA Shows Off Experimental ‘Next-Generation’ Advanced Electric Propulsion System - The Debrief](https://thedebrief.org/nasa-shows-off-experimental-next-generation-advanced-electric-propulsion-system/ ) |
+| [A supermassive black hole's strong magnetic fields are revealed in a new light](https://phys.org/news/2023-11-supermassive-black-hole-strong-magnetic.html ) |
+| [After the sting of Ariane 6, Europe finally embraces commercial rockets / Ars Technica](https://arstechnica.com/space/2023/11/after-the-sting-of-ariane-6-europe-finally-embraces-commercial-rockets/ ) |
+| [Artemis moon astronauts will need oxygen. NASA wants to extract it from lunar dust / Space](https://www.space.com/nasa-oxygen-from-moon-dust ) |
+| [Astronomers want JWST to study the Milky Way core for hundreds of hours](https://phys.org/news/2023-10-astronomers-jwst-milky-core-hundreds.html ) |
+| [Do gravitational waves exhibit wave-particle duality? - Big Think](https://bigthink.com/starts-with-a-bang/gravitational-waves-wave-particle-duality/ ) |
+| [Euclid 'dark universe' telescope captures 1st full-color views of the cosmos (images) / Space](https://www.space.com/dark-matter-euclid-mission-first-breathtaking-images ) |
+| [Evidence of alien life may exist in the fractures of icy moons around Jupiter and Saturn / Space](https://www.space.com/icy-moon-ganymede-titan-jupiter-saturn-signs-life ) |
+| [James Webb Space Telescope gets ready for the holidays with a cosmic Christmas Tree (image) / Space](https://www.space.com/james-webb-space-telescope-christmas-tree-galaxy-cluster ) |
+| [James Webb Space Telescope reveals distances of nearly 200 deep-space galaxies / Space](https://www.space.com/james-webb-space-telescope-200-galaxies-distances-revealed ) |
+| [James Webb Space Telescope reveals most distant Milky Way galaxy doppelganger / Space](https://www.space.com/james-webb-space-telescope-milky-way-look-alike ) |
+| [If the next Starship makes it through staging, you can call that a win / Ars Technica](https://arstechnica.com/space/2023/11/if-the-next-starship-makes-it-through-staging-you-can-call-that-a-win/ ) |
+| [Inside the Star Factory](https://mitpress.mit.edu/9780262047906/inside-the-star-factory/ ) |
+| [NASA Envisions Uranus Flagship Class Mission](https://www.forbes.com/sites/alisonwinfield-burns/2023/11/03/nasa-envisions-uranus-flagship-class-mission/ ) |
+| [NASA Shows Off Experimental ‘Next-Generation’ Advanced Electric Propulsion System - The Debrief](https://thedebrief.org/nasa-shows-off-experimental-next-generation-advanced-electric-propulsion-system/ ) |
+| [NASA's exoplanet hunting telescope spies 8 'super-Earths' / Space](https://www.space.com/nasa-tess-exoplanet-telescope-8-super-earths ) |
+| [NASA’s Webb Findings I'llSupport Long-Proposed Process of Planet Formation - NASA](https://www.nasa.gov/missions/webb/nasas-webb-findings-support-long-proposed-process-of-planet-formation/ ) |
+| [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html ) |
+| [One step closer to unveiling dark matter with ARRAKIHS](https://phys.org/news/2023-11-closer-unveiling-dark-arrakihs.html ) |
+| [Photographer Spends 15 Years Capturing the Construction of the James Webb Space Telescope / PetaPixel](https://petapixel.com/2023/11/09/photographer-spends-15-years-capturing-the-construction-of-the-james-webb-space-telescope/ ) |
+| [Physicists Simulated a Black Hole in The Lab, And Then It Started to Glow : ScienceAlert](https://www.sciencealert.com/physicists-simulated-a-black-hole-in-the-lab-and-then-it-started-to-glow-2 ) |
+| [Squeezing the Universe: LIGO Breaks the Quantum Limit](https://scitechdaily.com/squeezing-the-universe-ligo-breaks-the-quantum-limit/ ) |
+| [Stronger solar activity could bring more displays of the northern lights in 2024 : NPR](https://www.npr.org/2023/11/09/1211595597/northern-lights-aurora-borealis-2024 ) |
+| [Supermassive black hole found only half a billion years after Big Bang / Ars Technica](https://arstechnica.com/science/2023/11/half-of-the-mass-of-an-early-galaxy-is-in-its-central-black-hole/ ) |
+| [Supermassive black holes shut down star formation during cosmic noon, says astronomer](https://phys.org/news/2023-11-supermassive-black-holes-star-formation.html ) |
+| [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) |
+| [The oldest continents in the Milky Way may be 5 billion years older than Earth's / Live Science](https://www.livescience.com/space/exoplanets/the-oldest-continents-in-the-milky-way-may-be-5-billion-years-older-than-earths ) |
+| [What is STEVE, and how is it different from the aurora? / Space](https://www.space.com/what-is-steve ) |
+| [You've got to see Webb telescope's eerie view of the Crab Nebula / Mashable](https://mashable.com/article/james-webb-space-telescope-crab-nebula ) |
 
-- NASA_Files
-   - News
-      - | [After the sting of Ariane 6, Europe finally embraces commercial rockets / Ars Technica](https://arstechnica.com/space/2023/11/after-the-sting-of-ariane-6-europe-finally-embraces-commercial-rockets/ ) |
-      - | [Astronomers want JWST to study the Milky Way core for hundreds of hours](https://phys.org/news/2023-10-astronomers-jwst-milky-core-hundreds.html ) |
-      - | [Euclid 'dark universe' telescope captures 1st full-color views of the cosmos (images) / Space](https://www.space.com/dark-matter-euclid-mission-first-breathtaking-images ) |
-      - | [New research shows quasars can be buried in their host galaxies](https://phys.org/news/2023-11-quasars-host-galaxies.html ) |
-      - | [Supermassive black hole found only half a billion years after Big Bang / Ars Technica](https://arstechnica.com/science/2023/11/half-of-the-mass-of-an-early-galaxy-is-in-its-central-black-hole/ ) |
-      - | [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) |
-      - | [NASA Shows Off Experimental ‘Next-Generation’ Advanced Electric Propulsion System - The Debrief](https://thedebrief.org/nasa-shows-off-experimental-next-generation-advanced-electric-propulsion-system/ ) |
+
 ## NASA History 
 
 | Article |
