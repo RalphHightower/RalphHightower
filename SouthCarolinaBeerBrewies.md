@@ -29,6 +29,7 @@
 | Double Stamp Brewery[^5] | Greenville ||
 | [Dust Off Brewing](https://dustoffbrewing.com/)[^4] | Rock Hill ||
 | [East Island Brewing](https://www.islandcoastallager.com/)[^4] | Charleston ||
+| [Edisto River Brewing](https://www.edistoriverbrewing.com/ ) | Johns Island |
 | [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
 | [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^3] | Greenville ||
 | [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
