@@ -15,7 +15,7 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
-#### Artificial Intelligence 
+## Artificial Intelligence 
 
 | Artificial Intelligence |
 |---|
@@ -26,6 +26,9 @@
 | [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
 | [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/ ) |
 | [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
+| [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
+| [MIT Researchers Discover That Deep Neural Networks Don’t See the World the Way We Do](https://scitechdaily.com/mit-researchers-discover-that-deep-neural-networks-dont-see-the-world-the-way-we-do/ ) |
+| [Role play with large language models / Nature](https://www.nature.com/articles/s41586-023-06647-8 ) |
 
 | Free AI Courses |
 |---|
@@ -45,7 +48,12 @@
 | [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/ ) |
 | [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/ ) |
 
-#### Programing Articles 
+## Docker
+
+Docker
+| [A Crash Course in Docker - ByteByteGo Newsletter](https://blog.bytebytego.com/p/a-crash-course-in-docker ) |
+ 
+## Programing Articles 
 
 | Programing Articles |
 |---|
@@ -67,6 +75,8 @@
 | [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
 | [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
 | [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
+| [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
+| [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
 
 ## Qt for VS Code 
 
@@ -76,6 +86,9 @@
 | [VS Code for Qt Applications - Part 1 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/ ) |
 | [VS Code for Qt Applications - Part 2 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-2/ ) | 
 | [VS Code for Qt Applications - Part 3 - KDAB on Qt development](https://www.kdab.com/using-vsc-for-qt-apps-part-3/ ) |
+
+## WebAssembly
+| [What Is WebAssembly — and Why Are You Hearing So Much About It? - The New Stack](https://thenewstack.io/webassembly/what-is-webassembly/ ) |
 
 ## Kubernetes 
 
