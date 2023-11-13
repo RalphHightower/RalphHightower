@@ -94,7 +94,15 @@
 | ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) |
 | [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) |
 | [Italian Company Ares Is Turning the C8 Corvette into a Hypercar](https://www.caranddriver.com/news/a45676763/ares-s1-corvette-hypercar/ ) |
+| [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
+| [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
+| [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
 
+- AutomotiveResources 
+   - News
+      - | [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
+      - | [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
+      - | [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
