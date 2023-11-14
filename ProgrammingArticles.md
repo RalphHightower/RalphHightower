@@ -29,6 +29,8 @@
 | [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
 | [MIT Researchers Discover That Deep Neural Networks Don’t See the World the Way We Do](https://scitechdaily.com/mit-researchers-discover-that-deep-neural-networks-dont-see-the-world-the-way-we-do/ ) |
 | [Role play with large language models / Nature](https://www.nature.com/articles/s41586-023-06647-8 ) |
+| [AI robotics' 'GPT moment' is near / TechCrunch](https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/ ) |
+| [SaraAI's SaraKIT Is a Raspberry Pi CM4 Carrier Board That Aims to Put ChatGPT in Your Projects - Hackster.io](https://www.hackster.io/news/saraai-s-sarakit-is-a-raspberry-pi-cm4-carrier-board-that-aims-to-put-chatgpt-in-your-projects-a8b97afca6f2 ) |
 
 | Free AI Courses |
 |---|
@@ -77,6 +79,8 @@ Docker
 | [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
 | [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
 | [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
+| [Automate your configuration with observability as code - DEV Community](https://newrelic.com/blog/how-to-relic/examples-observability-as-code-part-one? ) |
+| [Why I Prefer Trunk-Based Development / Koen van Gilst](https://koenvangilst.nl/blog/trunkbased-development ) |
 
 ## Qt for VS Code 
 
