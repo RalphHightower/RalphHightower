@@ -246,7 +246,8 @@
 | [Voyager's 'Dark Frontier' Episode Foreshadowed Picard Season 3](https://www.cbr.com/voyager-dark-frontier-foreshadowed-picard-season3/ ) |
 | [Why Saavik Was Star Trek VI's Most Heartbreaking Villain](https://www.cbr.com/saavik-star-trek-6-tragic-villain/ ) |
 | [Why Was Star Trek: The Original Series Was Canceled?](https://www.cbr.com/why-star-trek-was-originally-canceled/ ) |
-| [Worf Became Star Trek's Greatest Klingon Thanks To A Pivotal TNG Death](https://screenrant.com/star-trek-tasha-yar-death-worf-opportunity-great/ ) || [Why Star Trek: The Next Generation's Most Emotional Episode Holds Special Meaning For Patrick Stewart](https://www.slashfilm.com/1438379/star-trek-the-next-generation-patrick-stewart-most-emotional-episode/ ) |
+| [Worf Became Star Trek's Greatest Klingon Thanks To A Pivotal TNG Death](https://screenrant.com/star-trek-tasha-yar-death-worf-opportunity-great/ ) |
+| [Why Star Trek: The Next Generation's Most Emotional Episode Holds Special Meaning For Patrick Stewart](https://www.slashfilm.com/1438379/star-trek-the-next-generation-patrick-stewart-most-emotional-episode/ ) |
 
 ## Star Trek Food Recipes 
 
