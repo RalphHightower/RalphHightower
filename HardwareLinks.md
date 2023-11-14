@@ -101,6 +101,7 @@
 | **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
 | **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
 | **[Firefly ITX-3588J 8K AI Mini-ITX Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=161 )** | (H/W) **Price: $1106 Promotion price: $1076.00 32GB/256GB 5G** |
+| [Firefly ROC-RK3588-RT Octa-Core 8K AI Mini SBC with Ethernet Ports](https://en.t-firefly.com/product/industry/rocrk3588rt ) | (H/W) 32GB  | 
 | [Fomu is the easiest way to get started with FPGA or RISC-V development.](https://www.crowdsupply.com/sutajio-kosagi/fomu) | (H/W) $50 |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
@@ -233,12 +234,14 @@
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
 | **[TBS-IPTV TBS7901 DVB-S2X/S2/S mini-PCI-e card](https://www.tbsiptv.com/tbs7901-dvb-s2x-or-s2-or-s-mini-pci-e-card )[^13]** | **(H/W) $119.00** |
 | [Texas Instruments SK-AM62A-LP AM62A starter kit for low-power Sitara™ processors](https://www.ti.com/tool/SK-AM62A-LP) | (H/W) $249 |
+| [Texas Instruments SK-AM62A-LP Evaluation board / TI.com](https://www.ti.com/tool/SK-AM62A-LP ) | $249.00 |
 | [Texas Instruments SK-AM68 AM68x starter kit for Sitara™ processors](https://www.ti.com/tool/SK-AM68) | (H/W) $249 |
 | [Texas Instruments SK-AM68 Evaluation board / TI.com](https://www.ti.com/tool/SK-AM68 ) | (H/W) |
-| [Texas Instruments SK-AM62A-LP Evaluation board / TI.com](https://www.ti.com/tool/SK-AM62A-LP ) | $249.00 |
 | [ThingPulse ESP32 WiFi Color Display Kit Grande • ThingPulse](https://thingpulse.com/product/esp32-wifi-color-display-kit-grande/ ) | (H/W) |
 | [timebeat](https://timebeat.app/ ) | (H/W) |
 | [timebeat store](https://store.timebeat.app/ ) | (H/W) |
+| [Toradex \.MX 95 Titan Evaluation Kit (EVK) / NXP eIQ Neutron NPU, ISP, Arm Mali GPU](https://www.toradex.com/products/nxp-imx95-titan-evaluation-kit ) | (H/W) |
+| [Toradex i\.MX p95 Titan Evaluation Kit (EVK) / NXP eIQ Neutron NPU, ISP, Arm Mali GPU](https://www.toradex.com/products/nxp-imx95-titan-evaluation-kit ) | (H/W) |
 | [Toradex i\.MX 95 Titan Evaluation Kit (EVK) / NXP eIQ Neutron NPU, ISP, Arm Mali GPU](https://www.toradex.com/products/nxp-imx95-titan-evaluation-kit ) | (H/W) |
 | [Toradex — Carrier Boards - Development Boards - Base boards](https://www.toradex.com/carrier-boards-for-system-computer-on-module ) | (H/W) |
 | [Toradex System on Module — Computer on Module (CoM) - System on Module (SoM) - Arm](https://www.toradex.com/computer-on-modules ) | (H/W) |
@@ -612,6 +615,15 @@
 | **[M.2/mini PCIe card adds DVB-S2X/S2 tuner to desktop PCs and (some) SBC's - CNX Software](https://www.cnx-software.com/2023/08/17/m-2-mini-pcie-card-adds-dvb-s2x-s2-tuner-to-desktop-pcs-and-some-sbcs/ )[^13]** |
 | [Imagination and Ventana to Build a RISC-V CPU-GPU Platform / Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/imagination-and-ventana-to-build-a-risc-v-cpu-gpu-platform ) |
 | [NVIDIA Grace Hopper and Grace Superchip Pictured and Incompatible](https://www.servethehome.com/nvidia-grace-hopper-gh200-and-grace-superchip-arm-pictured-and-incompatible/ ) |
+| [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits - CNX Software](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/ ) |
+| [Toradex Titan Evaluation Kit features NXP i.MX 95 AI processor for IoT, industrial, and automotive applications - CNX Software](https://www.cnx-software.com/2023/11/08/toradex-titan-evaluation-kit-nxp-i-mx-95-ai-processor-iot-industrial-automotive/ ) |
+| [BeagleBoard Announces BeagleV-Fire With RISC-V and FPGA / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/beagleboard-announces-beaglev-fire-with-risc-v-and-fpga ) |
+| [Firefly ROC-RK3588-RT Rockchip RK3588(J) SBC comes with three 2.5Gbps/gigabit Ethernet ports - CNX Software](https://www.cnx-software.com/2023/11/10/firefly-roc-rk3588-rt-rockchip-rk3588j-sbc-comes-with-three-2-5gbps-gigabit-ethernet-ports/ ) |
+| [Flash Programmer Shows Some Nifty Tricks / Hackaday](https://hackaday.com/2023/11/05/flash-programmer-shows-some-nifty-tricks/ ) |
+| [Hands On With Boondock Echo / Hackaday](https://hackaday.com/2023/11/10/hands-on-with-boondock-echo/ ) |
+| [Imagination and Ventana to Build a RISC-V CPU-GPU Platform / Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/imagination-and-ventana-to-build-a-risc-v-cpu-gpu-platform ) |
+| [PD-Sniffer, a USB-C Power PD debugger #USB @gregdavill « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2023/11/07/pd-sniffer-a-usb-c-power-pd-debugger-usb-gregdavill/ ) |
+| [The Rock 5 B is not a Raspberry Pi killer—yet / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet ) |
 | [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits - CNX Software](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/ ) |
 | [Toradex Titan Evaluation Kit features NXP i.MX 95 AI processor for IoT, industrial, and automotive applications - CNX Software](https://www.cnx-software.com/2023/11/08/toradex-titan-evaluation-kit-nxp-i-mx-95-ai-processor-iot-industrial-automotive/ ) |
 
