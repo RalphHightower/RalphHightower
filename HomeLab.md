@@ -8,11 +8,12 @@
 |---|
 | [45drives](https://www.45drives.com/ ) |
 | [45homelab](https://45homelab.com/ ) |
+| [TrueNAS SCALE Network Configuration Tips for Home Server - Virtualization Howto](https://www.virtualizationhowto.com/truenas-scale-network-configuration-tips-for-home-server/ ) |
+| [TrueNAS vs Synology: Best Network Attached Storage - Virtualization Howto](https://www.virtualizationhowto.com/truenas-vs-synology-best-network-attached-storage/ ) |
 
 ### Time Keeping 
 
 | [The Timebeat Store - Not Dick's Clock Shop](https://store.timebeat.app/ ) |
-
 
 ## Essential Services
 
