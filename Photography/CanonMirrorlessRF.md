@@ -52,7 +52,7 @@
 
 [^21]: [The Phoblographer](https://www.thephoblographer.com/)
 
-| Canon RF Lenses Articles |
+| Canon RF Camera / Lenses Articles |
 |---|
 | [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
 | [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
@@ -60,3 +60,5 @@
 | [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
 | [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
 | [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
+| [What is Flexible Priority mode? How to use it on your Canon R-series camera / Digital Camera World](https://www.digitalcameraworld.com/tutorials/what-is-flexible-priority-mode-how-to-use-it-on-your-canon-r-series-camera ) |
+
