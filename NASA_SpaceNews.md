@@ -9,42 +9,6 @@
 
 <hr />
 
-## Satellite Technology
-
-### [State-of-the-Art of Small Spacecraft Technology](https://www.nasa.gov/smallsat-institute/sst-soa/)[^11]
-
-[^11]: [Small Spacecraft Virtual Institute](https://www.nasa.gov/smallsat-institute)
-
-#### [Acknowledgements](https://www.nasa.gov/smallsat-institute/sst-soa/acknowledgements)
-
-#### [1.0 Introduction](https://www.nasa.gov/smallsat-institute/sst-soa/introduction)
-
-#### [2.0 Integrated Spacecraft Platforms](https://www.nasa.gov/smallsat-institute/sst-soa/integrated-spacecraft-platforms)
-
-#### [3.0 Power](https://www.nasa.gov/smallsat-institute/sst-soa/power)
-
-#### [4.0 In-Space Propulsion](https://www.nasa.gov/smallsat-institute/sst-soa/in-space-propulsion)
-
-#### [5.0 Guidance, Navigation, and Contro](https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control)
-
-#### [6.0 Structures, Materials, and Mechanisms](https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms)
-
-#### [7.0 Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control)
-
-#### [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
-
-#### [9.0 Communications](https://www.nasa.gov/smallsat-institute/sst-soa/communications/)
-
-#### [10.0 Integration, Launch, and Deployment](https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment)
-
-#### [11.0 Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations)
-
-#### [12.0 Identification and Tracking Systems](https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems)
-
-#### [13.0 Deorbit Systems](https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems)
-
-#### [Summary](https://www.nasa.gov/smallsat-institute/sst-soa/summary)
-
 <hr />
 
 ## Space News 
@@ -88,7 +52,50 @@
 | [The oldest continents in the Milky Way may be 5 billion years older than Earth's / Live Science](https://www.livescience.com/space/exoplanets/the-oldest-continents-in-the-milky-way-may-be-5-billion-years-older-than-earths ) |
 | [What is STEVE, and how is it different from the aurora? / Space](https://www.space.com/what-is-steve ) |
 | [You've got to see Webb telescope's eerie view of the Crab Nebula / Mashable](https://mashable.com/article/james-webb-space-telescope-crab-nebula ) |
+| [Dark matter may have its own 'invisible' periodic table of elements / Live Science](https://www.livescience.com/space/cosmology/dark-matter-may-have-its-own-invisible-periodic-table-of-elements ) |
+| [Eroding remains of over 100 star-stripped '"missing link'" dwarf galaxies spotted / Live Science](https://www.livescience.com/space/astronomy/tiny-galaxies-that-had-their-stars-stolen-could-be-a-missing-link-in-cosmic-evolution ) |
+| [NASA is breaking a cardinal rule of branding](https://www.fastcompany.com/90979557/nasa-is-breaking-a-cardinal-rule-of-branding ) |
+| [NASA snapped a breathtaking view of deep space / Mashable](https://mashable.com/article/nasa-james-webb-space-telescope-galaxies ) |
+| [NASA’s Juno Spacecraft Discovers Jupiter’s Winds Penetrate the Planet in Cylindrical Layers](https://scitechdaily.com/nasas-juno-spacecraft-discovers-jupiters-winds-penetrate-the-planet-in-cylindrical-layers/ ) |
+| [Star-birthing galaxies can hide supermassive black holes behind walls of dust / Space](https://www.space.com/supermassive-black-hole-galaxies-dust-walls-hide ) |
+| [US military gives Lockheed Martin $33.7 million to develop nuclear spacecraft / Space](https://www.space.com/space-nuclear-power-tech-lockheed-martin-jetson-contract ) |
+| [The four fundamental liforces of nature / Live Science](https://www.livescience.com/the-fundamental-forces-of-nature.html ) |
 
+## Satellite Technology
+
+### [State-of-the-Art of Small Spacecraft Technology](https://www.nasa.gov/smallsat-institute/sst-soa/)[^11]
+
+[^11]: [Small Spacecraft Virtual Institute](https://www.nasa.gov/smallsat-institute)
+
+#### [Acknowledgements](https://www.nasa.gov/smallsat-institute/sst-soa/acknowledgements)
+
+#### [1.0 Introduction](https://www.nasa.gov/smallsat-institute/sst-soa/introduction)
+
+#### [2.0 Integrated Spacecraft Platforms](https://www.nasa.gov/smallsat-institute/sst-soa/integrated-spacecraft-platforms)
+
+#### [3.0 Power](https://www.nasa.gov/smallsat-institute/sst-soa/power)
+
+#### [4.0 In-Space Propulsion](https://www.nasa.gov/smallsat-institute/sst-soa/in-space-propulsion)
+
+#### [5.0 Guidance, Navigation, and Contro](https://www.nasa.gov/smallsat-institute/sst-soa/guidance-navigation-and-control)
+
+#### [6.0 Structures, Materials, and Mechanisms](https://www.nasa.gov/smallsat-institute/sst-soa/structures-materials-and-mechanisms)
+
+#### [7.0 Thermal Control](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control)
+
+#### [8.0 Small Spacecraft Avionics](https://www.nasa.gov/smallsat-institute/sst-soa/small-spacecraft-avionics)
+
+#### [9.0 Communications](https://www.nasa.gov/smallsat-institute/sst-soa/communications/)
+
+#### [10.0 Integration, Launch, and Deployment](https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment)
+
+#### [11.0 Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations)
+
+#### [12.0 Identification and Tracking Systems](https://www.nasa.gov/smallsat-institute/sst-soa/identification-and-tracking-systems)
+
+#### [13.0 Deorbit Systems](https://www.nasa.gov/smallsat-institute/sst-soa/deorbit-systems)
+
+#### [Summary](https://www.nasa.gov/smallsat-institute/sst-soa/summary)
 
 ## NASA History 
 
