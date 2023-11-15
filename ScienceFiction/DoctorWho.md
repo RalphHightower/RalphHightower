@@ -65,6 +65,7 @@
 | [Matt Smith’s Doctor Who Wish Would Be The Doctor’s Biggest Challenge Yet](https://screenrant.com/doctor-who-matt-smith-return-master-challenge/ ) |
 | [Ncuti Gatwa’s Doctor Who Era Will Be Labeled As Season One](https://www.cbr.com/ncuti-gatwa-doctor-who-era-season-one/ ) |
 | [Ncuti Gatwa’s First Doctor Who Special Title Revealed By New Disney+ Release Calendar](https://screenrant.com/doctor-who-holiday-special-release-date-church-on-ruby-road/ ) |
+| [1 David Tennant Doctor Who Episode Addresses Controversial Storylines From Jodie Whittaker Era](https://screenrant.com/doctor-who-david-tennant-episode-flux-timeless-child-story-details/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
