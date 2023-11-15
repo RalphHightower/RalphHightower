@@ -97,12 +97,7 @@
 | [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
 | [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
 | [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
-
-- AutomotiveResources 
-   - News
-      - | [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
-      - | [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
-      - | [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
+| [Scientists shed new light on critical issue facing battery components in EVs: ‘The whole field has been misled’](https://finance.yahoo.com/news/scientists-shed-light-critical-issue-113000830.html ) |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
