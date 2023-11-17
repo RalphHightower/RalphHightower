@@ -60,6 +60,7 @@
 | [Star-birthing galaxies can hide supermassive black holes behind walls of dust / Space](https://www.space.com/supermassive-black-hole-galaxies-dust-walls-hide ) |
 | [US military gives Lockheed Martin $33.7 million to develop nuclear spacecraft / Space](https://www.space.com/space-nuclear-power-tech-lockheed-martin-jetson-contract ) |
 | [The four fundamental liforces of nature / Live Science](https://www.livescience.com/the-fundamental-forces-of-nature.html ) |
+| [James Webb Space Telescope could soon solve mysteries of the Milky Way's heart / Space](https://www.space.com/james-webb-space-telescope-milky-way-heart-mystery ) |
 
 ## Satellite Technology
 
