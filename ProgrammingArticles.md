@@ -15,7 +15,7 @@
 | Aug 1, 2022 | [The Best C# .NET Web Application Tech Stack: Deploying to Azure](https://michaelscodingspot.com/deploying-to-azure/) |
 | Jan 2, 2023 | [The Best C# .NET Web Application Tech Stack: Choosing a Database](https://michaelscodingspot.com/azure-databases/) |
 
-#### Artificial Intelligence 
+## Artificial Intelligence 
 
 | Artificial Intelligence |
 |---|
@@ -24,12 +24,43 @@
 | **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
 | [Automated Deployment of TensorFlow Models with TensorFlow Serving and GitHub Actions — The TensorFlow Blog](https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html ) |
 | [Get started with ChatGPT in .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/?p=45756 ) |
+| [The architecture of today's LLM applications - The GitHub Blog](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/ ) |
+| [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
+| [OpenAI turbocharges GPT-4 and makes it cheaper - The Verge](https://www.theverge.com/2023/11/6/23948426/openai-gpt4-turbo-generative-ai-new-model ) |
+| [MIT Researchers Discover That Deep Neural Networks Don’t See the World the Way We Do](https://scitechdaily.com/mit-researchers-discover-that-deep-neural-networks-dont-see-the-world-the-way-we-do/ ) |
+| [Role play with large language models / Nature](https://www.nature.com/articles/s41586-023-06647-8 ) |
+| [AI robotics' 'GPT moment' is near / TechCrunch](https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/ ) |
+| [SaraAI's SaraKIT Is a Raspberry Pi CM4 Carrier Board That Aims to Put ChatGPT in Your Projects - Hackster.io](https://www.hackster.io/news/saraai-s-sarakit-is-a-raspberry-pi-cm4-carrier-board-that-aims-to-put-chatgpt-in-your-projects-a8b97afca6f2 ) |
 
-#### Programing Articles 
+| Free AI Courses |
+|---|
+| **Beginner Courses** |
+| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/ ) |
+| [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/ ) |
+| [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/ ) |
+| [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/ ) |
+| [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/ ) |
+| [Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/ ) |
+| [Pair Programming with a Large Language Model](https://www.deeplearning.ai/short-courses/pair-programming-llm/ ) |
+| [Understanding and Applying Text Embeddings](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/ ) |
+| [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/ ) |
+| **Intermediate Courses** |
+| [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/ ) |
+| [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/ ) |
+| [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/ ) |
+| [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/ ) |
+
+## Docker
+
+Docker
+| [A Crash Course in Docker - ByteByteGo Newsletter](https://blog.bytebytego.com/p/a-crash-course-in-docker ) |
+ 
+## Programing Articles 
 
 | Programing Articles |
 |---|
 | **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
+| [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
 | [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
@@ -41,6 +72,27 @@
 | [GitOps with Terraform and GitHub - CodeProject](https://www.codeproject.com/Articles/5334971/GitOps-with-Terraform-and-GitHub ) |
 | [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
 | [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
+| [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
+| [Code Review: A Developer's Checklist](https://www.codemotion.com/magazine/backend/code-review-checklist-for-developers/ ) |
+| [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
+| [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
+| [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
+| [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
+| [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
+| [Automate your configuration with observability as code - DEV Community](https://newrelic.com/blog/how-to-relic/examples-observability-as-code-part-one? ) |
+| [Why I Prefer Trunk-Based Development / Koen van Gilst](https://koenvangilst.nl/blog/trunkbased-development ) |
+
+## Qt for VS Code 
+
+| Qt for VS Code |
+|---|
+| [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
+| [VS Code for Qt Applications - Part 1 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/ ) |
+| [VS Code for Qt Applications - Part 2 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-2/ ) | 
+| [VS Code for Qt Applications - Part 3 - KDAB on Qt development](https://www.kdab.com/using-vsc-for-qt-apps-part-3/ ) |
+
+## WebAssembly
+| [What Is WebAssembly — and Why Are You Hearing So Much About It? - The New Stack](https://thenewstack.io/webassembly/what-is-webassembly/ ) |
 
 ## Kubernetes 
 

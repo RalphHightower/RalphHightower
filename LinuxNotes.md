@@ -49,6 +49,8 @@
 | Linux Articles |
 |---|
 | [CBL-Mariner: Azure Linux Distribution Now Generally Available](https://www.infoq.com/news/2023/06/azure-linux-cbl-mariner/ ) |
+| [5 best Linux distributions in 2023](https://www.xda-developers.com/best-linux-distros/ ) |
+| [Linux containers guide: An introduction to containers](https://www.xda-developers.com/linux-containers-guide/ ) |
 
 ## Linux History, Trivia 
 

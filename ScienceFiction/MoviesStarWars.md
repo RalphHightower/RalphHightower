@@ -14,6 +14,13 @@
 | Rogue One | 2016-12-16 | Anthology |
 | Solo | 2018-05-25 | Anthology |
 
+## News 
+
+| Star Wars News |
+|---|
+| | [10 Things That Make No Sense About The Rebellion In Star Wars](https://screenrant.com/star-wars-rebellion-problems-make-no-sense/#the-rebels-should-have-evacuated-yavin-4-immediately-after-the-death-star-battle ) |
+
+
 ## [ChatGPT](https://chat.openai.com/) — Star Wars 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |

@@ -77,11 +77,10 @@
 | [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ ) |
 | [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ ) |
 | [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ ) |
-| A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
+| [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
 | [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
 | [Why Star Trek's Avery Brooks Returning To The Franchise After Deep Space Nine Seems Unlikely](https://www.cinemablend.com/television/star-trek-deep-spae-nine-avery-brooks-return-to-franchise-unlikely ) |
 | [Why Ezri Replaced Jadzia As Dax Explained By Star Trek: DS9 Writer](https://screenrant.com/star-trek-ds9-dax-jadzia-ezri-replacement-why/ ) |
-| [Star Trek's Crossfield Class Starship In Strange New Worlds Explained](https://screenrant.com/star-trek-strange-new-worlds-crossfield-class-starship/ ) |
 | [William Shatner Was “A Pleasure” In Star Trek Generations, Despite Patrick Stewart’s Early “Disappointment”](https://screenrant.com/william-shatner-star-trek-generations-pleasure-patrick-stewart/ ) |
 | [Enterprise Had A Big Problem From The Star Trek Prequel's Start, Says Showrunner](https://screenrant.com/star-trek-enterprise-problem-conccept-alone-showrunner/ ) |
 | [12 Important Star Trek Heroes Who Aren't In Starfleet](https://screenrant.com/star-trek-important-heroes-not-starfleet/#dr-agnes-jurati-the-borg-queen---star-trek-picard ) |
@@ -94,7 +93,161 @@
 | [“Sky’s The Limit”: Who Invented Star Trek: TNG Finale's Last Line Revealed By Patrick Stewart](https://screenrant.com/star-trek-tng-finale-last-line-patrick-stewart/ ) |
 | [Patrick Stewart Reveals How He Wanted Star Trek: Picard to End](https://www.cbr.com/patrick-stewart-star-trek-picard-ending-idea/ ) |
 | [Tom Hanks Is A Big Star Trek: The Next Generation Fan, And Patrick Stewart Has Made A Wild Claim About His Love For The Franchise](https://www.cinemablend.com/television/tom-hanks-big-star-trek-next-generation-fan-patrick-stewart-wild-claim-love-franchise ) |
-
+| [Patrick Stewart Was Glad Star Trek: The Next Generation Ended With Season 7](https://www.slashfilm.com/1423433/patrick-stewart-glad-star-trek-the-next-generation-ended-season-7/ ) |
+| [Why Making Star Trek: The Next Generation's Most Famous Episode Was So Painful For Patrick Stewart](https://www.slashfilm.com/1424505/star-trek-the-next-generation-patrick-stewart-best-of-both-worlds-painful/ ) |
+| [Star Trek: DS9 Was "Never Going To Go Into A Movie" Says Kira Actor](https://screenrant.com/star-trek-ds9-movie-never-considered-reason-expensive/ ) |
+| [TNG's Enterprise-D & Picard Season 3's Starships Assembled In Amazing Star Trek VFX](https://screenrant.com/star-trek-picard-starships-titan-enterprise-d-frontier-day/ ) |
+| [10 Best Quotes From Star Trek: First Contact](https://screenrant.com/star-trek-first-contact-best-dialogue-quotes/ ) |
+| [Picard's Cardassian Torture Made Star Trek: DS9's Setup Personal](https://screenrant.com/star-trek-picard-cardassian-torture-ds9-setup-personal/ ) |
+| [Patrick Stewart Thinks He Wasn't Great in TNG's Early Seasons](https://gizmodo.com/patrick-stewart-make-it-so-memoir-tng-acting-star-trek-1850963847 ) |
+| [Whoopi Goldberg Wanted Worf’s Job In Star Trek: TNG, Says Executive Producer](https://screenrant.com/whoopi-goldberg-star-trek-tng-chief-security-bartender/ ) |
+| [5 Famous Starship Bars In Star Trek Explained](https://screenrant.com/star-trek-starship-bars-10-forward-explained/#ten-forward-in-star-trek-picard-season-3 ) |
+| [Jonathan Frakes Is Patrick Stewart's "First Choice" & Favorite Star Trek Director](https://screenrant.com/jonathan-frakes-patrick-stewart-favorite-star-trek-director/ ) |
+| [‘Picard’ Makeup Designer Reveals ‘Star Trek 4’ Pre-Production Shut Down In 2022 Over Script Issues – TrekMovie.com](https://trekmovie.com/2023/11/01/picard-makeup-designer-reveals-star-trek-4-pre-production-shut-down-in-2022-over-script-issues/ ) |
+| [Patrick Stewart Realized Next Gen Was A Big Deal During A Hilarious Star Trek Fan Encounter](https://www.slashfilm.com/1426072/patrick-stewart-next-generation-big-deal-hilarious-star-trek-fan-encounter/ ) |
+| [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
+| [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
+| [A Great Wesley Crusher TNG Episode Hinted At His Best Star Trek Destiny](https://screenrant.com/star-trek-tng-wesley-crusher-traveler-mentor/ ) |
+| [Captain Janeway’s 7 Star Trek: Voyager Hairstyles, Ranked Worst To Best](https://screenrant.com/captain-janeway-star-trek-voyager-hairstyles-worst-best/#the-natural-bob ) |
+| [Best Episodes Of Star Trek: Voyager](https://gamerant.com/best-episodes-star-trek-voyager/ ) |
+| [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
+| [Star Trek Picard: Ways Seven Of Nine Changed Since Voyager](http://gamerant.com/star-trek-picard-seven-of-nine-different-voyager/ ) |
+| [Star Trek: How Was Warp Achieved When Dilithium Is Not Found On Earth?](https://gamerant.com/star-trek-warp-dilithium-earth-discovery-plot-hole/ ) |
+| [Star Trek: Unexplained Anomalies In The Delta Quadrant](https://gamerant.com/star-trek-unexplained-anomalies-delta-quadrant/ ) |
+| [Star Trek: Unluckiest Characters](https://gamerant.com/star-trek-unluckiest-characters/ ) |
+| [Star Trek: What Is Dilithium?](https://gamerant.com/star-trek-what-is-dilithium-explained/ ) |
+| [Space Shuttle Endeavour by Martin / Download free STL model / Printables.com](https://www.printables.com/model/628010-space-shuttle-endeavour ) |
+| [TNG & DS9 Cameos In Star Trek: The Original Series’ Final Movie Explained](https://screenrant.com/star-trek-6-michael-dorn-rene-auberjonois-cameos/ ) |
+| [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
+| [Underrated Star Trek: Voyager Episodes](https://gamerant.com/underrated-star-trek-voyager-episodes/ ) |
+| [Were the Borg Actually Created By The Romulans? Ultimate Fan Theory - YouTube](https://www.youtube.com/watch?v=8ZWh_uam7ds ) |
+| [Why Bajor Never Joined the Federation on Star Trek: DS9](https://www.cbr.com/star-trek-deep-space-nine-bajor-federation/ ) |
+| [Picard's Enterprise Has A Big Difference From Kirk's, And Star Trek: TNG Finally Made It Matter](https://screenrant.com/star-trek-tng-enterprise-d-families-kids-taken/ ) |
+| [Picard’s Warrior Poet Worf Almost Happened In Star Trek: TNG Season 3](https://screenrant.com/worf-star-trek-tng-cut-line-picard-soulful/ ) |
+| [The Genius Move That Made TNG Great Explained By Star Trek Writer](https://screenrant.com/star-trek-tng-character-episodes-genius-michael-piller/ ) |
+| ["All Those Who Wander" is a provocative Strange New Worlds title](https://redshirtsalwaysdie.com/2022/07/01/wander-provocative-strange-new-worlds-title/ ) |
+| [One Star Trek Episode Convinced Patrick Stewart That Brent Spiner Should've Won An Emmy](https://www.slashfilm.com/1426394/star-trek-episode-convinced-patrick-stewart-brent-spiner-shouldve-won-emmy/ ) |
+| [Patrick Stewart Drew From A Number Of Sources To Create Star Trek's Captain Picard](https://www.slashfilm.com/1435403/patrick-stewart-sources-create-star-treks-captain-picard/ ) |
+| [Star Trek Could Easily Resurrect William Shatner’s Kirk (But It Won’t Work)](https://screenrant.com/star-trek-kirk-resurrection-genesis-device-wont-work/ ) |
+| [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) |
+| [Star Trek Games Worth Discovering (& Best Left Unexplored)](https://gamerant.com/star-trek-best-worst-games/ ) |
+| [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
+| [Star Trek Has A New Scotty (Besides Strange New Worlds’ Young Engineer)](https://screenrant.com/star-trek-lower-decks-billups-joke-new-scotty/ ) |
+| [Star Trek Just Set Up Discovery’s Orion Crime Syndicate](https://screenrant.com/star-trek-lower-decks-discovery-emerald-chain-setup/ ) |
+| [Star Trek TNG’s Era Has No Clue About Discovery’s Ultimate Anti-Hero, Thanks To Spock](https://screenrant.com/star-trek-emperor-georgiou-tng-era-section-31/ ) |
+| [Star Trek's Kelvin Timeline Accomplished a Major Starfleet First](https://screenrant.com/star-trek-kelvin-first-romulan-starfleet/ ) |
+| [Star Trek: Best Gamma Quadrant Civilizations](https://gamerant.com/best-star-trek-gamma-quadrant-civilizations/ ) |
+| [Star Trek: Inconsistencies Between The Old And New Shows](https://gamerant.com/star-trek-shows-discovery-picard-inconsistencies/ ) |
+| [Star Trek: Strange New Worlds introduced the scariest episode of Star Trek](https://redshirtsalwaysdie.com/2023/10/30/star-trek-strange-new-worlds-introduced-the-scariest-episode-of-star-trek/ ) |
+| [Star Trek: Strange New Worlds loses \[spoiler\] but the actor isn't done](https://redshirtsalwaysdie.com/2022/06/30/star-trek-strange-new-worlds-loses-an-important-character/ ) |
+| [Star Trek: The Most Interesting Planets In The Franchise](https://gamerant.com/star-trek-most-interesting-planets/ ) |
+| [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
+| [Star Trek: Voyager's Coaxial Drive, Explained](https://gamerant.com/star-trek-voyager-coaxial-drive-explained/ ) |
+| [Star Trek: Warp Travel Trivia](https://gamerant.com/star-trek-warp-travel-facts-lore-trivia/ ) |
+| [The "Bad Way" Wrath Of Khan Changed Star Trek Movies, Says First Contact Writer](https://screenrant.com/star-trek-wrath-khan-bad-movie-impact/ ) |
+| [Why Star Trek DIDN'T Resurrect A Tragic TNG Character Explained By Lower Decks Creator](https://screenrant.com/star-trek-lower-decks-sito-no-resurrection-reason/ ) |
+| ["All Those Who Wander" is a provocative Strange New Worlds title](https://redshirtsalwaysdie.com/2022/07/01/wander-provocative-strange-new-worlds-title/ ) |
+| ['Star Trek' Timeline, Explained / The Mary Sue](https://www.themarysue.com/star-trek-timeline-explained/ ) |
+| [7 Versions Of Riker In Star TrekMovie.com](https://screenrant.com/star-trek-riker-different-versions-explained/ ) |
+| [Actors Strike Ends – What This Means For Star Trek Production – TrekMovie.com](https://trekmovie.com/2023/11/09/actors-strike-ends-star-trek-production-could-resume-soon/ ) |
+| [Best Picard Quotes In Star Trek: The Next Generation](https://gamerant.com/star-trek-next-generation-best-picard-quotes/ ) |
+| [Enterprise's Connor Trinneer Looks Back On Star Trek "Odd Couple" Trip & T'Pol](https://screenrant.com/star-trek-trip-tpol-enterprise-odd-couple/ ) |
+| [How Picard's Finale Sets Up Another Star Trek TNG Spinoff](https://www.cbr.com/picard-finale-sets-up-tng-spinoff/ ) |
+| [Interview: Dave Blass On Rebuilding The Enterprise-D And What You Didn’t See In ‘Star Trek: Picard’ Season 3 – TrekMovie.com](https://trekmovie.com/2023/11/08/interview-dave-blass-on-rebuilding-the-enterprise-d-and-what-you-didnt-see-in-star-trek-picard-season-3/ ) |
+| [Interview: James MacKinnon On Updating TNG Characters And Classic Alien Makeup For ‘Star Trek: Picard’ – TrekMovie.com](https://trekmovie.com/2023/11/09/interview-james-mackinnon-on-updating-tng-characters-and-classic-alien-makeup-for-star-trek-picard/ ) |
+| [Interview: ‘Star Trek: Picard’ Makeup Designer Talks Updating Worf And More Bucket List Aliens In Season 3 – TrekMovie.com](https://trekmovie.com/2022/09/27/interview-star-trek-picard-makeup-designer-talks-updating-worf-and-more-bucket-list-aliens-in-season-3/ ) |
+| [Jean Luc Picard's First F-Bomb Is Meant to Make Fans Uncomfortable](https://www.cbr.com/picard-f-bomb-fans-uncomfortable/ ) |
+| [One Star Trek Episode Convinced Patrick Stewart That Brent Spiner Should've Won An Emmy](https://www.slashfilm.com/1426394/star-trek-episode-convinced-patrick-stewart-brent-spiner-shouldve-won-emmy/ ) |
+| [Patrick Stewart Credits Jonathan Frakes For Star Trek: First Contact Being The Best TNG Movie](https://www.slashfilm.com/1426604/patrick-stewart-jonathan-frakes-star-trek-first-contact-best-the-next-generation-movie/ ) |
+| [Patrick Stewart Drew From A Number Of Sources To Create Star Trek's Captain Picard](https://www.slashfilm.com/1435403/patrick-stewart-sources-create-star-treks-captain-picard/ ) |
+| [Picard Season 3 Highlights Jonathan Frakes' Star Trek Legacy Behind The Camera](https://www.cbr.com/star-trek-picard-jonathan-frakes-director/ ) |
+| [Picard Season 3 Just Revealed A Massive Deep Space Nine Connection](https://www.cbr.com/star-trek-picard-deep-space-nine-connection/ ) |
+| [Picard Season 3's Themes Mirror Star Trek's Best Movies](https://www.cbr.com/picard-season3-star-trek-best-movies/ ) |
+| [Picard's Final Season Makes Way For A Star Trek TOS Spinoff](https://www.cbr.com/picard-season3-tos-gary-seven-spinoff/ ) |
+| [Picard's Villain Vadic Is The Literal Next Generation Of Star Trek Villain](https://www.cbr.com/star-trek-picard-vadic-christopher-plummer-villain/ ) |
+| [Spock Admits Why He Became More of a Rebel After Leaving the Enterprise](https://screenrant.com/spock-admits-became-rebel-leaving-enterprise/ ) |
+| [Star Trek Calls Out How Starfleet’s Wars Betray Its True Purpose](https://screenrant.com/star-trek-lower-decks-starfleet-wars-betray-purpose/ ) |
+| [Star Trek Could Easily Resurrect William Shatner’s Kirk (But It Won’t Work)](https://screenrant.com/star-trek-kirk-resurrection-genesis-device-wont-work/ ) |
+| [Star Trek Fans Launch New Campaign For Picard’s Legacy Spinoff](https://screenrant.com/star-trek-legacy-fans-new-campaign-spinoff-greenlight/ ) |
+| [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) |
+| [Star Trek Games Worth Discovering (& Best Left Unexplored)](https://gamerant.com/star-trek-best-worst-games/ ) |
+| [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
+| [Star Trek Has A New Scotty (Besides Strange New Worlds’ Young Engineer)](https://screenrant.com/star-trek-lower-decks-billups-joke-new-scotty/ ) |
+| [Star Trek Is Over For 2023 - Now What?](https://screenrant.com/star-trek-lower-decks-end-2023-next-year/ ) |
+| [Star Trek Just Confirmed Spock's Starfleet Rank Is Basically A Lie](https://screenrant.com/star-trek-spock-starfleet-rank-lie/ ) |
+| [Star Trek Just Set Up Discovery’s Orion Crime Syndicate](https://screenrant.com/star-trek-lower-decks-discovery-emerald-chain-setup/ ) |
+| [Star Trek Mystery: Were Voyager’s Tom Paris & His Lookalike At Starfleet Academy At The Same Time?](https://screenrant.com/star-trek-tom-paris-locarno-starfleet-academy-same-time/ ) |
+| [Star Trek Reveals TNG’s Secret, Jaw-Dropping Connections To Mariner](https://screenrant.com/star-trek-mariner-tng-lower-decks-connection-explained/ ) |
+| [Star Trek TNG’s Era Has No Clue About Discovery’s Ultimate Anti-Hero, Thanks To Spock](https://screenrant.com/star-trek-emperor-georgiou-tng-era-section-31/ ) |
+| [Star Trek's Kelvin Timeline Accomplished a Major Starfleet First](https://screenrant.com/star-trek-kelvin-first-romulan-starfleet/ ) |
+| [Star Trek: Best Gamma Quadrant Civilizations](https://gamerant.com/best-star-trek-gamma-quadrant-civilizations/ ) |
+| [Star Trek: Destroyed Starships](https://gamerant.com/star-trek-destroyed-starships/ ) |
+| [Star Trek: Inconsistencies Between The Old And New Shows](https://gamerant.com/star-trek-shows-discovery-picard-inconsistencies/ ) |
+| [Star Trek: Insurrection Had Data’s Weirdest Power That’s Been Wisely Forgotten](https://screenrant.com/star-trek-insurrection-data-floation-device-forgotten/ ) |
+| [Star Trek: Is Voyager More Advanced Than The Enterprise?](https://gamerant.com/star-trek-voyager-more-advanced-enterprise/ ) |
+| [Star Trek: Picard Season 3, Episode 2, 'Disengage,' Recap & Spoiler](https://www.cbr.com/star-trek-picard-season3-episode2-recap-spoilers/ ) |
+| [Star Trek: Picard's Ed Speleers Unpacks Season 3'S Big Twist](https://www.cbr.com/star-trek-picard-ed-speleers-interview/ ) |
+| [Star Trek: Picard's Synthetic Body, Explained](https://gamerant.com/star-trek-picard-synthetic-body-explained/ ) |
+| [Star Trek: Strange New Worlds introduced the scariest episode of Star Trek](https://redshirtsalwaysdie.com/2023/10/30/star-trek-strange-new-worlds-introduced-the-scariest-episode-of-star-trek/ ) |
+| [Star Trek: Strange New Worlds loses \[spoiler\] but the actor isn't done](https://redshirtsalwaysdie.com/2022/06/30/star-trek-strange-new-worlds-loses-an-important-character/ ) |
+| [Star Trek: The Most Interesting Planets In The Franchise](https://gamerant.com/star-trek-most-interesting-planets/ ) |
+| [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
+| [Star Trek: Voyager's Coaxial Drive, Explained](https://gamerant.com/star-trek-voyager-coaxial-drive-explained/ ) |
+| [Star Trek: Warp Travel Trivia](https://gamerant.com/star-trek-warp-travel-facts-lore-trivia/ ) |
+| [Star Trek: Why Was The Kolvoord Starburst Banned?](https://gamerant.com/star-trek-why-was-kolvoord-starburst-banned-explained/ ) |
+| [Star Trek: Will Riker's Entire Character Timeline Explained](https://screenrant.com/star-trek-will-riker-complete-character-timeline/ ) |
+| [Synthehol: Star Trek's Sci-Fi Take on Alcohol, Explained](https://www.cbr.com/star-trek-synthehol-fake-alcohol-explained/ ) |
+| [The "Bad Way" Wrath Of Khan Changed Star Trek Movies, Says First Contact Writer](https://screenrant.com/star-trek-wrath-khan-bad-movie-impact/ ) |
+| [The Genius Move That Made TNG Great Explained By Star Trek Writer](https://screenrant.com/star-trek-tng-character-episodes-genius-michael-piller/ ) |
+| [What's Next For Star Trek Now That The Actors' Strike Is Over](https://screenrant.com/star-trek-shows-movies-production-update-strike-over/ ) |
+| [Why Star Trek DIDN'T Resurrect A Tragic TNG Character Explained By Lower Decks Creator](https://screenrant.com/star-trek-lower-decks-sito-no-resurrection-reason/ ) |
+| [Who Captained the USS Enterprise After Star Trek: TNG](https://www.cbr.com/picard-worf-captained-enterprise-after-jean-luc/ ) |
+| [Deep Space Nine Shows How Star Trek Does Religion](https://www.cbr.com/star-trek-deep-space-nine-religion/ ) |
+| [Harry Kim's New Codename Makes Up for Years of Star Trek Mockery](https://screenrant.com/star-trek-harry-kim-new-codename-kingsnake/ ) |
+| [How Did Una Chin-Riley Change Starfleet’s Attitude About Augments?](https://www.cbr.com/star-trek-una-chin-riley-gene-modification/ ) |
+| [Enterprise’s Scott Bakula Looks Back On “Wonderful Stuff” In His Star Trek Prequel](https://screenrant.com/star-trek-enterprise-scott-bakula-proud-wonderful-stuff/ ) |
+| [How Star Trek Discovery Is Connected to Strange New Worlds](https://www.cbr.com/star-trek-discovery-strange-new-worlds-connection/ ) |
+| [Kirk’s TOS Success Made Pike’s Debut Star Trek’s First Prequel](https://screenrant.com/star-trek-tos-success-pike-cage-first-prequel/ ) |
+| [How Seven of Nine Was Rescued From the Borg on Star Trek: Voyager](https://www.cbr.com/star-trek-voyager-seven-of-nine-borg/ ) |
+| [Picard Just Referenced Two Forgotten Figures From Star Trek History](https://www.cbr.com/picard-forgotten-figures-star-trek-history/ ) |
+| [Picard Season 3 Reunites Star Trek Discovery's Fractured Fandom](https://www.cbr.com/picard-season-3-star-trek-discovery-fandom/ ) |
+| [Picard's Finale Casts Shaw's Bias Against Seven of Nine Differently](https://www.cbr.com/picard-finale-shaw-bias-seven-of-nine/ ) |
+| [Picard's Subtlest Cameo Brings Majel Barrett Back to the Franchise](https://www.cbr.com/picard-star-trek-majel-barrett/ ) |
+| [Review: The Autobiography of Benjamin Sisko – Trek Central](https://trekcentral.net/review-the-autobiography-of-benjamin-sisko/ ) |
+| [Spock Admits the Real Reason He Refused to Become a Captain After Kirk's Death](https://screenrant.com/star-trek-why-spock-never-became-captain/ ) |
+| [Star Trek Announces Strange New Worlds/Lower Decks Crossover](https://www.cbr.com/star-trek-strange-new-worlds-lower-decks-crossover-paramount/ ) |
+| [Star Trek Fans Launch New Campaign For Picard’s Legacy Spinoff](https://screenrant.com/star-trek-legacy-fans-new-campaign-spinoff-greenlight/ ) |
+| [Star Trek Finally Reveals Mr. Spock's First Name](https://www.cbr.com/star-trek-canon-spock-first-name-strange-new-worlds/ ) |
+| [Star Trek Firing Doctor Crusher In TNG Season 1 Never Made Sense](https://screenrant.com/star-trek-doctor-crusher-fired-stupid-great-character/ ) |
+| [Star Trek Strange New Worlds Is The One We've Been Waiting For](https://www.cbr.com/star-trek-strange-new-worlds-is-the-one-weve-been-waiting-for/ ) |
+| [Star Trek's Most Important Show In 2024 Isn't Discovery](https://screenrant.com/star-trek-lower-decks-most-important-2024-show/ ) |
+| [Star Trek's Patrick Stewart Still Owns A Hilarious Prank Created By Data Himself](https://www.slashfilm.com/1435221/star-trek-patrick-stewart-owns-hilarious-prank-created-by-brent-spiner/ ) |
+| [Star Trek's Zoe Saldana Pays Tribute To Original Uhura Actor, Nichelle Nichols](https://www.cbr.com/star-trek-zoe-saldana-nichelle-nichols-death/ ) |
+| [Star Trek: Discovery Star Reveals Whether The Show Is Working Toward A Series Finale](https://www.cbr.com/star-trek-discovery-working-towards-series-finale/ ) |
+| [Star Trek: Discovery's Sonequa Martin-Green Details the Importance of Representation](https://www.cbr.com/star-trek-discovery-sonequa-martin-green-representation-interview/ ) |
+| [Star Trek: Humanity Was a Vulcan Pet Project for Centuries](https://www.cbr.com/star-trek-humanity-vulcan-pet-project/ ) |
+| [Star Trek: Just How Old Is The United Federation Of Planets?](https://www.cbr.com/star-trek-how-old-is-federation/ ) |
+| [Star Trek: Lower Decks Announces S3 Debut Date With Search For Spock-Inspired Key Art](https://www.cbr.com/star-trek-lower-decks-season-3-premiere-date-paramount/ ) |
+| [Star Trek: Picard Just Paid Off a Weird First Contact Moment](https://www.cbr.com/star-trek-picard-first-contact-borg/ ) |
+| [Star Trek: Strange New World Star Wasn't Told Her Role Until After Landing It](https://www.cbr.com/star-trek-strange-new-worlds-uhura-wasnt-told-role-paramount/ ) |
+| [Star Trek: Strange New Worlds - Who Is Admiral Robert April?](https://www.cbr.com/star-trek-strange-new-worlds-admiral-robert-april/ ) |
+| [Star Trek: Strange New Worlds - Why Do Fans Love the Gorn?](https://www.cbr.com/strange-new-worlds-why-star-trek-fans-love-gorn/ ) |
+| [Star Trek: Strange New Worlds Brings Back Spock's Doomed Romance](https://www.cbr.com/star-trek-strange-new-worlds-spock-romance/ ) |
+| [Star Trek: Strange New Worlds Confirms A Major Wrath Of Khan Connection](https://www.cbr.com/star-trek-strange-new-world-connection-wrath-of-khan-link/ ) |
+| [Star Trek: Strange New Worlds Could Create A NEW Timeline - Here's How](https://www.cbr.com/star-trek-strange-new-worlds-create-new-timeline/ ) |
+| [Star Trek: Strange New Worlds' Christina Chong Gets Personal About Playing La'an](https://www.cbr.com/star-trek-strange-new-worlds-christina-chong-interview/ ) |
+| [Star Trek: The Motion Picture Is the Most Important Director's Cut](https://www.cbr.com/star-trek-motion-picture-directors-cut-importance/ ) |
+| [Star Trek’s Walter Koenig Thanks Fans For Showing The Importance Of TOS’ Supporting Characters](https://screenrant.com/star-trek-walter-koenig-credit-fans-characters-important/ ) |
+| [Strange New Worlds Proves The Vulcans Are Still Far From Perfect](https://www.cbr.com/star-trek-strange-new-worlds-vulcans-not-perfect/ ) |
+| [Strange New Worlds' 'Children Of The Comet' Delivers A Classic Star Trek Problem](https://www.cbr.com/star-trek-strange-new-worlds-children-comet/ ) |
+| [The Galaxy Quest Series Must Emulate Star Trek: The Next Generation](https://www.cbr.com/galaxy-quest-star-trek-next-generation/ ) |
+| [The Last Scene Of Star Trek: Picard Pays Off The Next Generation Finale](https://www.cbr.com/picard-final-scene-next-generation/ ) |
+| [The Picard Blu-ray Highlights the Versatility of Star Trek](https://www.cbr.com/picard-blu-ray-versatility-star-trek/ ) |
+| [Voyager's 'Dark Frontier' Episode Foreshadowed Picard Season 3](https://www.cbr.com/voyager-dark-frontier-foreshadowed-picard-season3/ ) |
+| [Why Saavik Was Star Trek VI's Most Heartbreaking Villain](https://www.cbr.com/saavik-star-trek-6-tragic-villain/ ) |
+| [Why Was Star Trek: The Original Series Was Canceled?](https://www.cbr.com/why-star-trek-was-originally-canceled/ ) |
+| [Worf Became Star Trek's Greatest Klingon Thanks To A Pivotal TNG Death](https://screenrant.com/star-trek-tasha-yar-death-worf-opportunity-great/ ) |
+| [Why Star Trek: The Next Generation's Most Emotional Episode Holds Special Meaning For Patrick Stewart](https://www.slashfilm.com/1438379/star-trek-the-next-generation-patrick-stewart-most-emotional-episode/ ) |
 
 ## Star Trek Food Recipes 
 

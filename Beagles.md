@@ -118,3 +118,11 @@ Some funny moments from Becky's life:
 3) Becky believed in exercise. While she could not run in her later years, she would walk along the fence every day. Acupuncture and herbal medicine helped her keep her mobility.
 
 Becky gave birth to two sons, Trucker and Traveler. The origins of their names is another story.
+
+### Beagle Links / Articles
+
+| Beagle Links / Articles |
+|---|
+| [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/) |
+| [Beagle Hunting Performance Test](https://beaglehpt.com/? )  |
+

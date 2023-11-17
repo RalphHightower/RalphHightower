@@ -8,11 +8,12 @@
 |---|
 | [45drives](https://www.45drives.com/ ) |
 | [45homelab](https://45homelab.com/ ) |
+| [TrueNAS SCALE Network Configuration Tips for Home Server - Virtualization Howto](https://www.virtualizationhowto.com/truenas-scale-network-configuration-tips-for-home-server/ ) |
+| [TrueNAS vs Synology: Best Network Attached Storage - Virtualization Howto](https://www.virtualizationhowto.com/truenas-vs-synology-best-network-attached-storage/ ) |
 
 ### Time Keeping 
 
 | [The Timebeat Store - Not Dick's Clock Shop](https://store.timebeat.app/ ) |
-
 
 ## Essential Services
 
@@ -54,3 +55,7 @@
 |[Best Hypervisor for Home Lab in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/best-hypervisor-for-home-lab-in-2023/ )|
 |[The Best DNS Servers for Secure Browsing](https://www.howtogeek.com/874773/the-best-dns-servers-for-secure-browsing/ ) |
 | [DietPi: Tiny OS for Home Server Self-hosting - Virtualization Howto](https://www.virtualizationhowto.com/2023/09/dietpi-tiny-os-for-home-server-self-hosting/ ) |
+| [GitLab CI CD Pipelines for Home Lab: A Step-by-Step Guide - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/gitlab-ci-cd-pipelines-for-home-lab-a-step-by-step-guide/ ) |
+| [Top 10 Open Source NAS software in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/top-10-open-source-nas-software-in-2023/ )  |
+| [GitLab CI CD Pipelines for Home Lab: A Step-by-Step Guide - Virtualization Howto](https://www.virtualizationhowto.com/2023/10/gitlab-ci-cd-pipelines-for-home-lab-a-step-by-step-guide/ ) |
+| [Best NAS in 2023](https://www.xda-developers.com/best-nas/ ) |

@@ -17,17 +17,11 @@
 
 [^11]: [Old Car City](https://www.oldcarcityusa.com/) in White, Georgia contains the worlds largest known classic car junkyard. Visitors enjoy the beautiful vegetation of the deep south that is intertwined with the hundreds of cars that reside in Old Car City. Old Car City started as a small general store in 1931 and is still family owned and operated. Come enjoy the Old South environment, folk art, ghosts of beautiful classic cars, and much more! With over 34 acres and over 4000 American-made cars from the early 20th Century, these cars, trucks, vans, and even a couple school buses are placed in such a way as to be ideally suited for photos, videos and custom camera shoots. Over the 8 decades since first started, thousands of photographers, videographers, ad agencies and media companies have visited Old Car City USA. Popular news magazine and newspaper companies, like CBS Sunday Morning, the New York Times, the BBC and Georgia Public Television, have made press releases and/or video segments and transmitted it worldwide. Mayor of Old Car City USA, Dean Lewis, welcomes all who come out to visit his varied collection of automobile art with a little help from Mother Nature. You can come and just stroll along with winding paths for a nominal fee or, for a few dollars more, bring a camera and take pictures and/or videos and share them with friends. Among the many cars at Old Car City USA, there is the last car Elvis Presley ever bought back in 1977 just a couple months before he died. Also, a movie starring Andy Griffith and Johnny Cash used one of the cars that now call this place "home." The honorary mayor of the "City," Dean Lewis, is also an artist in his own rite with some of the most unique canvas...the styrofoam cup. In his upstairs loft, Lewis has hundreds of styrofoam canvases featuring his artistic talents on display along with some paintings he will proudly show off.
 
-## Automotive News
-
-| Automotive News |
-|---|
-| [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
-
-## GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015
+## [GM-Canada’s OnStar Solution to Canada’s Sunset of Cellular CDMA 2G Technology in 2015](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
 [Canada sunsetted cellular 2G CDMA technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle that plugs into the ODB-II port, which is GM USA solution. Documents retrieved from NHTSA (US) https://nhtsa.gov.](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/)
 
-## Owners Manuals 
+### Owners Manuals 
 
 | Make | Model | Year | Publication |
 |-------|--------|-------|-------------|
@@ -57,7 +51,7 @@
 
 [^21]: My bucket list car
 
-## ODB-II Codes
+### ODB-II Codes
 
 | ODB-II Codes | 
 |--------------|
@@ -69,16 +63,16 @@
 | [RealDash — ODB-II Code Reader](https://realdash.net/) |
 | [CAN Bus — Wikipedia](https://en.wikipedia.org/wiki/CAN_bus?wprov=sfla1) |
 
-## API (Application Program Interface)
-
-## Reviews 
+### Reviews 
 
 | Reviews |
 |---|
 | [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) |
 | [2024 Chevrolet Trax First Drive Review – YouTube](https://youtube.com/watch?v=DDLwenI5PHA&feature=share) |
 
-### [General Motors](https://www.gm.com/) 
+### API (Application Program Interface)
+
+#### [General Motors](https://www.gm.com/) 
 
 | [General Motors](https://www.gm.com/) |
 |---|
@@ -86,11 +80,35 @@
 |[GM Developers](https://developer.gm.com/ )|
 |[GM Developers API](https://developer.gm.com/vehicle-apis )|
 
-### [Toyota](https://www.toyota.com/)
+#### [Toyota](https://www.toyota.com/)
 
 | [Toyota](https://www.toyota.com/) |
 |---|
 | [Toyota API Portal / Toyota Developer Portal](https://developer.eig.toyota.com/toyota-api-portal ) |
+
+## Automotive News
+
+| Automotive News |
+|---|
+| [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
+| ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) |
+| [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) |
+| [Italian Company Ares Is Turning the C8 Corvette into a Hypercar](https://www.caranddriver.com/news/a45676763/ares-s1-corvette-hypercar/ ) |
+| [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
+| [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
+| [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
+| [Scientists shed new light on critical issue facing battery components in EVs: ‘The whole field has been misled’](https://finance.yahoo.com/news/scientists-shed-light-critical-issue-113000830.html ) |
+
+## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
+
+| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) |
+|---|
+|[2024 Chevelle 70/SS: What We Know So Far](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
+| [10 Ways The New Chevelle 70/SS Reignites The Muscle Car Market](https://www.hotcars.com/how-new-chevelle-reignites-muscle-cars/ ) |
+| [10 Reasons We're Excited About The New Chevelle Model: 70/SS](https://www.hotcars.com/new-chevrolet-chevelle-model/ ) |
+| [The New Chevelle 70/SS: 10 Features Every Gearhead Wants](https://www.hotcars.com/chevelle-70ss-anticipated-features/ ) |
+| [This Retro-Modern Trans Am 70/SS Chevelle Super Sport Is Worth Every Penny](https://www.hotcars.com/retro-modern-trans-am-70ss-chevelle-super-sport/ ) |
+| [TransAm Worldwide](https://transamworldwide.com/current-models-2-2/? ) |
 
 ## Scale Model Cars
 

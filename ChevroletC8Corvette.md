@@ -31,6 +31,8 @@
 | [Watch "What We Learned After Testing a Chevy C8 Corvette Over 40,000 Miles / Car and Driver" on YouTube](https://youtu.be/u7YfAlDYMVE ) | Car and Driver |
 | [Watch "How MUCH was my C8 CORVETTE?  Insurance Cost SHOCKED / Total Cost / Monthly Payment" on YouTube](https://youtu.be/w9sGMzZ5MPw ) | Jump Squad Auto |
 | [2025 C8 ZR1 to be an AWD 830HP Hybrid BEAST?](https://youtube.com/live/kavgumiyURs?si=PdXLFFvk0trUVHmy ) | Brink Of Speed |
+| [Taking Delivery of the NEW 2024 Corvette E-Ray! (First Drive + Launching) — Emelia Hartford](https://youtube.com/watch?v=jB9qDUcNlq8 ) | Owner |
+| [Watch "Forced to Sell My 2023 C8 Z06… let me explain" on YouTube](https://youtu.be/A3pcvvAkbdQ? ) | Owner |
 
 ## Articles 
 

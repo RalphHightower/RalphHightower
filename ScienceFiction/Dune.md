@@ -1,10 +1,58 @@
-# Science Fiction — [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order )
-BY ROSIE KNIGHT 
+# Science Fiction — Dune
 
 ## Dune — Part Two Premiere Date Set for November 3, 2023[^11][^12]
 
 [^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
 [^12]: [Dune 2's Release Plan Is Completely Changing The Movie Industry (For The Better)](https://screenrant.com/dune-2-imax-delay-the-marvels-movie/ )
+
+## News / Articles 
+
+| News / Articles |
+|---|
+| [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
+| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
+| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
+| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
+| [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
+| [Lego reveals Dune set, and a cast of incredible minifigs - Polygon](https://www.polygon.com/23930166/lego-dune-set-buy-order ) |
+| [Dune: What Is "The Spice" - Melange Drug Explained](https://screenrant.com/dune-what-is-the-spice-melange-drug-explained/ ) |
+| [Dune: How Space Travel Works & Why Spice Is Important](https://screenrant.com/dune-space-travel-spice-important-reason/ ) |
+| [Dune Movie Glossary & Terminology Guide](https://screenrant.com/dune-movie-2021-glossary-terms-word-meaning-guide/ ) |
+| [Dune: Emperor/Imperium Explainer](https://screenrant.com/dune-movie-2021-emperor-imperium-explained/ ) |
+| [Dune Cast & Character Guided](https://screenrant.com/dune-2021-movie-cast-character-guide/ ) |
+| [Dune Timeline Explained: Present To There Year 10191](https://screenrant.com/dune-movie-timeline-story-setting-years-explained/ ) |
+| [10 Major Book Changes To Expect In Dune 2 That Will Make Villleneuve's Sequel Better](https://screenrant.com/dune-2-movie-book-changes-theories-prediction/ ) |
+| [Dune 2 Is A Big Denis Villeneuve First (& It Make it it look It More Exciting)](https://screenrant.com/dune-2-denis-villeneuve-sequel-first-exciting/ ) |
+| [Dune 2: The Biggest Questions About Villeneuve's Sequel](https://screenrant.com/dune-2021-sequel-questions-story-production-timeline/ ) |
+| [Yes, Dune 2 Is Fixing The First Movie's Olympic Big Mistake](https://screenrant.com/dune-2-zendaya-chani-bigger-role-fix/ ) |
+| [Denis Villeneuve’s Dune 2 Has Already Avoided 2 Common Sequel Mistakes](https://screenrant.com/dune-2-movie-sequels-story-plan-risks-good/ ) |
+| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
+| [Dune: What Sandworms Looked Like In Every Adaptation](https://screenrant.com/dune-sandworms-look-like-movies/ ) |
+| [Every Dune Book Ranked Worst To Best](https://screenrant.com/dune-books-ranked-worst-best/ ) |
+| [How Many Dune Movies Will There Be? Every Possible Sequel & Spinoff](https://screenrant.com/dune-movies-sequels-spinoffs-future-universe-explained/ ) |
+| [How The Success of Dune's Reboot Will Be Decided By One Side Character](https://screenrant.com/dune-movie-success-failure-liet-kynes-character-important/ ) |
+| [Why Dune Uses Swords Instead Of Guns](https://screenrant.com/dune-swords-no-guns-future-explained/ ) |
+| [Why Dune's Reviews Are So Positive](https://screenrant.com/dune-movie-reviews-positive-rotten-tomatoes-explained/ ) |
+| [Why Dune 2021 Can’t Be A True Book Adaptation](https://screenrant.com/dune-2021-book-adaptation-accurate-problems/ ) |
+| [Why The Dune Books Could Kill The Film Franchise](https://screenrant.com/dune-books-kill-film-scope-franchise/ ) |
+| [Why Dune 2 Hasn't Been Greenlit By The Studio Yet](https://screenrant.com/dune-2-movie-sequel-wb-not-confirmed-reason/ ) |
+| [What You Need To Know Before Seeing Dune](https://screenrant.com/dune-know-before-seeing/ ) |
+| [Why Dune Was Always Destined To Be A Divisive Movie](https://screenrant.com/dune-2021-denis-villeneuve-movie-divisive-reason/ ) |
+| [Why Dune's Streaming Performance in More Important (to WB) Than Box Office](https://screenrant.com/dune-streaming-performance-more-important-box-office-wb/ ) |
+| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
+| [Villeneuve's Dune 2 Follow-Up Is Perfect For His Next Sci-Fi Miracle](https://screenrant.com/denis-villeneuve-next-movie-after-dune-2-perfect/ ) |
+| [Dune 2 Will Struggle To Adapt 1 Important Paul Scene From The Books](https://screenrant.com/dune-2-struggle-adapt-paul-scene-books/ ) |
+| [Dune's Lady Jessica Book Change Shows Why It's Such A Great Adaption](https://screenrant.com/dune-movie-books-jessica-paul-fear-quote-change/ ) |
+| [Dune 2021 Ending & Real Meaning Explained](https://screenrant.com/dune-movie-2021-ending-explained-meaning/ ) |
+| ['Dune: The Prophet' - Troubled Bene Gesserit Series Gets New Release Date - Bell of Lost Souls](https://www.belloflostsouls.net/2023/11/dune-the-prophet-troubled-bene-gesserit-series-gets-new-release-date.html ) |
+| [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
+| [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
+| ['Dune: The Prophet' - Troubled Bene Gesserit Series Gets New Release Date - Bell of Lost Souls](https://www.belloflostsouls.net/2023/11/dune-the-prophet-troubled-bene-gesserit-series-gets-new-release-date.html ) |
+| [Dune 2 Faces Stiff Competition To Be 2024's Best Sci-Fi Movie (There Might Be A Better One The Same Month!)](https://screenrant.com/dune-2-mickey-17-best-sci-fi-movie-march-2024/ ) |
+| [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
+| [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
+
+## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
 *Warning: this piece contains spoilers for the Dune book series.*
 
@@ -60,16 +108,6 @@ Set 100 years after the events at the beginning of The Butlerian Jihad, the book
 |Filled with clones, shocking returns, and a huge reveal about the antagonists of the series, this is an event level book that brings together the many loose threads left by the original books. Combining a complex structure, multiple character arcs, and an epic final battle this is a true climax to the overarching Dune series, which has been evolving and growing since 1967.|
 
 Rosie Knight is a contributing freelancer for IGN covering everything from anime to comic books to kaiju to kids movies to horror flicks. She has over half a decade of experience in entertainment journalism with bylines at Nerdist, Den of Geek, Polygon, and more.
-
-## News / Articles 
-
-| News / Articles |
-|---|
-| [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
-| [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
-| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
-| [Why Dune 3 Is Even More Important Than Part 2](https://screenrant.com/dune-2-3-trilogy-ending-story-important-reason/ ) |
-| [Dune: What Happens To Thufir Hawat? (Book Story Explained)](https://screenrant.com/dune-movie-2021-thufir-hawat-dead-alive/ ) |
 
 ## Dune by Frank Herbert 
 

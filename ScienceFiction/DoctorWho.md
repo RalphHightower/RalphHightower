@@ -30,6 +30,42 @@
 | [Doctor Who Theory Explains The Real Reason Jodie Whittaker Regenerated Into David Tennant](https://screenrant.com/doctor-who-david-tennant-regeneration-timeline-broken-theory-toymaker/ ) |
 | [Doctor Who: The Toymaker May Not Have Caused the Doctor's Regeneration](https://www.cbr.com/doctor-who-toymaker-regeneration-red-herring/ ) |
 | [Possible New Doctor Who Regeneration Prophecy Teased In 60th Anniversary Special Image](https://screenrant.com/doctor-who-60th-anniversary-david-tennant-regeneration-teased-image/ ) |
+| [Doctor Who Celebrates New Streaming Collection With Epic Eras-Spanning Intro](https://screenrant.com/doctor-who-bbc-iplayer-streaming-intro-video/ ) |
+| [Doctor Who Launches "The Whoniverse" With New Original Series, MORE Spinoffs Coming! - YouTube](https://www.youtube.com/watch?v=ZpyMus-u4l4 ) |
+| [Doctor Who Officially Makes A 40-Year Old Companion Theory Canon](https://screenrant.com/doctor-who-tegan-nyssa-relationship-canon/ ) |
+| [Doctor Who's Tales of the TARDIS pays touching tribute to Deborah Watling / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-tales-tardis-deborah-watling-newsupdate/ ) |
+| [Doctor Who: Tales of the TARDIS is "absolutely" canon says showrunner Russell T Davies / GamesRadar+](https://www.gamesradar.com/doctor-who-tales-of-the-tardis-is-absolutely-canon-says-showrunner-russell-t-davies/ ) |
+| [The Doctor Who 'Hand Pose' Is a Timeless Icon](https://gizmodo.com/doctor-who-hand-pose-tom-baker-david-tennant-ncuti-gatw-1850987145 ) |
+| [David Tennant Addresses Doctor Who Future After 60th Anniversary Episodes](https://screenrant.com/doctor-who-60th-anniversary-episodes-david-tennant-future-response/ ) |
+| [Doctor Who Boldly Overturns Its Outdated Classic-Era Show Policy](https://movieweb.com/doctor-who-overturns-outdated-classic-era-policy/ ) |
+| [Doctor Who Confirms Its Absurd 30th Anniversary Special Is Canon (& More Important Than Anyone Thought)](https://screenrant.com/doctor-who-dimensions-in-time-30th-anniversary-canon/ ) |
+| [Doctor Who Just Reversed 3 Big Mistakes From Jodie Whittaker's Final Episode](https://screenrant.com/doctor-who-jodie-whittaker-final-episode-mistakes-fix/ ) |
+| [Doctor Who: River Song's Timeline, Explained](https://www.cbr.com/doctor-who-river-song-chronological-order/ ) |
+| [Ncuti Gatwa’s Doctor Who Era Will Be Labeled as Season One](https://www.cbr.com/ncuti-gatwa-doctor-who-era-season-one/ ) |
+| [Ncuti Gatwa’s First Doctor Who Special Title Revealed By New Disney+ Release Calendar](https://screenrant.com/doctor-who-holiday-special-release-date-church-on-ruby-road/ ) |
+| [10 Doctor Who Pairings We Want To See In Tales Of The TARDIS Season 2](https://screenrant.com/doctor-who-characters-tales-tardis-spinoff-want-see/ ) |
+| [10 Reasons Donna Noble Was The Tenth Doctor's Best Doctor Who Companion](https://screenrant.com/doctor-who-donna-best-tenth-david-tennant-companion-reasons/) |
+| [All 26 Easter Eggs In Doctor Who's Tales Of The TARDIS By Episode](https://screenrant.com/doctor-who-tales-tardis-easter-eggs/ ) |
+| [David Tennant Addresses Doctor Who Future After 60th Anniversary Episodes](https://screenrant.com/doctor-who-60th-anniversary-episodes-david-tennant-future-response/ ) |
+| [Doctor Who Boldly Overturns Its Outdated Classic-Era Show Policy](https://movieweb.com/doctor-who-overturns-outdated-classic-era-policy/ ) |
+| [Doctor Who Confirms Its Absurd 30th Anniversary Special Is Canon (& More Important Than Anyone Thought)](https://screenrant.com/doctor-who-dimensions-in-time-30th-anniversary-canon/ ) |
+| [Doctor Who Images: Fourteenth Doctor, Toymaker, Wrarth Warriors & More](https://bleedingcool.com/tv/doctor-who-images-fourteenth-doctor-toymaker-wrarth-warriors-more/ ) |
+| [Doctor Who Just Reversed 3 Big Mistakes From Jodie Whittaker's Final Episode](https://screenrant.com/doctor-who-jodie-whittaker-final-episode-mistakes-fix/ ) |
+| [Doctor Who Rumors Suggest Paul McGann Will Return in His Own Spinoff Series](https://www.cbr.com/doctor-who-rumor-own-spinoff/ ) |
+| [Doctor Who Season 14 Cast Guide: Every New & Returning Character](https://screenrant.com/doctor-who-season-14-cast-character-guide/ ) |
+| [Doctor Who Season 14: Release Date Prediction, New Cast & Everything We Know](https://screenrant.com/doctor-who-season-14-updates-news-story-details/ ) |
+| [Doctor Who boss explains the difference between the Tenth and Fourteenth Doctors](https://winteriscoming.net/2023/11/06/doctor-who-boss-talks-differences-between-tenth-and-fourteenth-doctors-david-tennant/ ) |
+| [Doctor Who's New Spinoff Sets Up Unlimited Adventures For Every Past Doctor](https://screenrant.com/doctor-who-timestream-spinoffs-setup/ ) |
+| [Doctor Who's Tales Of The TARDIS Spinoff Explained (& Is It Canon?)](https://screenrant.com/doctor-who-tales-of-the-tardis-spinoff-explained-canon/ ) |
+| [Doctor Who: David Tennant's 10 Best Performances As The Doctor, Ranked](https://screenrant.com/doctor-who-david-tennant-best-performances-ranked/ ) |
+| [Doctor Who: Every Doctor & Who Played Them (In Chronological Order)](https://screenrant.com/every-actor-who-played-dr-who/ ) |
+| [Doctor Who: Every Doctor & Who Played Them (In Chronological Order)](https://screenrant.com/every-actor-who-played-dr-who/) |
+| [Doctor Who: How River Song Met The Doctor In Chronological Order](https://www.cbr.com/doctor-who-river-song-chronological-order/ ) |
+| [Doctor Who: River Song's Timeline, Explained](https://www.cbr.com/doctor-who-river-song-chronological-order/ ) |
+| [Matt Smith’s Doctor Who Wish Would Be The Doctor’s Biggest Challenge Yet](https://screenrant.com/doctor-who-matt-smith-return-master-challenge/ ) |
+| [Ncuti Gatwa’s Doctor Who Era Will Be Labeled As Season One](https://www.cbr.com/ncuti-gatwa-doctor-who-era-season-one/ ) |
+| [Ncuti Gatwa’s First Doctor Who Special Title Revealed By New Disney+ Release Calendar](https://screenrant.com/doctor-who-holiday-special-release-date-church-on-ruby-road/ ) |
+| [1 David Tennant Doctor Who Episode Addresses Controversial Storylines From Jodie Whittaker Era](https://screenrant.com/doctor-who-david-tennant-episode-flux-timeless-child-story-details/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
