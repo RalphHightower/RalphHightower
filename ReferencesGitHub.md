@@ -87,6 +87,7 @@
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
+| [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Garmin International](https://github.com/garmin ) ||
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
