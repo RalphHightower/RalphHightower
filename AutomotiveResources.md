@@ -98,6 +98,13 @@
 | [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
 | [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
 | [Scientists shed new light on critical issue facing battery components in EVs: ‘The whole field has been misled’](https://finance.yahoo.com/news/scientists-shed-light-critical-issue-113000830.html ) |
+| [2024 Chevy Traverse Limited: More Exclusive Details](https://gmauthority.com/blog/2023/11/2024-chevy-traverse-limited-more-exclusive-details/ ) |
+| **[An Off-Grid EV Camper Van / Hackaday](https://hackaday.com/2023/11/14/an-off-grid-ev-camper-van/ )** |
+| ['I Hope It Bankrupts Them': Las Vegas Residents Enraged Ahead Of Formula 1 Grand Prix](https://jalopnik.com/i-hope-it-bankrupts-them-las-vegas-residents-enraged-a-1851009102 ) |
+| [EVs Get Easier Fix Thanks To Feature Gas Cars Had For Decades](https://jalopnik.com/evs-get-easier-fix-feature-gas-cars-had-decades-obdii-1851017529 ) |
+| [Heavy EVs Will Be Dangerous In Car Accidents: Study](https://jalopnik.com/heavy-ass-evs-are-going-to-kill-us-all-1848764045 ) |
+| [Shelby Wins Legal Battle Over the 'Eleanor' Gone in 60 Seconds Car - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/14/shelby-wins-legal-battle-over-the-eleanor-gone-in-60-seconds-car/ ) |
+| **[Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ )** |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
