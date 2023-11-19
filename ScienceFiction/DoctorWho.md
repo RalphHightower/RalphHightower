@@ -66,6 +66,61 @@
 | [Ncuti Gatwa’s Doctor Who Era Will Be Labeled As Season One](https://www.cbr.com/ncuti-gatwa-doctor-who-era-season-one/ ) |
 | [Ncuti Gatwa’s First Doctor Who Special Title Revealed By New Disney+ Release Calendar](https://screenrant.com/doctor-who-holiday-special-release-date-church-on-ruby-road/ ) |
 | [1 David Tennant Doctor Who Episode Addresses Controversial Storylines From Jodie Whittaker Era](https://screenrant.com/doctor-who-david-tennant-episode-flux-timeless-child-story-details/ ) |
+| **[Doctor Who Trailer Brings Together Everything Great About The Show's 60-Year History](https://screenrant.com/doctor-who-show-history-video-tribute-trailer/ )** |
+| [8 Biggest Problems With David Tennant's Return To Doctor Who](https://www.cbr.com/david-tennant-doctor-who-return-issues/ ) |
+| [10 Best Doctor Who Gadgets That Aren't The Sonic Screwdriver](https://www.cbr.com/best-doctor-who-gadgets-not-sonic-screwdriver/ ) |
+| [10 Best Mel Bush Quotes In Doctor Who](https://www.cbr.com/doctor-who-mel-bush-best-quotes/ ) |
+| [10 Best Modern Doctor Who Companions](https://www.cbr.com/great-new-doctor-who-companions/ ) |
+| [10 Doctor Who Projects To Look Forward To In 2023](https://www.cbr.com/doctor-who-projects-announced-for-2023/ ) |
+| [10 More Doctor Who Doctors Who Deserve A Second Regeneration](https://www.cbr.com/doctor-who-actors-second-regeneration/ ) |
+| [10 Most Hated Doctor Who Characters](https://www.cbr.com/disliked-doctor-who-characters/ ) |
+| [10 Most Popular Doctor Who Villains](https://www.cbr.com/most-popular-doctor-who-villains/ ) |
+| [10 Smartest Doctor Who Characters, Ranked](https://www.cbr.com/smartest-doctor-who-characters-ranked/ ) |
+| [10 Times Doctor Who's Time Lords Were The Villains](https://www.cbr.com/doctor-who-time-lords-villains/ ) |
+| [10 Ways 2022 Was A Great Year For Doctor Who](https://www.cbr.com/doctor-who-2022-events/ ) |
+| [10 Weirdest Doctor Who Characters, Ranked](https://www.cbr.com/strangest-doctor-who-aliens-monsters-ranked/ ) |
+| [15 Strongest Doctor Who Characters, Ranked](https://www.cbr.com/doctor-who-strongest-characters-ranked/ ) |
+| [15 Tennant-Era Doctor Who Characters Who Almost Became Tenth Doctor Companions](https://screenrant.com/doctor-who-companions-tennant-almost-happen/ ) |
+| [16 Doctor Who Quotes That Perfectly Represent Each Modern Companion](https://screenrant.com/doctor-who-modern-companions-quotes-best-represent/ ) |
+| ['Doctor Who's Ncuti Gatwa Says He'll Share the Screen With the First Doctor](https://collider.com/doctor-who-ncuti-gatwa-first-doctor-comments/ ) |
+| [David Tennant’s New ‘Doctor Who’ Regeneration Is “Slightly More Human” Than the Last](https://collider.com/doctor-who-fourteen-ten-russell-t-davies-comments/ ) |
+| [Doctor Who & Star Trek: TNG Teamed Up to Stop the Borg/Cybermen Alliance](https://www.cbr.com/star-trek-the-next-generation-doctor-who-crossover/ ) |
+| [Doctor Who 60th Anniversary: Every Doctor's Best Story From The Last 60 Years](https://screenrant.com/doctor-who-best-story-last-60-years/ ) |
+| [Doctor Who Children in Need Minisode to Debut 14th Doctor](https://gizmodo.com/doctor-who-children-in-need-2023-minisode-david-tennant-1851017325 ) |
+| [Doctor Who Finally Reveals The Origin Of One Of The Doctor's Best Lines](https://screenrant.com/doctor-who-finally-reveals-the-origin-of-one-of-the-doctors-best-lines/ ) |
+| [Doctor Who Forgot Its Biggest Captain Jack Mystery](https://screenrant.com/doctor-who-captain-jack-harkness-lost-memories-plot-forgot/ ) |
+| [Doctor Who Once Actually Killed Off A Companion](https://screenrant.com/doctor-who-companion-adric-death-killed-off/ ) |
+| [Doctor Who's 10 Absolute Best Holiday Specials](https://www.cbr.com/doctor-who-best-holiday-episodes/ ) |
+| [Doctor Who's Fourteenth Doctor Being Different From The Tenth Is For The Best](https://www.cbr.com/doctor-who-fourteenth-doctor-different-from-tenth/ ) |
+| [Doctor Who: 10 Best Episodes, According to IMDB](https://www.cbr.com/top-revival-doctor-who-episodes/ ) |
+| [Doctor Who: 10 Best Standalone Episodes](https://www.cbr.com/doctor-who-best-standalone-episodes/ ) |
+| [Doctor Who: 10 Most Memorable Quotes From The Ninth Doctor](https://screenrant.com/doctor-who-most-memorable-quotes-ninth-christopher-eccleston/ ) |
+| [Doctor Who: 10 Real-Life Historical Figures Who Appeared In The Series](https://www.cbr.com/doctor-who-real-life-historical-figures/ ) |
+| [Doctor Who: 10 Reasons The Doctor & Rose Weren't Real Friends](https://screenrant.com/doctor-who-rose-companion-fake-friends-david-tennent/ ) |
+| [Doctor Who: 10 Reasons Why Donna & Rose Weren't Real Friends](https://screenrant.com/doctor-who-donna-rose-not-real-friends/ ) |
+| [Doctor Who: 10 Scariest Episodes To Watch This Halloween](https://www.cbr.com/doctor-who-scariest-episodes-halloween/ ) |
+| [Doctor Who: 10 Things About Rose That Would Never Fly Today](https://screenrant.com/doctor-who-rose-tyler-didnt-age-well/ ) |
+| [Doctor Who: 10 Worst Episodes, According To IMDb](https://www.cbr.com/doctor-who-worst-episodes-imdb/ ) |
+| [Doctor Who: 5 Actors Who Nailed Their Roles (& 5 Who Fell Short)](https://www.cbr.com/doctor-who-actors-who-nailed-roles-and-fell-short/ ) |
+| [Doctor Who: 5 Of The Doctor's Best Outfits (& 5 Of Their Worst)](https://www.cbr.com/doctor-who-best-worst-doctor-outfits-costumes/ ) |
+| [Doctor Who: 5 Things Jodie Whittaker's Era Got Right (And 5 Mistakes)](https://www.cbr.com/doctor-who-things-jodie-whittakers-era-got-right-and-mistakes/ ) |
+| [Doctor Who: Ranking Every Doctor From Best To Worst](https://www.cbr.com/doctor-who-best-worst-doctors-ranked-bbc/ ) |
+| [Doctor Who: River Song's Timeline Explained](https://screenrant.com/doctor-who-river-song-timeline-explained/ ) |
+| [Doctor Who: The History Of The Sonic Screwdriver](https://gamerant.com/doctor-who-history-sonic-screwdriver/ ) |
+| [Doctor Who: The Sonic Screwdriver's Uses, Explained](https://gamerant.com/doctor-who-sonic-screwdrivers-uses/ ) |
+| [Doctor Who: What Jodi Whittaker's Departure Will Mean For The Series](https://gamerant.com/doctor-who-what-jodi-whittakers-departure-will-mean-for-the-series/ ) |
+| [Doctor Who: Why Jenny Didn't Regenerate After Her Death](https://screenrant.com/doctor-who-jenny-death-not-regenerate-change-reason/ ) |
+| [Disney+ Doctor Who Showrunner Explains 1 Frustrating Change for New Episodes](https://thedirect.com/article/doctor-who-disney-plus-show-new-episodes-change ) |
+| [Every Type Of Dalek In Doctor Who, Explained](https://screenrant.com/doctor-who-dalek-versions-explained/ ) |
+| [How Doctor Who Can Explain The Toymaker's Return](https://www.cbr.com/how-doctor-who-can-explain-toymaker-return/ ) |
+| [How Doctor Who Setup The Doctor's Mother (& Why It No Longer Fits)](https://screenrant.com/doctor-who-mother-rtd-tennant-setup-timeless-child-change/ ) |
+| [How William Hartnell's Second Season Changed Doctor Who for the Better](https://www.cbr.com/how-first-doctor-changed-doctor-who-season-2/ ) |
+| [“It’s Rather Good”: New Life For Unmade David Tennant-Era Doctor Who Episode Teased By Writer](https://screenrant.com/doctor-who-david-tennant-unmade-episode-update-writer/ ) |
+| [The 10 Youngest Doctor Who Companions, Ranked By Age](https://www.cbr.com/young-doctor-who-companions/ ) |
+| [The 25 Deadliest Doctor Who Villains In The Franchise, Ranked](https://www.cbr.com/doctor-who-villains-ranked/ ) |
+| [The Best Episodes Of Doctor Who, According To Critics](https://www.cbr.com/doctor-who-best-episodes-critics/ ) |
+| [The Best Thing About Each Doctor In Doctor Who](https://www.cbr.com/the-best-thing-about-each-doctor-in-doctor-who/ ) |
+| [Why Doctor Who’s Companions Are Always Human](https://screenrant.com/doctor-who-companion-humans-why/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
