@@ -1,4 +1,4 @@
-# [NASA](https://www.nasa.gov/) / Space News
+⁶# [NASA](https://www.nasa.gov/) / Space News
 
 ## NASA Links
 
@@ -117,7 +117,7 @@
 | [Webb Follows Neon Signs Toward New Thinking on Planet Formation - NASA](https://www.nasa.gov/missions/webb/webb-follows-neon-signs-toward-new-thinking-on-planet-formation/ ) |
 | [Why are things in spacenews.com that causes such things round? / Live Science](https://www.livescience.com/space/why-are-things-in-space-round ) |
 | [Ultracold atoms in space will let us stress test Einstein's relativity / New Scientist](https://www.newscientist.com/article/2402740-ultracold-atoms-in-space-will-let-us-stress-test-einsteins-relativity/ ) |
-| [Unlocking Fundamental Mysteries: Using Near-Miss Particle Physics to Peer Into Quantum | [We Finally Know the True Power of the Brightest Gamma-Ray Burst](https://gizmodo.com/power-brightness-gamma-ray-burst-boat-1851025152 ) |
+[Unlocking Fundamental Mysteries: Using Near-Miss Particle Physics to Peer Into Quantum World](https://scitechdaily.com/unlocking-fundamental-mysteries-using-near-miss-particle-physics-to-peer-into-quantum-world/)|[We Finally Know the True Power of the Brightest Gamma-Ray Burst](https://gizmodo.com/power-brightness-gamma-ray-burst-boat-1851025152 ) |
 | [When Stars Consume Their Partners, We Could Detect a Blast of Neutrinos - Universe Today](https://www.universetoday.com/164228/when-stars-consume-their-partners-we-could-detect-a-blast-of-neutrinos/ ) |
 | [Why Even Einstein Couldn't Unite Physics - Universe Today](https://www.universetoday.com/164144/why-even-einstein-couldnt-unite-physics/ ) |
 
