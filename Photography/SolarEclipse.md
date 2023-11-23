@@ -10,7 +10,7 @@
 | [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^11] | $114.95 | Buy | B&H, NYC |
 | [Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466513-REG/sky_watcher_s20110_az5_mount_with_steel.html )[^12] | $355.00 | Buy | B&H, NYC |
 | [Sky-Watcher Star Adventurer Motorized Mount Astro Package](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20510_star_adventurer_motorized_mount.html )[^12] | $310.00 | Buy | B&H, NYC |
-| [Sky-Watcher EQM-35 EQ GoTo Mount Head](https://www.bhphotovideo.com/c/product/1404592-REG/sky_watcher_s30500_eqm_35_mount.html ) | $835.00[^12] | Buy | B&H, NYC |
+| [Sky-Watcher EQM-35 EQ GoTo Mount Head](https://www.bhphotovideo.com/c/product/1404592-REG/sky_watcher_s30500_eqm_35_mount.html )[^12] | $835.00 | Buy | B&H, NYC |
 | [Celestron Advanced VX GoTo German Equatorial Mount](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^12] | $999.00 | Buy | B&H, NYC |
 | [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^13] | $154.95 | Buy | B&H, NYC |
 | [iOptron SkyGuider Pro EQ Camera Mount](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^12] | $398.00 | Buy | B&H, NYC |
@@ -46,7 +46,6 @@
 | [Solar Eclipse Social Media Guide](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/solar-eclipse-social-media-guide ) |
 | [Space, Sun, and Solar Viewing: Facts versus Fiction](https://www.bhphotovideo.com/explora/outdoors/features/space-sun-and-solar-viewing-facts-versus-fiction ) |
 | [Telescopes for the Solar Eclipse](https://www.bhphotovideo.com/explora/outdoors/news/telescopes-for-the-solar-eclipse ) |
-| [The Solar Eclipse: 15 Frequently Asked Questions](https://www.bhphotovideo.com/explora/outdoors/features/the-solar-eclipse-15-frequently-asked-questions ) |
 | [The Solar Eclipse: 15 Frequently Asked Questions](https://www.bhphotovideo.com/explora/outdoors/features/the-solar-eclipse-15-frequently-asked-questions ) |
 | [The Sun, Our Star](https://www.bhphotovideo.com/explora/photography/features/the-sun-our-star ) |
 | [Touching The Sun: The Life Cycle Of Stars and the Ultimate Fate of Our Sun](https://www.bhphotovideo.com/explora/videos/photography/touching-the-sun-the-life-cycle-of-stars-and-the-ultimate-fate-of-our-sun ) |
