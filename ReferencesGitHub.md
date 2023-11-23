@@ -49,7 +49,7 @@
 
 | Regional Internet Registry | Region |
 |----|----|
-| [American Registry for Internet Numbers (ARIN)](https://wwwmarin.net) | Norh America |
+| [American Registry for Internet Numbers (ARIN)](https://www.arin.net) | Norh America |
 | [Réseaux IP Européens Network Coordination Centre (RIPE NCC)](https://www.ripe.net/) | Europe |
 | [Asia-Pacific Network Coordination Centre (APNIC)](https://www.apnic.net/) | Asia/Pacific Islands |
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
