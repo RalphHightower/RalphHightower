@@ -196,7 +196,7 @@
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
-| **[RAXDA Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **$189.00 16GB** || 
+| **[RADXA Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **$189.00 16GB** |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W)
 [RAKWireless – Blues\.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | $158.00 |
 | [RAKWireless RAK7391 Compute Module 4 (CM4) Carrier Board – RAKwireless Store](https://store.rakwireless.com/products/wisgate-connect-base-kit-rak7391 ) | (H/W) $381 |
