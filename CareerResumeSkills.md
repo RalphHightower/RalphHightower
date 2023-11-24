@@ -94,29 +94,30 @@ Being bilingual can be a great hard skill and set you apart from your competitio
 
 Are you bilingual or multilingual? FlexJobs can help you find job opportunities specific to the languages you speak. Browse Spanish jobs, Chinese jobs, German jobs, French jobs and more.
 
-## LOOK FOR TARGET KEYWORDS
+### LOOK FOR TARGET KEYWORDS
 If you’re still not sure if any of these skills are right for your situation, one quick way to check which skills the employer is seeking is to check the job description.
 
 Read through it a few times and you’ll likely spot three or four key skills mentioned several times throughout the document. If that’s the case, you should do your best to focus on those skills in your resume, too.
 
-## SORT SKILLS BY RELEVANCE
+### SORT SKILLS BY RELEVANCE
 If you are applying for a sales job, your prior experience as a car mechanic is not the most relevant. You will want to emphasize experience that can be applicable to a sales role. However, if you lack the experience, search through your existing positions for relevant skills.
 
 For example, if you were responsible for providing customer service as a mechanic, that is something that can be transferable to a sales role.
 
-## ADD A HIGHLIGHTS SECTION
+### ADD A HIGHLIGHTS SECTION
 Modern resumes are built to be value-oriented, which requires providing information that is more achievement-based as opposed to task-based. If you’ve had multiple roles with varying achievements, select the top four you are most proud of and incorporate them into a Career Highlights section.
 
 Try to avoid adding more than four as this section is meant to be the highlights of your achievements, and you don’t want to create sections with long lists of bullets, creating a very boring way to read content.
 
-## CATEGORIZE BY SKILL
+### CATEGORIZE BY SKILL
 If you are higher up in your career level, you likely have multiple responsibilities that cross several platforms or departments. If you are a manager or director of operations at a company, your responsibilities may include: managing staff, maintaining smooth daily operations, communicating with key stakeholders and/or vendors, developing and managing projects, and hiring and training staff.
 
 With either your task-based information or achievements, you can categorize the content into sections to illustrate the diversity in your responsibilities.
 
 For example:
 
-Process Improvements: information of responsibilities and/or achievements that relate to creating and implementing processes to improve operational efficiencies.
-Customer Service Skills: content that illustrates how you maintain or improve the customer experience at your company.
-Change Management: information that can relate to restructuring staff, developing training programs for employees, and coaching individuals or groups on company best practices.
+- Process Improvements: information of responsibilities and/or achievements that relate to creating and implementing processes to improve operational efficiencies.
+- Customer Service Skills: content that illustrates how you maintain or improve the customer experience at your company.
+- Change Management: information that can relate to restructuring staff, developing training programs for employees, and coaching individuals or groups on company best practices.
+
 Your soft skills and hard skills are the very things that will either qualify you or disqualify you for a job. Be sure to include some of these top skills on your resume for maximum results.
