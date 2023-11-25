@@ -14,10 +14,14 @@
 | [Celestron Advanced VX GoTo German Equatorial Mount](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^12] | $999.00 | Buy | B&H, NYC |
 | [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^13] | $154.95 | Buy | B&H, NYC |
 | [iOptron SkyGuider Pro EQ Camera Mount](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^12] | $398.00 | Buy | B&H, NYC |
+| [Canon 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^14] | $101.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
+| [Canon 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^14] | $471.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
+| [Canon 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^14] | $435.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
 
 [^11]: Choose just one.
 [^12]: Choose just one.
 [^13]: If chosen: Celestron Advanced VX GoTo German Equatorial Mount.
+[^14]: Rent one of the lenses. 
 
 ## Tips
 
