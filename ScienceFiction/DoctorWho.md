@@ -121,6 +121,12 @@
 | [The Best Episodes Of Doctor Who, According To Critics](https://www.cbr.com/doctor-who-best-episodes-critics/ ) |
 | [The Best Thing About Each Doctor In Doctor Who](https://www.cbr.com/the-best-thing-about-each-doctor-in-doctor-who/ ) |
 | [Why Doctor Who’s Companions Are Always Human](https://screenrant.com/doctor-who-companion-humans-why/ ) |
+| ["Degree Of Contempt": Fourth Doctor Explains Why He Is Not Interested In A Doctor Who Meet-Up](https://screenrant.com/doctor-who-doctors-meeting-no-interest-why-fourth-doctor-response/ ) |
+| [Doctor Who Art Shows Every Version Of The Time Lord Together, Including The 15th Doctor](https://screenrant.com/doctor-who-art-every-version-time-lord/ ) |
+| [Doctor Who Set Video Hints At Show Finally Addressing Consistent Plot Hole](https://screenrant.com/doctor-who-unit-protestors-bts-video/ ) |
+| [Doctor Who's First Davros Redesign Confirmed As Showrunner Reveals Reason For Change To Classic Villain](https://screenrant.com/doctor-who-davros-redesign-confirmed-showrunner-explain/ ) |
+| [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
+| [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
