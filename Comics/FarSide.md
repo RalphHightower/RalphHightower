@@ -10,3 +10,9 @@
 | [10 Funniest Far Side Comics That Prove It's Obsessed with Chickens](https://screenrant.com/funniest-far-side-comics-chicken-birds-dark/ ) |
 | [Why The Far Side Needs a TV Series Adaptation](https://movieweb.com/why-the-far-side-needs-a-tv-series-adaptation/ ) |
 | [10 Funniest Far Side Comics That Break the Fourth Wall](https://screenrant.com/funniest-far-side-comics-meta-humor-fourth-wall/#sketchy-customers ) |
+| ["It Was Cruel, Stupid and Ridiculous": 10 Most Controversial Far Side Comics Ever](https://screenrant.com/most-controversial-far-side-funniest-gary-larson-comics/ ) |
+| [10 Funniest Far Side Comics That Haven't Been Overshared... Yet](https://screenrant.com/funniest-far-side-comics-that-havent-been-overshared/ ) |
+| [10 Funniest Far Side Comics That Only Use 2 Words](https://screenrant.com/far-side-two-words-funniest-comics-gary-larson/ ) |
+| [10 Funniest Far Side Comics That Reference Classic Cartoons](https://screenrant.com/far-side-10-funniest-classic-cartoon-references/ ) |
+| [10 Funniest Far Side Comics That Reference Iconic Movies](https://screenrant.com/funniest-far-side-comics-pop-culture-movies-godzilla/ ) |
+
