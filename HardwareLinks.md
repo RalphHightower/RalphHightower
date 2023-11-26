@@ -71,12 +71,13 @@
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | **[deskpi — Raspberry Pi Products](https://deskpi.com/ )** | (H/W) |
 | [Digikey](https://www.digikey.com/) | (H/W) |
+| [ED-HMI3010-101C - AliExpress](https://www.aliexpress.com/item/3256806070954111.html ) | $258.00 |
 | [EDATEC CM4 Sensing industrial computer offers CAN bus, RS485, and RS232 interfaces](https://www.aliexpress.com/item/1005003638112568.html) | (H/W) |
-|[EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
-|[EDATEC CM4 Nano](https://edatec.cn/en/elpc/cm4-nano.html)| (H/W)|
-|[EDATEC CM4 Sensing](https://edatec.cn/en/elpc/cm4-sen.html)| (H/W)|
-|[EDATEC CM4 Industrial](https://edatec.cn/en/elpc/cm4-ind.html)| (H/W)|
-|[EDATEC CM4 IO Computer](https://edatec.cn/en/elpc/cm4-io-comp.html)| (H/W)|
+| [EDATEC CM4 Media](https://edatec.cn/en/elpc/cm4-media.html)| (H/W)|
+| [EDATEC CM4 Nano](https://edatec.cn/en/elpc/cm4-nano.html)| (H/W)|
+| [EDATEC CM4 Sensing](https://edatec.cn/en/elpc/cm4-sen.html)| (H/W)|
+| [EDATEC CM4 Industrial](https://edatec.cn/en/elpc/cm4-ind.html)| (H/W)|
+| [EDATEC CM4 IO Computer](https://edatec.cn/en/elpc/cm4-io-comp.html)| (H/W)|
 | [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
@@ -460,17 +461,17 @@
 |[AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) |
 |[Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
 | [AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
-|[Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
-|[OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
+| [Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
+| [OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
 | [Link.ONE LTE-M, NB-IoT, and LoRaWAN all-in-one LPWAN devkit is programmable with the Arduino IDE - CNX Software](https://www.cnx-software.com/2023/05/22/link-one-lte-m-nb-iot-and-lorawan-all-in-one-lpwan-devkit-arduino-ide/ )|
 | [Cool Pi 4 is a Raspberry Pi-shaped computer with RK3588S - Liliputing](https://liliputing.com/cool-pi-4-is-a-raspberry-pi-shaped-computer-with-rk3588s/ ) |
-|[Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
-|[Milk-V Mars single board computer features RISC-V StarFive processor](https://linuxgizmos.com/milk-v-mars-single-board-computer-features-risc-v-starfive-processor/ )|
-|[Milk-V Surprises with a Second RISC-V SBC — Physically Compatible with the Raspberry Pi 3 Model B - Hackster.io](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8 )|
-|[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 1 - Variscite](https://www.variscite.com/blog/438-variscite-i-mx6-based-som-solutions-part-1/ )|
-|[Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 2](https://www.variscite.com/blog/439-variscite-i-mx6-based-som-solutions-part-2/ )|
-|[Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ )|
-|[mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU - CNX Software](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/ )|
+| [Orange Pi 5 Plus single-board PC supports PCIe NVMe storage, four displays, and two 2.5 GbE Ethernet connections - Liliputing](https://liliputing.com/orange-pi-5-plus-single-board-pc-supports-pcie-nvme-storage-four-displays-and-two-2-5-gbe-ethernet-connections/ )|
+| [Milk-V Mars single board computer features RISC-V StarFive processor](https://linuxgizmos.com/milk-v-mars-single-board-computer-features-risc-v-starfive-processor/ )|
+| [Milk-V Surprises with a Second RISC-V SBC — Physically Compatible with the Raspberry Pi 3 Model B - Hackster.io](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8 )|
+| [Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 1 - Variscite](https://www.variscite.com/blog/438-variscite-i-mx6-based-som-solutions-part-1/ )|
+| [Comparative Overview: Variscite i.MX6 based SoM Solutions – Part 2](https://www.variscite.com/blog/439-variscite-i-mx6-based-som-solutions-part-2/ )|
+| [Khadas VIM4 Amlogic A311D2 SBC gets 3.2 TOPS NPU - CNX Software](https://www.cnx-software.com/2023/06/02/khadas-vim4-amlogic-a311d2-sbc-gets-3-2-tops-npu/ )|
+| [mini PCIe module features Rockchip RK1808K SoC with 3.0 TOPS NPU - CNX Software](https://www.cnx-software.com/2022/07/27/mini-pcie-module-rockchip-rk1808k-soc-3-0-tops-npu/ )|
 | [ECS RK3568-IS 3.5-inch SBC with Rockchip RK3568 SoC showcased at COMPUTEX 2023 - CNX Software](https://www.cnx-software.com/2023/05/31/ecs-rk3568-is-3-5-inch-sbc-with-rockchip-rk3568-soc-showcased-at-computex-2023/ ) |
 | [Silicon Labs FG28 Sub-GHz wireless and 2.4 GHz BLE SoC supports Amazon Sidewalk, Wi-SUN, etc... - CNX Software](https://www.cnx-software.com/2023/06/08/silicon-labs-fg28-sub-ghz-wireless-and-2-4-ghz-ble-soc-supports-amazon-sidewalk-wi-sun-etc/ ) |
 | [A first look at i-Pi SMARC 1200 (Genio 1200) development kit - CNX Software](https://www.cnx-software.com/2023/06/09/a-first-look-at-i-pi-smarc-1200-genio-1200-development-kit/ ) |
@@ -626,6 +627,17 @@
 | [The Rock 5 B is not a Raspberry Pi killer—yet / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet ) |
 | [Texas Instruments unveils AM62A, AM68A and AM69A Arm Cortex Vision processors and devkits - CNX Software](https://www.cnx-software.com/2023/03/20/texas-instruments-am62a-am68a-am69a-arm-cortex-vision-processors-devkits/ ) |
 | [Toradex Titan Evaluation Kit features NXP i.MX 95 AI processor for IoT, industrial, and automotive applications - CNX Software](https://www.cnx-software.com/2023/11/08/toradex-titan-evaluation-kit-nxp-i-mx-95-ai-processor-iot-industrial-automotive/ ) |
+| **[KWS-302WF whole house WiFi power meter supports up to 63A, power control, features a color display - CNX Software](https://www.cnx-software.com/2023/11/23/kws-302wf-whole-house-wifi-power-meter-63a-power-control-color-display/ )** |
+| [Banana Pi BPI-M7 - A thin Rockchip RK3588 SBC with dual 2.5GbE, M.2 NVMe storage, HDMI 2.1, and more - CNX Software](https://www.cnx-software.com/2023/11/22/banana-pi-bpi-m7-thin-rockchip-rk3588-sbc-dual-2-5gbe-m-2-nvme-storage-hdmi-2-1/ ) |
+| [EDATEC Launches Its First Human-Machine Interface Display to Be Powered by a Raspberry Pi 5 - Hackster.io](https://www.hackster.io/news/edatec-launches-its-first-human-machine-interface-display-to-be-powered-by-a-raspberry-pi-5-1d6e0dd3ee4d ) |
+| [7-inch and 10.1-inch industrial panel PCs feature Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/11/24/7-inch-10-1-inch-industrial-panel-pcs-raspberry-pi-5-sbc/ ) |
+| [Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ ) |
+| **[Jeff Geerling Gets a Raspberry Pi 5 Talking to a Google Coral TPU PCIe Accelerator for Faster ML, AI - Hackster.io](https://www.hackster.io/news/jeff-geerling-gets-a-raspberry-pi-5-talking-to-a-google-coral-tpu-pcie-accelerator-for-faster-ml-ai-f7a3a6d83d01 )** |
+| [Meet Jeff Geerling - Raspberry Pi](https://www.raspberrypi.com/news/meet-jeff-geerling/ ) |
+| [SaraKIT - An Raspberry Pi CM4 board with ChatGPT-based voice control, motor control, and plenty of sensors (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/ ) |
+| [Pi-lomar - 3D Printed Working Miniature Observatory Using Raspberry Pi](https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/ ) |
+| [These are My Favorite Maker Tools to Shop For This Black Friday / Tom's Hardware](https://www.tomshardware.com/maker-stem/these-are-my-favorite-maker-tools-to-shop-for-this-black-friday ) |
+| [Using Nuclear Decay As Random Number Generator Source For An MCU / Hackaday](https://hackaday.com/2023/11/13/using-nuclear-decay-as-random-number-generator-source-for-an-mcu/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
