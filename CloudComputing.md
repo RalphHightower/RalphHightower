@@ -14,6 +14,8 @@
 | [Azure Academy](https://youtube.com/@AzureAcademy )
 [Tools and templates - Cloud Adoption Framework / Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#ready ) |
 | [Azure documentation / Microsoft Learn](https://learn.microsoft.com/en-us/azure/ ) |
+| [New NVIDIA H100, H200 GPU Instances Coming to Microsoft Azure / NVIDIA Blog](https://blogs.nvidia.com/blog/microsoft-azure-hopper-gpu-instances/ ) |
+| [NVIDIA at SC23: H200 Accelerator with HBM3e and Jupiter Supercomputer for 2024](https://www.anandtech.com/show/21136/nvidia-at-sc23-h200-accelerator-with-hbm3e-and-jupiter-supercomputer-for-2024 ) |
 
 ### Interfaces
 
