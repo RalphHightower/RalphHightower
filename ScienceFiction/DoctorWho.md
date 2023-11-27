@@ -127,6 +127,7 @@
 | [Doctor Who's First Davros Redesign Confirmed As Showrunner Reveals Reason For Change To Classic Villain](https://screenrant.com/doctor-who-davros-redesign-confirmed-showrunner-explain/ ) |
 | [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
 | [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
+| [The Most Ludicrous Sci-Fi Show of the Year Makes a Brilliant Return to Form](https://www.inverse.com/entertainment/doctor-who-review-the-star-beast-60th-anniversary-special ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
