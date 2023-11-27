@@ -103,6 +103,7 @@ Docker
 |[Kubespray: Automated Kubernetes Home Lab Setup - Virtualization How To](https://www.virtualizationhowto.com/2023/05/kubespray-automated-kubernetes-home-lab-setup/ )|
 | [Kubectl Port Forwarding: Easy Kubernetes Ports Access - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/kubectl-port-forwarding-easy-kubernetes-ports-access/ ) |  - HomeLab
 | [kelseyhightower (Kelsey Hightower)](https://github.com/kelseyhightower ) |
+| [Does Kubernetes Really Perform Better on Bare Metal vs. VMs? - The New Stack](https://thenewstack.io/does-kubernetes-really-perform-better-on-bare-metal-vs-vms/ ) |
 
 ## Facebook[^2]
 
