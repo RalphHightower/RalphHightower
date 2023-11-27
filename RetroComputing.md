@@ -1,5 +1,11 @@
 # Retro Computing 
 
+## CPU
+
+| CPU |
+|---|
+| [Swiss Physicist’s “Big Hack” for Intel 4004’s 52nd Anniversary](https://4004.com/hackaday23/ ) |
+
 ## Commodore 64
 
 | Commodore 64 |
