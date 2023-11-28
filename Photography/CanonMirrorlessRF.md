@@ -49,6 +49,8 @@
 | [Why I Hope the Canon R1 is So Much Better Than Anything Else](https://www.thephoblographer.com/2023/08/20/why-i-hope-the-canon-r1-is-so-much-better-than-anything-else/ ) |
 | [The Canon EL-5 Speedlight Is Doing a Lot Just Right!](https://www.thephoblographer.com/2022/11/02/the-canon-el-5-speedlight-is-doing-a-lot-just-right/ ) |
 | [How to Spot Fake Canon Gear and What to Do About It](https://www.thephoblographer.com/2023/05/26/fake-cano0pp-gear/ ) |
+| [Big Results. Small Price Tag. Canon RF 15-30mm F4.5-6.3 Review](https://www.thephoblographer.com/2023/01/20/big-results-small-price-tag-canon-rf-15-30mm-f4-5-6-3-review/ ) |
+| [Hypnotic Photos, Gigantic Lens: Canon RF 800mm F5.6 L Review](https://www.thephoblographer.com/2022/08/11/canon-rf-800mm-f5-6-review/ ) |
 
 [^21]: [The Phoblographer](https://www.thephoblographer.com/)
 
@@ -61,4 +63,5 @@
 | [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
 | [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
 | [What is Flexible Priority mode? How to use it on your Canon R-series camera / Digital Camera World](https://www.digitalcameraworld.com/tutorials/what-is-flexible-priority-mode-how-to-use-it-on-your-canon-r-series-camera ) |
-
+| [Canon EOS R6 Mk II Review](https://www.thephoblographer.com/2023/02/03/canon-eos-r6-mk-ii-review/ ) |
+| [Canon EOS R7 vs Canon EOS R5 vs Canon EOS R](https://www.thephoblographer.com/2022/07/21/canon-eos-r7-vs-canon-eos-r5-vs-canon-eos-r-how-do-they-compare/ ) |
