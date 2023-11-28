@@ -105,6 +105,7 @@
 | [Heavy EVs Will Be Dangerous In Car Accidents: Study](https://jalopnik.com/heavy-ass-evs-are-going-to-kill-us-all-1848764045 ) |
 | [Shelby Wins Legal Battle Over the 'Eleanor' Gone in 60 Seconds Car - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/14/shelby-wins-legal-battle-over-the-eleanor-gone-in-60-seconds-car/ ) |
 | **[Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ )** |
+| [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
