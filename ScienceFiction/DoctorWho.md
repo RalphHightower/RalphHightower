@@ -128,6 +128,22 @@
 | [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
 | [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
 | [The Most Ludicrous Sci-Fi Show of the Year Makes a Brilliant Return to Form](https://www.inverse.com/entertainment/doctor-who-review-the-star-beast-60th-anniversary-special ) |
+| ["Degree Of Contempt": Fourth Doctor Explains Why He Is Not Interested In A Doctor Who Meet-Up](https://screenrant.com/doctor-who-doctors-meeting-no-interest-why-fourth-doctor-response/ ) |
+| ['Doctor Who's Best Season Is Still David Tennant's Last](https://collider.com/doctor-who-david-tennant-season-4-best/ ) |
+| [Doctor Who 60th Anniversary Episode 1 Ending & Donna's Memory Explained](https://screenrant.com/doctor-who-donna-memory-return-rose-time-lord-explained/ ) |
+| [Doctor Who 60th anniversary: Filming locations in Wales - BBC News](https://www.bbc.com/news/uk-wales-67457559 )| [Old Vinyl Records That Are Worth Thousands Today / Investing Magazine](https://za.investing.com/magazine/old-vinyl-records-worth-thousands-today-2/ ) |
+| [Doctor Who Art Shows Every Version Of The Time Lord Together, Including The 15th Doctor](https://screenrant.com/doctor-who-art-every-version-time-lord/ ) |
+| [Doctor Who Gives The Sonic Screwdriver 2 Amazing New Powers Before Season 14](https://screenrant.com/doctor-who-sonic-screwdriver-new-powers/ ) |
+| [Doctor Who Season 14 Cast Guide: Every New & Returning Character](https://screenrant.com/doctor-who-season-14-cast-character-guide/ ) |
+| [Doctor Who Set Video Hints At Show Finally Addressing Consistent Plot Hole](https://screenrant.com/doctor-who-unit-protestors-bts-video/ ) |
+| [Doctor Who's First Davros Redesign Confirmed As Showrunner Reveals Reason For Change To Classic Villain](https://screenrant.com/doctor-who-davros-redesign-confirmed-showrunner-explain/ ) |
+| [Doctor Who's First Davros Redesign Confirmed As Showrunner Reveals Reason For Change To Classic Villain](https://screenrant.com/doctor-who-davros-redesign-confirmed-showrunner-explain/ ) [Doctor Who's New TARDIS Is The First Design To Actually Deliver On "Bigger On The Inside"](https://screenrant.com/doctor-who-new-tardis-design-good/ ) |
+| [DOCTOR WHO: Ncuti Gatwa Makes His Debut As The Fifteenth Doctor Much Sooner Than Expected - VIDEO](https://sffgazette.com/sci_fi/television/doctor-who-ncuti-gatwa-makes-his-debut-as-the-fifteenth-doctor-much-sooner-than-expected---video-a7411#gs.1fti5d ) |
+| [Doctor Who's New TARDIS Is The First Design To Actually Deliver On "Bigger On The Inside"](https://screenrant.com/doctor-who-new-tardis-design-good/ ) |
+| [Doctor Who: Every Doctor & Who Played Them (In Chronological Order)](https://screenrant.com/every-actor-who-played-dr-who/ ) |
+| [The Most Ludicrous Sci-Fi Show of the Year Makes a Brilliant Return to Form](https://www.inverse.com/entertainment/doctor-who-review-the-star-beast-60th-anniversary-special ) |
+| [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
+| [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
