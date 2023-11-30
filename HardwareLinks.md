@@ -55,6 +55,7 @@
 | [Banana Pi Core Board and Kit](https://www.banana-pi.org/web/index.php?topclassid=16&classid=279&lanstr=en&wap=1) | (H/W) |
 | [Banana Pi BPI-CM4 Computer module with Amlogic A311D same as Raspberry Pi CM4](https://forum.banana-pi.org/t/being-designed-banana-pi-bpi-cm4-computer-module-with-amlogic-a311d/13390) | (H/W) |
 | [Banana Pi Products](https://www.banana-pi.org/web/index.php?topclassid=0&classid=0&lanstr=en&wap=1) | (H/W) |
+| [Banana Pi BPI-R4 MediaTek MT7988A (Filogic 880) quad-core Arm Corex-A73 4GB DDR4 8GB eMMC flash Smart Router Board - AliExpress](https://www.aliexpress.com/item/3256806070397585.html ) | (H/W) $128.94 |
 | [Beagle Board Computers](https://beagleboard.org/) | (H/W) |
 | [102110646 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110646/15929655 ) | $185.22000  |
 | [102110646 BeagleBoard by Seeed Studio / Mouser](https://www.mouser.com/ProductDetail/BeagleBoard-by-Seeed-Studio/102110646?qs=Znm5pLBrcAKSPlLdpqfmWA%3D%3D ) | $189.00 |
@@ -64,9 +65,12 @@
 | [BeagleBone® AI-64](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
-|[Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
+| [Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
 | [Clockwork PI, Rockport ARM Consoles](https://www.clockworkpi.com/) | (H/W) |
 | [Congatec — Embedded Computer-on-Modules - COM-HPC, COM Video Codec,run Android,ubuntu,debian Os - Demo Board - AliExpress](https://www.aliexpress.com/item/1005004906489390.html)** | (H/W) $207.74 16GB DDR/64GB eMMC |
+| **[Coral 4GB System-on-Module (SoM) - OKdo](https://www.okdo.com/us/p/coral-4gb-system-on-module-som/ )** | **(H/W) $144.95 4GB** |
+| [Google G650-04527-01 Coral M.2, PCIe / Mouser](https://www.mouser.com/ProductDetail/Coral/G650-04527-01?qs=XeJtXLiO41SNhFZkjmCwDg%3D%3D ) | **(H/W) $28.35** |
+| **[Google G650-04528-01 Coral M.2, mPCIe / Mouser](https://www.mouser.com/ProductDetail/Coral/G650-04528-01?qs=XeJtXLiO41RDsI9w8m%252Bkgg%3D%3D )** | (H/W) $28.35 |
 | [CORE-V MCU DevKit / GroupGets](https://groupgets.com/campaigns/1040/show ) | (H/W) |
 | [DeskPi Super6C Raspberry Pi CM4 Cluster Mini-ITX board 6 RPI CM4 supported](https://deskpi.com/products/deskpi-super6c-raspberry-pi-cm4-cluster-mini-itx-board-6-rpi-cm4-supported) | (H/W) |
 | **[deskpi — Raspberry Pi Products](https://deskpi.com/ )** | (H/W) |
@@ -169,6 +173,9 @@
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | **[Obsolescence PiPDP-11 Console](https://obsolescence.wixsite.com/obsolescence/pidp-11-get-one/)** | (H/W) $270 |
 | [ODROID-N2+ with 4GByte RAM](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/) | (H/W) |
+| **[OKdoUSB3 eMMC Reader/Writer for ROCK](https://www.okdo.com/us/p/usb3-emmc-reader-writer-for-rock/ )[^55]** | (H/W) $7.99 |
+| **[OKdo ROCK 5 Model B 16GB Single Board Computer Rockchip RK3588 Arm Cortex-A76 + Cortex-A55 - OKdo](https://www.okdo.com/us/p/okdo-rock-5-model-b-16gb-single-board-computer-rockchip-rk3588-arm-cortex-a76-cortex-a55/ )[^55]** | **(H/W) $189.00 16GB |
+| **[OKdo eMMC 5.1 module for ROCK 128GB - OKdo](https://www.okdo.com/us/p/emmc-5-1-module-for-rock-128gb/ )[^55]** | **(H/W) 128GB eMMC $71.95** |
 | [OKdo x Radxa ROCK 4 Model SE 4GB Single Board Computer Rockchip RK3399-T ARM Cortex-A72](https://www.okdo.com/us/p/okdo-x-radxa-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72/) |  (H/W) |
 | [OKdo x Radxa ROCK 5 Model B 8GB Single Board Computer Rockchip RK3588 Arm Cortex-A76](https://www.okdo.com/us/p/okdo-x-radxa-rock-5-model-b-8gb-single-board-computer-rockchip-rk3588-arm-cortex-a76/) | (H/W) $159 |
 | [ONDROID SBC Products](https://www.hardkernel.com/product/) | (H/W) |
@@ -638,6 +645,14 @@
 | [Pi-lomar - 3D Printed Working Miniature Observatory Using Raspberry Pi](https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/ ) |
 | [These are My Favorite Maker Tools to Shop For This Black Friday / Tom's Hardware](https://www.tomshardware.com/maker-stem/these-are-my-favorite-maker-tools-to-shop-for-this-black-friday ) |
 | [Using Nuclear Decay As Random Number Generator Source For An MCU / Hackaday](https://hackaday.com/2023/11/13/using-nuclear-decay-as-random-number-generator-source-for-an-mcu/ ) |
+| [7-inch and 10.1-inch industrial panel PCs feature Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/11/24/7-inch-10-1-inch-industrial-panel-pcs-raspberry-pi-5-sbc/ ) |
+| [Banana Pi BPI-R4: New 5G and WiFi 7 compatible router board launches for just over US$100 - NotebookCheck.net News](https://www.notebookcheck.net/Banana-Pi-BPI-R4-New-5G-and-WiFi-7-compatible-router-board-launches-for-just-over-US-100.772689.0.html ) |
+| [A PCIe Coral TPU FINALLY works on Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5 ) |
+| [Banana Pi BPI-M7 - A thin Rockchip RK3588 SBC with dual 2.5GbE, M.2 NVMe storage, HDMI 2.1, and more - CNX Software](https://www.cnx-software.com/2023/11/22/banana-pi-bpi-m7-thin-4 rhuman-machine-interface-display-to-be-powered-by-a-raspberry-pi-5-1d6e0dd3ee4d ) | 
+| [Pi-lomar - 3D Printed Working Miniature Observatory Using Raspberry Pi](https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/ ) |
+| **[KWS-302WF whole house WiFi power meter supports up to 63A, power control, features a color display - CNX Software](https://www.cnx-software.com/2023/11/23/kws-302wf-whole-house-wifi-power-meter-63a-power-control-color-display/ )** |
+| [SaraKIT - An Raspberry Pi CM4 board with ChatGPT-based voice control, motor control, and plenty of sensors (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/ ) |
+| [Turbocharge Your Transient Sensors With Math / Hackaday](https://hackaday.com/2023/11/25/turbocharge-your-transient-sensors-with-math/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
