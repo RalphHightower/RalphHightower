@@ -49,7 +49,7 @@
 
 | Regional Internet Registry | Region |
 |----|----|
-| [American Registry for Internet Numbers (ARIN)](https://wwwmarin.net) | Norh America |
+| [American Registry for Internet Numbers (ARIN)](https://www.arin.net) | Norh America |
 | [Réseaux IP Européens Network Coordination Centre (RIPE NCC)](https://www.ripe.net/) | Europe |
 | [Asia-Pacific Network Coordination Centre (APNIC)](https://www.apnic.net/) | Asia/Pacific Islands |
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
@@ -83,26 +83,22 @@
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
-| [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
-| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
-| [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
-| [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
-| [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
-| [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
-| [Garmin International](https://github.com/garmin ) ||
-| [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
-| [RISC-V](https://github.com/riscv ) | The Free and Open RISC Instruction Set Architecture |
 | [Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
-|[Connected Vehicle Systems Alliance](https://github.com/COVESA )|
+| [Connected Vehicle Systems Alliance](https://github.com/COVESA )|
 | [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
-| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
+| [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
+| [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
+| [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
-| [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
+| [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) ||
 | [Garmin International](https://github.com/garmin) | Garmin International  |
+| [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
+| [Google DeepMind](https://github.com/google-deepmind ) ||
+| [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
 | [Google Research](https://github.com/google-research ) | |
@@ -127,10 +123,12 @@
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
+| [nginx](https://github.com/nginx ) |  |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
+| [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |

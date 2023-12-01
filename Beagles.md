@@ -123,6 +123,7 @@ Becky gave birth to two sons, Trucker and Traveler. The origins of their names i
 
 | Beagle Links / Articles |
 |---|
+| [National Beagle Club Specialty](https://nbcspecialty.com/ ) |
 | [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/) |
 | [Beagle Hunting Performance Test](https://beaglehpt.com/? )  |
 

@@ -1,9 +1,10 @@
 # Science Fiction — Dune
 
-## Dune — Part Two Premiere Date Set for November 3, 2023[^11][^12]
+## Dune — Part Two Premiere Date Set for March 15, 2024[^13]
 
-[^11]: Dune: Part Two is slated for a November 3, 2023, worldwide release from Warner Bros. Pictures.
+[^11]: [WarnerBros.com / Dune: Part Two / Movies](https://www.warnerbros.com/movies/dune-part-two )
 [^12]: [Dune 2's Release Plan Is Completely Changing The Movie Industry (For The Better)](https://screenrant.com/dune-2-imax-delay-the-marvels-movie/ )
+[^13]: [Dune 2's Release Change Boosts Its Chances Of Beating The Original's Box Office](https://screenrant.com/dune-2-movie-release-date-change-box-office-original/ )
 
 ## News / Articles 
 
