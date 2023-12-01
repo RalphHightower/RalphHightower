@@ -19,7 +19,7 @@
 | [Geerling Engineering](https://youtube.com/@GeerlingEngineering ) | Computers |
 | [Jeff Geerling](https://youtube.com/@JeffGeerling ) | Computers |
 | [Dave Plummer's Garage](https://youtube.com/@DavesGarage? ) | Computers |
-| [Dave Plummer's Atticl](https://youtube.com/@davepl? ) | Computers |
+| [Dave Plummer's Attic](https://youtube.com/@davepl? ) | Computers |
 | [Veronica Explains](https://youtube.com/@VeronicaExplains? ) | Computers |
 | [O'Reilly](https://youtube.com/@oreilly ) | Computers |
 | [RISC-V International](https://youtube.com/@RISCVInternational ) | Computers |
