@@ -82,6 +82,7 @@
 | [15 Strongest Doctor Who Characters, Ranked](https://www.cbr.com/doctor-who-strongest-characters-ranked/ ) |
 | [15 Tennant-Era Doctor Who Characters Who Almost Became Tenth Doctor Companions](https://screenrant.com/doctor-who-companions-tennant-almost-happen/ ) |
 | [16 Doctor Who Quotes That Perfectly Represent Each Modern Companion](https://screenrant.com/doctor-who-modern-companions-quotes-best-represent/ ) |
+| [27 Years Later, The Quirkiest Starship In Sci-Fi History Just Got a Major Upgrade](https://www.inverse.com/entertainment/doctor-who-new-tardis-the-star-beast-1996 ) |
 | ['Doctor Who's Ncuti Gatwa Says He'll Share the Screen With the First Doctor](https://collider.com/doctor-who-ncuti-gatwa-first-doctor-comments/ ) |
 | [David Tennant’s New ‘Doctor Who’ Regeneration Is “Slightly More Human” Than the Last](https://collider.com/doctor-who-fourteen-ten-russell-t-davies-comments/ ) |
 | [Doctor Who & Star Trek: TNG Teamed Up to Stop the Borg/Cybermen Alliance](https://www.cbr.com/star-trek-the-next-generation-doctor-who-crossover/ ) |
