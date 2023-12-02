@@ -144,6 +144,23 @@
 | [The Most Ludicrous Sci-Fi Show of the Year Makes a Brilliant Return to Form](https://www.inverse.com/entertainment/doctor-who-review-the-star-beast-60th-anniversary-special ) |
 | [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
 | [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
+| [Director Of Next Doctor Who Episode Releases PSA Every Fan Should See After Intense Speculation](https://screenrant.com/doctor-who-wild-blue-yonder-secret-director-psa/ ) |
+| [Doctor Who 60th Anniversary Mystery Sets Up RTD Solving Chibnall's Timeless Child](https://screenrant.com/doctor-who-two-hearts-mystery-timeless-child-rtd-hint/ ) |
+| [Doctor Who Confirms Major Change To 60-Year Tradition After Disney Deal (& It's Great)](https://screenrant.com/doctor-who-disney-deal-budget-effects-tradition-change/ ) |
+| [Doctor Who Doesn't Need A-List Actors to Pull an Audience](https://www.cbr.com/doctor-who-doesnt-need-big-stars/ ) |
+| [Doctor Who Secretly Set Up Donna Noble's Daughter As A Trans Character 15 Years Ago](https://screenrant.com/doctor-who-rose-trans-binary-donna-hint/ ) |
+| [Doctor Who Theory: The First Anniversary Special Was The Toymaker's Trap (& The Doctor Fell For It)](https://screenrant.com/doctor-who-star-beast-toymaker-trap-theory/ ) |
+| [Doctor Who fans applaud ‘progressive’ trans storyline as show returns / The Independent](https://www.independent.co.uk/arts-entertainment/tv/news/doctor-who-rose-yasmin-finney-b2453921.html ) |
+| [Doctor Who's New TARDIS: 6 Best Details From The Groundbreaking New Design](https://screenrant.com/doctor-who-new-tardis-explained-details/ ) |
+| [Doctor Who's New TARDIS: 6 Best Details From The Groundbreaking New Design](https://screenrant.com/doctor-who-new-tardis-explained-details/#the-interior-of-the-tardis-is-bigger ) |
+| [Doctor Who's New UNIT Character Future Confirmed By David Tennant & Producer](https://screenrant.com/doctor-who-unit-scientific-advisor-56-future-confirm/ ) |
+| [Doctor Who: Every Upgrade to the TARDIS and Sonic Screwdriver](https://www.cbr.com/doctor-who-60th-anniversary-tardis-sonic-screwdriver-upgrades/ ) |
+| [Donna Already Explained The Only Way David Tennant's New Doctor Is Different To The Tenth](https://screenrant.com/doctor-who-fourteenth-different-age-david-tennant/ ) |
+| [Former Doctor Peter Capaldi Reveals Why He Won’t Return to Doctor Who](https://www.cbr.com/former-doctor-peter-capaldi-doctor-who/ ) |
+| [Ncuti Gatwa In ‘Doctor Who: The Church On Ruby Road’ Images – Deadline](https://deadline.com/2023/11/ncuti-gatwa-doctor-who-christmas-special-new-images-1235645070/ ) |
+| [Neil Patrick Harris' Toymaker Gets Glowing Review From Doctor Who's David Tennant: "Impossible To Imagine \[Anyone\] Else"](https://screenrant.com/doctor-who-neil-patrick-harris-toymaker-david-tennant-review/ ) |
+| [RTD's Doctor Who Comeback Gives The Perfect Hat-Tip To Jodie Whittaker's Era](https://screenrant.com/doctor-who-rtd-whittaker-female-respect-reference/ ) |
+| [Why Did Donna Noble Lose Her Money on Doctor Who?](https://www.cbr.com/doctor-who-donna-noble-lost-fortune/ ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
