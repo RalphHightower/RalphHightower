@@ -1,4 +1,4 @@
-# Space News
+# News — Space News
 
 | Space News |
 |---|
