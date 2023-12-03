@@ -1,6 +1,28 @@
 # Canon Mirrorless Cameras 
 
-## Canon RF Lens
+## Canon RF Cameras 
+
+| Canon RF Cameras |
+|---|
+| [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
+| [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
+| [What is Flexible Priority mode? How to use it on your Canon R-series camera / Digital Camera World](https://www.digitalcameraworld.com/tutorials/what-is-flexible-priority-mode-how-to-use-it-on-your-canon-r-series-camera ) |
+| [Canon EOS R6 Mk II Review](https://www.thephoblographer.com/2023/02/03/canon-eos-r6-mk-ii-review/ ) |
+| [Canon EOS R7 vs Canon EOS R5 vs Canon EOS R](https://www.thephoblographer.com/2022/07/21/canon-eos-r7-vs-canon-eos-r5-vs-canon-eos-r-how-do-they-compare/ ) |
+| [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
+| [Canon EOS R6 Mk II Review](https://www.thephoblographer.com/2023/02/03/canon-eos-r6-mk-ii-review/ ) |
+| [Canon EOS R7 vs Canon EOS R5 vs Canon EOS R](https://www.thephoblographer.com/2022/07/21/canon-eos-r7-vs-canon-eos-r5-vs-canon-eos-r-how-do-they-compare/ ) |
+| [Canon Patent Application: Full Frame Quad Pixel AF Sensor](https://www.canonrumors.com/canon-patent-application-full-frame-quad-pixel-sensor/ ) |
+
+## Canon RF Lenses
+
+| Lens Articles |
+|---|
+| [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
+| [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
+| [Canon Announces the RF 24-105mm f/2.8 L IS USM Z Lens / Fstoppers](https://fstoppers.com/gear/canon-announces-rf-24-105mm-f28-l-usm-z-lens-647035 ) |
+| [Big Results. Small Price Tag. Canon RF 15-30mm F4.5-6.3 Review](https://www.thephoblographer.com/2023/01/20/big-results-small-price-tag-canon-rf-15-30mm-f4-5-6-3-review/ ) |
+| [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
 
 | Canon RF Lens — [The Best Lenses for Canon's RF Mount / PetaPixel](https://petapixel.com/best-canon-rf-lenses/ )[^11] |
 |----|
@@ -54,14 +76,3 @@
 
 [^21]: [The Phoblographer](https://www.thephoblographer.com/)
 
-| Canon RF Camera / Lenses Articles |
-|---|
-| [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
-| [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
-| [Canon Announces the RF 24-105mm f/2.8 L IS USM Z Lens / Fstoppers](https://fstoppers.com/gear/canon-announces-rf-24-105mm-f28-l-usm-z-lens-647035 ) |
-| [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
-| [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
-| [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
-| [What is Flexible Priority mode? How to use it on your Canon R-series camera / Digital Camera World](https://www.digitalcameraworld.com/tutorials/what-is-flexible-priority-mode-how-to-use-it-on-your-canon-r-series-camera ) |
-| [Canon EOS R6 Mk II Review](https://www.thephoblographer.com/2023/02/03/canon-eos-r6-mk-ii-review/ ) |
-| [Canon EOS R7 vs Canon EOS R5 vs Canon EOS R](https://www.thephoblographer.com/2022/07/21/canon-eos-r7-vs-canon-eos-r5-vs-canon-eos-r-how-do-they-compare/ ) |
