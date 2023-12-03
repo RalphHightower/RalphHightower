@@ -36,10 +36,11 @@
 
 ## Articles 
 
-| Article |
+| Articles/News|
 |---|
 | [2023 Corvette Gets Recommended Rating By Consumer Reports](https://gmauthority.com/blog/2022/11/2023-corvette-gets-recommended-rating-by-consumer-reports/) |
 | [The mid-engined Corvette was 60 years in the making—now we’ve driven it / Ars Technica](https://arstechnica.com/cars/2020/02/the-mid-engine-corvette-was-60-years-in-the-making-now-weve-driven-it/ ) |
+| [Is The 2025 Corvette Getting 5G Connectivity?](https://gmauthority.com/blog/2023/11/is-the-2025-corvette-getting-5g-connectivity/ ) |
 
 ## Owners Manual Manuals
 
