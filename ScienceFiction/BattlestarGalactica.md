@@ -48,3 +48,4 @@
 | [How and Where to Watch Battlestar Galactica](https://gamerant.com/how-where-battlestar-galactica-streaming/ ) |
 | [The Battlestar Galactica Timeline, Explained](https://gamerant.com/battlestar-galactica-timeline-explained/ ) |
 | [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
+| [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
