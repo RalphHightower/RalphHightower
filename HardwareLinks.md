@@ -648,7 +648,7 @@
 | [7-inch and 10.1-inch industrial panel PCs feature Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/11/24/7-inch-10-1-inch-industrial-panel-pcs-raspberry-pi-5-sbc/ ) |
 | [Banana Pi BPI-R4: New 5G and WiFi 7 compatible router board launches for just over US$100 - NotebookCheck.net News](https://www.notebookcheck.net/Banana-Pi-BPI-R4-New-5G-and-WiFi-7-compatible-router-board-launches-for-just-over-US-100.772689.0.html ) |
 | [A PCIe Coral TPU FINALLY works on Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5 ) |
-| [Banana Pi BPI-M7 - A thin Rockchip RK3588 SBC with dual 2.5GbE, M.2 NVMe storage, HDMI 2.1, and more - CNX Software](https://www.cnx-software.com/2023/11/22/banana-pi-bpi-m7-thin-4 rhuman-machine-interface-display-to-be-powered-by-a-raspberry-pi-5-1d6e0dd3ee4d ) | 
+| [Banana Pi BPI-M7 - A thin Rockchip RK3588 SBC with dual 2.5GbE, M.2 NVMe storage, HDMI 2.1, and more - CNX Software](https://www.cnx-software.com/2023/11/22/banana-pi-bpi-m7-thin-4rhuman-machine-interface-display-to-be-powered-by-a-raspberry-pi-5-1d6e0dd3ee4d ) | 
 | [Pi-lomar - 3D Printed Working Miniature Observatory Using Raspberry Pi](https://www.instructables.com/Pi-lomar-3D-Printed-Working-Miniature-Observatory-/ ) |
 | **[KWS-302WF whole house WiFi power meter supports up to 63A, power control, features a color display - CNX Software](https://www.cnx-software.com/2023/11/23/kws-302wf-whole-house-wifi-power-meter-63a-power-control-color-display/ )** |
 | [SaraKIT - An Raspberry Pi CM4 board with ChatGPT-based voice control, motor control, and plenty of sensors (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/ ) |
@@ -656,6 +656,8 @@
 | [Raspberry Pi 5 review: The holy grail of DIY projects got even better (and rarer)](https://www.xda-developers.com/raspberry-pi-5-review/ ) |
 | [Raspberry Pi 5 vs Orange Pi 5 – What's the difference? - PC Guide](https://www.pcguide.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5/ ) |
 | **[Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ )** |
+| [RISC-V Business: Testing StarFive's VisionFive 2 SBC / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc ) |
+| [RISC-V to the Core: New Horizons / Renesas](https://www.renesas.com/us/en/blogs/risc-v-core-new-horizons ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
