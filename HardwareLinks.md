@@ -653,6 +653,9 @@
 | **[KWS-302WF whole house WiFi power meter supports up to 63A, power control, features a color display - CNX Software](https://www.cnx-software.com/2023/11/23/kws-302wf-whole-house-wifi-power-meter-63a-power-control-color-display/ )** |
 | [SaraKIT - An Raspberry Pi CM4 board with ChatGPT-based voice control, motor control, and plenty of sensors (Crowdfunding) - CNX Software](https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/ ) |
 | [Turbocharge Your Transient Sensors With Math / Hackaday](https://hackaday.com/2023/11/25/turbocharge-your-transient-sensors-with-math/ ) |
+| [Raspberry Pi 5 review: The holy grail of DIY projects got even better (and rarer)](https://www.xda-developers.com/raspberry-pi-5-review/ ) |
+| [Raspberry Pi 5 vs Orange Pi 5 – What's the difference? - PC Guide](https://www.pcguide.com/raspberry-pi/raspberry-pi-5-vs-orange-pi-5/ ) |
+| **[Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
