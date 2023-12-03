@@ -11,3 +11,4 @@
 | [15 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/ ) |
 | [15 Times Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/ ) |
 | [Greatest Calvin & Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/ ) |
+| [Best Calvin's Mom Strips In Calvin & Hobbes, Ranked](https://www.cbr.com/calvin-and-hobbs-mom-comic-strips-ranked/ ) |
