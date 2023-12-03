@@ -1,4 +1,4 @@
-# Computer News
+# News — Computer News
 
 | Computer News |
 |---|
