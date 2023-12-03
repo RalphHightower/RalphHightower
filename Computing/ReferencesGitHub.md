@@ -1,4 +1,4 @@
-# References / [GitHub](https://github.com/)
+# Computing/Networking References / [GitHub](https://github.com/)
 
 | References | Purpose |
 |------------------------|---------|
@@ -73,6 +73,7 @@
 | [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) |
 | [Armbian](https://github.com/armbian) | Linux for single board computers ||
 | [Avnet](https://github.com/Avnet) | Hardware Products |
+| [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | The Berkeley Out-of-Order RISC-V Processor |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
