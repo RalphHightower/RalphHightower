@@ -52,6 +52,10 @@
 | [Dune 2 Faces Stiff Competition To Be 2024's Best Sci-Fi Movie (There Might Be A Better One The Same Month!)](https://screenrant.com/dune-2-mickey-17-best-sci-fi-movie-march-2024/ ) |
 | [Dune: The Sisterhood Production Set To Continue, Unfazed By WGA And SAG Strikes](https://movieweb.com/dune-the-sisterhood-production-set-to-continue-unfazed-by-wga-and-sag-strikes/ ) |
 | [Dune: The Sisterhood Transforms With Fresh Title & New Release Date](https://movieweb.com/dune-the-sisterhood-title-new-release-date/ ) |
+| [Denis Villeneuve’s Dune Failed Paul Atreides In 1 Key Way That The 39-Year-Old Original Movie Got Right](https://screenrant.com/dune-2021-paul-atreides-agency-1984-movie-better/ ) |
+| [Dune 2 Is The Last Chance To Save One Box Office Trend From Extinction](https://screenrant.com/dune-2-two-part-movie-hollywood-trend/ ) |
+| [Dune Director Potentially Developming Rendezvous with Rama Sci-Fi Film](https://www.cbr.com/rendezvous-with-rama-dune-director-denis-villeneuve-development/ ) |
+| [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
 
 ## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
