@@ -1,4 +1,4 @@
-⁶# [NASA](https://www.nasa.gov/) / Space News
+# [NASA](https://www.nasa.gov/) / Space News
 
 ## NASA Links
 
@@ -120,6 +120,76 @@
 [Unlocking Fundamental Mysteries: Using Near-Miss Particle Physics to Peer Into Quantum World](https://scitechdaily.com/unlocking-fundamental-mysteries-using-near-miss-particle-physics-to-peer-into-quantum-world/)|[We Finally Know the True Power of the Brightest Gamma-Ray Burst](https://gizmodo.com/power-brightness-gamma-ray-burst-boat-1851025152 ) |
 | [When Stars Consume Their Partners, We Could Detect a Blast of Neutrinos - Universe Today](https://www.universetoday.com/164228/when-stars-consume-their-partners-we-could-detect-a-blast-of-neutrinos/ ) |
 | [Why Even Einstein Couldn't Unite Physics - Universe Today](https://www.universetoday.com/164144/why-even-einstein-couldnt-unite-physics/ ) |
+| ['First Ever' Experiments to Measure Theoretical 'Quantum Flickering' in an Empty Vacuum Slated for 2024 - The Debrief](https://thedebrief.org/first-ever-experiments-to-measure-theoretical-quantum-flickering-in-an-empty-vacuum-slated-for-2024/ ) |
+| [‘First light’: NASA receives laser-beamed message from 10 million miles away – AccuWeather.com/en/](https://www.accuweather.com/en/space-news/first-light-nasa-receives-laser-beamed-message-from-10-million-miles-away/1598462 ) |
+| ['The Making of JUICE' film shows how scientists built a Jupiter-bound spacecraft / Space](https://www.space.com/europe-juice-jupiter-icy-moons-mission-documentary ) |
+| [1st black hole ever imaged is losing energy through 'lightsaber' jets / Space](https://www.space.com/supermassive-black-hole-m87-losing-energy ) |
+| [A Century Later, New Math Smooths Out General Relativity / Quanta Magazine](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/ ) |
+| [Aerocapture is a Free Lunch in Space Exploration - Universe Today](https://www.universetoday.com/164482/aerocapture-is-a-free-lunch-in-space-exploration/ ) |
+| [Amateur Astrophotographer Discovers New “Phantom Stinger” In Scorpio Constellation’s Tail / IFLScience](https://www.iflscience.com/amateur-astrophotographer-discovers-new-phantom-stinger-in-scorpio-constellations-tail-71725 ) |
+| [As the ISS turns 25, a look back at the space laboratory's legacy / Space](https://www.space.com/iss-25-anniversary-achievements-legacy-nasa ) |
+| [Astronomers discover the Milky Way's faintest satellite](https://phys.org/news/2023-11-astronomers-milky-faintest-satellite.html ) |
+| [Astronomers find dozens of massive stars fleeing the Milky Way](https://phys.org/news/2023-11-astronomers-dozens-massive-stars-milky.html ) |
+| [Brightest gamma-ray explosion of all time scrambled Earth's upper atmosphere / Live Science](https://www.livescience.com/space/black-holes/brightest-gamma-ray-explosion-of-all-time-scrambled-earths-upper-atmosphere ) |
+| [Could This—Finally—Be Humanity's First Permanent Lunar Base?](https://gizmodo.com/thales-alenia-space-first-lunar-base-moon-asi-1851052777 ) |
+| [Dark Matter Could Help Solve the Final Parsec Problem of Black Holes - Universe Today](https://www.universetoday.com/164452/dark-matter-could-help-solve-the-final-parsec-problem-of-black-holes/ ) |
+| [Dark Matter Might Be Recycled To Form A Whole Invisible Periodic Table / IFLScience](https://www.iflscience.com/dark-matter-might-be-recycled-to-form-a-whole-invisible-periodic-table-71555 ) |
+| [Dark matter may be hiding in the Large Hadron Collider's particle jets / Space](https://www.space.com/large-hadron-collider-dark-matter-particle-jets ) |
+| [Dark Matter Could Help Solve the Final Parsec Problem of Black Holes - Universe Today](https://www.universetoday.com/164452/dark-matter-could-help-solve-the-final-parsec-problem-of-black-holes/ ) |
+| [Dark Matter Might Be Recycled To Form A Whole Invisible Periodic Table / IFLScience](https://www.iflscience.com/dark-matter-might-be-recycled-to-form-a-whole-invisible-periodic-table-71555 ) |
+| [Dark matter may be hiding in the Large Hadron Collider's particle jets / Space](https://www.space.com/large-hadron-collider-dark-matter-particle-jets ) |
+| [Data from Fermi Gamma-ray Space Telescope reveal gamma radiation pulses from Sagittarius A*](https://phys.org/news/2023-11-fermi-gamma-ray-space-telescope-reveal.html ) |
+| [Data from NASA’s Webb Telescope backs up ideas on planet formation – Ars Technica](https://arstechnica.com/science/2023/11/data-from-nasas-webb-telescope-backs-up-ideas-on-planet-formation/ ) |
+| [Data from Fermi Gamma-ray Space Telescope reveal gamma radiation pulses from Sagittarius A*](https://phys.org/news/2023-11-fermi-gamma-ray-space-telescope-reveal.html ) |
+| [Data from NASA’s Webb Telescope backs up ideas on planet formation – Ars Technica](https://arstechnica.com/science/2023/11/data-from-nasas-webb-telescope-backs-up-ideas-on-planet-formation/ ) |
+| [Dwarf galaxies use 10-million-year quiet period to churn out stars](https://phys.org/news/2023-11-dwarf-galaxies-million-year-quiet-period.html ) |
+| [For Henry Kissinger, NASA'S Apollo 11 lunar landing was about more than the moon / Space](https://www.space.com/henry-kissinger-apollo-program-moon-landing ) |
+| [For its Next Trick, Gaia Could Help Detect Background Gravitational Waves in the Universe - Universe Today](https://www.universetoday.com/164498/for-its-next-trick-gaia-could-help-detect-background-gravitational-waves-in-the-universe/ ) |
+| [Generating Power on Earth From the Coldness of Deep Space - IEEE Spectrum](https://spectrum.ieee.org/energy-from-cold ) |
+| [How NASA Keeps Ingenuity Going After More than 50 Flights - Universe Today](https://www.universetoday.com/164438/how-nasa-keeps-ingenuity-going-after-more-than-50-flights/ ) |
+| [Is Earth's Magnetic Field on The Verge of Flipping Over? An Expert Explains. : ScienceAlert](https://www.sciencealert.com/is-earths-magnetic-field-on-the-verge-of-flipping-over-an-expert-explains ) |
+| [‘I’ve dedicated my life to this mission’: Sara Sabry on making space exploration more accessible / CNN](https://www.cnn.com/world/sara-sabry-space-exploration-scn-spc/index.html ) |
+| [Ivy League astronaut shares top NASA wisdom for problem solving](https://www.cnbc.com/2023/11/27/ivy-league-astronaut-shares-top-nasa-wisdom-for-problem-solving.html ) |
+| [JWST Reveals Protoplanetary Disks in a Nearby Star Cluster - Universe Today](https://www.universetoday.com/164470/jwst-reveals-protoplanetary-disks-in-a-nearby-star-cluster/ ) |
+| [JWST now owns the top 8 spots for most distant objects - Big Think](https://bigthink.com/starts-with-a-bang/jwst-top-8-most-distant-objects/ ) |
+| [James Webb Space Telescope finds water and methane in atmosphere of a 'warm Jupiter' / Space](https://www.space.com/james-webb-space-telescope-wasp-80-b-methane-water-vapor ) |
+| [James Webb Space Telescope spies a newborn star in its cosmic crib (image) / Space](https://www.space.com/james-webb-space-telescope-herbig-haro-object-nov-2023 ) |
+| [James Webb telescope discovers 'Cosmic Vine' of 20 connected galaxies sprawling through the early universe / Live Science](https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-cosmic-vine-of-20-connected-galaxies-sprawling-through-the-early-universe ) |
+| [James Webb telescope reveals 'nursery' of 500,000 stars in the chaotic heart of the Milky Way / Live Science](https://www.livescience.com/space/astronomy/james-webb-telescope-reveals-nursery-of-500000-stars-in-the-chaotic-heart-of-the-milky-way ) |
+| [James Webb telescope reveals gargantuan 'Mothra' star in most colorful image of the universe ever taken / Live Science](https://www.livescience.com/space/astronomy/james-webb-telescope-reveals-gargantuan-mothra-star-in-most-colorful-image-of-the-universe-ever-taken ) |
+| [Key Ingredient For Life Discovered in The Last Place Astronomers Expected : ScienceAlert](https://www.sciencealert.com/key-ingredient-for-life-discovered-in-the-last-place-astronomers-expected ) |
+| [Mystery Solved: We Finally Know Why The Milky Way Seems So Unique : ScienceAlert](https://www.businessinsider.com/astronomers-may-know-why-milky-way-galaxy-rare-2023-11 ) |
+| [NASA postpones Dragonfly review, launch date - SpaceNews](https://spacenews.com/nasa-postpones-dragonfly-review-launch-date/ ) |
+| [New Study Lists The Ways a Rogue Star Could Spell Doom For Our Solar System : ScienceAlert](https://www.sciencealert.com/new-study-lists-the-ways-a-rogue-star-could-spell-doom-for-our-solar-system ) |
+| [New astrophysics model sheds light on additional source of long gamma-ray bursts](https://phys.org/news/2023-11-astrophysics-additional-source-gamma-ray.html ) |
+| [New constraints on the presence of ultralight dark matter in the Milky Way](https://phys.org/news/2023-11-constraints-presence-ultralight-dark-milky.html ) |
+| [Over the past six years, governments proposed launching over one million satellites, but where will they all go? / Space](https://theconversation.com/over-the-past-six-years-governments-proposed-launching-over-one-million-satellites-but-where-will-they-all-go-215979 ) |
+| [Physicists find evidence of exotic charge transport in quantum material](https://phys.org/news/2023-11-physicists-evidence-exotic-quantum-material.html ) |
+| [Researchers show an old law still holds for quirky quantum materials](https://phys.org/news/2023-11-law-quirky-quantum-materials.html ) |
+| [Sagittarius A*, our galaxy’s black hole, spins fast and drags space-time with it / CNN](https://www.cnn.com/2023/11/28/world/sagittarius-a-black-hole-spin-space-time-scn/index.html ) |
+| [Scientists chart the stories of young stars — from being born to moving out / Space](https://www.space.com/adolescent-star-evolution-galactic-stellar-clusters ) |
+| [Scientists detect a cosmic ray that’s almost as powerful as the ‘Oh-My-God’ particle / CNN](https://www.cnn.com/2023/11/23/americas/powerful-cosmic-ray-amaterasu-particle-detected-scn/index.html ) |
+| [Scientists found a planet-forming disk beyond our Milky Way for 1st time / Space](https://www.space.com/planet-forming-disk-young-star-1st-outside-milky-way-galaxy ) |
+| [Scientists rule out a popular alternative theory to dark matter - Big Think](https://bigthink.com/hard-science/dark-matter-alternative-modified-newtonian-dynamics-ruled-out/ ) |
+| [Starquakes Might Solve the Mysteries of Stellar Magnetism / WIRED](https://www.wired.com/story/starquakes-might-solve-the-mysteries-of-stellar-magnetism/ ) |
+| [Strange Explosion Captured in a Nearby Galaxy Wasn't a One-Off : ScienceAlert](https://www.sciencealert.com/strange-explosion-captured-in-a-nearby-galaxy-wasnt-a-one-off ) |
+| [Steve: The aurora-like light show you can help research / CNN](https://www.cnn.com/2023/11/28/world/steve-aurora-lights-scn/index.html ) |
+| [The Early Universe Had No Problem Making Barred Spiral Galaxies - Universe Today](https://www.universetoday.com/164463/the-early-universe-had-no-problem-making-barred-spiral-galaxies/ ) |
+| [The Fast and the Luminous: First Visible Wavelength Femtosecond Fiber Laser Developed](https://scitechdaily.com/the-fast-and-the-luminous-first-visible-wavelength-femtosecond-fiber-laser-developed/ ) |
+| [The echoes from inflation could still be shaking the cosmos today](https://phys.org/news/2023-11-echoes-inflation-cosmos-today.html ) |
+| [The Long Wait - NASA Mars](https://mars.nasa.gov/technology/helicopter/status/495/the-long-wait/ ) |
+| [The Mars helicopter Ingenuity is an amazing success. NASA's already testing tech for the next generation (video) / Space](https://www.space.com/mars-rotor-system-test-nears-supersonic-speeds-ingenuity-flies-coincides ) |
+| [Theoretical work indicates that the future Electron Ion Collider can be used to measure the shape of atomic nuclei](https://phys.org/news/2023-11-theoretical-future-electron-ion-collider.html ) |
+| [There Aren't Many Galaxies Like The Milky Way Nearby. Now We Know Why - Universe Today](https://www.universetoday.com/164414/there-arent-many-galaxies-like-the-milky-way-nearby-now-we-know-why/#google_vignette ) |
+| [Titan Dragonfly is Go!.... for Phase C - Universe Today](https://www.universetoday.com/164532/titan-dragonfly-is-go-for-phase-c/ ) |
+| [Ultra-compact particle accelerator does a mile's work with four inches](https://newatlas.com/physics/wakefield-accelerator-tau/ ) |
+| [Using gravitational wave observations of a binary black hole merger to verify the no-hair theorem](https://phys.org/news/2023-11-gravitational-binary-black-hole-merger.html ) |
+| [Watch "The making of Juice: the film" on YouTube](https://youtu.be/TOKyzXulb-Y? ) |
+| [Webb telescope reveals new details in Milky Way’s heart / CNN](https://www.cnn.com/2023/11/20/world/webb-telescope-milky-way-heart-scn/index.html ) |
+| [What was it like at the beginning of the Big Bang? - Big Think](https://bigthink.com/starts-with-a-bang/beginning-big-bang/ ) |
+| [Where are All the Double Planets? - Universe Today](https://www.universetoday.com/164456/where-are-all-the-double-planets/ ) |
+| [Wild New Study Suggests We Could Use Tiny Black Holes as Sources of Nuclear Power : ScienceAlert](https://www.sciencealert.com/wild-new-study-suggests-we-could-use-tiny-black-holes-as-sources-of-nuclear-power ) |
+| [Zhurong rover detects mysterious polygons beneath the surface of Mars](https://phys.org/news/2023-11-zhurong-rover-mysterious-polygons-beneath.html ) |
 
 ## Satellite Technology
 
