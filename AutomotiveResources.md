@@ -106,6 +106,13 @@
 | [Shelby Wins Legal Battle Over the 'Eleanor' Gone in 60 Seconds Car - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/14/shelby-wins-legal-battle-over-the-eleanor-gone-in-60-seconds-car/ ) |
 | **[Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ )** |
 | [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) |
+| [2024 Corvette E-Ray Offers New Rapid Blue Badges](https://gmauthority.com/blog/2023/11/2024-corvette-e-ray-offers-new-rapid-blue-badges/ ) |
+| [A Leap Forward in EV Charge Technology: Desten's New LFP Cell Raises the Bar](https://ts2.space/en/a-leap-forward-in-ev-charge-technology-destens-new-lfp-cell-raises-the-bar/0 ) |
+| [Chevy's new 'Holiday to Remember' commercial tugs on America's heart](https://www.usatoday.com/story/money/2023/11/29/chevrolet-holiday-commercial-alzheimers/71743866007/ ) |
+| [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) |
+| [Northvolt unveils 160 Wh/kg sodium-ion battery – pv magazine International](https://www.pv-magazine.com/2023/11/22/northvolt-unveils-160-wh-kg-sodium-ion-battery/ ) |
+| [The Next Leap in Battery Tech: Lithium-Ion Batteries Are No Longer the Gold Standard](https://scitechdaily.com/the-next-leap-in-battery-tech-lithium-ion-batteries-are-no-longer-the-gold-standard/ ) |
+| [Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ ) |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
