@@ -1,4 +1,4 @@
-# [NASA](https://www.nasa.gov/) / Space News
+# [NASA](https://www.nasa.gov/)
 
 ## NASA Links
 
