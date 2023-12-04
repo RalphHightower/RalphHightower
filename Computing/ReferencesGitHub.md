@@ -75,7 +75,7 @@
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [Arm Software](https://github.com/ARM-software ) | |
 | [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) | |
-| [Armbian](https://github.com/armbian) | Linux for single board computers | |
+| [Armbian](https://github.com/armbian) | Linux for single board computers |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
