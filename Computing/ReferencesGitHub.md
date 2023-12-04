@@ -62,16 +62,16 @@
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) |  AI4Finance Foundation — An open-source community sharing AI tools for finance.|
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
-| [Amazon Web Services](https://github.com/aws )| |
-| [Amazon Web Services - Labs](https://github.com/awslabs )| |
-| [Amazon Archives](https://github.com/amazon-archives )| |
-| [Ansible](https://github.com/ansible )|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
+| [Amazon Web Services](https://github.com/aws ) | |
+| [Amazon Web Services - Labs](https://github.com/awslabs ) | |
+| [Amazon Archives](https://github.com/amazon-archives ) | |
+| [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
-| [Arm Software](https://github.com/ARM-software ) ||
-| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) |
-| [Armbian](https://github.com/armbian) | Linux for single board computers ||
+| [Arm Software](https://github.com/ARM-software ) |  |
+| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) |  |
+| [Armbian](https://github.com/armbian) | Linux for single board computers |  |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
@@ -80,14 +80,14 @@
 | [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
-| [Cisco Data Center](https://github.com/datacenter )| Cisco Data Center – Cisco Open Source Projects for the Data Center|
-| [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet|
-| [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation )| Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS|
+| [Cisco Data Center](https://github.com/datacenter )| Cisco Data Center – Cisco Open Source Projects for the Data Center |
+| [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
+| [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation ) | Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS |
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
 | [Cloudflare](https://github.com/cloudflare )|Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
-| [Connected Vehicle Systems Alliance](https://github.com/COVESA )|
-| [Connectivity Standards Alliance](https://github.com/project-chip ) |Implementation Source Code for the Matter Project |
+| [Connected Vehicle Systems Alliance](https://github.com/COVESA ) |
+| [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
 | [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
@@ -95,15 +95,15 @@
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
-| [Freescale](https://github.com/Freescale) ||
+| [Freescale](https://github.com/Freescale) |   |
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
-| [Google DeepMind](https://github.com/google-deepmind ) ||
+| [Google DeepMind](https://github.com/google-deepmind ) |   |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
 | [Google Research](https://github.com/google-research ) | |
-| [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions.|
+| [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions. |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
@@ -127,7 +127,7 @@
 | [nginx](https://github.com/nginx ) |  |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
-| [Octokit](https://github.com/octokit ) |
+| [Octokit](https://github.com/octokit ) |  |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
@@ -159,11 +159,11 @@
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
-| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/)|
-| [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA 
+| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
+| [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
 | [SPDX](https://github.com/spdx ) | SPDX is an open standard for communicating SBOM information, including provenance, license, security, and other related information. ISO/IEC 5962:2021 |
 | [starfive-tech](https://github.com/starfive-tech ) | RISC-V |
-| [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. 
+| [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. |
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [T-Firefly · GitLab](https://gitlab.com/T-Firefly ) | RISC-V System Manufacturer |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
@@ -180,7 +180,7 @@
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
-| **GitHub** | 
+| **GitHub Topics** | 
 |----| 
 | [Explore](https://github.com/explore) | 
 | [Topics](https://github.com/topics) | 
