@@ -1,7 +1,9 @@
 # Computing/Networking References / [GitHub](https://github.com/)
 
+## References 
+
 | References | Purpose |
-|------------------------|---------|
+|------------|---------|
 | [Date/Time Formatter](http://strftime.net/) *This is a handy formatter for date/time* | Date/Time Formatting |
 | [Pandoc](https://pandoc.org/) | Document Conversion |
 | [Pandoc - Pandoc User’s Guide](https://pandoc.org/MANUAL.html ) | Pandoc User’s Guide |
@@ -47,6 +49,8 @@
 [^44]: [IRTF](https://www.irtf.org/) — Promotes research of importance to the evolution of the Internet protocols, applications, architecture and technology.
 [^45]: [IAB](https://www.iab.org/) — Provides long-range technical direction for Internet development, ensuring the Internet continues to grow and evolve as a platform for global communication and innovation.
 
+## Regional Internet Registries
+
 | Regional Internet Registry | Region |
 |----|----|
 | [American Registry for Internet Numbers (ARIN)](https://www.arin.net) | Norh America |
@@ -55,12 +59,12 @@
 | [African Network Coordination Centre (AFRINIC)](https://www.afrinc.net/)  | Africa |
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
 
-# [GitHub](https://github.com/)
+## Company/Government [GitHubs](https://github.com/)
 
 | Companies on GitHub | Description |
-|---------------------|-------|
+|---------------------|-------------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
-| [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) |  AI4Finance Foundation — An open-source community sharing AI tools for finance.|
+| [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | AI4Finance Foundation — An open-source community sharing AI tools for finance.|
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 | [Amazon Web Services](https://github.com/aws ) | |
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | |
@@ -69,9 +73,9 @@
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
-| [Arm Software](https://github.com/ARM-software ) |  |
-| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) |  |
-| [Armbian](https://github.com/armbian) | Linux for single board computers |  |
+| [Arm Software](https://github.com/ARM-software ) | |
+| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) | |
+| [Armbian](https://github.com/armbian) | Linux for single board computers | |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
@@ -80,13 +84,13 @@
 | [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
-| [Cisco Data Center](https://github.com/datacenter )| Cisco Data Center – Cisco Open Source Projects for the Data Center |
+| [Cisco Data Center](https://github.com/datacenter ) | Cisco Data Center – Cisco Open Source Projects for the Data Center |
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation ) | Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS |
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
-| [Cloudflare](https://github.com/cloudflare )|Cloudflare |
+| [Cloudflare](https://github.com/cloudflare ) | Cloudflare |
 | [comma.ai](https://github.com/commaai ) | Make driving chill |
-| [Connected Vehicle Systems Alliance](https://github.com/COVESA ) |
+| [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | |
 | [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
 | [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
@@ -95,10 +99,10 @@
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
-| [Freescale](https://github.com/Freescale) |   |
+| [Freescale](https://github.com/Freescale) | |
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
-| [Google DeepMind](https://github.com/google-deepmind ) |   |
+| [Google DeepMind](https://github.com/google-deepmind ) | |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
@@ -114,26 +118,26 @@
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
-| [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) |Torvalds Source Tree |
+| [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) | Torvalds Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [Mastercard](https://github.com/Mastercard ) | |
-| [Meta Research](https://github.com/facebookresearch ) |   |
+| [Meta Research](https://github.com/facebookresearch ) | |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
-| [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software.|
+| [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software. |
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
 | [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
-| [nginx](https://github.com/nginx ) |  |
+| [nginx](https://github.com/nginx ) | |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
-| [Octokit](https://github.com/octokit ) |  |
+| [Octokit](https://github.com/octokit ) | |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |
-| [openmediavault](https://github.com/openmediavault ) |openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
+| [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [openssl/openssl: TLS/SSL and crypto library](https://github.com/openssl/openssl ) | Secure Sockets Layer |
 | [Oracle](https://github.com/oracle) | Open Source at Oracle |
@@ -148,14 +152,14 @@
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture  |
+| [RISC-V — Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management |
-| [Seeed Studio](https://github.com/Seeed-Studio ) |   |
+| [Seeed Studio](https://github.com/Seeed-Studio ) | |
 | [SiFive](https://github.com/sifive) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002 |
@@ -167,7 +171,7 @@
 | [T-Firefly](https://github.com/T-Firefly/) | Computers (Embedded, Motherboards, TuringPi compatible |
 | [T-Firefly · GitLab](https://gitlab.com/T-Firefly ) | RISC-V System Manufacturer |
 | [TensorFlow](https://github.com/tensorflow) | TuringPi |
-| [Triton Inference Server](https://github.com/triton-inference-server ) |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server.|
+| [Triton Inference Server](https://github.com/triton-inference-server )  |NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
 | [TuringPi Machines](https://github.com/turing-machines ) |
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
@@ -180,6 +184,8 @@
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
+## GitHub Topics 
+
 | **GitHub Topics** | 
 |----| 
 | [Explore](https://github.com/explore) | 
@@ -190,7 +196,7 @@
 | [About code owners - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners ) |
 | [GitHub Stars: inspire, educate & influence developer communities](https://stars.github.com/ ) |
 
-# [Microsoft](https://www.microsoft.com/)
+## [Microsoft](https://www.microsoft.com/)
 
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 |----------------------------------|
@@ -202,12 +208,12 @@
 | [C# Online Compiler](https://dotnetfiddle.net/Mobile?id=CsCons#code-editor) |
 | [Using Visual Studio Code for C# development / InfoWorld](https://www.infoworld.com/article/3708255/using-visual-studio-code-for-c-sharp-development.html ) |
 
-# Software 
+## Software 
 
 | Software |
 |---|
 | [Open Source Projects](FavOpenSourceProjects.md) |
-| [Useful Software / Utilities](Software.md)
+| [Useful Software / Utilities](Software.md) ||
 | [A professional collaborative platform for embedded development · PlatformIO](https://platformio.org/ ) |
 
 ## GitHub 
