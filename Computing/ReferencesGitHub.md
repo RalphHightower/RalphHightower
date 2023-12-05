@@ -70,6 +70,7 @@
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | |
 | [Amazon Archives](https://github.com/amazon-archives ) | |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
+| [ARIN Engineering](https://github.com/arineng ) | American Registry for Internet Numbers |
 | [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
@@ -148,6 +149,7 @@
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
+| [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
 | [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
