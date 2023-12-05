@@ -1,5 +1,11 @@
 # Photography — Total Solar Eclipse 
 
+## Resources 
+
+| Resources |
+|---|
+| [Great American Eclipse](https://www.greatamericaneclipse.com/ ) |
+
 ## Equipment 
 
 | Equipment | Price | Rent / Buy | Source |
