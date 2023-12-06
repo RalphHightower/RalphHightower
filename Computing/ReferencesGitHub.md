@@ -179,6 +179,7 @@
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
+| [Verizon](https://github.com/Verizon ) | |
 | [Visa](https://github.com/visa ) | |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows |
