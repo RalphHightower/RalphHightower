@@ -64,6 +64,7 @@
 | Companies on GitHub | Description |
 |---------------------|-------------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
+| [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | AI4Finance Foundation — An open-source community sharing AI tools for finance.|
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 | [Amazon Web Services](https://github.com/aws ) | |
