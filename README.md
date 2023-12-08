@@ -221,7 +221,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 
 | Status | Project |
 |----|-----|
-|| [Hardware Suppliers for Projects](HardwareLinks.md) |
+|| [Hardware Suppliers for Projects](Hardware/HardwareLinks.md) |
 | Research | Develop Arduino system that detects gasoline pumps and ATMs that criminals have broken into to steal credit card information. |
 | In Progress | |
 | Completed | 
@@ -310,7 +310,7 @@ A technology company had shut down and one of the Affinity Technology Group form
 
 [SwissMicros - Product Line](https://www.swissmicros.com/products? )
 
-## [Beagles](Beagles.md)
+## [Beagles](Beagles/Beagles.md)
 
 Paula and I have had and raised Beagles since 1979 when someone dropped a Beagle off in our
 neighborhood, who we named Sport. We have put the obedience title, Companion Dog (CD) on Ranger and 
@@ -336,7 +336,7 @@ Bodies of Water That I Have Skiied:
    - Cedar River (Cedar Rapids, Iowa)
    - Mississippi River (between the Quad Cities of Davenport and Bettendorf, Iowa, and Rock Island and Moline, Illinois)
 
-## [Craft Beer Breweries in South Carolina](SouthCarolinaBeerBrewies.md)
+## [Craft Beer Breweries in South Carolina](FoodDrink/SouthCarolinaBeerBreweries.md)
 
 -  [12 Mistakes You're Making When Visiting A Brewery](https://www.tastingtable.com/1435201/mistakes-avoid-visiting-brewery/ )
 
@@ -355,11 +355,11 @@ South Carolina has a number of craft beer breweries. The heading links to a list
 
 I enjoy television 📺 series that have been rebooted or spun off from my favorite series. Below is a link to the series that have been rebooted or spun off that actually have a plot and worth watching.
 
-[Television Series Reboots and Spinoffs](RebootedTVShows.md)
+[Television Series Reboots and Spinoffs](Media/RebootedTVShows.md)
 
 ## Tabasco Sauce Scoville Ratings 
 
-[Tabasco Sauce Scoville Ratings](TabascoScovilleRating.md)
+[Tabasco Sauce Scoville Ratings](FoodDrink/TabascoScovilleRating.md)
 
 ## [USC — University of South Carolina](https://www.sc.edu)
 
