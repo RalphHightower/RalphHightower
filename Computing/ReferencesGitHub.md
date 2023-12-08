@@ -216,8 +216,8 @@
 
 | Software |
 |---|
-| [Open Source Projects](FavOpenSourceProjects.md) |
-| [Useful Software / Utilities](Software.md) ||
+| [Open Source Projects](Computing/FavOpenSourceProjects.md) |
+| [Useful Software / Utilities](Computing/Software.md) ||
 | [A professional collaborative platform for embedded development · PlatformIO](https://platformio.org/ ) |
 
 ## GitHub 
@@ -230,7 +230,7 @@
 
 ## [Software Package Data Exchange](SoftwareDataPackageExchange.md)
 
-[Software Package Data Exchange, SPDX,](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
+[Software Package Data Exchange — SPDX](https://spdx.dev) seems to have made licensing more complex with this explosion of other licenses that I didn't know existed. [Software Data Package Exchange, aka, SPDX](SoftwareDataPackageExchange.md) has all known links to research and reference for links that I got from [sdpx.dev/](https://spdx.dev/).
 
 ### Assessment of Software Package Data Exchange Licenses 
 
