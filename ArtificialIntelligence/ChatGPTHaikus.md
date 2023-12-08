@@ -612,7 +612,7 @@ Hello! I'm here to assist you. How can I help you today?|
 
 ### [ChatGPT](https://chat.openai.com/) Hawaii 5-O, Hawaii 5-0 Haikus
 
-| *"RalphHightower" / [ChatGPT](https://chat.openai.com/) Hawaii 5-O, 5-0 Haiku |
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) Hawaii 5-O, 5-0 Haiku |
 |---|
 | *"Greetings, AI Assistant."* |
 |Greetings! Hello there! How can I assist you today?|
