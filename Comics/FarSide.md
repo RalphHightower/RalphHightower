@@ -16,4 +16,6 @@
 | ["It Was Cruel, Stupid and Ridiculous": 10 Most Controversial Far Side Comics Ever](https://screenrant.com/most-controversial-far-side-funniest-gary-larson-comics/ ) |
 | [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/#damned-if-you-do-damned-if-you-don-39-t ) |
 | [Why The Far Side Needs a TV Series Adaptation](https://movieweb.com/why-the-far-side-needs-a-tv-series-adaptation/ ) |
+| [10 Funniest Far Side Comics with Deliberately Terrible Art](https://screenrant.com/funniest-far-side-comics-gary-larson-bad-art/ ) |
+| [The Far Side's Freaky Giant Squid Is Everything That Makes Its Comics Great](https://screenrant.com/the-far-side-recurring-characters-giant-squid-gary-larson/ ) |
 
