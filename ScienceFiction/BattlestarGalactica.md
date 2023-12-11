@@ -1,4 +1,6 @@
-# Science Fiction — Battlestar Galactica
+# Science Fiction — Battlestar Galactica[^11]
+
+[^11]: [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ )
 
 ## News / Articles 
 
@@ -49,3 +51,4 @@
 | [The Battlestar Galactica Timeline, Explained](https://gamerant.com/battlestar-galactica-timeline-explained/ ) |
 | [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
 | [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
+| [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-origin|al-honor-producer-explained/ ) 
