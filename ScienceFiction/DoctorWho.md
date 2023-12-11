@@ -162,6 +162,22 @@
 | [Neil Patrick Harris' Toymaker Gets Glowing Review From Doctor Who's David Tennant: "Impossible To Imagine \[Anyone\] Else"](https://screenrant.com/doctor-who-neil-patrick-harris-toymaker-david-tennant-review/ ) |
 | [RTD's Doctor Who Comeback Gives The Perfect Hat-Tip To Jodie Whittaker's Era](https://screenrant.com/doctor-who-rtd-whittaker-female-respect-reference/ ) |
 | [Why Did Donna Noble Lose Her Money on Doctor Who?](https://www.cbr.com/doctor-who-donna-noble-lost-fortune/ ) |
+| [18 Years Later, 'Doctor Who' is Repeating a Brilliant Sci-Fi Trick — And Introducing a Historic First](https://www.inverse.com/entertainment/doctor-who-christmas-special-2023-the-church-on-ruby-road-details ) |
+| [Doctor Crusher’s Replacement Actor Contradicts Rumors Of Her Star Trek: TNG Exit](https://screenrant.com/star-trek-tng-diana-muldaur-explains-exit/ ) |
+| [Doctor Who 60th Anniversary Easter Egg Brings Back An Obscure Fifth Doctor Story From 23 Years Ago](https://screenrant.com/doctor-who-fifth-red-dawn-easter-egg-explained/ ) |
+| [Doctor Who Doubles Down On The Controversial Timeless Child Retcon Ahead Of Season 14](https://screenrant.com/doctor-who-timeless-child-retcon-doubles-down-before-season-14/ ) |
+| [Doctor Who Showrunner RTD Honors Bernard Cribbins In His Final Appearance As Wilf](https://screenrant.com/doctor-who-wilf-bernard-cribbins-final-appearance-rtd/ ) |
+| [Doctor Who Showrunner Reveals Cut Jodie Whittaker and Tom Baker Reference From New Episode](https://www.cbr.com/doctor-who-showrunner-jodie-whittaker-tom-baker-reference/ ) |
+| [Doctor Who Wild Blue Yonder's Gravity Joke Explained By David Tennant & Catherine Tate](https://screenrant.com/doctor-who-wild-blue-yonder-gravity-mavity-joke-explained/ ) |
+| [Doctor Who's New Villains Create A Big Clue To The Toymaker's Real Plan (& Season 14's Story)](https://screenrant.com/doctor-who-meep-not-things-villain-common-trait-clue/ ) |
+| [Doctor Who: David Tennant & Catherine Tate Pay Tribute To Bernard Cribbins Following Wild Blue Yonder Appearance](https://screenrant.com/doctor-who-bernard-cribbins-david-tennant-catherine-tate-tribute/ ) |
+| [Doctor Who: The Best Seasons of the Nu-Who Era, Ranked](https://movieweb.com/doctor-who-the-best-seasons-of-nu-who-ranked/#season-2 ) |
+| [First Look at David Tennant's 2023 Doctor Who Regeneration Released (Photos)](https://thedirect.com/article/david-tennant-2023-doctor-who-regeneration-photos ) |
+| [‘I’m so nervous’: Ncuti Gatwa prepares to begin new Doctor Who role / Ncuti Gatwa / The Guardian](https://www.theguardian.com/culture/2023/dec/04/im-so-nervous-ncuti-gatwa-prepares-to-begin-new-doctor-who-role ) |
+| [Is RTD's Doctor Who Already Setting Up The Master For Ncuti Gatwa's Season 14?](https://screenrant.com/doctor-who-master-tease-60th-anniversary-specials/ ) |
+| [The Best Doctor Is Also David Tennant’s Favorite](https://collider.com/doctor-who-patrick-troughton-best/ ) |
+| [Why David Tennant Is The Best Doctor Who Explained By Fifteenth Doctor Actor Ncuti Gate](https://screenrant.com/doctor-who-david-tennant-ncuti-gatwa-favorite-why/ ) |
+| [Wild Blue Yonder: Behind the Scenes / Doctor Who - YouTube](https://www.youtube.com/watch?v=-bVYsOGsJww ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|
