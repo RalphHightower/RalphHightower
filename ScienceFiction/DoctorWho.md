@@ -132,7 +132,7 @@
 | ["Degree Of Contempt": Fourth Doctor Explains Why He Is Not Interested In A Doctor Who Meet-Up](https://screenrant.com/doctor-who-doctors-meeting-no-interest-why-fourth-doctor-response/ ) |
 | ['Doctor Who's Best Season Is Still David Tennant's Last](https://collider.com/doctor-who-david-tennant-season-4-best/ ) |
 | [Doctor Who 60th Anniversary Episode 1 Ending & Donna's Memory Explained](https://screenrant.com/doctor-who-donna-memory-return-rose-time-lord-explained/ ) |
-| [Doctor Who 60th anniversary: Filming locations in Wales - BBC News](https://www.bbc.com/news/uk-wales-67457559 )| [Old Vinyl Records That Are Worth Thousands Today / Investing Magazine](https://za.investing.com/magazine/old-vinyl-records-worth-thousands-today-2/ ) |
+| [Doctor Who 60th anniversary: Filming locations in Wales - BBC News](https://www.bbc.com/news/uk-wales-67457559 )|
 | [Doctor Who Art Shows Every Version Of The Time Lord Together, Including The 15th Doctor](https://screenrant.com/doctor-who-art-every-version-time-lord/ ) |
 | [Doctor Who Gives The Sonic Screwdriver 2 Amazing New Powers Before Season 14](https://screenrant.com/doctor-who-sonic-screwdriver-new-powers/ ) |
 | [Doctor Who Season 14 Cast Guide: Every New & Returning Character](https://screenrant.com/doctor-who-season-14-cast-character-guide/ ) |
@@ -163,7 +163,6 @@
 | [RTD's Doctor Who Comeback Gives The Perfect Hat-Tip To Jodie Whittaker's Era](https://screenrant.com/doctor-who-rtd-whittaker-female-respect-reference/ ) |
 | [Why Did Donna Noble Lose Her Money on Doctor Who?](https://www.cbr.com/doctor-who-donna-noble-lost-fortune/ ) |
 | [18 Years Later, 'Doctor Who' is Repeating a Brilliant Sci-Fi Trick — And Introducing a Historic First](https://www.inverse.com/entertainment/doctor-who-christmas-special-2023-the-church-on-ruby-road-details ) |
-| [Doctor Crusher’s Replacement Actor Contradicts Rumors Of Her Star Trek: TNG Exit](https://screenrant.com/star-trek-tng-diana-muldaur-explains-exit/ ) |
 | [Doctor Who 60th Anniversary Easter Egg Brings Back An Obscure Fifth Doctor Story From 23 Years Ago](https://screenrant.com/doctor-who-fifth-red-dawn-easter-egg-explained/ ) |
 | [Doctor Who Doubles Down On The Controversial Timeless Child Retcon Ahead Of Season 14](https://screenrant.com/doctor-who-timeless-child-retcon-doubles-down-before-season-14/ ) |
 | [Doctor Who Showrunner RTD Honors Bernard Cribbins In His Final Appearance As Wilf](https://screenrant.com/doctor-who-wilf-bernard-cribbins-final-appearance-rtd/ ) |
