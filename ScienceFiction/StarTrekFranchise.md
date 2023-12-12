@@ -248,6 +248,170 @@
 | [Why Was Star Trek: The Original Series Was Canceled?](https://www.cbr.com/why-star-trek-was-originally-canceled/ ) |
 | [Worf Became Star Trek's Greatest Klingon Thanks To A Pivotal TNG Death](https://screenrant.com/star-trek-tasha-yar-death-worf-opportunity-great/ ) |
 | [Why Star Trek: The Next Generation's Most Emotional Episode Holds Special Meaning For Patrick Stewart](https://www.slashfilm.com/1438379/star-trek-the-next-generation-patrick-stewart-most-emotional-episode/ ) |
+| **[Amazon\.com: Star Trek: Picard The Legacy Collection \[Blu-ray\] : LeVar Burton, Jonathon Frakes, Pactrick Stewart: Movies & TV](https://www.amazon.com/Star-Trek-Picard-Collection-Blu-ray/dp/B0C87DFHNY?keywords=Picard+Legacy+Collection&qid=1693936542&sr=8-1&linkCode=sl1&tag=trekmovie-20&linkId=9b44bde4622155d3bf76e048c488a6fc&language=en_US& )** |
+| **[Nichelle Nichols Remembers Dr. Martin Luther King, Jr. / Star Trek](https://www.startrek.com/news/nichelle-nichols-remembers-dr-king )** |
+| ["It's Been 70 Years Since My Feet Touched the Ground": Scotty Reveals the Bittersweet Final Fate of Star Trek's Original Heroes](https://screenrant.com/star-trek-scotty-final-fate-original-heroes/ ) |
+| ['Star Trek Starfleet Academy' to Film in 2024, Will Be Funny](https://collider.com/star-trek-starfleet-academy-filming-2024-comedy/ ) |
+| ['Star Trek' Timeline, Explained / The Mary Sue](https://www.themarysue.com/star-trek-timeline-explained/ ) |
+| [10 Best Quotes From Star Trek: First Contact](https://screenrant.com/star-trek-first-contact-best-dialogue-quotes/ ) |
+| [10 Best Sci-Fi Tropes Star Trek Popularized](https://www.cbr.com/best-sci-fi-tropes-star-trek-popularized/ ) |
+| [10 Funny and Moving Behind-the-Scenes Secrets About the Original TV 'Star Trek'](https://www.yahoo.com/lifestyle/10-shocking-humorous-behind-scenes-155616219.html ) |
+| [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ ) |
+| [10 Star Trek Phasers, Ranked](https://www.cbr.com/star-trek-phasers/ ) |
+| [10 Ways Star Trek Needs to Reinvent Itself for Future Series](https://www.cbr.com/how-star-trek-can-reinvent-itself/ ) |
+| [12 Important Star Trek Heroes Who Aren't In Starfleet](https://screenrant.com/star-trek-important-heroes-not-starfleet/ ) |
+| [16 Star Trek Doctors Ranked Worst To Best](https://screenrant.com/star-trek-every-doctor-ranked-worst-best/ ) |
+| [2 Great Barriers In Star Trek's Galaxy Explained](https://screenrant.com/star-trek-galactic-great-barrier-differences-explained/ ) |
+| [5 Famous Starship Bars In Star Trek Explained](https://screenrant.com/star-trek-starship-bars-10-forward-explained/ ) |
+| [7 Versions Of Riker In Star TrekMovie.com](https://screenrant.com/star-trek-riker-different-versions-explained/ ) |
+| [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ ) |
+| [Actors Strike Ends – What This Means For Star Trek Production – TrekMovie.com](https://trekmovie.com/2023/11/09/actors-strike-ends-star-trek-production-could-resume-soon/ ) |
+| [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ ) |
+| [Chris Pine Says Star Trek Shouldn't Compete With Marvel's 'Billion-Dollar' Movies](https://www.cbr.com/chris-pine-star-trek-marvel-movies-compete/ ) |
+| [Do Star Trek's Andorians Really Have Four Sexes?](https://www.cbr.com/star-trek-andorians-four-sexes/ ) |
+| [Does Spock's Nerve Pinch Work on Borg? - Star Trek Settles the Debate](https://screenrant.com/star-trek-spock-nerve-pinch-effective-against-borg/ ) |
+| [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
+| [Forget Admiral, Beverly Crusher Needs To Be Star Trek: Legacy’s Doctor](https://screenrant.com/beverly-crusher-best-star-trek-legacy-doctor/ ) |
+| [Gates McFadden doesn't rule out a return as Dr. Beverly Crusher](https://redshirtsalwaysdie.com/2021/12/14/gates-mcfadden-doesnt-rule-out-a-return-as-dr-beverly-crusher/ ) |
+| [Harry Kim's New Codename Makes Up for Years of Star Trek Mockery](https://screenrant.com/star-trek-harry-kim-new-codename-kingsnake/ ) |
+| [How Did Una Chin-Riley Change Starfleet’s Attitude About Augments?](https://www.cbr.com/star-trek-una-chin-riley-gene-modification/ ) |
+| [How Kirk Used His Trauma & Pain To Become A Great Captain](https://gamerant.com/star-trek-kirk-trauma-pain-great-captain/ ) |
+| [How Long It Would Take To Watch All Of Star Trek (Yes, ALL Of It)](https://www.cbr.com/star-trek-every-tv-episode-movie/ ) |
+| [How Star Trek's Federation Evolved From Just A United Earth](https://www.cbr.com/star-trek-federation-united-earth-evolution-explained/ ) |
+| [How Star Trek: The Original Series Created Modern Fandom](https://www.cbr.com/star-trek-the-original-series-modern-fandom/ ) |
+| [How Starfleet Has Evolved Over The Centuries](https://gamerant.com/star-trek-how-starfleet-evolved-centuries/ ) |
+| [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/ ) |
+| [Interview: Walter Koenig On Joining ‘Star Trek,’ Shatner’s Acting, And Chekov’s Best Scene Cut From ‘Generations’ – TrekMovie\.com](https://trekmovie.com/2023/11/13/interview-walter-koenig-on-joining-star-trek-shatners-acting-and-chekovs-best-scene-cut-from-generations/ ) |
+| [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ ) |
+| [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ ) |
+| [Jonathan Frakes Is Patrick Stewart's "First Choice" & Favorite Star Trek Director](https://screenrant.com/jonathan-frakes-patrick-stewart-favorite-star-trek-director/ ) |
+| [Jonathan Frakes believes Star Trek: Legacy will eventually happen](https://redshirtsalwaysdie.com/2023/08/01/jonathan-frakes-believes-star-trek-legacy-will-happen/ ) |
+| [Kirk’s Death In Star Trek Generations Was A “Travesty,” Says Walter Koenig](https://screenrant.com/star-trek-generations-kirk-death-travesty-walter-koenig/ ) |
+| [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy) |
+| [Nicolas Meyer Gives Update On ‘Star Trek: Khan – Ceti Alpha V’ And Why Making It An Audio Drama Is “Perfect” – TrekMovie.com](https://trekmovie.com/2023/11/25/nicolas-meyer-gives-update-on-star-trek-khan-ceti-alpha-v-and-why-making-it-an-audio-drama-is-perfect/ ) |
+| [No, Tendi Isn't Leaving Star Trek - Lower Decks Creator Teases Season 5's "Kick Ass" Orion](https://screenrant.com/star-trek-tendi-lower-decks-season-5-orion/ ) |
+| [One Star Trek Director Proved To Be Patrick Stewart's Guardian Angel](https://www.slashfilm.com/1431160/star-trek-director-proved-to-be-patrick-stewart-guardian-angel/ ) |
+| [One Star Trek Episode Convinced Patrick Stewart That Brent Spiner Should've Won An Emmy](https://www.slashfilm.com/1426394/star-trek-episode-convinced-patrick-stewart-brent-spiner-shouldve-won-emmy/ ) |
+| [Only Jonathan Frakes could have been second in command](https://redshirtsalwaysdie.com/2023/11/27/only-jonathan-frakes-could-have-been-second-in-command/ ) |
+| [Patrick Stewart Reveals Why Whoopi Goldberg Decided To Join Star Trek](https://gamerant.com/star-trek-patrick-stewart-whoopi-goldberg-join-reason/ ) |
+| [Patrick Stewart Was Touched When A Legendary Star Trek Character Paid Tribute To Him](https://www.slashfilm.com/1438363/patrick-stewart-leonard-nimoy-tribute-star-trek-touched/ ) |
+| [Patrick Stewart says his time on 'Star Trek' felt like a ministry : NPR](https://www.npr.org/2023/11/26/1215298020/patrick-stewart-says-his-time-on-star-trek-felt-like-a-ministry ) |
+| [Patrick Stewart's Love Of A Classic Mystery Writer Led To Several Classic Star Trek Episodes](https://www.slashfilm.com/1438645/patrick-stewart-raymond-chandler-classic-star-trek-episodes/ ) |
+| [Picard's Patrick Stewart Endorses a Star Wars/Star Trek Crossover](https://www.cbr.com/star-wars-star-trek-patrick-stewart-wants-crossover/ ) |
+| [Review: The Autobiography of Benjamin Sisko – Trek Central](https://trekcentral.net/review-the-autobiography-of-benjamin-sisko/ ) |
+| [Section 31 Is A Perfect Way For A Missing Star Trek: Picard Character To Return](https://screenrant.com/star-trek-section-31-soji-perfect-recruit/ ) |
+| [Spock Admits He's Dedicated His Life to Being the Anti-Captain Kirk](https://screenrant.com/spock-the-anti-captain-kirk-heres-why/ ) |
+| [Spock Admits the Real Reason He Refused to Become a Captain After Kirk's Death](https://screenrant.com/star-trek-why-spock-never-became-captain/ ) |
+| [Spock Finally Gets a First Name in Star Trek Canon](https://www.cbr.com/spock-first-name-star-trek-canon/ ) |
+| [Star Trek 4 Gets Frustrating Update From Chris Pine](https://www.cbr.com/star-trek-4-latest-update-chris-pine-disappointing/ ) |
+| [Star Trek 4: Kirk Thatcher on Leonard Nimoy & Writing Scotty’s Computer Joke](https://collider.com/star-trek-4-kirk-thatcher-interview/ ) |
+| [Star Trek Calls Out How Starfleet’s Wars Betray Its True Purpose](https://screenrant.com/star-trek-lower-decks-starfleet-wars-betray-purpose/ ) |
+| [Star Trek Can't Draw Marvel-Size Crowds to Theaters, So How Can It Survive?](https://www.cbr.com/star-trek-movies-survival-marvel/ ) |
+| [Star Trek Could Easily Resurrect William Shatner’s Kirk (But It Won’t Work)](https://screenrant.com/star-trek-kirk-resurrection-genesis-device-wont-work/ ) |
+| [Star Trek Fans Launch New Campaign For Picard’s Legacy Spinoff](https://screenrant.com/star-trek-legacy-fans-new-campaign-spinoff-greenlight/ ) |
+| [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) |
+| [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
+| [Star Trek Has A New Scotty (Besides Strange New Worlds’ Young Engineer)](https://screenrant.com/star-trek-lower-decks-billups-joke-new-scotty/ ) |
+| [Star Trek Is Over For 2023 - Now What?](https://screenrant.com/star-trek-lower-decks-end-2023-next-year/ ) |
+| [Star Trek Just Confirmed Spock's Starfleet Rank Is Basically A Lie](https://screenrant.com/star-trek-spock-starfleet-rank-lie/ ) |
+| [Star Trek Never Told The Borg Queen’s Origin & That’s Good](https://screenrant.com/star-trek-never-told-the-borg-queens-origin-thats-good/ ) |
+| [Star Trek Passed On William Shatner's Kirk Resurrection Movie Idea](https://screenrant.com/star-trek-william-shatner-kirk-resurrection-first-contact/ ) |
+| [Star Trek Writer Starts Worf's Bounty Hunting Career With A Bang](https://www.cbr.com/star-trek-defiant-10-christopher-cantwell-interview/ ) |
+| [Star Trek's 10 Greatest One-Off Characters](https://www.cbr.com/star-trek-best-one-off-characters/ ) |
+| [Star Trek's Best One-off Characters](https://www.cbr.com/star-trek-best-one-off-characters/ ) |
+| [Star Trek's Best Trial Episodes, Ranked](https://www.cbr.com/star-trek-best-trial-episodes-ranked/ ) |
+| [Star Trek's Kelvin Timeline Accomplished a Major Starfleet First](https://screenrant.com/star-trek-kelvin-first-romulan-starfleet/ ) |
+| [Star Trek's Patrick Stewart Still Owns A Hilarious Prank Created By Data Himself](https://www.slashfilm.com/1435221/star-trek-patrick-stewart-owns-hilarious-prank-created-by-brent-spiner/ ) |
+| [Star Trek's Rebecca Romijn Shares a Heartwarming Father-in-Law Story](https://www.cbr.com/star-trek-rebecca-romijn-heartwarming-photo/ ) |
+| [Star Trek's Zoe Saldana Pays Tribute To Original Uhura Actor, Nichelle Nichols](https://www.cbr.com/star-trek-zoe-saldana-nichelle-nichols-death/ ) |
+| [Star Trek: 10 Best Captain Pike Quotes](https://www.cbr.com/star-trek-best-captain-christopher-pike-quotes/ ) |
+| [Star Trek: 10 Best Christopher Pike Quotes](https://www.cbr.com/star-trek-best-captain-christopher-pike-quotes/ ) |
+| [Star Trek: 8 Best Criminal Characters, Ranked](https://gamerant.com/star-trek-best-criminal-characters/ ) |
+| [Star Trek: All 8 main captains ranked from worst to best - Page 9](https://bamsmackpow.com/2023/11/04/best-star-trek-captains-ranked/ ) |
+| [Star Trek: Best Gamma Quadrant Civilizations](https://gamerant.com/best-star-trek-gamma-quadrant-civilizations/ ) |
+| [Star Trek: Best Holodeck Creations Ever](https://gamerant.com/star-trek-best-holodeck-creations/ ) |
+| [Star Trek: Captain Okona's Actor Nearly Played Commander Riker](https://www.cbr.com/star-trek-captain-okona-han-solo-riker/ ) |
+| [Star Trek: Commander Riker Trivia](https://gamerant.com/star-trek-commander-riker-facts-lore-trivia/ ) |
+| [Star Trek: Debunking The Red Shirt Myth](https://gamerant.com/star-trek-debunking-red-shirt-myth/ ) |
+| [Star Trek: Destroyed Starships](https://gamerant.com/star-trek-destroyed-starships/ ) |
+| [Star Trek: Exploring Klingon’s Unique Warp Technology](https://gamerant.com/star-trek-klingon-unique-warp-technology/ ) |
+| [Star Trek: Exploring Lieutenant Richard Castillo’s Heroic Sacrifice](https://gamerant.com/star-trek-exploring-lieutenant-richard-castillos-heroic-sacrifice/ ) |
+| [Star Trek: Exploring The Forgotten Environmental Plotline](https://gamerant.com/star-trek-forgotten-environmental-plotline/ ) |
+| [Star Trek: Exploring The Galaxy Wide Demand For Borg Parts](https://gamerant.com/star-trek-exploring-demand-for-borg-parts/ ) |
+| [Star Trek: Exploring The Klingon Philosophy Of Death](https://gamerant.com/star-trek-exploring-klingon-philosophy-of-death/ ) |
+| [Star Trek: Exploring The Strange Origin Of Ferengi Headgear](https://gamerant.com/star-trek-origin-ferengi-headgear/ ) |
+| [Star Trek: Exploring The Wild And Wonderful World Of Klingon Cuisine](https://gamerant.com/star-trek-exploring-wild-wonderful-klingon-cuisine/ ) |
+| [Star Trek: First Contact was almost a 15th century tale](https://redshirtsalwaysdie.com/2022/02/19/star-trek-first-contact-was-almost-a-15th-century-tale/ ) |
+| [Star Trek: Geordi LaForge Trivia](https://gamerant.com/star-trek-geordi-laforge-facts-lore-trivia/ ) |
+| [Star Trek: How Captain Kirk Died (& Why It Was Controversial)](https://www.cbr.com/star-trek-captain-kirk-died-controversy/ ) |
+| [Star Trek: Humanity Was a Vulcan Pet Project for Centuries](https://www.cbr.com/star-trek-humanity-vulcan-pet-project/ ) |
+| [Star Trek: Insurrection Had Data’s Weirdest Power That’s Been Wisely Forgotten](https://screenrant.com/star-trek-insurrection-data-floation-device-forgotten/ ) |
+| [Star Trek: Just How Old Is The United Federation Of Planets?](https://www.cbr.com/star-trek-how-old-is-federation/ ) |
+| [Star Trek: Legacy & Prodigy Crossover? Executive Producer Hints It's Possible](https://screenrant.com/star-trek-prodigy-characters-appear-legacy-possible/ ) |
+| [Star Trek: Lower Decks Announces S3 Debut Date With Search For Spock-Inspired Key Art](https://www.cbr.com/star-trek-lower-decks-season-3-premiere-date-paramount/ ) |
+| [Star Trek: Lower Decks Cast Guide - Who Voices Each Character In All 4 Seasons](https://screenrant.com/star-trek-lower-decks-cast-character-voices-guide/ ) |
+| [Star Trek: Most Important Moments In Starfleet History](https://gamerant.com/star-trek-most-important-moments-starfleet-history/ ) |
+| [Star Trek: Rod Roddenberry Honors His Mother Majel Barrett's Legacy](https://www.cbr.com/star-trek-rod-roddenberry-interview/ ) |
+| [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ ) |
+| [‘Star Trek: Section 31’ Movie Reportedly Prepping For Production – TrekMovie.com](https://trekmovie.com/2023/11/16/star-trek-section-31-movie-reportedly-prepping-for-production/ ) |
+| [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh) |
+| [Star Trek: Starfleet Had A Forgotten Klingon Officer BEFORE Worf](https://www.cbr.com/star-trek-konom-starfleet-klingon-before-worf/ ) |
+| [Star Trek: Strange New Worlds Confirms A Major Wrath Of Khan Connection](https://www.cbr.com/star-trek-strange-new-world-connection-wrath-of-khan-link/ ) |
+| [Star Trek: The Borg Assimilated Species 8472 in One Timeline](https://www.cbr.com/star-trek-borg-assimilate-species-8472/ ) |
+| [Star Trek: The Fan Backlash To The J.J. Abrams Films Explaine](https://gamerant.com/star-trek-fan-backlash-jj-abrams-films-explained/ ) |
+| [Star Trek: The Last Minute Rewrite That Completely Changed The Series](https://gamerant.com/star-trek-rewrite-changed-series/ ) |
+| [Star Trek: The Most Interesting Planets In The Franchise](https://gamerant.com/star-trek-most-interesting-planets/ ) |
+| [Star Trek: The Motion Picture Is the Most Important Director's Cut](https://www.cbr.com/star-trek-motion-picture-directors-cut-importance/ ) |
+| [Star Trek: The Vorta, Explained](https://gamerant.com/star-trek-vorta-explained/ ) |
+| [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
+| [Star Trek: Unexplained Anomalies In The Delta Quadrant](https://gamerant.com/star-trek-unexplained-anomalies-delta-quadrant/ ) |
+| [Star Trek: Unluckiest Characters](https://gamerant.com/star-trek-unluckiest-characters/ ) |
+| [Star Trek: Warp Travel Trivia](https://gamerant.com/star-trek-warp-travel-facts-lore-trivia/ ) |
+| [Star Trek: Was Spock Almost on the Grassy Knoll for JFK’s Assassination?](https://www.cbr.com/star-trek-was-spock-almost-on-the-grassy-knoll-for-jfks-assassination/ ) |
+| [Star Trek: What Are The Origins of the Borg?](https://gamerant.com/star-trek-origins-borg-explained/ ) |
+| [Star Trek: What Is Dilithium?](https://gamerant.com/star-trek-what-is-dilithium-explained/ ) |
+| [Star Trek: What Is Section 31?](https://gamerant.com/star-trek-what-is-section-31/ ) |
+| [Star Trek: What Would Happen If The Borg Could Assimilate A Q?](https://gamerant.com/star-trek-what-would-happen-borg-assimilate-q/ ) |
+| [Star Trek: When Traveling At Warp, How Do Ships Avoid Collisions?](https://gamerant.com/star-trek-warp-ships-avoid-collisions/ ) |
+| [Star Trek: Who Are The Betazoids?](https://gamerant.com/star-trek-who-are-betazoids-explained/ ) |
+| [Star Trek: Who Was Captain Jellico, And Why Does Everyone Hate Him?](https://gamerant.com/star-trek-who-was-captain-jellico-and-why-does-everyone-hate-him/ ) |
+| [Star Trek: Who Was Dr. Pulaski, And Why Did Fans Hate Her?](https://gamerant.com/star-trek-dr-pulaski-why-fans-hate-her/ ) |
+| [Star Trek: Who Was Lal?](https://gamerant.com/star-trek-who-was-lal/ ) |
+| [Star Trek: Who Was Wesley Crusher’s Father?](https://gamerant.com/star-trek-who-wesley-crusher-father/ ) |
+| [Star Trek: Who is Commander Pelia?](https://gamerant.com/star-trek-who-is-commander-pelia/ ) |
+| [Star Trek: Why Are The Klingons So Afraid Of Tribbles?](https://gamerant.com/star-trek-why-klingons-afraid-tribbles/ ) |
+| [Star Trek: Why Did The War Between Klingons And The Federation End?](https://gamerant.com/star-trek-why-war-klingon-federation-end/ ) |
+| [Star Trek: Why Is Seven Of Nine Still Considered Predominantly Borg?](https://gamerant.com/star-trek-seven-of-nine-still-considered-borg/ ) |
+| [Star Trek: Why NBC Rejected The Show's ORIGINAL Pilot](https://www.cbr.com/star-trek-why-nbc-rejected-cage/ ) |
+| [Star Trek: Why Was The Kolvoord Starburst Banned?](https://gamerant.com/star-trek-why-was-kolvoord-starburst-banned-explained/ ) |
+| [Star Trek: Will Riker's Entire Character Timeline Explained](https://screenrant.com/star-trek-will-riker-complete-character-timeline/ ) |
+| [Star Trek: Worst Planets To Live On](https://gamerant.com/star-trek-worst-planets-to-live-on/ ) |
+| [Star Trek’s Translator Technology, Explained](https://gamerant.com/star-trek-translator-technology-explained/ ) |
+| [Starfleet Academy Series Is "A New Side of Star Trek," Says Tawny Newsome](https://screenrant.com/tawny-newsome-starfleet-academy-new-side-star-trek/ ) |
+| [Synthehol: Star Trek's Sci-Fi Take on Alcohol, Explained](https://www.cbr.com/star-trek-synthehol-fake-alcohol-explained/ ) |
+| [Tawny Newsome Says ‘Starfleet Academy’ Will Appeal To Star Trek Fans Thanks To “Canon Cops” In Writers’ Room – TrekMovie.com](https://trekmovie.com/2023/11/22/tawny-newsome-says-starfleet-academy-will-appeal-to-star-trek-fans-thanks-to-canon-cops-in-writers-room/ ) |
+| [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ ) |
+| [The "Bad Way" Wrath Of Khan Changed Star Trek Movies, Says First Contact Writer](https://screenrant.com/star-trek-wrath-khan-bad-movie-impact/ ) |
+| [The Episode That Changed Dr. Beverly Crusher ](https://gamerant.com/star-trek-episode-changed-dr-beverly-crusher-remember-me/ ) |
+| [The Good, the Bad, and the Spectacularly Nerdy — Star Trek: Lower Decks Fourth Season Overview / Tor\.com](https://www.tor.com/2023/11/16/the-good-the-bad-and-the-spectacularly-nerdy-star-trek-lower-decks-fourth-season-overview/ ) |
+| [Things You Didn’t Know About The Trill](https://gamerant.com/star-trek-trill-facts-trivia-lore/ ) |
+| [This Rejected Star Trek Pilot Still Ended Up in the Show](https://collider.com/star-trek-the-cage-episode/ ) |
+| [Time Time Is Right For a Doctor Who and Star Trek Crossover](https://www.cbr.com/russell-t-davies-doctor-who-star-trek-crossover/ ) |
+| [What Are The Limitations Of Replicator Technology?](https://gamerant.com/star-trek-limitations-replicator-technology/ ) |
+| [What Happened Between Star Trek: The Motion Picture and Wrath of Khan?](https://www.cbr.com/events-between-star-trek-motion-picture-wrath-of-khan-explained/ ) |
+| [What Is A Star-date?](https://gamerant.com/star-trek-what-is-a-star-date/ ) |
+| [What Patrick Stewart says is next for ‘Star Trek’ - Deseret News](https://www.deseret.com/entertainment/2023/11/27/23977947/patrick-stewart-memoir ) |
+| [What will happen to the legacy characters without Star Trek: Legacy?](https://redshirtsalwaysdie.com/2023/05/11/what-will-happen-to-the-legacy-characters-without-star-trek-legacy/ ) |
+| [What's Next For Star Trek Now That The Actors' Strike Is Over](https://screenrant.com/star-trek-shows-movies-production-update-strike-over/ ) |
+| [Who Are The Most Advanced Species?](https://gamerant.com/star-trek-most-advanced-species/ ) |
+| [Why Saavik Was Star Trek VI's Most Heartbreaking Villain](https://www.cbr.com/saavik-star-trek-6-tragic-villain/ ) |
+| [Why Star Trek Ships' Maintenance Corridors Are Called Jefferies Tubes](https://www.cbr.com/jeffries-tubes-explained-star-trek/ ) |
+| [Why Was Star Trek: The Original Series Was Canceled?](https://www.cbr.com/why-star-trek-was-originally-canceled/ ) |
+| [Will Star Trek's Paul Wesley Be a Better Kirk Than Chris Pine?](https://www.cbr.com/star-trek-paul-wesley-better-kirk-chris-pine/ ) |
+| [William Shatner Has One Demand for a Star Trek Return](https://www.cbr.com/star-trek-william-shatner-kirk-return-demand/ ) |
+| [William Shatner Was “A Pleasure” In Star Trek Generations, Despite Patrick Stewart’s Early “Disappointment”](https://screenrant.com/william-shatner-star-trek-generations-pleasure-patrick-stewart/ ) |
+| [Worf’s Son Gets A Deep Cut Star Trek Easter Egg In Lower Decks Season 4 Episode 9](https://screenrant.com/star-trek-lower-decks-worf-son-easter-egg/ ) |
+| [Wrath of Khan Director Slams J.J. Abrams' Star Trek Into Darkness Remake](https://screenrant.com/star-trek-khan-director-jj-abrams-into-darkness/ ) |
 
 ## Star Trek Food Recipes 
 
