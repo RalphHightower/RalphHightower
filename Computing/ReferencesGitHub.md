@@ -152,14 +152,12 @@
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi) | Raspberry  Pi |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
+| [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V Administrative Materials](https://github.com/riscv-admin ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V Android](https://github.com/riscv-android-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V](https://github.com/riscv) | The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — ISA Specifications](https://github.com/riscv-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Non-ISA Specifications](https://github.com/riscv-non-isa) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Upstreaming](https://github.com/riscv-collab) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Android](https://github.com/riscv-android-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [RISC-V — Administrative Docs](https://github.com/riscv-admin) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V Non-ISA Specifications](https://github.com/riscv-non-isa ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V Software](https://github.com/riscv-software-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
