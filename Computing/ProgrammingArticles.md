@@ -2,7 +2,13 @@
 
 ## Programing Articles 
 
-### C# .NET
+### C# .Net
+
+#### C#.Net Programing Articles 
+
+| C# .Net Programing Articles |
+|---|
+| [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 
 #### Application Tech Stack[^1]
 
@@ -60,7 +66,6 @@ Docker
 | Programing Articles |
 |---|
 | **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
-| [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
 | [TRIZ - A Powerful Methodology for Creative Problem Solving](https://www.mindtools.com/amtcc5f/triz ) |
@@ -71,14 +76,11 @@ Docker
 | [Introduction to GitOps - CodeProject](https://www.codeproject.com/Articles/5334970/Introduction-to-GitOps ) |
 | [GitOps with Terraform and GitHub - CodeProject](https://www.codeproject.com/Articles/5334971/GitOps-with-Terraform-and-GitHub ) |
 | [GitOps Provisioning with GitHub Actions - CodeProject](https://www.codeproject.com/Articles/5334972/GitOps-with-Azure-Terraform-and-GitHub-Part-3-GitO ) |
-| [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 | [Enginursday: GitHub API Introduction - News - SparkFun Electronics](https://www.sparkfun.com/news/1913 ) |
 | [Code Review: A Developer's Checklist](https://www.codemotion.com/magazine/backend/code-review-checklist-for-developers/ ) |
 | [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
 | [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
 | [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
-| [How to Scrap LinkedIn Company Data using Voyager Api - LearnHub](https://blog.learnhub.africa/2023/08/29/how-to-scrap-linkedin-company-data-using-voyager-api/ ) |
-| [Mathematicians Crack a Century-Old Problem That's Perfect For Your Next Party : ScienceAlert](https://www.sciencealert.com/mathematicians-crack-a-century-old-problem-thats-perfect-for-your-next-party ) |
 | [Automate your configuration with observability as code - DEV Community](https://newrelic.com/blog/how-to-relic/examples-observability-as-code-part-one? ) |
 | [Why I Prefer Trunk-Based Development / Koen van Gilst](https://koenvangilst.nl/blog/trunkbased-development ) |
 
