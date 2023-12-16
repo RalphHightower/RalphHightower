@@ -155,6 +155,7 @@ Expansion options
 | [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) |
 | [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
+| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
 
 ## Milk-V Pioneer 
 
