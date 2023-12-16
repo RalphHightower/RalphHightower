@@ -171,3 +171,9 @@
 | [Where are All the Double Planets? - Universe Today](https://www.universetoday.com/164456/where-are-all-the-double-planets/ ) |
 | [Wild New Study Suggests We Could Use Tiny Black Holes as Sources of Nuclear Power : ScienceAlert](https://www.sciencealert.com/wild-new-study-suggests-we-could-use-tiny-black-holes-as-sources-of-nuclear-power ) |
 | [Zhurong rover detects mysterious polygons beneath the surface of Mars](https://phys.org/news/2023-11-zhurong-rover-mysterious-polygons-beneath.html ) |
+| [ISS Astronaut Captures Image of Rare Thunder Sprite from Space / SYFY WIRE](https://www.syfy.com/syfy-wire/iss-astronaut-captures-image-of-rare-thunder-sprite-from-space ) |
+| [Daily Telescope: One of the most stunning Andromeda photos I’ve ever seen / Ars Technica](https://arstechnica.com/space/2023/12/daily-telescope-one-of-the-most-stunning-andromeda-photos-ive-ever-seen/ ) |
+| [Life might have been possible just seconds after the Big Bang / Space](https://www.space.com/life-possible-seconds-after-big-bang ) |
+| [Exploring the Universe with ZWO Astronomy Cameras](https://ts2.space/en/exploring-the-universe-with-zwo-astronomy-cameras/ ) |
+| [James Webb Space Telescope could soon solve mysteries of the Milky Way's heart / Space](https://www.space.com/james-webb-space-telescope-milky-way-heart-mystery ) |
+
