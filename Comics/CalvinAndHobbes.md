@@ -12,3 +12,5 @@
 | [15 Times Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/ ) |
 | [Greatest Calvin & Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/ ) |
 | [Best Calvin's Mom Strips In Calvin & Hobbes, Ranked](https://www.cbr.com/calvin-and-hobbs-mom-comic-strips-ranked/ ) |
+| [10 Best Calvin and Hobbes Comics Set In A Winter Wonderland](https://www.cbr.com/calvin-and-hobbes-best-winter-wonderland-comics/ ) |
+| [15 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/ ) |
