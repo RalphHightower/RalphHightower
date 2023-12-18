@@ -134,7 +134,7 @@
 | [nginx](https://github.com/nginx ) | |
 | [NVIDIA Corporation](https://github.com/NVIDIA) | NVIDIA  |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
-| [Octokit](https://github.com/octokit ) | |
+| [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
