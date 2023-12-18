@@ -23,6 +23,7 @@
 | [Canon Announces the RF 24-105mm f/2.8 L IS USM Z Lens / Fstoppers](https://fstoppers.com/gear/canon-announces-rf-24-105mm-f28-l-usm-z-lens-647035 ) |
 | [Big Results. Small Price Tag. Canon RF 15-30mm F4.5-6.3 Review](https://www.thephoblographer.com/2023/01/20/big-results-small-price-tag-canon-rf-15-30mm-f4-5-6-3-review/ ) |
 | [The RF 24-105mm f/2.8L IS USM Z won't be the last RF PowerZoom lens](https://www.canonrumors.com/the-rf-24-105mm-f-2-8l-is-usm-z-wont-be-the-last-rf-powerzoom-lens/ ) |
+| [Do Canon's old EF lenses limit new EOS R mirrorless cameras? / Digital Camera World](https://www.digitalcameraworld.com/tutorials/do-canons-old-ef-lenses-limit-new-mirrorless-eos-r-series-cameras ) |
 
 | Canon RF Lens — [The Best Lenses for Canon's RF Mount / PetaPixel](https://petapixel.com/best-canon-rf-lenses/ )[^11] |
 |----|
