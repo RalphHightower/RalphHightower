@@ -9,8 +9,8 @@
 | [Star Trek: Deep Space Nine](https://www.startrek.com/shows/star-trek-deep-space-nine ) | (1993–1999) | Benjamin Sisko |
 | [Star Trek: Voyager](https://www.startrek.com/shows/star-trek-voyager ) | (1995–2001) | Kathryn Janeway |
 | [Star Trek: Enterprise](https://www.startrek.com/shows/star-trek-enterprise ) | (2001–2005) | Johnathan Archer |
-| [Star Trek: Discovery](https://www.startrek.com/shows/star-trek-discovery ) | 2017–present |   |
-| [Star Trek: Picard](https://www.startrek.com/shows/star-trek-picard) | (2020–present) |  |
+| [Star Trek: Discovery](https://www.startrek.com/shows/star-trek-discovery ) | 2017–2023 |   |
+| [Star Trek: Picard](https://www.startrek.com/shows/star-trek-picard)[^30] | (2020–2023) |  |
 | [Star Trek: Strange New Worlds](https://www.startrek.com/shows/star-trek-strange-new-worlds ) | (2022–present) | Christopher Pike |
 | [Star Trek: The Animated Series](https://www.startrek.com/shows/star-trek-the-animated-series ) | (1973–1974) | James Kirk |
 | [Star Trek: Lower Decks](https://www.startrek.com/shows/star-trek-lower-decks ) | (2020–present) |  |
@@ -30,6 +30,7 @@
 [^27]: [Jonathan Frakes Has The Receipts Of Success To Get Star Trek: Legacy Rolling](https://www.slashfilm.com/1355759/jonathan-frakes-has-receipts-success-get-star-trek-legacy-rolling/ )
 [^28]: [Picard Season 3’s Secret Weapon Is The Key To Star Trek: Legacy](https://screenrant.com/star-trek-picard-secret-weapon-legacy-key/ )
 [^29]: A Star Trek: Worf? Make it so! [A Star Trek: Worf spinoff needs to include an exploration of identity](https://redshirtsalwaysdie.com/2023/06/01/what-the-worf-spinoff-needs-to-include/ )
+[^30]: [“Crusher Was Right”: Gates McFadden Is Proud Of Beverly In Star Trek: Picard Season 3](https://screenrant.com/star-trek-picard-gates-mcfadden-beverly-crusher-right/ 
 
 ## [Star Trek Movies](https://www.startrek.com/)
 
@@ -54,6 +55,7 @@
 [^32]: [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ )
 [^33]: [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ )
 [^34]: [Section 31: Michelle Yeoh's Star Trek Movie Sets Filming Start Date](https://www.cbr.com/star-trek-section-31-michelle-yeoh-movie-filming-start-date/ )
+[^35]: [Michelle Yeoh Talks Prepping For ‘Star Trek: Section 31’ Movie – TrekMovie.com](https://trekmovie.com/2023/12/19/michelle-yeoh-talks-prepping-for-star-trek-section-31-movie/ )
 
 ## Articles 
 
@@ -107,7 +109,6 @@
 | [Jonathan Frakes Is Patrick Stewart's "First Choice" & Favorite Star Trek Director](https://screenrant.com/jonathan-frakes-patrick-stewart-favorite-star-trek-director/ ) |
 | [Patrick Stewart Realized Next Gen Was A Big Deal During A Hilarious Star Trek Fan Encounter](https://www.slashfilm.com/1426072/patrick-stewart-next-generation-big-deal-hilarious-star-trek-fan-encounter/ ) |
 | [Watch: Kate Mulgrew Visits The Captain Janeway Monument In Bloomington, Indiana – TrekMovie.com](https://trekmovie.com/2022/10/23/watch-kate-mulgrew-visits-the-janeway-monument-in-bloomington-indiana/ ) |
-| [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
 | [Kate Mulgrew Reveals The Conditions She Gave Alex Kurtzman For A Return As Live-Action Janeway – TrekMovie.com](https://trekmovie.com/2022/10/28/kate-mulgrew-reveals-the-conditions-she-gave-alex-kurtzman-for-a-return-as-live-action-janeway/ ) |
 | [Star Trek Picard: Ways Seven Of Nine Changed Since Voyager](http://gamerant.com/star-trek-picard-seven-of-nine-different-voyager/ ) |
 | [Star Trek: How Was Warp Achieved When Dilithium Is Not Found On Earth?](https://gamerant.com/star-trek-warp-dilithium-earth-discovery-plot-hole/ ) |
@@ -259,7 +260,7 @@
 | *"Goodbye."* |
 |Goodbye! If you have any more questions in the future, don't hesitate to ask. Live long and prosper!|
 
-## ChatGPT](https://chat.openai.com/) Haikus — Star Trek 
+## [ChatGPT](https://chat.openai.com/) Haikus — Star Trek 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
 |---|
