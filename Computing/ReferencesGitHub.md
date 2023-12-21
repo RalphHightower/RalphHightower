@@ -64,7 +64,7 @@
 | Companies on GitHub | Description |
 |---------------------|-------------|
 | [Adobe, Inc.](https://github.com/adobe) | Open source from Adobe |
-| [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
+| [AvaloniaUI](https://github.com/AvaloniaUI ) |A cross-platform UI framework for .NET providing a flexible styling system and supporting Windows, Linux, macOS, iOS, Android and Browser. |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | AI4Finance Foundation — An open-source community sharing AI tools for finance.|
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 | [Amazon Web Services](https://github.com/aws ) | |
@@ -100,10 +100,12 @@
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FireflyTeam](https://github.com/FireflyTeam ) | Firefly open source development team. |
+| [Future Corp future-architect](https://github.com/future-architect ) | Future's official open source repositories |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Freescale](https://github.com/Freescale) | |
 | [Garmin International](https://github.com/garmin) | Garmin International  |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
+| [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
 | [Google DeepMind](https://github.com/google-deepmind ) | |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
@@ -121,9 +123,11 @@
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
 | [Kubernetes](https://github.com/kubernetes/) | Kubernetes |
 | [LinkedIn](https://github.com/linkedin) | LinkedIn |
+| [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
 | [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux ) | Torvalds Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [Mastercard](https://github.com/Mastercard ) | |
+| [Mercedes-Benz Group mercedes-benz](https://github.com/mercedes-benz ) | Central github.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
 | [Meta Research](https://github.com/facebookresearch ) | |
 | [Microsoft](https://github.com/microsoft) | Open source projects and samples from Microsoft |
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
@@ -138,7 +142,7 @@
 | [OPC Foundation](https://github.com/OPCFoundation) | OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard. |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
-| [opencv](https://github.com/opencv/opencv ) | Computer Vision |
+| [OpenCV](https://github.com/opencv ) | Computer Vision |
 | [openldap/openldap: Mirror of OpenLDAP repository](https://github.com/openldap/openldap ) | Lightweight Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [openssl/openssl: TLS/SSL and crypto library](https://github.com/openssl/openssl ) | Secure Sockets Layer |
@@ -179,7 +183,7 @@
 | [Unicorn Engine](https://github.com/unicorn-engine) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
-| [Verizon](https://github.com/Verizon ) | |
+| [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows |
