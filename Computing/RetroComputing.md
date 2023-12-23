@@ -5,6 +5,7 @@
 | CPU |
 |---|
 | [Swiss Physicist’s “Big Hack” for Intel 4004’s 52nd Anniversary](https://4004.com/hackaday23/ ) |
+| [The Rise and Decline of Silicon Art - News](https://www.allaboutcircuits.com/news/the-rise-and-decline-of-silicon-art/ ) |
 
 ## Commodore 64
 
