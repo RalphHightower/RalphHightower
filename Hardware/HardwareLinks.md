@@ -63,6 +63,7 @@
 | [102110898 BeagleBoard by Seeed Studio / Development Boards, Kits, Programmers / DigiKey](https://www.digikey.com/en/products/detail/beagleboard-by-seeed-studio/102110898/21706497 ) | $170.67 |
 | [BeagleBone® AI-64 - BeagleBoard](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
 | [BeagleBone® AI-64](https://www.beagleboard.org/boards/beaglebone-ai-64 ) |
+| [BeagleV®-Ahead - BeagleBoard](https://www.beagleboard.org/boards/beaglev-ahead ) | (H/W) |
 | [BIGTREETECH CB1 – A Raspberry Pi CM4 compatible Allwinner H616 system-on-module](https://www.cnx-software.com/2022/10/20/bigtreetech-cb1-a-raspberry-pi-cm4-compatible-allwinner-h616-system-on-module/) | (H/W) |
 | [CANFDuino — The best platform for open source, CAN-bus Arduino projects](https://www.crowdsupply.com/togglebit/canfduino) | (H/W) $125 |
 | [Chipsee 10.1" Industrial Panel PC](https://chipsee.com/product/ppc-cm4-101/)| (H/W)|
@@ -162,6 +163,7 @@
 | [Cluster Box / Mixtile](https://www.mixtile.com/store/accessory/cluster-box/ ) |
 | **[Blade 3 / Mixtile](https://www.mixtile.com/store/sbc/blade-3/ )** | **(H/W) $399.00 16GB** |
 | **[Mixtile Core 3588E / Mixtile](https://www.mixtile.com/core-3588e/ )** | (H/W) 16GB |
+| **[Mixtile Blade 3](https://www.mixtile.com/store/sbc/blade-3/ )** | **(H/W) $369.00** |
 | [MS-98M3 3.5" SBC with Intel® Tiger Lake-UP3 for Fanless, Ultra Low-Power, High-Performance & Wide Temperature Solution](https://ipc.msi.com/product_detail/Single-Board-Computer/3.5%22-SBC/MS-98M3) | (H/W) |
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
 | [NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W: $119) |
@@ -194,6 +196,15 @@
 | **[Orange Pi 5B 32GB RK3588S with 256GB eMMC 8 Core 64 Bit WiFi 6,Bluetooth 5.0 Single Board Computer, Support 8K Video Codec AI Accelerator NPU Run Orange Pi OS, Android, Debian \(OPi 5B 32G/256G+Supply\)](https://a.co/d/aPu6p70)** | **(H/W) ** |
 | **[Orange Pi 5 Plus 32G RAM Single Board Computer RK3588 PCIE Module External WiFi-BT Orange Pi5 Plus Development Board Pre-sale - AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | (H/PW) **$179.00 32 GB** |
 | **Orange Pi Compute Module 4 8GB+64GB, Rockchip RK3566 Quad-Core 64-Bit Single Board Compute, Orange Pi CM4 8GB RAM 64GB eMMC, Support 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM48G64G+WiFi)** | **[$53.99 8GB/64GB](https://a.co/d/e5TEyWP)** |
+| **[Orange Pi - Orangepi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-plus.html )** | (H/W) |
+| **[Orange Pi 5 Plus 16G with 256GB eMMC Module RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian,Ubuntu \(OPi 5 Plus 16G+256GB eMMC+TC Supply\) : Electronics - Amazon](https://www.amazon.com/Orange-Pi-Computer-Frequency-Android/dp/B0C9HWHZ88 )** | **(H/W) $168.99** |
+| **[Orange Pi 5 Plus 16G with 256GB eMMC Module RK3588 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian,Ubuntu (OPi 5 Plus 16G+256GB eMMC+TC Supply) : Electronics](https://www.amazon.com/Orange-Pi-Computer-Frequency-Android/dp/B0C9HWHZ88 )** | **Amazon\.com: (H/W) $168.99 16GB/256GB** |
+| **[Orange Pi 5 Plus 32GB RAM Single Board Computer RK3588 PCIE Module External WiFi-BT SSD M2.0 Orange Pi5 Plus Development Board — AliExpress](https://www.aliexpress.com/item/3256805900265337.html )** | **$189.00 ($270.00) -30% 32GB** |
+| **[Orange Pi 5 Plus 32GB LPDDR4/4x Rockchip RK3588 8-Core 64-Bit Single Board Computer with eMMC Socket, Development Board Run Orange Pi/Ubuntu/Debian/Android 12 OS (Pi 5 Plus 32G)](https://a.co/d/2MZQTXO)** | **(H/W) [Amazom](https://a.co/d/2MZQTX)** |
+| **[Orange Pi 5 Plus 32GB LPDDR4/4x Rockchip RK3588 8-Core 64-Bit Single Board Computer with eMMC Socket, Development Board Run Orange Pi/Ubuntu/Debian/Android 12 OS (Pi 5 Plus 32G)](https://a.co/d/2MZQTXO)** | **(H/W) $N/A 32GB** |
+| **[Orange Pi 5 Plus 32GB RAM Single Board Computer RK3588 PCIE Module External WiFi-BT SSD M2.0 Orange Pi5 Plus Development Board](https://www.aliexpress.com/item/3256805900265337.html )** |  **[AliExpress](https://www.aliexpress.com/item/3256805900265337.html ) 32GB $189.00 ($270.00) -30%** |
+| **[Orange Pi 5 Plus 32GB RK3588 2.4G Dual Ethernet Ports PCIE Computer Run Android Ubuntu Debian Development Single Board Pre-sale](https://www.aliexpress.com/item/3256805934276164.html )** | **(H/W) [AliExpress](https://www.aliexpress.com/item/3256805934276164.html ) 32GB** |
+| **[Orange Pi 5 32GB Rockchip RK3588S 8 Core 64 Bit Single Board Computer, 2.4GHz Frequency Support 8K Video Codec AI Accelerator NPU Board Run Orange Pi OS, Android, Debian (Pi 5 32G+5V4A Supply+Case)](https://www.amazon.com/dp/B0CJY36PNW/ref=sspa_dk_detail_0?pd_rd_i=B0CJY36PNW&pd_rd_w=NolOk&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=3QNK0C009KGWGEZZXVF1&pd_rd_wg=ThtQt&pd_rd_r=77b45c78-2f2a-41a6-bb41-f327e6453e95&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1 )** | **(H/W) 32GB $220.99** |
 | **[Orolia Atomic Reference Time (ART) Card](https://www.orolia.com/about-the-atomic-reference-time-card-art-card/)** | (H/W) |
 | [Particle.io — Monitor One LTE CAT-M1 (NorAm, EtherSIM)](https://store.particle.io/collections/gateways/products/monitor-one ) | (H/W) $289.00 |
 | [PiBox](https://pibox.io/) 2 slot SSD | (H/W) |
@@ -256,6 +267,7 @@
 | [Tungsten700 SMARC](https://www.lairdconnect.com/product/tungsten700-smarc ) | (H/W) |
 | [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | (H/W) |
 | **[youyeetoo YY3568 RockChip RK3568 Development Board Dual Gigabit Ethernet Expandable SATA / SSD Supports Android 11 / Debian10 - AliExpress](https://www.aliexpress.com/item/3256804953233950.html )** | **$267.28 8GB/64GB w/ WiFi** |
+| **[TQ Embedded Single Board Computer MBa8MP-RAS314](https://www.tq-group.com/en/products/tq-embedded/arm-architecture/mba8mp-ras314/ )** | **(H/W) 8GB** |
 | **[Youyeetoo YY3568 Open-Source Developer Kit Rockchip RK3568 Soc Support Android11.0, Debian10.0 and OpenHarmony OS, 64-bit AI Mainboard for Face Recognition Prototyping \(Starter Kit 8GB RAM\)](https://a.co/d/bpsKnor)** | [**8GB $94.99**](https://a.co/d/bpsKnor) |
 | [Useful Sensors: AI in a Box / Crowd Supply](https://www.crowdsupply.com/useful-sensors/ai-in-a-box/ ) | (H/W) $299 - $475 |
 | [Variscite: System on Module – Experience short lead time & stable supply thanks to our in-house production](https://www.variscite.com/variscite-products/) | (H/W) |
@@ -658,6 +670,15 @@
 | **[Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ )** |
 | [RISC-V Business: Testing StarFive's VisionFive 2 SBC / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc ) |
 | [RISC-V to the Core: New Horizons / Renesas](https://www.renesas.com/us/en/blogs/risc-v-core-new-horizons ) |
+
+
+Articles:
+| [BeagleV-Ahead: RISC-V Raspberry Pi Replacement? - Electronics-Lab.com](https://www.electronics-lab.com/beaglev-ahead-risc-v-raspberry-pi-replacement/ ) |
+| **[Mixtile's Delayed Cluster Box, Packing Up to Four High-Performance Blade 3 Nodes, Is Finally Ready - Hackster\.io](https://www.hackster.io/news/mixtile-s-delayed-cluster-box-packing-up-to-four-high-performance-blade-3-nodes-is-finally-ready-5bf2f62e79d3 )** |
+| **[Orange Pi 5 Pro ARM mini PC with 32GB - Geeky Gadgets](https://www.geeky-gadgets.com/arm-mini-pc/ )** |
+| [Orange Pi Introduces an Advanced AI Capable SBC with Huawei Ascend Chip](https://ts2.space/en/orange-pi-introduces-an-advanced-ai-capable-sbc-with-huawei-ascend-chip/ ) |
+| [Orange Pi teams up with Huawei to create a SBC for AI development — Huawei Ascend chip delivers 8/20 TOPS of AI performance / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/orange-pi-teams-up-with-huawei-to-create-a-sbc-for-ai-development-huawei-ascend-chip-delivers-820-top-of-ai-performance ) |
+| **[TQ MBa8MP-RAS314 i\.MX 8M Plus single board computer targets industrial, medical, and transportation applications - CNX Software](https://www.cnx-software.com/2023/12/11/tq-mba8mp-ras314-i-mx-8m-plus-single-board-computer-targets-industrial-medical-and-transportation-applications/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
