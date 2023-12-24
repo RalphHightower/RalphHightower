@@ -6,6 +6,7 @@
 |----|
 | [NASA Open Data Portal](https://data.nasa.gov/ ) |
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
+| [DSN Now](https://eyes.nasa.gov/dsn/dsn.html ) |
 
 <hr />
 
@@ -20,6 +21,8 @@
 | [NASA’s Deep Space Optical Comm Demo Sends, Receives First Data](https://www.jpl.nasa.gov/news/nasas-deep-space-optical-comm-demo-sends-receives-first-data ) |
 | [The Long Wait - NASA Mars](https://mars.nasa.gov/technology/helicopter/status/495/the-long-wait/ ) |
 | [Rocket Exhaust on the Moon: NASA Supercomputers Reveal Surface Effects - NASA](https://www.nasa.gov/general/rocket-exhaust-on-the-moon-nasa-supercomputers-reveal-surface-effects/ ) |
+| [Sierra Space’s Dream Chaser New Station Resupply Spacecraft for NASA - NASA](https://www.nasa.gov/missions/station/commercial-resupply/sierra-spaces-dream-chaser-new-station-resupply-spacecraft-for-nasa/ ) |
+| [NASA’s Webb Identifies Tiniest Free-Floating Brown Dwarf - NASA](https://www.nasa.gov/missions/webb/nasas-webb-identifies-tiniest-free-floating-brown-dwarf/ ) |
 
 ## Satellite Technology
 
