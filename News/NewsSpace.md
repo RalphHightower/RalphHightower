@@ -108,7 +108,8 @@
 | [The origins of the black hole information paradox](https://phys.org/news/2023-11-black-hole-paradox.html ) |
 | [Why are things in spacenews.com that causes such things round? / Live Science](https://www.livescience.com/space/why-are-things-in-space-round ) |
 | [Ultracold atoms in space will let us stress test Einstein's relativity / New Scientist](https://www.newscientist.com/article/2402740-ultracold-atoms-in-space-will-let-us-stress-test-einsteins-relativity/ ) |
-[Unlocking Fundamental Mysteries: Using Near-Miss Particle Physics to Peer Into Quantum World](https://scitechdaily.com/unlocking-fundamental-mysteries-using-near-miss-particle-physics-to-peer-into-quantum-world/)|[We Finally Know the True Power of the Brightest Gamma-Ray Burst](https://gizmodo.com/power-brightness-gamma-ray-burst-boat-1851025152 ) |
+[Unlocking Fundamental Mysteries: Using Near-Miss Particle Physics to Peer Into Quantum World](https://scitechdaily.com/unlocking-fundamental-mysteries-using-near-miss-particle-physics-to-peer-into-quantum-world/)|
+| [We Finally Know the True Power of the Brightest Gamma-Ray Burst](https://gizmodo.com/power-brightness-gamma-ray-burst-boat-1851025152 ) |
 | [When Stars Consume Their Partners, We Could Detect a Blast of Neutrinos - Universe Today](https://www.universetoday.com/164228/when-stars-consume-their-partners-we-could-detect-a-blast-of-neutrinos/ ) |
 | [Why Even Einstein Couldn't Unite Physics - Universe Today](https://www.universetoday.com/164144/why-even-einstein-couldnt-unite-physics/ ) |
 | ['First Ever' Experiments to Measure Theoretical 'Quantum Flickering' in an Empty Vacuum Slated for 2024 - The Debrief](https://thedebrief.org/first-ever-experiments-to-measure-theoretical-quantum-flickering-in-an-empty-vacuum-slated-for-2024/ ) |
