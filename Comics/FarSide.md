@@ -23,3 +23,4 @@
 | [The Far Side's Freaky Giant Squid Is Everything That Makes Its Comics Great](https://screenrant.com/the-far-side-recurring-characters-giant-squid-gary-larson/ ) |
 | [The Far Side: 10 Funniest Comics Set in the Old West](https://screenrant.com/far-side-10-funniest-comics-old-west/ ) |
 | [Stephen King's Favorite Far Side Comic Shows How It Mastered Horror-Comedy](https://screenrant.com/best-far-side-comic-dark-stephen-king/ ) |
+| [New Far Side Comic Would Never Have Made It Past Gary Larson's Original Censors](https://screenrant.com/new-far-side-comic-christmas-gary-larson-funniest/ ) |
