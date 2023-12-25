@@ -49,3 +49,6 @@
 | [The Battlestar Galactica Timeline, Explained](https://gamerant.com/battlestar-galactica-timeline-explained/ ) |
 | [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
 | [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ ) |
+| [Battlestar Galactica Has "Great Outline": Sam Esmail Updates Series](https://bleedingcool.com/tv/battlestar-galactica-has-great-outline-sam-esmail-updates-series/ ) |
+| [Battlestar Galactica: The Sacred Scrolls, Explained](https://gamerant.com/battlestar-galactica-sacred-scrolls-explained/ ) |
+| [Battlestar Galactica: What Is The Arrow Of Apollo?](https://gamerant.com/battlestar-galactica-what-is-arrow-of-apollo-explained/ ) |
