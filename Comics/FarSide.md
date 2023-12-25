@@ -21,4 +21,5 @@
 | [Why The Far Side Needs a TV Series Adaptation](https://movieweb.com/why-the-far-side-needs-a-tv-series-adaptation/ ) |
 | [10 Funniest Far Side Comics with Deliberately Terrible Art](https://screenrant.com/funniest-far-side-comics-gary-larson-bad-art/ ) |
 | [The Far Side's Freaky Giant Squid Is Everything That Makes Its Comics Great](https://screenrant.com/the-far-side-recurring-characters-giant-squid-gary-larson/ ) |
-
+| [The Far Side: 10 Funniest Comics Set in the Old West](https://screenrant.com/far-side-10-funniest-comics-old-west/ ) |
+| [Stephen King's Favorite Far Side Comic Shows How It Mastered Horror-Comedy](https://screenrant.com/best-far-side-comic-dark-stephen-king/ ) |
