@@ -112,6 +112,8 @@
 | [Northvolt unveils 160 Wh/kg sodium-ion battery – pv magazine International](https://www.pv-magazine.com/2023/11/22/northvolt-unveils-160-wh-kg-sodium-ion-battery/ ) |
 | [The Next Leap in Battery Tech: Lithium-Ion Batteries Are No Longer the Gold Standard](https://scitechdaily.com/the-next-leap-in-battery-tech-lithium-ion-batteries-are-no-longer-the-gold-standard/ ) |
 | [Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ ) |
+| [New Flow Battery To Be Tested At Rehabbed 1970s Gas Station](https://cleantechnica.com/2023/12/07/new-flow-battery-ev-fast-charging-critical-materials/ ) |
+| [New Battery Crushes Tesla's Tech, Unveils A Solid-State Marvel With 300% Higher Energy Density, 15-minute Ultra-Fast Charge](https://finance.yahoo.com/news/battery-crushes-teslas-tech-unveils-160816090.html ) |
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
