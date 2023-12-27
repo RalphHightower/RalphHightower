@@ -34,6 +34,8 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | [A Guard Bot For Your Home Assistant / Hackaday](https://hackaday.com/2023/05/14/a-guard-bot-for-your-home-assistant/ ) |
 | [PricelessToolkit's MailboxGuard Watches for Activity Then Alerts You via Home Assistant or WhatsApp - Hackster.io](https://www.hackster.io/news/pricelesstoolkit-s-mailboxguard-watches-for-activity-then-alerts-you-via-home-assistant-or-whatsapp-012c5c092aef ) |
 | [Home Assistant Yellow / Crowd Supply](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow ) |
+| [Securing our home labs: Home Assistant code review - The GitHub Blog](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/ ) |
+| [PwnAssistant - Controlling /home's via a Home Assistant RCE](https://www.elttam.com/blog/pwnassistant/ ) |
 
 ### GitHub 
 
