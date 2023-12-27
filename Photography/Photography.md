@@ -41,6 +41,7 @@
 |----|
 | **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[^41]** |
 | **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
+| **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
 | **[The importance of color calibration - especially when printing images!](https://blog.jeffcable.com/2023/06/the-importance-of-color-calibration.html )** |
 | [3 Photography Business Tips I Learned Consulting $1,000,000 Companies / Fstoppers](https://fstoppers.com/business/3-photography-business-tips-i-learned-consulting-1000000-companies-649668 ) |
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
