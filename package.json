@@ -2,8 +2,7 @@
   "release": {
     "branches": ["main", "_staging", "master", "next"]
   }
-}
-{
+  {
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
