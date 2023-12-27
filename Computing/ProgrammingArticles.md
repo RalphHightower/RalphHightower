@@ -83,7 +83,8 @@ Docker
 | [Vulnerabilities Exposed in LinkedIn's Voyager API - DEV Community](https://dev.to/kumarkalyan/top-5-github-repositories-to-achieve-system-design-mastery-27n4 ) |
 | [Automate your configuration with observability as code - DEV Community](https://newrelic.com/blog/how-to-relic/examples-observability-as-code-part-one? ) |
 | [Why I Prefer Trunk-Based Development / Koen van Gilst](https://koenvangilst.nl/blog/trunkbased-development ) |
-
+| [Using Nuclear Decay As Random Number Generator Source For An MCU / Hackaday](https://hackaday.com/2023/11/13/using-nuclear-decay-as-random-number-generator-source-for-an-mcu/ ) |
+ 
 ## Qt for VS Code 
 
 | Qt for VS Code |
@@ -106,6 +107,10 @@ Docker
 | [Kubectl Port Forwarding: Easy Kubernetes Ports Access - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/kubectl-port-forwarding-easy-kubernetes-ports-access/ ) |  - HomeLab
 | [kelseyhightower (Kelsey Hightower)](https://github.com/kelseyhightower ) |
 | [Does Kubernetes Really Perform Better on Bare Metal vs. VMs? - The New Stack](https://thenewstack.io/does-kubernetes-really-perform-better-on-bare-metal-vs-vms/ ) |
+| [Complexity by Simplicity - A Deep Dive Into Kubernetes Components - DEV Community](https://cyclops-ui.com/blog ) |
+| [Securing Microservices Communication with mTLS in Kubernetes - The New Stack](https://thenewstack.io/securing-microservices-communication-with-mtls-in-kubernetes/ ) |
+| [Does Kubernetes Really Perform Better on Bare Metal vs. VMs? - The New Stack](https://thenewstack.io/does-kubernetes-really-perform-better-on-bare-metal-vs-vms/ ) |
+| [Introducing Fly Kubernetes · The Fly Blog](https://fly.io/blog/fks/ ) |
 
 ## Facebook[^2]
 
