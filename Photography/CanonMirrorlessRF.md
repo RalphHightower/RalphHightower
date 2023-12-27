@@ -5,6 +5,7 @@
 | Canon RF Cameras |
 |---|
 | [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
+| [How Does the EOS R6 Stack Up Against Its Newer Mark II Counterpart? / Fstoppers](https://fstoppers.com/reviews/how-does-eos-r6-stack-against-its-newer-mark-ii-counterpart-649727 ) |
 | [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
 | [What is Flexible Priority mode? How to use it on your Canon R-series camera / Digital Camera World](https://www.digitalcameraworld.com/tutorials/what-is-flexible-priority-mode-how-to-use-it-on-your-canon-r-series-camera ) |
 | [Canon EOS R6 Mk II Review](https://www.thephoblographer.com/2023/02/03/canon-eos-r6-mk-ii-review/ ) |
