@@ -186,4 +186,66 @@
 | [Life might have been possible just seconds after the Big Bang / Space](https://www.space.com/life-possible-seconds-after-big-bang ) |
 | [Exploring the Universe with ZWO Astronomy Cameras](https://ts2.space/en/exploring-the-universe-with-zwo-astronomy-cameras/ ) |
 | [James Webb Space Telescope could soon solve mysteries of the Milky Way's heart / Space](https://www.space.com/james-webb-space-telescope-milky-way-heart-mystery ) |
-
+| [NASA reveals hundreds of city-sized objects shooting light into space / Mashable](https://mashable.com/article/nasa-video-space-pulsars ) |
+| [NASA feels a 'sense of urgency' to get to Mars: Idaho scientists could help us get there](https://phys.org/news/2023-11-nasa-urgency-mars-idaho-scientists.html ) |
+| [Physicists find evidence of exotic charge transport in quantum material](https://phys.org/news/2023-11-physicists-evidence-exotic-quantum-material.html ) |
+| [A detailed design for a space station at sun–Earth L2](https://phys.org/news/2023-11-space-station-sunearth-l2.html ) |
+| [Ultra-compact particle accelerator does a mile's work with four inches](https://newatlas.com/physics/wakefield-accelerator-tau/ ) |
+| [The echoes from inflation could still be shaking the cosmos today](https://phys.org/news/2023-11-echoes-inflation-cosmos-today.html ) |
+| [KiDS in the sky: New stellar system discovered by the Kilo-Degree Survey](https://phys.org/news/2023-11-kids-sky-stellar-kilo-degree-survey.html ) |
+| [Researchers show an old law still holds for quirky quantum materials](https://phys.org/news/2023-11-law-quirky-quantum-materials.html ) |
+| [Strange Explosion Captured in a Nearby Galaxy Wasn't a One-Off : ScienceAlert](https://www.sciencealert.com/strange-explosion-captured-in-a-nearby-galaxy-wasnt-a-one-off ) |
+| [If The Sun Heats The Earth, Why Is Space Cold? / IFLScience](https://www.iflscience.com/if-the-sun-heats-the-earth-why-is-space-cold-72058 ) |
+| [Notorious Cosmic Object Is Actually Two Galaxies In A Trench Coat / IFLScience](https://www.iflscience.com/notorious-cosmic-object-is-actually-two-galaxies-in-a-trench-coat-72064 ) |
+| [YouTubers Filmed The Speed Of Light At 10 Trillion Frames Per Second / IFLScience](https://www.iflscience.com/youtubers-filmed-the-speed-of-light-at-10-trillion-frames-per-second-71978 ) |
+| [A mysterious river of gas flowing into the Milky Way has stars inside after all / Space](https://www.space.com/stars-discovered-in-magellanic-stream-first-time ) |
+| [The rings of Uranus look positively festive in epic James Webb Space Telescope holiday photo / Space](https://www.space.com/uranus-rings-james-webb-space-telescope-holiday-photo ) |
+| [Space for a Better World](https://www.spaceforabetterworld.com/ ) |
+| [Blob at the Galactic Center Is Firing Gamma Ray Bursts at Us / SYFY WIRE](https://www.syfy.com/syfy-wire/blob-at-the-galactic-center-is-firing-gamma-ray-bursts-at-us ) |
+| [What Is Powering the Largest Explosion Since the Big Bang? / SYFY WIRE](https://www.syfy.com/syfy-wire/what-is-powering-the-largest-explosion-since-the-big-bang ) |
+| [Giant space rock made Earth’s ocean boil but also helped early life - The Washington Post](https://www.washingtonpost.com/science/2023/12/19/early-earth-life-impacts-ocean/ ) |
+| [NASA's Psyche spacecraft finds its 'first light' while zooming to a metal asteroid (image) / Space](https://www.space.com/nasa-psyche-first-light-metal-asteroid-image-mosaic ) |
+| [Rare 'Ghosts' Seen in Earth's Upper Atmosphere Explained by Physicists](https://www.newsweek.com/rare-ghosts-earth-upper-atmosphere-physicists-green-lightning-1851420 ) |
+| [ISS astronauts find tomato that was lost in space for 8 months (video) / Space](https://www.space.com/international-space-station-lost-tomato-frank-rubio-found ) |
+| [Space lasers! - The Verge](https://www.theverge.com/23981012/deep-space-network-optical-communication-laser-infrastructure ) |
+| [The Andromeda Galaxy shines overhead this week. Here's how to see it / Space](https://www.space.com/andromeda-galaxy-november-2023 ) |
+| [NASA shares incredible footage of Artemis I capsule hurtling through Earth's atmosphere after historic moon voyage / Live Science](https://www.space.com/artemis-1-orion-earth-reentry-video ) |
+| [Scientists find record-breaking collection of molecules in 2 extremely ancient galaxies / Space](https://www.space.com/deep-space-molecules-massive-star-formation-distant-galaxies ) |
+| [James Webb telescope finds 'vanishing' galaxy from the dawn of the universe / Live Science](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe ) |
+| [James Webb Space Telescope bites cosmic burger to create 1st ice map of planet-forming disk / Space](https://www.space.com/james-webb-space-telescope-planet-forming-disk-ice-map-burger ) |
+| [Vera Rubin Will Generate a Mind-Boggling Amount of Data - Universe Today](https://www.universetoday.com/164565/vera-rubin-will-generate-a-mind-boggling-amount-of-data/ ) |
+| [ESA's Ariel Mission is Approved to Begin Construction - Universe Today](https://www.universetoday.com/164655/esas-ariel-mission-is-approved-to-begin-construction/ ) |
+| [Scientists are Recommending IceCube Should be Eight Times Bigger - Universe Today](https://www.universetoday.com/164709/scientists-are-recommending-icecube-should-be-eight-times-bigger/ ) |
+| [Three Baby Stars Found at the Heart of the Milky Way - Universe Today](https://www.universetoday.com/164755/three-baby-stars-found-at-the-heart-of-the-milky-way/ ) |
+| [Ancient Stars Could Make Elements With More Than 260 Protons - Universe Today](https://www.universetoday.com/164846/ancient-stars-could-make-elements-with-more-than-260-protons/ ) |
+| [Hubble Sees a Random Collection of Galaxies, Perfectly Lined Up - Universe Today](https://www.universetoday.com/164855/hubble-sees-a-random-collection-of-galaxies-perfectly-lined-up/ ) |
+| [This ISS mission could 'open some eyes' about climate science / Space](https://www.space.com/nasa-emit-mission-climate-science-big-picture-mineral-map-iss ) |
+| [Signs of life shooting from Saturn's moon Enceladus would be detectable by spacecraft, scientists say / Space](https://www.space.com/signs-life-saturn-moon-enceladus-ice-geysers-spacecraft ) |
+| [Challenging assumptions: The 8.5-year rhythm of Earth's inner core](https://phys.org/news/2023-12-assumptions-year-rhythm-earth-core.html ) |
+| [Astronomers look billions of years into the past to study Pandora's Cluster](https://phys.org/news/2023-12-astronomers-billions-years-pandora-cluster.html ) |
+| [Could there be a black hole inside the sun?](https://phys.org/news/2023-12-black-hole-sun.html ) |
+| [Black holes are missing in the early universe, and computers are after them](https://phys.org/news/2023-12-black-holes-early-universe.html ) |
+| [Ghostlike dusty galaxy reappears in James Webb Space Telescope image](https://phys.org/news/2023-12-ghostlike-dusty-galaxy-reappears-james.html ) |
+| [Do we live in a giant void? That could solve the puzzle of the universe's expansion, research suggests](https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html ) |
+| [Did the last great galactic merger create the Milky Way's bar?](https://phys.org/news/2023-12-great-galactic-merger-milky-bar.html ) |
+| [History and contents of the universe can be determined using radio telescopes on the moon, researchers say](https://phys.org/news/2023-12-history-contents-universe-radio-telescopes.html ) |
+| [A method to resolve quantum interference between photoionization pathways with attosecond resolution](https://phys.org/news/2023-12-method-quantum-photoionization-pathways-attosecond.html ) |
+| [NASA updating policy for rideshare missions - SpaceNews](https://spacenews.com/nasa-updating-policy-for-rideshare-missions/ ) |
+| [Making precision calculations at the cusp of the high-luminosity LHC era](https://phys.org/news/2023-12-precision-cusp-high-luminosity-lhc-era.html ) |
+| [Watch how 6 planets orbit their star in perfect sync / Mashable](https://mashable.com/article/nasa-exoplanets-orbit-star-sync ) |
+| [Second radio relic discovered in the galaxy cluster Abell 2108](https://phys.org/news/2023-12-radio-relic-galaxy-cluster-abell.html ) |
+| [Top space telescope from Europe seeks to solve riddles of the universe](https://phys.org/news/2023-12-space-telescope-europe-riddles-universe.html ) |
+| [Government-Funded Study Explores Warp Drives as Means of Faster-Than-Light Communication through "Hyperwaves" - The Debrief](https://thedebrief.org/government-funded-study-explores-warp-drives-as-means-of-faster-than-light-communication-through-hyperwaves/ ) |
+| [NASA rover unravels history of lake on Mars that grew up to 22 miles wide, 100 feet deep - CBS News](https://www.cbsnews.com/news/nasa-rover-history-lake-mars-water-jezero-crater/ ) |
+| ["Steve" looks like and acts like an aurora, but it's not an aurora • Earth.com](https://www.earth.com/news/steve-phenomenon-looks-like-an-aurora-acts-like-an-aurora-but-what-is-it/ ) |
+| [Astronaut Catches "Transient Luminous Event" High Above The Earth / IFLScience](https://www.iflscience.com/astronaut-catches-transient-luminous-event-high-above-the-earth-71834 ) |
+| [The 12 Best Space Images of 2023](https://www.inverse.com/science/best-space-images-of-2023 ) |
+| [What is Point Nemo, the remote, watery satellite graveyard where the ISS will go to die? / Live Science](https://www.livescience.com/planet-earth/rivers-oceans/what-is-point-nemo-the-remote-watery-satellite-graveyard-where-the-iss-will-go-to-die ) |
+| [James Webb telescope discovers dark secret of 'The Brick,' a gas cloud flipping assumptions about how stars are born / Live Science](https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-dark-secret-of-the-brick-a-gas-cloud-flipping-assumptions-about-how-stars-are-born ) |
+| [James Webb telescope discovers oldest black hole in the universe / Live Science](https://www.livescience.com/space/black-holes/james-webb-telescope-discovers-oldest-black-hole-in-the-universe ) |
+| [How many times has the sun traveled around the Milky Way? / Live Science](https://www.livescience.com/space/cosmology/how-many-times-has-the-sun-traveled-around-the-milky-way ) |
+| [Intergalactic 'stream of stars' 10 times longer than the Milky Way is the 1st of its kind ever spotted / Space](https://www.livescience.com/space/cosmology/intergalactic-stream-of-stars-10-times-longer-than-the-milky-way-is-the-1st-of-its-kind-ever-spotted ) |
+| [Brand-new meteor shower from 'Christmas comet' may appear over Earth for 1st time this week / Live Science](https://www.livescience.com/space/meteoroids/brand-new-meteor-shower-from-christmas-comet-may-appear-over-earth-for-1st-time-this-week ) |
+| [How many times has Earth orbited the sun? / Space](https://www.livescience.com/space/planets/how-many-times-has-earth-orbited-the-sun ) |
+| [Sample of 'potentially hazardous' asteroid Bennu, which may contain the seeds of life, arrives in UK for analysis](https://www.livescience.com/space/space-exploration/sample-of-potentially-hazardous-asteroid-bennu-which-may-contain-the-seeds-of-life-arrives-in-uk-for-analysis ) |
+| ['Impossible' orange auroras spotted in UK after solar storm slams into Earth / Live Science](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth ) |
