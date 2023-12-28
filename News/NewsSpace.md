@@ -249,3 +249,20 @@
 | [How many times has Earth orbited the sun? / Space](https://www.livescience.com/space/planets/how-many-times-has-earth-orbited-the-sun ) |
 | [Sample of 'potentially hazardous' asteroid Bennu, which may contain the seeds of life, arrives in UK for analysis](https://www.livescience.com/space/space-exploration/sample-of-potentially-hazardous-asteroid-bennu-which-may-contain-the-seeds-of-life-arrives-in-uk-for-analysis ) |
 | ['Impossible' orange auroras spotted in UK after solar storm slams into Earth / Live Science](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth ) |
+| [Helicity Space ignites deep space nuclear fusion engine with new funds](https://interestingengineering.com/innovation/helicity-space-deep-space-nuclear-fusion-engine ) |
+| [NASA: New plasma tech will deliver huge payloads faster](https://interestingengineering.com/innovation/nasas-new-plasma-tech-enables-larger-payloads-to-be-delivered-faster ) |
+| [Panasonic's silicon powder batteries promise 10-minute EV charging](https://interestingengineering.com/innovation/panasonics-silicon-powder-batteries-10minute-ev ) |
+| [Sierra Space's Dream Chaser spacecraft enters final testing phase at NASA](https://interestingengineering.com/innovation/sierra-spaces-dream-chaser-spacecraft-enters-final-testing-phase-at-nasa ) |
+| [Hubble tension: New study proposes solution to great cosmology mystery](https://interestingengineering.com/science/hubble-tension-new-study-proposes-solution-to-great-cosmology-mystery ) |
+| [The Starling Squadron: NASA’s CubeSats Take Formation in Space](https://scitechdaily.com/the-starling-squadron-nasas-cubesats-take-formation-in-space/ ) |
+| [The Stellar Forge: Charged Particles and Element Creation in Stars](https://scitechdaily.com/the-stellar-forge-charged-particles-and-element-creation-in-stars/ ) |
+| [Riding the Cosmic Wave: How Plasma Instability Is Changing Our View of the Universe](https://scitechdaily.com/?p=338087 ) |
+| [Breaking the Atom’s Secrets: Physicists Discover Molecular Structure of Nuclear Ground State](https://scitechdaily.com/breaking-the-atoms-secrets-physicists-discover-molecular-structure-of-nuclear-ground-state/ ) |
+| [Defying Physics: “Forbidden” Emissions From a Spiral Galaxy](https://scitechdaily.com/defying-physics-forbidden-emissions-from-a-spiral-galaxy/ ) |
+| [Gravitational Waves Unveil Thermal Secrets in Neutron Star Mergers](https://scitechdaily.com/gravitational-waves-unveil-thermal-secrets-in-neutron-star-mergers/ ) |
+| [Hubble's Heroic Comeback: NASA Reignites Science Operations After Gyro Challenges](https://scitechdaily.com/hubbles-heroic-comeback-nasa-reignites-science-operations-after-gyro-challenges/ ) |
+| [Jupiter’s Surprising Atmospheric Discovery: Webb Reveals Intense 3,000-Mile-Wide Jet Stream](https://scitechdaily.com/jupiters-surprising-atmospheric-discovery-webb-reveals-intense-3000-mile-wide-jet-stream/ ) |
+| [Reimagining the Cosmos: New Theory Unites Einstein’s Gravity With Quantum Mechanics](https://scitechdaily.com/reimagining-the-cosmos-new-theory-unites-einsteins-gravity-with-quantum-mechanics/ ) |
+| [Revolutionizing the Cosmos: Deep Learning Supercharges Galactic Calculations](https://scitechdaily.com/revolutionizing-the-cosmos-deep-learning-supercharges-galactic-calculations/ ) |
+| [Stretching the Limits: How Diamond Manipulation Enhances Quantum Bits](https://scitechdaily.com/stretching-the-limits-how-diamond-manipulation-enhances-quantum-bits/ ) |
+| [The Fast and the Luminous: First Visible Wavelength Femtosecond Fiber Laser Developed](https://scitechdaily.com/the-fast-and-the-luminous-first-visible-wavelength-femtosecond-fiber-laser-developed/ ) |
