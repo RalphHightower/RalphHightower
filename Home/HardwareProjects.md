@@ -94,6 +94,7 @@ Expansion options
 
 | [NVIDIA AI Articles]() |
 |----|
+| **[Getting Started — NVIDIA CUDA Quantum documentation](https://nvidia.github.io/cuda-quantum/latest/install.html )** |
 | [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
