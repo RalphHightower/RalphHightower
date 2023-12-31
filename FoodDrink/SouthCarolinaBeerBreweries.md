@@ -13,7 +13,7 @@
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
 | The Blue Ridge Brewing Company[^5] | Greer ||
 | [Brewlab](https://www.thebrewlab.net/)[^6] | Charleston ||
-| [Brewery 85](http://brewery85.com/)[^1] | Greenville | 2014 |
+| ~~[Brewery 85](http://brewery85.com/)~~[^1][^85] | Greenville | 2014 |
 | [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/)[^3] | Anderson ||
 | [Charles Towne Fermentory](www.chsfermentory.com)[^1] | Charleston | 2016 |
 | [Ciclops Cyderi & Brewery](www.ciclopscyderiandbrewery.com)[^3] | Spartanburg ||
@@ -79,7 +79,7 @@
 | [Replay Brewing](https://www.replaybrewing.com/ )[^3] | Fort Mill |
 | [Revelry Brewing Co.](https://www.revelrybrewingco.com/)[^1] | Charleston | 2014 |
 | [River Dog Brewing Company](http://riverdogbrewing.com/)[^1] | Ridgeland | 2012 |
-| ***[River Rat Brewing](http://www.riverratbrewery.com/)[^1][^14][^15]*** | Columbia | 2013 |
+| ~~[River Rat Brewing](http://www.riverratbrewery.com/)~~[^1][^14][^15] | Columbia | 2013 |
 | [RJ Rockers Brewing Company](https://www.rjrockers.com/)[^1] | Spartanburg | 1997 |
 | [Rock Hill Brewing Company](https://rockhillbrewingcompany.com/)[^3] | Rock Hill ||
 | [Rusty Bull Brewing Company](https://www.rustybullbrewing.com/)[^1] | North Charleston | 2017 |
@@ -130,3 +130,4 @@
 [^13]: [Good Girl Brewing’s founders hoping to create a pet-friendly, family-friendly business in Aiken](https://www.postandcourier.com/aikenstandard/news/local/good-girl-brewings-founders-hoping-to-create-a-pet-friendly-family-friendly-business-in-aiken/article_29fb3a0c-ae15-11ed-93e9-fbe461f226a9.html)
 [^14]: 2023-12-07 Sadly, River Rat is closing its doors on December 30, 2023. There is a 25% discount on beer and merchandise through closing.
 [^15]: [River Rat to close brewery doors in Columbia after 10 years / Food News & Features / postandcourier.com](https://www.postandcourier.com/free-times/food/feature/river-rat-brewery-craft-beer-closing-columbia/article_a4a4e1e2-93d7-11ee-991d-cbfb25586ead.html )<br />*No So "Free Times"*
+[^85]: According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
