@@ -29,9 +29,9 @@
 | [Web Page Diagnostics](https://pagespeed.web.dev/report) | Performance Metrics |
 | [Arm Developer Resources](https://developer.arm.com/) | RISC: ARM |
 | [Arm Software](https://github.com/ARM-software) | RISC: ARM |
-| [Blues Cellular](https://dev.blues.io/) | |
-| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) |
-| [Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) | |
+| [Blues Cellular](https://dev.blues.io/) | Blues Cellular Documentation|
+| [Trusted Firmware-A Documentation](https://trustedfirmware-a.readthedocs.io/en/latest/index.html) | Trusted Firmware Documentation |
+| [Ansible Documentation](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) | Ansible Documentation|
 | [Crontab Guru](https://crontab.guru/) | Schedule |
 | [Open Source Security Foundation](https://bestpractices.coreinfrastructure.org/en) | Security Practices |
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | Versioning |
@@ -60,6 +60,7 @@
 | [Latin American and Caribbean Internet Addresses Registry (LACNIC)](https://www.lacnic.net) | Latin America |
 
 ## Company/Government [GitHubs](https://github.com/)
+### [Who’s using GitHub? / GitHub and Government](https://government.github.com/community/ )
 
 | Companies on GitHub | Description |
 |---------------------|-------------|
@@ -71,8 +72,10 @@
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | |
 | [Amazon Archives](https://github.com/amazon-archives ) | |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.|
+| [Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
 | [ARIN Engineering](https://github.com/arineng ) | American Registry for Internet Numbers |
-| [The Apache Software Foundation](https://github.com/apache) | The Apache Software Foundation |
+| [Australian Antarctic Data Centre](https://github.com/australianantarcticdatacentre ) | |
+| [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision ) | |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [Arm Software](https://github.com/ARM-software ) | |
@@ -82,6 +85,7 @@
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | The Berkeley Out-of-Order RISC-V Processor |
+| [Canadian Space Agency – Agence spatiale canadienne ](https://github.com/asc-csa ) | Canadian Space Agency Agence spatiale canadienne</br >Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Autonomous Driving Simulator |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
@@ -133,6 +137,11 @@
 | [Microsoft Azure](https://github.com/Azure) | APIs, SDKs and open source projects from Microsoft Azure |
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software. |
 | [.NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
+| [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
+| [NASA-DEVELOP](https://github.com/nasa-develop ) |
+| [NASA JPL MEMEX](https://github.com/nasa-jpl-memex ) | NASA's contributions to the DARPA MEMEX program. |
+| [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) |  A world leader in the robotic exploration of space |
+| [NASA — Global Imagery Browse Services](https://github.com/nasa-gibs ) | |
 | [Network UPS Tools project](https://github.com/networkupstools ) | Network UPS Tools |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’ |
 | [nginx](https://github.com/nginx ) | |
@@ -187,6 +196,7 @@
 | [Visa](https://github.com/visa ) | |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workload |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows |
+
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
 [^92]: Three Letter Acronym[^93]
