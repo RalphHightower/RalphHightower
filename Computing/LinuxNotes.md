@@ -51,6 +51,9 @@
 | [CBL-Mariner: Azure Linux Distribution Now Generally Available](https://www.infoq.com/news/2023/06/azure-linux-cbl-mariner/ ) |
 | [5 best Linux distributions in 2023](https://www.xda-developers.com/best-linux-distros/ ) |
 | [Linux containers guide: An introduction to containers](https://www.xda-developers.com/linux-containers-guide/ ) |
+| **[Btrfs Slated To Make Use Of New Mount API In Linux 6.8 - Phoronix](https://www.phoronix.com/news/Btrfs-New-Mount-API-Linux-6.8 )** |
+| **[Facebook's BOLT Is An Effort To Speed-Up Linux Binaries - Phoronix](https://www.phoronix.com/news/Facebook-BOLT-Optimize-Binaries )** |
+| **[LLVM / Clang 14.0 Prepared For Release With With Armv9, BOLT, More C++20 & C23 - Phoronix](https://www.phoronix.com/news/LLVM-14.0-Released )** |
 
 ## Linux History, Trivia 
 

@@ -82,6 +82,7 @@
 | [15 Strongest Doctor Who Characters, Ranked](https://www.cbr.com/doctor-who-strongest-characters-ranked/ ) |
 | [15 Tennant-Era Doctor Who Characters Who Almost Became Tenth Doctor Companions](https://screenrant.com/doctor-who-companions-tennant-almost-happen/ ) |
 | [16 Doctor Who Quotes That Perfectly Represent Each Modern Companion](https://screenrant.com/doctor-who-modern-companions-quotes-best-represent/ ) |
+| [27 Years Later, The Quirkiest Starship In Sci-Fi History Just Got a Major Upgrade](https://www.inverse.com/entertainment/doctor-who-new-tardis-the-star-beast-1996 ) |
 | ['Doctor Who's Ncuti Gatwa Says He'll Share the Screen With the First Doctor](https://collider.com/doctor-who-ncuti-gatwa-first-doctor-comments/ ) |
 | [David Tennant’s New ‘Doctor Who’ Regeneration Is “Slightly More Human” Than the Last](https://collider.com/doctor-who-fourteen-ten-russell-t-davies-comments/ ) |
 | [Doctor Who & Star Trek: TNG Teamed Up to Stop the Borg/Cybermen Alliance](https://www.cbr.com/star-trek-the-next-generation-doctor-who-crossover/ ) |
@@ -131,7 +132,7 @@
 | ["Degree Of Contempt": Fourth Doctor Explains Why He Is Not Interested In A Doctor Who Meet-Up](https://screenrant.com/doctor-who-doctors-meeting-no-interest-why-fourth-doctor-response/ ) |
 | ['Doctor Who's Best Season Is Still David Tennant's Last](https://collider.com/doctor-who-david-tennant-season-4-best/ ) |
 | [Doctor Who 60th Anniversary Episode 1 Ending & Donna's Memory Explained](https://screenrant.com/doctor-who-donna-memory-return-rose-time-lord-explained/ ) |
-| [Doctor Who 60th anniversary: Filming locations in Wales - BBC News](https://www.bbc.com/news/uk-wales-67457559 )| [Old Vinyl Records That Are Worth Thousands Today / Investing Magazine](https://za.investing.com/magazine/old-vinyl-records-worth-thousands-today-2/ ) |
+| [Doctor Who 60th anniversary: Filming locations in Wales - BBC News](https://www.bbc.com/news/uk-wales-67457559 )|
 | [Doctor Who Art Shows Every Version Of The Time Lord Together, Including The 15th Doctor](https://screenrant.com/doctor-who-art-every-version-time-lord/ ) |
 | [Doctor Who Gives The Sonic Screwdriver 2 Amazing New Powers Before Season 14](https://screenrant.com/doctor-who-sonic-screwdriver-new-powers/ ) |
 | [Doctor Who Season 14 Cast Guide: Every New & Returning Character](https://screenrant.com/doctor-who-season-14-cast-character-guide/ ) |
@@ -144,6 +145,38 @@
 | [The Most Ludicrous Sci-Fi Show of the Year Makes a Brilliant Return to Form](https://www.inverse.com/entertainment/doctor-who-review-the-star-beast-60th-anniversary-special ) |
 | [Two Women Played Doctor Who Before Jodie Whittaker's Thirteenth Doctor](https://screenrant.com/doctor-who-first-female-before-whittaker/ ) |
 | [Watch Ncuti Gatwa's Surprise Adventure in Space and Time Appearance](https://gizmodo.com/doctor-who-ncuti-gatwa-adventure-in-space-and-time-bbc-1851046304 ) |
+| [Director Of Next Doctor Who Episode Releases PSA Every Fan Should See After Intense Speculation](https://screenrant.com/doctor-who-wild-blue-yonder-secret-director-psa/ ) |
+| [Doctor Who 60th Anniversary Mystery Sets Up RTD Solving Chibnall's Timeless Child](https://screenrant.com/doctor-who-two-hearts-mystery-timeless-child-rtd-hint/ ) |
+| [Doctor Who Confirms Major Change To 60-Year Tradition After Disney Deal (& It's Great)](https://screenrant.com/doctor-who-disney-deal-budget-effects-tradition-change/ ) |
+| [Doctor Who Doesn't Need A-List Actors to Pull an Audience](https://www.cbr.com/doctor-who-doesnt-need-big-stars/ ) |
+| [Doctor Who Secretly Set Up Donna Noble's Daughter As A Trans Character 15 Years Ago](https://screenrant.com/doctor-who-rose-trans-binary-donna-hint/ ) |
+| [Doctor Who Theory: The First Anniversary Special Was The Toymaker's Trap (& The Doctor Fell For It)](https://screenrant.com/doctor-who-star-beast-toymaker-trap-theory/ ) |
+| [Doctor Who fans applaud ‘progressive’ trans storyline as show returns / The Independent](https://www.independent.co.uk/arts-entertainment/tv/news/doctor-who-rose-yasmin-finney-b2453921.html ) |
+| [Doctor Who's New TARDIS: 6 Best Details From The Groundbreaking New Design](https://screenrant.com/doctor-who-new-tardis-explained-details/ ) |
+| [Doctor Who's New TARDIS: 6 Best Details From The Groundbreaking New Design](https://screenrant.com/doctor-who-new-tardis-explained-details/#the-interior-of-the-tardis-is-bigger ) |
+| [Doctor Who's New UNIT Character Future Confirmed By David Tennant & Producer](https://screenrant.com/doctor-who-unit-scientific-advisor-56-future-confirm/ ) |
+| [Doctor Who: Every Upgrade to the TARDIS and Sonic Screwdriver](https://www.cbr.com/doctor-who-60th-anniversary-tardis-sonic-screwdriver-upgrades/ ) |
+| [Donna Already Explained The Only Way David Tennant's New Doctor Is Different To The Tenth](https://screenrant.com/doctor-who-fourteenth-different-age-david-tennant/ ) |
+| [Former Doctor Peter Capaldi Reveals Why He Won’t Return to Doctor Who](https://www.cbr.com/former-doctor-peter-capaldi-doctor-who/ ) |
+| [Ncuti Gatwa In ‘Doctor Who: The Church On Ruby Road’ Images – Deadline](https://deadline.com/2023/11/ncuti-gatwa-doctor-who-christmas-special-new-images-1235645070/ ) |
+| [Neil Patrick Harris' Toymaker Gets Glowing Review From Doctor Who's David Tennant: "Impossible To Imagine \[Anyone\] Else"](https://screenrant.com/doctor-who-neil-patrick-harris-toymaker-david-tennant-review/ ) |
+| [RTD's Doctor Who Comeback Gives The Perfect Hat-Tip To Jodie Whittaker's Era](https://screenrant.com/doctor-who-rtd-whittaker-female-respect-reference/ ) |
+| [Why Did Donna Noble Lose Her Money on Doctor Who?](https://www.cbr.com/doctor-who-donna-noble-lost-fortune/ ) |
+| [18 Years Later, 'Doctor Who' is Repeating a Brilliant Sci-Fi Trick — And Introducing a Historic First](https://www.inverse.com/entertainment/doctor-who-christmas-special-2023-the-church-on-ruby-road-details ) |
+| [Doctor Who 60th Anniversary Easter Egg Brings Back An Obscure Fifth Doctor Story From 23 Years Ago](https://screenrant.com/doctor-who-fifth-red-dawn-easter-egg-explained/ ) |
+| [Doctor Who Doubles Down On The Controversial Timeless Child Retcon Ahead Of Season 14](https://screenrant.com/doctor-who-timeless-child-retcon-doubles-down-before-season-14/ ) |
+| [Doctor Who Showrunner RTD Honors Bernard Cribbins In His Final Appearance As Wilf](https://screenrant.com/doctor-who-wilf-bernard-cribbins-final-appearance-rtd/ ) |
+| [Doctor Who Showrunner Reveals Cut Jodie Whittaker and Tom Baker Reference From New Episode](https://www.cbr.com/doctor-who-showrunner-jodie-whittaker-tom-baker-reference/ ) |
+| [Doctor Who Wild Blue Yonder's Gravity Joke Explained By David Tennant & Catherine Tate](https://screenrant.com/doctor-who-wild-blue-yonder-gravity-mavity-joke-explained/ ) |
+| [Doctor Who's New Villains Create A Big Clue To The Toymaker's Real Plan (& Season 14's Story)](https://screenrant.com/doctor-who-meep-not-things-villain-common-trait-clue/ ) |
+| [Doctor Who: David Tennant & Catherine Tate Pay Tribute To Bernard Cribbins Following Wild Blue Yonder Appearance](https://screenrant.com/doctor-who-bernard-cribbins-david-tennant-catherine-tate-tribute/ ) |
+| [Doctor Who: The Best Seasons of the Nu-Who Era, Ranked](https://movieweb.com/doctor-who-the-best-seasons-of-nu-who-ranked/#season-2 ) |
+| [First Look at David Tennant's 2023 Doctor Who Regeneration Released (Photos)](https://thedirect.com/article/david-tennant-2023-doctor-who-regeneration-photos ) |
+| [‘I’m so nervous’: Ncuti Gatwa prepares to begin new Doctor Who role / Ncuti Gatwa / The Guardian](https://www.theguardian.com/culture/2023/dec/04/im-so-nervous-ncuti-gatwa-prepares-to-begin-new-doctor-who-role ) |
+| [Is RTD's Doctor Who Already Setting Up The Master For Ncuti Gatwa's Season 14?](https://screenrant.com/doctor-who-master-tease-60th-anniversary-specials/ ) |
+| [The Best Doctor Is Also David Tennant’s Favorite](https://collider.com/doctor-who-patrick-troughton-best/ ) |
+| [Why David Tennant Is The Best Doctor Who Explained By Fifteenth Doctor Actor Ncuti Gate](https://screenrant.com/doctor-who-david-tennant-ncuti-gatwa-favorite-why/ ) |
+| [Wild Blue Yonder: Behind the Scenes / Doctor Who - YouTube](https://www.youtube.com/watch?v=-bVYsOGsJww ) |
 
 | One Person's Life as a Doctor Who Fan|
 |---|

@@ -26,7 +26,7 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/RalphHightower" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/ralph.hightower" }
      - { platform: flickr,         user_url: "https://www.flickr.com/photos/RalphHightower" }
-     - { platform: github,         user_url: "https://github.com/jekyll/RalphHightower" }
+     - { platform: github,         user_url: "https://github.com/RalphHightower" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/RalphHightower" }
   #   - { platform: keybase,        user_url: "https://keybase.io/RalphHightower" }
@@ -36,7 +36,7 @@ minima:
      - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
   #   - { platform: telegram,       user_url: "https://t.me/RalphHightower" }
   #   - { platform: twitter,        user_url: "https://twitter.com/RalphHightower" }
-     - { platform: youtube,        user_url: "https://www.youtube.com/RalphHightower" }
+     - { platform: youtube,        user_url: "https://www.youtube.com/@RalphHightower" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

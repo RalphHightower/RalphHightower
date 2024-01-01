@@ -94,6 +94,7 @@ Expansion options
 
 | [NVIDIA AI Articles]() |
 |----|
+| **[Getting Started — NVIDIA CUDA Quantum documentation](https://nvidia.github.io/cuda-quantum/latest/install.html )** |
 | [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
@@ -155,6 +156,7 @@ Expansion options
 | [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) |
 | [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
+| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
 
 ## Milk-V Pioneer 
 

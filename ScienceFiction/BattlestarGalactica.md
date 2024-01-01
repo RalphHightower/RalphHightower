@@ -1,4 +1,6 @@
-# Science Fiction — Battlestar Galactica
+# Science Fiction — Battlestar Galactica[^11]
+
+[^11]: [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ )
 
 ## News / Articles 
 
@@ -17,8 +19,6 @@
 | [Battlestar Galactica: Who Is The One True God?](https://gamerant.com/battlestar-galactica-religion-explained-one-true-god/ ) |
 | [How And Where To Watch Battlestar Galactica](https://gamerant.com/how-where-battlestar-galactica-streaming/ ) |
 | [Battlestar Galactica: Who Are The Acmarans?](https://gamerant.com/battlestar-galactica-who-are-acmarans-explained/ ) |
-| [Battlestar Galactica: Who Are The Soldiers Of The One?](https://gamerant.com/battlestar-galactica-caprica-who-are-soldiers-of-the-one-explained/ ) |
-| [Battlestar Galactica: Who Is The One True God?](https://gamerant.com/battlestar-galactica-religion-explained-one-true-god/ ) |
 | [How And Where To Watch Battlestar Galactica](https://gamerant.com/how-where-battlestar-galactica-streaming/ ) |
 | [Battlestar Galactica: The Tauron Uprising, Explained](https://gamerant.com/battlestar-galactica-caprica-tauron-uprising-explained/ ) |
 | [10 Best Battlestar Galactica Space Battles](https://gamerant.com/best-battlestar-galactica-space-battles/ ) |
@@ -48,3 +48,7 @@
 | [How and Where to Watch Battlestar Galactica](https://gamerant.com/how-where-battlestar-galactica-streaming/ ) |
 | [The Battlestar Galactica Timeline, Explained](https://gamerant.com/battlestar-galactica-timeline-explained/ ) |
 | [Battlestar Galactica: The Quorum of Twelve, Explained](https://gamerant.com/battlestar-galactica-quorum-of-twelve-explained/ ) |
+| [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ ) |
+| [Battlestar Galactica Has "Great Outline": Sam Esmail Updates Series](https://bleedingcool.com/tv/battlestar-galactica-has-great-outline-sam-esmail-updates-series/ ) |
+| [Battlestar Galactica: The Sacred Scrolls, Explained](https://gamerant.com/battlestar-galactica-sacred-scrolls-explained/ ) |
+| [Battlestar Galactica: What Is The Arrow Of Apollo?](https://gamerant.com/battlestar-galactica-what-is-arrow-of-apollo-explained/ ) |

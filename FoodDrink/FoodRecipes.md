@@ -1,6 +1,8 @@
-# Food Recipes 
+# Food/Drink Recipes 
 
-## [Captain Pike's Creole Jambalaya — Star Trek Strange Worlds](https://www.salon.com/2023/08/18/star-trek-strange-new-worlds-captain-pike-cook-jambalaya/ )
+## Food Recipes 
+
+### [Captain Pike's Creole Jambalaya — Star Trek Strange Worlds](https://www.salon.com/2023/08/18/star-trek-strange-new-worlds-captain-pike-cook-jambalaya/ )
 
 Pike's Creole Jambalaya (recipe by Leah Chase)
 
@@ -39,7 +41,7 @@ Pike's Creole Jambalaya (recipe by Leah Chase)
 
 <br />
 
-### Cook's Note from Tanya Osmond:
+#### Cook's Note from Tanya Osmond:
 
 Whatever jambalaya recipe you use, take your time and let the meat brown to a nice deep golden color — in batches if the pan is too crowded. Don't worry if the pan looks a little too dark. Scrape up the browned bits when you add your liquid. All the caramelized bits will add a ton of flavor to your final dish.
 
@@ -47,7 +49,7 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 ](https://www.foodandwine.com/star-trek-strange-new-worlds-kitchen-products-7580272 )
 <br />
 
-## Barbecue Dry Rub
+### Barbecue Dry Rub
 
 | Barbecue Dry Rub |
 |---|
@@ -69,3 +71,13 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 |---|
 | [Marinated Mushrooms – A Couple Cooks](https://www.acouplecooks.com/marinated-mushrooms/ ) |
 | [12 barbecue mistakes and how to avoid them - The Washington Post](https://www.washingtonpost.com/food/2023/06/30/barbecue-grilling-mistakes-to-avoid/ ) |
+
+## Drink Recipes 
+
+### Coffee 
+
+| Coffee Tips |
+|---|
+| [Study: Why a spritz of water before grinding coffee yields less waste, tastier espresso / Ars Technica](https://arstechnica.com/science/2023/12/study-why-a-spritz-of-water-before-grinding-coffee-yields-less-waste-tastier-espresso/ ) |
+
+#### Greek Coffee 
