@@ -32,7 +32,7 @@
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing. |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | BOOM: The Berkeley Out-of-Order RISC-V Processor |
 | [Border Gateway Protocol](https://github.com/bgp ) | Border Gateway Protocol |
-| [Canadian Space Agency - Agence spatiale canadienn](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
+| [Canadian Space Agency - Agence spatiale canadienne](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Open-source simulator for autonomous driving research. |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
@@ -62,7 +62,7 @@
 | [Garmin International](https://github.com/garmin ) | Garmin International |
 | [GENIVI Alliance](https://github.com/GENIVI ) | Archived projects -> Go to https://github.com/COVESA |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
-| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow || [Microsft .NET Platform](https://github.com/dotnet) | Home of the open source .NET platform |
+| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Actions](https://github.com/actions ) | Automate your GitHub workflows |
 | [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
@@ -112,7 +112,6 @@
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
-| [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
 | [NASA JPL MEMEX](https://github.com/nasa-jpl-memex ) | NASA's contributions to the DARPA MEMEX program. |
 | [NASA — Global Imagery Browse Services](https://github.com/nasa-gibs ) | |
 | [NASA-DEVELOP](https://github.com/NASA-DEVELOP ) | NASA DEVELOP |
@@ -126,7 +125,7 @@
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
-| [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | |
+| [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenAI](https://github.com/openai ) | OpenAI |
 | [OpenBGPD Portable](https://github.com/openbgpd-portable ) | Open Border Gateway Protocol Portable |
@@ -167,7 +166,7 @@
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
 | [sbcshop (SB Components)](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. |
-| [Seeed Studio](https://github.com/Seeed-Studio ) | |
+| [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
 | [Shopify](https://github.com/Shopify ) | The commerce platform powering millions of businesses worldwide. |
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
