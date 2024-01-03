@@ -5,6 +5,7 @@
 | Resources |
 |---|
 | [Great American Eclipse](https://www.greatamericaneclipse.com/ ) |
+| [The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ ) |
 
 ## Equipment 
 
