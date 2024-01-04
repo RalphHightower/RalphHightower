@@ -117,7 +117,8 @@
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software. |
 | [Microsoft Provenance Contributions](https://github.com/msftenhanceprovenance ) | With the rise in supply chain attacks, Microsoft is working with our ecosystem partners to track packages back to their public sources. |
 | [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
-| [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp || [Mistral AI](https://github.com/mistralai ) | Mistral AI |
+| [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp |
+| [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
