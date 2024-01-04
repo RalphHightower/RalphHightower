@@ -104,11 +104,19 @@
 | [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
-| [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
+| [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft Azure Samples](https://github.com/Azure-Samples ) | Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby |
+| [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
+| [Microsoft Docs](https://github.com/MicrosoftDocs ) | The modern documentation service for Microsoft |
+| [Microsoft Federal - Azure NoOps](https://github.com/azurenoops ) | Open sourced projects for the Azure NoOps Accelerator |
+| [Microsoft Graph](https://github.com/microsoftgraph ) | Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud |
+| [Microsoft Intune](https://github.com/msintuneappsdk ) | This is the official GitHub of the Microsoft Intune SDK team. |
 | [Microsoft IoT](https://github.com/ms-iot ) | Repository dedicated to IoT for Microsoft |
+| [Microsoft Learning](https://github.com/MicrosoftLearning ) | Microsoft Learning |
 | [Microsoft patterns & practices](https://github.com/mspnp ) | We discover, collect, and encourage practices that bring joy to engineering software. |
-| [Mistral AI](https://github.com/mistralai ) | Mistral AI |
+| [Microsoft Provenance Contributions](https://github.com/msftenhanceprovenance ) | With the rise in supply chain attacks, Microsoft is working with our ecosystem partners to track packages back to their public sources. |
+| [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
+| [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp || [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
