@@ -105,8 +105,8 @@
 | [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
-| [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
+| [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
 | [Microsoft Azure Samples](https://github.com/Azure-Samples ) | Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby |
 | [Microsoft Docs](https://github.com/MicrosoftDocs ) | The modern documentation service for Microsoft |
