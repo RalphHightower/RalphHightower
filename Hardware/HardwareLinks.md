@@ -677,6 +677,8 @@ Articles:
 | [Orange Pi Introduces an Advanced AI Capable SBC with Huawei Ascend Chip](https://ts2.space/en/orange-pi-introduces-an-advanced-ai-capable-sbc-with-huawei-ascend-chip/ ) |
 | [Orange Pi teams up with Huawei to create a SBC for AI development — Huawei Ascend chip delivers 8/20 TOPS of AI performance / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/orange-pi-teams-up-with-huawei-to-create-a-sbc-for-ai-development-huawei-ascend-chip-delivers-820-top-of-ai-performance ) |
 | **[TQ MBa8MP-RAS314 i\.MX 8M Plus single board computer targets industrial, medical, and transportation applications - CNX Software](https://www.cnx-software.com/2023/12/11/tq-mba8mp-ras314-i-mx-8m-plus-single-board-computer-targets-industrial-medical-and-transportation-applications/ )** |
+| **[Mixtile Core 3588E development kit review - Part 1: Unboxing and first boot - CNX Software](https://www.cnx-software.com/2023/12/14/mixtile-core-3588e-development-kit-review-unboxing-first-boot/ )** |
+| **[Mixtile Core 3588E SoM review - Part 2: Ubuntu 22.04, hardware features, RK3588 AI samples, NVIDIA Jetson compatibility - CNX Software](https://www.cnx-software.com/2023/12/30/mixtile-core-3588e-som-review-ubuntu-22-04-hardware-features-rk3588-ai-samples-nvidia-jetson-compatibility/ )** |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
