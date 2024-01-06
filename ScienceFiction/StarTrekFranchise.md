@@ -57,6 +57,12 @@
 [^34]: [Section 31: Michelle Yeoh's Star Trek Movie Sets Filming Start Date](https://www.cbr.com/star-trek-section-31-michelle-yeoh-movie-filming-start-date/ )
 [^35]: [Michelle Yeoh Talks Prepping For ‘Star Trek: Section 31’ Movie – TrekMovie.com](https://trekmovie.com/2023/12/19/michelle-yeoh-talks-prepping-for-star-trek-section-31-movie/ )
 
+## Star Trek Shopping 
+
+| Star Trek Shopping |
+|---|
+| **[Holiday Gift Guide for Star Trek Fans](https://www.cbr.com/holiday-gift-guide-for-star-trek-fans/ )** |
+
 ## Articles 
 
 | Star Trek Articles |
