@@ -155,6 +155,7 @@
 | [Milk-V Mars](https://milkv.io/mars )| (H/W) |
 | [Milk-V Meles: The Classic Creation of a RISC-V Single Board Computer](https://milkv.io/meles ) |
 | **[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )** | **(H/W) $1999 128 GB + 1 TB** |
+| **[Milk-V Pioneer Box 128 GB + 1 TB](https://arace.tech/products/milk-v-pioneer-box-128-gb-1-tb )** | **(H/W) $2,599.00 PC w/128 GB RAM 1TB SSD**  |
 | [Milk-V Pioneer](https://milkv.io/pioneer )| (H/W) |
 | [Milk-V](https://milkv.io/ ) | (H/W) |
 | **[Mixtile Blade 3](https://www.mixtile.com/store/sbc/blade-3/ )** | **(H/W) $369.00** |
@@ -473,10 +474,10 @@
 | **[MediaTek Genio 1200 system-on-module powers Cortex-A78/A55 AIoT & robotics development kit - CNX Software](https://www.cnx-software.com/2023/05/08/mediatek-genio-1200-linux-system-on-module-powers-cortex-a78-a55-aiot-development-kit/ )** |
 | **[Orange Pi 5 Plus SBC switches to Rockchip RK3588 SoC, brings dual HDMI 2.1, dual 2.5GbE, M.2 PCIe sockets - CNX Software](https://www.cnx-software.com/2023/05/10/orange-pi-5-plus-sbc-switches-to-rockchip-rk3588-soc-brings-dual-hdmi-2-1-dual-2-5gbe-m-2-pcie-sockets/ )** |
 | **[Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor - CNX Software](https://www.cnx-software.com/2023/05/06/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/ )** |
-|[Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
+| [Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
 | [LTE Sniffer Ferrets Out Cellular Communications / Hackaday](https://hackaday.com/2023/05/18/lte-sniffer-ferrets-out-cellular-communications/ ) |
-|[AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) |
-|[Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
+| [AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) |
+| [Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
 | [AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
 | [Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
 | [OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
@@ -668,9 +669,6 @@
 | **[Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ )** |
 | [RISC-V Business: Testing StarFive's VisionFive 2 SBC / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc ) |
 | [RISC-V to the Core: New Horizons / Renesas](https://www.renesas.com/us/en/blogs/risc-v-core-new-horizons ) |
-
-
-Articles:
 | [BeagleV-Ahead: RISC-V Raspberry Pi Replacement? - Electronics-Lab.com](https://www.electronics-lab.com/beaglev-ahead-risc-v-raspberry-pi-replacement/ ) |
 | **[Mixtile's Delayed Cluster Box, Packing Up to Four High-Performance Blade 3 Nodes, Is Finally Ready - Hackster\.io](https://www.hackster.io/news/mixtile-s-delayed-cluster-box-packing-up-to-four-high-performance-blade-3-nodes-is-finally-ready-5bf2f62e79d3 )** |
 | **[Orange Pi 5 Pro ARM mini PC with 32GB - Geeky Gadgets](https://www.geeky-gadgets.com/arm-mini-pc/ )** |
@@ -679,6 +677,14 @@ Articles:
 | **[TQ MBa8MP-RAS314 i\.MX 8M Plus single board computer targets industrial, medical, and transportation applications - CNX Software](https://www.cnx-software.com/2023/12/11/tq-mba8mp-ras314-i-mx-8m-plus-single-board-computer-targets-industrial-medical-and-transportation-applications/ )** |
 | **[Mixtile Core 3588E development kit review - Part 1: Unboxing and first boot - CNX Software](https://www.cnx-software.com/2023/12/14/mixtile-core-3588e-development-kit-review-unboxing-first-boot/ )** |
 | **[Mixtile Core 3588E SoM review - Part 2: Ubuntu 22.04, hardware features, RK3588 AI samples, NVIDIA Jetson compatibility - CNX Software](https://www.cnx-software.com/2023/12/30/mixtile-core-3588e-som-review-ubuntu-22-04-hardware-features-rk3588-ai-samples-nvidia-jetson-compatibility/ )** |
+| [Firefly Station P3D is a modular Rockchip RK3588 mini PC with swappable cards - CNX Software](https://www.cnx-software.com/2023/04/11/firefly-station-p3d-modular-rockchip-rk3588-mini-pc-with-swappable-cards/ ) |
+| [Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ ) |
+| [Firefly AIO-1684XQ motherboard features BM1684X AI SoC with up to 32 TOPS for video analytics, computer vision - CNX Software](https://www.cnx-software.com/2023/08/02/firefly-aio-1684xq-motherboard-features-bm1684x-ai-soc-with-up-to-32-tops-for-video-analytics-computer-vision/ ) |
+| [SiFive announces Intelligence X390 NPU, Performance P870 RISC-V core - CNX Software](https://www.cnx-software.com/2023/10/18/sifive-intelligence-x390-npu-performance-p870-risc-v-core/ ) |
+| [Sophgo SG2380 - A 2.5 GHz 16-core SiFive P670 RISC-V processor with a 20 TOPS AI accelerator - CNX Software](https://www.cnx-software.com/2023/10/21/sophgo-sg2380-16-core-sifive-p670-risc-v-processor-20-tops-ai-accelerator/ ) |
+| [TTS-20 Pro laser engraver review - CNX Software](https://www.cnx-software.com/2023/12/27/tts-20-pro-laser-engraver-review/ )  |
+| [Radxa CM3S Rockchip RK3566 SODIMM system-on-module supports up to 8GB RAM, 128GB flash, wireless module - CNX Software](https://www.cnx-software.com/2023/12/29/radxa-cm3s-rockchip-rk3566-sodimm-system-on-module-8gb-ram-128gb-flash-wireless-module/ ) |
+| [EXT-2.5GE-RK3588-RT is a quad 2.5GbE Ethernet expansion board for ROC-RK3588-RT SBC - CNX Software](https://www.cnx-software.com/2024/01/02/ext-2-5ge-rk3588-rt-quad-2-5gbe-ethernet-expansion-board-roc-rk3588-rt-sbc/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
