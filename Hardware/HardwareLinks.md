@@ -86,26 +86,29 @@
 | [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
-| [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W) |
-| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
-| **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $759 16GB** |
-| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
-| [Firefly Dev Kits](https://www.firefly.store/category.php?id=19) | (H/W) |
-| **[Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q)** | (H/W) |
-| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
-| [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W) |
-| [Firefly Embedded Computers](https://www.firefly.store/category.php?id=27) | (H/W) |
-| [Firefly Firefly Face Recognition](https://www.firefly.store/category.php?id=24) | (H/W) |
-| [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W) |
-| [Firefly ITX-3568JQ Quad-core ITX Mainboard](https://en.t-firefly.com/product/industry/itx3568jq) | (H/W)
-| **[Firefly ITX-3588J 8K AI Mini-ITX Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=161 )** | (H/W) **Price: $1106 Promotion price: $1076.00 32GB/256GB 5G** |
-| **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br />**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
-| **[Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j)** | (H/W) **16GB $679** (basic pkg) - $978 (Deluxe pkg) |
-| [Firefly ROC-RK3588-RT Octa-Core 8K AI Mini SBC with Ethernet Ports](https://en.t-firefly.com/product/industry/rocrk3588rt ) | (H/W) 32GB  | 
-| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB |
-| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W) |
-| [Firefly Stations](https://www.firefly.store/category.php?id=26) | (H/W) |
-| **[Firefly – ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB** |
+| [Firefly / Make technology more simple , Make life more intellingent.](https://en.t-firefly.com/product/industry/ecr3588spc ) |
+| [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W)  |
+| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | **(H/W) $ 619.00 16GB/32GB**  |
+| **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $ 759.00 16GB/126GB**  |
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W)  |
+| **[Firefly Core-3588J 8K AI Core Board - Delivery within 15 days_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=162 )** | **Promotion price: $ 539.00 32GB/256GB** |
+| [Firefly Core-3588SJD4 8-Core 8K AI Core Board_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=169 ) | $ 449.00 32GB/256GB |
+| [Firefly Dev Kits](https://www.firefly.store/category.php?id=19) | (H/W)  |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer - Delivery within 15 days_Embedded Computers_All_Firefly Store](https://www.firefly.store/goods.php?id=181 )** | **$ 569.00 32GB/256GB** |
+| [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W)  |
+| [Firefly Embedded Computers](https://www.firefly.store/category.php?id=27) | (H/W)  |
+| [Firefly Firefly Face Recognition](https://www.firefly.store/category.php?id=24) | (H/W)  |
+| [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W)  |
+| [Firefly ITX-3568JQ Quad-core ITX Mainboard](https://en.t-firefly.com/product/industry/itx3568jq) | (H/W) |
+| **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br />**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) **Price: $1106 Promotion price: $1076.00 32GB/256GB 5G**  |
+| [Firefly PCIe M.2 to SATA3.0 Adapter Board_Develoment Kits_All_Firefly Store](https://www.firefly.store/goods.php?id=52 ) | $ 16.00 |
+| [Firefly RM500Q-GL 5G M.2 Module_Develoment Kits_All_Firefly Store](https://www.firefly.store/goods.php?id=143 ) | $ 399.00 |
+| [Firefly ROC-RK3588-PC Octa-Core 8K AI Mini Computer_Embedded Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=175 ) | $ 615.00 32GB/256GB |
+| [Firefly ROC-RK3588-RT Octa-Core 8K AI Mini SBC with Ethernet Ports](https://en.t-firefly.com/product/industry/rocrk3588rt ) | (H/W) 32GB  |
+| [Firefly ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB**  |
+| [Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB  |
+| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W)  |
+| [Firefly Stations](https://www.firefly.store/category.php?id=26) | (H/W)  |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [Fomu is the easiest way to get started with FPGA or RISC-V development.](https://www.crowdsupply.com/sutajio-kosagi/fomu) | (H/W) $50 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
@@ -142,7 +145,7 @@
 | [Kria KV260 Vision AI Starter Kit](https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html#whatsinside ) | (H/W) $249.00 MSRP |
 | [Libre Computer Board ROC-RK3328-CC (Renegade) Mini Computer with Gigabit Ethernet and USB 3.0 (4GB) : Electronics](https://www.amazon.com/Libre-Computer-ROC-RK3328-CC-Renegade-Ethernet/dp/B078RT6H8X/ref=sr_1_5?content-id=amzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4%3Aamzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4&keywords=libre+computer&pd_rd_r=e1c74c98-1574-4339-9721-ff1e568f9915&pd_rd_w=9YmX0&pd_rd_wg=Tzry2&pf_rd_p=e29ec872-7a6b-4239-85fc-3765694525e4&pf_rd_r=0B0GCZB30G161H5X4YWV&qid=1699158837&sr=8-5 ) | Amazon $50.00 |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** |
-| **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** |  **$350.50 32GB/128GB** |
+| **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** | **$350.50 32GB/128GB** |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | **[MediaTek LEC-MTK-I1200 / SMARC / COM / ADLINK](https://www.adlinktech.com/Products/Computer_on_Modules/SMARC/LEC-MTK-I1200 )** | (H/W) |
@@ -242,9 +245,7 @@
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **$1239 Cluster Board, 7 RISC-V w/ 16GB/128GB** |
-| **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **(H/W) $1239.00 16GB/128GB** |
 | **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
-| **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[SolidRun / HummingBoard 8P Edge AI](https://shop.solid-run.com/product/SRMP8-EVKHP-H8-R1.2/ )** | (H/W) $590.00 |
