@@ -82,7 +82,7 @@ I also have different categories of bucket lists.
 5.	Space Shuttles
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
-   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^95]
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^95][^96][^97]
 
 [^81]: From April 8, 1981, when I saw Space Shuttle Columbia make her maiden voyage, I said to myself, "I gotta see a launch in person!"
 [^82]: This was totally unexpected, getting an invitation to see Space Shuttle Atlantis land in person next to to control tower for the Shuttle Landing Facility, just 200 yards from the runway. Atlantis landed in the pre-dawn hour.
@@ -99,6 +99,8 @@ I also have different categories of bucket lists.
 [^93]: Cray Computers can, besides a supercomputer, be considered works of art.
 [^94]: First experience programming computers 
 [^95]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^96]:;2023-11-08 [Second rocket booster lifted into place for space shuttle Endeavour L.A. exhibit / collectSPACE](http://www.collectspace.com/news/news-110823a-space-shuttle-endeavour-exhibit-srm-lift-complete.html )
+[^97]: 2023-12-05 [Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )
 
 ## Dewar's Profile
 
