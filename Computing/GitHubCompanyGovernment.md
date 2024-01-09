@@ -133,7 +133,7 @@
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
-| [NASA High Performance Data Analytics | ](https://github.com/nasa-nccs-cds ) | NASA High Performance Data Analytics |
+| [NASA High Performance Data Analytics](https://github.com/nasa-nccs-cds ) | NASA High Performance Data Analytics |
 | [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
 | [NASA JPL MEMEX](https://github.com/nasa-jpl-memex ) | NASA's contributions to the DARPA MEMEX program. |
 | [NASA Planetary Data System Software](https://github.com/NASA-PDS ) | NASA Planetary Data System Software |
@@ -217,7 +217,7 @@
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
-| [ventoy (longpanda) | ](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
+| [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | Visa |
@@ -225,7 +225,7 @@
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
 
-[^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
+[^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^92]
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
