@@ -16,8 +16,8 @@
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | Amazon Web Services - Labs AWS Labs |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
 | [Apache Software Foundation](https://github.com/apache ) | The Apache Software Foundation |
-| [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
+| [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [ARIN Engineering](https://github.com/arineng ) | American Registry for Internet Numbers |
 | [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem ) | Arm Developer Ecosystem |
 | [Arm Mbed](https://github.com/ARMmbed ) | Arm Mbed OS is a platform operating system designed for the internet of things |
@@ -56,6 +56,7 @@
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
+| [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Freescale](https://github.com/orgs/Freescale/repositories )| Freescale NXP hardware |
 | [Future Corp](https://github.com/future-architect ) | Future's official open source repositories |
@@ -83,9 +84,9 @@
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [Heltec Automation](https://github.com/HelTecAutomation ) | LoRa & IoT hardware and solution providers |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
+| [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [Home Assistant Community Add-ons](https://github.com/hassio-addons ) | Home Assistant Community Add-ons projects |
 | [Home Assistant Libraries](https://github.com/home-assistant-libs ) | Device libraries used by Home Assistant |
-| [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
@@ -107,8 +108,8 @@
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
-| [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth. |
+| [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
@@ -139,6 +140,7 @@
 | [NASA WorldWind](https://github.com/NASAWorldWind ) | NASA WorldWind |
 | [NASA — Global Imagery Browse Services](https://github.com/nasa-gibs ) | |
 | [NASA-DEVELOP](https://github.com/NASA-DEVELOP ) | NASA DEVELOP |
+| [NetBSD Foundation](https://github.com/NetBSD ) | The NetBSD Foundation |
 | [Network UPS Tools project](https://github.com/networkupstools ) | The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’. |
 | [Nexus-Electronics](https://github.com/Nexus-Electronics ) | Nexus Electronics specializes in the development of open-source hardware. |
@@ -207,8 +209,6 @@
 | [TAS Emulators on GitHub](https://github.com/TASEmulators ) | Rerecording emulators and tools used for making Tool Assisted Speedruns |
 | [Tenable](https://github.com/tenable ) | Tenable - the Cyber Exposure company |
 | [tensorflow](https://github.com/tensorflow ) | An Open Source Machine Learning Framework for Everyone |
-| [The FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
-| [The NetBSD Foundation](https://github.com/NetBSD ) | The NetBSD Foundation |
 | [theengs](https://github.com/theengs ) | the engs |
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |
