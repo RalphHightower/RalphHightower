@@ -56,6 +56,7 @@
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
+| [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Freescale](https://github.com/orgs/Freescale/repositories )| Freescale NXP hardware |
 | [Future Corp](https://github.com/future-architect ) | Future's official open source repositories |
@@ -65,7 +66,11 @@
 | [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Actions](https://github.com/actions ) | Automate your GitHub workflows |
 | [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
+| [GitHub Desktop](https://github.com/desktop ) | Simple collaboration from your desktop |
+| [GitHub Next](https://github.com/githubnext ) | Exploring the future of software development |
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
+| [GitHub Skills](https://github.com/skills ) | Learn how to use GitHub with interactive courses designed for beginners and experts. |
+| [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
 | [Global Imagery Browse Services](https://github.com/nasa-gibs ) | Global Imagery Browse Services |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
@@ -99,6 +104,7 @@
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
+| [LongSoft](https://github.com/LongSoft ) | LongSoft |
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
@@ -109,6 +115,7 @@
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
 | [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
+| [Microsort Azure Active Directory](https://github.com/AzureAD ) | Azure Active Directory |
 | [Microsoft Azure Samples](https://github.com/Azure-Samples ) | Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby |
 | [Microsoft Docs](https://github.com/MicrosoftDocs ) | The modern documentation service for Microsoft |
 | [Microsoft Federal - Azure NoOps](https://github.com/azurenoops ) | Open sourced projects for the Azure NoOps Accelerator |
@@ -120,13 +127,20 @@
 | [Microsoft Provenance Contributions](https://github.com/msftenhanceprovenance ) | With the rise in supply chain attacks, Microsoft is working with our ecosystem partners to track packages back to their public sources. |
 | [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
 | [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp |
+| [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
+| [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
+| [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
+| [NASA High Performance Data Analytics](https://github.com/nasa-nccs-cds ) | NASA High Performance Data Analytics |
 | [NASA Jet Propulsion Laboratory](https://github.com/nasa-jpl ) | A world leader in the robotic exploration of space |
 | [NASA JPL MEMEX](https://github.com/nasa-jpl-memex ) | NASA's contributions to the DARPA MEMEX program. |
+| [NASA Planetary Data System Software](https://github.com/NASA-PDS ) | NASA Planetary Data System Software |
+| [NASA WorldWind](https://github.com/NASAWorldWind ) | NASA WorldWind |
 | [NASA — Global Imagery Browse Services](https://github.com/nasa-gibs ) | |
 | [NASA-DEVELOP](https://github.com/NASA-DEVELOP ) | NASA DEVELOP |
+| [NetBSD Foundation](https://github.com/NetBSD ) | The NetBSD Foundation |
 | [Network UPS Tools project](https://github.com/networkupstools ) | The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’. |
 | [Nexus-Electronics](https://github.com/Nexus-Electronics ) | Nexus Electronics specializes in the development of open-source hardware. |
@@ -175,8 +189,8 @@
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s ) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
+| [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
-| [sbcshop (SB Components)](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
@@ -203,6 +217,7 @@
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
+| [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | Visa |
@@ -210,7 +225,7 @@
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
 
-[^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^91]
+[^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^92]
 [^92]: Three Letter Acronym[^93]
 [^93]: Software developers and engineers are fond of acronyms. 
 
