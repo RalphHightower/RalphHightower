@@ -4,7 +4,7 @@
 
 | Rebooted TV Series | Network |
 |--------------------|---------|
-| Galactica 1980[^2] | ABC |
+| Galactica 1980[^21] | ABC |
 | Battlestar Galactica (2003 miniseries)[^21] | Sci Fi Channel |
 | Battlestar Galactica (2004)[^21]| Sci Fi Channel |
 | The Resistance[^21] | Sci Fi Channel |
