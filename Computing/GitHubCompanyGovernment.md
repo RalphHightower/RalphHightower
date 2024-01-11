@@ -108,9 +108,10 @@
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
-| [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth. |
-| [Meta Research](https://github.com/facebookresearch ) | Meta Research |
-| [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
+| [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
+| [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
+| [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
+| [Meta Research](https://github.com/facebookresearch ) | Meta Research || [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
 | [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
