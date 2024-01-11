@@ -111,7 +111,8 @@
 | [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
 | [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
 | [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
-| [Meta Research](https://github.com/facebookresearch ) | Meta Research || [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
+| [Meta Research](https://github.com/facebookresearch ) | Meta Research |
+| [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
 | [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
