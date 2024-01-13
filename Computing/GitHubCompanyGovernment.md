@@ -1,4 +1,4 @@
-# Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ )
+# CM — GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
 
 ## Company / Government [GitHubs](https://github.com/ )
 
@@ -61,6 +61,7 @@
 | [Freescale](https://github.com/orgs/Freescale/repositories )| Freescale NXP hardware |
 | [Future Corp](https://github.com/future-architect ) | Future's official open source repositories |
 | [Garmin International](https://github.com/garmin ) | Garmin International |
+| [General Motors](https://github.com/generalmotors ) | We envision a future of zero crashes, zero emissions and zero congestion, and we have committed ourselves to leading the way toward this future. |
 | [GENIVI Alliance](https://github.com/GENIVI ) | Archived projects -> Go to https://github.com/COVESA |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
 | [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
@@ -87,6 +88,7 @@
 | [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [Home Assistant Community Add-ons](https://github.com/hassio-addons ) | Home Assistant Community Add-ons projects |
 | [Home Assistant Libraries](https://github.com/home-assistant-libs ) | Device libraries used by Home Assistant |
+| [Huginn](https://github.com/huginn ) | Create agents that monitor and act on your behalf. Your agents are standing by! |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
