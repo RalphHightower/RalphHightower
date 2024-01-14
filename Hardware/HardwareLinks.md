@@ -86,26 +86,29 @@
 | [EdgeBox-ESP-100-Industrial Edge Controller, WiFi, BLE, 4G LTE, DIO, AIO, Ethernet, CAN, RS485](https://www.seeedstudio.com/EdgeBox-ESP-100-p-5490.html) | (H/W) $179 |
 | **[ELECFREAKS TOOCA L1 Laser Engraver (5W)](https://shop.elecfreaks.com/products/elecfreaks-tooca-laser-1)** | (H/W) $375 |
 | [Electromaker.io](https://www.electromaker.io/shop) | (H/W) |
-| [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W) |
-| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | (H/W) $649 |
-| **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $759 16GB** |
-| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W) |
-| [Firefly Dev Kits](https://www.firefly.store/category.php?id=19) | (H/W) |
-| **[Firefly EC-A3588Q Octa-Core 8K AI Embedded Computs](https://en.t-firefly.com/product/embed/eca3588q)** | (H/W) |
-| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer](https://www.firefly.store/goods.php?id=181)** | (H/W) $429 16GB |
-| [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W) |
-| [Firefly Embedded Computers](https://www.firefly.store/category.php?id=27) | (H/W) |
-| [Firefly Firefly Face Recognition](https://www.firefly.store/category.php?id=24) | (H/W) |
-| [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W) |
-| [Firefly ITX-3568JQ Quad-core ITX Mainboard](https://en.t-firefly.com/product/industry/itx3568jq) | (H/W)
-| **[Firefly ITX-3588J 8K AI Mini-ITX Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=161 )** | (H/W) **Price: $1106 Promotion price: $1076.00 32GB/256GB 5G** |
-| **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br />**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) |
-| **[Firefly ITX-3588J](https://en.t-firefly.com/product/industry/itx3588j)** | (H/W) **16GB $679** (basic pkg) - $978 (Deluxe pkg) |
-| [Firefly ROC-RK3588-RT Octa-Core 8K AI Mini SBC with Ethernet Ports](https://en.t-firefly.com/product/industry/rocrk3588rt ) | (H/W) 32GB  | 
-| **[Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB |
-| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W) |
-| [Firefly Stations](https://www.firefly.store/category.php?id=26) | (H/W) |
-| **[Firefly – ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB** |
+| [Firefly / Make technology more simple , Make life more intellingent.](https://en.t-firefly.com/product/industry/ecr3588spc ) |
+| [Firefly Accessories](https://www.firefly.store/category.php?id=4) | (H/W)  |
+| **[Firefly AIO-1684JD4 Octa-Core High Computing Power AI Mainboard (up to 12GB RAM)](https://www.firefly.store/goods.php?id=178)** | **(H/W) $ 619.00 16GB/32GB**  |
+| **[Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188)** | **(H/W) $ 759.00 16GB/126GB**  |
+| **[Firefly Core Boards](https://www.firefly.store/category.php?id=3)** | (H/W)  |
+| **[Firefly Core-3588J 8K AI Core Board - Delivery within 15 days_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=162 )** | **Promotion price: $ 539.00 32GB/256GB** |
+| [Firefly Core-3588SJD4 8-Core 8K AI Core Board_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=169 ) | $ 449.00 32GB/256GB |
+| [Firefly Dev Kits](https://www.firefly.store/category.php?id=19) | (H/W)  |
+| **[Firefly EC-R3588SPC Octa-Core AI Industrial Computer - Delivery within 15 days_Embedded Computers_All_Firefly Store](https://www.firefly.store/goods.php?id=181 )** | **$ 569.00 32GB/256GB** |
+| [Firefly Embedded Boards](https://www.firefly.store/category.php?id=2)  | (H/W)  |
+| [Firefly Embedded Computers](https://www.firefly.store/category.php?id=27) | (H/W)  |
+| [Firefly Firefly Face Recognition](https://www.firefly.store/category.php?id=24) | (H/W)  |
+| [Firefly Industrial Boards](https://www.firefly.store/category.php?id=25) | (H/W)  |
+| [Firefly ITX-3568JQ Quad-core ITX Mainboard](https://en.t-firefly.com/product/industry/itx3568jq) | (H/W) |
+| **[Firefly ITX-3588J – 8K AI Mini-ITX Mainboard](https://en.t-firefly.com/product/industry/itx3588j) <br />**Buy** [ITX-3588J – 8K AI Mini-ITX](https://www.firefly.store/goods.php?id=161)** | (H/W) **Price: $1106 Promotion price: $1076.00 32GB/256GB 5G**  |
+| [Firefly PCIe M.2 to SATA3.0 Adapter Board_Develoment Kits_All_Firefly Store](https://www.firefly.store/goods.php?id=52 ) | $ 16.00 |
+| [Firefly RM500Q-GL 5G M.2 Module_Develoment Kits_All_Firefly Store](https://www.firefly.store/goods.php?id=143 ) | $ 399.00 |
+| [Firefly ROC-RK3588-PC Octa-Core 8K AI Mini Computer_Embedded Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=175 ) | $ 615.00 32GB/256GB |
+| [Firefly ROC-RK3588-RT Octa-Core 8K AI Mini SBC with Ethernet Ports](https://en.t-firefly.com/product/industry/rocrk3588rt ) | (H/W) 32GB  |
+| [Firefly ROC-RK3588S-PC 8-Core 8K AI Mainboard_Embedded Board_ALL_Firefly Store](https://www.firefly.store/goods.php?id=163 )** | **(H/W) $469.00 32GB/256GB**  |
+| [Firefly Station P3D](https://en.t-firefly.com/product/industry/stationp3d)** | (H/W) up to 32GB  |
+| **[Firefly Station P3](https://en.t-firefly.com/product/industry/stationp3)** | (H/W)  |
+| [Firefly Stations](https://www.firefly.store/category.php?id=26) | (H/W)  |
 | [FNIRSI-1013D Digital Tablet Oscilloscope Dual Channel 100M Bandwidth 1GS Sampling Rate Mini Tablet Digital Oscilloscope](https://www.aliexpress.com/item/4000861098295.html) | (H/W) $125.00 |
 | [Fomu is the easiest way to get started with FPGA or RISC-V development.](https://www.crowdsupply.com/sutajio-kosagi/fomu) | (H/W) $50 |
 | [ForLinx OK3588-C Single Board Computer](https://www.forlinx.net/single-board-computer/rk3588-sbc-135.html) | (H/W) $352 - $392[^11] |
@@ -142,7 +145,7 @@
 | [Kria KV260 Vision AI Starter Kit](https://www.xilinx.com/products/som/kria/kv260-vision-starter-kit.html#whatsinside ) | (H/W) $249.00 MSRP |
 | [Libre Computer Board ROC-RK3328-CC (Renegade) Mini Computer with Gigabit Ethernet and USB 3.0 (4GB) : Electronics](https://www.amazon.com/Libre-Computer-ROC-RK3328-CC-Renegade-Ethernet/dp/B078RT6H8X/ref=sr_1_5?content-id=amzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4%3Aamzn1.sym.e29ec872-7a6b-4239-85fc-3765694525e4&keywords=libre+computer&pd_rd_r=e1c74c98-1574-4339-9721-ff1e568f9915&pd_rd_w=9YmX0&pd_rd_wg=Tzry2&pf_rd_p=e29ec872-7a6b-4239-85fc-3765694525e4&pf_rd_r=0B0GCZB30G161H5X4YWV&qid=1699158837&sr=8-5 ) | Amazon $50.00 |
 | **[Lichee Pi4](https://sipeed.com/licheepi4a/)** **16 GB** | **(H/W) 16GB** |
-| **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** |  **$350.50 32GB/128GB** |
+| **[Liontron Rockchip RK3588 Android 12 Linux Motherboard for ARM PC, Mini PC, NAS, Edge Computing,Cloud Server, Smart NVR - AliExpress](https://m.aliexpress.us/item/3256805590664368.html?aff_fcid=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&tt=CPS_NORMAL&aff_fsk=_DDOqctN&aff_platform=shareComponent-detail&sk=_DDOqctN&aff_trace_key=fbd9b3eb16164846ae8bff3921daff57-1690740202797-06937-_DDOqctN&terminal_id=41ec6915face4bdeb6143de9d93184f8&afSmartRedirect=y&gatewayAdapt=gloPc2usaMsite4itemAdapt )** | **$350.50 32GB/128GB** |
 | [Mag PI \(Raspberry\)](https://magpi.raspberrypi.com/) | (Magazine) |
 | [Meadow F7v2 Feather STM32F7 MCU board supports .NET, C# programing](https://store.wildernesslabs.co/collections/frontpage/products/meadow-f7-feather) | (H/W) $45 |
 | **[MediaTek LEC-MTK-I1200 / SMARC / COM / ADLINK](https://www.adlinktech.com/Products/Computer_on_Modules/SMARC/LEC-MTK-I1200 )** | (H/W) |
@@ -155,6 +158,7 @@
 | [Milk-V Mars](https://milkv.io/mars )| (H/W) |
 | [Milk-V Meles: The Classic Creation of a RISC-V Single Board Computer](https://milkv.io/meles ) |
 | **[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )** | **(H/W) $1999 128 GB + 1 TB** |
+| **[Milk-V Pioneer Box 128 GB + 1 TB](https://arace.tech/products/milk-v-pioneer-box-128-gb-1-tb )** | **(H/W) $2,599.00 PC w/128 GB RAM 1TB SSD**  |
 | [Milk-V Pioneer](https://milkv.io/pioneer )| (H/W) |
 | [Milk-V](https://milkv.io/ ) | (H/W) |
 | **[Mixtile Blade 3](https://www.mixtile.com/store/sbc/blade-3/ )** | **(H/W) $369.00** |
@@ -241,9 +245,7 @@
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **$1239 Cluster Board, 7 RISC-V w/ 16GB/128GB** |
-| **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **(H/W) $1239.00 16GB/128GB** |
 | **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
-| **[Sipeed Licheepi 4a Risc-v Th1520 Linux Sbc Development Board - Demo Board - AliExpress](https://www.aliexpress.com/item/1005005532736080.html )** | **(H/W) $179.00 16GB/256GB** |
 | [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
 | [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
 | **[SolidRun / HummingBoard 8P Edge AI](https://shop.solid-run.com/product/SRMP8-EVKHP-H8-R1.2/ )** | (H/W) $590.00 |
@@ -473,10 +475,10 @@
 | **[MediaTek Genio 1200 system-on-module powers Cortex-A78/A55 AIoT & robotics development kit - CNX Software](https://www.cnx-software.com/2023/05/08/mediatek-genio-1200-linux-system-on-module-powers-cortex-a78-a55-aiot-development-kit/ )** |
 | **[Orange Pi 5 Plus SBC switches to Rockchip RK3588 SoC, brings dual HDMI 2.1, dual 2.5GbE, M.2 PCIe sockets - CNX Software](https://www.cnx-software.com/2023/05/10/orange-pi-5-plus-sbc-switches-to-rockchip-rk3588-soc-brings-dual-hdmi-2-1-dual-2-5gbe-m-2-pcie-sockets/ )** |
 | **[Lichee Pi 4A RISC-V SBC takes on Raspberry Pi 4 with TH1520 processor - CNX Software](https://www.cnx-software.com/2023/05/06/lichee-pi-4a-risc-v-sbc-raspberry-pi-4-th1520-processor/ )** |
-|[Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
+| [Seeed Studio launches Jetson-based "reComputer Industrial" fanless Edge AI computers - CNX Software](https://www.cnx-software.com/2023/05/15/seeed-studio-jetson-based-recomputer-industrial-fanless-edge-ai-computers/ )|
 | [LTE Sniffer Ferrets Out Cellular Communications / Hackaday](https://hackaday.com/2023/05/18/lte-sniffer-ferrets-out-cellular-communications/ ) |
-|[AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) |
-|[Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
+| [AndesAIRE AnDLA I350 AI/ML IP block is configurable from 64 GOPS to 8TOPS for Edge AI SoCs - CNX Software](https://www.cnx-software.com/2023/05/18/andesaire-andla-i350-ai-ml-ip-block-is-configurable-from-64-gops-to-8tops-for-edge-ai-socs/ ) |
+| [Laird RM126x LoRaWAN modules and development kits feature Silicon Labs EFR32 MCU, support P2P communication - CNX Software](https://www.cnx-software.com/2023/05/19/laird-rm126x-lorawan-modules-devkits-silicon-labs-efr32-mcu-p2p-communication/ )|
 | [AntSDR E200 features ZYNQ FPGA and AD936x chipsets](https://linuxgizmos.com/antsdr-e200-features-zynq-fpga-and-ad936x-chipsets/ )|
 | [Pico-ITX board comes with i.MX8M Plus processor, dual MIPI CSI and PoE support](https://linuxgizmos.com/pico-itx-board-comes-with-i-mx8m-plus-processor-dual-mipi-csi-and-poe/ )|
 | [OTA: Augmented Reality Satellite Tracking, A Sun Noise Monitor, Black-Box Wi-Fi Optimisation, and More – MyriadRF](https://myriadrf.org/news/ota-augmented-reality-satellite-tracking-a-sun-noise-monitor-black-box-wi-fi-optimisation-and-more/ )|
@@ -668,15 +670,22 @@
 | **[Raspberry Pi Forensics Hacking Gadget – Baker Street Forensics](https://bakerstreetforensics.com/2023/07/01/raspberry-pi-forensics-hacking-gadget/ )** |
 | [RISC-V Business: Testing StarFive's VisionFive 2 SBC / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/risc-v-business-testing-starfives-visionfive-2-sbc ) |
 | [RISC-V to the Core: New Horizons / Renesas](https://www.renesas.com/us/en/blogs/risc-v-core-new-horizons ) |
-
-
-Articles:
 | [BeagleV-Ahead: RISC-V Raspberry Pi Replacement? - Electronics-Lab.com](https://www.electronics-lab.com/beaglev-ahead-risc-v-raspberry-pi-replacement/ ) |
 | **[Mixtile's Delayed Cluster Box, Packing Up to Four High-Performance Blade 3 Nodes, Is Finally Ready - Hackster\.io](https://www.hackster.io/news/mixtile-s-delayed-cluster-box-packing-up-to-four-high-performance-blade-3-nodes-is-finally-ready-5bf2f62e79d3 )** |
 | **[Orange Pi 5 Pro ARM mini PC with 32GB - Geeky Gadgets](https://www.geeky-gadgets.com/arm-mini-pc/ )** |
 | [Orange Pi Introduces an Advanced AI Capable SBC with Huawei Ascend Chip](https://ts2.space/en/orange-pi-introduces-an-advanced-ai-capable-sbc-with-huawei-ascend-chip/ ) |
 | [Orange Pi teams up with Huawei to create a SBC for AI development — Huawei Ascend chip delivers 8/20 TOPS of AI performance / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/orange-pi-teams-up-with-huawei-to-create-a-sbc-for-ai-development-huawei-ascend-chip-delivers-820-top-of-ai-performance ) |
 | **[TQ MBa8MP-RAS314 i\.MX 8M Plus single board computer targets industrial, medical, and transportation applications - CNX Software](https://www.cnx-software.com/2023/12/11/tq-mba8mp-ras314-i-mx-8m-plus-single-board-computer-targets-industrial-medical-and-transportation-applications/ )** |
+| **[Mixtile Core 3588E development kit review - Part 1: Unboxing and first boot - CNX Software](https://www.cnx-software.com/2023/12/14/mixtile-core-3588e-development-kit-review-unboxing-first-boot/ )** |
+| **[Mixtile Core 3588E SoM review - Part 2: Ubuntu 22.04, hardware features, RK3588 AI samples, NVIDIA Jetson compatibility - CNX Software](https://www.cnx-software.com/2023/12/30/mixtile-core-3588e-som-review-ubuntu-22-04-hardware-features-rk3588-ai-samples-nvidia-jetson-compatibility/ )** |
+| [Firefly Station P3D is a modular Rockchip RK3588 mini PC with swappable cards - CNX Software](https://www.cnx-software.com/2023/04/11/firefly-station-p3d-modular-rockchip-rk3588-mini-pc-with-swappable-cards/ ) |
+| [Firefly's Rockchip RK3588 SBCs are now available with 32GB RAM - CNX Software](https://www.cnx-software.com/2023/07/01/firefly-rockchip-rk3588-sbc-32gb-ram/ ) |
+| [Firefly AIO-1684XQ motherboard features BM1684X AI SoC with up to 32 TOPS for video analytics, computer vision - CNX Software](https://www.cnx-software.com/2023/08/02/firefly-aio-1684xq-motherboard-features-bm1684x-ai-soc-with-up-to-32-tops-for-video-analytics-computer-vision/ ) |
+| [SiFive announces Intelligence X390 NPU, Performance P870 RISC-V core - CNX Software](https://www.cnx-software.com/2023/10/18/sifive-intelligence-x390-npu-performance-p870-risc-v-core/ ) |
+| [Sophgo SG2380 - A 2.5 GHz 16-core SiFive P670 RISC-V processor with a 20 TOPS AI accelerator - CNX Software](https://www.cnx-software.com/2023/10/21/sophgo-sg2380-16-core-sifive-p670-risc-v-processor-20-tops-ai-accelerator/ ) |
+| [TTS-20 Pro laser engraver review - CNX Software](https://www.cnx-software.com/2023/12/27/tts-20-pro-laser-engraver-review/ )  |
+| [Radxa CM3S Rockchip RK3566 SODIMM system-on-module supports up to 8GB RAM, 128GB flash, wireless module - CNX Software](https://www.cnx-software.com/2023/12/29/radxa-cm3s-rockchip-rk3566-sodimm-system-on-module-8gb-ram-128gb-flash-wireless-module/ ) |
+| [EXT-2.5GE-RK3588-RT is a quad 2.5GbE Ethernet expansion board for ROC-RK3588-RT SBC - CNX Software](https://www.cnx-software.com/2024/01/02/ext-2-5ge-rk3588-rt-quad-2-5gbe-ethernet-expansion-board-roc-rk3588-rt-sbc/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 

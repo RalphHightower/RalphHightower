@@ -6,6 +6,7 @@
 |---|
 | [Disney's Belief In The Orville: New Horizons Will Give Us The Best Looking Season Yet](https://www.cbr.com/the-orville-new-horizons-disney-fox/ ) |
 | [The Future Of Sci-Fi Television Depends On Season 4 Of The Orville](https://www.cbr.com/the-orville-season4-sci-fi-tv-future-hulu/ ) |
+| [Seth MacFarlane Just Gave New Hope to Orville Fans Across the Galaxy](https://gizmodo.com/orville-season-4-seth-macfarlane-update-hulu-disney-1851143834 ) |
 | [The Orville Faces a Dark New Threat in Uncharted Space](https://www.cbr.com/the-orville-threat-uncharted-space-hulu/ ) |
 | [The Orville Is Better Than Ever - Except at Being Funny](https://www.cbr.com/the-orville-star-trek-fun-hulu/ ) |
 | [The Orville Masterminds Discuss Season 3’s Bigger Worldbuilding & Deeper Themes](https://www.cbr.com/the-orville-brannon-braga-david-goodman-jon-cassar-interview/ ) |

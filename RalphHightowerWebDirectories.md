@@ -1,3 +1,5 @@
+# Ralph Hightower Website Reorganization (Directories)
+
 ArtificialIntelligence
 - [ ] ChatGPTHaikus.md
 - [ ] ChatGPTHaikusBucketLists.md

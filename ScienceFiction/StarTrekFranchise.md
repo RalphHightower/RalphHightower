@@ -57,10 +57,17 @@
 [^34]: [Section 31: Michelle Yeoh's Star Trek Movie Sets Filming Start Date](https://www.cbr.com/star-trek-section-31-michelle-yeoh-movie-filming-start-date/ )
 [^35]: [Michelle Yeoh Talks Prepping For ‘Star Trek: Section 31’ Movie – TrekMovie.com](https://trekmovie.com/2023/12/19/michelle-yeoh-talks-prepping-for-star-trek-section-31-movie/ )
 
+## Star Trek Shopping 
+
+| Star Trek Shopping |
+|---|
+| **[Holiday Gift Guide for Star Trek Fans](https://www.cbr.com/holiday-gift-guide-for-star-trek-fans/ )** |
+
 ## Articles 
 
 | Star Trek Articles |
 |---|
+| **[Star Trek: Deep Space Nine's Ending, Explained](https://gamerant.com/star-trek-deep-space-nine-ds9-ending-explained/ )** |
 | [Letting Jonathan Frakes Direct Star Trek Came Back To Bite The Show's Producer](https://www.slashfilm.com/820701/reasons-why-the-next-generation-is-the-best-star-trek-show/ ) |
 | [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/#star-trek-discovery-season-1-amp-2 ) |
 | [A Message From - And To - NASA From Star Trek Strange New Worlds - SpaceRef](https://spaceref.com/newspace-and-tech/a-message-from-and-to-nasa-from-star-trek-strange-new-worlds/ ) |

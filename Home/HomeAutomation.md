@@ -11,6 +11,12 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | **[Removal of MyQ integration - Home Assistant](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/ )** |
 | **[Does Getting Into Your Garage Really Need To Be Difficult? / Hackaday](https://hackaday.com/2023/11/09/does-getting-into-your-garage-really-need-to-be-difficult/ )** |
 
+## General Articles/News 
+
+| General Articles  / News |
+|---|
+| [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) |
+
 ## [Home Assistance](https://github.com/home-assistant)
 
 ### GitHub

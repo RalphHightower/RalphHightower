@@ -48,9 +48,9 @@ I, along with a few other coworkers, were huddled around a portable B&W TV on Ap
 I also have different categories of bucket lists. 
 
 1.	Before I Die
-   - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W). Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y).
-   - ✓ [The Masters Golf Tournament](https://www.masters.com/) Photos: [Practice Round: Wednesday April 4, 2015](https://flic.kr/s/aHBqjzH9EK).
-   - ~~Arecibo Observatory~~[^81]
+   - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W)[^81]. Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y)[^82].
+   - ✓ [The Masters Golf Tournament](https://www.masters.com/)[^83] Photos: [Practice Round: Wednesday April 4, 2015](https://flic.kr/s/aHBqjzH9EK).
+   - ~~Arecibo Observatory~~[^84]
    - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America
    - Slot Canyon (color & B&W photographs)
    - Aurora Borealis
@@ -63,39 +63,44 @@ I also have different categories of bucket lists.
    - Hawaii
    - Japan (primarily Tokyo)
 2.	Cars
-   - Corvette (mid-engine)[^82]
-   - El Camino (65-67)[^83]
-   - Mustang (64-67)[^84]
-   - HHR (2009-2011)[^85]
-   - 55 Chevy Stepside pickup[^86]
+   - Corvette (mid-engine)[^85]
+   - El Camino (65-67)[^86]
+   - Mustang (64-67)[^87]
+   - HHR (2009-2011)[^88]
+   - 55 Chevy Stepside pickup[^89]
 3.	Cameras
-   - ✓ [Canon New F-1](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^87]
+   - ✓ [Canon New F-1](https://global.canon/en/c-museum/product/film105.html) (July 2013, with AE Motor Drive FN, AE Finder FN)[^90]
    - Mamiya 645
    - Mamiya RB67 or RZ 67
    - 4×5 monorail view camera
 4.	Computers
-   - DEC VAX11-780[^88]
-   - DEC PDP-11/70[^89] or PDP-11/45[^89]
-   - Cray 1[^90]
-   - Cray 2[^90]
-   - DEC PDP-8[^91]
+   - DEC VAX11-780[^91]
+   - DEC PDP-11/70[^92] or PDP-11/45[^92]
+   - Cray 1[^93]
+   - Cray 2[^93]
+   - DEC PDP-8[^94]
 5.	Space Shuttles
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
-   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^92]
+   - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^95][^96][^97]
 
-[^81]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
-[^82]: I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
-[^83]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
-[^84]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
-[^85]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
-[^86]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
-[^87]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [New F-1](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
-[^88]: I love the instruction set of this magnificent beast of a computer. 
-[^89]: It's gotta have the blinking console lights and console switches.
-[^90]: Cray Computers can, besides a supercomputer, be considered works of art.
-[^91]: First experience programming computers 
-[^92]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^81]: From April 12, 1981, when I saw Space Shuttle Columbia make her maiden voyage, I said to myself, "I gotta see a launch in person!"
+[^82]: This was totally unexpected, getting an invitation to see Space Shuttle Atlantis land in person next to to control tower for the Shuttle Landing Facility, just 200 yards from the runway. Atlantis landed in the pre-dawn hour.
+[^83]: After checking off the only item on my 30 year old bucket list, I thought "What's next?" Okay, what about The Masters? The first time in the ticket lottery in 2014,I got the opportunity to buy tickets. I chose a practice round day, Monday, so I could bring my camera. During tournament days, only the news media is allowed cameras. Unfortunately, as we were driving to Augusta on I-20, it was raining and got so bad with lightning that Augusta National had to cancel Monday's practice. Augusta National guaranteed that everyone that bought 2014 tickets could buy tickets for 2015. We chose a Wednesday for the reason of bringing my own cameras. I brought my Canon New F-1 with the FD 28mm f2.8 loaded with Fuji slide film for the scenics, and Mt Canon EOS 5D III with the EF 100-400mm f4-5.6L (rented) for the action. Augusta National does not have any lens length restrictions, but PGA events has a rule that no lenses can be longer than six inches. Check the course event's web page for any restrictions. 
+[^84]: Two cable breaks, one in August 2020 and a second in November 2020, threatened the structural integrity of the support structure for the suspended platform and damaged the dish. The NSF determined in November 2020 that it was safer to decommission the telescope rather than to try to repair it, but the telescope collapsed before a controlled demolition could be carried out. The remaining support cables from one tower failed around 7:56 a.m. local time on December 1, 2020, causing the receiver platform to fall into the dish and collapsing the telescope.
+[^85]: As a teenager, unaware of bucket lists, I have coveted the [Chevy](https://www.chevrolet.com/) [Corvette](https://www.chevrolet.com/performance/corvette) ever since 1968, when the Corvette got its current styling; so, technically, the Corvette could be considered my firt bucket list item. Sure, the body styles have changed, but the basic bones, that signature look, has had small variations. 
+[^86]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
+[^87]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
+[^88]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
+[^89]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
+[^90]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [New F-1](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
+[^91]: I love the instruction set of this magnificent beast of a computer. 
+[^92]: It's gotta have the blinking console lights and console switches.
+[^93]: Cray Computers can, besides a supercomputer, be considered works of art.
+[^94]: First experience programming computers 
+[^95]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
+[^96]:;2023-11-08 [Second rocket booster lifted into place for space shuttle Endeavour L.A. exhibit / collectSPACE](http://www.collectspace.com/news/news-110823a-space-shuttle-endeavour-exhibit-srm-lift-complete.html )
+[^97]: 2023-12-05 [Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )
 
 ## Dewar's Profile
 
