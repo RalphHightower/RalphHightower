@@ -53,6 +53,7 @@
 | Star Trek: The Animated Series (Cartoon) | Star Trek | Paramount+ |
 | Star Trek: Lower Decks (Cartoon) | Star Trek | Paramount+ |
 | Star Trek: Prodigy (Cartoon) | Star Trek | Paramount+ |
+| Leverage: Redemption (Freeverse) | Leverage (TNT) | Freeverse |
 
 ## Shows That Deserve Rebooting
 
