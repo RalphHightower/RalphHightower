@@ -1,5 +1,11 @@
 # South Carolina Food 
 
+## Statewide 
+
+| [Restaurant Week South Carolina](https://restaurantweeksouthcarolina.com/restaurants/) |
+|----|
+| [Restaurants – Restaurant Week South Carolina](https://restaurantweeksouthcarolina.com/restaurants/ ) |
+
 ## Columbia Area
 
 | Restaurant | Cuisine | City |
@@ -34,7 +40,7 @@
 
 ## Charleston
 
-[Charleston Convention and VisitorsBureau – Seafood](https://www.charlestoncvb.com/plan-your-trip/dining-nightlife~124/seafood~1100/) 
+[Charleston Convention and Visitors Bureau – Seafood](https://www.charlestoncvb.com/plan-your-trip/dining-nightlife~124/seafood~1100/) 
 
 ## Greenville 
 
