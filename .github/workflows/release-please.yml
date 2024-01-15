@@ -1,7 +1,6 @@
 on:
   push:
-    branches:
-      - main
+    branches: ["_staging","main"]
 name: release-please
 jobs:
   release-please:
