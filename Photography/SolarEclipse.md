@@ -24,6 +24,8 @@
 | [Canon 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^14] | $101.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
 | [Canon 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^14] | $471.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
 | [Canon 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^14] | $435.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
+| [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml ) | $109.00 USD | |
+| [SETnC](https://robertnufer.ch/06_computing/setnc/setnc_page.htm ) |  |  |
 
 [^11]: Choose just one.
 [^12]: Choose just one.
