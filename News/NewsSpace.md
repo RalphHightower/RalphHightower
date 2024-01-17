@@ -1,8 +1,14 @@
 # News — Space News
 
-| Space News |
+## [NASA](https://www.nasa.gov) [Space Shuttle Endeavour]()
+
+| [California Science]() [Space Shuttle Endeavour]() Progress |
 |---|
 | **[Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )** |
+| **[Last built-for-flight external tank lifted into place for space shuttle Endeavour exhibit / Space](http://www.collectspace.com/news/news-011324a-shuttle-endeavour-exhibit-external-tank-lift.html )** |
+
+| Space News |
+|---|
 | [NASA Turns Light into Sound Frequency Creating a Milky Way Symphony (LISTEN)](https://www.goodnewsnetwork.org/nasa-turns-light-into-sound-frequency-creating-a-milky-way-symphony-listen/ ) |
 | [Deep into the Kuiper Belt, New Horizons is still doing science / Ars Technica](https://arstechnica.com/science/2023/12/squeezing-science-out-of-new-horizons-as-it-heads-out-of-the-solar-system/ ) |
 | [The Milky Way will probably devour all the tiny galaxies that surround it / Ars Technica](https://arstechnica.com/science/2023/12/the-milky-way-will-probably-devour-all-the-tiny-galaxies-that-surround-it/ ) |
