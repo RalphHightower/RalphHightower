@@ -138,7 +138,7 @@
 | [Picard's Villain Vadic Is The Literal Next Generation Of Star Trek Villain](https://www.cbr.com/star-trek-picard-vadic-christopher-plummer-villain/ ) |
 | [Spock Admits Why He Became More of a Rebel After Leaving the Enterprise](https://screenrant.com/spock-admits-became-rebel-leaving-enterprise/ ) |
 | [Star Trek Fans Launch New Campaign For Picard’s Legacy Spinoff](https://screenrant.com/star-trek-legacy-fans-new-campaign-spinoff-greenlight/ ) |
-| [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) || [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
+| [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
 | [Star Trek Has A New Scotty (Besides Strange New Worlds’ Young Engineer)](https://screenrant.com/star-trek-lower-decks-billups-joke-new-scotty/ ) |
 | [Star Trek Is Over For 2023 - Now What?](https://screenrant.com/star-trek-lower-decks-end-2023-next-year/ ) |
 | [Star Trek Just Confirmed Spock's Starfleet Rank Is Basically A Lie](https://screenrant.com/star-trek-spock-starfleet-rank-lie/ ) |
@@ -157,7 +157,6 @@
 | [Star Trek: Strange New Worlds loses \[spoiler\] but the actor isn't done](https://redshirtsalwaysdie.com/2022/06/30/star-trek-strange-new-worlds-loses-an-important-character/ ) |
 | [Star Trek: The Most Interesting Planets In The Franchise](https://gamerant.com/star-trek-most-interesting-planets/ ) |
 | [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
-| [Star Trek: Voyager's Coaxial Drive, Explained](https://gamerant.com/star-trek-voyager-coaxial-drive-explained/ ) |
 | [Star Trek: Warp Travel Trivia](https://gamerant.com/star-trek-warp-travel-facts-lore-trivia/ ) |
 | [Star Trek: Why Was The Kolvoord Starburst Banned?](https://gamerant.com/star-trek-why-was-kolvoord-starburst-banned-explained/ ) |
 | [Synthehol: Star Trek's Sci-Fi Take on Alcohol, Explained](https://www.cbr.com/star-trek-synthehol-fake-alcohol-explained/ ) |
