@@ -2,8 +2,8 @@
 
 | Brewery | Location | Year |
 |---------|----------|------|
-| [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1] | Taylors | 2017 |
-| [1873 Brewing](https://www.1873brewing.com/)[^2] | Fort Mill ||
+| [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1][^17] | Taylors | 2017 |
+| ~~[1873 Brewing](https://www.1873brewing.com/)~~[^2] | Fort Mill ||
 | ~~[Aiken Brewing Company](http://www.aikenbrewingcompany.com/)~~[^2][^12] | Aiken ||
 | Amor Artis Brewing[^1] | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^3] | Lexington ||
@@ -110,6 +110,7 @@
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
 | [The Velo Fellow ](http://thevelofellow.com/)[^4] | Greenville ||
+| Untamed Waters Brewing[^17] | Fort Mill ||
 | Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
 | [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^3] | Summerville ||
 | [Wild Heart Brewing](https://wildheartbrewing.com/)[^1] | Hartsville ||
@@ -130,4 +131,6 @@
 [^13]: [Good Girl Brewing’s founders hoping to create a pet-friendly, family-friendly business in Aiken](https://www.postandcourier.com/aikenstandard/news/local/good-girl-brewings-founders-hoping-to-create-a-pet-friendly-family-friendly-business-in-aiken/article_29fb3a0c-ae15-11ed-93e9-fbe461f226a9.html)
 [^14]: 2023-12-07 Sadly, River Rat is closing its doors on December 30, 2023. There is a 25% discount on beer and merchandise through closing.
 [^15]: [River Rat to close brewery doors in Columbia after 10 years / Food News & Features / postandcourier.com](https://www.postandcourier.com/free-times/food/feature/river-rat-brewery-craft-beer-closing-columbia/article_a4a4e1e2-93d7-11ee-991d-cbfb25586ead.html )<br />*No So "Free Times"*
-[^85]: According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
+[^16]: 2024-01-18 [Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
+[^17]: 2024-01-18 In Fort Mill, the 415 Tom Hall St. site where 1873 Brewing opened in 2021 is now Untamed Waters Brewing. That ownership change and re-brand was announced in November.<br />[Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
+[^85]: 2023-12-31 According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
