@@ -3,7 +3,7 @@
 | Brewery | Location | Year |
 |---------|----------|------|
 | [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1][^17] | Taylors | 2017 |
-| ~~[1873 Brewing](https://www.1873brewing.com/)~~[^2] | Fort Mill ||
+| ~~[1873 Brewing](https://www.1873brewing.com/)~~[^17] | Fort Mill ||
 | ~~[Aiken Brewing Company](http://www.aikenbrewingcompany.com/)~~[^2][^12] | Aiken ||
 | Amor Artis Brewing[^1] | Fort Mill | 2018 |
 | [Angry Fish Brewing Co.](http://angryfishbrewingco.com/)[^3] | Lexington ||
@@ -54,7 +54,7 @@
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
 | Kite Hill Brewery[^8] | Clemson ||
 | [Krafty Draft Brew Pub](http://www.kraftydraft.com/)[^4] | Lexington ||
-| [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1] | Rock Hill | 2015 |
+| [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1][^16] | Rock Hill | 2015 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
 | [LOCAL MOTIVE BREWING COMPANY](https://lomobrewing.com/ )[^3] | Florence ||
 | LO-Fi Brewing[^1] | Charleston | 2013 |
@@ -125,12 +125,12 @@
 [^7]: 2022-11-30 [The Best Breweries In Greenville, South Carolina — Southern Living](https://www.southernliving.com/greenville-sc-breweries-6829807)
 [^8]: 2022-11-10 Total Wine and More
 [^9]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
-[^10]: [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
+[^10]: 2022-10-24 [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
 [^11]: 2023-02-20 [Columbia brewers still adjusting to shifting craft beer climate](https://www.postandcourier.com/columbia/columbia-brewers-still-adjusting-to-shifting-craft-beer-climate/article_8f043762-aee9-11ed-aa1c-6f3c503722ad.html) 
-[^12]: [Aiken Brewing Company set to close for good later this month](https://www.postandcourier.com/aikenstandard/news/aiken-brewing-company-set-to-close-for-good-later-this-month/article_20a68958-b878-11ed-8dbb-330acd29cd61.html) *March 17, 2023*
-[^13]: [Good Girl Brewing’s founders hoping to create a pet-friendly, family-friendly business in Aiken](https://www.postandcourier.com/aikenstandard/news/local/good-girl-brewings-founders-hoping-to-create-a-pet-friendly-family-friendly-business-in-aiken/article_29fb3a0c-ae15-11ed-93e9-fbe461f226a9.html)
+[^12]: 2023-03-17 [Aiken Brewing Company set to close for good later this month](https://www.postandcourier.com/aikenstandard/news/aiken-brewing-company-set-to-close-for-good-later-this-month/article_20a68958-b878-11ed-8dbb-330acd29cd61.html) *March 17, 2023*
+[^13]: 2023-03-03 [Good Girl Brewing’s founders hoping to create a pet-friendly, family-friendly business in Aiken](https://www.postandcourier.com/aikenstandard/news/local/good-girl-brewings-founders-hoping-to-create-a-pet-friendly-family-friendly-business-in-aiken/article_29fb3a0c-ae15-11ed-93e9-fbe461f226a9.html)
 [^14]: 2023-12-07 Sadly, River Rat is closing its doors on December 30, 2023. There is a 25% discount on beer and merchandise through closing.
-[^15]: [River Rat to close brewery doors in Columbia after 10 years / Food News & Features / postandcourier.com](https://www.postandcourier.com/free-times/food/feature/river-rat-brewery-craft-beer-closing-columbia/article_a4a4e1e2-93d7-11ee-991d-cbfb25586ead.html )<br />*No So "Free Times"*
+[^15]: 2023-12-06 [River Rat to close brewery doors in Columbia after 10 years / Food News & Features / postandcourier.com](https://www.postandcourier.com/free-times/food/feature/river-rat-brewery-craft-beer-closing-columbia/article_a4a4e1e2-93d7-11ee-991d-cbfb25586ead.html )<br />*No So "Free Times"*
 [^16]: 2024-01-18 [Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
 [^17]: 2024-01-18 In Fort Mill, the 415 Tom Hall St. site where 1873 Brewing opened in 2021 is now Untamed Waters Brewing. That ownership change and re-brand was announced in November.<br />[Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
 [^85]: 2023-12-31 According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
