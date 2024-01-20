@@ -13,7 +13,7 @@
 | [Bierkeller Brewing Company](https://www.bierkellercolumbia.com/)[^2] | Columbia ||
 | The Blue Ridge Brewing Company[^5] | Greer ||
 | [Brewlab](https://www.thebrewlab.net/)[^6] | Charleston ||
-| ~~[Brewery 85](http://brewery85.com/)~~[^1][^85] | Greenville | 2014 |
+| ~~[Brewery 85](http://brewery85.com/)~~[^1][^18] | Greenville | 2014 |
 | [Carolina Bauernhaus Brewery & Winery](https://carolinabauernhaus.com/)[^3] | Anderson ||
 | [Charles Towne Fermentory](www.chsfermentory.com)[^1] | Charleston | 2016 |
 | [Ciclops Cyderi & Brewery](www.ciclopscyderiandbrewery.com)[^3] | Spartanburg ||
@@ -23,6 +23,7 @@
 | [Commonhouse Aleworks](https://www.commonhousealeworks.com)[^1] | North Charleston | 2018 |
 | ~~Conquest Brewing~~[^11] | Columbia ||
 | [Cooper River Brewing Company](https://cooperriverbrewing.com/)[^1] | Charleston | 2015 |
+| [Courtney's BBQ & Brewery](https://courtneysbbq.com/brewery/ )[^19] | Greer ||
 | [CottonTown Brew Lab](http://ctbl.azurewebsites.net/)[^3] | Columbia ||
 | Crooked Hammock Brewery[^3] | North Myrtle Beach ||
 | [Dockery’s](http://www.dockerysdi.com/)[^4] | Daniel's Island ||
@@ -54,7 +55,8 @@
 | [Keowee Brewing Company](http://keoweebrewing.com/)[^3] | Seneca ||
 | Kite Hill Brewery[^8] | Clemson ||
 | [Krafty Draft Brew Pub](http://www.kraftydraft.com/)[^4] | Lexington ||
-| [Legal Remedy Brewing](http://legalremedybrewing.com/)[^1][^16] | Rock Hill | 2015 |
+| [Lake Wylie Brewing](https://www.facebook.com/lakewyliebrewing )[^19] | Rock Hill ||
+| ~~[Legal Remedy Brewing](http://legalremedybrewing.com/)~~[^1][^16] | Rock Hill | 2015 |
 | [Liability Brewing Co.](https://liabilitybrewing.co/)[^3] | Greenville ||
 | [LOCAL MOTIVE BREWING COMPANY](https://lomobrewing.com/ )[^3] | Florence ||
 | LO-Fi Brewing[^1] | Charleston | 2013 |
@@ -67,6 +69,7 @@
 | [New Groove Artisian Brewery](http://newgroovebrew.com/)[^3] | Boiling Springs ||
 | [New South Brewing](https://newsouthbrewing.com/)[^1] | Myrtle Beach | 1998 |
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
+| [Off the Tracks Brewing](https://offthetracksbrewing.com/# )[^19] | Rock Hill ||
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
 | [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^5] | Greenville ||
@@ -110,7 +113,7 @@
 | [Twisted Cypress Brewing Company](http://www.twistedcypressbrewingco.com/)[^3] | Charleston ||
 | [Two Blokes Brewing](http://twoblokesbrewing.com/)[^3] | Mount Pleasant ||
 | [The Velo Fellow ](http://thevelofellow.com/)[^4] | Greenville ||
-| Untamed Waters Brewing[^17] | Fort Mill ||
+| [Untamed Waters Brewing: Brewery & Taproom](https://untamedwatersbrewing.com/ )[^17][^19] | Fort Mill ||
 | Westbrook Brewing Company[^1] | Mount Pleasant | 2010 |
 | [Wide Awake Brewing Company](https://www.wideawakebrewing.com/)[^3] | Summerville ||
 | [Wild Heart Brewing](https://wildheartbrewing.com/)[^1] | Hartsville ||
@@ -133,4 +136,5 @@
 [^15]: 2023-12-06 [River Rat to close brewery doors in Columbia after 10 years / Food News & Features / postandcourier.com](https://www.postandcourier.com/free-times/food/feature/river-rat-brewery-craft-beer-closing-columbia/article_a4a4e1e2-93d7-11ee-991d-cbfb25586ead.html )<br />*No So "Free Times"*
 [^16]: 2024-01-18 [Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
 [^17]: 2024-01-18 In Fort Mill, the 415 Tom Hall St. site where 1873 Brewing opened in 2021 is now Untamed Waters Brewing. That ownership change and re-brand was announced in November.<br />[Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
-[^85]: 2023-12-31 According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
+[^18]: 2023-12-31 According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
+[^19]: 2024-01-20 [YoCo Brew Trail](https://www.visityorkcounty.com/restaurants/yoco-brew-trail/ )
