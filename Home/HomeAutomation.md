@@ -11,6 +11,12 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | **[Removal of MyQ integration - Home Assistant](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/ )** |
 | **[Does Getting Into Your Garage Really Need To Be Difficult? / Hackaday](https://hackaday.com/2023/11/09/does-getting-into-your-garage-really-need-to-be-difficult/ )** |
 
+## WARNING — DO NOT BUY HAIER MANUFACTURED HOME APPLIANCES (GENERAL ELECTRIC, HOTPOINT, HOOVER)[^11]
+
+[^11]: **Fisher & Paykel, and Candy are brands that I have never heard of.**
+
+| **[Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/ )**<br />**Haier is a multinational home appliances and consumer electronics corporation selling a wide range of products under the brands General Electric Appliances, Hotpoint, Hoover, Fisher & Paykel, and Candy.** |
+
 ## General Articles/News 
 
 | General Articles  / News |
