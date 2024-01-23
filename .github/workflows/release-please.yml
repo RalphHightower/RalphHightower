@@ -16,4 +16,4 @@ jobs:
         uses: mikepenz/release-changelog-builder-action@v4.1.1
         with:
           command: manifest 
-             ${{steps.build_changelog.outputs.changelog}}      
+             ${{steps.build_changelog.outputFile.CHANGELOG}}      
