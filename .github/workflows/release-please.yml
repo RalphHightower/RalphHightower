@@ -12,8 +12,8 @@ jobs:
           release-type: simple
           pull-request-header: New release created for the following reasons
           package-name: release-please-action
-      - name: "Build Changelog"
-        uses: mikepenz/release-changelog-builder-action@v4.1.1
-        with:
-          command: manifest 
-             ${{steps.build_changelog.outputFile.CHANGELOG}}      
+      #- name: "Build Changelog"
+      #  uses: mikepenz/release-changelog-builder-action@v4.1.1
+      #  with:
+      #    command: manifest 
+      #       ${{steps.build_changelog.outputFile.CHANGELOG}}      
