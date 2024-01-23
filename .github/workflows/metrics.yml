@@ -61,25 +61,6 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             base: header, repositories
             config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
-            prod:
-                skip: true
-            test:
-                modes:
-                    - web
-
-      - name: Plugin error example
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-            filename: metrics.plugin.error.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_projects: yes
-            prod:
-                with:
-                    plugins_errors_fatal: no
-                test:
-                    skip: true
 
       - name: Default metrics
         if: ${{ success() || failure() }}
