@@ -18,7 +18,7 @@ jobs:
         with:
             filename: metrics.organization.svg
             user: github
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: header, repositories
 
       - name: Large display
@@ -26,7 +26,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.large.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             config_display: large
 
       - name: JSON metrics
@@ -34,7 +34,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.example.json
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             config_output: json
 
       - name: PNG metrics
@@ -42,7 +42,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.example.png
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             config_output: png
 
       - name: Metrics insights
@@ -50,7 +50,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.insights.html
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             config_output: insights
 
       - name: Presets
@@ -58,7 +58,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.presets.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: header, repositories
             config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
 
@@ -67,7 +67,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.base.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: header, activity, community, repositories, metadata
             base_indepth: yes
 
@@ -76,7 +76,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.base.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: header, activity, community, repositories, metadata
 
       - name: Compact display
@@ -84,7 +84,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.achievements.compact.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN}}
             base: ""
             plugin_achievements: yes
             plugin_achievements_only: >-
@@ -97,7 +97,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.activity.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_activity: yes
             plugin_activity_limit: 5
@@ -109,7 +109,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.calendar.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_calendar: yes
 
@@ -128,7 +128,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.contributors.contributions.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             template: repository
             repo: RalphHightower
@@ -140,7 +140,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.contributors.categories.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             template: repository
             repo: metrics
@@ -158,7 +158,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.discussions.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_discussions: yes
             plugin_discussions_categories_limit: 8
@@ -178,7 +178,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.gists.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_gists: yes
 
@@ -187,7 +187,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.activity.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_activity: yes
             plugin_activity_limit: 5
@@ -199,7 +199,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.calendar.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_calendar: yes
 
@@ -208,7 +208,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.calendar.full.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_calendar: yes
             plugin_calendar_limit: 0
@@ -218,7 +218,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.contributors.contributions.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             template: repository
             repo: RalphHightower
@@ -230,7 +230,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.contributors.categories.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             template: repository
             repo: metrics
@@ -248,7 +248,7 @@ jobs:
       #  uses: lowlighter/metrics@latest
       #  with:
       #      filename: metrics.plugin.discussions.svg
-      #      token: ${{ secrets.METRICS_PERMISSION }}
+      #      token: ${{ secrets.GITHUB_TOKEN }}
       #      base: ""
       #      plugin_discussions: yes
       #      plugin_discussions_categories_limit: 8
@@ -258,7 +258,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
              filename: metrics.plugin.habits.facts.svg
-             token: ${{ secrets.METRICS_PERMISSION }}
+             token: ${{ secrets.GITHUB_TOKEN }}
              base: ""
              plugin_habits: yes
              plugin_habits_facts: yes
@@ -270,7 +270,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.habits.charts.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_habits: yes
             plugin_habits_facts: no
@@ -282,7 +282,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.introduction.repository.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             template: repository
             repo: metrics
             base: header
@@ -293,7 +293,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.isocalendar.fullyear.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_isocalendar: yes
             plugin_isocalendar_duration: full-year
@@ -303,7 +303,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.languages.indepth.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_languages: yes
             plugin_languages_ignored: >-
@@ -318,7 +318,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.licenses.ratio.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             template: repository
             repo: metrics
@@ -332,7 +332,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.lines.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: repositories
             plugin_lines: yes
             plugin_lines_delay: 30
@@ -342,7 +342,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.lines.history.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_lines: yes
             plugin_lines_delay: 30
@@ -359,7 +359,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.notable.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_notable: yes
 
@@ -368,7 +368,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.notable.indepth.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_notable: yes
             plugin_notable_indepth: yes
@@ -392,7 +392,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.people.followers.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_people: yes
             plugin_people_types: followers
@@ -425,7 +425,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.stargazers.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_stargazers: yes
 
@@ -434,7 +434,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.stargazers.worldmap.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_stargazers: yes
             plugin_stargazers_charts: no
@@ -460,7 +460,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.stars.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_stars: yes
             plugin_stars_limit: 3
@@ -480,7 +480,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.traffic.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: repositories
             plugin_traffic: yes
 
@@ -489,7 +489,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
             filename: metrics.plugin.16personalities.svg
-            token: ${{ secrets.METRICS_PERMISSION }}
+            token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_16personalities: yes
             plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
