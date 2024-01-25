@@ -36,6 +36,7 @@
 
 ## MIPI Definitions
 
+
 | MIPI Definitions |
 |----|
 | [MIPI-CSI Explanation](https://www.mipi.org/specifications/csi-2) |
@@ -45,10 +46,21 @@
 
 ### [TuringPi (V2) 4 Node Cluster](https://turingpi.com/) \| [TuringPi V2 Documentation](https://docs.turingpi.com/docs )
 
-Expansion options 
-- 2x SATA Ports 6 Gbps
-- 2x Mini PCI Express Slots
-- 4x M.2 ports, 2260, 2280, Key-M NVME support
+| TuringPi 2.5 Specifications | |
+|---|---|
+| 1 GbE L2 Switch | VLAN Support |
+| Baseboard Management Controller | 2x SATA III Ports 6 Gbps |
+| 2x 1 GbE ports | 4x M.2 ports, 2260, 2280, Key-M, NVMe support |
+| 2x Mini PCI Express Slots | 1x HDMI|
+| 1x DSI | 1x 40-pin GPIO, Raspberry Pi compatible |
+| 4x USB 3.0, 1x USB 2.0 | SIM slot |
+| RTC battery slot | Power supply 24-pin ATX |
+| Energy efficient u0026lt;80 W | Mix multiple compute module |
+
+- TuringPi 2.0 Expansion options
+   - 2x SATA Ports 6 Gbps
+   - 2x Mini PCI Express Slots
+   -  4x M.2 ports, 2260, 2280, Key-M NVME support
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
