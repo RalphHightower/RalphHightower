@@ -1,8 +1,14 @@
 # News — Space News
 
-| Space News |
+## [NASA](https://www.nasa.gov) [Space Shuttle Endeavour]()
+
+| [California Science]() [Space Shuttle Endeavour]() Progress |
 |---|
 | **[Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )** |
+| **[Last built-for-flight external tank lifted into place for space shuttle Endeavour exhibit / Space](http://www.collectspace.com/news/news-011324a-shuttle-endeavour-exhibit-external-tank-lift.html )** |
+
+| Space News |
+|---|
 | [NASA Turns Light into Sound Frequency Creating a Milky Way Symphony (LISTEN)](https://www.goodnewsnetwork.org/nasa-turns-light-into-sound-frequency-creating-a-milky-way-symphony-listen/ ) |
 | [Deep into the Kuiper Belt, New Horizons is still doing science / Ars Technica](https://arstechnica.com/science/2023/12/squeezing-science-out-of-new-horizons-as-it-heads-out-of-the-solar-system/ ) |
 | [The Milky Way will probably devour all the tiny galaxies that surround it / Ars Technica](https://arstechnica.com/science/2023/12/the-milky-way-will-probably-devour-all-the-tiny-galaxies-that-surround-it/ ) |
@@ -266,3 +272,6 @@
 | [Revolutionizing the Cosmos: Deep Learning Supercharges Galactic Calculations](https://scitechdaily.com/revolutionizing-the-cosmos-deep-learning-supercharges-galactic-calculations/ ) |
 | [Stretching the Limits: How Diamond Manipulation Enhances Quantum Bits](https://scitechdaily.com/stretching-the-limits-how-diamond-manipulation-enhances-quantum-bits/ ) |
 | [The Fast and the Luminous: First Visible Wavelength Femtosecond Fiber Laser Developed](https://scitechdaily.com/the-fast-and-the-luminous-first-visible-wavelength-femtosecond-fiber-laser-developed/ ) |
+| [NASA's GUSTO prepares to map space between the stars](https://phys.org/news/2023-12-nasa-gusto-space-stars.html ) |
+| [The holographic secret of black holes](https://phys.org/news/2023-12-holographic-secret-black-holes.html ) |
+| [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html ) |

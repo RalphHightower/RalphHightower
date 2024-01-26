@@ -68,19 +68,20 @@
 | Star Trek Articles |
 |---|
 | **[Star Trek: Deep Space Nine's Ending, Explained](https://gamerant.com/star-trek-deep-space-nine-ds9-ending-explained/ )** |
-| [Letting Jonathan Frakes Direct Star Trek Came Back To Bite The Show's Producer](https://www.slashfilm.com/820701/reasons-why-the-next-generation-is-the-best-star-trek-show/ ) |
-| [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/#star-trek-discovery-season-1-amp-2 ) |
-| [A Message From - And To - NASA From Star Trek Strange New Worlds - SpaceRef](https://spaceref.com/newspace-and-tech/a-message-from-and-to-nasa-from-star-trek-strange-new-worlds/ ) |
-| [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
-| [Deep Space Nine's Surprise Star Trek Comeback Proves It’s Time For A Revival](https://screenrant.com/star-trek-deep-space-nine-lower-decks-revival/ ) |
-| ['Star Trek Starfleet Academy' to Film in 2024, Will Be Funny](https://collider.com/star-trek-starfleet-academy-filming-2024-comedy/ ) |
+| [New ‘Star Trek’ Movie Will Be Set Decades Before Kirk & Spock – IndieWire](https://www.indiewire.com/news/breaking-news/new-star-trek-movie-set-decades-before-kirk-spock-1234942543/ ) |
 | [Star Trek: Section 31' Original Movie Event Starring Oscar Winner Michelle Yeoh Announced](https://www.startrek.com/news/star-trek-section-31-original-movie-event-michelle-yeoh) |
 | [Star Trek: Section 31 Movie Goes Ahead With Michelle Yeoh! – Trek Central](https://trekcentral.net/star-trek-section-31-movie-goes-ahead-with-michelle-yeoh/ ) |
 | [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
 | [New Series Order for 'Star Trek: Starfleet Academy' Announced](https://www.startrek.com/news/new-series-star-trek-starfleet-academy) |
 | [BREAKING: Star Trek: Starfleet Academy Show Announced! – Trek Central](https://trekcentral.net/breaking-star-trek-starfleet-academy-show-announced/ ) |
+| ['Star Trek Starfleet Academy' to Film in 2024, Will Be Funny](https://collider.com/star-trek-starfleet-academy-filming-2024-comedy/ ) |
 | [Terry Matalas explains how Star Trek: Legacy would be different](https://redshirtsalwaysdie.com/2023/05/27/terry-matalas-explains-how-star-trek-legacy-would-be-different/ ) |
 | [Is Star Trek Legacy already in Development? – Trek Central](https://trekcentral.net/is-star-trek-legacy-already-in-development/ ) |
+| [Letting Jonathan Frakes Direct Star Trek Came Back To Bite The Show's Producer](https://www.slashfilm.com/820701/reasons-why-the-next-generation-is-the-best-star-trek-show/ ) |
+| [How To Watch All Star Trek TV Shows In Timeline Order](https://screenrant.com/star-trek-tv-shows-watch-timeline-order/#star-trek-discovery-season-1-amp-2 ) |
+| [A Message From - And To - NASA From Star Trek Strange New Worlds - SpaceRef](https://spaceref.com/newspace-and-tech/a-message-from-and-to-nasa-from-star-trek-strange-new-worlds/ ) |
+| [Every Known Member Of Star Trek's Section 31](https://screenrant.com/every-known-member-of-star-treks-section-31/ ) |
+| [Deep Space Nine's Surprise Star Trek Comeback Proves It’s Time For A Revival](https://screenrant.com/star-trek-deep-space-nine-lower-decks-revival/ ) |
 | **[Amazon\.com: Star Trek: Picard The Legacy Collection \[Blu-ray\] : LeVar Burton, Jonathon Frakes, Pactrick Stewart: Movies & TV](https://www.amazon.com/Star-Trek-Picard-Collection-Blu-ray/dp/B0C87DFHNY?keywords=Picard+Legacy+Collection&qid=1693936542&sr=8-1&linkCode=sl1&tag=trekmovie-20&linkId=9b44bde4622155d3bf76e048c488a6fc&language=en_US& )** |
 | **[Nichelle Nichols Remembers Dr. Martin Luther King, Jr. / Star Trek](https://www.startrek.com/news/nichelle-nichols-remembers-dr-king )** |
 | [10 Reasons Star Trek: Legacy Needs Captain Shaw Back](https://screenrant.com/star-trek-legacy-why-liam-shaw-must-return/ ) |
@@ -127,7 +128,6 @@
 | [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) |
 | [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
 | [Star Trek: Voyager's Coaxial Drive, Explained](https://gamerant.com/star-trek-voyager-coaxial-drive-explained/ ) |
-| ["All Those Who Wander" is a provocative Strange New Worlds title](https://redshirtsalwaysdie.com/2022/07/01/wander-provocative-strange-new-worlds-title/ ) |
 | [Jean Luc Picard's First F-Bomb Is Meant to Make Fans Uncomfortable](https://www.cbr.com/picard-f-bomb-fans-uncomfortable/ ) |
 | [One Star Trek Episode Convinced Patrick Stewart That Brent Spiner Should've Won An Emmy](https://www.slashfilm.com/1426394/star-trek-episode-convinced-patrick-stewart-brent-spiner-shouldve-won-emmy/ ) |
 | [Patrick Stewart Credits Jonathan Frakes For Star Trek: First Contact Being The Best TNG Movie](https://www.slashfilm.com/1426604/patrick-stewart-jonathan-frakes-star-trek-first-contact-best-the-next-generation-movie/ ) |
@@ -138,7 +138,7 @@
 | [Picard's Villain Vadic Is The Literal Next Generation Of Star Trek Villain](https://www.cbr.com/star-trek-picard-vadic-christopher-plummer-villain/ ) |
 | [Spock Admits Why He Became More of a Rebel After Leaving the Enterprise](https://screenrant.com/spock-admits-became-rebel-leaving-enterprise/ ) |
 | [Star Trek Fans Launch New Campaign For Picard’s Legacy Spinoff](https://screenrant.com/star-trek-legacy-fans-new-campaign-spinoff-greenlight/ ) |
-| [Star Trek Finally Uses A Starship Captain’s Perk That’s Usually Forgotten](https://screenrant.com/star-trek-lower-decks-captain-yacht-forgotten/ ) || [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
+| [Star Trek Generations Ending & Kirk's Death Explained](https://screenrant.com/star-trek-generations-ending-kirk-death-explained/ ) |
 | [Star Trek Has A New Scotty (Besides Strange New Worlds’ Young Engineer)](https://screenrant.com/star-trek-lower-decks-billups-joke-new-scotty/ ) |
 | [Star Trek Is Over For 2023 - Now What?](https://screenrant.com/star-trek-lower-decks-end-2023-next-year/ ) |
 | [Star Trek Just Confirmed Spock's Starfleet Rank Is Basically A Lie](https://screenrant.com/star-trek-spock-starfleet-rank-lie/ ) |
@@ -157,7 +157,6 @@
 | [Star Trek: Strange New Worlds loses \[spoiler\] but the actor isn't done](https://redshirtsalwaysdie.com/2022/06/30/star-trek-strange-new-worlds-loses-an-important-character/ ) |
 | [Star Trek: The Most Interesting Planets In The Franchise](https://gamerant.com/star-trek-most-interesting-planets/ ) |
 | [Star Trek: Unethical Tech Used By The Federation](https://gamerant.com/star-trek-worst-unethical-tech-used-the-federation/ ) |
-| [Star Trek: Voyager's Coaxial Drive, Explained](https://gamerant.com/star-trek-voyager-coaxial-drive-explained/ ) |
 | [Star Trek: Warp Travel Trivia](https://gamerant.com/star-trek-warp-travel-facts-lore-trivia/ ) |
 | [Star Trek: Why Was The Kolvoord Starburst Banned?](https://gamerant.com/star-trek-why-was-kolvoord-starburst-banned-explained/ ) |
 | [Synthehol: Star Trek's Sci-Fi Take on Alcohol, Explained](https://www.cbr.com/star-trek-synthehol-fake-alcohol-explained/ ) |

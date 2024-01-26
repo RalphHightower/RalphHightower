@@ -169,6 +169,7 @@
 | [Myir MYC-JX8MMA7 CPU Module](http://www.myirtech.com/list.asp?id=702) | (H/W) |
 | [NanoPi R6S](https://www.friendlyelec.com/index.php?route=product/product&product_id=289) | (H/W: $119) |
 | [Newark](https://www.newark.com/) | (H/W) |
+| **[NanoPC-T6](https://www.friendlyelec.com/index.php?route=product/product&product_id=292 )** | **(H/W) $219.79 16GB/256GB** |
 | [Nuvoton MA35D1 Dual Cores Industrial Control Series](https://www.nuvoton.com/products/microprocessors/arm-cortex-a35-mpus/ma35d1-high-performance-edge-iiot-series/) | (H/W) |
 | **[NVIDIA Jetson Developer Kits](https://developer.nvidia.com/embedded/jetson-developer-kits)** | (H/W) |
 | **[NVIDIA Jetson Modules](https://developer.nvidia.com/embedded/jetson-modules)** | (H/W) |
@@ -686,6 +687,7 @@
 | [TTS-20 Pro laser engraver review - CNX Software](https://www.cnx-software.com/2023/12/27/tts-20-pro-laser-engraver-review/ )  |
 | [Radxa CM3S Rockchip RK3566 SODIMM system-on-module supports up to 8GB RAM, 128GB flash, wireless module - CNX Software](https://www.cnx-software.com/2023/12/29/radxa-cm3s-rockchip-rk3566-sodimm-system-on-module-8gb-ram-128gb-flash-wireless-module/ ) |
 | [EXT-2.5GE-RK3588-RT is a quad 2.5GbE Ethernet expansion board for ROC-RK3588-RT SBC - CNX Software](https://www.cnx-software.com/2024/01/02/ext-2-5ge-rk3588-rt-quad-2-5gbe-ethernet-expansion-board-roc-rk3588-rt-sbc/ ) |
+| [NanoPC-T6 LTS SBC adds USB ports, 32MB SPI flash, drops 4G LTE support - CNX Software](https://www.cnx-software.com/2024/01/08/nanopc-t6-lts-sbc-adds-usb-ports-32mb-spi-flash-drops-4g-lte-support/ ) |
 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
