@@ -59,6 +59,7 @@ I also have different categories of bucket lists.
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
    - [B&H Photo Video, 420 9th Avenue, New York, NY 10001](https://www.bhphotovideo.com/find/jsp/HelpCenter/StoreInfo.jsp#nycSuperstore )
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
+   - [Stonehenge / English Heritage](https://www.english-heritage.org.uk/visit/places/stonehenge/? )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
    - Hawaii
    - Japan (primarily Tokyo)
