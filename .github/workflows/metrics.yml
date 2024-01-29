@@ -24,6 +24,7 @@ jobs:
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           #output_action: gist
           #committer_gist: ${{ secrets.GIST }}
+          output_action: pull-request
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
