@@ -36,6 +36,7 @@
 
 | Tips |
 |---|
+| [Why you don't need to get to the centerline for April's total solar eclipse — and what will happen at the edge](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality?mc_cid=cd7e89b2dc&mc_eid=6fe31a9e66 ) |
 | [4 Other Ways to Use Your Solar Filters after the Eclipse](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/4-other-ways-to-use-your-solar-filters-after-the-eclipse ) |
 | [7 Perspectives of the Eclipse from the Atlas Obscura Eclipse Festival](https://www.bhphotovideo.com/explora/photography/features/7-perspectives-of-the-eclipse-from-the-atlas-obscura-eclipse-festival ) |
 | [8 Lessons Learned When I Photographed a Total Solar Eclipse](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/8-lessons-learned-when-i-photographed-a-total-solar-eclipse ) |
