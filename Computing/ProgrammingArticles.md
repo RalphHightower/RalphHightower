@@ -65,6 +65,7 @@ Docker
 
 | Programing Articles |
 |---|
+| **[How to get in the flow while coding (and why it’s important) - The GitHub Blog](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/ )** |
 | **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
 | [How to host your side-projects for free in 2023: from Auth to Database - DEV Community](https://livecycle.io/blogs/free-hosting-2023/ ) |
