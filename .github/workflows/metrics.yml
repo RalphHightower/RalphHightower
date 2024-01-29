@@ -520,3 +520,4 @@ jobs:
             plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
             plugin_16personalities_sections: profile, personality, traits
             plugin_16personalities_scores: no
+            output_action: pull-request-merge
