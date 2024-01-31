@@ -78,15 +78,6 @@ jobs:
             token: ${{ METRICS_TOKEN_WITH_SCOPES }}
             config_output: insights
 
-      - name: Presets
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-            filename: metrics.presets.svg
-            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-            base: header, repositories
-            config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
-
       - name: Default metrics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
