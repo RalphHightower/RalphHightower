@@ -36,7 +36,6 @@
 
 ## MIPI Definitions
 
-
 | MIPI Definitions |
 |----|
 | [MIPI-CSI Explanation](https://www.mipi.org/specifications/csi-2) |
@@ -140,14 +139,6 @@
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 | [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
-## Raspberry Pi 4
-
-| Raspberry Pi 4 |
-|---|
-| [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
-| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
-| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
-
 ## Raspberry Pi 5
 
 | Raspberry Pi 5 Articles |
@@ -175,6 +166,14 @@
 | Milk-V Pioneer |
 |---|
 | [Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer ) |
+
+## Raspberry Pi 4
+
+| Raspberry Pi 4 |
+|---|
+| [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
+| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
+| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
 ## Communications 
 
