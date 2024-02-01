@@ -1,0 +1,36 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Calendar
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 1 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Current year calendar
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.calendar.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_calendar: yes
+        
+        - name: Full history calendar
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.calendar.full.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_calendar: yes
+            plugin_calendar_limit: 0
