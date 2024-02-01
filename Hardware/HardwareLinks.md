@@ -254,8 +254,9 @@
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **$1239 Cluster Board, 7 RISC-V w/ 16GB/128GB** |
 | **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
-| [SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/) | (H/W) |
-| [SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/) | (H/W) |
+| **[SixFab Raspberry Pi 5G Development Kit](https://sixfab.com/product/raspberry-pi-5g-development-kit-5g-hat/)** | (H/W) |
+| **[SixFab — Raspberry Pi Cellular HATs](https://sixfab.com/product-category/raspberry-pi-shields/)** | (H/W) |
+| **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
 | **[SolidRun / HummingBoard 8P Edge AI](https://shop.solid-run.com/product/SRMP8-EVKHP-H8-R1.2/ )** | (H/W) $590.00 |
 | **[SolidRun – Embedded Computers](https://www.solid-run.com/)** | (H/W) |
 | [SZ Tomato 8K Android TV Box Amlogic S928X](https://www.sztomato.com/products/8K-Android-TV-Box-Amlogic-S928X-Chip.html ) | (H/W) |
@@ -697,7 +698,8 @@
 | [NanoPC-T6 LTS SBC adds USB ports, 32MB SPI flash, drops 4G LTE support - CNX Software](https://www.cnx-software.com/2024/01/08/nanopc-t6-lts-sbc-adds-usb-ports-32mb-spi-flash-drops-4g-lte-support/ ) |
 | [SenseCAP Indicator D1Pro Review - An ESP32-S3 & RP2040 IoT devkit with a 4-inch display, LoRa connectivity, sensors - CNX Software](https://www.cnx-software.com/2023/05/27/sensecap-indicator-d1pro-review-an-esp32-s3-rp2040-iot-devkit-with-a-4-inch-display-lora-connectivity-sensors/ ) |
 | [Seeed Studio mmWave sensor kit - Part 1: unboxing and first impression with ESPHome and Home Assistant - CNX Software](https://www.cnx-software.com/2023/12/19/seeed-studio-mmwave-sensor-kit-unboxing-esphome-home-assistant/ ) |
-
+| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** |       
+ 
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
 ## Satellite Projects 
