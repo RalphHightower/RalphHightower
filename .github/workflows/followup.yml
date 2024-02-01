@@ -1,0 +1,56 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Follow-ups
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 5 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Opened on user's repositories
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.followup.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+        
+        - name: Opened by user
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.followup.user.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+            plugin_followup_sections: user
+        
+        - name: Indepth analysis
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.followup.indepth.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+            plugin_followup_indepth: yes
+        
+        - name: Exclude Archived
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.followup.archived.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_followup: yes
+            plugin_followup_archived: no
+          prod:
+            skip: true
