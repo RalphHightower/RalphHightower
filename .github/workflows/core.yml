@@ -31,7 +31,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.large.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             config_display: large
         
         - name: JSON metrics
@@ -39,7 +39,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.example.json
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             config_output: json
         
         - name: PNG metrics
@@ -47,7 +47,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.example.png
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             config_output: png
         
         - name: Metrics insights
@@ -55,6 +55,6 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.insights.html
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             config_output: insights
         
