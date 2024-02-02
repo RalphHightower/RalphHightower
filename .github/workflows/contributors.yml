@@ -22,7 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.contributors.contributions.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             template: repository
             repo: metrics
