@@ -22,7 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.achievements.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_achievements: yes
             plugin_achievements_only: sponsor, maintainer, octonaut
