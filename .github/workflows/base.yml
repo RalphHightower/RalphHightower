@@ -22,5 +22,5 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.base.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: header, activity, community, repositories, metadata
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            #base: header, activity, community, repositories, metadata
