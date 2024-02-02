@@ -30,7 +30,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.calendar.full.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_calendar: yes
             plugin_calendar_limit: 0
