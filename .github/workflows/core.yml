@@ -22,7 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.organization.svg
-            user: github
+            user: RalphHightower
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: header, repositories
             output_action: commit #pull-request-merge
