@@ -30,7 +30,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.user.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_followup: yes
             plugin_followup_sections: user
@@ -39,7 +39,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.indepth.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_followup: yes
             plugin_followup_indepth: yes
@@ -48,9 +48,8 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.archived.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_followup: yes
             plugin_followup_archived: no
-          prod:
-            skip: true
+          
