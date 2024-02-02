@@ -27,13 +27,13 @@ jobs:
             plugin_habits: yes
             plugin_habits_facts: yes
             plugin_habits_charts: no
-            config_timezone: Europe/Paris
+            config_timezone: America/New_York
         
         - name: Recent activity charts
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.habits.charts.svg
-            token: ${{ secrets.METRICS_TOKEN }}
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_habits: yes
             plugin_habits_facts: no
