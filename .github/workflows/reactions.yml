@@ -24,7 +24,6 @@ jobs:
             filename: metrics.plugin.reactions.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
-            template: markdown
             base: ""
             plugin_reactions: yes
             plugin_reactions_limit: 100
