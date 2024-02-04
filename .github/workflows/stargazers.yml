@@ -23,6 +23,7 @@ jobs:
           with:
             filename: metrics.plugin.stargazers.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_stargazers: yes
         
@@ -31,6 +32,7 @@ jobs:
           with:
             filename: metrics.plugin.stargazers.graph.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_stargazers: yes
             plugin_stargazers_charts_type: graph
@@ -40,6 +42,7 @@ jobs:
           with:
             filename: metrics.plugin.stargazers.worldmap.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_stargazers: yes
             plugin_stargazers_charts: no
