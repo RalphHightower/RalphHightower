@@ -23,6 +23,7 @@ jobs:
           with:
             filename: metrics.plugin.habits.facts.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_habits: yes
             plugin_habits_facts: yes
@@ -34,6 +35,7 @@ jobs:
           with:
             filename: metrics.plugin.habits.charts.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_habits: yes
             plugin_habits_facts: no
