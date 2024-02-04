@@ -23,16 +23,17 @@ jobs:
           with:
             filename: metrics.plugin.achievements.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_achievements: yes
             plugin_achievements_only: sponsor, maintainer, octonaut
-            template: markdown
             
         - name: Compact display
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.achievements.compact.svg
             token: ${{ secrets.METRICS_TOKEN }}
+            template: markdown
             base: ""
             plugin_achievements: yes
             plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
