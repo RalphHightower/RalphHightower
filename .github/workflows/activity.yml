@@ -23,6 +23,7 @@ jobs:
           with:
             filename: metrics.plugin.activity.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_activity: yes
             plugin_activity_limit: 5
