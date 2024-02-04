@@ -33,6 +33,7 @@ jobs:
           with:
             filename: metrics.large.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             config_display: large
         
         - name: JSON metrics
@@ -41,6 +42,7 @@ jobs:
           with:
             filename: metrics.example.json
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             config_output: json
         
         - name: PNG metrics
@@ -49,6 +51,7 @@ jobs:
           with:
             filename: metrics.example.png
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             config_output: png
         
         - name: Metrics insights
@@ -57,5 +60,6 @@ jobs:
           with:
             filename: metrics.insights.html
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             config_output: insights
         
