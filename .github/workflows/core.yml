@@ -24,6 +24,7 @@ jobs:
             filename: metrics.organization.svg
             user: RalphHightower
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: header, repositories
             output_action: commit #pull-request-merge
         
