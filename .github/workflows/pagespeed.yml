@@ -58,6 +58,7 @@ jobs:
           with:
             filename: metrics.plugin.pagespeed.svg
             token: NOT_NEEDED
+            template: markdown
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
