@@ -22,6 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.svg
+            template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
@@ -32,6 +33,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.detailed.svg
+            template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
@@ -43,6 +45,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.screenshot.svg
+            template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
