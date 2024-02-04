@@ -2,7 +2,7 @@
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
-name: Metrics — Core
+name: Metrics — Reactions
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
   schedule: [{cron: "30 3 * * *"}]
@@ -23,6 +23,7 @@ jobs:
           with:
             filename: metrics.plugin.reactions.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_reactions: yes
             plugin_reactions_limit: 100
