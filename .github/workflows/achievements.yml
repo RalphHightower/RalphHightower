@@ -27,7 +27,6 @@ jobs:
             base: ""
             plugin_achievements: yes
             plugin_achievements_only: sponsor, maintainer, octonaut
-            template: markdown
             
         - name: Compact display
           uses: lowlighter/metrics@latest
