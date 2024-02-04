@@ -11,8 +11,7 @@ on:
   #push: {branches: ["_staging", "main", "master"]}
 jobs:
   metrics:
-    runs-on: #ubuntu-latest
-      labels: ubuntu-20.04-16core
+    runs-on: ubuntu-latest
     environment: 
       name: metrics
     permissions:
