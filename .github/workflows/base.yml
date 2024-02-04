@@ -23,4 +23,5 @@ jobs:
           with:
             filename: metrics.base.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             #base: header, activity, community, repositories, metadata
