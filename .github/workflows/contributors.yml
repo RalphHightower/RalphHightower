@@ -35,6 +35,7 @@ jobs:
           with:
             filename: metrics.plugin.contributors.categories.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             template: repository
             repo: metrics
