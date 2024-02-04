@@ -32,6 +32,7 @@ jobs:
           with:
             filename: metrics.plugin.calendar.full.svg
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
             base: ""
             plugin_calendar: yes
             plugin_calendar_limit: 0
