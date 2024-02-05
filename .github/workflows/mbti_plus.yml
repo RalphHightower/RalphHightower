@@ -22,6 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.16personalities.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             #template: markdown
             base: ""
