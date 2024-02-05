@@ -22,6 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
@@ -31,6 +32,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.user.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
@@ -41,6 +43,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.indepth.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
@@ -51,6 +54,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.followup.archived.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             base: ""
             plugin_followup: yes
