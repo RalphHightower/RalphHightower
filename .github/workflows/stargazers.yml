@@ -22,6 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.stargazers.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
@@ -31,6 +32,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.stargazers.graph.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
@@ -41,6 +43,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.stargazers.worldmap.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
