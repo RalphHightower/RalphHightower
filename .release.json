@@ -1,5 +1,5 @@
 {
-    "branches": "main",
+    "branches": ["main", "_staging"],
     "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
     "debug": "true",
     "plugins": [
