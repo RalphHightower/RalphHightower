@@ -22,6 +22,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.organization.svg
+            use_prebuilt_image: yes
             user: RalphHightower
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
@@ -32,6 +33,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.large.svg
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             config_display: large
@@ -41,6 +43,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.example.json
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             config_output: json
@@ -50,6 +53,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.example.png
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             config_output: png
@@ -59,6 +63,7 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.insights.html
+            use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             config_output: insights
