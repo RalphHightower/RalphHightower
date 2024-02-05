@@ -22,45 +22,49 @@ jobs:
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.svg
+            use_prebuilt_image: yes
             template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-            plugin_pagespeed_url: https://lecoq.io
+            plugin_pagespeed_url: https://ralphhightower.github.io/RalphHightower
         
         - name: Pagespeed Detailed report
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.detailed.svg
+            use_prebuilt_image: yes
             template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_detailed: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-            plugin_pagespeed_url: https://lecoq.io
+            plugin_pagespeed_url: https://ralphhightower.github.io/RalphHightower
         
         - name: Pagespeed Screenshot
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.screenshot.svg
+            use_prebuilt_image: yes
             template: markdown
             token: NOT_NEEDED
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_screenshot: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-            plugin_pagespeed_url: https://lecoq.io
+            plugin_pagespeed_url: https://ralphhightower.github.io/RalphHightower
         
         - name: Pagespeed Succinct report with PWA
           uses: lowlighter/metrics@latest
           with:
             filename: metrics.plugin.pagespeed.svg
+            use_prebuilt_image: yes
             token: NOT_NEEDED
             template: markdown
             base: ""
             plugin_pagespeed: yes
             plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-            plugin_pagespeed_url: https://lecoq.io
+            plugin_pagespeed_url: https://ralphhightower.github.io/RalphHightower
             plugin_pagespeed_pwa: yes
