@@ -25,8 +25,7 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
-            template: repository
-            repo: metrics
+            repo: RalphHightower
             plugin_contributors: yes
             plugin_contributors_contributions: yes
         
@@ -37,8 +36,7 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             base: ""
-            template: repository
-            repo: metrics
+            repo: RalphHightower
             plugin_contributors: yes
             plugin_contributors_sections: categories
             plugin_contributors_categories: |
