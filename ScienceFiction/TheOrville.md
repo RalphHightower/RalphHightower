@@ -17,4 +17,5 @@
 | [The Orville: New Horizons Promises The Best Looking Season Yet](https://www.cbr.com/the-orville-new-horizons-disney-fox/ ) |
 | [The Orville: New Horizons Trailer Includes Star Wars Easter Egg](https://www.cbr.com/the-orville-new-horizons-season-3-trailer-star-wars-easter-egg/ ) |
 | [The Orville: Why Halston Sage's Security Officer Alara Kitan Left the Ship](https://www.cbr.com/the-orville-why-halston-sage-alara-kitan-left/ ) |
+| [The Orville Would Overtake Star Trek In 1 Surprising Way If Season 4 Happens](https://screenrant.com/orville-season-4-overtake-star-trek-tos-cancel/ ) |
 
