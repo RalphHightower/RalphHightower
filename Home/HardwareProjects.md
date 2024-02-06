@@ -162,10 +162,12 @@ Articles:
 | [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
 | [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
+| **[The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit / PC Gamer](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit/ )** |
 
 | Add-ons | Price |
 |---|---|
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
+| **[Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 
 ## Milk-V Pioneer 
 
