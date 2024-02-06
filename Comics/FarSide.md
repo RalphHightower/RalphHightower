@@ -26,3 +26,5 @@
 | [The Far Side: 10 Weirdest Holiday Comics](https://screenrant.com/the-far-side-10-weirdest-holiday-comics/ ) |
 | [This Brilliant Peanuts Reference Proves Far Side Is the Smartest Comic Strip Ever](https://screenrant.com/far-side-brilliant-peanuts-reference-second-lucy/ ) |
 | [Far Side's Most Confusing Comic Has an Incredibly Simple Explanation](https://screenrant.com/far-side-most-confusing-mixed-captions-gary-larson/ ) |
+**[10 Outrageous Far Side Comics Featuring Anthropomorphized Animals](https://screenrant.com/the-far-side-funniest-comics-anthropomorphized-animals/ )**
+| [Why Tales From The Far Side 2 Never Released In The US](https://screenrant.com/tales-from-the-far-side-2-no-united-states-release-explained/ ) |
