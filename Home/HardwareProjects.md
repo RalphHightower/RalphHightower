@@ -143,8 +143,10 @@
 
 | Raspberry Pi 5 Articles |
 |---|
+Articles:
 | **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
 | **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** |
+| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** |
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
@@ -160,6 +162,10 @@
 | [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
 | [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
+
+| Add-ons | Price |
+|---|---|
+| **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
 
 ## Milk-V Pioneer 
 
