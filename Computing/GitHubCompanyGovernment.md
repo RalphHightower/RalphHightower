@@ -4,14 +4,30 @@
 
 ### [Who’s using GitHub? / GitHub and Government](https://government.github.com/community/ )
 
+
 | Company / Government GitHub Repository | Description |
 |---|---|
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
+| [Adobe - Perficient](https://github.com/PRFTAdobe ) | Perficient - Adobe |
+| [Adobe Commerce Docs](https://github.com/commerce-docs ) | We are 42—Adobe's team of Commerce devdocs writers, developers, and enthusiasts!<br />Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br />Our standards demand concise content, descriptive diagrams, and interactive examples.<br />Our purpose is simple: Help developers learn and apply concepts as quickly as possible |
+| [Adobe Community Software](https://github.com/Adobe-Consulting-Services ) | Adobe Community Software |
+| [Adobe Docs](https://github.com/AdobeDocs ) | Adobe Open Source Documentation |
+| [Adobe Experience Cloud](https://github.com/Adobe-Marketing-Cloud ) | SDKs, samples and tools contributed by Adobe engineering and the whole developer community. |
+| [Adobe Extension Development Tools](https://github.com/adobe-extension-tools ) | Tools for for bundling & packaging CEP extension for the Adobe Creative Cloud Suite |
+| [Adobe Fonts](https://github.com/typekit ) | Adobe Typekit|
+| [Adobe I/O](https://github.com/adobeio ) | Adobe I/O |
+| [Adobe Photoshop](https://github.com/adobe-photoshop ) | Adobe Photoshop |
+| [Adobe Research](https://github.com/adobe-research ) | Adobe Research  |
+| [Adobe Typekit](https://github.com/adobe-fonts ) | Adobe Fonts |
+| [Adobe Type Tools](https://github.com/adobe-type-tools ) | Adobe Type Tools |
+| [Adobe XD](https://github.com/AdobeXD ) | Adobe XD |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | An open-source organization focused on advancing AI within the finance sector, founded by Bruce Yang and Yanglet Liu in 2018. |
 | [Akamai](https://github.com/akamai ) | A collection of official Akamai tools, community projects, and other goodies. |
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 | [alteryx](https://github.com/alteryx ) | Alteryx Open Source |
+| [Amazon](https://github.com/amzn ) | Amazon |
 | [Amazon Archives](https://github.com/amazon-archives ) | Amazon Archives |
+| [Amazon Linux](https://github.com/amazonlinux ) |
 | [Amazon Science](https://github.com/amazon-science ) | Amazon Science |
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | Amazon Web Services - Labs AWS Labs |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
@@ -65,15 +81,14 @@
 | [General Motors](https://github.com/generalmotors ) | We envision a future of zero crashes, zero emissions and zero congestion, and we have committed ourselves to leading the way toward this future. |
 | [GENIVI Alliance](https://github.com/GENIVI ) | Archived projects -> Go to https://github.com/COVESA |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
-| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Actions](https://github.com/actions ) | Automate your GitHub workflows |
 | [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
+| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Desktop](https://github.com/desktop ) | Simple collaboration from your desktop |
 | [GitHub Next](https://github.com/githubnext ) | Exploring the future of software development |
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
 | [GitHub Skills](https://github.com/skills ) | Learn how to use GitHub with interactive courses designed for beginners and experts. |
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
-| [Global Imagery Browse Services](https://github.com/nasa-gibs ) | Global Imagery Browse Services |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
@@ -86,9 +101,9 @@
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [Heltec Automation](https://github.com/HelTecAutomation ) | LoRa & IoT hardware and solution providers |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
-| [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [Home Assistant Community Add-ons](https://github.com/hassio-addons ) | Home Assistant Community Add-ons projects |
 | [Home Assistant Libraries](https://github.com/home-assistant-libs ) | Device libraries used by Home Assistant |
+| [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [Huginn](https://github.com/huginn ) | Create agents that monitor and act on your behalf. Your agents are standing by! |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
@@ -111,16 +126,17 @@
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
-| [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
 | [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
 | [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
 | [Meta Research](https://github.com/facebookresearch ) | Meta Research |
+| [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
+| [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth. |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
 | [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
-| [Microsort Azure Active Directory](https://github.com/AzureAD ) | Azure Active Directory |
+| [Microsoft Azure Active Directory](https://github.com/AzureAD ) | Azure Active Directory |
 | [Microsoft Azure Samples](https://github.com/Azure-Samples ) | Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby |
 | [Microsoft Docs](https://github.com/MicrosoftDocs ) | The modern documentation service for Microsoft |
 | [Microsoft Federal - Azure NoOps](https://github.com/azurenoops ) | Open sourced projects for the Azure NoOps Accelerator |
@@ -135,7 +151,7 @@
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
-| [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
+| [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:<br />https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
 | [NASA High Performance Data Analytics](https://github.com/nasa-nccs-cds ) | NASA High Performance Data Analytics |
@@ -185,17 +201,17 @@
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
-| [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Administrative Materials](https://github.com/riscv-admin ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Android](https://github.com/riscv-android-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Non-ISA Specifications](https://github.com/riscv-non-isa ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Software](https://github.com/riscv-software-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
+| [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s ) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
-| [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
+| [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
@@ -265,3 +281,4 @@
 | [Remote Development Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better) |
 | [C# Online Compiler](https://dotnetfiddle.net/Mobile?id=CsCons#code-editor) |
 | [Using Visual Studio Code for C# development / InfoWorld](https://www.infoworld.com/article/3708255/using-visual-studio-code-for-c-sharp-development.html ) |
+
