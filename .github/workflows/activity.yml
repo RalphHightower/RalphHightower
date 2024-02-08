@@ -21,6 +21,7 @@ jobs:
         - name: Recent activity
           uses: lowlighter/metrics@latest
           with:
+            repo: RalphHightower/RalphHightower 
             filename: metrics.plugin.activity.svg
             use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
