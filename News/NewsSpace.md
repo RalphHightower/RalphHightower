@@ -275,3 +275,8 @@
 | [NASA's GUSTO prepares to map space between the stars](https://phys.org/news/2023-12-nasa-gusto-space-stars.html ) |
 | [The holographic secret of black holes](https://phys.org/news/2023-12-holographic-secret-black-holes.html ) |
 | [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html ) |
+| [How SETI is expanding its search for alien intelligence (exclusive) / Space](https://www.space.com/seti-expanding-search-for-alien-intelligence )|
+| [Gory simulation reconstructs the violent clash between a monster black hole and a doomed star / Space](https://www.livescience.com/space/black-holes/gory-simulation-reconstructs-the-violent-clash-between-a-monster-black-hole-and-a-doomed-star ) |
+| [Galactic Surprise: Milky Way’s Slower Outer Stars Suggest Dark Matter Overestimated](https://scitechdaily.com/galactic-surprise-milky-ways-slower-outer-stars-suggest-dark-matter-overestimated/ ) |
+| [It's a fine line between a black hole energy factory and a black hole bomb](https://phys.org/news/2024-01-fine-line-black-hole-energy.html ) |
+| [Betelgeuse. Before, During and After the Great Dimming - Universe Today](https://www.universetoday.com/165520/betelgeuse-before-during-and-after-the-great-dimming/ ) |
