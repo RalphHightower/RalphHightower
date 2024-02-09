@@ -6,6 +6,7 @@
 |---|
 | [Great American Eclipse](https://www.greatamericaneclipse.com/ ) |
 | [The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ ) |
+| [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) |
 
 ## Equipment 
 
