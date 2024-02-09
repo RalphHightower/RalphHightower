@@ -246,7 +246,7 @@
 | [Seeed Studio 60GHz mmWave Radar Module - Respiratory Heartbeat Detection / FMCW / Sync Sense / Privacy Protect](https://www.seeedstudio.com/60GHz-mmWave-Radar-Sensor-Breathing-and-Heartbeat-Module-p-5305.html ) | (H/W) $45.00 |
 | [Seeed Studio 60GHz mmWave Radar Sensor - Fall Detection Module Pro](https://www.seeedstudio.com/60GHz-mmWave-Radar-Sensor-Fall-Detection-Module-Pro-p-5375.html ) | (H/W) $37.00 |
 |[Seeed Studio mmWave Human Detection Sensor Kit](https://www.seeedstudio.com/mmWave-Human-Detection-Sensor-Kit-p-5773.html ) | (H/W) $26.99 |
-| [Seeed Studio SenseCAP Indicator D1Pro(Alpha)](https://www.seeedstudio.com/SenseCAP-Indicator-D1Pro-p-5644.html ) | (H/W) $89.00 |
+| **[Seeed Studio SenseCAP Indicator D1Pro(Alpha) - Seeed Studio](https://www.seeedstudio.com/SenseCAP-Indicator-D1Pro-p-5644.html )** | **(H/W) $89.00** |
 | [Seeed Studio reComputer J101 - Carrier Board for Jetson Nano, same size of NVIDIA® Jetson Nano™ Dev Kit carrier board, micro SD card slot, HDMI2.0, USB, CSI, M.2 key E, GPIO](https://www.seeedstudio.com/reComputer-J101-v2-Carrier-Board-for-Jetson-Nano-p-5396.html) | (H/W) $69 |
 | [Seeed Studio reComputer J202 - carrier Board for Jetson Nano/Xavier NX/TX2 NX, with 4xUSB, M.2 Key M,E same size of NVIDIA® Jetson Xavier™ NX Dev Kit carrier board (Power adapter included)](https://www.seeedstudio.com/reComputer-J202-Carrier-Board-for-Jetson-Xavier-NX-p-5397.html) | (H/W) $139 |
 | [Shinzin Ai-m62-12f Core Development Board, Wi-fi6 Ble5.3 Combo Module, Bl616 Low Power 32-bit Risc-v Cpu, Support Thread Protocol - Integrated Circuits - AliExpress](https://www.aliexpress.com/item/1005005438854506.html ) |
@@ -696,10 +696,10 @@
 | [Radxa CM3S Rockchip RK3566 SODIMM system-on-module supports up to 8GB RAM, 128GB flash, wireless module - CNX Software](https://www.cnx-software.com/2023/12/29/radxa-cm3s-rockchip-rk3566-sodimm-system-on-module-8gb-ram-128gb-flash-wireless-module/ ) |
 | [EXT-2.5GE-RK3588-RT is a quad 2.5GbE Ethernet expansion board for ROC-RK3588-RT SBC - CNX Software](https://www.cnx-software.com/2024/01/02/ext-2-5ge-rk3588-rt-quad-2-5gbe-ethernet-expansion-board-roc-rk3588-rt-sbc/ ) |
 | [NanoPC-T6 LTS SBC adds USB ports, 32MB SPI flash, drops 4G LTE support - CNX Software](https://www.cnx-software.com/2024/01/08/nanopc-t6-lts-sbc-adds-usb-ports-32mb-spi-flash-drops-4g-lte-support/ ) |
-| [SenseCAP Indicator D1Pro Review - An ESP32-S3 & RP2040 IoT devkit with a 4-inch display, LoRa connectivity, sensors - CNX Software](https://www.cnx-software.com/2023/05/27/sensecap-indicator-d1pro-review-an-esp32-s3-rp2040-iot-devkit-with-a-4-inch-display-lora-connectivity-sensors/ ) |
 | [Seeed Studio mmWave sensor kit - Part 1: unboxing and first impression with ESPHome and Home Assistant - CNX Software](https://www.cnx-software.com/2023/12/19/seeed-studio-mmwave-sensor-kit-unboxing-esphome-home-assistant/ ) |
 | **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** |       
- 
+| **[SenseCAP Indicator D1Pro Review - An ESP32-S3 & RP2040 IoT devkit with a 4-inch display, LoRa connectivity, sensors - CNX Software](https://www.cnx-software.com/2023/05/27/sensecap-indicator-d1pro-review-an-esp32-s3-rp2040-iot-devkit-with-a-4-inch-display-lora-connectivity-sensors/ )** |
+
 [^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
 ## Satellite Projects 
