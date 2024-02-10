@@ -7,6 +7,7 @@
 | [NASA Open Data Portal](https://data.nasa.gov/ ) |
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
 | [DSN Now](https://eyes.nasa.gov/dsn/dsn.html ) |
+| [NASA - Catalog of Solar Eclipses of Saros 139](https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros139.html ). |
 
 ### International Space Station 
 
@@ -32,6 +33,7 @@
 | [Sierra Space’s Dream Chaser New Station Resupply Spacecraft for NASA - NASA](https://www.nasa.gov/missions/station/commercial-resupply/sierra-spaces-dream-chaser-new-station-resupply-spacecraft-for-nasa/ ) |
 | [NASA’s Webb Identifies Tiniest Free-Floating Brown Dwarf - NASA](https://www.nasa.gov/missions/webb/nasas-webb-identifies-tiniest-free-floating-brown-dwarf/ ) |
 | **[Reentry video as Orion returns from Artemis I / NASA Image and Video Library](https://images.nasa.gov/details/art001m1203451716 )** |
+| [NASA’s Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies - NASA Science](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/ )  |
 
 ## Satellite Technology
 
