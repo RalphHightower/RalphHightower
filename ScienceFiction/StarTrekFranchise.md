@@ -4,6 +4,9 @@
 
 | [Star Trek](https://www.startrek.com/) Series | Years | Captain |
 |----|----|----|
+| [The Cast Of ‘Star Trek: The Next Generation’ To Receive Special Lifetime Achievement Saturn Award – TrekMovie.com](https://trekmovie.com/2024/01/31/the-cast-of-star-trek-the-next-generation-to-receive-special-lifetime-achievement-saturn-award/ ) |
+| [Paramount+ Begins Filming 'Star Trek: Section 31' With Michelle Yeoh](https://variety.com/2024/tv/news/paramount-plus-star-trek-section-31-movie-michelle-yeoh-1235891617/ ) |
+| [Section 31 Isn’t The Star Trek Movie Fans Want But It Hints At Franchise’s Future](https://screenrant.com/star-trek-section-31-low-budget-character-movie-future/ ) |
 | [Star Trek: The Original Series](https://www.startrek.com/shows/star-trek-the-original-series ) | (1966–1969) | James T Kirk |
 | [Star Trek: The Next Generation](https://www.startrek.com/shows/star-trek-the-next-generation ) | (1987–1994) | Jean Luc Picard |
 | [Star Trek: Deep Space Nine](https://www.startrek.com/shows/star-trek-deep-space-nine ) | (1993–1999) | Benjamin Sisko |
