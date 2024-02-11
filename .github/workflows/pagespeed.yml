@@ -21,7 +21,7 @@ jobs:
         - name: Pagespeed Succinct report
           uses: lowlighter/metrics@latest
           with:
-            filename: metrics.plugin.pagespeed.svg
+            filename: assets.images.pagespeed.svg
             use_prebuilt_image: yes
             template: markdown
             token: NOT_NEEDED
