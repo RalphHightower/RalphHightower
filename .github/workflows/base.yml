@@ -26,3 +26,6 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             template: markdown
             #base: header, activity, community, repositories, metadata
+            quota_required_rest: 5000
+            quota_required_graphql: 5000
+            quota_required_search: 30
