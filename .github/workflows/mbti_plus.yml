@@ -29,6 +29,9 @@ jobs:
             use_prebuilt_image: yes
             token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
             #template: markdown
+            quota_required_rest: 5000
+            quota_required_graphql: 5000
+            quota_required_search: 30
             base: ""
             plugin_16personalities: yes
             plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
