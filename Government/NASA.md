@@ -4,10 +4,13 @@
 
 | [NASA Links](https://www.nasa.gov/) |
 |----|
+| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )[^21] |
 | [NASA Open Data Portal](https://data.nasa.gov/ ) |
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
 | [DSN Now](https://eyes.nasa.gov/dsn/dsn.html ) |
-| [NASA - Catalog of Solar Eclipses of Saros 139](https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros139.html ). |
+| [NASA - Catalog of Solar Eclipses of Saros 139](https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros139.html ). |[^21]: N
+
+[^21]: [NOAA](https://www.noaa.gov) ain't [NASA](https://www.nasa.gov/), but it is a government agency. 
 
 ### International Space Station 
 
