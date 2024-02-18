@@ -1,4 +1,4 @@
-# Photography — Total Solar Eclipse 
+⁹# Photography — Total Solar Eclipse 
 
 ## Resources 
 
@@ -26,12 +26,12 @@
 | [Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466513-REG/sky_watcher_s20110_az5_mount_with_steel.html )[^12] | $355.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Sky-Watcher Star Adventurer Motorized Mount Astro Package](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20510_star_adventurer_motorized_mount.html )[^12] | $310.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Sky-Watcher EQM-35 EQ GoTo Mount Head](https://www.bhphotovideo.com/c/product/1404592-REG/sky_watcher_s30500_eqm_35_mount.html )[^12] | $835.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron Advanced VX GoTo German Equatorial Mount](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^12] | $999.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) | |
+| [Celestron Advanced VX GoTo German Equatorial Mount](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^12] | $999.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^13] | $154.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [iOptron SkyGuider Pro EQ Camera Mount](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^12] | $398.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) | |
-| [Canon 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^14] | $101.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
-| [Canon 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^14] | $471.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
-| [Canon 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^14] | $435.00 for 7 days | Rent | [LensRentals](https://www.lensrentals.com/) Cordova, KY |
+| [iOptron SkyGuider Pro EQ Camera Mount](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^12] | $398.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Canon 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^14] | $101.00 for 7 days | Rent | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^14] | $471.00 for 7 days | Rent | [LensRentals Cordova, KY](https://www.lensrentals.com/) Cordova, KY |
+| [Canon 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^14] | $435.00 for 7 days | Rent | [LensRentals Cordova, KY](https://www.lensrentals.com/) Cordova, KY |
 | [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml ) | $109.00 USD | |
 | [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm ) |  | 
 
