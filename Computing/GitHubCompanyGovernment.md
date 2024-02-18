@@ -52,6 +52,7 @@
 | [Canadian Space Agency - Agence spatiale canadienne](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Open-source simulator for autonomous driving research. |
+| [Ceph](https://github.com/ceph ) | Ceph is a distributed object, block, and file storage platform |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Data Center](https://github.com/datacenter ) | Cisco Data Center – Cisco Open Source Projects for the Data Center |
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
