@@ -1,4 +1,4 @@
-⁹# Photography — Total Solar Eclipse 
+# Photography — Total Solar Eclipse 
 
 ## Resources 
 
