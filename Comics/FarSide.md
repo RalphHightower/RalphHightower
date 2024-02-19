@@ -4,6 +4,8 @@
 |---|
 | **[The Complete Far Side: 1980-1994: Gary Larson, Steve Martin: 9780740721137: Amazon.com: Books](https://www.amazon.com/Complete-Far-Side-1980-1994/dp/0740721135/ref=bmx_dp_5j8xbiro_sccl_2_1/139-4061656-3088856?pd_rd_w=AKqbL&content-id=amzn1.sym.1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_p=1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_r=TK8SZ3A1X6GSTSE0T7WV&pd_rd_wg=gmbnJ&pd_rd_r=29caf881-d843-423b-a9b7-4f4e0296bbf9&pd_rd_i=0740721135&psc=1 ) $183.04** |
 | **[Move Over THE FAR SIDE - Roger Ebert's Comics Rival Gary Larson's Best](https://screenrant.com/roger-ebert-funniest-comics-new-yorker-far-side/ )** |
+| [10 Best Far Side Comics Where Dogs Act Like Humans](https://screenrant.com/best-far-side-comics-dogs-act-like-humans/ ) |
+| [10 of the Far Side's Most Ridiculous Puns (& Why They're Actually Genius)](https://screenrant.com/far-side-funniest-puns-gary-larson-wordplay/ ) |
 | [Every Far Side Comic That Makes Fun of Superman (Ranked from Goofy to Hilarious)](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superhero/ ) |
 | [10 Funniest Far Side Dinosaur Comics Starring Tyrannosaurus Rex](https://screenrant.com/funniest-far-side-comics-dinosaurs-trex-tyrannosaurus-rex/ ) |
 | [10 Funniest Far Side Comics Where Everybody Dies](https://screenrant.com/funniest-far-side-comics-about-death-apocalypse/ ) |
