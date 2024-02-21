@@ -1,1 +1,0 @@
-sort -f addKey.awk <HardwareLinks.md | tee keyed.md | sort -ft: +0n -1 +1nr -2 +2 -2 | tee sorted.md | awk -f removeKet.awk | tee nokey.md
