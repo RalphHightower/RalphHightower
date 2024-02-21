@@ -2,11 +2,28 @@
 
 ## Resources 
 
-| Resources |
+| Planning Resources[^21] |
 |---|
 | [Great American Eclipse](https://www.greatamericaneclipse.com/ ) |
-| [The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ ) |
+| [Total Solar Eclipse April 8, 2024 / Eclipsophile](https://eclipsophile.com/2024tse/ ) |
+| **[Your eclipse weather forecast for April 2024, according to the data](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ )[^22]** |
+| **[Eclipsophile / Climatology and weather for celestial events](https://eclipsophile.com/ )** |
+| **[Weather Planning for Eclipse Day / Eclipsophile](https://eclipsophile.com/eclipse-day-weather/ )** |
+| [Detailed maps of totality for the 2024 eclipse](https://www.astronomy.com/observing/astronomys-atlas-maps-totality/ ) |
+| [2024 eclipse guide: Times, places, states and livestream](https://www.astronomy.com/observing/how-to-see-the-2024-eclipse-times-livestream-and-a-state-by-state-guide/ ) |
+| [The solar eclipse will last a max of 4:28 along the path of totality](https://www.astronomy.com/observing/how-long-will-the-2024-total-solar-eclipse-last/ ) |
+| [April 8 solar eclipse: What will happen during totality? / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-5-spectacular-sights-to-watch-for-during-totality ) |
+| [20 of the best places to view the 2024 total solar eclipse](https://www.astronomy.com/observing/20-of-the-best-places-to-view-the-2024-great-north-american-eclipse/ ) |
+| [25 tips to help you prepare for the total solar eclipse / Astronomy.com](https://www.astronomy.com/observing/25-tips-to-help-you-prepare-for-the-total-solar-eclipse/ ) |
+| [25 tips to take the best eclipse photos](https://www.astronomy.com/observing/25-tips-for-the-best-eclipse-photos/ ) |
+| [A guide to the 2024 eclipse from Astronomy Magazine](https://www.astronomy.com/observing/our-ultimate-guide-to-the-eclipse/ ) |
+| [Eclipse viewing made simple](https://www.astronomy.com/observing/eclipse-viewing-made-simple/ ) |
+| [Gear to safely see the 2024 eclipse](https://www.astronomy.com/observing/the-best-equipment-to-see-the-2024-eclipse/ ) |
+| [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) |
 | [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) |
+
+[^21]: I removed Scientific American from the primary link of links because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
+[^22]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
 
 ## Equipment 
 
