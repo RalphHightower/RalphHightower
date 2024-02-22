@@ -11,6 +11,7 @@
 | **[Weather Planning for Eclipse Day / Eclipsophile](https://eclipsophile.com/eclipse-day-weather/ )** |
 | [Detailed maps of totality for the 2024 eclipse](https://www.astronomy.com/observing/astronomys-atlas-maps-totality/ ) |
 | [2024 eclipse guide: Times, places, states and livestream](https://www.astronomy.com/observing/how-to-see-the-2024-eclipse-times-livestream-and-a-state-by-state-guide/ ) |
+| **[Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse )** |
 | [The solar eclipse will last a max of 4:28 along the path of totality](https://www.astronomy.com/observing/how-long-will-the-2024-total-solar-eclipse-last/ ) |
 | [April 8 solar eclipse: What will happen during totality? / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-5-spectacular-sights-to-watch-for-during-totality ) |
 | [20 of the best places to view the 2024 total solar eclipse](https://www.astronomy.com/observing/20-of-the-best-places-to-view-the-2024-great-north-american-eclipse/ ) |
