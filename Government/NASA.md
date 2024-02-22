@@ -4,7 +4,7 @@
 
 | [NASA Links](https://www.nasa.gov/) |
 |----|
-| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )[^21] |
+| **[NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )**[^21] |
 | [NASA Open Data Portal](https://data.nasa.gov/ ) |
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
 | [DSN Now](https://eyes.nasa.gov/dsn/dsn.html ) |
