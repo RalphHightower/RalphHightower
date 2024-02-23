@@ -175,7 +175,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 
 | Bucket List Cameras | Status |
 |-----------|--------|
-| Canon New F-1, Canon FN Motor Drive FN, Canon AE Finder FN | July  2013 |
+| Canon New F-1, Canon AE Motor Drive FN, Canon AE Finder FN | July  2013 |
 | Mamiya 645||
 | Mamiya RB67 or RZ67||
 | 4×5 monorail view camera ||
