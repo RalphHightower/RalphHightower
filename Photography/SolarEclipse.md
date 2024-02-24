@@ -2,6 +2,8 @@
 
 ## Resources 
 
+### April 8, 2024
+
 | Planning Resources[^21] |
 |---|
 | [Total Solar Eclipse 2024 US — Great American Eclipse](https://www.greatamericaneclipse.com/april-8-2024 ) |
@@ -20,11 +22,13 @@
 | [A guide to the 2024 eclipse from Astronomy Magazine](https://www.astronomy.com/observing/our-ultimate-guide-to-the-eclipse/ ) |
 | [Eclipse viewing made simple](https://www.astronomy.com/observing/eclipse-viewing-made-simple/ ) |
 | [Gear to safely see the 2024 eclipse](https://www.astronomy.com/observing/the-best-equipment-to-see-the-2024-eclipse/ ) |
+| *[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^23]* |
 | [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) |
 | [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) |
 
 [^21]: I removed Scientific American from the primary link of links because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
 [^22]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
+[^23]: A unique method to view the eclipse. 
 
 ## Equipment 
 
