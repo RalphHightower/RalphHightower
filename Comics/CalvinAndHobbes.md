@@ -1,9 +1,11 @@
-# Comics — Calvin And Hobbes 
+l# Comics — Calvin And Hobbes 
 
 | Best Calvin And Hobbes Collections |
 |---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 ) $99.58** |
 | **[The History Behind Calvin and Hobbes (& Where to Read Bill Watterson's Classic Strips)](https://www.cbr.com/calvin-hobbes-reading-guide/ )** |
+| [Calvin and Hobbes Needs To Be An Animated Series](https://www.cbr.com/calvin-and-hobbes-animated-series/ ) |
+| [10 Best Life Lessons Calvin & Hobbes Taught Us](https://www.cbr.com/calvin-hobbes-best-life-lesson/ ) |
 | [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) |
 | [10 Best Calvin and Hobbes Comics Set In A Winter Wonderland](https://www.cbr.com/calvin-and-hobbes-best-winter-wonderland-comics/) |
 | [Calvin & Hobbes' Best Summer Adventures](https://www.cbr.com/calvin-hobbes-best-summer-vacation-comic-strips/ ) |
