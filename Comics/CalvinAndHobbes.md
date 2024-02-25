@@ -92,7 +92,7 @@
 | [Six by 6 / Six 'retired' artists we'd like to see return to comics](https://www.cbr.com/six-by-6-six-retired-artists-wed-like-to-see-return-to-comics/ ) | Apr 19, 2009 |
 | [Talking Comics with Tim: Andrew Farago](https://www.cbr.com/talking-comics-with-tim-andrew-farago/ ) | Mar 9, 2009 |
 
-| Calvin and Hobbes | ScreenRant Published |
+| [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
 | [These Hilarious Calvin and Hobbes Comics Will Make Any Grown-Up Feel Nostalgic](https://screenrant.com/calvin-hobbes-comics-nostalgia-childhood-imagination/ ) | Feb 24, 2024 |
 | [10 Most Surreal Calvin and Hobbes Comics About Dinosaurs](https://screenrant.com/10-most-surreal-calvin-and-hobbes-comics-dinosaurs/ ) | Dec 16, 2023 |
