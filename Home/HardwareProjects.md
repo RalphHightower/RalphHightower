@@ -139,7 +139,17 @@
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 | [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
-## Raspberry Pi 5
+## Raspberry Pi
+
+| PDP-11 replica kit: the PiDP-11 Build Sequence |
+|---|
+| [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) |
+| [PiDP11 Kit Build - Part 1 (of 4)](https://youtube.com/watch?v=Mt4aKVozrmw& ) |
+| [PiDP11 Kit Build - Part 2 (of 4)](https://youtube.com/watch?v=lxjWOu_1Pb4& ) |
+| [PiDP11 Kit Build - Part 3 (of 4)](https://youtube.com/watch?v=HOMt2NKy1Uw& ) |
+| [PiDP11 Kit Build - Part 4 (of 4)](https://youtube.com/watch?v=llciraSHbRQ& ) |
+
+### Raspberry Pi 5
 
 | Raspberry Pi 5 Articles |
 |---|
@@ -169,12 +179,6 @@ Articles:
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
 | **[Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 
-## Milk-V Pioneer 
-
-| Milk-V Pioneer |
-|---|
-| [Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer ) |
-
 ## Raspberry Pi 4
 
 | Raspberry Pi 4 |
@@ -182,6 +186,14 @@ Articles:
 | [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
 | [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
+
+## RISC-V
+
+### Milk-V Pioneer 
+
+| Milk-V Pioneer |
+|---|
+| [Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer ) |
 
 ## Communications 
 
