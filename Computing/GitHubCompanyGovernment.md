@@ -1,17 +1,34 @@
-# GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+# Computing ~ GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
 
 ## Company / Government [GitHubs](https://github.com/ )
 
 ### [Who’s using GitHub? / GitHub and Government](https://government.github.com/community/ )
 
+
 | Company / Government GitHub Repository | Description |
 |---|---|
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
+| [Adobe - Perficient](https://github.com/PRFTAdobe ) | Perficient - Adobe |
+| [Adobe Commerce Docs](https://github.com/commerce-docs ) | We are 42—Adobe's team of Commerce devdocs writers, developers, and enthusiasts!<br />Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br />Our standards demand concise content, descriptive diagrams, and interactive examples.<br />Our purpose is simple: Help developers learn and apply concepts as quickly as possible |
+| [Adobe Community Software](https://github.com/Adobe-Consulting-Services ) | Adobe Community Software |
+| [Adobe Creative Cloud](https://youtube.com/@AdobeCreativeCloud? ) | Photography |
+| [Adobe Docs](https://github.com/AdobeDocs ) | Adobe Open Source Documentation |
+| [Adobe Experience Cloud](https://github.com/Adobe-Marketing-Cloud ) | SDKs, samples and tools contributed by Adobe engineering and the whole developer community. |
+| [Adobe Extension Development Tools](https://github.com/adobe-extension-tools ) | Tools for for bundling & packaging CEP extension for the Adobe Creative Cloud Suite |
+| [Adobe Fonts](https://github.com/typekit ) | Adobe Typekit|
+| [Adobe I/O](https://github.com/adobeio ) | Adobe I/O |
+| [Adobe Photoshop](https://github.com/adobe-photoshop ) | Adobe Photoshop |
+| [Adobe Research](https://github.com/adobe-research ) | Adobe Research  |
+| [Adobe Typekit](https://github.com/adobe-fonts ) | Adobe Fonts |
+| [Adobe Type Tools](https://github.com/adobe-type-tools ) | Adobe Type Tools |
+| [Adobe XD](https://github.com/AdobeXD ) | Adobe XD |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | An open-source organization focused on advancing AI within the finance sector, founded by Bruce Yang and Yanglet Liu in 2018. |
 | [Akamai](https://github.com/akamai ) | A collection of official Akamai tools, community projects, and other goodies. |
 | [Alibaba](https://github.com/alibaba ) | Alibaba Open Source |
 | [alteryx](https://github.com/alteryx ) | Alteryx Open Source |
+| [Amazon](https://github.com/amzn ) | Amazon |
 | [Amazon Archives](https://github.com/amazon-archives ) | Amazon Archives |
+| [Amazon Linux](https://github.com/amazonlinux ) |
 | [Amazon Science](https://github.com/amazon-science ) | Amazon Science |
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | Amazon Web Services - Labs AWS Labs |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
@@ -26,6 +43,7 @@
 | [Asterisk Project](https://github.com/asterisk ) | Asterisk is a free and open source framework for building communications applications. |
 | [Australian Antarctic Data Centre](https://github.com/AustralianAntarcticDataCentre ) | Australian Antarctic Data Centre |
 | [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision ) | Australian Antarctic Division |
+| [AvaloniaUI](https://github.com/AvaloniaUI ) | A cross-platform UI framework for .NET providing a flexible styling system and supporting Windows, Linux, macOS, iOS, Android and Browser. |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BeagleBoard\.org](https://github.com/beagleboard ) | BeagleBoard\.org Foundation supports building electronics with open source hardware and software, especially Linux |
@@ -35,6 +53,7 @@
 | [Canadian Space Agency - Agence spatiale canadienne](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Open-source simulator for autonomous driving research. |
+| [Ceph](https://github.com/ceph ) | Ceph is a distributed object, block, and file storage platform |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Data Center](https://github.com/datacenter ) | Cisco Data Center – Cisco Open Source Projects for the Data Center |
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
@@ -64,15 +83,14 @@
 | [General Motors](https://github.com/generalmotors ) | We envision a future of zero crashes, zero emissions and zero congestion, and we have committed ourselves to leading the way toward this future. |
 | [GENIVI Alliance](https://github.com/GENIVI ) | Archived projects -> Go to https://github.com/COVESA |
 | [Giskard](https://github.com/Giskard-AI ) | Eliminate risks of AI errors, security issues & biases. Built in Europe 🇫🇷 🇪🇺 |
-| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Actions](https://github.com/actions ) | Automate your GitHub workflows |
 | [GitHub Advanced Security](https://github.com/advanced-security ) | Home of Advanced Security solutions that we can share with the world |
+| [Git](https://github.com/git ) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow |
 | [GitHub Desktop](https://github.com/desktop ) | Simple collaboration from your desktop |
 | [GitHub Next](https://github.com/githubnext ) | Exploring the future of software development |
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
 | [GitHub Skills](https://github.com/skills ) | Learn how to use GitHub with interactive courses designed for beginners and experts. |
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
-| [Global Imagery Browse Services](https://github.com/nasa-gibs ) | Global Imagery Browse Services |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
@@ -101,6 +119,7 @@
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
 | [Kubernetes](https://github.com/kubernetes ) | Kubernetes |
+| [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
 | [Linux TPM2 & TSS2 Software](https://github.com/tpm2-software ) | Developer community for those implementing APIs and infrastructure from the TCG TSS2 specifications. |
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
@@ -119,7 +138,7 @@
 | [Microsoft 365 & Power Platform Community](https://github.com/pnp ) | Microsoft 365 & Power Platform Community open-source projects and samples |
 | [Microsoft Archive](https://github.com/microsoftarchive ) | Archived repositories - for historical interest or community forking, READ ONLY |
 | [Microsoft Azure](https://github.com/Azure ) | APIs, SDKs and open source projects from Microsoft Azure |
-| [Microsort Azure Active Directory](https://github.com/AzureAD ) | Azure Active Directory |
+| [Microsoft Azure Active Directory](https://github.com/AzureAD ) | Azure Active Directory |
 | [Microsoft Azure Samples](https://github.com/Azure-Samples ) | Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby |
 | [Microsoft Docs](https://github.com/MicrosoftDocs ) | The modern documentation service for Microsoft |
 | [Microsoft Federal - Azure NoOps](https://github.com/azurenoops ) | Open sourced projects for the Azure NoOps Accelerator |
@@ -134,7 +153,7 @@
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
-| [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:</br >https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
+| [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:<br />https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
 | [NASA High Performance Data Analytics](https://github.com/nasa-nccs-cds ) | NASA High Performance Data Analytics |
@@ -155,6 +174,7 @@
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
+| [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenAI](https://github.com/openai ) | OpenAI |
@@ -193,8 +213,8 @@
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s ) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
-| [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
+| [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
@@ -264,3 +284,4 @@
 | [Remote Development Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better) |
 | [C# Online Compiler](https://dotnetfiddle.net/Mobile?id=CsCons#code-editor) |
 | [Using Visual Studio Code for C# development / InfoWorld](https://www.infoworld.com/article/3708255/using-visual-studio-code-for-c-sharp-development.html ) |
+

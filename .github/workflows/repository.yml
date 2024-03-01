@@ -1,0 +1,34 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Repositories
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "30 19 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Repository
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.repository.svg
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            user: RalphHightower
+            repo: RalphHightower
+            in_depth: true
+            plugin_lines: yes
+            #plugin_followup: yes
+            plugin_projects: yes
+            #plugin_projects_repositories: lowlighter/metrics/projects/1

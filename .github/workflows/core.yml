@@ -1,0 +1,70 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Core
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 3 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Organization
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.organization.svg
+            use_prebuilt_image: yes
+            user: RalphHightower
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            base: header, repositories
+            output_action: commit #pull-request-merge
+        
+        - name: Large display
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.large.svg
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            config_display: large
+        
+        - name: JSON metrics
+          if: ${{ success() || failure() }}
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.example.json
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            config_output: json
+        
+        - name: PNG metrics
+          if: ${{ success() || failure() }}
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.example.png
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            config_output: png
+        
+        - name: Metrics insights
+          if: ${{ success() || failure() }}
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.insights.html
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            config_output: insights
+        

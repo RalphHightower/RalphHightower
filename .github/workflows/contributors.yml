@@ -1,0 +1,47 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Contributors
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 2 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Contributors with contributions count
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.contributors.contributions.svg
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            base: ""
+            repo: RalphHightower
+            plugin_contributors: yes
+            plugin_contributors_contributions: yes
+        
+        - name: Contributors by categories
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.contributors.categories.svg
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            base: ""
+            repo: RalphHightower
+            plugin_contributors: yes
+            plugin_contributors_sections: categories
+            plugin_contributors_categories: |
+              {
+                "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+                "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+                "💻 Code (other)":["source/**", "Dockerfile"]
+              }

@@ -1,0 +1,45 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
+name: Metrics — Habits
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 7 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+  #push: {branches: ["_staging", "main", "master"]}
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: metrics
+    permissions:
+      contents: write
+
+    steps:
+        - name: Mildly interesting facts
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.habits.facts.svg
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: yes
+            plugin_habits_charts: no
+            config_timezone: America/New_York
+        
+        - name: Recent activity charts
+          uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.habits.charts.svg
+            use_prebuilt_image: yes
+            token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+            template: markdown
+            base: ""
+            plugin_habits: yes
+            plugin_habits_facts: no
+            plugin_habits_charts: yes
+            config_timezone: America/New_York

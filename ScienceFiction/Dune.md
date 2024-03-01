@@ -56,6 +56,28 @@
 | [Dune 2 Is The Last Chance To Save One Box Office Trend From Extinction](https://screenrant.com/dune-2-two-part-movie-hollywood-trend/ ) |
 | [Dune Director Potentially Developming Rendezvous with Rama Sci-Fi Film](https://www.cbr.com/rendezvous-with-rama-dune-director-denis-villeneuve-development/ ) |
 | [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |
+| [First Alia Description Teases Dune 2’s Missing Character & Potential Book Change](https://screenrant.com/dune-2-movie-alia-character-description-different-book/ ) |
+| [Austin Butler Discloses Why He Was Nervous Taking on Dune: Part Two Role](https://www.cbr.com/dune-part-two-star-discloses-nervous/ ) |
+| [Austin Butler teases the dangerous allure of his Dune 2 villain: "There's something sort of seductive about him"](https://www.yahoo.com/entertainment/timoth-e-chalamet-self-conscious-200000342.html ) |
+| [Denis Villeneuve's Dune Also Ignores the One Scene Frank Herbert Wanted](https://www.cbr.com/denis-villeneuve-david-lynch-dune-ignore-banquet-scene/ ) |
+| [Denis Villeneuve Explains Why Dune: Messiah Likely Won't Be His Next Movie Despite 'Almost Finished' Script](https://www.cbr.com/dune-messiah-script-update-denis-villeneuve/ ) |
+| [Denis Villeneuve Praises Timothée Chalamet's Growth as an Actor on Dune: Part Two](https://www.cbr.com/denis-villeneuve-praises-timothe-chalamets-growth-as-an-actor-on-dune-part-two/ ) |
+| [Dune Heading Back to IMAX Theaters With a Sneak Peek at Part Two](https://www.cbr.com/dune-returning-imax-theaters-part-two-sneak-peek/ ) |
+| [Dune's Weirdest Creatures Probably Won't Be in the Movies ](https://www.cbr.com/dune-part-two-omit-chairdogs/ ) |
+| ['Dune 2' IMAX Preview Footage Reveals A Classic Book Scene, Moves Up Release Date](https://www.inverse.com/entertainment/dune-2-preview-footage-imax-paul-riding-the-sandworm-release-date-change ) |
+| [Dune: Part Two's Record-Breaking Runtime Confirmed](https://www.cbr.com/dune-part-two-runtime-confirmed/ ) |
+| [Dune: Part Two: Timothée Chalamet Teases Zendaya's Expanded Role in Sci-Fi Sequel](https://www.cbr.com/dune-part-two-timothe-chalamet-teases-zendaya-expanded-role/ ) |
+| [Dune: Part Two TV Trailer Shows Extended Look at Timothée Chalamet vs. Austin Butler Duel](https://www.cbr.com/dune-part-two-trailer-timothee-chalamet-vs-austin-butler/ ) |
+| [Everything We Know About Dune: Part Two](https://www.cbr.com/dune-part-2-everything-we-know/ ) |
+| ['More Tragic Than the Book': Dune: Part Two Director Teases a Heartbreaking Ending](https://www.cbr.com/dune-part-2-director-heartbreaking-ending/ ) |
+| [Paul Atreides & Feyd-Rautha Harkonnen Lock Blades In Intense Dune 2 Images](https://screenrant.com/dune-2-movie-paul-feyd-rautha-duel-images/ ) |
+| [Timothée Chalamet Reveals How Tom Cruise Inspired His Dune: Part Two Performance](https://www.cbr.com/timothee-chalamet-tom-cruise-dune-part-two/ ) |
+| [Timothée Chalamet Is Self-Conscious About His Sand Worm Riding in Dune 2](https://www.yahoo.com/entertainment/timoth-e-chalamet-self-conscious-200000342.html ) |
+| [Timothée Chalamet Spoils a Major Character’s Return in Dune: Messiah](https://www.cbr.com/timothee-chalamet-dune-messiah-jason-momoa-duncan-idaho/ ) |
+| [Timothée Chalamet, Zendaya, and Austin Butler go into battle in these exclusive Dune: Part Two images](https://www.yahoo.com/entertainment/timoth-e-chalamet-self-conscious-200000342.html ) |
+| ['Who Approved This?': Dune: Part Two's Sandworm Popcorn Bucket Baffles the Internet](https://www.cbr.com/dune-2-popcorn-bucket/ ) |
+| [Dune: Part Two Will Probably Omit Chairdogs](https://www.cbr.com/dune-part-two-omit-chairdogs/ ) |
+| [Zendaya teases her expanded role in Dune 2, but it's not the biggest change between the movie and the novel / GamesRadar+](https://www.gamesradar.com/zendaya-chani-denis-villeneuve-dune-2-interview/ ) |
 
 ## [How to Read the Dune Books in Chronological Order](https://za.ign.com/dune-part-two/176935/lists/how-to-read-the-dune-books-in-chronological-order ) — BY ROSIE KNIGHT 
 
