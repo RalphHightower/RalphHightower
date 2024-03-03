@@ -237,10 +237,12 @@
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |
 | [Triton Inference Server](https://github.com/triton-inference-server ) | NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
+| [Truffle Security](https://github.com/trufflesecurity ) | Find and verify credentials |
 | [Turing Machines](https://github.com/turing-machines ) | A platform for edge computing and AI agents |
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
+| [Valve Software](https://github.com/ValveSoftware ) | Valve Software |
 | [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
