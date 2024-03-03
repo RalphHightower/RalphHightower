@@ -80,6 +80,7 @@
 | [John Mellencamp](https://youtube.com/@JohnMellencampDotCom ) | Music |
 | [KatrinaTheWavesVEVO](https://youtube.com/@KatrinaTheWavesVEVO ) | Music |
 | [Kenny Loggins](https://youtube.com/@KennyLoggins ) | Music |
+| [Led Zeppelin](https://youtube.com/@ledzeppelin? ) | Music |
 | [Linda Ronstadt](https://youtube.com/@lindaronstadtmusic ) | Music |
 | [Manfred Manns Earth Band (MMEB)](https://youtube.com/@ManfredMannOfficial ) | Music |
 | [Meat Loaf](https://youtube.com/@RedPony2 ) | Music |
@@ -92,6 +93,7 @@
 | [Pretenders](https://youtube.com/@ThePretenders ) | Music |
 | [remhq](https://youtube.com/@remhq ) | Music |
 | [Rush](https://youtube.com/@rush ) | Music |
+| [Santana](https://youtube.com/@santana? ) | Music |
 | [Sheryl Crow](https://youtube.com/@Sherylcrow ) | Music |
 | [sina-drums](https://youtube.com/@sina-drums ) | Music |
 | [Taj Mahal](https://youtube.com/@TajMahalMusic ) | Music |
@@ -184,6 +186,7 @@
 | [Zeke Kamm](https://youtube.com/@NiceIndustries ) | Photography/Video |
 | [Lincoln Project, The](https://youtube.com/@TheLincolnProject ) | Politics |
 | [BPS.space](https://youtube.com/@BPSspace ) | Rocketry |
+| [SmarterEveryDay](https://youtube.com/@smartereveryday? ) | Science |
 | [Battlestar Galactica](https://youtube.com/@BattlestarGalactica?si=OQjwyxmunuJTvuJA ) | Science Fiction |
 | [Doctor Who](https://youtube.com/@DoctorWho ) | Science Fiction |
 | [SciTrek](https://youtube.com/@scitrek? ) | Science Fiction News |
