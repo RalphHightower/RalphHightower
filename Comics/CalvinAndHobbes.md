@@ -6,6 +6,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Why Are There So Few Characters in Calvin and Hobbes?](https://www.cbr.com/calvin-and-hobbes-minimal-characters/ ) | Mar 1, 2024 |
 | [Calvin & Hobbes 15 Best Characters](https://www.cbr.com/calvin-n-hobbes-favorite-characters/ ) | Feb 23, 2024 |
 | [Ending Calvin And Hobbes Is Exactly What Saved It](https://www.cbr.com/calvin-and-hobbes-finale-shaped-its-legacy/ ) | Feb 21, 2024 |
 | [Calvin and Hobbes Needs To Be An Animated Show](https://www.cbr.com/calvin-and-hobbes-animated-series/ ) | Feb 13, 2024 |
