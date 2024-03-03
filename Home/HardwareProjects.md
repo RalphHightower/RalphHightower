@@ -141,6 +141,10 @@
 
 ## Raspberry Pi
 
+| Products for Raspberry Pi |
+|---|
+| **[Raspberry Pi Products One Stop Shopping Mall – 52Pi Store](https://52pi.com/ )** |
+
 | PDP-11 replica kit: the PiDP-11 Build Sequence |
 |---|
 | [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) |
