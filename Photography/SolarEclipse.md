@@ -76,7 +76,7 @@
 | [Preparing for the 2024 Total Solar Eclipse, Pt. 4 (Star Tracker Tips inc...](https://youtube.com/watch?v=zfL0phpISAM& ) |
 | [Watch "What to Look For During the 2024 Solar Eclipse -A Discussion with Dr. Telepun Smarter Every Day 295B" on YouTube](https://youtu.be/7wZKAoUeGRw? ) |
 | [Watch "IT'S COMING. April 8th 2024 Total Solar Eclipse: Here's what you need to know -Smarter Every Day 295" on YouTube](https://youtu.be/eNK2LI7VeX4? ) |
-[eclipse — Smarter Every Day](https://www.smartereveryday.com/eclipse )
+| [eclipse — Smarter Every Day](https://www.smartereveryday.com/eclipse ) |
 | [who taught me about eclipses](https://youtu.be/qc7MfcKF1-s ) |
 | [Watch "HOW TO WATCH THE ECLIPSE (AND SHADOW SNAKES) - Smarter Every Day 171" on YouTube](https://youtu.be/qc7MfcKF1-s? ) |
 | **Buying Guide** |
@@ -100,3 +100,4 @@
 | **Trivia** |
 | [Space, Sun, and Solar Viewing: Facts versus Fiction / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/space-sun-and-solar-viewing-facts-versus-fiction) | 
 | [Here Comes (and Goes) the Sun: 5 Shady Facts about Eclipses / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/here-comes-and-goes-the-sun-5-shady-facts-about-eclipses) | 
+
