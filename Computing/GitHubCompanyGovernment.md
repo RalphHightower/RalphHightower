@@ -74,6 +74,7 @@
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
+| [FaceONNX](https://github.com/FaceONNX ) | Face recognition and analytics library based on deep neural networks and ONNX runtime |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
@@ -153,6 +154,7 @@
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
+| [Mixtile](https://github.com/mixtile ) | Mixtile open source projects. |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:<br />https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
