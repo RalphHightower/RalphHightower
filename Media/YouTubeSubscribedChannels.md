@@ -196,11 +196,12 @@
 | [AmericasSpaceShuttle](https://youtube.com/@AmericasSpaceShuttle ) | Space Exploration |
 | [European Space Agency, ESA](https://youtube.com/@EuropeanSpaceAgency ) | Space Exploration |
 | [Kennedy Space Center Visitor Complex](https://youtube.com/@ExploreSpaceKSC ) | Space Exploration |
-| [NASA EDGE](https://youtube.com/@NASAedge ) | Space Exploration |
-| [NASA Goddard](https://youtube.com/@NASAGoddard ) | Space Exploration |
-| [NASA Johnson](https://youtube.com/@ReelNASA ) | Space Exploration |
-| [NASA's Kennedy Space Center](https://youtube.com/@NASAKennedy ) | Space Exploration |
 | [NASA](https://youtube.com/@NASA ) | Space Exploration |
+| [NASA EDGE](https://youtube.com/@NASAedge ) | Space Exploration |
+| [NASA Goddard](https://youtube.com/@NASAGoddard? ) | Space Exploration |
+| [NASA Kennedy Space Center](https://youtube.com/@NASAKennedy? ) | Space Exploration |
+| [NASA Jet Propulsion Laboratory](https://youtube.com/@NASAJPL? ) | Space Exploration |
+| [NASA Johnson](https://youtube.com/@ReelNASA? ) | Space Exploration |
 | [SpaceX](https://youtube.com/@SpaceX ) | Space Exploration |
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
 | [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
