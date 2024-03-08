@@ -6,6 +6,9 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Wildest Far Side Comics Set in Courtroom Scenes](https://screenrant.com/far-side-courtroom-comic-jokes/ ) | Mar 5, 2024 |
+| [15 Funniest Far Side Comics That Make Fun of Real People](https://screenrant.com/funniest-far-side-comics-real-people-celebrities/ ) | Mar 5, 2024 |
+| [10 Best Far Side Comics That Make Jokes About Real World History](https://screenrant.com/far-side-comics-reference-history-gary-larson/ ) | Mar 3. 2024 |
 | [The Far Side: 10 Incredible Strips Where Inanimate Objects Come to Life](https://screenrant.com/far-side-funniest-comics-inanimate-objects/ ) | Feb 27, 2024 |
 | [The Far Side: 10 of the Most Surreal Strips About Doctors](https://screenrant.com/the-far-side-funniest-comic-strips-doctors/ ) | Feb 25, 2024 |
 | [10 Funniest Far Side Comics That Reference Classic TV Shows](https://screenrant.com/funniest-far-side-comics-classic-tv-star-trek/ ) |  Feb 22, 2024 |
