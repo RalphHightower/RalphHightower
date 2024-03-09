@@ -6,7 +6,7 @@
 
 | Planning Resources[^21] |
 |---|
-| **[Where & When](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
+| **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
 | **[Total Solar Eclipse 2024 US — Great American Eclipse](https://www.greatamericaneclipse.com/april-8-2024 )** |
 | **[Total Solar Eclipse April 8, 2024 / Eclipsophile](https://eclipsophile.com/2024tse/ )** |
 | **[Your eclipse weather forecast for April 2024, according to the data](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ )[^22]** |
