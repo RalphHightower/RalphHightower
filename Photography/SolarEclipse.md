@@ -60,20 +60,20 @@
 | [Vello FreeWave Plus II Wireless Remote Shutter Release FWP-C B&H](https://www.bhphotovideo.com/c/product/1619633-REG/vello_fwp_c_wireless_shutter_release_for.html ) | $59.99 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Vello ShutterBoss II Timer Remote Switch for Cameras RC-C2II B&H](https://www.bhphotovideo.com/c/product/840098-REG/Vello_rc_c2ii_Shutterboss_Version_II_Timer.html ) | $49.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466513-REG/sky_watcher_s20110_az5_mount_with_steel.html )[^14]~~ | $355.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20510](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20510_star_adventurer_motorized_mount.html )[^14] | $410.00[^14] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466513-REG/sky_watcher_s20110_az5_mount_with_steel.html )[^14]~~ | ~~$355.00~~ | ~~Buy~~ | ~~[B&H, NYC, NY](https://www.bhphotovideo.com/)~~ |
+| [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20510](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20510_star_adventurer_motorized_mount.html )[^14] | $410.00 | Buy[^14] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )[^15] | $65.00 | Buy[^15] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )[^15] | $33.50 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^15] | $79.99 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-|  | ***$*** | ***Total*** | |
-| [Celestron Advanced VX GoTo German Equatorial Mount 91519 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^14] | $1,179.00 | Buy[^15] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-|  | ***$*** | ***Total*** | |
+| [Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )[^15] | $33.50 | Buy[^15] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^15] | $79.99 | Buy[^15] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+|  | ***$588.49*** | ***Total*** | |
+| [Celestron Advanced VX GoTo German Equatorial Mount 91519 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91519_advanced_vx_computerized_mount.html )[^14] | $1,179.00 | Buy[^14] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^16] | $79.99 | Buy[^16] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^16] | $99.99 | Buy[^16] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^16] | $189.95 | Buy[^16] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+|  | ***$1548.93*** | ***Total*** | |
 | [iOptron SkyGuider Pro EQ Camera Mount 3550 B&H Photo Video](https://www.bhphotovideo.com/c/product/1332922-REG/ioptron_3550_skyguider_pro_camera_mount.html )[^14] | $398.00 | Buy[^14] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [iOptron 1.25" Stainless Steel Tripod for SkyHunter / iPANO /](https://www.bhphotovideo.com/c/product/1677938-REG/ioptron_3221_1_25_stainless_steel_tripod.html )[^17] | $99.00 | Buy[^17] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-|  | ***$*** | ***Total*** | |
+|  | ***$497.00*** | ***Total*** | |
 | **Lens** |
 | [Canon 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^18] | $101.00 for 7 days | Rent | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | [Canon 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^18] | $471.00 for 7 days | Rent | [LensRentals Cordova, KY](https://www.lensrentals.com/) Cordova, KY |
