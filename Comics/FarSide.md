@@ -6,6 +6,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The 10 Funniest Far Side Comics Starring Apes](https://screenrant.com/greatest-far-side-strips-apes-gorillas-gary-larson/ ) | Mar 9, 2024 |
+| [11 Far Side Comics That Prove Creator Gary Larson Was Obsessed With Snakes](https://screenrant.com/far-side-comics-snake-obsessed-gary-larson/ ) | Mar 7, 2024 |
 | [10 Wildest Far Side Comics Set in Courtroom Scenes](https://screenrant.com/far-side-courtroom-comic-jokes/ ) | Mar 5, 2024 |
 | [15 Funniest Far Side Comics That Make Fun of Real People](https://screenrant.com/funniest-far-side-comics-real-people-celebrities/ ) | Mar 5, 2024 |
 | [10 Best Far Side Comics That Make Jokes About Real World History](https://screenrant.com/far-side-comics-reference-history-gary-larson/ ) | Mar 3. 2024 |
