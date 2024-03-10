@@ -13,6 +13,7 @@
 | **[Your eclipse weather forecast for April 2024, according to the data](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ )[^22]** |
 | **[Eclipsophile / Climatology and weather for celestial events](https://eclipsophile.com/ )** |
 | **[Weather Planning for Eclipse Day / Eclipsophile](https://eclipsophile.com/eclipse-day-weather/ )** |
+| **[Total solar eclipse of April 8, 2024 - Information about the Great North American Eclipse / eclipse2024\.org](https://eclipse2024.org/ )** |
 | [Detailed maps of totality for the 2024 eclipse](https://www.astronomy.com/observing/astronomys-atlas-maps-totality/ ) |
 | [2024 eclipse guide: Times, places, states and livestream](https://www.astronomy.com/observing/how-to-see-the-2024-eclipse-times-livestream-and-a-state-by-state-guide/ ) |
 | **[Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse )** |
@@ -26,7 +27,7 @@
 | [A guide to the 2024 eclipse from Astronomy Magazine](https://www.astronomy.com/observing/our-ultimate-guide-to-the-eclipse/ ) |
 | [Eclipse viewing made simple](https://www.astronomy.com/observing/eclipse-viewing-made-simple/ ) |
 | [Gear to safely see the 2024 eclipse](https://www.astronomy.com/observing/the-best-equipment-to-see-the-2024-eclipse/ ) |
-| *[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^23]* |
+| ***[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^23]*** |
 | [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) |
 | **[Eclipse 2024 Citizen Science — NASA](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/eclipse-2024-citizen-science/ )** |
 | [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) |
