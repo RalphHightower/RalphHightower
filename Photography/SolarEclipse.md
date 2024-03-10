@@ -2,13 +2,13 @@
 
 ## [Seven Years Later — xkcd\.com/1928/](https://xkcd.com/1928)
 
-<img src="1928.png />
+<img src="https://imgs.xkcd.com/comics/seven_years.png" />
 
 ## Resources 
 
 ### April 8, 2024
 
-| Planning Resources[^21] |
+| Plannin"g Resources[^21] |
 |---|
 | **[Everything About Eclipses — MrEclipse\.com (Fred Espenak)](https://mreclipse.com/ )** |
 | **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
