@@ -1,5 +1,9 @@
 # Photography — Total Solar Eclipse 
 
+## [Seven Years Later — xkcd\.com/1928/](https://xkcd.com/1928)
+
+<img src="1928.png />
+
 ## Resources 
 
 ### April 8, 2024
