@@ -1,5 +1,24 @@
 # Photography 
 
+## ISS Solar/Lunar Transit Finder
+
+| [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
+|---|
+| [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
+
+## The Art of Photography — B&H Photo/Video
+
+| The Art of Photography — B&H Photo/Video |
+|---|
+| [The Art of Photography, Part 1: Portrait Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-1-portrait-photography ) |
+| [The Art of Photography, Part 2: Travel Photography, with Scott Kelby](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-2-travel-photography-with-scott-kelby ) |
+| [The Art of Photography, Part 3: Smartphone Photography, with Hazel Meredith](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-3-smartphone-photography-with-hazel-meredith ) ### |
+| [The Art of Photography, Part 4: Cityscape Photography](https://blogd7.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-4-cityscape-photography ) |
+| [The Art of Photography, Part 5: Street Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-5-street-photography ) |
+| [The Art of Photography, Part 6: Pet Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-6-pet-photography ) |
+| [The Art of Photography, Part 7: Landscape Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-7-landscape-photography ) |
+| [The Art of Photography, Part 8: Self-Assignments](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-8-self-assignments ) |
+
 ## International Press Telecommunications Council 
 
 | [International Press Telecommunications Council](https://iptc.org/) | 
