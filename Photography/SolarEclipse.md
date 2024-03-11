@@ -4,7 +4,7 @@
 
 | Solar Eclipse Timer for Android / Foxwood Astronomy |
 |----|
-| [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) |
+| [Foxwood Astronomy - YouTube]([Foxwood Astronomy](https://youtube.com/@foxwoodastronomy8255? ) ) |
 | [Android App — Solar Eclipse Timer](https://play.google.com/store/apps/details?id=com.foxwoodastronomy.solareclipsetimer ) |
 
 ## April 8, 2024
