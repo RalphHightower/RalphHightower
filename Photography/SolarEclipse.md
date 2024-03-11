@@ -1,10 +1,17 @@
 # Photography — Total Solar Eclipse 
 
-## [Seven Years Later — xkcd\.com/1928/](https://xkcd.com/1928)
+## Android — Solar Eclipse Timer 
 
-<img src="https://imgs.xkcd.com/comics/seven_years.png" />
+| Solar Eclipse Timer for Android / Foxwood Astronomy |
+|----|
+| [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) |
+| [Android App — Solar Eclipse Timer](https://play.google.com/store/apps/details?id=com.foxwoodastronomy.solareclipsetimer ) |
 
 ## April 8, 2024
+
+### [Seven Years Later — xkcd\.com/1928/](https://xkcd.com/1928)
+
+<img src="https://imgs.xkcd.com/comics/seven_years.png" />
 
 ### Planning Resources 
 
