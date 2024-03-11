@@ -4,9 +4,9 @@
 
 <img src="https://imgs.xkcd.com/comics/seven_years.png" />
 
-## Resources 
+## April 8, 2024
 
-### April 8, 2024
+### Planning Resources 
 
 | Planning Resources[^21] |
 |---|
@@ -40,6 +40,8 @@
 [^21]: I removed Scientific American from the primary link of links because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
 [^22]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
 [^23]: A unique method to view the eclipse. 
+
+### Solar Eclipse Articles 
 
 | Solar Eclipse Articles |
 |---|
@@ -77,7 +79,7 @@
 | [Space, Sun, and Solar Viewing: Facts versus Fiction / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/space-sun-and-solar-viewing-facts-versus-fiction) | 
 | [Here Comes (and Goes) the Sun: 5 Shady Facts about Eclipses / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/here-comes-and-goes-the-sun-5-shady-facts-about-eclipses) | 
 
-## Equipment[^41]
+## Personal Equipment Own/Buy/Rent[^41]
 
 | Equipment | Price | Rent / Buy | Source |
 |---|---|---|---|
