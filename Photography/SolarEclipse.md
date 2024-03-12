@@ -4,7 +4,7 @@
 
 | Solar Eclipse Timer for Android / Foxwood Astronomy |
 |----|
-| [Foxwood Astronomy - YouTube]([Foxwood Astronomy](https://youtube.com/@foxwoodastronomy8255? ) ) |
+| [Foxwood Astronomy — YouTube ](https://youtube.com/@foxwoodastronomy8255? ) |
 | [Android App — Solar Eclipse Timer](https://play.google.com/store/apps/details?id=com.foxwoodastronomy.solareclipsetimer ) |
 
 ## April 8, 2024
@@ -32,6 +32,7 @@
 | [How to Photograph the Eclipse on April 8th, 2024 — YouTube](https://youtube.com/watch?v=VbNdlJogtcE& ) |
 | [The solar eclipse will last a max of 4:28 along the path of totality](https://www.astronomy.com/observing/how-long-will-the-2024-total-solar-eclipse-last/ ) |
 | [April 8 solar eclipse: What will happen during totality? / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-5-spectacular-sights-to-watch-for-during-totality ) |
+| [What will it be like to experience the total solar eclipse 2024? / Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) |
 | [20 of the best places to view the 2024 total solar eclipse](https://www.astronomy.com/observing/20-of-the-best-places-to-view-the-2024-great-north-american-eclipse/ ) |
 | [25 tips to help you prepare for the total solar eclipse / Astronomy.com](https://www.astronomy.com/observing/25-tips-to-help-you-prepare-for-the-total-solar-eclipse/ ) |
 | [25 tips to take the best eclipse photos](https://www.astronomy.com/observing/25-tips-for-the-best-eclipse-photos/ ) |
@@ -80,6 +81,7 @@
 | [Solar and Solar Eclipse Viewing 101 / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/solar-and-solar-eclipse-viewing-101) | 
 | [Solar Eclipse Social Media Guide / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/solar-eclipse-social-media-guide) | 
 | **FAQ** |
+| [All About Eclipses — NASA Central](https://science.nasa.gov/eclipses/ ) |
 | [The Solar Eclipse: 15 Frequently Asked Questions / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/the-solar-eclipse-15-frequently-asked-questions) | 
 | [Solar Eclipse Photography FAQ / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/solar-eclipse-photography-faq) | 
 | **Trivia** |
