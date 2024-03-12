@@ -13,9 +13,9 @@
 
 <img src="https://imgs.xkcd.com/comics/seven_years.png" />
 
-### Planning Resources 
+### Planning Resources[^21] 
 
-| Planning Resources[^21] |
+| Planning Resources |
 |---|
 | **[Everything About Eclipses — MrEclipse\.com (Fred Espenak)](https://mreclipse.com/ )** |
 | **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
