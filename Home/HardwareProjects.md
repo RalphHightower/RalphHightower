@@ -153,6 +153,12 @@
 | [PiDP11 Kit Build - Part 3 (of 4)](https://youtube.com/watch?v=HOMt2NKy1Uw& ) |
 | [PiDP11 Kit Build - Part 4 (of 4)](https://youtube.com/watch?v=llciraSHbRQ& ) |
 
+### Raspberry Pi OS
+
+| Alternative Raspberry Pi OS |
+|---|
+| [Venturing beyond the default OS on Raspberry Pi 5 • The Register](https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/ ) |
+
 ### Raspberry Pi 5
 
 | Raspberry Pi 5 Articles |
@@ -177,13 +183,21 @@ Articles:
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
 | [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
 | **[The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit / PC Gamer](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit/ )** |
+| [PineBerry Pi launches five additional HAT+ boards for the Raspberry Pi 5 with 2.5GbE, GbE, M.2 NVMe, and more - CNX Software](https://www.cnx-software.com/2024/03/08/pineberry-pi-hat-plus-boards-raspberry-pi-5-2-5gbe-gbe-m2-nvme/ ) |
+| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
+| **[Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/ )** |
+| [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) |
+| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) |
+| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) |
 
 | Add-ons | Price |
 |---|---|
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
 | **[Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
+| [Products – Pineberry Pi](https://pineberrypi.com/pages/products )
+| [Pineberry Pi](https://pineberrypi.com/ ) |
 
-## Raspberry Pi 4
+### Raspberry Pi 4
 
 | Raspberry Pi 4 |
 |---|
