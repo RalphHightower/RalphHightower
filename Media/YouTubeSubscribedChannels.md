@@ -37,6 +37,7 @@
 | [Jeri Ellsworth](https://youtube.com/@jeriellsworth ) | Electronics |
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
+| [jeffostroff](https://youtube.com/@jeffostroff ) | Engineering / Tools |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
 | [Warner Bros. Entertainment](https://youtube.com/@warnerbrosentertainment ) | Entertainment |
 | [Publix](https://youtube.com/@Publix ) | Food |
@@ -206,6 +207,5 @@
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
 | [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
 | [DEWALT TV](https://youtube.com/@dewalttv ) | Tools |
-| [jeffostroff](https://youtube.com/@jeffostroff ) | Tools |
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |
