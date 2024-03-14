@@ -40,7 +40,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 | Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21] |
 | YouTube | [@RalphHightower](https://youtube.com/user/@RalphHightower) |
 
-[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!*** 
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
 ## Bucket Lists
 
@@ -56,14 +56,16 @@ I also have different categories of bucket lists.
    - Slot Canyon (color & B&W photographs)
    - Aurora Borealis
    - Total Solar Eclipse: April 8, 2024
-   - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
-   - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
    - [B&H Photo Video, 420 9th Avenue, New York, NY 10001](https://www.bhphotovideo.com/find/jsp/HelpCenter/StoreInfo.jsp#nycSuperstore )
+   - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
+   - [CERN — Conseil européen pour la Recherche nucléaire / European Organization for Nuclear Researce, France/Switzerland](https://home.cern/ )
+   - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
+   - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Stonehenge / English Heritage](https://www.english-heritage.org.uk/visit/places/stonehenge/? )
-   - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
    - Hawaii
    - Japan (primarily Tokyo)
+   - [Capturing Yosemite's gorgeous — and elusive — natural 'firefall' : NPR](https://www.npr.org/2024/03/04/1235163963/yosemite-el-capitan-firefall-photography )
 2.	Cars
    - Corvette (mid-engine)[^85]
    - El Camino (65-67)[^86]
