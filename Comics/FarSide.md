@@ -6,6 +6,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Far Side Characters That Are Absolutely Doomed](https://screenrant.com/gary-larson-doomed-far-side-characters/ ) | Mar 13, 2024 |
+| [9 Funniest Far Side Comics Featuring Vampires](https://screenrant.com/funniest-far-side-comics-vampires-gary-larson/ ) | Mar 11, 2024 |
 | [The 10 Funniest Far Side Comics Starring Apes](https://screenrant.com/greatest-far-side-strips-apes-gorillas-gary-larson/ ) | Mar 9, 2024 |
 | [11 Far Side Comics That Prove Creator Gary Larson Was Obsessed With Snakes](https://screenrant.com/far-side-comics-snake-obsessed-gary-larson/ ) | Mar 7, 2024 |
 | [10 Wildest Far Side Comics Set in Courtroom Scenes](https://screenrant.com/far-side-courtroom-comic-jokes/ ) | Mar 5, 2024 |
