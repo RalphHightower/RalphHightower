@@ -63,15 +63,15 @@
 | **Preparation** |
 | [How to Photograph a Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/how-to-photograph-a-solar-eclipse) | 
 | [Mark Your Calendars: America's Total Solar Eclipse 2024 / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/americas-total-solar-eclipse-2024) | 
-| [Preparing for the 2024 Total Solar Eclipse, Part 1](https://youtube.com/watch?v=lEL1m91odvY& ) |
-| [Preparing for the 2024 Total Solar Eclipse, Pt. 2 (Equipment and Making ...](https://youtube.com/watch?v=t89dN92u39s& ) |
-| [Preparing for the 2024 Total Solar Eclipse, Pt. 3 (full practice run wit...](https://youtube.com/watch?v=E0HZJZzccUM& ) |
-| [Preparing for the 2024 Total Solar Eclipse, Pt. 4 (Star Tracker Tips inc...](https://youtube.com/watch?v=zfL0phpISAM& ) |
-| [Watch "What to Look For During the 2024 Solar Eclipse -A Discussion with Dr. Telepun Smarter Every Day 295B" on YouTube](https://youtu.be/7wZKAoUeGRw? ) |
-| [Watch "IT'S COMING. April 8th 2024 Total Solar Eclipse: Here's what you need to know -Smarter Every Day 295" on YouTube](https://youtu.be/eNK2LI7VeX4? ) |
+| [Preparing for the 2024 Total Solar Eclipse, Part 1 on YouTube](https://youtu.be/lEL1m91odvY? ) |
+| [Preparing for the 2024 Total Solar Eclipse, Pt. 2 (Equipment and Making Custom Solar Filters) on YouTube](https://youtu.be/t89dN92u39s? ) |
+| [Preparing for the 2024 Total Solar Eclipse, Pt. 3 (full practice run with basic kit) on YouTube](https://youtu.be/E0HZJZzccUM? ) |
+| [Preparing for the 2024 Total Solar Eclipse, Pt. 4 (Star Tracker Tips incl. Daytime Polar Alignment) on YouTube](https://youtu.be/zfL0phpISAM? ) |
+| ["What to Look For During the 2024 Solar Eclipse -A Discussion with Dr. Telepun Smarter Every Day 295B" on YouTube](https://youtu.be/7wZKAoUeGRw? ) |
+| ["IT'S COMING. April 8th 2024 Total Solar Eclipse: Here's what you need to know -Smarter Every Day 295" on YouTube](https://youtu.be/eNK2LI7VeX4? ) |
 | [eclipse — Smarter Every Day](https://www.smartereveryday.com/eclipse ) |
 | [who taught me about eclipses](https://youtu.be/qc7MfcKF1-s ) |
-| [Watch "HOW TO WATCH THE ECLIPSE (AND SHADOW SNAKES) - Smarter Every Day 171" on YouTube](https://youtu.be/qc7MfcKF1-s? ) |
+| [t"HOW TO WATCH THE ECLIPSE (AND SHADOW SNAKES) - Smarter Every Day 171" on YouTube](https://youtu.be/qc7MfcKF1-s? ) |
 | **Buying Guide** |
 | [Recommended Lenses for Shooting a Solar Eclipse on Any Budget / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/recommended-lenses-shooting-solar-eclipse-any-budget) | 
 | [Guide to Lens Filters for Solar Photography / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/lens-filters-for-solar-photography) | 
