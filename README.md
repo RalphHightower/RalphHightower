@@ -398,6 +398,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
 | | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
 
+### Historical Events 
+
+| Date | Historical Events |
+|---|---|
+| March 4, 1974 | [Remembering the Days: The Full Monty, Gamecock style - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2021/02/episode_22_remembering_the_days_the_full_monty_gamecock_style.php ) |
+
 ## Sky Above, Events, Weather
 
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
