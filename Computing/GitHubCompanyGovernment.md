@@ -66,6 +66,7 @@
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
 | [Connections Museum](https://github.com/connectionsmuseum ) | Connections Museum |
 | [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
+| [Content Authenticity Initiative](https://github.com/contentauth ) |Content Authenticity Initiative |
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
@@ -74,6 +75,7 @@
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
+| [F# Software Foundation Repositories](https://github.com/fsharp ) | F# Software Foundation Repositories |
 | [FaceONNX](https://github.com/FaceONNX ) | Face recognition and analytics library based on deep neural networks and ONNX runtime |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
@@ -221,8 +223,10 @@
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
 | [Shopify](https://github.com/Shopify ) | The commerce platform powering millions of businesses worldwide. |
+| [Sidero Labs, Inc.](https://github.com/siderolabs ) | Talos Linux |
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
+| [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
 | [SLSA Framework](https://github.com/slsa-framework ) | Supply-chain Levels for Software Artifacts |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
