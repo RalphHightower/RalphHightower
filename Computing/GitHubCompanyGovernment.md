@@ -125,6 +125,7 @@
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
 | [Linux TPM2 & TSS2 Software](https://github.com/tpm2-software ) | Developer community for those implementing APIs and infrastructure from the TCG TSS2 specifications. |
+| [linux-rockchip](https://github.com/linux-rockchip ) | open source developers' community for Rockchip SoC based devices |
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
