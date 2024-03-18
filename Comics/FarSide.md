@@ -6,6 +6,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Funniest Far Side Comics Featuring ACME Products](https://screenrant.com/far-side-best-acme-comics-by-gary-larson/ ) | Mar 17, 2024 |
 | [15 Funniest Far Side Comics About Sharks](https://screenrant.com/far-side-funniest-shark-comics/ ) | Mar 16, 2024 |
 | [15 Wildest Far Side Comics About Bears](https://screenrant.com/far-side-strips-bears-gary-larson/ ) | Mar 15, 2024 |
 | [10 Far Side Characters That Are Absolutely Doomed](https://screenrant.com/gary-larson-doomed-far-side-characters/ ) | Mar 13, 2024 |
