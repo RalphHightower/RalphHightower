@@ -1,4 +1,4 @@
-# Comics — Far Side 
+# Comics — Far Side
 
 | Far Side Books | Price |
 |---|---|
@@ -6,6 +6,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [15 Funniest Far Side Comics About Sharks](https://screenrant.com/far-side-funniest-shark-comics/ ) | Mar 16, 2024 |
 | [15 Wildest Far Side Comics About Bears](https://screenrant.com/far-side-strips-bears-gary-larson/ ) | Mar 15, 2024 |
 | [10 Far Side Characters That Are Absolutely Doomed](https://screenrant.com/gary-larson-doomed-far-side-characters/ ) | Mar 13, 2024 |
 | [Gary Larson's 15 Funniest Far Side Comics About Dogs](https://screenrant.com/funniest-far-side-dog-comics/ ) | Mar 12, 2024 |
