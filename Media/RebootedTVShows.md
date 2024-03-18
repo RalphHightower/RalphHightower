@@ -12,7 +12,7 @@
 | The Face of the Enemy[^21] | Sci Fi Channel |
 | Caprica[^21] | Syfy|
 | Blood & Chrome[^21] | Machinima.com |
-| *Battlestar Galactica 2024*[^21][^22] | Peacock |
+| *Battlestar Galactica 2024*[^21]<sup> </sup>[^22] | Peacock |
 | CSI: Vegas | NBC |
 | Doctor Who | BBC |
 | Hawaii Five-0 | CBS |
@@ -29,7 +29,7 @@
 |----------------------------|--------|---------|
 | CSI: New York | CSI | CBS |
 | CSI: Miami | CSI | CBS |
-| CSI: Cyber | CSI | CBS |
+| CSI: Cyber | CSI | C,BS |
 | CSI: Vegas | CSI | Paramount+ |
 | Criminal Minds: Beyond Borders | Criminal Minds | Paramount+ |
 | Law and Order: Special Victims Unit | Law and Order | NBC |
@@ -40,8 +40,8 @@
 | NCIS: Los Angeles | NCIS | CBS |
 | NCIS: New Orleans | NCIS | CBS |
 | NCIS: Sydney| NCIS | CBS |
-| NCIS – Origins[^31][^32] | NCIS | Paramount+ |
-| NCIS – Europe[^33][^34] | NCIS | Paramount+ |
+| NCIS – Origins[^31]<sup>,</sup>[^32] | NCIS | Paramount+ |
+| NCIS – Europe[^33]<sup>,</sup>[^34]<sup>,</sup>[^35]<sup>,</sup>[^36]  | NCIS | Paramount+ |
 | Star Trek: Next Generation | Star Trek | CBS |
 | Star Trek: Deep Space Nine | Star Trek | CBS |
 | Star Trek: Voyager | Star Trek | CBS |
@@ -61,6 +61,8 @@
 [^32]: [NCIS: Origins / ScreenRant](https://screenrant.com/tag/ncis-origins/ )
 [^33]: [NCIS: Tony & Ziva Spinoff - Cast, Story & Everything We Know](https://screenrant.com/ncis-tony-ziva-spinoff-cast-story-updates/ )
 [^34]: ['NCIS' Cote de Pablo, Michael Weatherly Spinoff Set at Paramount+](https://variety.com/2024/tv/news/ncis-spinoff-cote-de-pablo-michael-weatherly-paramount-plus-1235925895/ )| Star Trek: Next Generation | Star Trek | CBS |
+[^35]: ["Dinozzo Is Coming": Michael Weatherly Teases New NCIS Location For Tony & Ziva Spinoff](https://screenrant.com/ncis-tony-dinozzo-ziva-spinoff-michael-weatherly-location-photo/ )
+[^36]: [Inside Michael Weatherly and Cote de Pablo's adorable friendship ahead of NCIS: Europe / HELLO!](https://www.hellomagazine.com/film/515590/ncis-stars-michael-weatherly-and-cote-de-pablo-sweet-friendship-explored/ )
 
 ## Shows That Deserve Rebooting
 
