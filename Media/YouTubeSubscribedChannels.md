@@ -5,6 +5,7 @@
 
 | Content Creator | Content Classification |
 |---|---|
+| [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) | Astronomy — Solar Eclipse |
 | [Sam Mahdavi](https://youtube.com/@sammahdavi7031 ) | Auto Repair |
 | [Scotty Kilmer](https://youtube.com/@scottykilmer ) | Auto Repair |
 | [Oliver the Beagle](https://youtube.com/@OlivertheBeagle ) | Beagles |
