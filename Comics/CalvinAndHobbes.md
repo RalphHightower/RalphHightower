@@ -96,6 +96,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Calvin and Hobbes Comics That Showcase Bill Watterson's Incredible Artistic Talent](https://screenrant.com/calvin-hobbes-comic-best-art-bill-watterson/ ) | Mar 2, 2024 |
 | [These Hilarious Calvin and Hobbes Comics Will Make Any Grown-Up Feel Nostalgic](https://screenrant.com/calvin-hobbes-comics-nostalgia-childhood-imagination/ ) | Feb 24, 2024 |
 | [10 Most Surreal Calvin and Hobbes Comics About Dinosaurs](https://screenrant.com/10-most-surreal-calvin-and-hobbes-comics-dinosaurs/ ) | Dec 16, 2023 |
 | [Calvin & Hobbes Reimagined in Mind-Blowing Photo Quality Fanart](https://screenrant.com/calvin-hobbes-reimagined-mind-blowing-fanart/ ) | Sep 16, 2023 |
