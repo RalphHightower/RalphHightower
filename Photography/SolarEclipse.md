@@ -72,7 +72,7 @@
 | ["IT'S COMING. April 8th 2024 Total Solar Eclipse: Here's what you need to know -Smarter Every Day 295" on YouTube](https://youtu.be/eNK2LI7VeX4? ) |
 | [eclipse — Smarter Every Day](https://www.smartereveryday.com/eclipse ) |
 | [who taught me about eclipses](https://youtu.be/qc7MfcKF1-s ) |
-| [t"HOW TO WATCH THE ECLIPSE (AND SHADOW SNAKES) - Smarter Every Day 171" on YouTube](https://youtu.be/qc7MfcKF1-s? ) |
+| ["HOW TO WATCH THE ECLIPSE (AND SHADOW SNAKES) - Smarter Every Day 171" on YouTube](https://youtu.be/qc7MfcKF1-s? ) |
 | **Buying Guide** |
 | [Recommended Lenses for Shooting a Solar Eclipse on Any Budget / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/recommended-lenses-shooting-solar-eclipse-any-budget) | 
 | [Guide to Lens Filters for Solar Photography / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/lens-filters-for-solar-photography) | 
