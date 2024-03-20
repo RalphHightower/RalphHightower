@@ -6,6 +6,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
 | [Why Are There So Few Characters in Calvin and Hobbes?](https://www.cbr.com/calvin-and-hobbes-minimal-characters/ ) | Mar 1, 2024 |
 | [Calvin & Hobbes 15 Best Characters](https://www.cbr.com/calvin-n-hobbes-favorite-characters/ ) | Feb 23, 2024 |
