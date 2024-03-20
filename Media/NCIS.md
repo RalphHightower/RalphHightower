@@ -7,6 +7,10 @@
 | NCIS News |
 |---|
 | ['NCIS' Cote de Pablo, Michael Weatherly Spinoff Set at Paramount+](https://variety.com/2024/tv/news/ncis-spinoff-cote-de-pablo-michael-weatherly-paramount-plus-1235925895/ ) |
+| [NCIS Season 21 Ducky Tribute Secretly Set Up Tony And Ziva’s Spinoff](https://screenrant.com/ncis-season-21-ducky-tribute-dinozzo-ziva-spinoff-setup/ ) |
+| [Michael Weatherly and Cote de Pablo’s Tony and Ziva ‘NCIS’ spinoff is ordered at Paramount+ / March 2024 📺 - Training Hearts Academy](https://trainingheartsacademy.com/michael-weatherly-and-cote-de-pablos-tony-and-ziva-ncis-spinoff-is-ordered-at-paramount-march-2024/ ) |
+| [Inside Michael Weatherly and Cote de Pablo's adorable friendship ahead of NCIS: Europe / HELLO!](https://www.hellomagazine.com/film/515590/ncis-stars-michael-weatherly-and-cote-de-pablo-sweet-friendship-explored/ ) |
+| ["Dinozzo Is Coming": Michael Weatherly Teases New NCIS Location For Tony & Ziva Spinoff](https://screenrant.com/ncis-tony-dinozzo-ziva-spinoff-michael-weatherly-location-photo/ ) |
 
 ### NCIS References 
 
