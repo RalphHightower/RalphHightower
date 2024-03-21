@@ -82,6 +82,8 @@
 | [14 Tips for Solar Viewing and Photography Safety / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/tips-and-solutions/14-tips-for-solar-viewing-and-photography-safety) | 
 | [Why you don't need to get to the centerline for April's total solar eclipse — and what will happen at the edge](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality?mc_cid=cd7e89b2dc&mc_eid=6fe31a9e66 ) |
 | [Family Solar Eclipse Viewing Guide / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/family-solar-eclipse-viewing-guide) | 
+| [When the solar eclipse hits, you'll see these radiant planets / Mashable](https://mashable.com/article/solar-eclipse-2024-planets ) |
+| [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) |
 | **Lessons Learned / Wrap-Up** |
 | [8 Lessons Learned When I Photographed a Total Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/8-lessons-learned-when-i-photographed-a-total-solar-eclipse) | 
 | [7 Perspectives of the Eclipse from the Atlas Obscura Eclipse Festival / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/7-perspectives-of-the-eclipse-from-the-atlas-obscura-eclipse-festival) | 
@@ -104,14 +106,21 @@
 | Canon EOS 5D III | — | Own | — |
 | [Canon EOS R5 Mirrorless Camera](https://www.lensrentals.com/rent/canon-eos-r5)[^42] | $175.00 for 7 days | Rent[^42] |  [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Lens** |
-| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^43] 77mm front filter | $101.00 for 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in filter | $471.00 for 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in filter | $435.00 for 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm front filter | $93.00 for 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 52mm drop-in filter | $83.00 for 7 days | Rent[^44] |[LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in filter | $440.00 for 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in filter | $471.00 for 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in filter | $675.00 for 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^43] 77mm O.D.  94mm | $101.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
+| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in O.D. 128mm | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in O.D. 128mm | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in O.D. 128mm | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in O.D. 163mm  | $458.00 / 7 days| Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in O.D. 146mm | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in O.D. 168mm | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in O.D. 168mm | $425.00 / 7 days| Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html ) 112mm O.D. 128mm | — | — | — |
+| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm O.D. 93.8mm | $93.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 95mm O.D. 102.3mm | $83.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in O.D. 163mm | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in O.D. 168mm | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in O.D. 163mm | $675.00 / 7 day s| Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in O.D. 168mm | $791.00 / 7 days,| Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
 | [DayStar Filters 90mm White-Light Universal Lens Solar ULF90-2](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html ) | $39.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^45] | $1,495.00 | Buy[^45] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
