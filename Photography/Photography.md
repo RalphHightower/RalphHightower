@@ -62,6 +62,7 @@
 | **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
 | **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
 | **[The importance of color calibration - especially when printing images!](https://blog.jeffcable.com/2023/06/the-importance-of-color-calibration.html )** |
+| [The Gear You Must Have for Low-Light Photography — fstoppers](https://fstoppers.com/gear/gear-must-have-low-light-photography-653468? ) |
 | [3 Photography Business Tips I Learned Consulting $1,000,000 Companies / Fstoppers](https://fstoppers.com/business/3-photography-business-tips-i-learned-consulting-1000000-companies-649668 ) |
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
 | [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br />[Photon: an open-source incident light meter](https://github.com/veebch/photon) |
