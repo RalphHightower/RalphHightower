@@ -59,7 +59,7 @@
 - TuringPi 2.0 Expansion options
    - 2x SATA Ports 6 Gbps
    - 2x Mini PCI Express Slots
-   -  4x M.2 ports, 2260, 2280, Key-M NVME support
+   - 4x M.2 ports, 2260, 2280, Key-M NVME support
 
 | Node | SBC | RAM | SSD |
 |------|-----|-----|-----|
@@ -141,6 +141,14 @@
 
 ## Raspberry Pi
 
+### DEC PDP Consoles 
+
+| DEC PDP Consoles | Price |
+|---|---|
+| [PDP-8 replica kit: the PiDP-8 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/ ) | $210.00 |
+| [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) ||
+| [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) | $297.00 |
+
 | Products for Raspberry Pi |
 |---|
 | **[Raspberry Pi Products One Stop Shopping Mall – 52Pi Store](https://52pi.com/ )** |
@@ -161,12 +169,15 @@
 
 ### Raspberry Pi 5
 
+#### Raspberry Pi 5 Articles 
+
 | Raspberry Pi 5 Articles |
 |---|
-Articles:
 | **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
 | **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** |
 | **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** |
+| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
+| [6 best operating systems for Raspberry Pi 5](https://www.xda-developers.com/best-operating-systems-for-raspberry-pi-5/ ) |
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
