@@ -172,3 +172,5 @@
 [^52]: If iOptron SkyGuider Pro EQ Camera Mount is chosen, select these items also.
 [^53]: Choose just one software controller.
 [^54]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
+
+{{ article.published_at | date: "%a, %b %d, %y" }}
