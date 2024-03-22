@@ -22,6 +22,7 @@
 | [Long Horn Steakhouse](https://www.longhornsteakhouse.com/locations/sc/columbia/columbia-harbison-road/5094)[^15] | Steak | Columbia |
 | [Ruth Chris House](https://www.ruthschris.com/restaurant-locations/columbia/)[^15][^16] | Steak  | Columbia |
 | [Villa Tronco](https://www.villatronco.com/)[^17] |Italian | Columbia |
+| [Luzianna Purchase](https://luziannapurchase.com/ ) | Cajun | Irmo |
 | [Private Property](https://www.privatepropertysc.com/ )[^18] | Cajun | Lexington |
 | [Red Bowl Asian Bistro – Lexington](https://www.redbowllexington.com/)[^15] | Pan Asian,  Sushi | Lexington |
 | [Grecian Gardens](http://www.greciangardenssc.com/) | Greek | West Columbia |
