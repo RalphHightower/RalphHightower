@@ -139,10 +139,10 @@
 | [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^47]<sup>,</sup>[^48] | $81.95 | Buy[^47] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^47]<sup>,</sup>[^48] | $114.95 | Buy[^47] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466423-REG/sky_watcher_s20110_az5_mount_with_steel.html )[^49]~~ | ~~$355.00~~ | ~~Buy~~ | ~~[B&H, NYC, NY](https://www.bhphotovideo.com/)~~ |
-| [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)[^49] | $410.00 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )[^50] | $65.00 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )[^50] | $33.50 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher AZ5 Alt-Azimuth Mount with Tripod](https://www.bhphotovideo.com/c/product/1466423-REG/sky_watcher_s20110_az5_mount_with_steel.html )~~[^49]<sup>,</sup>[^55] | ~~$355.00~~ | ~~Buy~~ | ~~[B&H, NYC, NY](https://www.bhphotovideo.com/)~~ |
+| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^49] | $410.00 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^50] | $65.00 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^50] | $33.50 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )[^50] | $79.99 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$588.49*** | ***Total*** | |
 | [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^49] | $1,179.00 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -172,5 +172,6 @@
 [^52]: If iOptron SkyGuider Pro EQ Camera Mount is chosen, select these items also.
 [^53]: Choose just one software controller.
 [^54]: Canon super telephoto lenses that have drop-in filters do not have front filter threads. Use the outside diameter (O.D.) to determine the diameter for the slip-on filter.
+[^55]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
 
 {{ article.published_at | date: "%a, %b %d, %y" }}
