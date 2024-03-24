@@ -135,7 +135,7 @@
 | [Why Calvin and Hobbes' Creator Turned Down Steven Spielberg's Film Offer](https://screenrant.com/calvin-and-hobbes-bill-watterson-reject-steven-spielberg-film/ ) | Dec 20, 2022 |
 | [10 Most Heartwarming Calvin And Hobbes Christmas Comics](https://screenrant.com/calvin-and-hobbes-heartwarming-christmas-comics/ ) | Dec 19, 2022 |
 | [Calvin and Hobbes Last Comic Showed Bill Watterson's True Genius](https://screenrant.com/calvin-and-hobbes-bill-watterson-comic-strip-genius/ ) | Dec 18, 2022 |
-| [Bill Watterson's First Calvin and Hobbes Comic Explained How They Met](https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/ ) | Dec 15, 202 |
+| [Bill Watterson's First Calvin and Hobbes Comic Explained How They Met](https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/ ) | Dec 15, 2022 |
 | [Calvin and Hobbes Creator Secretly Unretired For A Different Comic](https://screenrant.com/calvin-and-hobbes-bill-watterson-retirement-secret-comic-strip/ ) | Dec 11, 2022 |
 | [Calvin and Hobbes Most Controversial Comic Would Never Run Today](https://screenrant.com/calvin-hobbes-bill-watterson-controversial-bomb-comic/ ) | Dec 7, 2022 |
 | [10 Funniest Calvin And Hobbes Comics About Parenting](https://screenrant.com/funniest-calvin-and-hobbes-comics-about-parenting/ ) | Dec 4, 2022 |
