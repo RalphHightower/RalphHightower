@@ -6,6 +6,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Funniest Far Side Comics About Sports](https://screenrant.com/far-side-funniest-comics-about-sports-baseball-basketball/ ) | Mar 23, 2024 |
 | [The Far Side: 15 Most Unforgettable Comics About Elephants](https://screenrant.com/best-elephant-far-side-comics-gary-larson/ ) | Mar 19, 2024 |
 | [10 Funniest Far Side Comics Featuring ACME Products](https://screenrant.com/far-side-best-acme-comics-by-gary-larson/ ) | Mar 17, 2024 |
 | [15 Funniest Far Side Comics About Sharks](https://screenrant.com/far-side-funniest-shark-comics/ ) | Mar 16, 2024 |
