@@ -171,6 +171,8 @@
 | [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^63] | $109.00 USD | |
 | [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^63] |  | 
 
+August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 to +1 worked fairly well. I would probably drop the +1; I got more usable photos as the percentage towards totality increased. My custom setting 2 for totality, 7 stops from -2 to +2, didn't get tested because of a user failure listed above.
+
 [^41]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to rent.***
 [^42]: Rent if going for high megapixel range 45MP
 [^43]: Choose one if using DSLR 5D III
