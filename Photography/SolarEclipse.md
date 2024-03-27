@@ -26,6 +26,7 @@
 | **[Weather Planning for Eclipse Day / Eclipsophile](https://eclipsophile.com/eclipse-day-weather/ )** |
 | **[Solar eclipse 2024 weather prospects — Q&A with an expert / Space](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a )** |
 | **[Total solar eclipse of April 8, 2024 - Information about the Great North American Eclipse / eclipse2024\.org](https://eclipse2024.org/ )** |
+| [NASA Eclipse Explorer](https://eclipse-explorer.smce.nasa.gov/ ) |
 | [Detailed maps of totality for the 2024 eclipse](https://www.astronomy.com/observing/astronomys-atlas-maps-totality/ ) |
 | [2024 eclipse guide: Times, places, states and livestream](https://www.astronomy.com/observing/how-to-see-the-2024-eclipse-times-livestream-and-a-state-by-state-guide/ ) |
 | **[Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse )** |
