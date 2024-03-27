@@ -94,6 +94,7 @@
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
 | [GitHub Skills](https://github.com/skills ) | Learn how to use GitHub with interactive courses designed for beginners and experts. |
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
+| [Gitleaks](https://github.com/gitleaks ) | Scanning code, past or present, for secrets |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
@@ -199,6 +200,7 @@
 | [Oracle](https://github.com/oracle ) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
+| [PiKVM Project](https://github.com/pikvm ) | Open and inexpensive DIY IP-KVM based on Raspberry Pi  |
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
