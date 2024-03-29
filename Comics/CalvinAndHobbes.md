@@ -6,6 +6,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
 | [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
 | [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
