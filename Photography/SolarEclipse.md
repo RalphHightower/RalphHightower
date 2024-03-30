@@ -17,6 +17,7 @@
 
 | Planning Resources |
 |---|
+| **[The Solar Maximum: Navigating the Sun's Fiery Upswing](https://www.seti.org/solar-maximum-navigating-suns-fiery-upswing )** |
 | **[Everything About Eclipses — MrEclipse\.com (Fred Espenak)](https://mreclipse.com/ )** |
 | **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
 | **[Total Solar Eclipse 2024 US — Great American Eclipse](https://www.greatamericaneclipse.com/april-8-2024 )** |
