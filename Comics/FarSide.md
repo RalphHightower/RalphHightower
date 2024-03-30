@@ -6,6 +6,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Funniest Far Side Comics About Giant Squid](https://screenrant.com/funniest-far-side-comics-giant-squid-gary-larson/ ) | Mar 28, 2024 |
 | [15 Funniest Far Side Comics About Goldfish](https://screenrant.com/far-side-funniest-goldfish-comics-gary-larson/ ) | Mar 26, 2024 |
 | [The Far Side's 15 Craziest Comics About Aliens](https://screenrant.com/far-side-best-alien-comics-gary-larson/ ) | Mar 23, 2024 |
 | [10 Funniest Far Side Comics About Sports](https://screenrant.com/far-side-funniest-comics-about-sports-baseball-basketball/ ) | Mar 23, 2024 |
