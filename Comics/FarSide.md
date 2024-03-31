@@ -1,11 +1,27 @@
-# Comics — Far Side 
+# Comics — Far Side
 
-| Far Side Books |
-|---|
-| **[The Complete Far Side: 1980-1994: Gary Larson, Steve Martin: 9780740721137: Amazon.com: Books](https://www.amazon.com/Complete-Far-Side-1980-1994/dp/0740721135/ref=bmx_dp_5j8xbiro_sccl_2_1/139-4061656-3088856?pd_rd_w=AKqbL&content-id=amzn1.sym.1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_p=1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_r=TK8SZ3A1X6GSTSE0T7WV&pd_rd_wg=gmbnJ&pd_rd_r=29caf881-d843-423b-a9b7-4f4e0296bbf9&pd_rd_i=0740721135&psc=1 ) $183.04** |
+| Far Side Books | Price |
+|---|---|
+| **[The Complete Far Side: 1980-1994: Gary Larson, Steve Martin: 9780740721137: Amazon.com: Books](https://www.amazon.com/Complete-Far-Side-1980-1994/dp/0740721135/ref=bmx_dp_5j8xbiro_sccl_2_1/139-4061656-3088856?pd_rd_w=AKqbL&content-id=amzn1.sym.1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_p=1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_r=TK8SZ3A1X6GSTSE0T7WV&pd_rd_wg=gmbnJ&pd_rd_r=29caf881-d843-423b-a9b7-4f4e0296bbf9&pd_rd_i=0740721135&psc=1 )** | **$183.04** |
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Funniest Far Side Comics About Giant Squid](https://screenrant.com/funniest-far-side-comics-giant-squid-gary-larson/ ) | Mar 28, 2024 |
+| [15 Funniest Far Side Comics About Goldfish](https://screenrant.com/far-side-funniest-goldfish-comics-gary-larson/ ) | Mar 26, 2024 |
+| [The Far Side's 15 Craziest Comics About Aliens](https://screenrant.com/far-side-best-alien-comics-gary-larson/ ) | Mar 23, 2024 |
+| [10 Funniest Far Side Comics About Sports](https://screenrant.com/far-side-funniest-comics-about-sports-baseball-basketball/ ) | Mar 23, 2024 |
+| [The Far Side: 15 Most Unforgettable Comics About Elephants](https://screenrant.com/best-elephant-far-side-comics-gary-larson/ ) | Mar 19, 2024 |
+| [10 Funniest Far Side Comics Featuring ACME Products](https://screenrant.com/far-side-best-acme-comics-by-gary-larson/ ) | Mar 17, 2024 |
+| [15 Funniest Far Side Comics About Sharks](https://screenrant.com/far-side-funniest-shark-comics/ ) | Mar 16, 2024 |
+| [15 Wildest Far Side Comics About Bears](https://screenrant.com/far-side-strips-bears-gary-larson/ ) | Mar 15, 2024 |
+| [10 Far Side Characters That Are Absolutely Doomed](https://screenrant.com/gary-larson-doomed-far-side-characters/ ) | Mar 13, 2024 |
+| [Gary Larson's 15 Funniest Far Side Comics About Dogs](https://screenrant.com/funniest-far-side-dog-comics/ ) | Mar 12, 2024 |
+| [9 Funniest Far Side Comics Featuring Vampires](https://screenrant.com/funniest-far-side-comics-vampires-gary-larson/ ) | Mar 11, 2024 |
+| [The 10 Funniest Far Side Comics Starring Apes](https://screenrant.com/greatest-far-side-strips-apes-gorillas-gary-larson/ ) | Mar 9, 2024 |
+| [11 Far Side Comics That Prove Creator Gary Larson Was Obsessed With Snakes](https://screenrant.com/far-side-comics-snake-obsessed-gary-larson/ ) | Mar 7, 2024 |
+| [10 Wildest Far Side Comics Set in Courtroom Scenes](https://screenrant.com/far-side-courtroom-comic-jokes/ ) | Mar 5, 2024 |
+| [15 Funniest Far Side Comics That Make Fun of Real People](https://screenrant.com/funniest-far-side-comics-real-people-celebrities/ ) | Mar 5, 2024 |
+| [10 Best Far Side Comics That Make Jokes About Real World History](https://screenrant.com/far-side-comics-reference-history-gary-larson/ ) | Mar 3. 2024 |
 | [The Far Side: 10 Incredible Strips Where Inanimate Objects Come to Life](https://screenrant.com/far-side-funniest-comics-inanimate-objects/ ) | Feb 27, 2024 |
 | [The Far Side: 10 of the Most Surreal Strips About Doctors](https://screenrant.com/the-far-side-funniest-comic-strips-doctors/ ) | Feb 25, 2024 |
 | [10 Funniest Far Side Comics That Reference Classic TV Shows](https://screenrant.com/funniest-far-side-comics-classic-tv-star-trek/ ) |  Feb 22, 2024 |

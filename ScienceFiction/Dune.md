@@ -6,6 +6,14 @@
 [^12]: [Dune 2's Release Plan Is Completely Changing The Movie Industry (For The Better)](https://screenrant.com/dune-2-imax-delay-the-marvels-movie/ )
 [^13]: [Dune 2's Release Change Boosts Its Chances Of Beating The Original's Box Office](https://screenrant.com/dune-2-movie-release-date-change-box-office-original/ )
 
+## Products 
+
+| Products |
+|---|
+| **[Dune Box Sets Steeply Discounted At Amazon Ahead Of Dune: Part Two - GameSpot](https://www.gamespot.com/gallery/dune-box-sets-steeply-discounted-at-amazon-ahead-of-dune-part-two/2900-5077/ )** |
+| **[Amazon\.com: Frank Herbert's Dune Saga 6-Book Boxed Set: Dune, Dune Messiah, Children of Dune, God Emperor of Dune, Heretics of Dune, and Chapterhouse: Dune (Dune, 1-6): 9780593201886: Herbert, Frank: Books](https://www.amazon.com/Frank-Herberts-Dune-6-Book-Boxed/dp/0593201884?tag=gamespot-promos-20 )** |
+| [Xbox and Microsoft Flight Simulator Unveil Dune Expansion and Floating Controller - Xbox Wire](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/ ) |
+
 ## News / Articles 
 
 | News / Articles |

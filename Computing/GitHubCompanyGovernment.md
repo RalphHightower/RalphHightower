@@ -66,6 +66,7 @@
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
 | [Connections Museum](https://github.com/connectionsmuseum ) | Connections Museum |
 | [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
+| [Content Authenticity Initiative](https://github.com/contentauth ) |Content Authenticity Initiative |
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
@@ -74,6 +75,8 @@
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
+| [F# Software Foundation Repositories](https://github.com/fsharp ) | F# Software Foundation Repositories |
+| [FaceONNX](https://github.com/FaceONNX ) | Face recognition and analytics library based on deep neural networks and ONNX runtime |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
 | [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
@@ -91,6 +94,7 @@
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab ) | GitHub Security Lab |
 | [GitHub Skills](https://github.com/skills ) | Learn how to use GitHub with interactive courses designed for beginners and experts. |
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
+| [Gitleaks](https://github.com/gitleaks ) | Scanning code, past or present, for secrets |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
@@ -122,6 +126,7 @@
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
 | [Linux TPM2 & TSS2 Software](https://github.com/tpm2-software ) | Developer community for those implementing APIs and infrastructure from the TCG TSS2 specifications. |
+| [linux-rockchip](https://github.com/linux-rockchip ) | open source developers' community for Rockchip SoC based devices |
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
@@ -153,6 +158,7 @@
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
+| [Mixtile](https://github.com/mixtile ) | Mixtile open source projects. |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:<br />https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
@@ -194,6 +200,7 @@
 | [Oracle](https://github.com/oracle ) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
+| [PiKVM Project](https://github.com/pikvm ) | Open and inexpensive DIY IP-KVM based on Raspberry Pi  |
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
@@ -219,8 +226,10 @@
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
 | [Shopify](https://github.com/Shopify ) | The commerce platform powering millions of businesses worldwide. |
+| [Sidero Labs, Inc.](https://github.com/siderolabs ) | Talos Linux |
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
+| [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
 | [SLSA Framework](https://github.com/slsa-framework ) | Supply-chain Levels for Software Artifacts |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
@@ -237,10 +246,12 @@
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |
 | [Triton Inference Server](https://github.com/triton-inference-server ) | NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
+| [Truffle Security](https://github.com/trufflesecurity ) | Find and verify credentials |
 | [Turing Machines](https://github.com/turing-machines ) | A platform for edge computing and AI agents |
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
+| [Valve Software](https://github.com/ValveSoftware ) | Valve Software |
 | [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |

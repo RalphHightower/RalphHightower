@@ -5,6 +5,7 @@
 
 | Content Creator | Content Classification |
 |---|---|
+| [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) | Astronomy — Solar Eclipse |
 | [Sam Mahdavi](https://youtube.com/@sammahdavi7031 ) | Auto Repair |
 | [Scotty Kilmer](https://youtube.com/@scottykilmer ) | Auto Repair |
 | [Oliver the Beagle](https://youtube.com/@OlivertheBeagle ) | Beagles |
@@ -37,6 +38,7 @@
 | [Jeri Ellsworth](https://youtube.com/@jeriellsworth ) | Electronics |
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
+| [jeffostroff](https://youtube.com/@jeffostroff ) | Engineering / Tools |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
 | [Warner Bros. Entertainment](https://youtube.com/@warnerbrosentertainment ) | Entertainment |
 | [Publix](https://youtube.com/@Publix ) | Food |
@@ -80,6 +82,7 @@
 | [John Mellencamp](https://youtube.com/@JohnMellencampDotCom ) | Music |
 | [KatrinaTheWavesVEVO](https://youtube.com/@KatrinaTheWavesVEVO ) | Music |
 | [Kenny Loggins](https://youtube.com/@KennyLoggins ) | Music |
+| [Led Zeppelin](https://youtube.com/@ledzeppelin? ) | Music |
 | [Linda Ronstadt](https://youtube.com/@lindaronstadtmusic ) | Music |
 | [Manfred Manns Earth Band (MMEB)](https://youtube.com/@ManfredMannOfficial ) | Music |
 | [Meat Loaf](https://youtube.com/@RedPony2 ) | Music |
@@ -92,6 +95,7 @@
 | [Pretenders](https://youtube.com/@ThePretenders ) | Music |
 | [remhq](https://youtube.com/@remhq ) | Music |
 | [Rush](https://youtube.com/@rush ) | Music |
+| [Santana](https://youtube.com/@santana? ) | Music |
 | [Sheryl Crow](https://youtube.com/@Sherylcrow ) | Music |
 | [sina-drums](https://youtube.com/@sina-drums ) | Music |
 | [Taj Mahal](https://youtube.com/@TajMahalMusic ) | Music |
@@ -184,6 +188,7 @@
 | [Zeke Kamm](https://youtube.com/@NiceIndustries ) | Photography/Video |
 | [Lincoln Project, The](https://youtube.com/@TheLincolnProject ) | Politics |
 | [BPS.space](https://youtube.com/@BPSspace ) | Rocketry |
+| [SmarterEveryDay](https://youtube.com/@smartereveryday? ) | Science |
 | [Battlestar Galactica](https://youtube.com/@BattlestarGalactica?si=OQjwyxmunuJTvuJA ) | Science Fiction |
 | [Doctor Who](https://youtube.com/@DoctorWho ) | Science Fiction |
 | [SciTrek](https://youtube.com/@scitrek? ) | Science Fiction News |
@@ -193,15 +198,15 @@
 | [AmericasSpaceShuttle](https://youtube.com/@AmericasSpaceShuttle ) | Space Exploration |
 | [European Space Agency, ESA](https://youtube.com/@EuropeanSpaceAgency ) | Space Exploration |
 | [Kennedy Space Center Visitor Complex](https://youtube.com/@ExploreSpaceKSC ) | Space Exploration |
-| [NASA EDGE](https://youtube.com/@NASAedge ) | Space Exploration |
-| [NASA Goddard](https://youtube.com/@NASAGoddard ) | Space Exploration |
-| [NASA Johnson](https://youtube.com/@ReelNASA ) | Space Exploration |
-| [NASA's Kennedy Space Center](https://youtube.com/@NASAKennedy ) | Space Exploration |
 | [NASA](https://youtube.com/@NASA ) | Space Exploration |
+| [NASA EDGE](https://youtube.com/@NASAedge ) | Space Exploration |
+| [NASA Goddard](https://youtube.com/@NASAGoddard? ) | Space Exploration |
+| [NASA Kennedy Space Center](https://youtube.com/@NASAKennedy? ) | Space Exploration |
+| [NASA Jet Propulsion Laboratory](https://youtube.com/@NASAJPL? ) | Space Exploration |
+| [NASA Johnson](https://youtube.com/@ReelNASA? ) | Space Exploration |
 | [SpaceX](https://youtube.com/@SpaceX ) | Space Exploration |
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
 | [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
 | [DEWALT TV](https://youtube.com/@dewalttv ) | Tools |
-| [jeffostroff](https://youtube.com/@jeffostroff ) | Tools |
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |

@@ -20,7 +20,7 @@ $lm-text-color:            #363636 !default;
 $lm-background-color:      #fdfdfd !default;
 $lm-code-background-color: #eeeeff !default;
 
-$lm-link-base-color:       #73000a !default;
+$lm-link-base-color:       #111111 !default;
 $lm-link-visited-color:    darken($lm-link-base-color, 25%) !default;
 $lm-link-hover-color:      $lm-text-color !default;
 
@@ -28,7 +28,7 @@ $lm-border-color-01:       $lm-brand-color-light !default;
 $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
 $lm-border-color-03:       $lm-brand-color-dark !default;
 
-$lm-table-text-color:      #73000a !default;
+$lm-table-text-color:      lighten($lm-text-color, 18%) !default;
 $lm-table-zebra-color:     #fff2e3 !default;
 $lm-table-header-bg-color: #fff2e3 !default;
 $lm-table-header-border:   #73000a !default;

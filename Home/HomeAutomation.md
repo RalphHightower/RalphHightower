@@ -15,29 +15,32 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 [^11]: **Fisher & Paykel, and Candy are brands that I have never heard of.**
 
-| **[Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/ )**<br />**Haier is a multinational home appliances and consumer electronics corporation selling a wide range of products under the brands General Electric Appliances, Hotpoint, Hoover, Fisher & Paykel, and Candy.** |
+**[Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/ )**<br />**Haier is a multinational home appliances and consumer electronics corporation selling a wide range of products under the brands General Electric Appliances, Hotpoint, Hoover, Fisher & Paykel, and Candy.** |
 
 ## General Articles/News 
 
 | General Articles  / News |
 |---|
 | [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) |
+| **[Heat Pump Dryer Explained / Hackaday](https://hackaday.com/2023/11/25/heat-pump-dryer-explained/ )** |
+| [Infinite Turbine debuts heat pump turbine for homes, businesses – pv magazine International](https://www.pv-magazine.com/2023/11/27/infinite-turbine-debuts-heat-pump-turbine-for-homes-businesses/ ) |
 
 ## [Home Assistance](https://github.com/home-assistant)
 
-### GitHub
+### GitHub — Home Assistant 
 
 | GitHub | Description |
 |---|---|
 | [Home Assistant](https://github.com/home-assistant ) |Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 
-### Vendors
+### Vendors — Home Assistant 
 
 | Vendors |
 |---|
 | [Zvidar Smart Gateway (Home Assistant based)](http://www.zvidar.com/pro/23.html ) |
+| [SONOFF POW Ring Smart Power Meter / POWCT / ITEAD STUDIO OFFICIAL](https://itead.cc/product/sonoff-pow-ring-smart-power-meter-switch/ ) | $34.90 10% w/ CNXSOFTSONOFF code |
 
-### Articles
+### Articles — Home Assistant 
 
 | [Home Assistant](https://www.home-assistant.io/ )|
 |----|
@@ -48,37 +51,40 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | [Home Assistant Yellow / Crowd Supply](https://www.crowdsupply.com/nabu-casa/home-assistant-yellow ) |
 | [Securing our home labs: Home Assistant code review - The GitHub Blog](https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/ ) |
 | [PwnAssistant - Controlling /home's via a Home Assistant RCE](https://www.elttam.com/blog/pwnassistant/ ) |
-
-### GitHub 
-
-| GitHub | Description |
-|---|---|
-| [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
-
-### Vendors 
-
-### Articles
+| [$35 SONOFF POW ring smart power meter (POWCT) safely supports up to 100A - CNX Software](https://www.cnx-software.com/2024/03/14/35-sonoff-pow-ring-smart-power-meter-powct-safely-100a/ ) |
 
 ## [openHAB](https://github.com/openhab )
 
-### GitHub 
+### GitHub — openHAB 
 
 | GitHub | Description |
 |---|---|
-| [openHAB]([https://github.com/esphome](https://github.com/openhab) ) | empowering the smart home — a vendor and technology agnostic open source automation software for your home |
+| [openHAB](https://github.com/openhab ) 
 
-### Vendors 
+### Vendors — openHAB 
 
-### Articles 
+### Articles — openHAB 
 
-| OpenHab |
+| openHAB |
 |---|
 | [openHAB 4.0 Release / openHAB](https://www.openhab.org/blog/2023-07-23-openhab-4-0-release.html ) | Release |
-| [openHAB](https://github.com/openhab ) | GitHub |
 
 ## [ESPHome — ESPHome](https://esphome.io/index.html ) 
 
-## Interfaces — Home Automation
+### GitHub — ESPHome
+
+| GitHub | Description |
+|---|---|
+| [ESPHome]([https://github.com/esphome](https://github.com/openhab) ) | empowering the smart home — a vendor and technology agnostic open source automation software for your home |
+
+### Vendors — ESPHome
+
+| Product | Price |
+|---|---|
+| **[Air Gradient Indoor Air Quality Monitor](https://www.airgradient.com/one/#comparison )** | **(H/W)** USD 195.00** |
+| [AirLoom Energy: Utility-Scale Wind Energy at Extremely Low Cost](https://airloomenergy.com/ ) |
+
+### Articles — ESPHome
 
 | Products / Articles |
 |----|
@@ -87,9 +93,5 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | [Ventbots Are Fans Of HVAC And Home Automation / Hackaday](https://hackaday.com/2023/06/24/ventbots-are-fans-of-hvac-and-home-automation/ ) |
 | [Monitoring your smart home server with prometheus on a Raspberry Pi - use the power of professional tools » The smarthome journey](https://thesmarthomejourney.com/2022/07/25/monitoring-smarthome-prometheus/ ) |
 | [Jon Aguado's ePaper Energy Monitor Keeps Track of Your Home's Usage Across Up to Six Channels - Hackster.io](https://www.hackster.io/news/jon-aguado-s-epaper-energy-monitor-keeps-track-of-your-home-s-usage-across-up-to-six-channels-ce34c0d314da ) |
-| **[Air Gradient Indoor Air Quality Monitor](https://www.airgradient.com/one/#comparison )** | **(H/W)** USD 195.00** |
 | [AirGradient ONE Kit Review - An open-source indoor air quality monitor - CNX Software](https://www.cnx-software.com/2023/11/29/airgradient-one-kit-review-an-open-source-indoor-air-quality-monitor/ ) |
-| [AirLoom Energy: Utility-Scale Wind Energy at Extremely Low Cost](https://airloomenergy.com/ ) |
 | [Airloom’s Whacky Wind Clothesline Turbine Idea / Hackaday](https://hackaday.com/2023/11/26/airlooms-whacky-wind-clothesline-turbine-idea/ ) |
-| **[Heat Pump Dryer Explained / Hackaday](https://hackaday.com/2023/11/25/heat-pump-dryer-explained/ )** |
-| [Infinite Turbine debuts heat pump turbine for homes, businesses – pv magazine International](https://www.pv-magazine.com/2023/11/27/infinite-turbine-debuts-heat-pump-turbine-for-homes-businesses/ ) |

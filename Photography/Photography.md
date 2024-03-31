@@ -1,5 +1,24 @@
 # Photography 
 
+## ISS Solar/Lunar Transit Finder
+
+| [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
+|---|
+| [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
+
+## The Art of Photography — B&H Photo/Video
+
+| The Art of Photography — B&H Photo/Video |
+|---|
+| [The Art of Photography, Part 1: Portrait Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-1-portrait-photography ) |
+| [The Art of Photography, Part 2: Travel Photography, with Scott Kelby](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-2-travel-photography-with-scott-kelby ) |
+| [The Art of Photography, Part 3: Smartphone Photography, with Hazel Meredith](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-3-smartphone-photography-with-hazel-meredith ) ### |
+| [The Art of Photography, Part 4: Cityscape Photography](https://blogd7.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-4-cityscape-photography ) |
+| [The Art of Photography, Part 5: Street Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-5-street-photography ) |
+| [The Art of Photography, Part 6: Pet Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-6-pet-photography ) |
+| [The Art of Photography, Part 7: Landscape Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-7-landscape-photography ) |
+| [The Art of Photography, Part 8: Self-Assignments](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-8-self-assignments ) |
+
 ## International Press Telecommunications Council 
 
 | [International Press Telecommunications Council](https://iptc.org/) | 
@@ -43,6 +62,7 @@
 | **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
 | **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
 | **[The importance of color calibration - especially when printing images!](https://blog.jeffcable.com/2023/06/the-importance-of-color-calibration.html )** |
+| [The Gear You Must Have for Low-Light Photography — fstoppers](https://fstoppers.com/gear/gear-must-have-low-light-photography-653468? ) |
 | [3 Photography Business Tips I Learned Consulting $1,000,000 Companies / Fstoppers](https://fstoppers.com/business/3-photography-business-tips-i-learned-consulting-1000000-companies-649668 ) |
 | [Flying with Film: How to Handle X-ray Checkpoints as a Photographer](https://petapixel.com/camera-film-x-ray-ct-scanner-tips/) |
 | [The Photon is a Raspberry Pi-Powered, Open Source Light Meter](https://petapixel.com/2022/11/28/the-photon-is-a-raspberry-pi-powered-open-source-light-meter/)<br />[Photon: an open-source incident light meter](https://github.com/veebch/photon) |

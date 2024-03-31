@@ -12,6 +12,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 | [Myers-Briggs Personality Test®](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/) | [INTP](https://www.mbtionline.com/en-US/MBTI-Types/INTP)[^12] |
 | [CliftonStrength 34™](https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx) | Ideation \| Deliberative \| Learner \| Input \| Strategic<br />Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analyzing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future. |
 | [Game of Thrones Personality Test](https://mygotcharacter.com/)[^13] | Primary Character: [Mance Rayder](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^14]<br />Secondary Character:  [Ser Jaime Lannister](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^15]<br />Tertiary Character: [Ygritte](https://mygotcharacter.com/EKJKKKCKIACFCK.html)[^16] |
+| [Microsoft Copilot Personality Test](https://www.microsoft.com/en-us/worklab/how-do-you-ai ) | The Storyteller<br />You love to spin a great yarn and are probably guilty of talking a colleague’s ear off on more than one occasion. You might see generative AI as a way to amp up your storytelling or sales pitches, in the form of persuasive emails or pitch decks. It’s possible you’re already using it to brainstorm presentation titles, taglines, or product names. Great!<br /><br />You’ll get even more value out of generative AI if you expand your toolkit beyond creation and into some more nitty-gritty tasks. Copilot can summarize meetings, catch you up on your inbox, and uncover hidden information in an Excel spreadsheet. It can even fix all the mismatching fonts on your presentation. You can also use Copilot for Microsoft 365 to dig through all your emails, documents, messages, and meeting transcripts and track down the numbers you need in just a few seconds. That helps you fact-check yourself on the fly—especially useful if you (like many storytellers!) have a tendency to get carried away. |
 
 [^11]: I'm a [Chevy](https://www.chevrolet.com/) guy and Tahoe is a model name. I love it!
 [^12]: People with INTP preferences are quiet, thoughtful, and analytical. They tend to put a great deal of consideration into everything they do. INTPs are generally easygoing and genuine. They might seem to “zone out” from time to time while they consider new concepts or explore how something works. They are often happiest laying low and working hard behind the scenes. While they may seem impersonal with people they don’t know well, they like to have a close group of people they open up to. They are naturally adept at building structural models or coming up with new concepts for solving problems. They tend to see the world as a system that can be analyzed, and this is how they approach just about everything in life.<br />• 4.8% of the population • 5.8% of men • 4.0% of women<br /> analytical × conceptual × logical <br /> quiet × independent × easygoing <br /> complex × driven × curious <br /> questioning × methodical × values competence <br /> self-critical × thoughtful × innovative <br /> problem solver × reflective × autonomous 
@@ -39,7 +40,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 | Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21] |
 | YouTube | [@RalphHightower](https://youtube.com/user/@RalphHightower) |
 
-[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!*** 
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
 ## Bucket Lists
 
@@ -55,14 +56,16 @@ I also have different categories of bucket lists.
    - Slot Canyon (color & B&W photographs)
    - Aurora Borealis
    - Total Solar Eclipse: April 8, 2024
-   - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
-   - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
    - [B&H Photo Video, 420 9th Avenue, New York, NY 10001](https://www.bhphotovideo.com/find/jsp/HelpCenter/StoreInfo.jsp#nycSuperstore )
+   - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
+   - [CERN — Conseil européen pour la Recherche nucléaire / European Organization for Nuclear Researce, France/Switzerland](https://home.cern/ )
+   - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
+   - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
    - [Uluru-Kata Tjuta National Park *(Ayers Rock)*, Northern Territory, Australia](https://parksaustralia.gov.au/uluru/ )
    - [Stonehenge / English Heritage](https://www.english-heritage.org.uk/visit/places/stonehenge/? )
-   - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
    - Hawaii
    - Japan (primarily Tokyo)
+   - [Capturing Yosemite's gorgeous — and elusive — natural 'firefall' : NPR](https://www.npr.org/2024/03/04/1235163963/yosemite-el-capitan-firefall-photography )
 2.	Cars
    - Corvette (mid-engine)[^85]
    - El Camino (65-67)[^86]
@@ -394,6 +397,12 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | | [Beach Volleyball](https://gamecocksonline.com/sports/bvball/ ) |
 | | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
 | | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
+
+### Historical Events 
+
+| Date | Historical Events |
+|---|---|
+| March 4, 1974 | [Remembering the Days: The Full Monty, Gamecock style - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2021/02/episode_22_remembering_the_days_the_full_monty_gamecock_style.php ) |
 
 ## Sky Above, Events, Weather
 

@@ -6,6 +6,10 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
+| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
+| [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
+| [Why Are There So Few Characters in Calvin and Hobbes?](https://www.cbr.com/calvin-and-hobbes-minimal-characters/ ) | Mar 1, 2024 |
 | [Calvin & Hobbes 15 Best Characters](https://www.cbr.com/calvin-n-hobbes-favorite-characters/ ) | Feb 23, 2024 |
 | [Ending Calvin And Hobbes Is Exactly What Saved It](https://www.cbr.com/calvin-and-hobbes-finale-shaped-its-legacy/ ) | Feb 21, 2024 |
 | [Calvin and Hobbes Needs To Be An Animated Show](https://www.cbr.com/calvin-and-hobbes-animated-series/ ) | Feb 13, 2024 |
@@ -94,6 +98,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
+| [10 Calvin and Hobbes Comics That Showcase Bill Watterson's Incredible Artistic Talent](https://screenrant.com/calvin-hobbes-comic-best-art-bill-watterson/ ) | Mar 2, 2024 |
 | [These Hilarious Calvin and Hobbes Comics Will Make Any Grown-Up Feel Nostalgic](https://screenrant.com/calvin-hobbes-comics-nostalgia-childhood-imagination/ ) | Feb 24, 2024 |
 | [10 Most Surreal Calvin and Hobbes Comics About Dinosaurs](https://screenrant.com/10-most-surreal-calvin-and-hobbes-comics-dinosaurs/ ) | Dec 16, 2023 |
 | [Calvin & Hobbes Reimagined in Mind-Blowing Photo Quality Fanart](https://screenrant.com/calvin-hobbes-reimagined-mind-blowing-fanart/ ) | Sep 16, 2023 |
@@ -131,7 +137,7 @@
 | [Why Calvin and Hobbes' Creator Turned Down Steven Spielberg's Film Offer](https://screenrant.com/calvin-and-hobbes-bill-watterson-reject-steven-spielberg-film/ ) | Dec 20, 2022 |
 | [10 Most Heartwarming Calvin And Hobbes Christmas Comics](https://screenrant.com/calvin-and-hobbes-heartwarming-christmas-comics/ ) | Dec 19, 2022 |
 | [Calvin and Hobbes Last Comic Showed Bill Watterson's True Genius](https://screenrant.com/calvin-and-hobbes-bill-watterson-comic-strip-genius/ ) | Dec 18, 2022 |
-| [Bill Watterson's First Calvin and Hobbes Comic Explained How They Met](https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/ ) | Dec 15, 202 |
+| [Bill Watterson's First Calvin and Hobbes Comic Explained How They Met](https://screenrant.com/calvin-and-hobbes-bill-watterson-meeting-explained-comic-strip/ ) | Dec 15, 2022 |
 | [Calvin and Hobbes Creator Secretly Unretired For A Different Comic](https://screenrant.com/calvin-and-hobbes-bill-watterson-retirement-secret-comic-strip/ ) | Dec 11, 2022 |
 | [Calvin and Hobbes Most Controversial Comic Would Never Run Today](https://screenrant.com/calvin-hobbes-bill-watterson-controversial-bomb-comic/ ) | Dec 7, 2022 |
 | [10 Funniest Calvin And Hobbes Comics About Parenting](https://screenrant.com/funniest-calvin-and-hobbes-comics-about-parenting/ ) | Dec 4, 2022 |
@@ -144,3 +150,4 @@
 | [10 Funniest Calvin and Hobbes Comics, According To Reddit](https://screenrant.com/calvin-hobbes-funniest-comics-reddit/ ) | Oct 13, 2022 |
 | [10 Most Heartwarming Calvin and Hobbes Comics](https://screenrant.com/most-heartwarming-calvin-and-hobbes-comics/ ) | Sep 27, 2022 |
 | [Calvin and Hobbes Secretly Takes Place in the Marvel Universe](https://screenrant.com/calvin-hobbes-marvel-universe-cameo-bug-sleigh/ ) | Jan 23, 2022 |
+
