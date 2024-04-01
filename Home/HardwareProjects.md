@@ -149,6 +149,20 @@
 | [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) ||
 | [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) | $297.00 |
 
+### RaspberryPi Shake (Earthquake Monitoring)
+
+| Model | RaspberryPi Shake Seismometers | Price |
+|---|---|---|
+| **[Watch the earth move with Raspberry Shake - Raspberry Pi](https://www.raspberrypi.com/news/watch-the-earth-move-with-raspberry-shake/ )** |
+| [Earthquake and Infrasound Monitors-Seismograph - Earthquake and Infrasound Sensors](https://shop.raspberryshake.org/ ) |
+| [Raspberry Shake seismometers - Raspberry Pi](https://www.raspberrypi.com/success-stories/raspberry-shake-seismometers/ ) |
+| RS3D | Vertical & Lateral Motion Seismograph | $799.99 – $1,414.99 USD |
+| RS1D | Vertical Motion Seismograph | $174.99 – $894.99 |
+| RS4D | Strong Motion Seismograph | $434.99 – $1,084.99 USD |
+| RS&BOOM | Seismo Acoustic Monitor | $569.99 – $1,224.99 USD |
+
+### Products for Raspberry Pi 
+
 | Products for Raspberry Pi |
 |---|
 | **[Raspberry Pi Products One Stop Shopping Mall – 52Pi Store](https://52pi.com/ )** |
