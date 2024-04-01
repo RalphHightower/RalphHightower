@@ -30,6 +30,7 @@
 | [NASA Eclipse Explorer](https://eclipse-explorer.smce.nasa.gov/ ) |
 | [Detailed maps of totality for the 2024 eclipse](https://www.astronomy.com/observing/astronomys-atlas-maps-totality/ ) |
 | [2024 eclipse guide: Times, places, states and livestream](https://www.astronomy.com/observing/how-to-see-the-2024-eclipse-times-livestream-and-a-state-by-state-guide/ ) |
+| **[Webinar Replay: Photographing the April 8 Total Solar Eclipse](https://youtube.com/watch?v=2SpvJwVNW34& )** |
 | **[Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse )** |
 | **[Total solar eclipse 2024: Everything you need to know / Space](https://www.space.com/41552-total-solar-eclipse-2024-guide.html )** |
 | [How to give yourself the best chance of clear skies for April 8's solar eclipse / Space](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024 ) |
