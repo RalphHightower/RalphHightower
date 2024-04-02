@@ -6,6 +6,9 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The Far Side: 10 Strips With Punchlines That Are Easy to Miss](https://screenrant.com/the-far-side-strips-with-confusing-punchlines/ ) | Mar 31, 2024 |
+| ["You Have Offended Millions": 1 Controversial Far Side Cartoon Was Originally WAY Darker](https://screenrant.com/far-side-controversial-gary-larson-darkest-comic/ ) | Mar 30, 2024 |
+| [8 Funniest Far Side Comics Starring Frankenstein](https://screenrant.com/funniest-far-side-comics-frankenstein-gary-larson/ ) | Mar 29, 2024 |
 | [10 Funniest Far Side Comics About Giant Squid](https://screenrant.com/funniest-far-side-comics-giant-squid-gary-larson/ ) | Mar 28, 2024 |
 | [15 Funniest Far Side Comics About Goldfish](https://screenrant.com/far-side-funniest-goldfish-comics-gary-larson/ ) | Mar 26, 2024 |
 | [The Far Side's 15 Craziest Comics About Aliens](https://screenrant.com/far-side-best-alien-comics-gary-larson/ ) | Mar 23, 2024 |
