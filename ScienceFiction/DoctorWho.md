@@ -1,5 +1,7 @@
 # Science Fiction — Doctor Who Timelords
 
+## Doctors' Timelines
+
 | Series Lead | Incarnation | Companions | Tenure |
 |-------------|-------------|------------|--------|
 | Hartnell, William | First Doctor | Susan Foreman, Barbara Wright, Ian Chesterton, Vicki, Steven Taylor, Katarina, Sara Kingdom, Dodo Chaplet, Polly, Ben Jackson | 1963–1966 |
@@ -20,6 +22,8 @@
 
 [^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
 [^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
+
+## Doctor Who News
 
 | Doctor Who News |
 |---|
@@ -181,6 +185,8 @@
 | **[60 Years of Doctor Who: 10 Episodes That Made Us Fall in Love with the Franchise](https://movieweb.com/60-years-of-doctor-who-episodes-that-made-us-fall-in-love/ )** |
 | [DOCTOR WHO Uses the Toymaker to Teach Real Life TV History Lesson - Nerdist](https://nerdist.com/article/doctor-who-uses-the-toymaker-storyline-to-teach-real-life-history-lesson-stooky-stookie-bill-john-logie-baird-first-television-image/ ) |
 
+## One Person's Life as a Doctor Who Fan 
+
 | One Person's Life as a Doctor Who Fan|
 |---|
 |[My Life as a Doctor Who Fan: Part 1 – the 1960s to 1974 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-1/ )|
@@ -190,9 +196,27 @@
 |[My Life as a Doctor Who Fan: Part 5 – 1990 to 2012 / Radio Time](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-5/ ) |
 |[My Life as a Doctor Who Fan: Part 6 – 2013 to now / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-6/ ) |
 
+## YouTube Videos 
+
 | YouTube Videos |
 |------|
 | [David Tennant (aka The Doctor) is Catherine Tait's (aka Donna Noble), as a recalcitrant student,  substitute teacher for English.](https://youtu.be/WxB1gB6K-2A) |
+
+## Doctor Who — Magic The Gathering 
+
+| MagicThe Gathering — Doctor Who | Date |
+|---|---|
+| [River Song's Universes Beyond Doctor Who Magic Card Is A Complete Flavor Win](https://www.cbr.com/doctor-who-river-song-universe-beyond-mtg/ ) | OCT 16, 2023 |
+| [The Best Time Travel Mechanics In Magic: The Gathering History](https://www.cbr.com/mtg-time-travel-mechanics/ ) | AUG 4, 2023 |
+| [MtG Universes Beyond: Doctor Who Complete Visual Spoiler](https://www.cbr.com/mtg-doctor-who-visual-spoilers/ ) | AUG 3, 2023 |
+| [A History of Time Travel in Magic: The Gathering](https://www.cbr.com/mtg-doctor-who-time-travel-history/ ) | JUL 26, 2023 |
+| [MTG Doctor Who Expansion Features 'The Doctor' Cards With Companion Partner Ability](https://www.cbr.com/mtg-doctor-who-universes-beyond-commander-companions/ ) | MAY 24, 2023 |
+| [MTG Doctor Who Planechase Cards Explained](https://www.cbr.com/mtg-bbc-doctor-who-planechase-tv-sci-fi-universe/ ) | MAY 20, 2023 |
+| [MTG: Doctor Who Release Date, Leaks and Spoilers](https://www.cbr.com/mtg-bbc-doctor-who-release-date-leaks-spoilers/ ) | MAY 19, 2023 |
+| [MTG's Doctor Who Set Could Add TV's Best Sci-Fi Monsters](https://www.cbr.com/mtg-doctor-who-universes-beyond-tv-best-sci-fi-monsters/ ) | MAY 15, 2023 |
+| [MTG Doctor Who Set Release Date Revealed](https://www.cbr.com/mtg-doctor-who-set-release-date-revealed/ ) | MAY 8, 2023 |
+| [Doctor Who Is Set to Invade Magic: The Gathering](https://www.cbr.com/doctor-who-is-set-to-invade-magic-the-gathering/ ) | AUG 18, 2022 |
+| [Neil Patrick Harris Teases Details on His 'Posh' Doctor Who Villain](https://www.cbr.com/doctor-who-neil-patrick-harris-teases-villain-details/ ) | AUG 12, 2022 |
 
 ## [ChatGPT](https://chat.openai.com/) Haikus — Doctor Who
 
