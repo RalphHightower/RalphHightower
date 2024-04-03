@@ -91,6 +91,7 @@
 | [Family Solar Eclipse Viewing Guide / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/family-solar-eclipse-viewing-guide) | 
 | [When the solar eclipse hits, you'll see these radiant planets / Mashable](https://mashable.com/article/solar-eclipse-2024-planets ) |
 | [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) |
+| [10 weird things that happen during a solar eclipse / Live Science](https://www.livescience.com/space/the-sun/10-weird-things-that-happen-during-a-solar-eclipse ) |
 | **Lessons Learned / Wrap-Up** |
 | [8 Lessons Learned When I Photographed a Total Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/8-lessons-learned-when-i-photographed-a-total-solar-eclipse) | 
 | [7 Perspectives of the Eclipse from the Atlas Obscura Eclipse Festival / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/7-perspectives-of-the-eclipse-from-the-atlas-obscura-eclipse-festival) | 
