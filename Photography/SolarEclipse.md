@@ -33,6 +33,7 @@
 | **[Webinar Replay: Photographing the April 8 Total Solar Eclipse](https://youtube.com/watch?v=2SpvJwVNW34& )** |
 | **[Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse )** |
 | **[Total solar eclipse 2024: Everything you need to know / Space](https://www.space.com/41552-total-solar-eclipse-2024-guide.html )** |
+| **[April 8 total solar eclipse: The best places to stargaze near the path of totality / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-the-best-places-to-stargaze-near-the-path-of-totality )** |
 | [How to give yourself the best chance of clear skies for April 8's solar eclipse / Space](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024 ) |
 | [Where will you be for the April 8 total solar eclipse? There's still time to grab a spot](https://phys.org/news/2024-03-april-total-solar-eclipse.html ) |
 | [How to Photograph the Eclipse on April 8th, 2024 — YouTube](https://youtube.com/watch?v=VbNdlJogtcE& ) |
