@@ -214,7 +214,11 @@
 
 August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 to +1 worked fairly well. I would probably drop the +1; I got more usable photos as the percentage towards totality increased. My custom setting 2 for totality, 7 stops from -2 to +2, didn't get tested because of a user failure listed above.
 
-## Texas
+## Mexico 🇲🇽 
+
+## United States of America 🇺🇸 
+
+### Texas
 
 | **It's Texas Y'all** |
 |---|
@@ -222,17 +226,18 @@ August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 
 | [Texas eclipse weather: New forecast predictions in 5 Texas cities indicates less cloud coverage](https://www.lonestarlive.com/weather/2024/04/texas-eclipse-weather-new-forecast-predictions-in-5-texas-cities-indicates-less-cloud-coverage.html ) |
 | [Solar eclipse 2024: Here are 11 basic yet overpriced Texas hotels available near totality - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/solar-eclipse-2024-here-are-11-basic-yet-overpriced-texas-hotels-available-near-totality.html ) |
 
-## Oklahoma 
-## Arkansas 
-## Missouri 
-## Kentucky 
-## Illinois 
-## Indiana 
-## Ohio
-## Pennsylvania 
-## New York 
-## Vermont 
-## New Hampshire 
-## Maine
+### Oklahoma 
+### Arkansas 
+### Missouri 
+### Kentucky 
+### Illinois 
+### Indiana 
+### Ohio
+### Pennsylvania 
+### New York 
+### Vermont 
+### New Hampshire 
+### Maine
+## Canada 🇨🇦 
 
 {{ article.published_at | date: "%a, %b %d, %y" }}
