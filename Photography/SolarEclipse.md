@@ -87,6 +87,7 @@
 | [A Buying Guide for Solar and Solar Eclipse Viewing / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/a-buying-guide-for-solar-and-solar-eclipse-viewing) | 
 | [Telescopes for the Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/news/telescopes-for-the-solar-eclipse) | 
 | **The Big Day** |
+| [Stars, planets, and more will be visible during the total solar eclipse on April 8. Here's where to look / Space](https://www.space.com/sky-during-totality-what-to-look-for-april-8-total-solar-eclipse#section-exotic-colors-and-lighting ) |
 | [14 Tips for Solar Viewing and Photography Safety / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/tips-and-solutions/14-tips-for-solar-viewing-and-photography-safety) | 
 | [Why you don't need to get to the centerline for April's total solar eclipse — and what will happen at the edge](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality?mc_cid=cd7e89b2dc&mc_eid=6fe31a9e66 ) |
 | [Family Solar Eclipse Viewing Guide / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/family-solar-eclipse-viewing-guide) | 
