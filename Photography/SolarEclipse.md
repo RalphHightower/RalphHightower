@@ -104,9 +104,12 @@
 | [All About Eclipses — NASA Central](https://science.nasa.gov/eclipses/ ) |
 | [The Solar Eclipse: 15 Frequently Asked Questions / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/the-solar-eclipse-15-frequently-asked-questions) | 
 | [Solar Eclipse Photography FAQ / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/solar-eclipse-photography-faq) | 
+| **Eclipse Themed Beers** |
+| [These 15 solar eclipse beers were brewed to sip in the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality ) |
 | **Trivia** |
 | [Space, Sun, and Solar Viewing: Facts versus Fiction / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/space-sun-and-solar-viewing-facts-versus-fiction) | 
 | [Here Comes (and Goes) the Sun: 5 Shady Facts about Eclipses / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/here-comes-and-goes-the-sun-5-shady-facts-about-eclipses) | 
+| ['Zeus made night from mid-day:' Terror and wonder in ancient accounts of solar eclipses / Space](https://www.livescience.com/space/the-sun/zeus-made-night-from-mid-day-terror-and-wonder-in-ancient-accounts-of-solar-eclipses ) |
 
 ## Personal Equipment Own/Buy/Rent[^41]
 
