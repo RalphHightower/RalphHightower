@@ -183,8 +183,6 @@
 | [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^63] | $109.00 USD | |
 | [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^63] |  | 
 
-August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 to +1 worked fairly well. I would probably drop the +1; I got more usable photos as the percentage towards totality increased. My custom setting 2 for totality, 7 stops from -2 to +2, didn't get tested because of a user failure listed above.
-
 [^41]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to rent.***
 [^42]: Rent if going for high megapixel range 45MP
 [^43]: Choose one if using DSLR 5D III
@@ -211,4 +209,30 @@ August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 
 [^64]: Choose just one software controller.
 [^65]: On this Canon page [Photographing the Total Eclipse / Canon U.S.A., Inc.](https://www.usa.canon.com/learning/training-articles/training-articles-list/photographing-an-eclipse ) is a very Stern warning: <br >**Don’t Use the Rear Filter Tray**<br />Most of the large Canon L-series super-telephoto lenses have a rear mounted slip-in filter tray. NEVER use a solar filter in this tray. This filter mounting system is designed for terrestrial photography using traditional photography filters. It is not designed to house a filter to be directed celestially into the sun. At these magnifications, you will destroy the filter — similar to taking a magnifying glass to a leaf and put your lens, sensor and your eyes in danger. The intense light and heat could fry aperture and image stabilization mechanisms, damage the autofocus sensor and, if the mirror is locked up ruin your sensor. Buy the correct front-mounted solar filter. They’re relatively inexpensive and completely safe.
 [^66]: Watching numerous YouTube videos and webinars on sighting the sun, I remembered about The Android app, Skymap, which shows the stars that have risen, and also, those stars below the horizon. 
+
+## August 17, 2017 Post Mortem
+
+August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 to +1 worked fairly well. I would probably drop the +1; I got more usable photos as the percentage towards totality increased. My custom setting 2 for totality, 7 stops from -2 to +2, didn't get tested because of a user failure listed above.
+
+## Texas
+
+| **It's Texas Y'all** |
+|---|
+| [Trespassing in Texas: know the rules (and avoid the bull’s horns) while viewing the solar eclipse - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/trespassing-in-texas-know-the-rules-and-avoid-the-bullhorns-while-viewing-the-solar-eclipse.html?_gl=1*18v8s4q*_ga*Q1FJM3JRaTdYTUJGVHpNM01hYXhDNVNmQ3JKQzZ4ekx2cmxDeU9BeENzaXBlVEl4OFFaMFE1U19pLTFBVVdQVw..*_ga_YK51HLKH20*MTcxMjI1ODA3My4xLjEuMTcxMjI1ODA3My4wLjAuMA.. ) |
+| [Texas eclipse weather: New forecast predictions in 5 Texas cities indicates less cloud coverage](https://www.lonestarlive.com/weather/2024/04/texas-eclipse-weather-new-forecast-predictions-in-5-texas-cities-indicates-less-cloud-coverage.html ) |
+| [Solar eclipse 2024: Here are 11 basic yet overpriced Texas hotels available near totality - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/solar-eclipse-2024-here-are-11-basic-yet-overpriced-texas-hotels-available-near-totality.html ) |
+
+## Oklahoma 
+## Arkansas 
+## Missouri 
+## Kentucky 
+## Illinois 
+## Indiana 
+## Ohio
+## Pennsylvania 
+## New York 
+## Vermont 
+## New Hampshire 
+## Maine
+
 {{ article.published_at | date: "%a, %b %d, %y" }}
