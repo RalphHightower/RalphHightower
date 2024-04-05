@@ -48,7 +48,7 @@
 | ***[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^13]*** |
 | [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) |
 | **[Eclipse 2024 Citizen Science — NASA](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/eclipse-2024-citizen-science/ )** |
-| [^6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) |
+| [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) |
 | [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) |
 | [Ecliptic Visions—with Rebecca Boyle, Gabriel Biderman, Atlas Obscura & B&H / B&H eXplora Podcast](https://www.bhphotovideo.com/explora/podcasts/photography/ecliptic-visions-with-rebecca-boyle-gabriel-biderman-atlas-obscura-bh ) |
 | [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) |
