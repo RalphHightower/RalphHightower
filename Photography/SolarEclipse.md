@@ -1,5 +1,4 @@
 # Photography — Total Solar Eclipse 
-
 ## Android — Solar Eclipse Timer 
 
 | Solar Eclipse Timer for Android / Foxwood Astronomy |
@@ -13,7 +12,7 @@
 
 <img src="https://imgs.xkcd.com/comics/seven_years.png" />
 
-### Planning Resources[^21] 
+### Planning Resources[^11] 
 
 | Planning Resources |
 |---|
@@ -22,7 +21,7 @@
 | **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
 | **[Total Solar Eclipse 2024 US — Great American Eclipse](https://www.greatamericaneclipse.com/april-8-2024 )** |
 | **[Total Solar Eclipse April 8, 2024 / Eclipsophile](https://eclipsophile.com/2024tse/ )** |
-| **[Your eclipse weather forecast for April 2024, according to the data](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ )[^22]** |
+| **[Your eclipse weather forecast for April 2024, according to the data](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ )[^12]** |
 | **[Eclipsophile / Climatology and weather for celestial events](https://eclipsophile.com/ )** |
 | **[Weather Planning for Eclipse Day / Eclipsophile](https://eclipsophile.com/eclipse-day-weather/ )** |
 | **[Solar eclipse 2024 weather prospects — Q&A with an expert / Space](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a )** |
@@ -46,24 +45,24 @@
 | [A guide to the 2024 eclipse from Astronomy Magazine](https://www.astronomy.com/observing/our-ultimate-guide-to-the-eclipse/ ) |
 | [Eclipse viewing made simple](https://www.astronomy.com/observing/eclipse-viewing-made-simple/ ) |
 | [Gear to safely see the 2024 eclipse](https://www.astronomy.com/observing/the-best-equipment-to-see-the-2024-eclipse/ ) |
-| ***[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^23]*** |
+| ***[Ride the Wave of Radio Astronomy During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ )[^13]*** |
 | [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) |
 | **[Eclipse 2024 Citizen Science — NASA](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/eclipse-2024-citizen-science/ )** |
-| [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) |
+| [^6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) |
 | [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) |
 | [Ecliptic Visions—with Rebecca Boyle, Gabriel Biderman, Atlas Obscura & B&H / B&H eXplora Podcast](https://www.bhphotovideo.com/explora/podcasts/photography/ecliptic-visions-with-rebecca-boyle-gabriel-biderman-atlas-obscura-bh ) |
 | [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) |
 | [Dr. Telepun: my-eclipse-research](https://www.solareclipsetimer.com/my-eclipse-research.html ) |
+
+[^11]: I removed Scientific American from Planning Resources because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
+[^12]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
+[^13]: A unique method to view the eclipse. 
 
 | Events |
 |---|
 | **[2024 Eclipse Festival / Atlas Obscura & Valley of the Vapors / Ecliptic April 5–8 2024 in Hot Springs, AR](https://ecliptic.atlasobscura.com/ )** |
 | [Rock & Roll Hall of Fame SolarFest / Rock & Roll Hall of Fame April 5–8, 2024](https://www.rockhall.com/solarfest ) |
 | [How to Watch Upcoming Total Solar Eclipse with NASA from Anywhere - NASA](https://www.nasa.gov/news-release/how-to-watch-upcoming-total-solar-eclipse-with-nasa-from-anywhere/ ) |
-
-[^21]: I removed Scientific American from Planning Resources because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
-[^22]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
-[^23]: A unique method to view the eclipse. 
 
 ### Solar Eclipse Articles 
 
@@ -111,43 +110,48 @@
 | [Here Comes (and Goes) the Sun: 5 Shady Facts about Eclipses / B&H eXplora](https://www.bhphotovideo.com/explora/outdoors/features/here-comes-and-goes-the-sun-5-shady-facts-about-eclipses) | 
 | ['Zeus made night from mid-day:' Terror and wonder in ancient accounts of solar eclipses / Space](https://www.livescience.com/space/the-sun/zeus-made-night-from-mid-day-terror-and-wonder-in-ancient-accounts-of-solar-eclipses ) |
 
-## Personal Equipment Own/Buy/Rent[^41]
+## Personal Equipment Own/Buy/Rent[^21]
 
 | Equipment | Price | Own / Buy / Rent | Source |
 |---|---|---|---|
 | **Camera** |
 | Canon EOS 5D III | — | Own | — |
-| [Canon EOS R5 Mirrorless Camera](https://www.lensrentals.com/rent/canon-eos-r5)[^42] | $175.00 for 7 days | Rent[^42] |  [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EOS R5 Mirrorless Camera](https://www.lensrentals.com/rent/canon-eos-r5)[^31] | $175.00 for 7 days | Rent[^31] |  [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Lens** |
-| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^43] 77mm O.D. 94mm[^46] | $101.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
-| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $419.00 / 7 days | Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $271.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^43] 52mm drop-in[^65] O.D. 128mm[^48] | $239.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^43] 52mm drop-in[^65] O.D. 163mm[^51]  | $458.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^43] 52mm drop-in[^65] O.D. 146mm[^51] | $405.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^43] 52mm drop-in[^65] O.D. 168mm[^51] | $471.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^43] 52mm drop-in[^65] O.D. 168mm[^51] | $425.00 / 7 days| Rent[^43] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html )[^44] 112mm O.D. 128mm[^48] | — | — | — |
-| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^44] 77mm O.D. 93.8mm[^46] | $93.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^44] 95mm O.D. 102.3mm[^48] | $83.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^44] 52mm drop-in O.D.[^65] 163mm[^51] | $440.00 / 7 days  | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^44] 52mm drop-in[^65] O.D. 168mm[^51] | $471.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^44] 52mm drop-in[^65] O.D. 163mm[^51] | $675.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
-| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^44] 52mm drop-in[^65] O.D. 168mm[^51] | $791.00 / 7 days | Rent[^44] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 100-400mm f/4.5-5.6L IS II](https://www.lensrentals.com/rent/canon-100-400mm-f4.5-5.6l-is-ii )[^41] 77mm O.D. 94mm[^56]<sup>, or </sup>[^57]<sup>, or </sup>[^58]<sup>, or </sup>[^59]<sup>, or </sup>[^59] | $101.00 / 7 days | Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) | 
+| [Canon EF 200-400mm f/4L IS with 1.4x Extender](https://www.lensrentals.com/rent/canon-200-400mm-f4l-is-with-1.4x-extender )[^41] 52mm drop-in[^50] O.D. 128mm[^60]<sup>, or </sup>[^61]<sup>, or </sup>[^62] | $419.00 / 7 days | Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 300mm f/2.8L IS II](https://www.lensrentals.com/rent/canon-300mm-f2.8l-is-ii )[^41] 52mm drop-in[^50] O.D. 128mm[^60]<sup>, or </sup>[^61]<sup>, or </sup>[^62] | $271.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/4 DO IS II](https://www.lensrentals.com/rent/canon-400mm-f4-do-is-ii )[^41] 52mm drop-in[^50] O.D. 128mm[^60]<sup>, or </sup>[^61]<sup>, or </sup>[^62] | $239.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 400mm f/2.8L IS III](https://www.lensrentals.com/rent/canon-400mm-f2.8l-is-iii )[^41] 52mm drop-in[^50] O.D. 163mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65]  | $458.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 500mm f/4L IS II](https://www.lensrentals.com/rent/canon-500mm-f4l-is-ii )[^41] 52mm drop-in[^50] O.D. 146mm[^51] | $405.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 600mm f/4L IS III](https://www.lensrentals.com/rent/canon-600mm-f4l-is-iii )[^41] 52mm drop-in[^50] O.D. 168mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $471.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon EF 800mm f/5.6L IS](https://www.lensrentals.com/rent/canon-800mm-f5.6l-is )[^41] 52mm drop-in[^50] O.D. 168mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $425.00 / 7 days| Rent[^41] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 100-300mm f/2.8 L IS USM Lens](https://www.bhphotovideo.com/c/product/1762615-REG/canon_rf_100_300mm_f_2_8_l.html )[^42] 112mm O.D. 128mm[^60]<sup>, or </sup>[^61]<sup>, or </sup>[^62] | — | — | — |
+| [Canon RF 100-500mm f/4.5-7.1L IS USM](https://www.lensrentals.com/rent/canon-rf-100-500mm-f4.5-7.1l-is-usm )[^42] 77mm O.D. 93.8mm[^56]<sup>, or </sup>[^57]<sup>, or </sup>[^58]<sup>, or </sup>[^59] | $93.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 200-800mm f/6.3-9 IS USM](https://www.lensrentals.com/rent/canon-rf-200-800mm-f6.3-9-is-usm )[^42] 95mm O.D. 102.3mm[^57]<sup>, or </sup>[^58]<sup>, or </sup>[^59] | $83.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 400mm f/2.8L IS USM](https://www.lensrentals.com/rent/canon-rf-400mm-f2.8l-is-usm )[^42] 52mm drop-in O.D.[^50] 163mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $440.00 / 7 days  | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 600mm f/4L IS USM](https://www.lensrentals.com/rent/canon-rf-600mm-f4l-is-usm )[^42] 52mm drop-in[^50] O.D. 168mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $471.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^42] 52mm drop-in[^50] O.D. 163mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $675.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
+| [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^42] 52mm drop-in[^50] O.D. 168mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $791.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
-| [DayStar Filters 90mm White-Light Universal Lens Solar ULF90-2](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html ) | $39.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^45] | $49.95 | Buy[^45] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^46] | $39.95 | Buy[^46] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^47] | $49.95 | Buy[^47] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^48] | $69.95 | Buy[^48] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^49] | $79.95 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^50] | $69.95 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^51] | $79.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^52] | $92.95 | Buy[^52] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^53] | $104.95[^53] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^54] | $1,495.00 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (Single, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319798-REG/daystar_filters_ulf50_50mm_universal_lens_filter.html )[^51] |$16.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (2-Pack, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319796-REG/daystar_filters_ulf50_2_universal_lens_filter_for.html )[^52] |$24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (Single, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319795-REG/daystar_filters_ulf70_70mm_universal_lens_filter.html )[^53] |$19.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (2-Pack, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319797-REG/daystar_filters_ulf70_2_universal_lens_filter_for.html )[^54] |$31.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^55] | $49.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (2-Pack, 85-99mm OD)](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html )[^56] |$34.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^57] | $39.95 | Buy[^46] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^58] | $49.95 | Buy[^53] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )[^59] | $24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^60] | $69.95 | Buy[^48] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^61] | $79.95 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^62] | $69.95 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^63] | $79.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^64] | $92.95 | Buy[^52] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^65] | $104.95[^53] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^103] | $1,495.00 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^55] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| **Camera Remote Trigger** |
+| **Camera Remote Trigger/Intervalometer** |
 | [Vello FreeWave Plus II Wireless Remote Shutter Release FWP-C B&H](https://www.bhphotovideo.com/c/product/1619633-REG/vello_fwp_c_wireless_shutter_release_for.html ) | $59.99 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Vello ShutterBoss II Timer Remote Switch for Cameras RC-C2II B&H](https://www.bhphotovideo.com/c/product/840098-REG/Vello_rc_c2ii_Shutterboss_Version_II_Timer.html ) | $49.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Stabilization** |
@@ -156,59 +160,75 @@
 | [Phottix Stay-Put Sandbag II (Large) PH88189 B&H Photo Video](https://www.bhphotovideo.com/c/product/1175607-REG/phottix_ph88189_stay_put_sandbag_ii_for.html ) | $29.95 | Own (1)<br />Buy (3) | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [ProTapes Pro Gaffer Tape (2" x 55 yd, White) 001UPCG255MWHT B&H](https://www.bhphotovideo.com/c/product/812216-REG/General_Brand_001UPCG255MWHT_Gereral_Brands_Pro_Gaffer_s.html ) | $19.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Sighting** |
-| **[Sky Map — Android App](https://play.google.com/store/apps/details?id=com.google.android.stardroid )**[^66] | Free | [Google Play](https://play.google.com/) | [Skydev](http://skymapforandroid.com/) @ [Google Play](https://play.google.com/) |
 | [Tele Vue Sol-Searcher Finderscope SSF-1006 B&H Photo Video](https://www.bhphotovideo.com/c/product/329861-REG/Tele_Vue_SSF_1006_Sol_Searcher_Finderscope.html ) | $45.00 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Silver Classic Dark Cloth - Small](https://www.bhphotovideo.com/c/product/446774-REG/Harrison_2035_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $67.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^56]<sup>,</sup>[^57] | $81.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^56]<sup>,</sup>[^57] | $114.95 | ~~Buy[^57]~~ | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Silver Classic Dark Cloth - Small](https://www.bhphotovideo.com/c/product/446774-REG/Harrison_2035_Silver_Classic_Dark_Cloth.html )[^101] | $67.95 | Buy[^101] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Classic Dark Cloth (Silver, 54 x 56")](https://www.bhphotovideo.com/c/product/172921-REG/Harrison_1035_Silver_Classic_Classic_Dark.html )[^101] | $81.95 | Buy[^103] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Harrison Silver Classic Dark Cloth (54 x 94", Large)](https://www.bhphotovideo.com/c/product/446773-REG/Harrison_2036_Silver_Classic_Dark_Cloth.html )[^101]and | $114.95 | Buy[^101] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| **[Sky Map — Android App](https://play.google.com/store/apps/details?id=com.google.android.stardroid )**[^102] | Free | [Google Play](https://play.google.com/) | [Skydev](http://skymapforandroid.com/) @ [Google Play](https://play.google.com/) |
 | **Tracking** |
-| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^58]<sup>,</sup>[^59] | $410.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^60] | $65.00 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^60] | $33.50 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^60] | $79.99 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html)~~[^111]<sup>,</sup>[^112] | $410.00 | ~~Buy[^111]~~ | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Equatorial Wedge Base](https://www.bhphotovideo.com/c/product/1092108-REG/sky_watcher_s20530_star_adventurer_latitude_eq.html )~~[^103] | $65.00 | Buy[^113] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Sky-Watcher Star Adventurer Counterweight Kit](https://www.bhphotovideo.com/c/product/1092109-REG/sky_watcher_s20540_star_adventurer_counterweight_kit.html )~~[^103] | $33.50 | Buy[^113] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| ~~[Celestron PowerTank 7 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/285704-REG/Celestron_18774_Power_Tank_12_Volt_7_Amp.html )~~[^103] | $79.99 | Buy[^111] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$588.49*** | ***Total*** | |
-| [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^58] | $1,179.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^61] | $99.99 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^61] | $189.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^61] | $154.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html )[^101] | $1,179.00 | Buy[^111] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkyPortal WiFi Module](https://www.bhphotovideo.com/c/product/1085659-REG/celestron_93973_skyq_link_2_wifi.html )[^114] | $99.99 | Buy[^114] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron SkySync GPS Accessory](https://www.bhphotovideo.com/c/product/736619-REG/Celestron_93969_SkySync_GPS_Accessory.html )[^114] | $189.95 | Buy[^114] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Celestron PowerTank 17 17 Ah 12 VDC Power Supply](https://www.bhphotovideo.com/c/product/320348-REG/Celestron_18777_Power_Tank_17_12_Volt.html )[^114] | $154.95 | Buy[^104] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 |  | ***$1623.89*** | ***Total*** | |
-| [iOptron SkyGuider Pro Camera Mount with AccuAlign (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1797123-REG/ioptron_3550p_skyguider_pro_with_precision.html )[^58] | $548.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^61] | $218.00 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron SkyGuider Pro Camera Mount with AccuAlign (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1797123-REG/ioptron_3550p_skyguider_pro_with_precision.html )[^111] | $548.00 | Buy[^111] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^114] | $218.00 | Buy[^114] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | | ***766.00*** | ***Total*** | |
-| [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html )[^58] | $638.00 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^62] | $218.00 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html )[^101] | $638.00 | Buy[^111] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [iOptron 3328 Precision AZ/EQ Base](https://www.bhphotovideo.com/c/product/1759296-REG/ioptron_3328_precision_az_eq_base_for.html )[^113] | $218.00 | Buy[^113] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | | ***$856.00*** | ***Total*** | |
 | **Eclipse Orchestration Software** |
-| [DayStar Filters Eclipse Orchestrator Pro 3.7 Camera Control Software (Boxed CD)](https://www.bhphotovideo.com/c/product/1345652-REG/daystar_filters_eopro_eclipse_orchestrator_pro.html )[^63] | $109.00 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^63] | $109.00 USD | |
-| [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^63] |  | 
+| [DayStar Filters Eclipse Orchestrator Pro 3.7 Camera Control Software (Boxed CD)](https://www.bhphotovideo.com/c/product/1345652-REG/daystar_filters_eopro_eclipse_orchestrator_pro.html )[^121] | $109.00 | Buy[^121] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^121] | $109.00 USD | |
+| [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^121] |  | 
 
-[^41]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to rent.***
-[^42]: Rent if going for high megapixel range 45MP
-[^43]: Choose one if using DSLR 5D III
-[^44]: Choose one if using mirrorless R5
-[^45]: [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )
-[^46]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )
-[^47]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )
-[^48]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )
-[^49]: [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )
-[^50]: [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )
-[^51]: [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )
-[^52]: [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )
-[^53]: [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )
-[^54]: Hydrogen Alpha Filter.
-[^55]: DayStar Hydrogen Alpha Filter needed accessories:
-[^56]: Choose just one dark cloth.
-[^57]: Setting up for the August 2017 Total Solar Eclipse, I couldn't locate the sun using the camera's viewfinder since the sun was so danged bright. I ended up draping a windbreaker over the camera (not the lens) to block out the sunlight. This dark cloth, typically used for focusing 4×5 to 8×10 view cameras, will be handy. It's silver on one side to reflect the light and heat, and black on the other side to block out the brightness of the sun, and the surrounding area. 
-[^58]: Choose just one tracking configuration.
-[^59]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
-[^60]: If [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html ) is chosen, purchase these items also.
-[^61]: If [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html ) is chosen, purchase these items also.
-[^62]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
-[^63]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
-[^64]: Choose just one software controller.
-[^65]: On this Canon page [Photographing the Total Eclipse / Canon U.S.A., Inc.](https://www.usa.canon.com/learning/training-articles/training-articles-list/photographing-an-eclipse ) is a very Stern warning: <br >**Don’t Use the Rear Filter Tray**<br />Most of the large Canon L-series super-telephoto lenses have a rear mounted slip-in filter tray. NEVER use a solar filter in this tray. This filter mounting system is designed for terrestrial photography using traditional photography filters. It is not designed to house a filter to be directed celestially into the sun. At these magnifications, you will destroy the filter — similar to taking a magnifying glass to a leaf and put your lens, sensor and your eyes in danger. The intense light and heat could fry aperture and image stabilization mechanisms, damage the autofocus sensor and, if the mirror is locked up ruin your sensor. Buy the correct front-mounted solar filter. They’re relatively inexpensive and completely safe.
-[^66]: Watching numerous YouTube videos and webinars on sighting the sun, I remembered about The Android app, Skymap, which shows the stars that have risen, and also, those stars below the horizon. 
+--- 2X Facebook, please don't fuck up my Facebook account again!
+[^21]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to reagain!***
+--- 3X Camera
+[^31]: Rent if going for high megapixel range 45MP
+--- 4X Lens choices
+[^41]: Choose one EF lens if using DSLR 5D III
+[^42]: Choose one RF lens if using mirrorless R5
+--- 5X — 6X Filter choices 
+[^50]: On this Canon page [Photographing the Total Eclipse / Canon U.S.A., Inc.](https://www.usa.canon.com/learning/training-articles/training-articles-list/photographing-an-eclipse ) is a very Stern warning: <br >**Don’t Use the Rear Filter Tray**<br />Most of the large Canon L-series super-telephoto lenses have a rear mounted slip-in filter tray. NEVER use a solar filter in this tray. This filter mounting system is designed for terrestrial photography using traditional photography filters. It is not designed to house a filter to be directed celestially into the sun. At these magnifications, you will destroy the filter — similar to taking a magnifying glass to a leaf and put your lens, sensor and your eyes in danger. The intense light and heat could fry aperture and image stabilization mechanisms, damage the autofocus sensor and, if the mirror is locked up ruin your sensor. Buy the correct front-mounted solar filter. They’re relatively inexpensive and completely safe.
+[^51]: | [DayStar Filters 50mm White-Light Universal Lens Solar Filter (Single, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319798-REG/daystar_filters_ulf50_50mm_universal_lens_filter.html )[^51] | $16.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^52]: | [DayStar Filters 50mm White-Light Universal Lens Solar Filter (2-Pack, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319796-REG/daystar_filters_ulf50_2_universal_lens_filter_for.html )[^52] |$24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^53]: | [DayStar Filters 70mm White-Light Universal Lens Solar Filter (Single, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319795-REG/daystar_filters_ulf70_70mm_universal_lens_filter.html )[^53] | $19.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^54]: | [DayStar Filters 70mm White-Light Universal Lens Solar Filter (2-Pack, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319797-REG/daystar_filters_ulf70_2_universal_lens_filter_for.html )[^54] |$31.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^55]: | [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^55] | $49.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^56]: | [DayStar Filters 90mm White-Light Universal Lens Solar Filter (2-Pack, 85-99mm OD)](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html )[^56] |$34.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^57]: | [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^57] | $39.95 | Buy[^46] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^58]: | [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^58] | $49.95 | Buy[^53] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^59]: | [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )[^59] | $24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^60]: | [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^60] | $69.95 | https60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^61]: | [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^61] | $79.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^62]: | [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^62] | $69.95 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^63]: | [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^63] | $79.95 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^64]: | [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^64] | $92.95 | Buy[^64] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+[^65]: | [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^104] | $104.95[^65] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+--- 7X Hydrogen Alpha Equipment 
+[^71]: Hydrogen Alpha Filter.
+[^72]: DayStar Hydrogen Alpha Filter needed accessories
+--- 8X Camera Remote Trigger/Intervalometer
+--- 9X Stabilization
+--- 10X Sighting aids
+[^101]: Choose just one dark cloth.
+[^102]: Setting up for the August 2017 Total Solar Eclipse, I couldn't locate the sun using the camera's viewfinder since the sun was so danged bright. I ended up draping a windbreaker over the camera (not the lens) to block out the sunlight. This dark cloth, typically used for focusing 4×5 to 8×10 view cameras, will be handy. It's silver on one side to reflect the light and heat, and black on the other side to block out the brightness of the sun, and the surrounding area. 
+[^103]: Watching numerous YouTube videos and webinars on sighting the sun, I remembered about The Android app, Skymap, which shows the stars that have risen, and also, those stars below the horizon. 
+--- 11X Tracking 
+[^111]: Choose just one tracking configuration.
+[^112]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
+[^113]: If [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html ) is chosen, purchase these items also.
+[^114]: If [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html ) is chosen, purchase these items also.
+[^115]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+[^116]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
+--- 12X Eclipse Orchestration Software 
+[^121]: Choose just one Eclipse Orchestration Software.
 
 ## August 17, 2017 Post Mortem
 
@@ -220,11 +240,13 @@ August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 
 
 ### Texas
 
-| **It's Texas Y'all** |
+| **It's Texas, Y'all** |
 |---|
-| [Trespassing in Texas: know the rules (and avoid the bull’s horns) while viewing the solar eclipse - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/trespassing-in-texas-know-the-rules-and-avoid-the-bullhorns-while-viewing-the-solar-eclipse.html?_gl=1*18v8s4q*_ga*Q1FJM3JRaTdYTUJGVHpNM01hYXhDNVNmQ3JKQzZ4ekx2cmxDeU9BeENzaXBlVEl4OFFaMFE1U19pLTFBVVdQVw..*_ga_YK51HLKH20*MTcxMjI1ODA3My4xLjEuMTcxMjI1ODA3My4wLjAuMA.. ) |
+| [Trespassing in Texas: know the rules (and avoid the bull’s horns) while viewing the solar eclipse - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/trespassing-in-texas-know-the-rules-and-avoid-the-bullhorns-while-viewing-the-solar-eclipse.html?_gl=1*18v8s4q*_ga*Q1FJM3JRaTdYTUJGVHpNM01hYXhDNVNmQ3JKQzZ4ekx2cmxDeU9BeENzaXBlVEl4OFFaMFE1U19pLTFBVVdQVw..*_ga_YK51HLKH20*MTcxMjI1ODA3My4xLjEuMTcxMjI1ODA3My4wLjAuMA.. )[^4801] |
 | [Texas eclipse weather: New forecast predictions in 5 Texas cities indicates less cloud coverage](https://www.lonestarlive.com/weather/2024/04/texas-eclipse-weather-new-forecast-predictions-in-5-texas-cities-indicates-less-cloud-coverage.html ) |
 | [Solar eclipse 2024: Here are 11 basic yet overpriced Texas hotels available near totality - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/solar-eclipse-2024-here-are-11-basic-yet-overpriced-texas-hotels-available-near-totality.html ) |
+
+[^4801]: Texas loves their privacy, and freedom as much as they love the Second Amendment. Don't become a statistic. Or get gored by a Longhorn steer as Raymond Reddington in [The Blacklist](https://www.imdb.com/title/tt2741602/? ) finale.
 
 ### Oklahoma 
 ### Arkansas 
