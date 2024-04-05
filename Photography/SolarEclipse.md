@@ -202,7 +202,7 @@
 [^54]: [DayStar Filters 70mm White-Light Universal Lens Solar Filter (2-Pack, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319797-REG/daystar_filters_ulf70_2_universal_lens_filter_for.html )
 [^55]: [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )
 [^56]: [DayStar Filters 90mm White-Light Universal Lens Solar Filter (2-Pack, 85-99mm OD)](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html )
-[^57]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html (https://www.bhphotovideo.com/) 
+[^57]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )
 [^58]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )
 [^59]: [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )
 [^60]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[
