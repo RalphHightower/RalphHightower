@@ -134,23 +134,23 @@
 | [Canon RF 800mm f/5.6L IS USM](https://www.lensrentals.com/rent/canon-rf-800mm-f5.6l-is-usm )[^42] 52mm drop-in[^50] O.D. 163mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $675.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | [Canon RF 1200mm f/8L IS USM](https://www.lensrentals.com/rent/canon-rf-1200mm-f8l-is-usm )[^42] 52mm drop-in[^50] O.D. 168mm[^63]<sup>, or </sup>[^64]<sup>, or </sup>[^65] | $791.00 / 7 days | Rent[^42] | [LensRentals Cordova, KY](https://www.lensrentals.com/) |
 | **Solar Filter** |
-| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (Single, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319798-REG/daystar_filters_ulf50_50mm_universal_lens_filter.html )[^51] |$16.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (2-Pack, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319796-REG/daystar_filters_ulf50_2_universal_lens_filter_for.html )[^52] |$24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (Single, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319795-REG/daystar_filters_ulf70_70mm_universal_lens_filter.html )[^53] |$19.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (2-Pack, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319797-REG/daystar_filters_ulf70_2_universal_lens_filter_for.html )[^54] |$31.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^55] | $49.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (2-Pack, 85-99mm OD)](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html )[^56] |$34.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^57] | $39.95 | Buy[^46] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^58] | $49.95 | Buy[^53] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )[^59] | $24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^60] | $69.95 | Buy[^48] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^61] | $79.95 | Buy[^49] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^62] | $69.95 | Buy[^50] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^63] | $79.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^64] | $92.95 | Buy[^52] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^65] | $104.95[^53] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (Single, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319798-REG/daystar_filters_ulf50_50mm_universal_lens_filter.html )[^51] |$16.95 | Buy[^51] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 50mm White-Light Universal Lens Solar Filter (2-Pack, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319796-REG/daystar_filters_ulf50_2_universal_lens_filter_for.html )[^52] |$24.95 | Buy[^52] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (Single, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319795-REG/daystar_filters_ulf70_70mm_universal_lens_filter.html )[^53] |$19.95 | Buy[^53] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 70mm White-Light Universal Lens Solar Filter (2-Pack, 65-89mm OD)](https://www.bhphotovideo.com/c/product/1319797-REG/daystar_filters_ulf70_2_universal_lens_filter_for.html )[^54] |$31.95 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (66-94mm OD)](https://www.bhphotovideo.com/c/product/1794520-REG/mrstarguy_sgft040y_66_94mm_adjustable_solar_filter.html )[^55] | $49.95 | Buy[^55] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (2-Pack, 85-99mm OD)](https://www.bhphotovideo.com/c/product/1319794-REG/daystar_filters_ulf90_2_universal_lens_filter_for.html )[^56] |$34.95 | Buy[^56] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )[^57] | $39.95 | Buy[^57] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )[^58] | $49.95 | Buy[^58] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )[^59] | $24.95 | Buy[^59] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[^60] | $69.95 | Buy[^60] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )[^61] | $79.95 | Buy[^61] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )[^62] | $69.95 | Buy[^62] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^63] | $79.95 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^64] | $92.95 | Buy[^64] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^65] | $104.95 | Buy[^65] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [DayStar Filters Camera Quark H-Alpha Solar Filter DSZTCP B&H](https://www.bhphotovideo.com/c/product/1302634-REG/daystar_filters_dsztcp_camera_quark_eyepiece_filter.html )[^103] | $1,495.00 | Buy[^54] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
-| A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^55] | $ | Buy[^] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
+| A DayStar Energy Reduction Filter is needed, but I don't know what to get<bt />This is a placeholder. [^72] | $ | Buy[^72] |[B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | **Camera Remote Trigger/Intervalometer** |
 | [Vello FreeWave Plus II Wireless Remote Shutter Release FWP-C B&H](https://www.bhphotovideo.com/c/product/1619633-REG/vello_fwp_c_wireless_shutter_release_for.html ) | $59.99 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 | [Vello ShutterBoss II Timer Remote Switch for Cameras RC-C2II B&H](https://www.bhphotovideo.com/c/product/840098-REG/Vello_rc_c2ii_Shutterboss_Version_II_Timer.html ) | $49.95 | Own | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -187,14 +187,14 @@
 | [Moonglow Technologies - Eclipse Orchestrator](http://www.moonglowtech.com/products/EclipseOrchestrator/index.shtml )[^121] | $109.00 USD | |
 | [SET'n'C  -  Solar Eclipse Timer and Camera controller](https://robertnufer.ch/06_computing/setnc/setnc_page.htm )[^121] |  | 
 
---- 2X Facebook, please don't fuck up my Facebook account again!
+[^20]: 2X Facebook, please don't fuck up my Facebook account again!
 [^21]: [Facebook](https://www.facebook.com/) Do not, as one of my Facebook friends characterized your big **WTF** systemwide of removing content for no reason at all, *"Facebook! You're drunk!"* ***I ain't selling anything! The equipment listed are:<br />1) Items that I own, and am not going to part with, i.e., sell;<br />2) Items that I am considering for purchasing;<br />3) Items that I am going to reagain!***
---- 3X Camera
+[^30]: 3X Camera
 [^31]: Rent if going for high megapixel range 45MP
---- 4X Lens choices
+[^40]: 4X Lens choices
 [^41]: Choose one EF lens if using DSLR 5D III
 [^42]: Choose one RF lens if using mirrorless R5
---- 5X — 6X Filter choices 
+ 
 [^50]: On this Canon page [Photographing the Total Eclipse / Canon U.S.A., Inc.](https://www.usa.canon.com/learning/training-articles/training-articles-list/photographing-an-eclipse ) is a very Stern warning: <br >**Don’t Use the Rear Filter Tray**<br />Most of the large Canon L-series super-telephoto lenses have a rear mounted slip-in filter tray. NEVER use a solar filter in this tray. This filter mounting system is designed for terrestrial photography using traditional photography filters. It is not designed to house a filter to be directed celestially into the sun. At these magnifications, you will destroy the filter — similar to taking a magnifying glass to a leaf and put your lens, sensor and your eyes in danger. The intense light and heat could fry aperture and image stabilization mechanisms, damage the autofocus sensor and, if the mirror is locked up ruin your sensor. Buy the correct front-mounted solar filter. They’re relatively inexpensive and completely safe.
 [^51]: | [DayStar Filters 50mm White-Light Universal Lens Solar Filter (Single, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319798-REG/daystar_filters_ulf50_50mm_universal_lens_filter.html )[^51] | $16.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 [^52]: | [DayStar Filters 50mm White-Light Universal Lens Solar Filter (2-Pack, 50-69mm OD)](https://www.bhphotovideo.com/c/product/1319796-REG/daystar_filters_ulf50_2_universal_lens_filter_for.html )[^52] |$24.95 | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
@@ -211,23 +211,23 @@
 [^63]: | [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filter.html )[^63] | $79.95 | Buy[^63] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 [^64]: | [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )[^64] | $92.95 | Buy[^64] | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
 [^65]: | [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )[^104] | $104.95[^65] | Buy | [B&H, NYC, NY](https://www.bhphotovideo.com/) |
---- 7X Hydrogen Alpha Equipment 
+[^70]: 7X Hydrogen Alpha Equipment 
 [^71]: Hydrogen Alpha Filter.
 [^72]: DayStar Hydrogen Alpha Filter needed accessories
---- 8X Camera Remote Trigger/Intervalometer
---- 9X Stabilization
---- 10X Sighting aids
+[^80]: 8X Camera Remote Trigger/Intervalometer
+[^90]: 9X Stabilization
+[^100]: 10X Sighting aids
 [^101]: Choose just one dark cloth.
 [^102]: Setting up for the August 2017 Total Solar Eclipse, I couldn't locate the sun using the camera's viewfinder since the sun was so danged bright. I ended up draping a windbreaker over the camera (not the lens) to block out the sunlight. This dark cloth, typically used for focusing 4×5 to 8×10 view cameras, will be handy. It's silver on one side to reflect the light and heat, and black on the other side to block out the brightness of the sun, and the surrounding area. 
 [^103]: Watching numerous YouTube videos and webinars on sighting the sun, I remembered about The Android app, Skymap, which shows the stars that have risen, and also, those stars below the horizon. 
---- 11X Tracking 
+[^110]: 11X Tracking 
 [^111]: Choose just one tracking configuration.
 [^112]: Bad reviews. Cannot hande Canon 5D IV with EF 100-400mm. 
 [^113]: If [Sky-Watcher Star Adventurer Motorized Mount Astro Package S20420](https://www.bhphotovideo.com/c/product/1092106-REG/sky_watcher_s20420_star_adventurer_motorized_mount.html ) is chosen, purchase these items also.
 [^114]: If [Celestron Advanced VX GoTo German Equatorial Mount 91429 B&H](https://www.bhphotovideo.com/c/product/917599-REG/celestron_91429_advanced_vx_computerized_mount.html ) is chosen, purchase these items also.
 [^115]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
 [^116]: If [iOptron SkyGuider Pro Camera Mount with iPolar (Head & Mount Only)](https://www.bhphotovideo.com/c/product/1490837-REG/ioptron_3550a_skyguider_pro_camera_mount.html ) is chosen, select these items also.
---- 12X Eclipse Orchestration Software 
+[^120]: 12X Eclipse Orchestration Software 
 [^121]: Choose just one Eclipse Orchestration Software.
 
 ## August 17, 2017 Post Mortem
