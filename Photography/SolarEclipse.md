@@ -246,7 +246,7 @@ August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 
 | [Texas eclipse weather: New forecast predictions in 5 Texas cities indicates less cloud coverage](https://www.lonestarlive.com/weather/2024/04/texas-eclipse-weather-new-forecast-predictions-in-5-texas-cities-indicates-less-cloud-coverage.html ) |
 | [Solar eclipse 2024: Here are 11 basic yet overpriced Texas hotels available near totality - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/solar-eclipse-2024-here-are-11-basic-yet-overpriced-texas-hotels-available-near-totality.html ) |
 
-[^4801]: Texas loves their privacy, and freedom as much as they love the Second Amendment. Don't become a statistic. Or get gored by a Longhorn steer as Raymond Reddington in [The Blacklist](https://www.imdb.com/title/tt2741602/? ) finale.
+[^4801]: Texans loves their privacy, and freedom as much as they love the Second Amendment. Don't become a statistic. Or get gored by a Longhorn steer as Raymond Reddington in [The Blacklist](https://www.imdb.com/title/tt2741602/? ) finale.
 
 ### Oklahoma 
 ### Arkansas 
