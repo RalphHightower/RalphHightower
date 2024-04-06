@@ -33,6 +33,7 @@
 | [Edisto River Brewing](https://www.edistoriverbrewing.com/ ) | Johns Island |
 | [Edmund's Oast Brewing Co.](http://edmundsoast.com/brewing-co/)[^1] | Charleston | 2014 |
 | [The Eighth State Brewing Co](https://www.eighthstatebrewing.com/)[^3] | Greenville ||
+| [Estuary Beans & Barley](https://estuaryco.com/ )[^8] | John's Island | |
 | [Fam's Brewing Co.](http://famsbrewingco.com/)[^1] | Charleston | 2017 |
 | [Fatty's Beer Works](https://www.fattysbeerworks.com/)[^1] | Charleston | 2017 |
 | [Fireforge Crafted Beer](https://www.fireforge.beer/)[^3] | Greenville ||
@@ -126,7 +127,7 @@
 [^5]: 2022-11-19 Craft and Draft (Irmo)
 [^6]: 2022-11-19 [The State Newspaper: 8 of the best rated breweries in SC to drink a unique beer](https://www.thestate.com/news/state/south-carolina/article268782122.html)
 [^7]: 2022-11-30 [The Best Breweries In Greenville, South Carolina — Southern Living](https://www.southernliving.com/greenville-sc-breweries-6829807)
-[^8]: 2022-11-10 Total Wine and More
+[^8]: 2024-06-06 Total Wine and More
 [^9]: 2022-12-18 WE, AS A FAMILY RUN AND OPERATED BREWERY HAVE DECIDED TO PERMANENTLY CLOSE ON DECEMBER 18TH, 2022.  DURING THE COVID PANDEMIC, WE THOUGHT WE HAD TO SHUT OUR DOORS BUT, YOU HELPED US THROUGH THE ROUGH TIMES. HOWEVER, IT HAS BEEN AN UPHILL BATTLE AND HAVE DECIDED TO THROW IN THE TOWEL.
 [^10]: 2022-10-24 [Golf pro-turned-homebrewer opens North Charleston](https://www.postandcourier.com/food/golf-pro-turned-homebrewer-opens-north-charleston-brewery/article_8bc678e8-4c0c-11ed-bd7b-63a85850100d.html) Post and Courier, Charleston 
 [^11]: 2023-02-20 [Columbia brewers still adjusting to shifting craft beer climate](https://www.postandcourier.com/columbia/columbia-brewers-still-adjusting-to-shifting-craft-beer-climate/article_8f043762-aee9-11ed-aa1c-6f3c503722ad.html) 
