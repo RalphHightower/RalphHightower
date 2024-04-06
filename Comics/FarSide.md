@@ -6,6 +6,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Far Side Punchlines That Prove Creator Gary Larson Is A Genius At Word Play](https://screenrant.com/far-side-funniest-punchlines-puns-comics/ ) | Apr 6, 2024 |
+| [1 Far Side Comic Proves Creator Gary Larson's Humor Was ALWAYS That Dark](https://screenrant.com/far-side-oldest-comic-dark-humor-gary-larson/ ) | Apr 3, 2024 |
 | [The Far Side: 10 Strips With Punchlines That Are Easy to Miss](https://screenrant.com/the-far-side-strips-with-confusing-punchlines/ ) | Mar 31, 2024 |
 | ["You Have Offended Millions": 1 Controversial Far Side Cartoon Was Originally WAY Darker](https://screenrant.com/far-side-controversial-gary-larson-darkest-comic/ ) | Mar 30, 2024 |
 | [8 Funniest Far Side Comics Starring Frankenstein](https://screenrant.com/funniest-far-side-comics-frankenstein-gary-larson/ ) | Mar 29, 2024 |
