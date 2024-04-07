@@ -230,6 +230,10 @@
 | [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
+| Add-ons | Price |
+|---|---|
+| [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
+
 ## RISC-V
 
 ### Milk-V Pioneer 
