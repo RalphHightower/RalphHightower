@@ -58,6 +58,81 @@
 [^12]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
 [^13]: A unique method to view the eclipse. 
 
+<details markdown='1'><summary>Space.com Total solar eclipse 2024: Expand / Collapse</summary>
+
+| [Space\.com — Total solar eclipse 2024: Everything you need to know / Space](https://www.space.com/41552-total-solar-eclipse-2024-guide.html ) | Date |
+|---|---|
+| [Solar maximum: Why April's total Solar Eclipse will bring unique views of the sun's corona / Space](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024 ) | November 28, 2023 |
+| [The best places in Canada to see the 2024 total solar eclipse / Space](https://www.space.com/solar-eclipse-2024-best-canada-viewing-locations ) / Space | December 13, 2023 |
+| [10 rookie mistakes first-time eclipse-chasers make (and how to avoid them) / Space](https://www.space.com/eclipse-chaser-rookie-mistakes-how-to-avoid-them ) | January 6, 2024 |
+| [Why you don't need to get to the centerline for April's total solar eclipse — and what will happen at the edge / Space](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality ) | January 10, 2024 |
+| [Road trip! See April's total solar eclipse from one of these awesome North American routes / Space](https://www.space.com/total-solar-eclipse-april-8-2024-6-road-trip-ideas ) | January 12, 2024 |
+| [Shadow bands are a solar eclipse mystery (and not everyone sees them) / Space](https://www.space.com/37776-shadow-bands-are-a-solar-eclipse-mystery.html ) | January 17, 202 |
+| [Total solar eclipse April 8, 2024: The longest and most visible for the US in 100 years / Space](https://www.space.com/total-solar-eclipse-april-8-2024-finest-for-united-states ) | January 26, 2024 |
+| [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse? / Space](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips ) | February 6, 2024 |
+| [8 top tips for planning your 2024 total eclipse trip / Space](https://www.space.com/total-solar-eclipse-april-8-2024-top-tips-planning-trip ) | February 14, 2024 |
+| [Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse ) | February 17, 2024 |
+| [NASA Eclipse Soundscapes Project will record how 2024's total solar eclipse impacts nature / Space](https://www.space.com/nasa-eclipse-soundscapes-project-2024-total-solar-eclipse ) | February 22, 2024 |
+| [Delta Air Lines opens up 2nd 'totality' flight for 2024 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-april-8-delta-path-of-totality-flight-30000-feet ) | February 26, 2024 |
+| [Where will the April 2024 total solar eclipse be visible from? / Space](https://www.space.com/what-states-total-solar-eclipse-april-2024-visible-from ) | March 1, 2024 |
+| [Immerse yourself in the total eclipse 2024 with 'The Eclipse App' from The Eclipse Company / Space](https://www.space.com/the-eclipse-app-total-eclipse-2024 ) | March 2, 2024 |
+| [Total solar eclipse 2024 maps of the 'path of totality' / Space](https://www.space.com/37878-solar-eclipse-2024-path-of-totality-maps.html ) | March 5, 2024 |
+| [The best places in the US to experience totality during the April 2024 solar eclipse / Space](https://www.space.com/best-places-US-states-to-see-total-solar-eclipse-april-2024 ) | March 6, 2024 |
+| [10 phenomena to photograph during April's total solar eclipse / Space](https://www.space.com/10-phenomena-to-see-and-photograph-april-total-solar-eclipse-2024 ) | March 6, 2024 |
+| [April 8 total solar eclipse boosts ticket sales for United Airlines / Space](https://www.space.com/united-airlines-total-solar-eclipse-april-2024 ) | March 6, 2024 |
+| [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) | March 7, 2024 |
+| [1 month to go until the total solar eclipse 2024 — Here's what you need to know / Space](https://www.space.com/one-month-until-total-solar-eclipse-2024 ) | March 8, 2024 |
+| [10 things you probably didn't know about the 2024 total solar eclipse / Space](https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse ) | March 9, 2024 |
+| [A chronology of the April 8 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-chronology-april-8-2024 ) | March 10, 2024 |
+| [Where is the best place to see the April 2024 total solar eclipse? / Space](https://www.space.com/where-is-best-place-to-see-total-solar-eclipse-april-2023 ) | March 11, 2024 |
+| [What will it be like to experience the total solar eclipse 2024? / Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) | March 11, 2024 |
+| [You could win a chance to watch 2024's total solar eclipse from a jet. Here's how / Space](https://www.space.com/2024-total-solar-eclipse-jet-jsx-flight ) | March 12, 2024 |
+| [Where will the most crowded places be for the total solar eclipse 2024? / Space](https://www.space.com/most-crowded-places-for-total-solar-eclipse-april-2024 ) | March 13, 2024 |
+| [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) | March 14, 2024 |
+| [April 8's total solar eclipse will make baseball history. Here's how / Space](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games ) | March 15, 2024 |
+| [Solar eclipse 2024 weather prospects — Q&A with an expert / Space](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a ) | March 16, 2024 |
+| [Why I'm going to Rochester NY to see my 1st-ever total solar eclipse / Space](https://www.space.com/visit-rochester-roc-the-eclipse-festival-total-solar-eclipse-2024 ) | March 18, 2024 |
+| [Track the April 8 total solar eclipse with SkySafari, now 80% off / Space](https://www.space.com/skysafari-basic-app-sale-solar-eclipse-2024 ) | March 18, 2024 |
+| [How to view solar eclipse 2024 with items from around the home / Space](https://www.space.com/view-total-solar-eclipse-2024-items-around-the-home ) | March 19, 2024 |
+| ['99% totality' does not exist! Why you need to get to the path for April 8, 2024, total solar eclipse / Space](https://www.space.com/why-99-percent-totality-does-not-exist-need-to-be-on-total-solar-eclipse-path-april-2024 ) | March 21, 2024 |
+| [Texas Eclipse Festival offers a 'choose your own adventure experience' for April total solar eclipse / Space](https://www.space.com/texas-eclipse-festival-2024 ) | March 22, 2024 |
+| [Massive explosions may be visible on the sun during the April 8 total solar eclipse / Space](https://www.space.com/massive-eruptions-visible-sun-during-total-eclipse-2024-what-to-look-for ) | March 23, 2024 |
+| [How fast will April's total solar eclipse travel? / Space](https://www.space.com/how-fast-will-total-solar-eclipse-2024-travel ) | March 25, 2024 |
+| [How long will April's total solar eclipse last? / Space](https://www.space.com/how-long-will-total-solar-eclipse-last-april-8 ) | March 26, 2024 |
+| [April 8 total solar eclipse could bring uptick in fatal car crashes, scientists caution / Space](https://www.livescience.com/health/death/april-8-eclipse-could-bring-uptick-in-fatal-car-crashes-scientists-caution ) | March 26, 2024 |
+| [Will the total solar eclipse on April 8 be the most watched ever? / Space](https://www.space.com/will-the-april-total-solar-eclipse-2024-be-the-most-watched-eclipse-ever ) | March 27, 2024 |
+| [NASA is super stoked for the 2024 total solar eclipse and hopes you are, too. / Space](https://www.space.com/nasa-total-solar-eclipse-briefing ) | March 27, 2024 |
+| [NASA's new astronauts are excited for April's total eclipse: 'I'm going to be that little kid all over again' (exclusive) / Space](https://www.space.com/nasa-astronaut-sun-science-solar-eclipse-2024 ) | March 28, 2024 |
+| [SunChips will sell exclusive total solar eclipse flavors only during totality on April 8 / Space](https://www.space.com/total-solar-eclipse-sun-chips-exclusive ) | March 28, 2024 |
+| [Lego Education Eclipse Collection teaches students about April 8 total solar eclipse / Space](https://www.space.com/lego-education-solar-eclipse-collection-april-8 ) | March 28, 2024 |
+| [How to earn a 'black belt' in solar eclipse chasing / Space](https://www.space.com/how-to-earn-black-belt-eclipse-chasing-saros ) | March 29, 2024 |
+| [Why low-level clouds vanish during a solar eclipse / Space](https://www.livescience.com/space/the-sun/why-low-level-clouds-disappear-during-a-solar-eclipse ) | March 29, 2024 |
+| [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years / Space](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years ) | March 30, 2024 |
+| ['Everything is interrelated.' For the Navajo Nation, the April 8 solar eclipse is a spiritual experience / Space](https://www.space.com/total-solar-eclipse-2024-navajo-nation ) | March 31, 2024 |
+| [The 2024 total solar eclipse is 1 week away. Here's what you need to know. / Space](https://www.space.com/total-solar-eclipse-2024-one-week-away-what-you-need-to-know ) | April 1, 2024 |
+| [Total solar eclipse 2024: How to watch online for free / Space](https://www.space.com/watch-total-solar-eclipse-april-8-online-free-livestreams ) | April 1, 2024 |
+| [How photos of the April 8 solar eclipse will help us understand the sun's atmosphere / Space](https://www.space.com/solar-eclipse-images-reveal-hidden-parts-sun ) | April 1, 2024 |
+| [April 8 solar eclipse: 6 zoos on the path of totality — and why animals react strangely to 'nighttime during the day' / Space](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-6-zoos-in-the-path-of-totality-and-why-animals-react-strangely-to-nighttime-during-the-day ) | April 1, 2024 |
+| [Why I'm going to Missouri near the centerline for the solar eclipse on April 8 / Space](https://www.space.com/total-solar-eclipse-april-8-missouri-centerline ) | April 1, 2024 |
+| [Stars, planets and more will be visible during the total solar eclipse on April 8. Here's where to look / Space](https://www.space.com/sky-during-totality-what-to-look-for-april-8-total-solar-eclipse ) | April 2, 2024 |
+| [What happens if it's cloudy for the April 8 solar eclipse? / Space](https://www.space.com/what-if-it-is-cloudy-for-total-solar-eclipse-april-8-2024 ) | April 2, 2024 |
+| [Total solar eclipse April 8, 2024: What you'll see if you're outside the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-2024-local-conditions ) | April 2, 2024 |
+| ['Zeus made night from mid-day:' Terror and wonder in ancient accounts of solar eclipses / Space](https://www.livescience.com/space/the-sun/zeus-made-night-from-mid-day-terror-and-wonder-in-ancient-accounts-of-solar-eclipses ) | April 2, 2024 |
+| [Will the 2024 total solar eclipse be visible from space? / Space](https://www.space.com/iss-astronauts-satellites-solar-eclipse-april-8 ) | April 2, 2024 |
+| [Why I’m staying home for the April 8 solar eclipse / Space](https://www.space.com/why-stay-home-total-solar-eclipse-april-2024 ) | April 3, 2024 |
+| [These 15 solar eclipse beers were brewed to sip in the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality ) | April 6, 2024 |
+| [What time is the total solar eclipse on April 8? / Space](https://www.space.com/what-time-total-solar-eclipse-april-8 ) | April 4, 2024 |
+| [Colors will look different during the April 8 solar eclipse. Here's why / Space](https://www.livescience.com/health/anatomy/colors-will-look-different-during-the-april-8-solar-eclipse-heres-why ) | April 4, 2024 |
+| [I screwed up and missed the solar eclipse in 2017. I won't make that same mistake on April 8. / Space](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024 ) | April 4, 2024 |
+| [How to photograph the total solar eclipse on April 8 / Space](https://www.space.com/how-to-photograph-a-solar-eclipse ) | April 5, 2024 |
+| [This solar eclipse simulator on SkySafari will guide you through the eclipse on April 8 / Space](https://www.space.com/skysafari-solar-eclipse-simulator-april-8 ) | April 5, 2024 |
+| [The April 8 total solar eclipse will bring weird sights, sounds and feelings / Space](https://www.space.com/solar-eclipse-april-2024-strange-phenomena ) | April 6, 2024 |
+| [I'm headed to Indiana to prove myself wrong about solar eclipses on April 8 / Space](https://www.space.com/total-solar-eclipse-april-8-indiana-path-totality ) | April 6, 2024 |
+| [Total solar eclipse 2024: Here's the national weather forecast for April 8 / Space](https://www.space.com/solar-eclipse-2024-national-weather-forecast ) | April 6, 2024 |
+| [These 15 solar eclipse beers were brewed to sip in the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality ) | April 4, 2024 |
+
+</details>
+
 | Events |
 |---|
 | **[2024 Eclipse Festival / Atlas Obscura & Valley of the Vapors / Ecliptic April 5–8 2024 in Hot Springs, AR](https://ecliptic.atlasobscura.com/ )** |
