@@ -54,6 +54,7 @@
 | [Ecliptic Visions—with Rebecca Boyle, Gabriel Biderman, Atlas Obscura & B&H / B&H eXplora Podcast](https://www.bhphotovideo.com/explora/podcasts/photography/ecliptic-visions-with-rebecca-boyle-gabriel-biderman-atlas-obscura-bh ) |
 | [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) |
 | [Dr. Telepun: my-eclipse-research](https://www.solareclipsetimer.com/my-eclipse-research.html ) |
+| [Books & Articles / Solar Eclipse Across America](https://eclipse.aas.org/resources/books-articles ) |
 
 [^11]: I removed Scientific American from Planning Resources because it requires a subscription, which I don't have.<br />~~[The Science of 2024's Epic Solar Eclipse, the Last for a Generation / Scientific American](https://www.scientificamerican.com/article/the-science-of-2024s-epic-solar-eclipse-the-last-for-a-generation/ )~~
 [^12]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
@@ -139,6 +140,10 @@
 | **[2024 Eclipse Festival / Atlas Obscura & Valley of the Vapors / Ecliptic April 5–8 2024 in Hot Springs, AR](https://ecliptic.atlasobscura.com/ )** |
 | [Rock & Roll Hall of Fame SolarFest / Rock & Roll Hall of Fame April 5–8, 2024](https://www.rockhall.com/solarfest ) |
 | [How to Watch Upcoming Total Solar Eclipse with NASA from Anywhere - NASA](https://www.nasa.gov/news-release/how-to-watch-upcoming-total-solar-eclipse-with-nasa-from-anywhere/ ) |
+| [April 2024 total solar eclipse viewing events: Parties, festivals and more / Space](https://www.space.com/total-solar-eclipse-april-2024-viewing-events-parties-festivals ) |
+| [National Eclipse / Eclipse Events / April 8, 2024 - Total Solar Eclipse](https://nationaleclipse.com/events.html ) |
+| [2024 Total Solar Eclipse: 25 Events, Festivals, and Places to Stay - Sky & Telescope - Sky & Telescope](https://skyandtelescope.org/2024-total-solar-eclipse/2024-total-solar-eclipse-25-events-festivals-and-places-to-stay/ ) |
+| [Eclipse Events — NASA](https://science.nasa.gov/eclipses/events/ ) |
 
 ### Solar Eclipse Articles 
 
