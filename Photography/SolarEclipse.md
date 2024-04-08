@@ -135,6 +135,18 @@
 
 </details>
 
+## Events
+
+<details markdown='1'><summary>NASA Hosted Expand / Collapse</summary>
+
+| [Eclipse Events](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/ ) |
+|----|
+| [NASA in CLE - NASA](https://www.nasa.gov/nasaincle/ ) |
+| [Sun, Moon, and You: Dallas Cotton Bowl Solar Eclipse](https://solarsystem.nasa.gov/events/318/sun-moon-and-you-dallas-cotton-bowl-solar-eclipse/?category=eclipses_general&amp;layout=hds_embed ) |
+|[2024 Indy Motor Speedway Solar Eclipse](https://solarsystem.nasa.gov/events/248/2024-indy-motor-speedway-solar-eclipse/?category=eclipses_general&amp;layout=hds_embed ) |
+|[Kerrville Eclipse Festival](https://solarsystem.nasa.gov/events/249/kerrville-eclipse-festival/?category=eclipses_general&amp;layout=hds_embed ) |
+</details>
+
 | Events |
 |---|
 | **[2024 Eclipse Festival / Atlas Obscura & Valley of the Vapors / Ecliptic April 5–8 2024 in Hot Springs, AR](https://ecliptic.atlasobscura.com/ )** |
