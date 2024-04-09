@@ -24,6 +24,13 @@
 
 | Lens Articles |
 |---|
+| [Meade Glass White Light Solar Filter Review](https://www.the-digital-picture.com/Reviews/Meade-White-Light-Solar-Filter.aspx ) |
+| [Canon RF 100-400mm F5.6-8 IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-100-400mm-F5.6-8-IS-USM-Lens.aspx ) |
+| [Canon RF 100-500mm F4.5-7.1 L IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-100-500mm-F4.5-7.1-L-IS-USM-Lens.aspx ) |
+| [Canon RF 200-800mm F6.3-9 IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-200-800mm-F6-3-9-IS-USM-Lens.aspx ) |
+| [Canon RF 600mm F11 IS STM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-600mm-F11-IS-STM-Lens.aspx ) |
+| [Canon RF 800mm F5.6 L IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-800mm-F5-6-L-IS-USM-Lens.aspx ) |
+| [Canon RF 800mm F11 IS STM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-800mm-F11-IS-STM-Lens.aspx ) |
 | [Testing a Trio of Canon RF Zoom Lenses for Astrophotography  / The Amazing Sky](https://amazingsky.net/2022/09/20/testing-a-trio-of-canon-rf-zoom-lenses-for-astrophotography/ ) |
 | [Another Ridiculous Canon Lens Is on the Way / Fstoppers](https://fstoppers.com/gear/another-ridiculous-canon-lens-way-633152 ) |
 | [Canon Announces the RF 24-105mm f/2.8 L IS USM Z Lens / Fstoppers](https://fstoppers.com/gear/canon-announces-rf-24-105mm-f28-l-usm-z-lens-647035 ) |
