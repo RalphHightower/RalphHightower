@@ -6,6 +6,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [20 Funniest Far Side Comics That Perfectly Capture Gary Larson's Sense of Humor](https://screenrant.com/funniest-far-side-comics-best-gary-larson/ ) | April 10, 2024 |
 | [15 Funniest Far Side Comics That Prove It's Obsessed with Monsters](https://screenrant.com/funniest-far-side-comics-monsters-gary-larson-best/ ) | Apr 9, 2024 |
 | [10 Far Side Punchlines That Prove Creator Gary Larson Is A Genius At Word Play](https://screenrant.com/far-side-funniest-punchlines-puns-comics/ ) | Apr 6, 2024 |
 | [1 Far Side Comic Proves Creator Gary Larson's Humor Was ALWAYS That Dark](https://screenrant.com/far-side-oldest-comic-dark-humor-gary-larson/ ) | Apr 3, 2024 |
