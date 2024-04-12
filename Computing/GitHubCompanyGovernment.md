@@ -61,6 +61,7 @@
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation ) | Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS |
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
 | [Cloudflare](https://github.com/cloudflare ) | Cloudflare open source tools |
+| [Cobalt Strike](https://github.com/Cobalt-Strike ) | The official public repository for Cobalt Strike related projects. |
 | [Codecov](https://github.com/codecov ) | Empower developers with tools to improve code quality and testing. |
 | [comma\.ai](https://github.com/commaai ) | Make driving chill |
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
@@ -100,6 +101,7 @@
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
 | [Google DeepMind](https://github.com/google-deepmind ) | Google DeepMind | 
 | [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
+| [Google Maps Platform](https://github.com/googlemaps ) | Google Maps Platform is a set of APIs and SDKs for retrieving location-based data from Google and embedding Google Maps imagery into mobile apps and web pages. |
 | [Google Research](https://github.com/google-research  ) | Google Research |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [GraphQL](https://github.com/graphql ) | GraphQL |
@@ -119,6 +121,7 @@
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins |
 | [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
+| [Keyfactor](https://github.com/Keyfactor ) | Keyfactor delivers identity-first security for every device, workload, and thing. Because when you establish digital trust, great things happen. |
 | [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
@@ -180,6 +183,7 @@
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
+| [OpenAcousticDevices](https://github.com/OpenAcousticDevices ) | The team responsible for the creation of the AudioMoth and all its supporting software. |
 | [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
@@ -230,6 +234,7 @@
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
+| [Sky Map Devs](https://github.com/sky-map-team ) | Android App Skymap GitHub |
 | [SLSA Framework](https://github.com/slsa-framework ) | Supply-chain Levels for Software Artifacts |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
@@ -257,6 +262,7 @@
 | [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | Visa |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. |
+| [Windows on R](https://github.com/worproject ) | Get the full desktop experience on your SBC |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
 
