@@ -63,6 +63,16 @@
 |---|
 | **[Holiday Gift Guide for Star Trek Fans](https://www.cbr.com/holiday-gift-guide-for-star-trek-fans/ )** |
 
+## Star Trek: Strange New Worlds 
+
+### Subspace Rhapsody — Vinyl 
+
+| Star Trek Strange New Worlds | Subspace Rhapsody |
+|---|---|
+| [Star Trek: Strange New Worlds' Incredible Musical Episode Is Getting the Vinyl It Deserves](https://gizmodo.com/star-trek-strange-new-worlds-subspace-rhapsody-vinyl-1851374676 ) |   |
+| [Star Trek: Strange New Worlds' Musical Episode Songs, Ranked](https://gizmodo.com/star-trek-strange-new-worlds-musical-songs-ranked-1850708487 ) |   |
+| **[Star Trek Strange New Worlds "Subspace Rhapsody" - 'Black Vinyl' Vario – lakeshorerecords](https://lakeshorerecordsshop.com/products/star-trek-strange-new-worlds-subspace-rhapsody-black-vinyl-various-artists )** | **$24.98** |
+
 ## Reference Links
 
 | ScreenRant List of References: Star Trek Franchise |
