@@ -65,9 +65,9 @@
 
 ### Reviews 
 
-| Reviews |
-|---|
-| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) |
+| Reviews | Date |
+|---|---|
+| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) | |
 
 ### API (Application Program Interface)
 
@@ -87,8 +87,8 @@
 
 ## Automotive News
 
-| Automotive News |
-|---|
+| Automotive News | Date |
+|---|---|
 | [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
 | ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) |
 | [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) |
@@ -117,8 +117,8 @@
 
 ## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 
-| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) |
-|---|
+| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) | Date |
+|---|---|
 |[2024 Chevelle 70/SS: What We Know So Far](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
 | [10 Ways The New Chevelle 70/SS Reignites The Muscle Car Market](https://www.hotcars.com/how-new-chevelle-reignites-muscle-cars/ ) |
 | [10 Reasons We're Excited About The New Chevelle Model: 70/SS](https://www.hotcars.com/new-chevrolet-chevelle-model/ ) |
