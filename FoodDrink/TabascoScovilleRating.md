@@ -1,4 +1,4 @@
-# Tabasco Sauce Scoville Rating [^1]
+# FoodDrink — Tabasco Sauce Scoville Rating [^1]
 
 [^1]: [McIlhenny Company](https://www.tabasco.com/hot-sauces/)
 
