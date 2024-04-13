@@ -28,6 +28,11 @@
 | Spectre | 2015 | Craig, Daniel |
 | No Time to Die | 2021 | Craig, Daniel |
 
+## News
+
+| News | Date |
+|---|---|
+
 ## [ChatGPT](https://chat.openai.com/) — James Bond Haikus 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
