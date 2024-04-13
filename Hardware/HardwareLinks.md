@@ -1,4 +1,4 @@
-# Hardware Links
+# Hardware — Hardware Links
 
 | Resource |
 |------|
@@ -297,8 +297,8 @@
 
 ## Articles 
 
-| Articles |
-|----------|
+| Articles | Date |
+|----------|---|
 | [EmbedFire LubanCat 4 card computer - A Rockchip RK3588S dev board with a mini PCIe socket for WiFi or 4G LTE - CNX Software](https://www.cnx-software.com/2024/02/15/embedfire-lubancat-4-card-computer-a-rockchip-rk3588s-dev-board-with-mini-pcie-sockt-with-wifi-or-4g-lte/ ) |
 | [Vivid Unit is a low-profile Rockchip RK3399 SBC with an integrated touchscreen display - CNX Software](https://www.cnx-software.com/2024/02/14/vivid-unit-low-profile-rockchip-rk3399-sbc-with-an-integrated-touchscreen-display/ ) |
 | [ElectronicsV2 - An NXP S32K144 development board for DIY automotive projects - CNX Software](https://www.cnx-software.com/2024/02/14/electronicsv2-an-nxp-s32k144-development-board-for-diy-automotive-projects/ ) |
