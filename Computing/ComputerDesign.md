@@ -1,4 +1,4 @@
-# Computer Design 
+# Computing/Computer Design 
 
 | Computer Design | Date |
 |---|---|
