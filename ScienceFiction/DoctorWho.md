@@ -25,8 +25,8 @@
 
 ## Doctor Who News
 
-| Doctor Who News |
-|---|
+| Doctor Who News | Date |
+|---|---|
 | [Has River Song Answered the Mystery of the Timeless Child?](https://www.cbr.com/doctor-who-river-song-timeless-child-origin/ ) |
  | [Doctor Who Must Break The Oldest Regeneration Rule To Save RTD From His Previous Trap](https://screenrant.com/doctor-who-ncuti-gatwa-60th-anniversary-regeneration-rule-break/ ) |
 | [11 Ways Doctor Who Changed Forever Under Chris Chibnall](https://screenrant.com/every-doctor-who-chris-chibnall-big-change/ ) |
@@ -187,8 +187,8 @@
 
 ## One Person's Life as a Doctor Who Fan 
 
-| One Person's Life as a Doctor Who Fan|
-|---|
+| One Person's Life as a Doctor Who Fan| Date |
+|---|---|
 |[My Life as a Doctor Who Fan: Part 1 – the 1960s to 1974 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-1/ )|
 |[My Life as a Doctor Who Fan: Part 2 – 1974 to 1981 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-2/ )|
 |[My Life as a Doctor Who Fan: Part 3 – 1982 to 1984 / Radio Times](https://www.radiotimes.com/tv/sci-fi/doctor-who-my-life-as-a-fan-part-3/ )|
