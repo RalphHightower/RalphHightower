@@ -93,8 +93,8 @@
 
 ## Articles 
 
-| Star Trek Articles |
-|---|
+| Star Trek Articles | Date |
+|---|---|
 | **[Star Trek: Deep Space Nine's Ending, Explained](https://gamerant.com/star-trek-deep-space-nine-ds9-ending-explained/ )** |
 | [The Cast Of ‘Star Trek: The Next Generation’ To Receive Special Lifetime Achievement Saturn Award – TrekMovie.com](https://trekmovie.com/2024/01/31/the-cast-of-star-trek-the-next-generation-to-receive-special-lifetime-achievement-saturn-award/ ) |
 | [Ol' Yellow Eyes Is Back, An Album of Crooning Oldies by Brent Spiner of 'Star Trek: The Next Generation'](https://laughingsquid.com/brent-spiner-ol-yellow-eyes-is-back/ ) |

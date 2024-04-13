@@ -8,16 +8,16 @@
 
 ## Products 
 
-| Products |
-|---|
+| Products | Date |
+|---|---|
 | **[Dune Box Sets Steeply Discounted At Amazon Ahead Of Dune: Part Two - GameSpot](https://www.gamespot.com/gallery/dune-box-sets-steeply-discounted-at-amazon-ahead-of-dune-part-two/2900-5077/ )** |
 | **[Amazon\.com: Frank Herbert's Dune Saga 6-Book Boxed Set: Dune, Dune Messiah, Children of Dune, God Emperor of Dune, Heretics of Dune, and Chapterhouse: Dune (Dune, 1-6): 9780593201886: Herbert, Frank: Books](https://www.amazon.com/Frank-Herberts-Dune-6-Book-Boxed/dp/0593201884?tag=gamespot-promos-20 )** |
 | [Xbox and Microsoft Flight Simulator Unveil Dune Expansion and Floating Controller - Xbox Wire](https://news.xbox.com/en-us/2024/02/13/xbox-and-microsoft-flight-simulator-unveil-dune-expansion-giveaway/ ) |
 
 ## News / Articles 
 
-| News / Articles |
-|---|
+| News / Articles | Date |
+|---|---|
 | [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
 | [Denis Villeneuve Already Set Up Dune 3 With This 36-Second Scene](https://screenrant.com/dune-3-paul-atreides-vision-scene/ ) |
 | [Dune: Part Two (2024) / ScreenRant](https://screenrant.com/tag/dune-2/ ) |

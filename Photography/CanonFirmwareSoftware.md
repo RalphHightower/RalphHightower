@@ -1,4 +1,4 @@
-# Canon Manuals, Firmware, Software[^31] 
+# Photography — Canon Manuals, Firmware, Software[^31] 
 
 [^31]: Yes, this page is for Canon related stuff, but this includes my bucket list cameras  
 
@@ -6,8 +6,8 @@
 
 ### [Canon Technology](https://global.canon/en/technology/)
 
-| Canon Technical Articles |
-|----|
+| Canon Technical Articles | Date |
+|----|---|
 |[Digital SLR Cameras / Canon Global](https://global.canon/en/technology/dslr2022s.html )|
 |[Interchangeable lenses / Canon Global](https://global.canon/en/technology/iclenses2021s.html )|
 |[Mirrorless Cameras / Canon Global](https://global.canon/en/technology/mcamera2021s.html )|
@@ -43,6 +43,7 @@ The Canon New F-1 is one of my bucket list cameras that I bought in July 2013 fr
 | Canon FD 28mm f2.8 | [Download]()[^11] |
 | Canon FD 50mm f1.8 | [Download]()[^11] |
 | Canon Macrophoto 20mm f3.5 | [Download]()[^11] |
+| Canon Macrophoto 35mm f2.8 | [Download]()[^11] |
 | Canon Auto Bellows | [Download](https://www.cameramanuals.org/canon_pdf/canon_auto_bellows.pdf)[^11] |
 
 ### Flash

@@ -1,9 +1,9 @@
-# Canon Mirrorless Cameras 
+# Photography — Canon Mirrorless Cameras 
 
 ## Canon RF Cameras 
 
-| Canon RF Cameras |
-|---|
+| Canon RF Cameras | Date |
+|---|---|
 | [Canon EOS R6 MK II Review - DustinAbbott\.net](https://dustinabbott.net/2023/04/canon-eos-r6-mk-ii-review/ ) |
 | [How Does the EOS R6 Stack Up Against Its Newer Mark II Counterpart? / Fstoppers](https://fstoppers.com/reviews/how-does-eos-r6-stack-against-its-newer-mark-ii-counterpart-649727 ) |
 | [Canon R3 vs R5 vs R6 vs R7 vs R10 vs R vs RP Mirrorless Camera Review](https://www.breatheyourpassion.com/blog/CanonRReviews ) |
@@ -22,8 +22,8 @@
 
 ## Canon RF Lenses
 
-| Lens Articles |
-|---|
+| Lens Articles | Date |
+|---|---|
 | [Meade Glass White Light Solar Filter Review](https://www.the-digital-picture.com/Reviews/Meade-White-Light-Solar-Filter.aspx ) |
 | [Canon RF 100-400mm F5.6-8 IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-100-400mm-F5.6-8-IS-USM-Lens.aspx ) |
 | [Canon RF 100-500mm F4.5-7.1 L IS USM Lens Review](https://www.the-digital-picture.com/Reviews/Canon-RF-100-500mm-F4.5-7.1-L-IS-USM-Lens.aspx ) |
@@ -52,8 +52,8 @@
 
 [^11]: [The Best Lenses for Canon's RF Mount / PetaPixel](https://petapixel.com/best-canon-rf-lenses/ )
 
-| [The Best Canon RF L Lens Guide for Every Photographer](https://www.thephoblographer.com/2022/11/30/the-best-canon-rf-l-lens-guide-for-every-photographer/ )[^21] |
-|----|
+| [The Best Canon RF L Lens Guide for Every Photographer](https://www.thephoblographer.com/2022/11/30/the-best-canon-rf-l-lens-guide-for-every-photographer/ )[^21] | Date |
+|----|---|
 | [This Ultra-Wide Is Really Beautiful: Canon RF 14-35mm f4 L Review](https://www.thephoblographer.com/2021/10/28/canon-rf-14-35mm-f4-l-review/ ) |
 | [Review: Canon RF 15-35mm f2.8 L IS USM (A Legend is Reborn)](https://www.thephoblographer.com/2020/03/16/review-canon-rf-15-35mm-f2-8-l-is-usm-a-legend-is-reborn/ ) |
 | [Review: Canon RF 24-70mm f2.8 L IS USM (This Lens Will Grow on You)](https://www.thephoblographer.com/2019/11/25/review-canon-rf-24-70mm-f2-8-l-is-usm-this-lens-will-grow-on-you/ ) |
@@ -95,8 +95,8 @@
 
 ## Printers
 
-| Canon Printers |
-|---|
+| Canon Printers | Date |
+|---|---|
 | [Printing big and BIGGER with my Canon printers!](https://blog.jeffcable.com/2023/06/printing-big-and-bigger-with-my-canon.html ) |
 
 ## Articles 
