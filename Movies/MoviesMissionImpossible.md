@@ -11,6 +11,11 @@
 | Mission: Impossible – Dead Reckoning Part One	| 2023-07-14	|Ethan Hunt and his IMF team embark on their most dangerous mission yet: to track down a terrifying new weapon that threatens humanity before it falls into the wrong hands. With control of the future and the fate of the world at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than his mission – not even the lives of those he cares about most.|
 | Mission: Impossible – Dead Reckoning Part Two	| 2024-06-28 ||
 
+## News
+
+| News | Date |
+|---|---|
+
 ## [ChatGPT](https://chat.openai.com/) — Mission Impossible Haikus
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) |
