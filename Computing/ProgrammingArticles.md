@@ -1,4 +1,4 @@
-# Programming / Security Articles 
+# Computing/Programming / Security Articles 
 
 ## Programing Articles 
 
@@ -6,8 +6,8 @@
 
 #### C#.Net Programing Articles 
 
-| C# .Net Programing Articles |
-|---|
+| C# .Net Programing Articles | Date |
+|---|---|
 | [Performance Improvements in .NET 8 - .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-8/ ) |
 
 #### Application Tech Stack[^1]
@@ -23,8 +23,8 @@
 
 ## Artificial Intelligence 
 
-| Artificial Intelligence |
-|---|
+| Artificial Intelligence | Date |
+|---|---|
 | [Overview - OpenAI API](https://platform.openai.com/overview ) |
 | [Featured Projects, Templates and Resources / Flux Community](https://www.flux.ai/p/projects ) |
 | **[Top 10 Machine Learning Algorithms Every Programmer Should Know / by Arslan Mirza / Medium / Level Up Coding](https://levelup.gitconnected.com/top-10-machine-learning-algorithms-every-programmer-should-know-82cabadfbdd9)** |
@@ -58,13 +58,14 @@
 
 ## Docker
 
-Docker
+| Docker | Date |
+|---|---|
 | [A Crash Course in Docker - ByteByteGo Newsletter](https://blog.bytebytego.com/p/a-crash-course-in-docker ) |
  
 ## Programing Articles 
 
-| Programing Articles |
-|---|
+| Programing Articles | Date |
+|---|---|
 | **[How to get in the flow while coding (and why it’s important) - The GitHub Blog](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/ )** |
 | **[New tool to secure your GitHub Actions / The GitHub Blog](https://github.blog/2023-06-26-new-tool-to-secure-your-github-actions/ )** |
 | [Transform your business with smart .NET apps powered by Azure and ChatGPT - .NET Blog](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/ ) |
@@ -88,20 +89,23 @@ Docker
  
 ## Qt for VS Code 
 
-| Qt for VS Code |
-|---|
+| Qt for VS Code | Date |
+|---|---|
 | [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
 | [VS Code for Qt Applications - Part 1 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/ ) |
 | [VS Code for Qt Applications - Part 2 - KDAB](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-2/ ) | 
 | [VS Code for Qt Applications - Part 3 - KDAB on Qt development](https://www.kdab.com/using-vsc-for-qt-apps-part-3/ ) |
 
 ## WebAssembly
+
+| Webassembly | Date |
+|---|---|
 | [What Is WebAssembly — and Why Are You Hearing So Much About It? - The New Stack](https://thenewstack.io/webassembly/what-is-webassembly/ ) |
 
 ## Kubernetes 
 
-| Kubernetes |
-|----|
+| Kubernetes | Date |
+|----|---|
 | [Developer Portals Can Abstract away Kubernetes Complexity](https://thenewstack.io/developer-portals-can-abstract-away-kubernetes-complexity/) |
 | [My Custom (Automated) LiM Kubernetes Cluster · l00nix's RPi blog](https://rpi.loonix.ca/lim-cluster-set-up/ ) |
 |[Kubespray: Automated Kubernetes Home Lab Setup - Virtualization How To](https://www.virtualizationhowto.com/2023/05/kubespray-automated-kubernetes-home-lab-setup/ )|
@@ -117,8 +121,8 @@ Docker
 
 [^2]: Sorry Meta, but you will always be known as Facebook. 
 
-| [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/) |
-|-----|
+| [Meta, aka Facebook Engineering Blog](https://engineering.fb.com/) | Date |
+|-----|---|
 | [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/productin-engineering/precision-time-protocol-at-meta/) |
 | [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/) |
 
@@ -148,16 +152,16 @@ Docker
 | [Developer Resources](https://developer.arm.com/) |
 | [Community](https://community.arm.com/) |
 
-| ARM History |
-|----|
+| ARM History | Date |
+|----|---|
 | [A history of ARM, part 1: Building the first chip](https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/)<br />In 1983, Acorn Computers needed a CPU. So 10 people built one. |
 | [A history of ARM, part 2: Everything starts to come together](https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/)<br />What had started as twelve people and a dream was now a billion-dollar company. |
 | [A history of ARM, part 3: Coming full circle](https://arstechnica.com/gadgets/2023/01/a-history-of-arm-part-3-coming-full-circle/) |
 
 ## RISC-V
 
-| [RISC-V](https://riscv.org/) |
-|----|
+| [RISC-V](https://riscv.org/) | Date |
+|----|---|
 | [Posts · Daniel Mangum –> RISC-V Topics](https://danielmangum.com/posts/ ) |
 
 ## SPARC
@@ -170,7 +174,7 @@ Docker
 
 ### Security Blogs
 
-| Security Blog |
+| Security Blog | Date |---|
 |----|
 | [Krebs on Security – In-depth security news and investigation](https://krebsonsecurity.com/ ) |
 
@@ -203,8 +207,8 @@ Docker
 
 ### Career/Job Search Advice/Interview Questions 
 
-| Career/Job Search/Interview Preparation |
-|----|
+| Career/Job Search/Interview Preparation | Date |
+|----|---|
 |[20 (Easy) C# Interview Questions and Answers (2023) Part 1 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions? )|
 |[20 C# Interview Questions (for Freshers) 2023 Part 2 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ )|
 |[20 (Intermediate-Level) C# Interview Questions Part 3 - DEV Community](https://www.bytehide.com/blog/csharp-interview-questions/ ) |
