@@ -16,8 +16,8 @@
 
 ## News 
 
-| Star Wars News |
-|---|
+| Star Wars News | Date |
+|---|---|
 | | [10 Things That Make No Sense About The Rebellion In Star Wars](https://screenrant.com/star-wars-rebellion-problems-make-no-sense/#the-rebels-should-have-evacuated-yavin-4-immediately-after-the-death-star-battle ) |
 
 
