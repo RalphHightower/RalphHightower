@@ -1,4 +1,4 @@
-# Food/Drink Recipes 
+# FoodDrink — Food/Drink Recipes 
 
 ## Food Recipes 
 
@@ -12,8 +12,8 @@ Pike's Creole Jambalaya (recipe by Leah Chase)
 
 <br />
 
-| Captain Pike 's Jambalaya / Strange New Worlds |
-|---|
+| Captain Pike 's Jambalaya / Strange New Worlds | Date |
+|---|---|
 | **Ingredients** |
 |1 lb. smoked ham (cubed)|
 |1/2 lb. chaurice* (hot sausage cut in pieces)|
@@ -67,8 +67,8 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 
 <br />
 
-| Food Recipes|
-|---|
+| Food Recipes| Date |
+|---|---|
 | [Marinated Mushrooms – A Couple Cooks](https://www.acouplecooks.com/marinated-mushrooms/ ) |
 | [12 barbecue mistakes and how to avoid them - The Washington Post](https://www.washingtonpost.com/food/2023/06/30/barbecue-grilling-mistakes-to-avoid/ ) |
 
