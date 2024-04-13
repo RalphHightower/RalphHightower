@@ -4,8 +4,8 @@
 
 ## News / Articles 
 
-| Battlestar Galactica |
-|---|
+| Battlestar Galactica | Date |
+|---|---|
 | [How The Final Line of Battlestar Galactica’s Series Finale Was Changed / SYFY WIRE](https://www.syfy.com/syfy-wire/how-the-final-line-of-battlestar-galacticas-series-finale-was-changed ) |
 | [Battlestar Galactica: Who Are The Centurions?](https://gamerant.com/battlestar-galactica-who-are-centurions-explained/ ) |
 | [Battlestar Galactica: Why The Kara-Lee Pairing Worked Despite Their Differences](https://gamerant.com/battlestar-galactica-kara-lee-pairing-romance/ ) |
