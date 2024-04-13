@@ -15,8 +15,8 @@
 
 ### Planning Resources[^11] 
 
-| Planning Resources |
-|---|
+| Planning Resources | Date |
+|---|---|
 | **[The Solar Maximum: Navigating the Sun's Fiery Upswing](https://www.seti.org/solar-maximum-navigating-suns-fiery-upswing )** |
 | **[Everything About Eclipses — MrEclipse\.com (Fred Espenak)](https://mreclipse.com/ )** |
 | **[Where & When — NASA 2024-04-08](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/where-when/ )** |
@@ -137,7 +137,7 @@
 
 ## Events
 
-<details markdown='1'><summary>NASA Hosted Expand / Collapse</summary>
+<details markdown='1'><summary>NASA Hosted 2024-04-08 Expand / Collapse</summary>
 
 | [Eclipse Events](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/live/ ) |
 |----|
@@ -159,8 +159,8 @@
 
 ### Solar Eclipse Articles 
 
-| Solar Eclipse Articles |
-|---|
+| Solar Eclipse Articles | Date |
+|---|---|
 | **Preparation** |
 | [How to Photograph a Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/how-to-photograph-a-solar-eclipse) | 
 | [Mark Your Calendars: America's Total Solar Eclipse 2024 / B&H eXplora](https://www.bhphotovideo.com/explora/photography/features/americas-total-solar-eclipse-2024) | 
