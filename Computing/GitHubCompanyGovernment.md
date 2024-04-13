@@ -1,4 +1,4 @@
-# Computing ~ GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+# Computing/GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
 
 ## Company / Government [GitHubs](https://github.com/ )
 
@@ -284,16 +284,16 @@
 
 ## GitHub Engineering 
 
-| GitHub Engineering |
-|---|
+| GitHub Engineering | Date |
+|---|---|
 |[How to communicate like a GitHub engineer: our prinpciples, practices, and tools - The GitHub Blog](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/ ) |
 | [github/how-engineering-communicates: A community version of the "common API" for how the GitHub Engineering organization communicates](https://github.com/github/how-engineering-communicates ) |
 | [Copilot June-2023 update](https://github.blog/changelog/2023-06-29-copilot-june-2023-update/ ) |
 
 ## [Microsoft](https://www.microsoft.com/)
 
-| [Microsoft Visual Studio (Online)](https://vscode.dev/) |
-|----------------------------------|
+| [Microsoft Visual Studio (Online)](https://vscode.dev/) | Date |
+|----------------------------------|---|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 | [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
 | [https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github](https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github) |
