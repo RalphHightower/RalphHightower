@@ -1,4 +1,4 @@
-# Hardware Projects 
+# Home —  Hardware Projects 
 
 | Preferred Vendors | 
 |------|
@@ -103,8 +103,8 @@
 
 ### [NVIDIA Jetson AI Articles]()
 
-| [NVIDIA AI Articles]() |
-|----|
+| [NVIDIA AI Articles]() | Date |
+|----|---|
 | **[Getting Started — NVIDIA CUDA Quantum documentation](https://nvidia.github.io/cuda-quantum/latest/install.html )** |
 | [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
 | [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
@@ -134,8 +134,8 @@
 | [NVIDIA Jetson Store](https://store.nvidia.com/en-us/jetson/store/) |
 | [CherryTree Cases, Computers - Star Trek themed](https://mycherrytree.com/) |
 
-| Articles |
-|----|
+| Articles | Date |
+|----|---|
 | [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
 | [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
 
@@ -143,16 +143,16 @@
 
 ### DEC PDP Consoles 
 
-| DEC PDP Consoles | Price |
-|---|---|
+| DEC PDP Consoles | Price | Date |
+|---|---|---|
 | [PDP-8 replica kit: the PiDP-8 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/ ) | $210.00 |
-| [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) ||
+| [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) || 2024-03-13 |
 | [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) | $297.00 |
 
 ### RaspberryPi Shake (Earthquake Monitoring)
 
-| Model | RaspberryPi Shake Seismometers | Price |
-|---|---|---|
+| Model | RaspberryPi Shake Seismometers | Price | Date |
+|---|---|---|---|
 | **[Watch the earth move with Raspberry Shake - Raspberry Pi](https://www.raspberrypi.com/news/watch-the-earth-move-with-raspberry-shake/ )** |
 | [Earthquake and Infrasound Monitors-Seismograph - Earthquake and Infrasound Sensors](https://shop.raspberryshake.org/ ) |
 | [Raspberry Shake seismometers - Raspberry Pi](https://www.raspberrypi.com/success-stories/raspberry-shake-seismometers/ ) |
@@ -177,29 +177,29 @@
 
 ### Raspberry Pi OS
 
-| Alternative Raspberry Pi OS |
-|---|
+| Alternative Raspberry Pi OS | Date |
+|---|---|
 | [Venturing beyond the default OS on Raspberry Pi 5 • The Register](https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/ ) |
 
 ### Raspberry Pi 5
 
 #### Raspberry Pi 5 Articles 
 
-| Raspberry Pi 5 Articles |
-|---|
+| Raspberry Pi 5 Articles | Date |
+|---|---|
 | **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
-| **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** |
-| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** |
+| **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** | 2023-11-05 |
+| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | 2023-11-05 |
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
 | [6 best operating systems for Raspberry Pi 5](https://www.xda-developers.com/best-operating-systems-for-raspberry-pi-5/ ) |
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
-| [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) |
+| [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) | 2023-10-07 |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
 | [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) |
 | [Raspberry Pi 5 Review: A New Standard for Makers (Updated) / Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-5 ) |
 | [The Raspberry Pi 5 is here!](https://www.yodeck.com/news/raspberry-pi-5/ ) |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
-| [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) |
+| [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) | 2023-10-25 |
 | [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
 | [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
 | [Reducing Raspberry Pi 5's power consumption by 140x / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x ) |
@@ -212,8 +212,8 @@
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
 | **[Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/ )** |
 | [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) |
-| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) |
-| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) |
+| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | 2023-12-13 |
+| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | 2023-11-26 |
 
 | Add-ons | Price |
 |---|---|
@@ -224,8 +224,8 @@
 
 ### Raspberry Pi 4
 
-| Raspberry Pi 4 |
-|---|
+| Raspberry Pi 4 | Date |
+|---|---|
 | [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
 | [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
@@ -265,23 +265,23 @@
 
 ### Satellite 
 
-| Satellite |
-|---|
-| [The Voice Of GPS / Hackaday](https://hackaday.com/2023/06/23/the-voice-of-gps/ ) |
+| Satellite | Date |
+|---|---|
+| [The Voice Of GPS / Hackaday](https://hackaday.com/2023/06/23/the-voice-of-gps/ ) | 2023-06-23 |
 
 ## RISC-V
 
 ### Software
 
-| RISC-V Software |
-|---|
+| RISC-V Software | Date |
+|---|---|
 | [SiFive Software - Accelerate & Enhance your RISC-V Development.](https://www.sifive.com/software ) |
 | [What's going on with SiFive and RISC V? / TechSpot](https://www.techspot.com/news/100578-what-going-sifive-risc-v.html ) |
 
 ### Satellite Projects 
 
-| Satellite Projects |
-|---|
+| Satellite Projects | Date |
+|---|---|
 | [How To Build A MILSAT SATCOM Turnstile Antenna](https://www.youtube.com/watch?v=Xdc7l0O5fYo ) |
 | [Receiving voice transmissions from GPS satellites // Satellite reception...](https://youtube.com/watch?v=U_pCHTeamn8&feature=share ) |
 
@@ -324,8 +324,8 @@
 
 ## Milk-V 64 core, up to 128GB RAM Support
 
-| Milk-V RISC-V 64 core CPU Supporting up to 128 GB RAM| Source |
-|---|---|
+| Milk-V RISC-V 64 core CPU Supporting up to 128 GB RAM| Source | Date |
+|---|---|---|
 |[Milk-V's Pioneer Is a Tall Glass of Cold RISC-V with 64 Cores, Up to 128GB of RAM - Hackster.io](https://www.hackster.io/news/milk-v-s-pioneer-is-a-tall-glass-of-cold-risc-v-with-64-cores-up-to-128gb-of-ram-fabf9f22747f )|News Article|
 |[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )|Design/Manufacturer|
 |[Linux kernel source code](https://github.com/milkv-pioneer/linux-riscv )|Design/Manufacturer|
@@ -364,8 +364,8 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 ## Possible Projects 
 
-| Possible Projects |
-|------|
+| Possible Projects | Date |
+|------|---|
 | **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
 | [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
 | [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
@@ -400,8 +400,8 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 ## Precision Time (Keeping) Protocol — PTP
 
-| PTP — Precision Time Keeping Protocol |
-|---|
+| PTP — Precision Time Keeping Protocol | Date |
+|---|---|
 |[Home » Open Compute Project](https://www.opencompute.org) |
 |[Timebeat's Precision Time Keeping Products](https://store.timebeat.app/products/ocp-tap-timecard )|
 |[opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project): Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...|
@@ -504,14 +504,14 @@ I could easily see this for installation in cars, SUVs, trucks.
 ## Programming 
 
 | Programming |
-|----------|
+|----------|---|
 | [Arm Assembly Programming by Example](https://armasm.com/) |
 | [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) |
 
 ## [SparkFun](https://www.sparkfun.com/)
 
-| Hardware | How-to | GitHub |
-|----|---|----|
+| Hardware | How-to | GitHub | Date |
+|----|---|----|---|
 | [SparkFun MicroMod Input and Display Carrier Board](https://www.sparkfun.com/products/16985) | [SparkFun MicroMod Input and Display Carrier Board Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide/all) | [SparkFun MicroMod Input and Display Carrier Board](https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier) |
 | [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
 | [PiJuice HAT - Raspberry Pi Portable Power Platform](https://www.sparkfun.com/products/14803) | [Software](https://github.com/PiSupply/PiJuice/tree/master/Software) | [PiSupply/PiJuice Public Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere](https://github.com/PiSupply/PiJuice) |
@@ -538,6 +538,6 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 ## General Computer Building 
 
-| General Computer Building |
-|---|
+| General Computer Building | Date |
+|---|---|
 | [Why Building Your Own PC Is Still a Smart Move in 2023 / Tom's Hardware](https://www.tomshardware.com/news/building-your-own-pc-smart-move ) |
