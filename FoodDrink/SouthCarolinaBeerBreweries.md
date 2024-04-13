@@ -1,7 +1,7 @@
-# South Carolina Craft Beer Breweries
+# FoodDrink — South Carolina Craft Beer Breweries
 
-| Brewery | Location | Year |
-|---------|----------|------|
+| Brewery | Location | Year | Date Added/Updated |
+|---------|----------|------|---|
 | [13 Stripes Brewery](http://www.13stripesbrewery.com/)[^1][^17] | Taylors | 2017 |
 | ~~[1873 Brewing](https://www.1873brewing.com/)~~[^17] | Fort Mill ||
 | ~~[Aiken Brewing Company](http://www.aikenbrewingcompany.com/)~~[^2][^12] | Aiken ||
