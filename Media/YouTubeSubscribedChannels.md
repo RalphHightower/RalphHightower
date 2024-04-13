@@ -1,10 +1,10 @@
-## [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
+# Media — [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
 
 [^11]: These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
 [^12]: I don't list the content that is listed in *"- Topics"*. It must be the band or artist. 
 
-| Content Creator | Content Classification |
-|---|---|
+| Content Creator | Content Classification | Date Added/ Updated |
+|---|---|---|
 | [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) | Astronomy — Solar Eclipse |
 | [Sam Mahdavi](https://youtube.com/@sammahdavi7031 ) | Auto Repair |
 | [Scotty Kilmer](https://youtube.com/@scottykilmer ) | Auto Repair |
