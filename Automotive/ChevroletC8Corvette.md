@@ -1,4 +1,4 @@
-# Automotive/Chevrolet Corvette [C8] — Mid-Engine Performance Beast
+# Automotive — Chevrolet Corvette [C8] — Mid-Engine Performance Beast
 
 ## Videos 
 

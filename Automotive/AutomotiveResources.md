@@ -1,4 +1,4 @@
-# Automotive/Automotive Resources
+# Automotive — Automotive Resources
 
 ## Car/SUV/Truck Reviews, Resources 
 
