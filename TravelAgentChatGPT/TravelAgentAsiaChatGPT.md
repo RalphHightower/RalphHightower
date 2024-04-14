@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) — Asia 🌏 
+# [ChatGPT Travel Agent](https://chat.openai.com/) \| Asia 🌏 
 # Asia 🌏 
 ## Afghanistan 🇦🇫 
 ## Armenia 🇦🇲 
