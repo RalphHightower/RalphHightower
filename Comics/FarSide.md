@@ -1,12 +1,25 @@
 # Comics — Far Side
 
+## Books
+
 | Far Side Books | Price |
 |---|---|
 | **[The Complete Far Side: 1980-1994: Gary Larson, Steve Martin: 9780740721137: Amazon.com: Books](https://www.amazon.com/Complete-Far-Side-1980-1994/dp/0740721135/ref=bmx_dp_5j8xbiro_sccl_2_1/139-4061656-3088856?pd_rd_w=AKqbL&content-id=amzn1.sym.1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_p=1ad6a7e4-3d81-4546-a32b-8902c9f127c5&pf_rd_r=TK8SZ3A1X6GSTSE0T7WV&pd_rd_wg=gmbnJ&pd_rd_r=29caf881-d843-423b-a9b7-4f4e0296bbf9&pd_rd_i=0740721135&psc=1 )** | **$183.04** |
 
+## Interviews 
+
+| Interviews | Date |
+|---|---|
+| [Larson is drawn to the wild side - USATODAY.com](https://usatoday30.usatoday.com/life/2006-11-20-larson-cover-usat_x.htm ) | 11/22/2006 10:13 AM ET |
+
+## Comics 
+
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
-| [20 Funniest Far Side Comics That Perfectly Capture Gary Larson's Sense of Humor](https://screenrant.com/funniest-far-side-comics-best-gary-larson/ ) | April 10, 2024 |
+| ["I Worked At Night": Gary Larson Had the Perfect Explanation For Far Side's Dark Worldview](https://screenrant.com/gary-larson-far-side-writing-habits-dark-worldview/ ) | Apr 14, 2024 |
+| [The Far Side's Humor Was Designed to Test Readers' Reflexes (But Not the Ones You Think)](https://screenrant.com/gary-larson-far-side-comics-what-the-reflex/ ) | Apr 13, 2024 |
+| [The Far Side Creator Gary Larson Refused To Make 1 Type of Merch (That We'd Honestly Love to Own)](https://screenrant.com/far-side-merchandise-gary-larson/ ) | Apr 11, 2023 |
+| [20 Funniest Far Side Comics That Perfectly Capture Gary Larson's Sense of Humor](https://screenrant.com/funniest-far-side-comics-best-gary-larson/ ) | Apr 10, 2024 |
 | [15 Funniest Far Side Comics That Prove It's Obsessed with Monsters](https://screenrant.com/funniest-far-side-comics-monsters-gary-larson-best/ ) | Apr 9, 2024 |
 | [10 Far Side Punchlines That Prove Creator Gary Larson Is A Genius At Word Play](https://screenrant.com/far-side-funniest-punchlines-puns-comics/ ) | Apr 6, 2024 |
 | [1 Far Side Comic Proves Creator Gary Larson's Humor Was ALWAYS That Dark](https://screenrant.com/far-side-oldest-comic-dark-humor-gary-larson/ ) | Apr 3, 2024 |
