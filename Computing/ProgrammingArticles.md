@@ -1,4 +1,4 @@
-# Computing — Programming / Security Articles 
+# Computing \| Programming / Security Articles 
 
 ## Programing Articles 
 
