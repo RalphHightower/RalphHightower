@@ -1,4 +1,4 @@
-# ChatGPT — [ChatGPT](https://chat.openai.com/) Haikus[^11]
+# ChatGPT \| [ChatGPT](https://chat.openai.com/) Haikus[^11]
 
 [^11]: The definition of "haiku" Merriam-Webster's definition of "haiku": http://www.merriam-webster.com/dictionary/haiku
 
