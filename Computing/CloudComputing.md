@@ -1,4 +1,4 @@
-# Computing — Cloud Computing[^11]
+# Computing \| Cloud Computing[^11]
 
 ## [Cloud Computing Services / Microsoft Azure](https://azure.microsoft.com/en-us )
 
