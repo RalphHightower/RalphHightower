@@ -1,4 +1,4 @@
-# Media — SiriusXM Presets
+# Media \| SiriusXM Presets
 
 | Channel | Name | Genre | Content | Contact |
 |---------|-------|------|-----|-----------|
