@@ -1,4 +1,4 @@
-# Home —  Home Lab
+# Home \| Home Lab
 
 ## Hardware 
 
