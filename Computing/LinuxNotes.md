@@ -1,4 +1,4 @@
-# Computing \3 Linux Notes
+# Computing \| Linux Notes
 
 ## Directories
 
