@@ -1,4 +1,4 @@
-# Electronics — Electronics / Radios 📻 / Television 📺 
+# Electronics \| Electronics / Radios 📻 / Television 📺 
 
 ## Electronics 
 
