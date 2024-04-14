@@ -1,4 +1,4 @@
-# Government – Lexington County Online Resoures
+# Government \| Lexington County Online Resoures
 
 ## Lexington County Online Resources 
 
