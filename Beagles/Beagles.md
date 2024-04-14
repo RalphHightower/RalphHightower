@@ -1,4 +1,4 @@
-# Beagles — Beagles 
+# Beagles \| Beagles 
 
 | Registered Name | Call Name | Birth | Death |
 |-----------------|-----------|-------|-------|
