@@ -119,6 +119,7 @@
 | [Intrepid Control Systems, Inc.](https://github.com/intrepidcs ) | Global provider of vehicle networking tools |
 | [IoTSharp](https://github.com/IoTSharp ) | An IoT platform for device management, data collection, processing, status detection, and remote control |
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
+| [Jellyfin](https://github.com/jellyfin ) | The Free Software Media System |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins |
 | [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
 | [Keyfactor](https://github.com/Keyfactor ) | Keyfactor delivers identity-first security for every device, workload, and thing. Because when you establish digital trust, great things happen. |
