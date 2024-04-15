@@ -27,9 +27,9 @@ function addKey(line)
     }
 BEGIN {
     #shell: sort -fut\[ <QuickNote.md | awk -f addSortKey.awk | sort -t: +0r -1 +1nr -2 | tee sort.md
-    rgxYYYYMMDD = "[-/]202[0-4][-/]([1-9]|[01][0-9])[-/]([1-9]|[0-3][0-9])/"
-    rgxYYYYMM = "[-/]202[0-4][-/]([1-9]|[01][0-9])[-/]"
-    rgxYYYY = "[-/]202[0-4][-/]"
+    rgxYYYYMMDD = "[-/]20[0-9][0-9][-/]([1-9]|[01][0-9])[-/]([1-9]|[0-3][0-9])/"
+    rgxYYYYMM = "[-/]20[0-9][0-9][-/]([1-9]|[01][0-9])[-/]"
+    rgxYYYY = "[-/]20[0-9][0-9][-/]"
     rgxDates[8] = rgxYYYYMMDD 
     rgxDates[6] = rgxYYYYMM
     rgxDates[4] = rgxYYYY
