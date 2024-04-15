@@ -1,4 +1,4 @@
-# Computing — RISC-V Articles 
+# Computing \| RISC-V Articles 
 
 | RISC-V Articles | Date |
 |---|---|

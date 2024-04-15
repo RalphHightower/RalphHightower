@@ -1,4 +1,4 @@
-# Home —  Hardware Projects 
+# Home \| Hardware Projects 
 
 | Preferred Vendors | 
 |------|

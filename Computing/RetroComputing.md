@@ -1,4 +1,4 @@
-# Computing — Retro Computing 
+# Computing \| Retro Computing 
 
 ## CPU
 

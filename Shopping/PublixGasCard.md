@@ -1,4 +1,4 @@
-# Shopping — [Publix](https://www/publix.com/) Gas Card Coupon Sales Dates[^11]
+# Shopping \| [Publix](https://www/publix.com/) Gas Card Coupon Sales Dates[^11]
 
 ## Gas Card Coupons[^12]
 

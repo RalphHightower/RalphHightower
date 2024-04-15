@@ -1,4 +1,4 @@
-# Photography — Total Solar Eclipse 
+# Photography \| Total Solar Eclipse 
 
 ## April 8, 2024
 

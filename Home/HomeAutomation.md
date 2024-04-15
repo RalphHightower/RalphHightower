@@ -1,4 +1,4 @@
-# Home Automation 
+# Home \| Home Automation 
 
 I have not decided on which home automation system that I want to deploy, but my decision will be based on versatility. 
 
@@ -42,7 +42,7 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 ### Articles — Home Assistant 
 
-| [Home Assistant](https://www.home-assistant.io/ ) | Date 2
+| [Home Assistant](https://www.home-assistant.io/ ) | Date |
 |----|---|
 |[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )|
 |[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )| 2023-06-21 |

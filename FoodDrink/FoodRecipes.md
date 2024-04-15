@@ -1,4 +1,4 @@
-# FoodDrink — Food/Drink Recipes 
+# FoodDrink \| Food/Drink Recipes 
 
 ## Food Recipes 
 
@@ -6,14 +6,14 @@
 
 Pike's Creole Jambalaya (recipe by Leah Chase)
 
-|Yields|Prep Time|Cook Time|
-|---|---|---|
-|6-8 servings|30 minutes|1 hour|
+| Yields | Prep Time | Cook Time| Date |
+|---|---|---|---|
+| 6-8 servings | 30 minutes | 1 hour |
 
 <br />
 
-| Captain Pike 's Jambalaya / Strange New Worlds | Date |
-|---|---|
+| Captain Pike 's Jambalaya / Strange New Worlds |
+|---|
 | **Ingredients** |
 |1 lb. smoked ham (cubed)|
 |1/2 lb. chaurice* (hot sausage cut in pieces)|

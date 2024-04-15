@@ -1,4 +1,4 @@
-# Media — [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
+# Media \| [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
 
 [^11]: These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
 [^12]: I don't list the content that is listed in *"- Topics"*. It must be the band or artist. 

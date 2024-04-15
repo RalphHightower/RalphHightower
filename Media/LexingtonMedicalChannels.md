@@ -1,4 +1,4 @@
-# Media — [Lexington Medical Center Channel Lineup/Schedule](https://www.lexmed.com/)[^11][^12][^13]
+# Media \| [Lexington Medical Center Channel Lineup/Schedule](https://www.lexmed.com/)[^11][^12][^13]
 
 [^11]: Since I have had more hospitalizations than I wanted, I created this channel guide for myself.
 [^12]: None the links to the channel schedules are active yet.

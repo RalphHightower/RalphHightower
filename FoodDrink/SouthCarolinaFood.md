@@ -1,4 +1,4 @@
-# FoodDrink — South Carolina Food 
+# FoodDrink \| South Carolina Food 
 
 ## Statewide 
 

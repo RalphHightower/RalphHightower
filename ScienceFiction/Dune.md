@@ -1,4 +1,4 @@
-# Science Fiction — Dune
+# Science Fiction \| Dune
 
 ## Dune — Part Two Premiere Date Set for March 15, 2024[^13]
 

@@ -1,4 +1,4 @@
-# Comics — Far Side
+# Comics \| Far Side
 
 ## Books
 

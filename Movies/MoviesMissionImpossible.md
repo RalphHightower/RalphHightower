@@ -1,4 +1,4 @@
-# Movies — Mission Impossible
+# Movies \| Mission Impossible
 
 | Title	| Release date	| Plot |
 |---|---|---|
