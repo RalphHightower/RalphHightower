@@ -817,7 +817,8 @@
 | [8-Core, Qualcomm-Powered SBC Set to Take on Raspberry Pi, Features Embedded RP2040](https://www.tomshardware.com/news/thunderberry5-sbc-to-take-on-raspberry-pi) |  |
 | [7 Expert Strategies for Managing RBAC on OpenShift](https://thenewstack.io/7-expert-strategies-for-managing-rbac-on-openshift/) |  |
 | [6 Project Ideas to Get Started with IoT](https://thenewstack.io/6-project-ideas-to-get-started-with-iot/) |  |
-: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
+
+[^21]: • 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU (Roughly 3× performance)<br />• 1GB, 2GB, or 4GB of LPDDR4 SDRAM<br />• Full-throughput Gigabit Ethernet<br />• Dual-band 802.11ac wireless networking<br />• Bluetooth 5.0<br />• Two USB 3.0 and two USB 2.0 ports<br />• Dual monitor support, at resolutions up to 4K<br />• VideoCore VI graphics, supporting OpenGL ES 3.x<br />• 4Kp60 hardware decode of HEVC video<br />Complete compatibility with earlier Raspberry Pi products
 
 ## Satellite Projects 
 
