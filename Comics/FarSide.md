@@ -22,100 +22,93 @@
 | [20 Funniest Far Side Comics That Perfectly Capture Gary Larson's Sense of Humor](https://screenrant.com/funniest-far-side-comics-best-gary-larson/ ) | Apr 10, 2024 |
 | [15 Funniest Far Side Comics That Prove It's Obsessed with Monsters](https://screenrant.com/funniest-far-side-comics-monsters-gary-larson-best/ ) | Apr 9, 2024 |
 | [10 Far Side Punchlines That Prove Creator Gary Larson Is A Genius At Word Play](https://screenrant.com/far-side-funniest-punchlines-puns-comics/ ) | Apr 6, 2024 |
+| [1 Dark Far Side Comic Puts a Horrifying Twist on a Beloved Children's Story](https://screenrant.com/dark-far-side-comic-little-engine-that-could-twist/ ) | Apr 5, 2024 |
 | [1 Far Side Comic Proves Creator Gary Larson's Humor Was ALWAYS That Dark](https://screenrant.com/far-side-oldest-comic-dark-humor-gary-larson/ ) | Apr 3, 2024 |
-| [The Far Side: 10 Strips With Punchlines That Are Easy to Miss](https://screenrant.com/the-far-side-strips-with-confusing-punchlines/ ) | Mar 31, 2024 |
+| [15 Funniest Far Side Comics That Break the Fourth Wall](https://screenrant.com/funniest-far-side-comics-meta-humor-fourth-wall/ ) | Apr 2, 2024 |
+| [The Far Side: 10 Strips With Punchlines That Are Easy to Miss](https://screenrant.com/the-far-side-strips-with-confusing-punchlines/ ) | Mar 30, 2024 |
 | ["You Have Offended Millions": 1 Controversial Far Side Cartoon Was Originally WAY Darker](https://screenrant.com/far-side-controversial-gary-larson-darkest-comic/ ) | Mar 30, 2024 |
-| [8 Funniest Far Side Comics Starring Frankenstein](https://screenrant.com/funniest-far-side-comics-frankenstein-gary-larson/ ) | Mar 29, 2024 |
+| [8 Funniest Far Side Comics Starring Frankenstein](https://screenrant.com/funniest-far-side-comics-frankenstein-gary-larson/ ) | Mar 30, 2024 |
 | [10 Funniest Far Side Comics About Giant Squid](https://screenrant.com/funniest-far-side-comics-giant-squid-gary-larson/ ) | Mar 28, 2024 |
 | [15 Funniest Far Side Comics About Goldfish](https://screenrant.com/far-side-funniest-goldfish-comics-gary-larson/ ) | Mar 26, 2024 |
-| [The Far Side's 15 Craziest Comics About Aliens](https://screenrant.com/far-side-best-alien-comics-gary-larson/ ) | Mar 23, 2024 |
-| [10 Funniest Far Side Comics About Sports](https://screenrant.com/far-side-funniest-comics-about-sports-baseball-basketball/ ) | Mar 23, 2024 |
+| [15 Craziest Far Side Comics About Aliens](https://screenrant.com/read-far-side-comics-aliens-gary-larson/ ) | Mar 23, 2024 |
+| [10 Funniest Far Side Comics About Sports](https://screenrant.com/far-side-funniest-comics-about-sports-baseball-basketball/ ) | Mar 22, 2024 |
 | [The Far Side: 15 Most Unforgettable Comics About Elephants](https://screenrant.com/best-elephant-far-side-comics-gary-larson/ ) | Mar 19, 2024 |
 | [10 Funniest Far Side Comics Featuring ACME Products](https://screenrant.com/far-side-best-acme-comics-by-gary-larson/ ) | Mar 17, 2024 |
 | [15 Funniest Far Side Comics About Sharks](https://screenrant.com/far-side-funniest-shark-comics/ ) | Mar 16, 2024 |
 | [15 Wildest Far Side Comics About Bears](https://screenrant.com/far-side-strips-bears-gary-larson/ ) | Mar 15, 2024 |
 | [10 Far Side Characters That Are Absolutely Doomed](https://screenrant.com/gary-larson-doomed-far-side-characters/ ) | Mar 13, 2024 |
-| [Gary Larson's 15 Funniest Far Side Comics About Dogs](https://screenrant.com/funniest-far-side-dog-comics/ ) | Mar 12, 2024 |
+| [Gary Larson's 15 Funniest Far Side Comics About Dogs](https://screenrant.com/funniest-far-side-dog-comics/ ) | Mar 13, 2024 |
 | [9 Funniest Far Side Comics Featuring Vampires](https://screenrant.com/funniest-far-side-comics-vampires-gary-larson/ ) | Mar 11, 2024 |
-| [The 10 Funniest Far Side Comics Starring Apes](https://screenrant.com/greatest-far-side-strips-apes-gorillas-gary-larson/ ) | Mar 9, 2024 |
+| [10 Funniest Far Side Comics Starring Apes](https://screenrant.com/greatest-far-side-strips-apes-gorillas-gary-larson/ ) | Mar 9, 2024 |
 | [11 Far Side Comics That Prove Creator Gary Larson Was Obsessed With Snakes](https://screenrant.com/far-side-comics-snake-obsessed-gary-larson/ ) | Mar 7, 2024 |
 | [10 Wildest Far Side Comics Set in Courtroom Scenes](https://screenrant.com/far-side-courtroom-comic-jokes/ ) | Mar 5, 2024 |
 | [15 Funniest Far Side Comics That Make Fun of Real People](https://screenrant.com/funniest-far-side-comics-real-people-celebrities/ ) | Mar 5, 2024 |
-| [10 Best Far Side Comics That Make Jokes About Real World History](https://screenrant.com/far-side-comics-reference-history-gary-larson/ ) | Mar 3. 2024 |
+| [10 Best Far Side Comics That Make Jokes About Real World History](https://screenrant.com/far-side-comics-reference-history-gary-larson/ ) | Mar 3, 2024 |
+| [15 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/ ) | Mar 1, 2024 |
 | [The Far Side: 10 Incredible Strips Where Inanimate Objects Come to Life](https://screenrant.com/far-side-funniest-comics-inanimate-objects/ ) | Feb 27, 2024 |
 | [The Far Side: 10 of the Most Surreal Strips About Doctors](https://screenrant.com/the-far-side-funniest-comic-strips-doctors/ ) | Feb 25, 2024 |
-| [10 Funniest Far Side Comics That Reference Classic TV Shows](https://screenrant.com/funniest-far-side-comics-classic-tv-star-trek/ ) |  Feb 22, 2024 |
+| [10 Funniest Far Side Comics That Reference Classic TV Shows](https://screenrant.com/funniest-far-side-comics-classic-tv-star-trek/ ) | Feb 22, 2024 |
 | ["This Is Something I Swore I Would Never Reveal": Gary Larson Accidentally Included a Risqué Secret in 1 Far Side Comic (& Was Terrified It Would Be Discovered)](https://screenrant.com/far-side-gary-larson-funny-comic-hidden-detail/ ) | Feb 17, 2024 |
 | [10 of the Far Side's Most Ridiculous Puns (& Why They're Actually Genius)](https://screenrant.com/far-side-funniest-puns-gary-larson-wordplay/ ) | Feb 15, 2024 |
 | [10 Funniest Far Side Comics That Prove It's Obsessed with Vikings](https://screenrant.com/funniest-far-side-comics-vikings-history-gary-larson/ ) | Feb 8, 2024 |
-| [10 Outrageous Far Side Comics Featuring Anthropomorphized Animals](https://screenrant.com/the-far-side-funniest-comics-anthropomorphized-animals/ ) |  Feb 5, 2024 |
-| [Every Far Side Comic That Makes Fun of Superman (Ranked from Goofy to Hilarious)](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superhero/ ) |  Feb 3, 2024 |
-| [The Most Unsettling Far Side Comics Ever Are As Hilarious As They Are Disturbing](https://screenrant.com/far-side-comics-unsettling-hilarious/ ) |  Jan 29, 2024 |
-| [10 Far Side Comics That Make the End of the World Funny](https://screenrant.com/far-side-funniest-comics-end-world-apocalypse/ ) |  Jan 25, 2024 |
-| [10 Hilarious Far Side Comics Where Astronauts Make a Disturbing Discovery](https://screenrant.com/funniest-far-side-comics-astronauts-space-aliens/ ) |  Jan 21, 2024 |
-| [10 Funniest Far Side Comics With Talking Animals](https://screenrant.com/10-funniest-far-side-comics-with-talking-animals/ ) |  Jan 14, 2024 |
-| [10 Hilarious Far Side Comics That Make Fun of Artists](https://screenrant.com/hilarious-far-side-comics-making-fun-of-artists/ ) |  Jan 12, 2024 |
-| [10 Far Side Comics With Intentionally Corny Punchlines](https://screenrant.com/10-far-side-comics-with-intentionally-corny-punchlines/ ) |  Jan 8, 2024 |
-| [12 Funniest Far Side Comics That Prove It's Obsessed with Clowns](https://screenrant.com/funniest-far-side-comics-clowns-best-far-side/ ) |  Jan 7, 2024 |
-| [15 Funniest Far Side Comics That Perfectly Capture Gary Larson's Sense of Humor](https://screenrant.com/funniest-far-side-comics-best-gary-larson/ ) |  Jan 1, 2024 |
-| [10 Best Far Side Comics Where Dogs Act Like Humans](https://screenrant.com/best-far-side-comics-dogs-act-like-humans/ ) |  Dec 28, 2023 |
-| [The Far Side: 10 Funniest Comics Set in the Old West](https://screenrant.com/far-side-10-funniest-comics-old-west/ ) |  Dec 22, 2023 |
-| [Move Over THE FAR SIDE - Roger Ebert's Comics Rival Gary Larson's Best](https://screenrant.com/roger-ebert-funniest-comics-new-yorker-far-side/ ) |  Dec 20, 2023 |
-| [New Far Side Comic Finally Breaks One of the Franchise's Oldest Rules](https://screenrant.com/new-far-side-comic-christmas-gary-larson-funniest/ ) |  Dec 18, 2023 |
-| [10 Funniest Far Side Dinosaur Comics Starring Tyrannosaurus Rex](https://screenrant.com/funniest-far-side-comics-dinosaurs-trex-tyrannosaurus-rex/ ) |  Dec 14, 2023 |
-| [15 Funniest Far Side Comics That Are Also Incredibly Gross](https://screenrant.com/15-funniest-incredibly-gross-far-side-comics/ ) |  Dec 5, 2023 |
-| [10 Funniest Far Side Comics with Deliberately Terrible Art](https://screenrant.com/funniest-far-side-comics-gary-larson-bad-art/ ) |  Dec 1, 2023 |
-| [10 Funniest Far Side Comics That Make Fun of Real People](https://screenrant.com/funniest-far-side-comics-real-people-celebrities/ ) |  Nov 22, 2023 |
-| [10 Funniest Far Side Comics Set in Hell](https://screenrant.com/10-funniest-far-side-comics-set-in-hell/ ) |  Nov 18, 2023 |
-| [10 Funniest Far Side Comics That Haven't Been Overshared... Yet](https://screenrant.com/funniest-far-side-comics-that-havent-been-overshared/ ) |  Nov 17, 2023 |
-| [10 Funniest Far Side Comics That Break the Fourth Wall](https://screenrant.com/funniest-far-side-comics-meta-humor-fourth-wall/ ) |  Nov 10, 2023 |
-| [10 Funniest Far Side Comics That Prove It's Obsessed with Chickens](https://screenrant.com/funniest-far-side-comics-chicken-birds-dark/ ) |  Nov 2, 2023 |
-| [10 Funniest Far Side Comics Where Only 1 Character Speaks](https://screenrant.com/funniest-far-side-comics-one-liner-jokes/ ) |  Oct 28, 2023 |
-| [13 Funniest Far Side Comics That Prove It's Obsessed with Ducks](https://screenrant.com/funniest-far-side-comics-ducks-birds-dark/ ) |  Oct 22, 2023 |
-| [10 Funniest Far Side Comics Starring Elephants](https://screenrant.com/10-funniest-far-side-comics-starring-elephants/ ) |  Oct 19, 2023 |
-| [11 Funniest Far Side Comics with a Named Character](https://screenrant.com/11-funniest-far-side-named-characters-gary-larson/ ) |  Oct 15, 2023 |
-| [10 Funniest Far Side Comics That Reference Iconic Movies](https://screenrant.com/funniest-far-side-comics-pop-culture-movies-godzilla/ ) |  Oct 13, 2023 |
-| [This Brilliant Peanuts Reference Proves Far Side Is the Smartest Comic Strip Ever](https://screenrant.com/far-side-brilliant-peanuts-reference-second-lucy/ ) |  Oct 8, 2023 |
-| [1 Far Side Comic Is Hiding a Surprisingly Dark Joke About Charlie Brown](https://screenrant.com/1-far-side-comic-is-hiding-a-surprisingly-dark-joke-about-charlie-brown/ ) |  Oct 4, 2023 |
-| [10 Funniest Far Side Comics That Reference Classic Cartoons](https://screenrant.com/far-side-10-funniest-classic-cartoon-references/ ) |  Oct 1, 2023 |
-| ["It Was Cruel, Stupid and Ridiculous": 10 Most Controversial Far Side Comics Ever](https://screenrant.com/most-controversial-far-side-funniest-gary-larson-comics/ ) |  Sep 27, 2023 |
-| [15 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/ ) |  Sep 25, 2023 |
-| [Far Side's Baby-Eating Snake Is Based on a Dark Real-Life Experience](https://screenrant.com/far-side-baby-eating-snake-real-life-experience/ ) |  Sep 23, 2023 |
-| [10 Funniest Far Side Comics That Only Use 2 Words](https://screenrant.com/far-side-two-words-funniest-comics-gary-larson/ ) |  Sep 14, 2023 |
-| [10 Funniest Far Side Comics Where Everybody Dies](https://screenrant.com/funniest-far-side-comics-about-death-apocalypse/ ) | Sep 10, 2023   |
-| [10 Funniest Far Side Comics That Don't Use Any Words](https://screenrant.com/larson-far-side-funniest-comics-no-words/ ) |  Sep 6, 2023 |
-| [10 Darkest Far Side Comics That Don't Use Any Words](https://screenrant.com/gary-larson-far-side-dark-minimalist-no-words/ ) |  Sep 4, 2023 |
-| [Far Side's Creator Has a Smart Theory About Its Hilarious Caption Swap with Dennis the Menace](https://screenrant.com/far-sides-gary-larson-dennis-the-menace-captions/ ) |  Aug 27, 2023 |
-| [13 Darkest Far Side Comics That Reference Iconic Movies](https://screenrant.com/funniest-far-side-comics-pop-culture-movies-darkest/ ) |  Aug 23, 2023 |
-| [Far Side's Most Confusing Comic Has an Incredibly Simple Explanation](https://screenrant.com/far-side-most-confusing-mixed-captions-gary-larson/ ) |  Aug 20, 2023 |
-| [10 Funniest Far Side Comics That Make Fun of Disney](https://screenrant.com/funniest-far-side-comics-disney-parody-mickey-mouse/ ) |  Aug 16, 2023 |
-| [The Far Side's Freaky Giant Squid Is Everything That Makes Its Comics Great](https://screenrant.com/the-far-side-recurring-characters-giant-squid-gary-larson/ ) |  Aug 16, 2023 |
-| [10 Darkest Far Side Comics About Dinosaurs](https://screenrant.com/far-side-darkest-dinosaur-comics-10-best-list/ ) |  Jul 6, 2023 |
-| [Gary Larson's Very First Far Side Comic Introduces Its Best Idea](https://screenrant.com/gary-larson-far-side-comic-caveman-idea/ ) |  Jul 1, 2023 |
-| [The Far Side's Final Comic Revealed the Truth Behind Its Stock Characters](https://screenrant.com/far-side-final-comic-stock-characters-dream-larson/ ) |  Jun 23, 2023 |
-| ["This Is My Brother's Fault": Far Side's Creator Revealed Key Ingredient to Comic's Humor](https://screenrant.com/far-side-gary-larson-brother-inspiration/ ) |  Jun 18, 2023 |
-| [10 Most Confusing Far Side Comics By Gary Larson](https://screenrant.com/10-most-confusing-far-side-comics-gary-larson/ ) |  Jun 15, 2023 |
-| ["National Geographic on Prozac": Robin Williams Perfectly Explained The Far Side's Genius](https://screenrant.com/robin-williams-far-side-genius/ ) |  Jun 11, 2023 |
-| [10 Most Surreal Far Side Comics About Dinosaurs](https://screenrant.com/10-surreal-far-side-comics-dinosaurs-gary-larson/ ) |  Jun 8, 2023 |
-| [10 Weirdest Punchlines in Far Side Comics History](https://screenrant.com/weidest-punchlines-far-side-comics-gary-larson/ ) |  Jun 4, 2023 |
-| [10 Best Far Side Comics About Dinosaurs](https://screenrant.com/10-best-far-side-comics-about-dinosaurs/ ) |  May 28, 2023 |
-| [Stephen King's Favorite Far Side Comic Shows How It Mastered Horror-Comedy](https://screenrant.com/best-far-side-comic-dark-stephen-king/ ) |  May 26, 2023 |
-| [Far Side's Creator Has a Dark Theory About His Most Controversial Comic](https://screenrant.com/far-side-most-controversial-comic-why-tethercat/ ) |  May 21, 2023 |
-| ["You Have Offended Millions": 1 Controversial Far Side Cartoon Was Originally WAY Darker](https://screenrant.com/far-side-controversial-gary-larson-darkest-comic/ ) |  May 14, 2023 |
-| [11 Best Far Side Comics About Aliens (Of All Time)](https://screenrant.com/10-best-far-side-comics-aliens-gary-larson/ ) |  May 8, 2023 |
-| ["I Nearly Suffocated": 1 Cute Far Side Comic Is Based on a Childhood Nightmare](https://screenrant.com/far-side-inspiration-monster-snorkel-dark/ ) |  May 3, 2023 |
-| [Far Side Got a Rejected Comic Published by Making It Even Darker](https://screenrant.com/far-side-most-controversial-comic-gary-larson/ ) |  Apr 28, 2023 |
-| [Far Side's Creator Explains Why He Still Loves One Controversial Comic](https://screenrant.com/far-side-most-controversial-gary-larson-favorite/ ) |  Feb 23, 2023 |
-| [Far Side's Creator Reveals the One Animal He Was Never Allowed to Use](https://screenrant.com/far-side-facts-trivia-censored-banned-gary-larson/ ) |  Feb 17, 2023 |
-| [The Far Side: 10 Facts You Never Knew About Gary Larson's Comic Strip](https://screenrant.com/far-side-gary-larson-comic-strip-facts/ ) |  Jan 31, 2023 |
+| [10 Outrageous Far Side Comics Featuring Anthropomorphized Animals](https://screenrant.com/the-far-side-funniest-comics-anthropomorphized-animals/ ) | Feb 5, 2024 |
+| [5 Best Far Side Comics Making Fun of Superman (Ranked from Goofy to Hilarious) ](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superhero/ ) | Feb 3, 2024 |
+| [10 Far Side Comics That Are As Hilarious As They Are Disturbing](https://screenrant.com/far-side-comics-unsettling-hilarious/ ) | Jan 29, 2024 |
+| [10 Far Side Comics That Make the End of the World Funny](https://screenrant.com/far-side-funniest-comics-end-world-apocalypse/ ) | Jan 25, 2024 |
+| [10 Hilarious Far Side Comics Where Astronauts Make a Disturbing Discovery](https://screenrant.com/funniest-far-side-comics-astronauts-space-aliens/ ) | Jan 21, 2024 |
+| [10 Funniest Far Side Comics With Talking Animals](https://screenrant.com/10-funniest-far-side-comics-with-talking-animals/ ) | Jan 14, 2024 |
+| [10 Hilarious Far Side Comics That Make Fun of Artists](https://screenrant.com/hilarious-far-side-comics-making-fun-of-artists/ ) | Jan 12, 2024 |
+| [10 Far Side Comics With Intentionally Corny Punchlines](https://screenrant.com/10-far-side-comics-with-intentionally-corny-punchlines/ ) | Jan 8, 2024 |
+| [12 Funniest Far Side Comics That Prove It's Obsessed with Clowns](https://screenrant.com/funniest-far-side-comics-clowns-best-far-side/ ) | Jan 7, 2024 |
+| [10 Best Far Side Comics Where Dogs Act Like Humans](https://screenrant.com/best-far-side-comics-dogs-act-like-humans/ ) | Dec 28, 2023 |
+| [The Far Side: 10 Funniest Comics Set in the Old West](https://screenrant.com/far-side-10-funniest-comics-old-west/ ) | Dec 22, 2023 |
+| [Move Over THE FAR SIDE - Roger Ebert's Comics Rival Gary Larson's Best](https://screenrant.com/roger-ebert-funniest-comics-new-yorker-far-side/ ) | Dec 20, 2023 |
+| [New Far Side Comic Finally Breaks One of the Franchise's Oldest Rules](https://screenrant.com/new-far-side-comic-christmas-gary-larson-funniest/ ) | Dec 18, 2023 |
+| [10 Funniest Far Side Dinosaur Comics Starring Tyrannosaurus Rex](https://screenrant.com/funniest-far-side-comics-dinosaurs-trex-tyrannosaurus-rex/ ) | Dec 14, 2023 |
+| [15 Funniest Far Side Comics That Are Also Incredibly Gross](https://screenrant.com/15-funniest-incredibly-gross-far-side-comics/ ) | Dec 5, 2023 |
+| [10 Funniest Far Side Comics with Deliberately Terrible Art](https://screenrant.com/funniest-far-side-comics-gary-larson-bad-art/ ) | Dec 1, 2023 |
+| [10 Funniest Far Side Comics Set in Hell](https://screenrant.com/10-funniest-far-side-comics-set-in-hell/ ) | Nov 18, 2023 |
+| [10 Funniest Far Side Comics That Haven't Been Overshared... Yet](https://screenrant.com/funniest-far-side-comics-that-havent-been-overshared/ ) | Nov 17, 2023 |
+| [10 Funniest Far Side Comics That Prove It's Obsessed with Chickens](https://screenrant.com/funniest-far-side-comics-chicken-birds-dark/ ) | Nov 2, 2023 |
+| [10 Funniest Far Side Comics Where Only 1 Character Speaks](https://screenrant.com/funniest-far-side-comics-one-liner-jokes/ ) | Oct 28, 2023 |
+| [13 Funniest Far Side Comics That Prove It's Obsessed with Ducks](https://screenrant.com/funniest-far-side-comics-ducks-birds-dark/ ) | Oct 22, 2023 |
+| [10 Funniest Far Side Comics Starring Elephants](https://screenrant.com/10-funniest-far-side-comics-starring-elephants/ ) | Oct 19, 2023 |
+| [11 Funniest Far Side Comics with a Named Character](https://screenrant.com/11-funniest-far-side-named-characters-gary-larson/ ) | Oct 15, 2023 |
+| [10 Funniest Far Side Comics That Reference Iconic Movies](https://screenrant.com/funniest-far-side-comics-pop-culture-movies-godzilla/ ) | Oct 13, 2023 |
+| [This Brilliant Peanuts Reference Proves Far Side Is the Smartest Comic Strip Ever](https://screenrant.com/far-side-brilliant-peanuts-reference-second-lucy/ ) | Oct 8, 2023 |
+| [1 Far Side Comic Is Hiding a Surprisingly Dark Joke About Charlie Brown](https://screenrant.com/1-far-side-comic-is-hiding-a-surprisingly-dark-joke-about-charlie-brown/ ) | Oct 4, 2023 |
+| [10 Funniest Far Side Comics That Reference Classic Cartoons](https://screenrant.com/far-side-10-funniest-classic-cartoon-references/ ) | Oct 1, 2023 |
+| ["It Was Cruel, Stupid and Ridiculous": 10 Most Controversial Far Side Comics Ever](https://screenrant.com/most-controversial-far-side-funniest-gary-larson-comics/ ) | Sep 27, 2023 |
+| [Far Side's Baby-Eating Snake Is Based on a Dark Real-Life Experience](https://screenrant.com/far-side-baby-eating-snake-real-life-experience/ ) | Sep 23, 2023 |
+| [10 Funniest Far Side Comics That Only Use 2 Words](https://screenrant.com/far-side-two-words-funniest-comics-gary-larson/ ) | Sep 14, 2023 |
+| [10 Funniest Far Side Comics Where Everybody Dies](https://screenrant.com/funniest-far-side-comics-about-death-apocalypse/ ) | Sep 10, 2023 |
+| [10 Funniest Far Side Comics That Don't Use Any Words](https://screenrant.com/larson-far-side-funniest-comics-no-words/ ) | Sep 6, 2023 |
+| [Far Side's Creator Has a Smart Theory About Its Hilarious Caption Swap with Dennis the Menace](https://screenrant.com/far-sides-gary-larson-dennis-the-menace-captions/ ) | Aug 27, 2023 |
+| [13 Darkest Far Side Comics That Reference Iconic Movies](https://screenrant.com/funniest-far-side-comics-pop-culture-movies-darkest/ ) | Aug 23, 2023 |
+| [Far Side's Most Confusing Comic Has an Incredibly Simple Explanation](https://screenrant.com/far-side-most-confusing-mixed-captions-gary-larson/ ) | Aug 20, 2023 |
+| [10 Funniest Far Side Comics That Make Fun of Disney](https://screenrant.com/funniest-far-side-comics-disney-parody-mickey-mouse/ ) | Aug 16, 2023 |
+| [The Far Side's Freaky Giant Squid Is Everything That Makes Its Comics Great](https://screenrant.com/the-far-side-recurring-characters-giant-squid-gary-larson/ ) | Aug 13, 2023 |
+| [10 Darkest Far Side Comics About Dinosaurs](https://screenrant.com/far-side-darkest-dinosaur-comics-10-best-list/ ) | Jul 6, 2023 |
+| [Gary Larson's Very First Far Side Comic Introduces Its Best Idea](https://screenrant.com/gary-larson-far-side-comic-caveman-idea/ ) | Jul 1, 2023 |
+| [The Far Side's Final Comic Revealed the Truth Behind Its Stock Characters](https://screenrant.com/far-side-final-comic-stock-characters-dream-larson/ ) | Jun 23, 2023 |
+| ["This Is My Brother's Fault": Far Side's Creator Revealed Key Ingredient to Comic's Humor](https://screenrant.com/far-side-gary-larson-brother-inspiration/ ) | Jun 18, 2023 |
+| [10 Most Confusing Far Side Comics By Gary Larson](https://screenrant.com/10-most-confusing-far-side-comics-gary-larson/ ) | Jun 15, 2023 |
+| ["National Geographic on Prozac": Robin Williams Perfectly Explained The Far Side's Genius](https://screenrant.com/robin-williams-far-side-genius/ ) | Jun 11, 2023 |
+| [10 Most Surreal Far Side Comics About Dinosaurs](https://screenrant.com/10-surreal-far-side-comics-dinosaurs-gary-larson/ ) | Jun 8, 2023 |
+| [10 Weirdest Punchlines in Far Side Comics History](https://screenrant.com/weidest-punchlines-far-side-comics-gary-larson/ ) | Jun 4, 2023 |
+| [10 Best Far Side Comics About Dinosaurs](https://screenrant.com/10-best-far-side-comics-about-dinosaurs/ ) | May 28, 2023 |
+| [Stephen King's Favorite Far Side Comic Shows How It Mastered Horror-Comedy](https://screenrant.com/best-far-side-comic-dark-stephen-king/ ) | May 26, 2023 |
+| [Far Side's Creator Has a Dark Theory About His Most Controversial Comic](https://screenrant.com/far-side-most-controversial-comic-why-tethercat/ ) | May 21, 2023 |
+| [11 Best Far Side Comics About Aliens (Of All Time)](https://screenrant.com/10-best-far-side-comics-aliens-gary-larson/ ) | May 8, 2023 |
+| ["I Nearly Suffocated": 1 Cute Far Side Comic Is Based on a Childhood Nightmare](https://screenrant.com/far-side-inspiration-monster-snorkel-dark/ ) | May 3, 2023 |
+| [Far Side Got a Rejected Comic Published by Making It Even Darker](https://screenrant.com/far-side-most-controversial-comic-gary-larson/ ) | Apr 28, 2023 |
+| [Far Side's Creator Explains Why He Still Loves One Controversial Comic](https://screenrant.com/far-side-most-controversial-gary-larson-favorite/ ) | Feb 23, 2023 |
+| [Far Side's Creator Reveals the One Animal He Was Never Allowed to Use](https://screenrant.com/far-side-facts-trivia-censored-banned-gary-larson/ ) | Feb 17, 2023 |
+| [The Far Side: 10 Facts You Never Knew About Gary Larson's Comic Strip](https://screenrant.com/far-side-gary-larson-comic-strip-facts/ ) | Jan 31, 2023 |
 | [Why One Far Side Comic Outraged Amnesty International](https://screenrant.com/far-side-best-comics-gary-larson-controversy-dungeon/ ) | Jan 15, 2023 |
-| [10 Best Single-Panel Comics Like The Far Side](https://screenrant.com/best-single-panel-comics-like-the-far-side/ ) |  Jan 9, 2023 |
-| [Gary Larson Highlights The Biggest Far Side Mistakes Fans Caught](https://screenrant.com/far-side-gary-larson-mistakes-errors-comic-fans/ ) |  Jan 2, 2023 |
-| [Far Side's Gary Larson Came Out Of Retirement For One Offer He Couldn't Refuse](https://screenrant.com/far-side-comics-gary-larson-retirement-offer-reason/ ) |  Dec 28, 2022 |
-| [Gary Larson's Misunderstood Far Side Comic Was Deemed Offensive and Sick](https://screenrant.com/gary-larson-far-side-misunderstood-dog-comic-controversy/ ) |  Dec 21, 2022 |
-| [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) |  Dec 18, 2022 |
-| [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) |  Dec 16, 2022 |
-
-| [Gary Larson: Far Side / CBR](https://www.cbr.com) | Published Date |
-|---|--- |
-| [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/ ) | Feb 14, 2024  |
+| [10 Best Single-Panel Comics Like The Far Side](https://screenrant.com/best-single-panel-comics-like-the-far-side/ ) | Jan 9, 2023 |
+| [Gary Larson Highlights The Biggest Far Side Mistakes Fans Caught](https://screenrant.com/far-side-gary-larson-mistakes-errors-comic-fans/ ) | Jan 2, 2023 |
+| [Far Side's Gary Larson Came Out Of Retirement For One Offer He Couldn't Refuse](https://screenrant.com/far-side-comics-gary-larson-retirement-offer-reason/ ) | Dec 28, 2022 |
+| [Gary Larson's Misunderstood Far Side Comic Was Deemed Offensive and Sick](https://screenrant.com/gary-larson-far-side-misunderstood-dog-comic-controversy/ ) | Dec 21, 2022 |
+| [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
+| [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 | |
