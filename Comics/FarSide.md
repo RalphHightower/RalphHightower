@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| ["I Remember Thinking the World Was Going to End": Gary Larson's Far Side Was Shaped by the Dark Reality of Growing Up in the 60s](https://screenrant.com/far-side-comics-gary-larson-cold-war-influences/ ) | Apr 18, 2024 |
+| [10 Funniest Far Side Comics That Reference Classic Horror Movies](https://screenrant.com/funniest-far-side-comics-horror-movies-frankenstein-monsters/ ) | Apr 16, 2024 |
 | ["I Worked At Night": Gary Larson Had the Perfect Explanation For Far Side's Dark Worldview](https://screenrant.com/gary-larson-far-side-writing-habits-dark-worldview/ ) | Apr 14, 2024 |
 | [The Far Side's Humor Was Designed to Test Readers' Reflexes (But Not the Ones You Think)](https://screenrant.com/gary-larson-far-side-comics-what-the-reflex/ ) | Apr 13, 2024 |
 | [The Far Side Creator Gary Larson Refused To Make 1 Type of Merch (That We'd Honestly Love to Own)](https://screenrant.com/far-side-merchandise-gary-larson/ ) | Apr 11, 2023 |
