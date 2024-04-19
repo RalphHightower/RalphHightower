@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The Far Side: 10 of the Most Misunderstood Strips](https://screenrant.com/the-far-side-most-misunderstood-comic-strips-gary-larson/ ) | Apr 19, 2024 |
 | ["I Remember Thinking the World Was Going to End": Gary Larson's Far Side Was Shaped by the Dark Reality of Growing Up in the 60s](https://screenrant.com/far-side-comics-gary-larson-cold-war-influences/ ) | Apr 18, 2024 |
 | [10 Funniest Far Side Comics That Reference Classic Horror Movies](https://screenrant.com/funniest-far-side-comics-horror-movies-frankenstein-monsters/ ) | Apr 16, 2024 |
 | ["I Worked At Night": Gary Larson Had the Perfect Explanation For Far Side's Dark Worldview](https://screenrant.com/gary-larson-far-side-writing-habits-dark-worldview/ ) | Apr 14, 2024 |
@@ -114,3 +115,12 @@
 | [Gary Larson's Misunderstood Far Side Comic Was Deemed Offensive and Sick](https://screenrant.com/gary-larson-far-side-misunderstood-dog-comic-controversy/ ) | Dec 21, 2022 |
 | [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
 | [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 |
+
+| [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
+|---|---|
+| [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
+| [10 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/ ) | APR 5, 2024 |
+| [Gary Larson's 10 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/ ) | MAR 26, 2024 |
+| [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/ ) | FEB 14, 2024 |
+
+[^21]: CBR does not have any FarSide tags; one just has to scroll through the comics listing. 
