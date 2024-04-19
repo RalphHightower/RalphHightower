@@ -145,9 +145,12 @@
 | [Sun, Moon, and You: Dallas Cotton Bowl Solar Eclipse](https://solarsystem.nasa.gov/events/318/sun-moon-and-you-dallas-cotton-bowl-solar-eclipse/?category=eclipses_general&amp;layout=hds_embed ) |
 |[2024 Indy Motor Speedway Solar Eclipse](https://solarsystem.nasa.gov/events/248/2024-indy-motor-speedway-solar-eclipse/?category=eclipses_general&amp;layout=hds_embed ) |
 |[Kerrville Eclipse Festival](https://solarsystem.nasa.gov/events/249/kerrville-eclipse-festival/?category=eclipses_general&amp;layout=hds_embed ) |
+
 </details>
 
-| Events |
+<details markdown='1'><summary>Various Events 2024-04-08 Expand / Collapse</summary>
+
+ | Events |
 |---|
 | **[2024 Eclipse Festival / Atlas Obscura & Valley of the Vapors / Ecliptic April 5–8 2024 in Hot Springs, AR](https://ecliptic.atlasobscura.com/ )** |
 | [Rock & Roll Hall of Fame SolarFest / Rock & Roll Hall of Fame April 5–8, 2024](https://www.rockhall.com/solarfest ) |
@@ -157,7 +160,9 @@
 | [2024 Total Solar Eclipse: 25 Events, Festivals, and Places to Stay - Sky & Telescope - Sky & Telescope](https://skyandtelescope.org/2024-total-solar-eclipse/2024-total-solar-eclipse-25-events-festivals-and-places-to-stay/ ) |
 | [Eclipse Events — NASA](https://science.nasa.gov/eclipses/events/ ) |
 
-### Solar Eclipse Articles 
+</details>
+
+## Solar Eclipse Articles 
 
 | Solar Eclipse Articles | Date |
 |---|---|
