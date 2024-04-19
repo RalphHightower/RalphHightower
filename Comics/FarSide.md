@@ -113,4 +113,4 @@
 | [Far Side's Gary Larson Came Out Of Retirement For One Offer He Couldn't Refuse](https://screenrant.com/far-side-comics-gary-larson-retirement-offer-reason/ ) | Dec 28, 2022 |
 | [Gary Larson's Misunderstood Far Side Comic Was Deemed Offensive and Sick](https://screenrant.com/gary-larson-far-side-misunderstood-dog-comic-controversy/ ) | Dec 21, 2022 |
 | [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
-| [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 | |
+| [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 |
