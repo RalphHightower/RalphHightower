@@ -6,6 +6,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) | APR 4, 2024 |
 | [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
 | [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
