@@ -166,6 +166,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | FD Mount Lenses | Canon FD 28mm f2.8 |
 || Canon Auto Bellows |
 || Canon Macro Photo Lens 20mm f/3.5 |
+|| Canon Macro Photo Lens 35mm f2.0 |
 || Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
