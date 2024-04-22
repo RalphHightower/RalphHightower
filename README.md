@@ -166,6 +166,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | FD Mount Lenses | Canon FD 28mm f2.8 |
 || Canon Auto Bellows |
 || Canon Macro Photo Lens 20mm f/3.5 |
+|| Canon Macro Photo Lens 35mm f2.0 |
 || Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
@@ -418,6 +419,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
 | [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
 | [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
+| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage ) |
 | [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
