@@ -16,6 +16,12 @@
 
 ## News / Articles 
 
+| Dune References / CBR |
+|---|
+| [Dune (2021) / CBR](https://www.cbr.com/tag/dune/ ) |
+| [Dune: Part Two (2024) / CBR](https://www.cbr.com/tag/dune-2/ ) |
+| [Dune: Part Three / ScreenRant](https://screenrant.com/tag/dune-3/ ) |
+
 | News / Articles | Date |
 |---|---|
 | [Dune 2 should be in theaters now, but at least we have a new tease from its villain / GamesRadar+](https://www.gamesradar.com/dune-2-austin-butler-pressure-feyd-rautha-villain/ ) |
