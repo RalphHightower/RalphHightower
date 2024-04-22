@@ -418,6 +418,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
 | [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
 | [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
+| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage ) |
 | [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
