@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The #1 Funniest Far Side Comic That Makes Fun of a Celebrity (As Voted by Screen Rant Readers)](https://screenrant.com/funniest-far-side-comics-gary-larson-celebrities/ ) | Apr 23, 2024 |
+| [Gary Larson's Self-Described "Greatest Strength" Defines The Far Side (But Hurt His Public Profile)](https://screenrant.com/gary-larson-far-side-comics-greatest-strength/ ) | Apr 21, 2024 |
 | [10 Far Side Comics Starring The Strip's Secret Recurring Character](https://screenrant.com/far-side-comics-gary-larson-recurring-character-al/ ) | Apr 20, 2024 |
 | [The Far Side: 10 of the Most Misunderstood Strips](https://screenrant.com/the-far-side-most-misunderstood-comic-strips-gary-larson/ ) | Apr 19, 2024 |
 | ["I Remember Thinking the World Was Going to End": Gary Larson's Far Side Was Shaped by the Dark Reality of Growing Up in the 60s](https://screenrant.com/far-side-comics-gary-larson-cold-war-influences/ ) | Apr 18, 2024 |

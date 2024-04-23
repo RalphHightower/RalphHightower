@@ -6,6 +6,8 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Hobbes' 15 Greatest Moments In Calvin & Hobbes](https://www.cbr.com/hobbes-greatest-moments-calvin-and-hobbes/ ) | Apr 21, 2024 |
+| [10 Ways Calvin and Hobbes Has Aged Poorly](https://www.cbr.com/calvin-and-hobbes-aged-poorly/ ) | APR 3, 2024 |
 | [10 Most Wholesome Calvin And Hobbes Comic Strips](https://www.cbr.com/best-calvin-and-hobbes-wholesome-comic-strips/ ) | APR 9, 2024 |
 | [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) | APR 4, 2024 |
 | [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
