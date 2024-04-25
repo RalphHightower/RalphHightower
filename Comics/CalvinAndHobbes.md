@@ -6,6 +6,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [9 Weirdest Details From Early Calvin And Hobbes Comics](https://www.cbr.com/calvin-and-hobbes-weirdest-details-early-comic-strips/ ) | Apr 23, 2024 |
 | [Hobbes' 15 Greatest Moments In Calvin & Hobbes](https://www.cbr.com/hobbes-greatest-moments-calvin-and-hobbes/ ) | Apr 21, 2024 |
 | [10 Ways Calvin and Hobbes Has Aged Poorly](https://www.cbr.com/calvin-and-hobbes-aged-poorly/ ) | APR 3, 2024 |
 | [10 Most Wholesome Calvin And Hobbes Comic Strips](https://www.cbr.com/best-calvin-and-hobbes-wholesome-comic-strips/ ) | APR 9, 2024 |
