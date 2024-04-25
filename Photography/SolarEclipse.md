@@ -8,7 +8,7 @@
 
 ### Android — Solar Eclipse Timer 
 
-| Solar Eclipse Timer for Android / Foxwood Astronomy | 
+| [Solar Eclipse Timer for Android / Foxwood Astronomy](https://www.solareclipsetimer.com/index.html) | 
 |----| 
 | [Foxwood Astronomy — YouTube ](https://youtube.com/@foxwoodastronomy8255? ) | 
 | [Android App — Solar Eclipse Timer](https://play.google.com/store/apps/details?id=com.foxwoodastronomy.solareclipsetimer ) | 
