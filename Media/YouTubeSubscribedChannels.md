@@ -26,6 +26,7 @@
 | [ServeTheHome](https://youtube.com/@ServeTheHomeVideo? ) | Computers |
 | [Veronica Explains](https://youtube.com/@VeronicaExplains? ) | Computers |
 | [Arduino](https://youtube.com/@Arduino ) | Computers – Single Board |
+| [Computer History Museum](https://youtube.com/@ComputerHistory? )</br>We create and provide Educational and Historical video presentations on COMPUTER HISTORY and vintage technology, including restored footage with commentary, for educational purposes, user comment and discussion. Our channel is an independent educational research activity and our goal is to help make computer history data accessible to everyone. | Computer History |
 | [GitHub](https://youtube.com/@GitHub ) | Developer Platform |
 | [mrandrewcotter](https://youtube.com/@mrandrewcotter ) | Dogs |
 | [Off Leash K9 Columbia, SC LLC](https://youtube.com/@offleashk9columbiascllc626 ) | Dogs |

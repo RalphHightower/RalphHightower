@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [15 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/ ) | Apr 25, 2024 |
 | [The #1 Funniest Far Side Comic That Makes Fun of a Celebrity (As Voted by Screen Rant Readers)](https://screenrant.com/funniest-far-side-comics-gary-larson-celebrities/ ) | Apr 23, 2024 |
 | [Gary Larson's Self-Described "Greatest Strength" Defines The Far Side (But Hurt His Public Profile)](https://screenrant.com/gary-larson-far-side-comics-greatest-strength/ ) | Apr 21, 2024 |
 | [10 Far Side Comics Starring The Strip's Secret Recurring Character](https://screenrant.com/far-side-comics-gary-larson-recurring-character-al/ ) | Apr 20, 2024 |
