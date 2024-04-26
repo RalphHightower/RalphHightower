@@ -141,24 +141,22 @@
 
 | Year | Make | Model | Article | Owner | Date |
 |---|---|---|---|---|---|
-| 1970 | GMC | C2500 | [Restoring a 1970 GMC C2500 Custom Camper / Hemmings](https://www.hemmings.com/stories/restoring-a-1970-gmc-c2500-custom-camper/ ) | Dave Plummer | 02/04/2024 |
-| 1955–59 | Chevrolet | 3100 | [1955-'59 Chevrolet "Task Force" Light Trucks / Hemmings](https://www.hemmings.com/stories/1955-59-chevrolet-task-force-light-trucks/ ) | | 12/02/2023 |
-| 2023 | Chevrolet | Corvette | [The 2023 Chevrolet Corvette Z06 Reinvents The American Sports Car / Hemmings](https://www.hemmings.com/stories/2023-chevrolet-corvette-z06/ )| | 09/28/2023 |
-| 1956 | Chevrolet | 3200 | [No Restomod Here – This 1956 Chevrolet 3200 has been Restored to Factory Stock / Hemmings](https://www.hemmings.com/stories/restored-1956-chevrolet-3200/ ) | | 09/22/2023 |
-| 1965 | Chevrolet | El Camino | [GM Reshares Classic 1965 Chevelle El Camino Surfer I Convertible and Hot Rod Boat Concepts / Hemmings](https://www.hemmings.com/stories/1965-chevelle-el-camino-surfer-i-convertible/ ) | | 08/29/2023 |
-| 2023 | Chevrolet | Corvette | [Find of the Day: A 2023 Chevrolet Corvette Z06 With Warranty Intact / Hemmings](https://www.hemmings.com/stories/find-of-the-day-2023-corvette-z06/ ) | | 07/01/2023 |
+| 1955–58 | Chevrolet | Cameo | [1955-’58 Chevrolet Cameo Carrier / Hemmings](https://www.hemmings.com/stories/article/1955-58-chevrolet-cameo-carrier-4 ) || 09/23/2018 |
+| 1955–59 | Chevrolet | 3100 | [1955-'59 Chevrolet "Task Force" Light Trucks / Hemmings](https://www.hemmings.com/stories/1955-59-chevrolet-task-force-light-trucks/ ) || 12/02/2023 |
+| 1955-'59 | Chevrolet | Cameo | [Always Up to the Task / Hemmings](https://www.hemmings.com/stories/article/always-up-to-the-task ) || 09/23/2018 |
+| 1956 | Chevrolet | 3100 | [Auction Highlight: Award-Winning, Thoroughly Restored 1956 Chevrolet 3100 / Hemmings](https://www.hemmings.com/stories/2020/04/24/auction-highlight-award-winning-thoroughly-restored-1956-chevrolet-3100 ) | |04/24/2020 |
+| 1956 | Chevrolet | 3200 | [No Restomod Here – This 1956 Chevrolet 3200 has been Restored to Factory Stock / Hemmings](https://www.hemmings.com/stories/restored-1956-chevrolet-3200/ ) || 09/22/2023 |
 | 1958 | Chevrolet | Apache | [Finding The Sweet Spot / Hemmings](https://www.hemmings.com/stories/sweet-spot-apache-stepside/ ) | James Casey | 06/01/2023 |
-| 1972 | Chevrolet | El Camino | [Big-block 1972 Chevrolet El Camino needed little until an unavoidable wildlife encounter / Hemmings](https://www.hemmings.com/stories/restoration-1972-chevrolet-el-camino/ ) | Roger Peterson | 11/29/2022
-| 1956 | Chevrolet | 3100 | [Auction Highlight: Award-Winning, Thoroughly Restored 1956 Chevrolet 3100 / Hemmings](https://www.hemmings.com/stories/2020/04/24/auction-highlight-award-winning-thoroughly-restored-1956-chevrolet-3100 ) | | 04/24/2020 |
-| 1970 | Chevrolet | El Camino | [Buyer's Guide: 1970 Chevrolet El Camino SS / Hemmings](https://www.hemmings.com/stories/article/1970-chevrolet-el-camino-ss ) | | 06/11/2019 |
-| 1969 | Pontiac | 2+2 Tribute | [Mix and Match - 1969 Pontiac 2+2 Tribute / Hemmings](https://www.hemmings.com/stories/article/mix-and-match-1969-pontiac-22-tribute ) | Dave Plummer | 09/24/2018 |
-| 1955–58 | Chevrolet | Cameo | [1955-’58 Chevrolet Cameo Carrier / Hemmings](https://www.hemmings.com/stories/article/1955-58-chevrolet-cameo-carrier-4 ) | | 09/23/2018 |
-| 1970–72 | Chevrolet | El Camino | [1970-72 Chevrolet El Camino SS454 / Hemmings](https://www.hemmings.com/stories/article/chevrolet-el-camino-ss454-1970-72 ) | | 09/23/2018 |
-| 1955-'59 | Chevrolet | Cameo | [Always Up to the Task / Hemmings](https://www.hemmings.com/stories/article/always-up-to-the-task ) | | 09/23/2018 |
-| 1987 | Chevrolet / GMC | El Camino / Caballero | [Class of '87 - Chevrolet El Camino/GMC Caballero / Hemmings](https://www.hemmings.com/stories/2012/02/03/class-of-87-chevrolet-el-caminogmc-caballero ) | | 02/03/2012 |
+| 1965 | Chevrolet | El Camino | [GM Reshares Classic 1965 Chevelle El Camino Surfer I Convertible and Hot Rod Boat Concepts / Hemmings](https://www.hemmings.com/stories/1965-chevelle-el-camino-surfer-i-convertible/ ) || 08/29/2023 |
 | 1966 | Chevrolet | El Camino | [Starry night at the drive-in / Hemmings](https://www.hemmings.com/stories/2011/07/13/starry-night-at-the-drive-in ) | Patrick and Janice Kane | 07/13/2011 |
-
-## Scale Model Cars
+| 1969 | Pontiac | 2+2 Tribute | [Mix and Match - 1969 Pontiac 2+2 Tribute / Hemmings](https://www.hemmings.com/stories/article/mix-and-match-1969-pontiac-22-tribute ) | Dave Plummer | 09/24/2018 |
+| 1970 | GMC | C2500 | [Restoring a 1970 GMC C2500 Custom Camper / Hemmings](https://www.hemmings.com/stories/restoring-a-1970-gmc-c2500-custom-camper/ ) | Dave Plummer | 02/04/2024 |
+| 1970–72 | Chevrolet | El Camino | [1970-72 Chevrolet El Camino SS454 / Hemmings](https://www.hemmings.com/stories/article/chevrolet-el-camino-ss454-1970-72 ) || 09/23/2018 |
+| 1970 | Chevrolet | El Camino | [Buyer's Guide: 1970 Chevrolet El Camino SS / Hemmings](https://www.hemmings.com/stories/article/1970-chevrolet-el-camino-ss ) || 06/11/2019 |
+| 1972 | Chevrolet | El Camino | [Big-block 1972 Chevrolet El Camino needed little until an unavoidable wildlife encounter / Hemmings](https://www.hemmings.com/stories/restoration-1972-chevrolet-el-camino/ ) | Roger Peterson | 11/29/2022 |
+| 1987 | Chevrolet / GMC | El Camino / Caballero | [Class of '87 - Chevrolet El Camino/GMC Caballero / Hemmings](https://www.hemmings.com/stories/2012/02/03/class-of-87-chevrolet-el-caminogmc-caballero ) || 02/03/2012 |
+| 2023 | Chevrolet | Corvette | [The 2023 Chevrolet Corvette Z06 Reinvents The American Sports Car / Hemmings](https://www.hemmings.com/stories/2023-chevrolet-corvette-z06/ ) || 09/28/2023 |
+| 2023 | Chevrolet | Corvette | [Find of the Day: A 2023 Chevrolet Corvette Z06 With Warranty Intact / Hemmings](https://www.hemmings.com/stories/find-of-the-day-2023-corvette-z06/ ) || 07/01/2023 |## Scale Model Cars
 
 | Scale Model Cars |
 |----|
