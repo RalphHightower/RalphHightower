@@ -37,6 +37,7 @@
 | [NASA’s Webb Identifies Tiniest Free-Floating Brown Dwarf - NASA](https://www.nasa.gov/missions/webb/nasas-webb-identifies-tiniest-free-floating-brown-dwarf/ ) |
 | **[Reentry video as Orion returns from Artemis I / NASA Image and Video Library](https://images.nasa.gov/details/art001m1203451716 )** |
 | [NASA’s Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies - NASA Science](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/ )  |
+| [NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth ) | April 22, 2024 |
 
 ## Satellite Technology
 
@@ -79,6 +80,7 @@
 | Article | Date |
 |----|---|
 | [A History Of NASA Supercomputers, Among Others / Hackaday](https://hackaday.com/2023/05/05/a-history-of-nasa-supercomputers-among-others/) |
+| [55 Years Ago: Three Months Until the Moon Landing - NASA](https://www.nasa.gov/history/55-years-ago-three-months-until-the-moon-landing/ ) |APR 18, 2024 |
 
 ### Voyager 
 
