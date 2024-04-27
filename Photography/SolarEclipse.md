@@ -167,6 +167,22 @@
 | [Total solar eclipse April 2024: 10 of the biggest cities within the path of totality / Space](https://www.space.com/total-solar-eclipse10-of-biggest-cities-in-path-of-totality-april-8-2024 ) | January 1, 2024 |
 | [The best places in Canada to see the 2024 total solar eclipse / Space](https://www.space.com/solar-eclipse-2024-best-canada-viewing-locations ) | December 13, 2023 |
 | [Solar maximum: Why April's total Solar Eclipse will bring unique views of the sun's corona / Space](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024 ) | November 28, 2023 |
+| [10 scenic spots to watch the April 2024 total solar eclipse / Space](https://www.space.com/10-best-scenic-locations-watch-total-solar-eclipse-2024-national-parks-state-parks ) | November 23, 2023 |
+| [The best places in Mexico to see the total solar eclipse on April 8, 2024 / Space](https://www.space.com/best-places-in-mexico-to-see-total-solar-eclipse-april-8-2024 ) | November 20, 2023 |
+| [April 2024 total solar eclipse viewing events: Parties, festivals and more / Space](https://www.space.com/total-solar-eclipse-april-2024-viewing-events-parties-festivals ) | November 17, 2023 |
+| [Experience April's total solar eclipse from the palm of your hand with the 'Totality' app from Big Kid Science / Space](https://www.space.com/totality-app-big-kid-science-april-total-solar-eclipse-2024 ) | November 16, 2023 |
+| [Solar eclipses seen by long-dead Cassini spacecraft shed new light on Saturn's rings / Space](https://www.space.com/saturn-rings-transparency-cassini-eclipse-data ) | November 16, 2023 |
+| [How El Niño may affect the chances of clear skies for the 2024 total solar eclipse / Space](https://www.space.com/how-el-nino-may-affect-total-solar-eclipse-2024-weather ) | November 3, 2023 |
+| [NASA's plan to point a massive telescope at America's two upcoming solar eclipses / Space](https://www.space.com/nasa-plans-to-point-massive-telescope-upcoming-solar-eclipses-citizen-science-solar-patrol ) | October 2, 2023 |
+| [Don't panic if you see balloons hovering during America's two upcoming solar eclipses. / Space](https://www.space.com/national-eclipse-ballooning-project-solar-eclipse-research-october-april ) | September 25, 2023 |
+| [NASA seeks citizen scientists to capture April 2024 total solar eclipse / Space](https://www.space.com/nasa-citizen-scientists-april-2024-total-solar-eclipse ) | September 18, 2023 |
+| [Where to stand in Texas to see 2 solar eclipses in under 6 months / Space](https://www.space.com/where-to-stand-texas-to-see-two-solar-eclipses-under-six-months ) | September 14, 2023 |
+| [What's the difference between a total solar eclipse and an annular solar eclipse? / Space](https://www.space.com/difference-between-total-solar-eclipse-and-annular-solar-eclipse ) | August 22, 2023 |
+| [Astro-tourism – chasing eclipses, meteor showers and elusive dark skies from Earth / Space](https://theconversation.com/astro-tourism-chasing-eclipses-meteor-showers-and-elusive-dark-skies-from-earth-207969 ) | July 12, 2023 |
+| [One of the longest solar eclipses on Earth darkened the sky 50 years ago / Space](https://www.space.com/solar-eclipse-1973 ) | June 30, 2023 |
+| [Watch the moon's shadow travel across North America during 2024's total solar eclipse (video) / Space](https://www.space.com/watch-moon-shadow-travel-across-north-america-2024-total-solar-eclipse-video ) | June 23, 2023 |
+| [NASA will study Great North American Solar Eclipse of 2024 with these 5 experiments / Space](https://www.space.com/nasa-experiments-great-american-solar-eclipse-2024 ) | June 23, 2023 |
+| [Here are the best places to see the Great American Solar Eclipse of 2024 / Space](https://www.space.com/great-american-total-solar-eclipse-2024-weather-forecast ) | April 8, 2023 |
 
 </details >
 
