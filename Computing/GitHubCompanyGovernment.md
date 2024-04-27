@@ -41,6 +41,7 @@
 | [Arm Software](https://github.com/ARM-software ) | Arm Software |
 | [Armbian](https://github.com/armbian ) | Linux for single board computers |
 | [Asterisk Project](https://github.com/asterisk ) | Asterisk is a free and open source framework for building communications applications. |
+| [Atheros](https://github.com/atherosai ) | On the path towards artificial general intelligence and building narrow AI products along the way |
 | [Australian Antarctic Data Centre](https://github.com/AustralianAntarcticDataCentre ) | Australian Antarctic Data Centre |
 | [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision ) | Australian Antarctic Division |
 | [AvaloniaUI](https://github.com/AvaloniaUI ) | A cross-platform UI framework for .NET providing a flexible styling system and supporting Windows, Linux, macOS, iOS, Android and Browser. |
@@ -71,9 +72,11 @@
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
+| [Defense Unicorns](https://github.com/defenseunicorns ) |We provide secure, open source and infrastructure agnostic applications and tools that enable our partners to rapidly accelerate their software acquisition and delivery processes. Our open source applications enable DevSecOps on even the most secure systems.<br /><br />We are innovators, software engineers, and veterans with decades of experience delivering technology programs across the DoD as well as the broader federal market. Our team of unicorns are zany and passionate individuals who are dedicated to mission success.<br /><br />Defense Unicorns operates with a single belief; that a value not lived is not a value at all. Our team exercises habits every day that bring our values to life. |
 | [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
+| [Elsa Workflows](https://github.com/elsa-workflows ) | A set of workflow libraries, engines & designers |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
 | [F# Software Foundation Repositories](https://github.com/fsharp ) | F# Software Foundation Repositories |
@@ -107,6 +110,7 @@
 | [GraphQL](https://github.com/graphql ) | GraphQL |
 | [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions. |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
+| [HelioCloud](https://github.com/heliocloud-data )  | Development of the HelioCloud platform for HelioPhysics research |
 | [Heltec Automation](https://github.com/HelTecAutomation ) | LoRa & IoT hardware and solution providers |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
 | [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
@@ -141,6 +145,7 @@
 | [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
 | [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
 | [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
+| [Meta Llama](https://github.com/meta-llama ) | Facebook Large Language Model |
 | [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
@@ -160,6 +165,7 @@
 | [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
 | [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp |
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
+| [The Milvus Project](https://github.com/milvus-io ) | The open source vector database designed for AI applications |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [Mixtile](https://github.com/mixtile ) | Mixtile open source projects. |
@@ -216,6 +222,7 @@
 | [raspberry-sharp (Raspberry#)](https://github.com/raspberry-sharp ) | Raspberry Pi .Net |
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
+| [riok](https://github.com/riok ) | .Net mapping source generator |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
 | [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Administrative Materials](https://github.com/riscv-admin ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -259,6 +266,7 @@
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Valve Software](https://github.com/ValveSoftware ) | Valve Software |
+| [Yamato Security 大和セキュリティ](https://github.com/Yamato-Security ) | Yamato Security is a security group created by Zach Mathis (@yamatosecurity) in 2012. At first, the main purpose was to provide security training to build a local security community in Western Japan but has grown to provide training, CTF events, webinars, etc... across the country for thousands of people.<br /><br />Now, with a group of volunteer members, we are providing free open source DFIR tools such as Hayabusa, WELA, Takajo, etc... |
 | [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
