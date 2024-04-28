@@ -50,7 +50,6 @@
 | [How to see the April 8 eclipse: A step-by-step planning guide](https://www.astronomy.com/observing/how-to-view-the-eclipse-step-by-step/ ) | February 19, 2024 |
 | **[Eclipse 2024 Citizen Science — NASA](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/eclipse-2024-citizen-science/ )** | |
 | [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) | March 7, 2024 |
-| [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) | January 31, 2024 |
 | [Ecliptic Visions—with Rebecca Boyle, Gabriel Biderman, Atlas Obscura & B&H / B&H eXplora Podcast](https://www.bhphotovideo.com/explora/podcasts/photography/ecliptic-visions-with-rebecca-boyle-gabriel-biderman-atlas-obscura-bh ) | 03/14/2024 |
 | [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) | March 14, 2024 |
 | [Dr. Telepun: my-eclipse-research](https://www.solareclipsetimer.com/my-eclipse-research.html ) | |
@@ -61,47 +60,75 @@
 [^12]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
 [^13]: A unique method to view the eclipse. 
 
-<details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • Space / LiveScience</summary >
+## [Eclipse 2024 — NASA](https://eclipse2024.nasa.gov/ )
 
-## April 8, 2024 — Total Solar Eclipse 
+### April 8, 2024 Total Solar Eclipse • Space / LiveScience 
+
+<details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • Space / LiveScience</summary >
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
 | [Eclipse expert Jamie Carter wins media award for extensive solar eclipse coverage / Space](https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award ) | April 21, 2024 |
 | [Those magic minutes during April 8's solar eclipse brought me to tears / Space](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears ) | April 20, 2024 |
+| [Global 'time signals' subtly shifted as the total solar eclipse reshaped Earth's upper atmosphere, new data shows / Live Science](https://www.livescience.com/space/the-sun/global-time-signals-subtly-shifted-as-the-total-solar-eclipse-reshaped-earths-upper-atmosphere-new-data-shows ) | April 19, 2024 |
 | [The 2024 solar eclipse was a teachable moment in more ways than one / Space](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university ) | April 16, 2024 |
-| [Top total solar eclipses to look out for over the next decade / Live Science](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034 ) | April 15, 2024 |
+| [7 strange things observed during the April 8 solar eclipse: From shifting time signals to puzzling plasma plumes / Live Science](https://www.livescience.com/space/the-sun/6-strange-things-observed-during-the-april-8-solar-eclipse-from-doomed-comets-to-diamond-rings ) | April 16, 2024 |
 | [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Space](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 15, 2024 |
+| [Top total solar eclipses to look out for over the next decade / Live Science](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034 ) | April 15, 2024 |
+| [Space photo of the week: NASA spots enormous pink 'flames' during total solar eclipse. What are they? / Live Science](https://www.livescience.com/space/the-sun/space-photo-of-the-week-nasa-spots-enormous-pink-flames-during-total-solar-eclipse-what-are-they ) | April 14, 2024 |
 | [NASA astronaut Loral O'Hara missed the total solar eclipse, but saw Earth 'moving' below her during spacewalk (photos) / Space](https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk ) | April 14, 2024 |
 | ['You could feel the energy and wonder': Despite clouds, totality wows crowds during solar eclipse in Syracuse / Space](https://www.livescience.com/space/the-sun/you-could-feel-the-energy-and-wonder-total-eclipse-wows-crowds-in-syracuse-despite-cloudy-sky ) | April 13, 2024 |
 | [My formal 2024 solar eclipse apology / Space](https://www.space.com/2024-solar-eclipse-apology-letter-totality-was-excellent ) | April 11, 2024 |
-| [Totality was a total bust for me but not for the reason you might think / Space](https://www.space.com/total-solar-eclipse-2024-totality-bust-first-person-account ) | April 10, 2024 |
+| [Here are the best photos of the April 8 total solar eclipse over North America / Live Science](https://www.livescience.com/space/the-best-photos-and-videos-of-the-april-8-total-solar-eclipse-over-north-america ) | April 11, 2024 |
 | [Astronauts' photos capture April 8 solar eclipse from Earth orbit / Space](http://www.collectspace.com/news/news-040924a-2024-eclipse-astronauts-view-space-station.html ) | April 10, 2024 |
-| [The solar eclipse is over! Here's what to do with your eclipse glasses / Space](https://www.space.com/how-to-recycle-solar-eclipse-glasses ) | April 9, 2024 |
+| [Totality was a total bust for me but not for the reason you might think / Space](https://www.space.com/total-solar-eclipse-2024-totality-bust-first-person-account ) | April 10, 2024 |
+| [No, you didn't see a solar flare during the total eclipse — but you may have seen something just as special / Live Science](https://www.livescience.com/space/the-sun/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special ) | April 10, 2024 |
+| [Total solar eclipse reveals tiny new comet moments before it was destroyed by the sun / Live Science](https://www.livescience.com/space/the-sun/tiny-sungrazer-comet-discovered-photographed-and-destroyed-all-during-historic-total-solar-eclipse ) | April 10, 2024 |
+| [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Live Science](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 10, 2024 |
 | [What to do next with your solar viewing kit after the 2024 solar eclipse / Space](https://www.space.com/what-to-do-next-with-your-solar-viewing-kit ) | April 9, 2024 |
 | [These solar eclipse 2024 photos from our readers are absolutely amazing (images, video) / Space](https://www.space.com/total-solar-eclipse-2024-space-reader-photos-video ) | April 9, 2024 |
+| [Eyes hurt after the eclipse? Signs of retinal damage, explained / Live Science](https://www.livescience.com/health/eyes-hurt-after-the-eclipse-signs-of-retinal-damage-explained ) | April 9, 2024 |
+| [Eclipse from space: See the moon's shadow race across North America at 1,500 mph in epic satellite footage / Live Science](https://www.livescience.com/space/the-sun/eclipse-from-space-see-the-moons-shadow-race-across-north-america-at-1500-mph-in-epic-satellite-footage ) | April 9, 2024 |
+| [The solar eclipse is over! Here's what to do with your eclipse glasses / Space](https://www.space.com/how-to-recycle-solar-eclipse-glasses ) | April 9, 2024 |
+| ['You could feel the energy and wonder': Despite clouds, totality wows crowds during solar eclipse in Syracuse / Live Science](https://www.livescience.com/space/the-sun/you-could-feel-the-energy-and-wonder-total-eclipse-wows-crowds-in-syracuse-despite-cloudy-sky ) | April 9, 2024 |
+| [When is the next total solar eclipse after 2024 in North America? / Live Science](https://www.livescience.com/space/the-sun/when-is-the-next-total-solar-eclipse-after-2024-in-north-america ) | April 8, 2024 |
+| [Watch live! The total solar eclipse has begun over North America. / Live Science](https://www.livescience.com/space/the-sun/watch-live-the-total-solar-eclipse-has-begun-over-north-america ) | April 8, 2024 |
+| [Chasing the 2024 solar eclipse means dorm life for some New York spectators (including me) / Space](https://www.space.com/solar-eclipse-2024-dorm-life-suny-potsdam-new-york ) | April 8, 2024 |
+| [Solar eclipse 2024: 8 things to watch for during totality / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-5-spectacular-sights-to-watch-for-during-totality ) | April 8, 2024 |
+| [How to safely record today's total solar eclipse with your phone / Live Science](https://www.livescience.com/space/the-sun/how-to-safely-record-the-april-8-eclipse-with-your-phone ) | April 8, 2024 |
+| [Total solar eclipse 2024 thrills millions across North America (video, photos) / Space](https://www.space.com/total-solar-eclipse-2024-thrills-millions-across-north-america ) | April 8, 2024 |
+| [April 8 total solar eclipse: Everything you need to know / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-everything-you-need-to-know ) | April 8, 2024 |
 | [The total solar eclipse 2024 is happening today! Here's what you need to know / Space](https://www.space.com/total-solar-eclipse-2024-occurs-today ) | April 8, 2024 |
 | [In Indiana, the best spot to see the 2024 solar eclipse is wherever you are / Space](https://www.space.com/2024-solar-eclipse-vantage-point-indiana ) | April 8, 2024 |
+| [Where to get solar eclipse glasses last minute / Live Science](https://www.livescience.com/space/the-sun/where-to-get-solar-eclipse-glasses-last-minute ) | April 8, 2024 |
 | [Total solar eclipse 2024 has begun and here are the first views! / Space](https://www.space.com/total-solar-eclipse-2024-has-begun ) | April 8, 2024 |
-| [Chasing the 2024 solar eclipse means dorm life for some New York spectators (including me) / Space](https://www.space.com/solar-eclipse-2024-dorm-life-suny-potsdam-new-york ) | April 8, 2024 |
-| [Total solar eclipse 2024 thrills millions across North America (video, photos) / Space](https://www.space.com/total-solar-eclipse-2024-thrills-millions-across-north-america ) | April 8, 2024 |
 | [Total solar eclipse 2024: pictures from around the web / Space](https://www.space.com/total-solar-eclipse-2024-photos-from-the-web ) | April 8, 2024 |
+| [Myth busted: Total solar eclipses don't release special, blinding radiation, NASA says / Live Science](https://www.livescience.com/space/the-sun/myth-busted-total-solar-eclipses-dont-release-special-blinding-radiation-nasa-says ) | April 8, 2024 |
+| [7 safe ways to view the partial phases of today's total solar eclipse / Live Science](https://www.livescience.com/space/the-sun/7-safe-ways-to-view-the-partial-phases-of-the-total-solar-eclipse-on-april-8 ) | April 8, 2024 |
 | [My dogs and I watched the 2017 total solar eclipse, but we won't travel for this one / Space](https://www.space.com/2017-total-solar-eclipse-dogs ) | April 7, 2024 |
 | [Which places on Earth witness the most solar eclipses? / Space](https://www.space.com/which-places-earth-see-most-solar-eclipses ) | April 7, 2024 |
 | [I'm driving 6 hours through New York's Adirondacks to see the 2024 total solar eclipse from Potsdam. Here's why. / Space](https://www.space.com/2024-total-solar-eclipse-suny-potsdam-new-york-family-trip ) | April 6, 2024 |
+| [William Shatner is beaming in to see the 2024 total solar eclipse from Indiana (video) / Space](https://www.space.com/william-shatner-looks-forward-to-2024-solar-eclipse-indiana ) | April 6, 2024 |
+| [These 15 solar eclipse beers were brewed to sip in the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality ) | April 6, 2024 |
 | [I'm headed to Indiana to prove myself wrong about solar eclipses on April 8 / Space](https://www.space.com/total-solar-eclipse-april-8-indiana-path-totality ) | April 6, 2024 |
 | [The April 8 total solar eclipse will bring weird sights, sounds and feelings / Space](https://www.space.com/solar-eclipse-april-2024-strange-phenomena ) | April 6, 2024 |
-| [These 15 solar eclipse beers were brewed to sip in the path of totality / Space](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality ) | April 6, 2024 |
 | [Total solar eclipse 2024: Here's the national weather forecast for April 8 / Space](https://www.space.com/solar-eclipse-2024-national-weather-forecast ) | April 6, 2024 |
-| [William Shatner is beaming in to see the 2024 total solar eclipse from Indiana (video) / Space](https://www.space.com/william-shatner-looks-forward-to-2024-solar-eclipse-indiana ) | April 6, 2024 |
+| [NASA jets will chase the eclipse at 460 mph on Monday. Here's why. / Live Science](https://www.livescience.com/space/the-sun/nasa-jets-will-chase-the-eclipse-at-460-mph-on-monday-heres-why ) | April 5, 2024 |
+| [2024 solar eclipse map: Where to see the eclipse on April 8 / Live Science](https://www.livescience.com/space/the-sun/2024-solar-eclipse-map-where-to-see-the-eclipse-on-april-8 ) | April 5, 2024 |
 | [How to photograph the total solar eclipse on April 8 / Space](https://www.space.com/how-to-photograph-a-solar-eclipse ) | April 5, 2024 |
-| [Southern Illinois will get its 2nd solar eclipse in a decade this year / Space](https://www.space.com/illinois-rare-double-eclipse-path-of-totality ) | April 5, 2024 |
 | [This solar eclipse simulator on SkySafari will guide you through the eclipse on April 8 / Space](https://www.space.com/skysafari-solar-eclipse-simulator-april-8 ) | April 5, 2024 |
+| [10 weird things that happen during a solar eclipse / Live Science](https://www.livescience.com/space/the-sun/10-weird-things-that-happen-during-a-solar-eclipse ) | April 5, 2024 |
+| [Southern Illinois will get its 2nd solar eclipse in a decade this year / Space](https://www.space.com/illinois-rare-double-eclipse-path-of-totality ) | April 5, 2024 |
+| [The sun is surprisingly quiet right now. What does this mean for the April 8 total solar eclipse? / Live Science](https://www.livescience.com/space/the-sun/the-sun-is-surprisingly-quiet-right-now-what-does-this-mean-for-the-april-8-total-solar-eclipse ) | April 5, 2024 |
 | [Colors will look different during the April 8 solar eclipse. Here's why / Space](https://www.livescience.com/health/anatomy/colors-will-look-different-during-the-april-8-solar-eclipse-heres-why ) | April 4, 2024 |
-| [I screwed up and missed the solar eclipse in 2017. I won't make that same mistake on April 8. / Space](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024 ) | April 4, 2024 |
 | [What time is the total solar eclipse on April 8? / Space](https://www.space.com/what-time-total-solar-eclipse-april-8 ) | April 4, 2024 |
+| [Maya nobility performed bloodletting sacrifices to strengthen a 'dying' sun god during solar eclipses / Live Science](https://theconversation.com/for-the-maya-solar-eclipses-were-a-sign-of-heavenly-clashes-and-their-astronomers-kept-sophisticated-records-to-predict-them-225535 ) | April 4, 2024 |
+| [Solar safe telescope deal: $30 saving ahead of the total solar eclipse / Live Science](https://www.livescience.com/space/astronomy/solar-safe-telescope-deal-30-off-total-solar-eclipse-april-2024 ) | April 4, 2024 |
+| [I screwed up and missed the solar eclipse in 2017. I won't make that same mistake on April 8. / Space](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024 ) | April 4, 2024 |
 | [New moon phase on April 8 will bring on the 2024 total solar eclipse / Space](https://www.space.com/new-moon-april-2024-observing-guide-solar-eclipse ) | April 3, 2024 |
+| [Save 20% on these eclipse-ready Celestron solar binoculars / Live Science](https://www.livescience.com/space/astronomy/save-20-percent-celestron-solar-eclipse-binoculars-april-2024 ) | April 3, 2024 |
 | [Why I’m staying home for the April 8 solar eclipse / Space](https://www.space.com/why-stay-home-total-solar-eclipse-april-2024 ) | April 3, 2024 |
+| [Act fast: Save up to 50% on solar glasses for the total eclipse / Live Science](https://www.livescience.com/space/astronomy/save-up-to-50-percent-solar-eclipse-glasses-amazon-april-2024 ) | April 3, 2024 |
 | ['Zeus made night from mid-day:' Terror and wonder in ancient accounts of solar eclipses / Space](https://www.livescience.com/space/the-sun/zeus-made-night-from-mid-day-terror-and-wonder-in-ancient-accounts-of-solar-eclipses ) | April 2, 2024 |
 | [I'm taking the train to see the 2024 solar eclipse in Canada. Here's why. / Space](https://www.space.com/solar-eclipse-2024-canada-train-journey-local ) | April 2, 2024 |
 | [Solar eclipse sights might vary on the edge of totality: report / Space](https://www.space.com/solar-eclipse-sights-variable-shadow-edge-report ) | April 2, 2024 |
@@ -116,49 +143,74 @@
 | [Why I'm going to Missouri near the centerline for the solar eclipse on April 8 / Space](https://www.space.com/total-solar-eclipse-april-8-missouri-centerline ) | April 1, 2024 |
 | [April 8 solar eclipse: 6 zoos on the path of totality — and why animals react strangely to 'nighttime during the day' / Space](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-6-zoos-in-the-path-of-totality-and-why-animals-react-strangely-to-nighttime-during-the-day ) | April 1, 2024 |
 | [The 2024 total solar eclipse is 1 week away. Here's what you need to know. / Space](https://www.space.com/total-solar-eclipse-2024-one-week-away-what-you-need-to-know ) | April 1, 2024 |
+| [Why NASA is launching 3 rockets into the solar eclipse next week / Live Science](https://www.livescience.com/space/the-sun/why-nasa-is-launching-3-rockets-into-the-solar-eclipse-next-week ) | April 1, 2024 |
+| [Colors will look different during the April 8 solar eclipse. Here's why. / Live Science](https://www.scientificamerican.com/article/why-do-colors-change-during-a-solar-eclipse/ ) | April 1, 2024 |
 | ['Everything is interrelated.' For the Navajo Nation, the April 8 solar eclipse is a spiritual experience / Space](https://www.space.com/total-solar-eclipse-2024-navajo-nation ) | March 31, 2024 |
 | [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years / Space](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years ) | March 30, 2024 |
+| [4 ways you can help NASA study the April 8 solar eclipse / Live Science](https://www.livescience.com/space/the-sun/4-ways-you-can-help-nasa-study-the-april-8-solar-eclipse ) | March 29, 2024 |
 | [Why low-level clouds vanish during a solar eclipse / Space](https://www.livescience.com/space/the-sun/why-low-level-clouds-disappear-during-a-solar-eclipse ) | March 29, 2024 |
 | [How to earn a 'black belt' in solar eclipse chasing / Space](https://www.space.com/how-to-earn-black-belt-eclipse-chasing-saros ) | March 29, 2024 |
 | [Lego Education Eclipse Collection teaches students about April 8 total solar eclipse / Space](https://www.space.com/lego-education-solar-eclipse-collection-april-8 ) | March 28, 2024 |
 | [NASA's new astronauts are excited for April's total eclipse: 'I'm going to be that little kid all over again' (exclusive) / Space](https://www.space.com/nasa-astronaut-sun-science-solar-eclipse-2024 ) | March 28, 2024 |
 | [SunChips will sell exclusive total solar eclipse flavors only during totality on April 8 / Space](https://www.space.com/total-solar-eclipse-sun-chips-exclusive ) | March 28, 2024 |
-| [NASA is super stoked for the 2024 total solar eclipse and hopes you are, too. / Space](https://www.space.com/nasa-total-solar-eclipse-briefing ) | March 27, 2024 |
 | [Will the total solar eclipse on April 8 be the most watched ever? / Space](https://www.space.com/will-the-april-total-solar-eclipse-2024-be-the-most-watched-eclipse-ever ) | March 27, 2024 |
+| [Hurry! Get these solar glasses delivered before the eclipse / Live Science](https://www.livescience.com/space/astronomy/hurry-get-these-solar-glasses-delivered-before-the-eclipse ) | March 27, 2024 |
+| [NASA is super stoked for the 2024 total solar eclipse and hopes you are, too. / Space](https://www.space.com/nasa-total-solar-eclipse-briefing ) | March 27, 2024 |
+| ['Zeus made night from mid-day': Terror and wonder in ancient accounts of solar eclipses / Live Science](https://www.livescience.com/space/the-sun/zeus-made-night-from-mid-day-terror-and-wonder-in-ancient-accounts-of-solar-eclipses ) | March 27, 2024 |
+| [Hurry, the solar eclipse is fast approaching, but not a soon as the end of this excellent Unistellar deal / Live Science](https://www.livescience.com/space/astronomy/hurry-the-solar-eclipse-is-fast-approaching-but-not-a-soon-as-the-end-of-this-excellent-unistellar-deal ) | March 26, 2024 |
 | [April 8 total solar eclipse could bring uptick in fatal car crashes, scientists caution / Space](https://www.livescience.com/health/death/april-8-eclipse-could-bring-uptick-in-fatal-car-crashes-scientists-caution ) | March 26, 2024 |
 | [How long will April's total solar eclipse last? / Space](https://www.space.com/how-long-will-total-solar-eclipse-last-april-8 ) | March 26, 2024 |
+| [Solar eclipse glasses: Where to buy a safe, certified pair before April 8 / Live Science](https://www.livescience.com/space/the-sun/where-to-buy-your-solar-eclipse-glasses-before-the-april-8-total-eclipse ) | March 26, 2024 |
+| [April 8 eclipse could bring uptick in fatal car crashes, scientists caution / Live Science](https://www.livescience.com/health/death/april-8-eclipse-could-bring-uptick-in-fatal-car-crashes-scientists-caution ) | March 25, 2024 |
+| [Why low-level clouds vanish during a solar eclipse / Live Science](https://eos.org/articles/low-level-clouds-disappear-during-a-solar-eclipse ) | March 25, 2024 |
 | [How fast will April's total solar eclipse travel? / Space](https://www.space.com/how-fast-will-total-solar-eclipse-2024-travel ) | March 25, 2024 |
+| [Space photo of the week: The moon begins its big eclipse orbit in stunning ISS photo / Live Science](https://www.livescience.com/space/the-moon/space-photo-of-the-week-the-moon-begins-its-big-eclipse-orbit-in-stunning-iss-photo ) | March 24, 2024 |
 | [Massive explosions may be visible on the sun during the April 8 total solar eclipse / Space](https://www.space.com/massive-eruptions-visible-sun-during-total-eclipse-2024-what-to-look-for ) | March 23, 2024 |
-| ['All eyes to the sky': National Geographic and ABC to chronicle epic solar spectacle on April 8 (exclusive video) / Space](https://www.space.com/national-geographic-eclipse-across-america ) | March 22, 2024 |
+| [See the full 'Worm Moon' eclipsed by Earth's shadow this weekend, exactly 2 weeks before the April 8 total solar eclipse / Live Science](https://www.livescience.com/space/the-moon/see-the-full-worm-moon-eclipsed-by-earths-shadow-this-weekend-exactly-2-weeks-before-the-april-8-total-solar-eclipse ) | March 22, 2024 |
 | [Texas Eclipse Festival offers a 'choose your own adventure experience' for April total solar eclipse / Space](https://www.space.com/texas-eclipse-festival-2024 ) | March 22, 2024 |
+| ['All eyes to the sky': National Geographic and ABC to chronicle epic solar spectacle on April 8 (exclusive video) / Space](https://www.space.com/national-geographic-eclipse-across-america ) | March 22, 2024 |
+| [Grab a pack of five eclipse glasses with an excellent Amazon deal to watch the solar eclipse with company / Live Science](https://www.livescience.com/space/astronomy/grab-a-pack-of-five-eclipse-glasses-with-an-excellent-amazon-deal-to-watch-the-solar-eclipse-with-company ) | March 21, 2024 |
 | ['99% totality' does not exist! Why you need to get to the path for April 8, 2024, total solar eclipse / Space](https://www.space.com/why-99-percent-totality-does-not-exist-need-to-be-on-total-solar-eclipse-path-april-2024 ) | March 21, 2024 |
+| [Places with the best weather to watch the April 8 solar eclipse (and what happens if it's cloudy where you are) / Live Science](https://www.livescience.com/space/the-sun/places-with-the-best-weather-to-watch-the-april-8-solar-eclipse-and-what-happens-if-its-cloudy-where-you-are ) | March 19, 2024 |
 | [How to view solar eclipse 2024 with items from around the home / Space](https://www.space.com/view-total-solar-eclipse-2024-items-around-the-home ) | March 19, 2024 |
+| [How total solar eclipses help us measure ancient history / Live Science](https://theconversation.com/archeoastronomy-uses-the-rare-times-and-places-of-previous-total-solar-eclipses-to-help-us-measure-history-222709 ) | March 18, 2024 |
 | [Track the April 8 total solar eclipse with SkySafari, now 80% off / Space](https://www.space.com/skysafari-basic-app-sale-solar-eclipse-2024 ) | March 18, 2024 |
 | [Why I'm going to Rochester NY to see my 1st-ever total solar eclipse / Space](https://www.space.com/visit-rochester-roc-the-eclipse-festival-total-solar-eclipse-2024 ) | March 18, 2024 |
 | [Solar eclipse 2024 weather prospects — Q&A with an expert / Space](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a ) | March 16, 2024 |
 | [April 8's total solar eclipse will make baseball history. Here's how / Space](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games ) | March 15, 2024 |
 | [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024 / Space](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024 ) | March 14, 2024 |
+| [How often do solar eclipses occur? / Live Science](https://www.livescience.com/space/the-sun/how-often-do-solar-eclipses-occur ) | March 13, 2024 |
 | [Where will the most crowded places be for the total solar eclipse 2024? / Space](https://www.space.com/most-crowded-places-for-total-solar-eclipse-april-2024 ) | March 13, 2024 |
+| [Grab a pair of cheap solar eclipse glasses with this excellent deal on Amazon / Live Science](https://www.livescience.com/space/astronomy/grab-a-pair-of-cheap-solar-eclipse-glasses-with-this-excellent-deal-on-amazon ) | March 12, 2024 |
 | [Solar eclipse viewing through history: A roundup of some of the best photos / Space](https://www.space.com/solar-eclipses-viewing-through-history-photo-gallery ) | March 12, 2024 |
 | [You could win a chance to watch 2024's total solar eclipse from a jet. Here's how / Space](https://www.space.com/2024-total-solar-eclipse-jet-jsx-flight ) | March 12, 2024 |
-| [What will it be like to experience the total solar eclipse 2024? / Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) | March 11, 2024 |
+| [What will it be like to experience the total solar eclipse 2024? -7. T6g7 t TV tvvv n, o. Ii 0i pl  l  Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) | March 11, 2024 |
 | [Where is the best place to see the April 2024 total solar eclipse? / Space](https://www.space.com/where-is-best-place-to-see-total-solar-eclipse-april-2023 ) | March 11, 2024 |
 | [A chronology of the April 8 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-chronology-april-8-2024 ) | March 10, 2024 |
 | [10 things you probably didn't know about the 2024 total solar eclipse / Space](https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse ) | March 9, 2024 |
 | [1 month to go until the total solar eclipse 2024 — Here's what you need to know / Space](https://www.space.com/one-month-until-total-solar-eclipse-2024 ) | March 8, 2024 |
 | [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years / Space](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years ) | March 7, 2024 |
+| [April 8 solar eclipse: 6 zoos on the path of totality — and why animals react strangely to 'nighttime during the day' / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-6-zoos-in-the-path-of-totality-and-why-animals-react-strangely-to-nighttime-during-the-day ) | March 6, 2024 |
 | [April 8 total solar eclipse boosts ticket sales for United Airlines / Space](https://www.space.com/united-airlines-total-solar-eclipse-april-2024 ) | March 6, 2024 |
 | [10 phenomena to photograph during April's total solar eclipse / Space](https://www.space.com/10-phenomena-to-see-and-photograph-april-total-solar-eclipse-2024 ) | March 6, 2024 |
 | [The best places in the US to experience totality during the April 2024 solar eclipse / Space](https://www.space.com/best-places-US-states-to-see-total-solar-eclipse-april-2024 ) | March 6, 2024 |
 | [Total solar eclipse 2024 maps of the 'path of totality' / Space](https://www.space.com/37878-solar-eclipse-2024-path-of-totality-maps.html ) | March 5, 2024 |
 | [Immerse yourself in the total eclipse 2024 with 'The Eclipse App' from The Eclipse Company / Space](https://www.space.com/the-eclipse-app-total-eclipse-2024 ) | March 2, 2024 |
+| [Exploding, green 'devil comet' could photobomb April 8 total solar eclipse — and it might be visible with the naked eye / Live Science](https://www.livescience.com/space/the-sun/exploding-green-devil-comet-could-photobomb-april-8-total-solar-eclipse-and-it-might-be-visible-with-the-naked-eye ) | March 1, 2024 |
 | [Where will the April 2024 total solar eclipse be visible from? / Space](https://www.space.com/what-states-total-solar-eclipse-april-2024-visible-from ) | March 1, 2024 |
 | [Delta Air Lines opens up 2nd 'totality' flight for 2024 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-april-8-delta-path-of-totality-flight-30000-feet ) | February 26, 2024 |
 | [NASA Eclipse Soundscapes Project will record how 2024's total solar eclipse impacts nature / Space](https://www.space.com/nasa-eclipse-soundscapes-project-2024-total-solar-eclipse ) | February 22, 2024 |
+| [One of the best smart telescopes now comes with a free solar filter worth $249 — perfect for eclipse watchers / Live Science](https://www.livescience.com/space/astronomy/one-of-the-best-smart-telescopes-now-comes-with-a-free-solar-filter-worth-dollar249-perfect-for-eclipse-watchers ) | February 21, 2024 |
+| [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years ) | February 18, 2024 |
 | [Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse ) | February 17, 2024 |
 | [8 top tips for planning your 2024 total eclipse trip / Space](https://www.space.com/total-solar-eclipse-april-8-2024-top-tips-planning-trip ) | February 14, 2024 |
-| [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse? / Space](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips ) | February 6, 2024 |
+| [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse? / Space](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips ) | February 6, 2024 |p oplaying,.  P. .pllll .p. p,p. P p .pp.l p, pp.p,i,9,ll,o,
+| [April 8 solar eclipse: What is the path of totality, and where's the best spot to watch? / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-what-is-the-path-of-totality-and-wheres-the-best-spot-to-watch ) | February 6, 2024 |
+| [April 8 total solar eclipse: The best places to stargaze near the path of totality / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-the-best-places-to-stargaze-near-the-path-of-totality ) | February 5, 2024 |
+| [April 8 solar eclipse: 4 telescopes and observatories where you can watch totality / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-4-telescopes-and-observatories-where-you-can-watch-totality ) | February 3, 2024 |
+| [What's the longest solar eclipse in history? (And how does the April 2024 total eclipse compare?) / Live Science](https://www.livescience.com/space/the-sun/whats-the-longest-solar-eclipse-in-history-and-how-does-the-april-2024-total-eclipse-compare ) | January 31, 2024 |
 | [Total solar eclipse April 8, 2024: The longest and most visible for the US in 100 years / Space](https://www.space.com/total-solar-eclipse-april-8-2024-finest-for-united-states ) | January 26, 2024 |
+| [1st-of-its-kind European spacecraft duo will create mini eclipses in space, transforming how we study the sun / Live Science](https://www.livescience.com/space/space-exploration/1st-of-its-kind-european-spacecraft-duo-will-create-mini-eclipses-in-space-transforming-how-we-study-the-sun ) | January 26, 2024 |
 | [Shadow bands are a solar eclipse mystery (and not everyone sees them) / Space](https://www.space.com/37776-shadow-bands-are-a-solar-eclipse-mystery.html ) | January 17, 202 |
 | [Road trip! See April's total solar eclipse from one of these awesome North American routes / Space](https://www.space.com/total-solar-eclipse-april-8-2024-6-road-trip-ideas ) | January 12, 2024 |
 | [Why you don't need to get to the centerline for April's total solar eclipse — and what will happen at the edge / Space](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality ) | January 10, 2024 |
@@ -173,6 +225,7 @@
 | [Experience April's total solar eclipse from the palm of your hand with the 'Totality' app from Big Kid Science / Space](https://www.space.com/totality-app-big-kid-science-april-total-solar-eclipse-2024 ) | November 16, 2023 |
 | [Solar eclipses seen by long-dead Cassini spacecraft shed new light on Saturn's rings / Space](https://www.space.com/saturn-rings-transparency-cassini-eclipse-data ) | November 16, 2023 |
 | [How El Niño may affect the chances of clear skies for the 2024 total solar eclipse / Space](https://www.space.com/how-el-nino-may-affect-total-solar-eclipse-2024-weather ) | November 3, 2023 |
+| [Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history ) | October 9, 2023 |
 | [NASA's plan to point a massive telescope at America's two upcoming solar eclipses / Space](https://www.space.com/nasa-plans-to-point-massive-telescope-upcoming-solar-eclipses-citizen-science-solar-patrol ) | October 2, 2023 |
 | [Don't panic if you see balloons hovering during America's two upcoming solar eclipses. / Space](https://www.space.com/national-eclipse-ballooning-project-solar-eclipse-research-october-april ) | September 25, 2023 |
 | [NASA seeks citizen scientists to capture April 2024 total solar eclipse / Space](https://www.space.com/nasa-citizen-scientists-april-2024-total-solar-eclipse ) | September 18, 2023 |
@@ -183,6 +236,10 @@
 | [Watch the moon's shadow travel across North America during 2024's total solar eclipse (video) / Space](https://www.space.com/watch-moon-shadow-travel-across-north-america-2024-total-solar-eclipse-video ) | June 23, 2023 |
 | [NASA will study Great North American Solar Eclipse of 2024 with these 5 experiments / Space](https://www.space.com/nasa-experiments-great-american-solar-eclipse-2024 ) | June 23, 2023 |
 | [Here are the best places to see the Great American Solar Eclipse of 2024 / Space](https://www.space.com/great-american-total-solar-eclipse-2024-weather-forecast ) | April 8, 2023 |
+| [Photographers capture the exact moment a gargantuan storm blasts out of the sun during a total solar eclipse / Live Science](https://www.livescience.com/space/the-sun/photographers-capture-the-exact-moment-a-gargantuan-storm-blasts-out-of-the-sun-during-a-total-solar-eclipse ) | April 28, 2023 |
+| [Moments before dying, Japan's lunar lander snaps glorious photo of Earth during a total solar eclipse / Live Science](https://www.livescience.com/space/space-exploration/days-before-dying-japans-lunar-lander-snaps-glorious-photo-of-earth-during-a-total-solar-eclipse ) | April 27, 2023 |
+| [I watched the moon 'take a bite of the sun' in a rare hybrid solar eclipse last week. Here's what I saw from Australia. / Live Science](https://www.livescience.com/space/the-sun/i-watched-the-moon-take-a-bite-of-the-sun-in-a-rare-hybrid-solar-eclipse-last-week-heres-what-i-saw-from-australia ) | April 25, 2023 |
+| [A very rare 'hybrid' solar eclipse will take place Thursday, here's how to watch / Live Science](https://www.livescience.com/space/astronomy/the-sun/a-very-rare-hybrid-solar-eclipse-will-take-place-thursday-heres-how-to-watch ) | April 18, 2023 |
 
 </details >
 
@@ -216,37 +273,50 @@
 
 ## August 21, 2017 — Total Solar Eclipse
 
+### [Eclipse 2017 — NASA](https://eclipse2017.nasa.gov/ )
+
 <details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
+
 
 | Total Solar Eclipse — August 17, 2017 | Date |
 |---|---|
 | [Citizen-Scientists Shined Bright During 2017's Great American Solar Eclipse / Space](https://www.space.com/39228-great-american-solar-eclipse-citizen-cate.html ) | December 28, 2017 |
 | [Skywatching Event of the Year: How a Solar Eclipse Captivated America in 2017 / Space](https://www.space.com/39226-great-american-solar-eclipse-2017-retrospective.html ) | December 28, 2017 |
 | [Moon's Supersonic Shadow Created Waves During the 2017 Solar Eclipse / Space](https://www.livescience.com/61279-moon-s-supersonic-shadow-created-waves-during-the-solar-eclipse.html ) | December 27, 2017 |
+| [Moon's Supersonic Shadow Created Waves During the Solar Eclipse / Live Science](https://www.livescience.com/61279-moon-s-supersonic-shadow-created-waves-during-the-solar-eclipse.html ) | December 26, 2017 |
 | [Solar Eclipse Damage to Woman's Eye Revealed in Striking Images / Space](https://www.livescience.com/61128-solar-retinopathy-cell-damage.html ) | December 8, 2017 |
+| [Solar Eclipse Damage to Woman's Eye Revealed in Striking Images / Live Science](https://www.livescience.com/61128-solar-retinopathy-cell-damage.html ) | December 7, 2017 |
+| [Bible May Record Oldest Known Solar Eclipse / Live Science](https://www.livescience.com/60817-bible-records-oldest-known-solar-eclipse.html ) | October 30, 2017 |
 | [Scientists Predicted What the Great American Eclipse Would Look Like, and Nailed It / Space](https://www.space.com/38498-scientists-nail-great-american-eclipse-prediction.html ) | October 18, 2017 |
 | [What the 2017 Solar Eclipse Taught Us About Boosting Public Interest in Science / Space](https://www.space.com/38318-solar-eclipse-2017-house-science-hearing.html ) | September 29, 2017 |
 | [Great American Solar Eclipse Viewership Dwarfed Super Bowl Audience / Space](https://www.space.com/38296-solar-eclipse-2017-more-watched-than-super-bowl.html ) | September 28, 2017 |
 | [Totally Active: Eclipse Photos Reveal Sunspots, Solar Flares / Space](https://www.livescience.com/60290-solar-eclipse-photos-reveal-sunspots-solar-flares.html ) | September 5, 2017 |
 | [Solar Eclipse Lawsuit: Couple Sues Amazon Alleging Faulty Glasses / Space](https://www.livescience.com/60304-amazon-eclipse-glasses-lawsuit.html ) | September 2, 2017 |
+| [Solar Eclipse Lawsuit: Couple Sues Amazon Alleging Faulty Glasses / Live Science](https://www.livescience.com/60304-amazon-eclipse-glasses-lawsuit.html ) | September 1, 2017 |
 | [Here's How One Man Beat the Crowds to View the Total Solar Eclipse / Space](https://www.livescience.com/60283-how-one-person-saw-great-american-solar-eclipse.html ) | September 1, 2017 |
-| [Photos: The Adventure Behind Eclipse Chasing / Live Science](https://www.livescience.com/60282-photos-the-adventure-behind-eclipse-chasing.html ) | August 31, 2017 |
 | [See NASA Satellites' View of Great American Solar Eclipse (Video) / Space](https://www.space.com/37997-great-american-solar-eclipse-nasa-satellites-video.html ) | August 31, 2017 |
+| [Totally Active: Eclipse Photos Reveal Sunspots, Solar Flares / Live Science](https://www.livescience.com/60290-solar-eclipse-photos-reveal-sunspots-solar-flares.html ) | August 31, 2017 |
+| [Photos: The Adventure Behind Eclipse Chasing / Live Science](https://www.livescience.com/60282-photos-the-adventure-behind-eclipse-chasing.html ) | August 31, 2017 |
+| [Here's How One Man Beat the Crowds to View the Total Solar Eclipse / Live Science](https://www.livescience.com/60283-how-one-person-saw-great-american-solar-eclipse.html ) | August 31, 2017 |
 | [NASA Probe Sees Great American Solar Eclipse from the Moon (Photo) / Space](https://www.space.com/37979-solar-eclipse-2017-nasa-moon-probe-photo.html ) | August 29, 2017 |
+| [Eclipse Watchers in California Reportedly Put Sunscreen on Their Eyeballs / Live Science](https://www.livescience.com/60249-eclipse-watchers-put-sunscreen-on-eyeballs.html ) | August 28, 2017 |
 | [Eclipse Watchers in California Reportedly Put Sunscreen on Their Eyeballs / Space](https://www.livescience.com/60249-eclipse-watchers-put-sunscreen-on-eyeballs.html ) | August 28, 2017 |
+| [How I Calculated Where the Solar Eclipse and My Plane Would Intersect / Live Science](https://www.livescience.com/60229-how-to-calculate-where-eclipse-airplane-intersect.html ) | August 25, 2017 |
 | [How I Calculated Where the Solar Eclipse and My Plane Would Intersect / Space](https://www.livescience.com/60229-how-to-calculate-where-eclipse-airplane-intersect.html ) | August 25, 2017 |
-| [Space.com Staffers Experience the Total Solar Eclipse / Space](https://www.space.com/37946-reactions-to-the-total-solar-eclipse.html ) | August 25, 2017 |
+| [Space\.com Staffers Experience the Total Solar Eclipse / Space](https://www.space.com/37946-reactions-to-the-total-solar-eclipse.html ) | August 25, 2017 |
+| [Will Your Solar Eclipse Glasses Still Be Safe to Use in 2024? / Live Science](https://www.livescience.com/60237-do-solar-eclipse-glasses-expire.html ) | August 25, 2017 |
 | [Post-Eclipse, Moon Encounters Another Star (Plus Jupiter) Friday Evening / Space](https://www.space.com/37949-moon-jupiter-spica-friday-evening-sky.html ) | August 25, 2017 |
 | [Satellites Spy 2017 Solar Eclipse from Space (Videos) / Space](https://www.space.com/37917-2017-solar-eclipse-satellite-views-videos.html ) | August 25, 2017 |
 | [Total Solar Eclipse Leaves Southern Illinois College Town in Awe / Space](https://www.livescience.com/60202-total-solar-eclipse-2017-carbondale-reactions.html ) | August 24, 2017 |
 | [The Solar Eclipse Had a Spooky Effect on Nature / Space](https://www.livescience.com/60207-how-animals-responded-to-the-eclipse.html ) | August 24, 2017 |
-| [Stunning Photo Shows Total Solar Eclipse's March Across Oregon Sky / Space](https://www.livescience.com/60209-stunning-total-solar-eclipse-composite-photo.html ) | August 24, 2017 |
-| [What Blackout? How Solar-Reliant Power Grids Passed the Eclipse Test / Space](https://theconversation.com/what-blackout-how-solar-reliant-power-grids-passed-the-eclipse-test-82825 ) | August 22, 2017 |
-| [What blackout? How solar-reliant power grids passed the eclipse test](https://theconversation.com/what-blackout-how-solar-reliant-power-grids-passed-the-eclipse-test-82825 ) | August 22, 2017 3:18pm EDT |
-| [An Eclipse First: Wingsuit Skydivers Take Flight During Total Solar Eclipse (Video) / Space](https://www.space.com/37928-total-solar-eclipse-wingsuit-dive.html ) | August 24, 2017 |
 | [An Eclipse First: Wingsuit Skydivers Take Flight During Total Solar Eclipse (Video) / Space](https://www.space.com/37928-total-solar-eclipse-wingsuit-dive.html ) | August 24, 2017 |
 | [Solar Power Dipped Along Great American Solar Eclipse Path (Video) / Space](https://www.space.com/37923-great-american-solar-eclipse-power-dipped-video.html ) | August 24, 2017 |
+| [Stunning Photo Shows Total Solar Eclipse's March Across Oregon Sky / Live Science](https://www.livescience.com/60209-stunning-total-solar-eclipse-composite-photo.html ) | August 23, 2017 |
+| ['My Eyes Feel Funny': Google Searches for Symptoms Spike After Eclipse / Live Science](https://www.livescience.com/60212-eclipse-google-searches.html ) | August 23, 2017 |
+| [Dazzling Lightning Flashes Captured in Solar Eclipse's Shadow / Live Science](https://www.livescience.com/60208-lightning-flashes-in-eclipse-shadow-photos.html ) | August 23, 2017 |
 | [Here Are the Most Amazing Photos and Videos of the 2017 Solar Eclipse / Space](https://www.space.com/33797-total-solar-eclipse-2017-guide.html ) | **August 23, 2017** |
+| [What Blackout? How Solar-Reliant Power Grids Passed the Eclipse Test / Space](https://theconversation.com/what-blackout-how-solar-reliant-power-grids-passed-the-eclipse-test-82825 ) | August 22, 2017 |
+| [What blackout? How solar-reliant power grids passed the eclipse test](https://theconversation.com/what-blackout-how-solar-reliant-power-grids-passed-the-eclipse-test-82825 ) | August 22, 2017 3:18pm EDT |
 | [Behold! The First Megamovie of the 2017 Solar Eclipse / Space](https://www.space.com/37872-first-total-solar-eclipse-2017-megamovie.html ) | August 22, 2017 |
 | [What to Do with Your Eclipse Glasses / Space](https://www.livescience.com/60200-how-to-reuse-eclipse-glasses.html ) | August 22, 2017 |
 | [Call Her 'Eclipse': Baby Girl Born on Aug. 21 Gets a Fitting Name / Space](https://www.space.com/37908-baby-named-after-total-solar-eclipse.html ) | August 22, 2017 |
@@ -258,8 +328,13 @@
 | [See the Latest Videos of the 2017 Total Solar Eclipse, From Across the U.S. / Space](https://www.space.com/37858-latest-videos-of-solar-eclipse-2017.html ) | August 22, 2017 |
 | [Cliff Divers Plunge into Oregon Water Tank During Total Solar Eclipse / Space](https://www.livescience.com/60196-cliff-divers-during-total-solar-eclipse.html ) | August 22, 2017 |
 | ['Mr. Eclipse' Explains Why the 2017 Total Solar Eclipse Is Special / Space](https://www.space.com/37898-total-eclipse-in-casper-wyoming-fred-espenak.html ) | August 22, 2017 |
-| [Eclipse 2017 — NASA](https://eclipse2017.nasa.gov/ ) |  |
+| [Total Solar Eclipse Leaves Southern Illinois College Town in Awe / Live Science](https://www.livescience.com/60202-total-solar-eclipse-2017-carbondale-reactions.html ) | August 22, 2017 |
 | [After 'Super Bowl of Eclipses,' US Looks Forward to 2024 Total Solar Eclipse / Space](https://www.space.com/37877-total-solar-eclipse-returns-to-us-in-2024.html ) | August 22, 2017 |
+| [Solar Eclipse Is Backdrop for Breathtaking Dives (Photos) / Live Science](https://www.livescience.com/60201-eclipse-diver-photos.html ) | August 22, 2017 |
+| [The Solar Eclipse Had a Spooky Effect on Nature / Live Science](https://www.livescience.com/60207-how-animals-responded-to-the-eclipse.html ) | August 22, 2017 |
+| [What to Do with Your Eclipse Glasses / Live Science](https://www.livescience.com/60200-how-to-reuse-eclipse-glasses.html ) | August 22, 2017 |
+| [Eclipse Watchers' Plane Crashes on Return Trip / Live Science](https://www.livescience.com/60205-plane-crash-eclipse-return.html ) | August 22, 2017 |
+| [I Used Solar Eclipse Glasses, So Why Do My Eyes Feel Funny? / Live Science](https://www.livescience.com/60206-eyes-feel-funny-after-solar-eclipse.html ) | August 22, 2017 |
 | [The Most Amazing 2017 Total Solar Eclipse Photos Taken From Space / Space](https://www.space.com/37876-best-solar-eclipse-2017-photos-from-space.html ) | August 21, 2017 |
 | [NASA's Best Photos of the Total Solar Eclipse of 2017 / Space](https://www.space.com/37874-best-solar-eclipse-2017-photos-by-nasa.html ) | August 21, 2017 |
 | [Here Are 2017 Solar Eclipse Photos From Instagram, Twitter and the Web / Space](https://www.space.com/37857-amateur-photos-of-solar-eclipse-2017.html ) | August 21, 2017 |
@@ -281,8 +356,21 @@
 | [Total Solar Eclipse Transforms Illinois Town Into a Celestial Super Bowl / Space](https://www.livescience.com/60182-2017-total-solar-eclipse-excitement-builds.html ) | August 21, 2017 |
 | [Google Doodle Celebrates the Historic Great American Solar Eclipse / Space](https://www.space.com/37887-google-doodle-solar-eclipse-2017.html ) | August 21, 2017 |
 | [Can You Photograph the Solar Eclipse With Your Phone or Tablet? / Space](https://www.space.com/37891-photograph-solar-eclipse-with-cell-phone.html ) | August 21, 2017 |
+| [Great American Eclipse Casts Shadow over Great American Desert / Live Science](https://www.livescience.com/60197-total-solar-eclipse-great-american-desert.html ) | August 21, 2017 |
 | [The Great American Solar Eclipse of 2017 Is Happening Today / Space](https://www.space.com/37867-solar-eclipse-2017-occurs-today.html ) | August 21, 2017 |
+| [Did the Solar Eclipse Damage Your Eyes? Here's How to Tell / Live Science](https://www.livescience.com/60198-did-solar-eclipse-harm-your-eyes.html ) | August 21, 2017 |
+| [Trump Stares at the Sun During the Eclipse: Will It Harm His Eyes? / Live Science](https://www.livescience.com/60195-trump-stares-at-solar-eclipse-no-glasses.html ) | August 21, 2017 |
 | [Our Favorite Total Solar Eclipses from Movies and TV / Space](https://www.space.com/37866-total-solar-eclipses-in-movies-and-tv.html ) | August 21, 2017 |
+| [The Total Eclipse on Science Twitter / Live Science](https://www.livescience.com/60194-science-twitter-reacts-to-eclipse.html ) | August 21, 2017 |
+| [Watch the International Space Station Cross Over the Eclipsed Sun / Live Science](https://www.livescience.com/60193-iss-transits-eclipsed-sun.html ) | August 21, 2017 |
+| [Plane Crashes Near Madras, Eclipse 'Hot Spot' / Live Science](https://www.livescience.com/60192-plane-crash-madras-solar-eclipse.html ) | August 21, 2017 |
+| [Hawaii Says Aloha to the Solar Eclipse / Live Science](https://www.livescience.com/60191-hawaii-says-aloha-to-solar-eclipse.html ) | August 21, 2017 |
+| [The Eclipse Will Reveal the Sun's Scientific Secrets / Live Science](https://www.livescience.com/60190-why-solar-eclipses-help-science.html ) | August 21, 2017 |
+| [Photos: 2017 Great American Solar Eclipse / Live Science](https://www.livescience.com/60189-in-photos-2017-great-american-solar-eclipse.html ) | August 21, 2017 |
+| [See Gorgeous Eclipse Corona Simulations / Live Science](https://www.livescience.com/60188-eclipse-corona-simulations.html ) | August 21, 2017 |
+| [Traffic Clogs Roads in Prime Solar Eclipse Viewing Sites / Live Science](https://www.livescience.com/60177-traffic-clogs-roads-for-solar-eclipse.html ) | August 21, 2017 |
+| [Crossroads of the Solar Eclipse: Best Photos from Carbondale 2017 / Live Science](https://www.livescience.com/60185-solar-eclipse-2017-carbondale-photos.html ) | August 21, 2017 |
+| [Total Solar Eclipse Transforms Illinois Town Into a Celestial Super Bowl / Live Science](https://www.livescience.com/60182-2017-total-solar-eclipse-excitement-builds.html ) | August 21, 2017 |
 | [Here's a Final Weather Update for Solar Eclipse Day (Aug. 21, 2017) / Space](https://www.space.com/37889-weather-for-aug-21-eclipse.html ) | August 20, 2017 |
 | [The Sun Is Literally Boiling, Releasing Balls of 'Hot Horror' Into Space / Space](https://www.space.com/37882-solar-weather-explained.html ) | August 20, 2017 |
 | [Spotlight on Carbondale: Illinois Town Sits at Solar Eclipse 'Crossroads' / Space](https://www.livescience.com/60179-carbondale-illinois-solar-eclipse-crossroads.html ) | August 20, 2017 |
@@ -291,7 +379,8 @@
 | [Tips for Safe Eclipse Viewing…from Someone Who Learned the Hard Way / Space](https://www.space.com/37883-cataracts-from-looking-at-the-sun.html ) | August 20, 2017 |
 | [Why the Human Eye Sees a Total Solar Eclipse Better Than a Camera / Space](https://www.space.com/37881-how-the-eye-sees-an-eclipse.html ) | August 20, 2017 |
 | [Why an Eclipse Is Better Viewed from Earth: An Astronaut's Perspective / Space](https://www.space.com/37864-seeing-an-eclipse-from-space.html ) | August 20, 2017 |
-| [Why an Eclipse Is Better Viewed from Earth: An Astronaut's Perspective / Space](https://www.space.com/37864-seeing-an-eclipse-from-space.html ) | August 20, 2017 |
+| [Spotlight on Carbondale: Illinois Town Sits at Solar Eclipse 'Crossroads' / Live Science](https://www.livescience.com/60179-carbondale-illinois-solar-eclipse-crossroads.html ) | August 20, 2017 |
+| [2017 Total Solar Eclipse: Everything You Need to Know / Live Science](https://www.livescience.com/60159-total-solar-eclipse-2017-guide.html ) | August 20, 2017 |
 | [Solar Eclipse 2017 in Idaho: Totality From Rexburg / Space](https://www.space.com/37855-solar-eclipse-2017-in-rexburg.html ) | August 19, 2017 |
 | [How Long Will the 2017 Solar Eclipse Last? Depends Where You Are / Space](https://www.space.com/36388-total-solar-eclipse-2017-duration.html ) | August 19, 2017 |
 | [Get Ready for Major Traffic Jams During the 2017 Solar Eclipse / Space](https://www.space.com/37234-expect-solar-eclipse-traffic-jams.html ) | August 19, 2017 |
@@ -300,8 +389,13 @@
 | [Bonnie Tyler Will Sing 'Total Eclipse of the Heart' During the Actual Total Solar Eclipse / Space](https://www.space.com/37879-bonnie-tyler-solar-eclipse-2017.html ) | August 19, 2017 |
 | [Music for a Solar Eclipse: Kronos Quartet Will Serenade the Event in Real Time / Space](https://www.space.com/37845-kronos-quartet-serenades-total-solar-eclipse.html ) | August 19, 2017 |
 | [50 Years of Solar Eclipses from Space In Astronaut Photos / Space](http://www.collectspace.com/news/news-081617a-total-solar-eclipse-from-space-astronauts.html ) | August 19, 2017 |
-| [Turn Your Smartphone into an Eclipse Tool Kit with Essential Apps / Space](https://www.space.com/37840-smartphone-eclipse-toolkit-mobile-apps.html ) | August 19, 2017 |
 | [How Astronomers Use Eclipses to Discover Alien Worlds / Space](https://www.space.com/37836-eclipses-help-uncover-alien-worlds.html ) | August 19, 2017 |
+| [Turn Your Smartphone into an Eclipse Tool Kit with Essential Apps / Space](https://www.space.com/37840-smartphone-eclipse-toolkit-mobile-apps.html ) | August 19, 2017 |
+| [Here's How to Watch the Great American Solar Eclipse Live / Live Science](https://www.livescience.com/60178-total-solar-eclipse-2017-watch-live.html ) | August 19, 2017 |
+| [Man Who Suffered Eye Damage from Solar Eclipse Has This Warning / Live Science](https://www.livescience.com/60173-solar-eclipse-eye-damage-warning.html ) | August 18, 2017 |
+| [Will animals freak out during the April 8 total solar eclipse? / Live Science](https://www.livescience.com/60172-weird-animal-responses-to-solar-eclipse.html ) | August 18, 2017 |
+| [Why You Need Eclipse Glasses: Girl Damages Eyes by Staring at the Sun / Live Science](https://www.livescience.com/60170-girl-damages-vision-looking-at-sun.html ) | August 18, 2017 |
+| [How to Explain the Total Solar Eclipse to Your Kids / Live Science](https://www.livescience.com/60167-how-to-explain-total-solar-eclipse-to-kids.html ) | August 18, 2017 |
 | [Here's a Weather Update for Solar Eclipse Day (Aug. 21, 2017) / Space](https://www.space.com/37852-weather-for-aug-21-eclipse.html ) | August 18, 2017 |
 | [How a Space.com Columnist Convinced an Airline to Chase the Eclipse / Space](https://www.space.com/37849-alaska-airlines-eclipse-chasing-flights.html ) | August 18, 2017 |
 | [Going to See the Solar Eclipse? Share Your Story with Space.com! / Space](https://www.space.com/37851-share-your-solar-eclipse-2017-story.html ) | August 18, 2017 |
@@ -315,6 +409,13 @@
 | [Don't Bother Neil deGrasse Tyson During the Solar Eclipse / Space](https://www.space.com/37824-neil-degrasse-tyson-hiding-for-eclipse.html ) | August 17, 2017 |
 | [The Author of 'Sun Moon Earth' Explains the Science of Solar Eclipses / Space](https://www.space.com/37817-interview-with-eclipse-author-tyler-nordgren.html ) | August 17, 2017 |
 | [Your Soundtrack to the 2017 Total Solar Eclipse / Space](https://www.space.com/37823-total-solar-eclipse-playlist.html ) | August 17, 2017 |
+| [Solar Eclipse Injury Risk: Doctors Brace for Rise in ER Visits / Live Science](https://www.livescience.com/60165-solar-eclipse-er-visits.html ) | August 17, 2017 |
+| [Solar Eclipse-Chasing Jets Aim to Solve Mystery of Sun's Corona / Live Science](https://www.livescience.com/60161-solar-eclipse-chasing-jets-study-corona.html ) | August 17, 2017 |
+| [In Photos: Eclipse-Chasing Jets Aim to Get Best-Ever View of Sun's Corona / Live Science](https://www.livescience.com/60143-solar-eclipse-chasing-jets-photos.html ) | August 17, 2017 |
+| [Why Plasma Is the Crown of the Solar Eclipse / Live Science](https://www.livescience.com/60160-plasma-is-crown-of-solar-eclipse.html ) | August 17, 2017 |
+| [Why Flat-Earthers and Science Deniers Can't Dispute the Eclipse / Live Science](https://theconversation.com/eclipse-of-reason-why-do-people-disbelieve-scientists-81068 ) | August 17, 2017 |
+| [For the Great American Solar Eclipse, Leave Your Camera at Home / Live Science](https://www.livescience.com/60155-do-not-photograph-total-solar-eclipse.html ) | August 17, 2017 |
+| [Ancient Greeks Built an Eclipse-Predicting 'Computer' 2,000 Years Ago / Live Science](https://www.livescience.com/60144-antikythera-computer-predicted-eclipses.html ) | August 17, 2022 |
 | [These Filmmakers Are Shooting a Western During the Solar Eclipse / Space](https://www.space.com/37821-movie-being-shot-during-solar-eclipse.html ) | August 16, 2017 |
 | [Total View: A Brief History of Solar Eclipses Seen From Space / Space](http://www.collectspace.com/news/news-081617a-total-solar-eclipse-from-space-astronauts.html ) | August 16, 2017 |
 | [How Solar Eclipses and Tides Proved the Earth Is Slowing Down / Space](https://www.space.com/37812-connection-between-tides-and-eclipses.html ) | August 16, 2017 |
@@ -324,7 +425,6 @@
 | [Totally Awesome T-Shirts to Remember the 2017 Solar Eclipse / Space](https://www.space.com/37794-solar-eclipse-2017-t-shirts.html ) | August 16, 2017 |
 | [The Amazing Mechanics of How and When Solar Eclipses Occur / Space](https://www.space.com/37801-the-math-and-physics-of-solar-eclipses.html ) | August 16, 2017 |
 | [Help Make an 'Eclipse Megamovie' Using Your Smartphone / Space](https://www.space.com/37814-total-solar-eclipse-science-smartphone-megamovie.html ) | August 16, 2017 |
-| [Scientist at work: Why this meteorologist is eager for an eclipse](https://theconversation.com/scientist-at-work-why-this-meteorologist-is-eager-for-an-eclipse-80636 ) | August 7, 2017 8:57pm EDT |
 | [Solar Eclipse Photography Is About Trial and Error, Says This Astro-Pro / Space](https://www.space.com/37769-solar-eclipse-photography-trial-and-error.html ) | August 15, 2017 |
 | [Solar Eclipses Through the Ages: From (Possible) Beheadings to Science / Space](https://www.space.com/37790-historic-and-prehistoric-solar-eclipse-records.html ) | August 15, 2017 |
 | [These Satellites Will Watch the 2017 Total Solar Eclipse from Space / Space](https://www.space.com/37778-satellites-watching-the-2017-solar-eclipse.html ) | August 15, 2017 |
@@ -333,12 +433,18 @@
 | [Yes, the Solar Eclipse Is Worth the Hype (Trust Those Who Have Seen One) / Space](https://www.space.com/37791-go-see-the-solar-eclipse-in-person.html ) | August 15, 2017 |
 | [Record-Breaking Astronaut Peggy Whitson Talks About Space Travel & a Solar Eclipse / Space](https://www.space.com/37796-astronaut-peggy-whitson-space-station-interview.html ) | August 15, 2017 |
 | [Why This Meteorologist Is Eager for the Total Solar Eclipse / Space](https://theconversation.com/scientist-at-work-why-this-meteorologist-is-eager-for-an-eclipse-80636 ) | August 15, 2017 |
+| [Afraid of the Dark? Why Eclipses Frightened Ancient Civilizations / Live Science](https://www.livescience.com/60139-why-eclipses-frightened-ancient-civilizations.html ) | August 15, 2017 |
+| [Sky-High Solar Eclipse? Here's What You Might See from an Airplane / Live Science](https://www.livescience.com/60138-watch-solar-eclipse-from-airplane.html ) | August 15, 2017 |
+| [Total Eclipse, Partial Failure: Tales of Scientific Missions Gone Bad / Live Science](https://www.livescience.com/60136-historical-solar-eclipse-expedition-misses.html ) | August 15, 2017 |
 | [Four More Solar Eclipses Will Be Visible in the U.S. This Century / Space](https://www.space.com/37792-upcoming-solar-eclipses-after-2017.html ) | August 14, 2017 |
 | [Ancient Pueblo Rock Art Depicts a 'Celebratory' Solar Eclipse / Space](https://www.livescience.com/60129-ancient-rock-art-depicts-solar-eclipse.html ) | August 14, 2017 |
 | [What To Do If Your Solar Eclipse Glasses Won't Arrive in Time / Space](https://www.space.com/37793-eclipse-glasses-not-arriving-in-time.html ) | August 14, 2017 |
 | [Total Solar Eclipse Giveaway: Win This Canon DSLR Kit Worth $1,099 / Space](https://www.tomsguide.com/us/eclipse-camera-giveaway-canon,news-25640.html ) | August 14, 2017 |
 | [One Week Until the 2017 Solar Eclipse! Here Are Some Last-Minute Tips / Space](https://www.space.com/37779-one-week-until-total-solar-eclipse.html ) | August 14, 2017 |
 | [Here Are the Best Maps of the 2017 Solar Eclipse (and a Printable Poster) / Space](https://www.space.com/37772-solar-eclipse-2017-maps.html ) | August 14, 2017 |
+| [Ancient Pueblo Rock Art Depicts a 'Celebratory' Solar Eclipse / Live Science](https://www.livescience.com/60129-ancient-rock-art-depicts-solar-eclipse.html ) | August 14, 2017 |
+| [How Benjamin Franklin Spread Science on 'Supernatural' Solar Eclipses / Live Science](https://theconversation.com/eclipsing-the-occult-in-early-america-benjamin-franklin-and-his-almanacs-80309 ) | August 13, 2017 |
+| [In Photos: Ancient Rock Art Depicts Total Solar Eclipse in Chaco Canyon / Live Science](https://www.livescience.com/60128-photos-chaco-canyon-solar-eclipse-petroglyph.html ) | August 14, 2017 |
 | [Report: Amazon Refunding Customers Who Bought Suspect Solar Eclipse Glasses / Space](https://www.space.com/37781-amazon-solar-eclipse-glasses-refunds.html ) | August 13, 2017 |
 | [Why the Total Solar Eclipse Arrives from the West / Space](https://www.space.com/37774-total-solar-eclipse-moves-west-to-east.html ) | August 13, 2017 |
 | [Pic-Based Eclipse Flyer Shares Safety with Non-English Speakers / Space](https://www.space.com/37757-solar-eclipse-safety-for-all-language-speakers.html ) | August 13, 2017 |
@@ -349,29 +455,38 @@
 | [In 1925, Observers Lined Manhattan to Measure the Total Solar Eclipse / Space](https://www.space.com/37764-new-york-city-1925-total-eclipse.html ) | August 11, 2017 |
 | [How to build your own solar eclipse viewer / Space](https://www.livescience.com/33906-solar-eclipse-viewer.html ) | August 11, 2017 |
 | [What It's Like Watching a Solar Eclipse From a Plane / Space](https://www.space.com/37739-watching-solar-eclipse-from-a-plane.html ) | August 11, 2017 |
+| [Last Day to Order Eclipse Glasses from Amazon Via Ground Shipping / Live Science](https://www.livescience.com/60112-order-eclipse-glasses-from-amazon.html ) | August 11, 2017 |
 | [Visualize the Total Solar Eclipse with NASA's 3D App / Space](https://www.space.com/37768-total-solar-eclipse-nasa-3d-simulation.html ) | August 11, 2017 |
 | [A Brief History of Solar Eclipses, From 1900 to 2017 (Gallery) / Space](https://www.space.com/37762-history-of-solar-eclipses-since-1900.html ) | August 10, 2017 |
 | [Making Artificial Eclipses Using Spacecraft Might Help Us Find New Worlds / Space](https://www.seeker.com/space/astronomy/making-artificial-eclipses-using-spacecraft-might-help-us-find-new-worlds ) | August 10, 2017 |
+| [Can a Solar Eclipse Really Blind You? / Live Science](https://www.livescience.com/20433-solar-eclipse-blind.html ) | August 10, 2017 |
 | [Spotting Stars, Planets and More during Eclipse Totality Using Mobile Apps / Space](https://www.space.com/37742-spot-stars-planets-eclipse-mobile-apps.html ) | August 10, 2017 |
 | ['Eclipse Across America' Series Offers Preview of 2017 Total Solar Eclipse / Space](https://www.space.com/37750-eclipse-across-america-documentary.html ) | August 10, 2017 |
 | [Get a Free, Kid-Friendly Eclipse Booklet from Bill Nye and the National Parks / Space](https://www.space.com/37749-free-kids-solar-eclipse-activity-booklet.html ) | August 10, 2017 |
+| [Why This Meteorologist Is Eager for the Total Solar Eclipse / Live Science](https://theconversation.com/scientist-at-work-why-this-meteorologist-is-eager-for-an-eclipse-80636 ) | August 10, 2017 |
+| [Myths Aside, Eclipses Don't Endanger Pregnancies / Live Science](https://www.livescience.com/60102-myths-aside-eclipses-don-t-endanger-pregnancies.html ) | August 10, 2017 |
 | [Partial Lunar Eclipse: A Prequel to the 2017 Total Solar Eclipse (Photos) / Space](https://www.space.com/37743-partial-lunar-eclipse-august-2017-photos.html ) | August 9, 2017 |
+| [Eclipses Were Regarded As Omens in the Ancient World / Live Science](https://theconversation.com/how-eclipses-were-regarded-as-omens-in-the-ancient-world-81248 ) | August 9, 2017 |
 | [Eclipse Phenomena: What to Watch For / Space](https://www.space.com/37744-eclipse-phenomena.html ) | August 8, 2017 |
 | [Facebook Live Giveaway Wednesday: 'Space Racers' Eclipse Kit for the Family / Space](https://www.space.com/37740-space-racers-solar-eclipse-kit-giveaway.html ) | August 8, 2017 |
 | [The Best ISO-Certified Gear to See the 2017 Solar Eclipse / Space](https://www.space.com/37262-solar-eclipse-gear.html ) | August 8, 2017 |
 | [First Time Seeing a Total Solar Eclipse? Check Out This Video from NASA / Space](https://www.space.com/37734-nasa-first-total-solar-eclipse-video.html ) | August 8, 2017 |
 | [Eclipse Superstitions Are a Thing of the Past, and the Present / Space](https://www.space.com/37727-eclipse-superstitions-then-and-now.html ) | August 8, 2017 |
 | [Total Solar Eclipse: If You Can't See It Live, Use Virtual Reality with Volvo, CNN / Space](https://www.space.com/37733-watch-total-solar-eclipse-virtual-reality-volvo-cnn.html ) | August 8, 2017 |
+| [Scientist at work: Why this meteorologist is eager for an eclipse](https://theconversation.com/scientist-at-work-why-this-meteorologist-is-eager-for-an-eclipse-80636 ) | August 7, 2017 8:57pm EDT |
 | [Do Other Planets Have Solar Eclipses? / Space](https://www.livescience.com/60037-do-other-planets-have-solar-eclipses.html ) | August 7, 2017 |
 | [The Great American Eclipse Is 2 Weeks Away. Are You Ready? / Space](https://www.space.com/37726-solar-eclipse-2017-2-weeks-away.html ) | August 7, 2017 |
 | [Slooh to Webcast Partial Lunar Eclipse Today Ahead of 2017 Solar Eclipse / Space](https://www.space.com/37728-partial-lunar-eclipse-august-2017-webcast.html ) | August 7, 2017 |
+| [NASA's Total Solar Eclipse Maps (Photos) / Live Science](https://www.livescience.com/60030-total-solar-eclipse-maps-totality-path.html ) | August 7, 2017 |
 | [Prelude to the 2017 Total Solar Eclipse: A Partial Lunar Eclipse Occurs Monday / Space](https://www.space.com/37717-lunar-eclipse-prelude-to-2017-solar-eclipse.html ) | August 6, 2017 |
+| [Do other planets have solar eclipses? / Live Science](https://www.livescience.com/60037-do-other-planets-have-solar-eclipses.html ) | August 5, 2017 |
 | [Science-Savvy Grandparents Explain Solar Eclipse in New Children's Book / Space](https://www.space.com/37693-kids-book-explains-2017-solar-eclipse.html ) | August 4, 2017 |
 | [Revealed: What the Sun's Outer Atmosphere Will Look Like During the Total Solar Eclipse / Space](https://www.space.com/37710-total-solar-eclipse-structure-sun-corona.html ) | August 4, 2017 |
 | [Eclipse Overload: What If the Sun Were Blocked for Years? / Space](https://www.livescience.com/60004-what-if-sun-blocked-years.html ) | August 3, 2017 |
 | [How to Tell if Your Eclipse Glasses Are Unsafe (and What To Do About It) / Space](https://www.space.com/37698-solar-eclipse-glasses-safety-check.html ) | August 2, 2017 |
 | [August 2017 Brings Perseid Meteor Shower, and a Lunar and Total Solar Eclipse! / Space](https://www.space.com/37677-perseids-lunar-and-solar-eclipse-august-2017.html ) | August 1, 2017 |
 | [Watch: This 'Total Eclipse of the Heart' Parody for the 2017 Solar Eclipse Is Awesome / Space](https://www.space.com/37675-warby-parker-total-solar-eclipse-parody.html ) | August 1, 2017 |
+| [Eclipse Overload: What If the Sun Were Blocked for Years? / Live Science](https://www.livescience.com/60004-what-if-sun-blocked-years.html ) | August 1, 2017 |
 | [Awe, Luck and the Science of Eclipses: Q&A with Tyler Nordgren / Space](https://www.space.com/37659-awe-luck-eclipse-science-tyler-nordgren.html ) | July 31, 2017 |
 | [Gorgeous 2017 Solar Eclipse Posters by Astronomer-Artist Tyler Nordgren (Gallery) / Space](https://www.space.com/37670-tyler-nordgren-solar-eclipse-2017-posters-gallery.html ) | July 31, 2017 |
 | [Fake Solar Eclipse Glasses Are Flooding the Market: How to Stay Safe / Space](https://www.space.com/37673-beware-fake-solar-eclipse-glasses.html ) | July 31, 2017 |
@@ -386,7 +501,9 @@
 | [In Images: Solar Eclipses Depicted in Fine Art / Space](https://www.livescience.com/59890-solar-eclipses-in-fine-art-images.html ) | July 27, 2017 |
 | [7 of the Best Total Solar Eclipse Apps for Aug. 21 / Space](https://www.space.com/37568-best-total-solar-eclipse-apps.html ) | July 26, 2017 |
 | [How to Prep for Totality with New Eclipse Safari Mobile App / Space](https://www.space.com/37610-prep-for-totality-eclipse-safari-app.html ) | July 26, 2017 |
+| [Upcoming Solar Eclipse Is a Chance to Prove Einstein Right (Again) / Live Science](https://www.livescience.com/59940-solar-eclipse-einstein-theory-of-general-relativity.html ) | July 26, 2017 |
 | [Reading, Writing and Eclipse-Watching: How We Got Our Students Excited About Aug. 21 (Op-Ed) / Space](https://www.space.com/37591-getting-students-excited-for-2017-solar-eclipse.html ) | July 25, 2017 |
+| [In Images: Solar Eclipses Depicted in Fine Art / Live Science](https://www.livescience.com/59890-solar-eclipses-in-fine-art-images.html ) | July 25, 2017 |
 | [NASA Wants YOU to Be a Citizen Scientist for the 2017 Total Solar Eclipse / Space](https://www.space.com/37604-nasa-citizen-scientist-solar-eclipse-app.html ) | July 24, 2017 |
 | [Where to See the 2017 Total Solar Eclipse, State by State / Space](https://www.space.com/35495-where-to-see-2017-total-solar-eclipse.html ) |  (two pages) July 24, 2017 |
 | [Kids Can Prep for Total Solar Eclipse with 'Space Racer's Site / Space](https://www.space.com/37584-space-racers-solar-eclipse-website-for-kids.html ) | July 23, 2017 |
@@ -395,16 +512,23 @@
 | [Eclipse Day Craziness Could Resemble the Zombie Apocalypse — Are You Ready? / Space](https://www.space.com/37564-solar-eclipse-2017-one-month-away-anticipation.html ) | July 21, 2017 |
 | [Enjoy an Eclipse Safari! Total Solar Eclipse App Features Interactive Map and Space.com News / Space](https://www.space.com/37554-solar-eclipse-app-interactive-map-and-news.html ) | July 20, 2017 |
 | [Watching the Eclipse? Why Sunglasses Won't Cut It / Space](https://www.livescience.com/59844-how-solar-eclipse-viewers-are-different-from-sunglasses.html ) | July 19, 2017 |
+| [Don’t Use Sunglasses to Watch the Solar Eclipse (You Can Go Blind!) / Live Science](https://www.livescience.com/59844-how-solar-eclipse-viewers-are-different-from-sunglasses.html ) | July 18, 2017 |
 | [My 1st Total Solar Eclipse: Looking Back on the July 1972 Event / Space](https://www.space.com/37428-total-solar-eclipse-memories-1972.html ) | July 10, 2017 |
+| [Christopher Columbus to Thailand's Kings: 11 Curious Eclipse Stories / Live Science](https://www.livescience.com/59720-curious-stories-about-eclipses.html ) | July 7, 2017 |
+| [10 Solar Eclipses That Changed Science / Live Science](https://www.livescience.com/59691-solar-eclipses-that-changed-science.html ) | July 5, 2017 |
+| [What Were the First Records of Solar Eclipses? / Live Science](https://www.livescience.com/59686-first-records-solar-eclipses.html ) | July 5, 2017 |
 | [What Were the First Records of Solar Eclipses? / Space](https://www.livescience.com/59686-first-records-solar-eclipses.html ) | July 5, 2017 |
+| [Has Anyone Ever Gone Blind from Staring at a Solar Eclipse? / Live Science](https://www.livescience.com/59663-how-solar-eclipses-make-people-go-blind.html ) | June 30, 2017 |
 | [Solar Eclipse 2017: Alaska Airlines Flight Will Offer View Above the Clouds / Space](https://www.space.com/37336-2017-solar-eclipse-alaska-airlines-flight.html ) | June 28, 2017 |
 | [Can Your Pet Go Blind from the Solar Eclipse? / Space](https://www.livescience.com/59628-how-solar-eclipse-will-affect-animals-pets.html ) | June 28, 2017 |
+| [Can Your Pet Go Blind from the Solar Eclipse? / Live Science](https://www.livescience.com/59628-how-solar-eclipse-will-affect-animals-pets.html ) | June 27, 2017 |
 | [Why Total Solar Eclipses Are Total Coincidences / Space](https://www.livescience.com/59608-why-total-solar-eclipses-are-coincidences.html ) | June 27, 2017 |
 | [Astronomers Without Borders Focuses on Bringing Eclipse Science to All / Space](https://www.space.com/37316-astronomers-without-borders-eclipse-education-program.html ) | June 27, 2017 |
 | [6 of the Best Places to See the Total Solar Eclipse of 2017 / Space](https://www.space.com/37317-best-places-to-see-2017-total-solar-eclipse.html ) | June 27, 2017 |
 | [New Mobile App from Exploratorium Museum Explores Solar Eclipse Science / Space](https://www.space.com/37311-exploratorium-eclipse-mobile-app.html ) | June 27, 2017 |
 | [2 Million Free Eclipse Glasses Coming to US Libraries / Space](https://www.space.com/37310-public-libraries-give-away-eclipse-glasses.html ) | June 26, 2017 |
 | [This Isn't the 1st Eclipse to Occur on Aug. 21, and It Won't Be the Last / Space](https://www.space.com/37305-august-21-eclipses.html ) | June 26, 2017 |
+| [Why Total Solar Eclipses Are Total Coincidences / Live Science](https://www.livescience.com/59608-why-total-solar-eclipses-are-coincidences.html ) | June 26, 2017 |
 | [Here's Where Space.com Staffers Will View the 2017 Solar Eclipse / Space](https://www.space.com/37298-heres-where-space-com-staffers-will-view-the-2017-solar-eclipse.html ) | June 23, 2017 |
 | [Will August's Eclipse Be Most Watched Ever? Totally / Space](https://www.space.com/37292-most-watched-eclipse.html ) | June 22, 2017 |
 | [Why Solar Eclipses Don't Happen Every Month (Animation) / Space](https://www.space.com/37269-why-solar-eclipse-arent-every-month-animation.html ) | June 21, 2017 |
@@ -425,6 +549,7 @@
 | [California Prepares for Solar Power Loss During the Great Eclipse / Space](https://www.livescience.com/59412-total-eclipse-will-affect-solar-energy-production.html ) | June 8, 2017 |
 | [Solar eclipses: Latest photos, science and forecast / Space](https://www.space.com/tag/solar-eclipses ) | June 8, 2017 |
 | [Don't Let an Old Myth Prevent Your Child from Seeing the Solar Eclipse / Space](https://www.space.com/37124-teaching-kids-about-solar-eclipses.html ) | June 8, 2017 |
+| [California Prepares for Solar Power Loss During the Great Eclipse / Live Science](https://www.livescience.com/59412-total-eclipse-will-affect-solar-energy-production.html ) | June 8, 2017 |
 | [Carbondale, Illinois Prepares to Broadcast 2017 Eclipse Nationally / Space](https://www.space.com/37012-solar-eclipse-2017-in-carbondale-illinois.html ) | June 1, 2017 |
 | [Solar Eclipse Science Helps Prove Einstein's Relativity Theory in Nat Geo's 'Genius' / Space](https://www.space.com/37016-natgeo-genius-solar-eclipse.html ) | May 30, 2017 |
 | [Amazing Solar Eclipse Pictures from Around the World / Space](https://www.space.com/36978-most-amazing-solar-eclipse-photos-worldwide.html ) | May 29, 2017 |
@@ -457,6 +582,7 @@
 | ['Ring of Fire' Eclipse Will Be Visible from Southern Hemisphere Sunday / Space](https://www.space.com/35821-ring-of-fire-eclipse-visible-sunday.html ) | February 24, 2017 |
 | [Eclipse Party! 13 Solar Eclipse Celebrations Across the U.S / Space](https://www.space.com/35762-solar-eclipse-viewing-parties.html ) | February 21, 2017 |
 | [The 8 Most Famous Solar Eclipses in History / Space](https://www.livescience.com/57865-famous-solar-eclipses.html ) | February 16, 2017 |
+| [The 8 Most Famous Solar Eclipses in History / Live Science](https://www.livescience.com/57865-famous-solar-eclipses.html ) | February 13, 2017 |
 | [Look Up Friday: Green Comet and Snow Moon Eclipse Team Up for Skywatchers / Space](https://www.space.com/35652-green-comet-snow-moon-eclipse-friday.html ) | February 9, 2017 |
 | [Dark Science: Total Eclipse Gives Researchers Brief Window / Space](https://www.space.com/35630-total-solar-eclipse-scientists-scrambled.html ) | February 9, 2017 |
 | [Company to Launch Crewed 2017 Solar Eclipse Balloon Flight, High-Altitude Skydive / Space](https://www.space.com/35621-2017-solar-eclipse-balloon-flight-skydive-kickstarter.html ) | February 8, 2017 |
