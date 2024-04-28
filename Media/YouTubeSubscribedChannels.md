@@ -32,13 +32,13 @@
 | [Off Leash K9 Columbia, SC LLC](https://youtube.com/@offleashk9columbiascllc626 ) | Dogs |
 | [SmarterEveryDay](https://youtube.com/@smartereveryday ) | Education |
 | [Smithsonian National Air and Space Museum](https://youtube.com/@airandspace ) | Education |
-| [South Carolina Gamecocks](https://youtube.com/@GamecocksOnline ) | Education |
 | [University of South Carolina](https://youtube.com/@UofSC ) | Education |
 | [Fran Blanche](https://youtube.com/@FranLab ) | Electronics |
 | [Geerling Engineering](https://youtube.com/@GeerlingEngineering ) | Electronics |
 | [Jeri Ellsworth](https://youtube.com/@jeriellsworth ) | Electronics |
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
+| [Practical Engineering](https://youtube.com/@PracticalEngineeringChannel? ) | Engineering | 2024-04-28 |
 | [jeffostroff](https://youtube.com/@jeffostroff ) | Engineering / Tools |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
 | [Warner Bros. Entertainment](https://youtube.com/@warnerbrosentertainment ) | Entertainment |
@@ -206,8 +206,11 @@
 | [NASA Jet Propulsion Laboratory](https://youtube.com/@NASAJPL? ) | Space Exploration |
 | [NASA Johnson](https://youtube.com/@ReelNASA? ) | Space Exploration |
 | [SpaceX](https://youtube.com/@SpaceX ) | Space Exploration |
+| [South Carolina Gamecocks](https://youtube.com/@GamecocksOnline ) | Sports | 2024-04-28[^21] |
 | [Connections Museum](https://youtube.com/@ConnectionsMuseum ) | Telephony |
 | [Antenna Man](https://youtube.com/@AntennaMan ) | Television Antenna Reviews |
 | [DEWALT TV](https://youtube.com/@dewalttv ) | Tools |
 | [Kobalt Tools](https://youtube.com/@KobaltTools ) | Tools |
 | [GasBuddy](https://youtube.com/@gasbuddy ) | Transportation |
+
+[^21]: Changed South Carolina Gamecocks category to Sports and moved to alphabetical category. 
