@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| ["It's the Theme That Occurs to Me Most Frequently": Gary Larson's Biggest Obsession Shaped The Far Side from the Beginning](https://screenrant.com/far-side-comics-gary-larson-science-obsession/ ) | Apr 27, 2024 |
+| [10 Funniest Far Side Comics About Food](https://screenrant.com/the-far-side-funniest-comic-strips-about-food/ ) | Apr 26, 2024 |
 | [15 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/ ) | Apr 25, 2024 |
 | [The #1 Funniest Far Side Comic That Makes Fun of a Celebrity (As Voted by Screen Rant Readers)](https://screenrant.com/funniest-far-side-comics-gary-larson-celebrities/ ) | Apr 23, 2024 |
 | [Gary Larson's Self-Described "Greatest Strength" Defines The Far Side (But Hurt His Public Profile)](https://screenrant.com/gary-larson-far-side-comics-greatest-strength/ ) | Apr 21, 2024 |
