@@ -103,6 +103,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/ ) | Apr 29, 2024 |
 | [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
 | [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
 | [10 Calvin and Hobbes Comics That Showcase Bill Watterson's Incredible Artistic Talent](https://screenrant.com/calvin-hobbes-comic-best-art-bill-watterson/ ) | Mar 2, 2024 |
