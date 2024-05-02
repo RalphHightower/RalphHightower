@@ -199,7 +199,7 @@
 
 ### April 8, 2024 Total Solar Eclipse • [Space](https://www.space.com/ ) / [LiveScience](https://www.livescience.com/ )
 
-<details markdown ="1" ><summary >>Expand / Collapse: Total Solar Eclipse • Space / LiveScience</summary >
+<details markdown ="1" ><summary >Expand / Collapse: Total Solar Eclipse • Space / LiveScience</summary >
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
@@ -319,7 +319,7 @@
 | [Grab a pair of cheap solar eclipse glasses with this excellent deal on Amazon / Live Science](https://www.livescience.com/space/astronomy/grab-a-pair-of-cheap-solar-eclipse-glasses-with-this-excellent-deal-on-amazon ) | March 12, 2024 |
 | [Solar eclipse viewing through history: A roundup of some of the best photos / Space](https://www.space.com/solar-eclipses-viewing-through-history-photo-gallery ) | March 12, 2024 |
 | [You could win a chance to watch 2024's total solar eclipse from a jet. Here's how / Space](https://www.space.com/2024-total-solar-eclipse-jet-jsx-flight ) | March 12, 2024 |
-| [What will it be like to experience the total solar eclipse 2024? -7. T6g7 t TV tvvv n, o. Ii 0i pl  l  Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) | March 11, 2024 |
+| [What will it be like to experience the total solar eclipse 2024? / Space](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth ) | March 11, 2024 |
 | [Where is the best place to see the April 2024 total solar eclipse? / Space](https://www.space.com/where-is-best-place-to-see-total-solar-eclipse-april-2023 ) | March 11, 2024 |
 | [A chronology of the April 8 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-chronology-april-8-2024 ) | March 10, 2024 |
 | [10 things you probably didn't know about the 2024 total solar eclipse / Space](https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse ) | March 9, 2024 |
@@ -339,7 +339,7 @@
 | [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years ) | February 18, 2024 |
 | [Solar eclipse jam — how to avoid getting stuck in traffic on April 8, 2024 / Space](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse ) | February 17, 2024 |
 | [8 top tips for planning your 2024 total eclipse trip / Space](https://www.space.com/total-solar-eclipse-april-8-2024-top-tips-planning-trip ) | February 14, 2024 |
-| [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse? / Space](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips ) | February 6, 2024 |p oplaying,.  P. .pllll .p. p,p. P p .pp.l p, pp.p,i,9,ll,o,
+| [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse? / Space](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips ) | February 6, 2024 |
 | [April 8 solar eclipse: What is the path of totality, and where's the best spot to watch? / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-what-is-the-path-of-totality-and-wheres-the-best-spot-to-watch ) | February 6, 2024 |
 | [April 8 total solar eclipse: The best places to stargaze near the path of totality / Live Science](https://www.livescience.com/space/the-sun/april-8-total-solar-eclipse-the-best-places-to-stargaze-near-the-path-of-totality ) | February 5, 2024 |
 | [April 8 solar eclipse: 4 telescopes and observatories where you can watch totality / Live Science](https://www.livescience.com/space/the-sun/april-8-solar-eclipse-4-telescopes-and-observatories-where-you-can-watch-totality ) | February 3, 2024 |
