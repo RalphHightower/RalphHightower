@@ -64,10 +64,11 @@
 
 | Total Solar Eclipses: 2024-04-08, 2017-08-21 | Date |
 |---|---|
+| [Eclipse Media Resources - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
 | [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017 ) | April 26, 2024 |
 | [GOES ABI Time Composites from April 8th — CIMSS Satellite Blog, CIMSS](https://cimss.ssec.wisc.edu/satellite-blog/archives/58552 ) | 18 April 2024 |
 
-### April 8, 2024 Total Solar Eclipse • Space / LiveScience 
+### April 8, 2024 Total Solar Eclipse • [NASA](https://www.nasa.gov/) 
 
 <details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • NASA</summary >
 
@@ -82,9 +83,10 @@
 | [Sun Series: Minisode! Countdown to Total Solar Eclipse 2024 - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-minisode-countdown-to-total-solar-eclipse-2024/ ) | APR 6, 2024 |
 | [Astronauts Protect Their Eyes with Eclipse Glasses - NASA](https://www.nasa.gov/image-article/astronauts-protect-their-eyes-with-eclipse-glasses/ ) | APR 05, 2024 |
 | [Seeing Totality - NASA](https://www.nasa.gov/image-article/seeing-totality/ ) | APR 09, 2024 |
-| [Media Invited to June 21 Science, Safety Briefings on August Total Solar Eclipse - NASA](https://www.nasa.gov/news-release/media-invited-to-june-21-science-safety-briefings-on-august-total-solar-eclipse/ ) | JUN 13, 2017 |
-| [NASA Announces Television Coverage for Aug. 21 Solar Eclipse - NASA](https://www.nasa.gov/news-release/nasa-announces-television-coverage-for-aug-21-solar-eclipse/ ) | AUG 11, 2017 |
-| [Eclipse Media Resources - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
+
+</details >
+
+### April 8, 2024 Total Solar Eclipse • Space / LiveScience 
 
 <details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • Space / LiveScience</summary >
 
@@ -302,12 +304,16 @@
 
 </details>
 
-## August 21, 2017 — Total Solar Eclipse
+## August 21, 2017 — Total Solar Eclipse 
 
 ### [Eclipse 2017 — NASA](https://eclipse2017.nasa.gov/ )
 
-<details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
+| NASA | Date |
+|---|---|
+| [Media Invited to June 21 Science, Safety Briefings on August Total Solar Eclipse - NASA](https://www.nasa.gov/news-release/media-invited-to-june-21-science-safety-briefings-on-august-total-solar-eclipse/ ) | JUN 13, 2017 |
+| [NASA Announces Television Coverage for Aug. 21 Solar Eclipse - NASA](https://www.nasa.gov/news-release/nasa-announces-television-coverage-for-aug-21-solar-eclipse/ ) | AUG 11, 2017 |
 
+<details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
 
 | Total Solar Eclipse — August 17, 2017 | Date |
 |---|---|
