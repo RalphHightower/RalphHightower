@@ -68,27 +68,138 @@
 | [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017 ) | April 26, 2024 |
 | [GOES ABI Time Composites from April 8th — CIMSS Satellite Blog, CIMSS](https://cimss.ssec.wisc.edu/satellite-blog/archives/58552 ) | 18 April 2024 |
 
+## April 8, 2024 Total Solar Eclipse 
+
 ### April 8, 2024 Total Solar Eclipse • [NASA](https://www.nasa.gov/) 
 
-<details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • NASA</summary >
+<details markdown='1'><summary >Expand / Collapse: Total Solar Eclipse — April 8, 2024 • NASA</summary>
 
-| April 8, 2024 Total Solar Eclipse — NASA | Date |
+| [2024 Total Eclipse - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
+|---|
+| **Safety** |
+| [Total Solar Eclipse Safety - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
+| [NASA SVS / How to Make a Box Pinhole Projector](https://svs.gsfc.nasa.gov/14391/ ) August 16, 2023 |
+| **Prepare** |
+| [2024 Total Eclipse: Where & When - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
+| [What to Expect - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
+| [Read the Guide](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [Map Visualizations — NASA SVS / The 2024 Total Solar Eclipse](https://svs.gsfc.nasa.gov/5123/ ) |
+| [Total Solar Eclipse FAQ - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [Eclipse Events - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| **Science** |
+| [Team Eclipse - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [Chasing the Total Solar Eclipse 2024 / A SwRI-led mission to observe the 2024 total solar eclipse with CATE and NASA's WB-57F high-altitude research aircraft](https://eclipse.boulder.swri.edu/ ) |
+| [WB-57 / Chasing the Total Solar Eclipse 2024](https://eclipse.boulder.swri.edu/wb-57/ ) |
+| **Science — Team Sun** |
+| [Helio Big Year - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [Citizen Science - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [Welcome to Sungrazer / Sungrazer](https://sungrazer.nrl.navy.mil/home ) |
+| [Solar Jet Hunter / Zooniverse - People-powered research](https://www.zooniverse.org/projects/sophiemu/solar-jet-hunter ) |
+| [Aurorasaurus - Reporting Auroras from the Ground Up](https://www.aurorasaurus.org/ ) |
+| [HamSCI](https://hamsci.org/ ) |
+| [Radio JOVE - NASA Science](https://science.nasa.gov/citizen-science/radio-jove/ ) |
+| [Citizen CATE 2024 / Chasing the Total Solar Eclipse 2024](https://eclipse.boulder.swri.edu/citizen-cate-2024/ ) |
+| [Dynamic Eclipse Broadcast Initiative](https://debinitiative.org/main/ ) |
+| [Eclipse Megamovie 2024](https://eclipsemegamovie.org/ ) |
+| [Eclipse Soundscapes](https://eclipsesoundscapes.org/ ) |
+| [SunSketcher](https://sunsketcher.org/ ) |
+| [Eclipse Overview - GLOBE Observer - GLOBE.gov](https://observer.globe.gov/do-globe-observer/eclipse ) |
+| [HARP Citizen Science](https://listen.spacescience.org/ ) |
+| [Explore Observations - Spritacular](https://spritacular.org/ ) |
+| **Science — Team Moon** |
+| [Moon Observation Journal - 2024 Eclipse Edition - NASA Science](https://science.nasa.gov/feature/solar-eclipse-guide/ ) |
+| [International Observe the Moon Night – Moon: NASA Science](https://moon.nasa.gov/observe-the-moon-night/ ) |
+| [Artemis -](https://blogs.nasa.gov/artemis/ ) |
+| **Science — Team Earth** |
+| [Earth Day - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| [Home – NASA-ISRO SAR Mission (NISAR)](https://nisar.jpl.nasa.gov/ ) |
+| [Earth - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| [2024 Total Solar Eclipse Broadcast - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| [Eclipse 2024 Science - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| [WHPI - 2024 total solar eclipse campaign](https://whpi.hao.ucar.edu/whpi_campaign-2024-total-eclipse.php ) |
+| [The 2024 Total Solar Eclipse & NASA - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| [Eclipse Media Resources - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/team-eclipse/ ) |
+| **History** |
+| [History of Eclipses - NASA Science](https://science.nasa.gov/eclipses/history/ ) |
+
+| 2024 Total Solar Eclipse — NASA | Date |
 |---|---|
-| [Seeing the Solar Eclipse from 223,000 Miles Away - NASA](https://www.nasa.gov/image-article/seeing-the-solar-eclipse-from-223000-miles-away/ ) | APR 15, 2024
+| [Seeing the Solar Eclipse from 223,000 Miles Away - NASA](https://www.nasa.gov/image-article/seeing-the-solar-eclipse-from-223000-miles-away/ ) | APR 15, 2024 |
 | [NASA’s LRO Observes 2024 Solar Eclipse Shadow - NASA](https://www.nasa.gov/missions/lro/nasas-lro-observes-2024-solar-eclipse-shadow/ ) | APR 15, 2024 |
+| [The April 8 Total Solar Eclipse: Through the Eyes of NASA - NASA Science](https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/ ) | APR 12, 2024 |
 | [More Than 36,000 Volunteers Helped Do NASA Eclipse Science - NASA Science](https://science.nasa.gov/get-involved/citizen-science/more-than-36000-volunteers-helped-do-nasa-eclipse-science/ ) | APR 10, 2024 |
-| [The April 8 Total Solar Eclipse: Through the Eyes of NASA - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) | APR 12, 2024 |
-| [More Than 36,000 Volunteers Helped Do NASA Eclipse Science - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) | APR 10, 2024 |
-| [NASA Wallops Launches 3 Rockets During Eclipse in Virginia - NASA](https://www.nasa.gov/image-article/nasa-wallops-launches-3-rockets-during-eclipse-in-virginia/ ) | APR 09, 2024 |
-| [Sun Series: Minisode! Countdown to Total Solar Eclipse 2024 - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-minisode-countdown-to-total-solar-eclipse-2024/ ) | APR 6, 2024 |
-| [Astronauts Protect Their Eyes with Eclipse Glasses - NASA](https://www.nasa.gov/image-article/astronauts-protect-their-eyes-with-eclipse-glasses/ ) | APR 05, 2024 |
-| [Seeing Totality - NASA](https://www.nasa.gov/image-article/seeing-totality/ ) | APR 09, 2024 |
+| [Harnessing the 2024 Eclipse for Ionospheric Discovery with HamSCI - NASA Science](https://science.nasa.gov/solar-system/skywatching/2024-eclipse-ionospheric-discovery-with-hamsci/ ) | APR 04, 2024 |
+| [Scientists Pursue the Total Solar Eclipse with NASA Jet Planes - NASA Science](https://science.nasa.gov/solar-system/skywatching/scientists-pursue-the-total-solar-eclipse-with-nasa-jet-planes/ ) | APR 03, 2024 |
+| [NASA Partnerships Bring 2024 Total Solar Eclipse to Everyone - NASA](https://www.nasa.gov/science-research/heliophysics/2024-eclipse-partnerships/ ) | APR 02, 2024 |
+| [That Starry Night Sky? It's Full of Eclipses - NASA Science](https://science.nasa.gov/universe/exoplanets/that-starry-night-sky-its-full-of-eclipses/ ) | APR 02, 2024 |
+| [Scientists Use NASA Data to Predict Solar Corona Before Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/scientists-use-nasa-data-to-predict-solar-corona-before-eclipse/ ) | APR 02, 2024 |
+| [Solar Eclipse Resources - NASA Science](https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipse-resources/ ) | APR 01, 2024 |
+| [New ‘Eclipse Watch’ Tool Shows Eclipses from Space Any Time - NASA Science](https://science.nasa.gov/solar-system/skywatching/new-eclipse-watch-tool-shows-eclipses-from-space-any-time/ ) | APR 01, 2024 |
+| [What's Up: April 2024 Skywatching Tips from NASA - NASA Science](https://science.nasa.gov/solar-system/skywatching/whats-up-april-2024-skywatching-tips-from-nasa/ ) | APR 01, 2024 |
+| [Collect Them All: NASA Center to Debut Postcards at Eclipse Event](https://www.nasa.gov/centers-and-facilities/glenn/collect-them-all-nasa-center-to-debut-postcards-at-eclipse-event/ ) | MAR 29, 2024 |
+| [Don’t Make Me Wait for April 8! - NASA Science](https://science.nasa.gov/solar-system/skywatching/dont-make-me-wait-for-april-8/ ) | MAR 28, 2024 |
+| [Eclipse Citizen Science for Educators - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipse-citizen-science-for-educators/ ) | MAR 27, 2024 |
+| [Contribute to NASA Research on Eclipse Day – and Every Day - NASA Science](https://science.nasa.gov/solar-system/skywatching/contribute-to-nasa-research-on-eclipse-day-and-every-day/ ) | MAR 27, 2024 |
+| [NASA to Launch Sounding Rockets into Moon’s Shadow During Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/nasa-to-launch-sounding-rockets-into-moons-shadow-during-solar-eclipse/ ) | MAR 25, 2024 |
+| [Sketch the Shape of the Sun for Science During the Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/sketch-the-shape-of-the-sun-for-science-during-the-solar-eclipse/ ) | MAR 19, 2024 |
+| [GLOBE Eclipse Challenge: Clouds and Our Solar-Powered Earth - NASA Science](https://science.nasa.gov/solar-system/skywatching/globe-eclipse-challenge-clouds-and-our-solar-powered-earth/ ) | MAR 15, 2024 |
+| [Eclipse Photographers Will Help Study Sun During Its Disappearing Act - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipse-photographers-help-study-sun-during-disappearing-act/ ) | MAR 14, 2024 |
+| [Total Solar Eclipse 2024: The Moon’s Moment in the Sun - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/2024-solar-eclipse/total-solar-eclipse-2024-the-moons-moment-in-the-sun/ ) | MAR 11, 2024 |
+| [NASA Launches Snap It! Computer Game to Learn About Eclipses - NASA Science](https://science.nasa.gov/solar-system/skywatching/nasa-launches-snap-it-computer-game-to-learn-about-eclipses/ ) | MAR 08, 2024 |
+| [Eclipse Ambassadors off the Path: Reaching Underrepresented Audiences - NASA Science](https://science.nasa.gov/learning-resources/science-activation/eclipse-ambassadors-off-the-path-reaching-underrepresented-audiences/ ) | FEB 28, 2024 |
+| [Eclipse Resources for Learners and Educators: Connecting the Eclipse to Astrophysics - NASA Science](https://science.nasa.gov/learning-resources/science-activation/eclipse-resources-for-learners-and-educators-connecting-the-eclipse-to-astrophysics/ ) | FEB 23, 2024 |
+| [Meet the Creators, Part 4: Two New 2024 Total Eclipse Posters - NASA Science](https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-4-two-new-2024-total-eclipse-posters/ ) | FEB 22, 2024 |
+| [Ride the Wave of Radio Astronomy During the Solar Eclipse   - NASA Science](https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/ ) | FEB 21, 2024 |
+| [NASA-Funded Science Projects Tuning In to ‘Eclipse Radio’ - NASA Science](https://science.nasa.gov/solar-system/skywatching/nasa-funded-science-projects-tuning-in-to-eclipse-radio/ ) | FEB 20, 2024 |
+| [NASA Trains Teachers on Upcoming Solar Eclipse](https://www.nasa.gov/centers-and-facilities/glenn/nasa-trains-teachers-on-upcoming-solar-eclipse/ ) | FEB 14, 2024 |
+| [Sense the Solar Eclipse with NASA’s Eclipse Soundscapes Project - NASA Science](https://science.nasa.gov/solar-system/skywatching/sense-the-solar-eclipse-with-nasas-eclipse-soundscapes-project/ ) | FEB 12, 2024 |
+| [Meet the Creators, Part 3: NASA’s 2024 Total Solar Eclipse Posters - NASA Science](https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-3-nasas-2024-total-solar-eclipse-posters/ ) | FEB 02, 2024 |
+| [How the 2024 Total Solar Eclipse Is Different than the 2017 Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/ ) | JAN 30, 2024 |
+| [Engage with NASA Glenn](https://www.nasa.gov/centers-and-facilities/glenn/engage-with-nasa-glenn/ ) | JAN 12, 2024 |
+| [Arkansas City Welcomes NASA to Discuss 2024 Total Solar Eclipse - NASA](https://www.nasa.gov/centers-and-facilities/marshall/arkansas-city-welcomes-nasa-to-discuss-2024-total-solar-eclipse/ ) | NOV 09, 2023 |
+| [Calling all Eclipse Enthusiasts: Become a NASA Partner Eclipse Ambassador! - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/calling-all-eclipse-enthusiasts-become-a-nasa-partner-eclipse-ambassador/ ) | NOV 07, 2023 |
+| [NASA’s Scientists and Volunteers Tackle the October 14 Solar Eclipse - NASA Science](https://science.nasa.gov/get-involved/citizen-science/nasas-scientists-and-volunteers-tackle-the-october-14-solar-eclipse/ ) | OCT 25, 2023 |
+| [Five Tips for Photographing the Annular Solar Eclipse on Oct. 14 - NASA Science](https://science.nasa.gov/solar-system/skywatching/five-tips-for-photographing-the-annular-solar-eclipse-on-oct-14/ ) | OCT 10, 2023 |
+| [NASA HEAT Releases Two Eclipse-Focused MinuteEarth Videos - NASA Science](https://science.nasa.gov/learning-resources/science-activation/nasa-heat-releases-two-eclipse-focused-minuteearth-videos/ ) | OCT 01, 2023 |
+| [To Study Atmosphere, NASA Rockets Will Fly into Oct. Eclipse’s Shadow - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/2023-solar-eclipse/to-study-atmosphere-nasa-rockets-will-fly-into-oct-eclipses-shadow/ ) | SEP 29, 2023 |
+| [Introducing the 2023 Eclipse Explorer: Your Interactive Guide to the 2023 Annular Solar Eclipse - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/2023-solar-eclipse/introducing-the-2023-eclipse-explorer-your-interactive-guide-to-the-2023-annular-solar-eclipse/ ) |  |
+| [Meet the Creators, Part 2 - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/meet-the-creators-part-2/ ) | SEP 26, 2023 |
+| [The Impact of Solar Eclipses on the Structure and Dynamics of Earth's Upper Atmosphere - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/the-impact-of-solar-eclipses-on-the-structure-and-dynamics-of-earths-upper-atmosphere/ ) | SEP 25, 2023 |
+| [Observe How Eclipses Impact Wildlife with the Eclipse Soundscapes Project - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/observe-how-eclipses-impact-wildlife-with-the-eclipse-soundscapes-project/ ) | SEP 18, 2023 |
+| [2 New Eclipse Projects Receive NASA Funding - NASA](https://www.nasa.gov/solar-system/2-new-eclipse-projects-receive-nasa-funding/ ) | SEP 06, 2023 |
+| [NASA Announces Monthly Themes to Celebrate the Heliophysics Big Year - NASA](https://www.nasa.gov/science-research/heliophysics/nasa-announces-monthly-themes-to-celebrate-the-heliophysics-big-year/ ) | AUG 08, 2023 |
+| [NASA Funds 3 Citizen Science Projects to Study 2024 U.S. Solar Eclipse - NASA](https://www.nasa.gov/science-research/heliophysics/nasa-funds-3-citizen-science-projects-to-study-2024-u-s-solar-eclipse/ ) | JUL 19, 2023 |
+| [Science in the Shadows: NASA Selects 5 Experiments for 2024 Total Solar Eclipse - NASA](https://www.nasa.gov/science-research/heliophysics/science-in-the-shadows-nasa-selects-5-experiments-for-2024-total-solar-eclipse/ ) | JUN 20, 2023 |
+| [NASA Releases New Solar Eclipse Educational Materials - NASA](https://www.nasa.gov/learning-resources/nasa-releases-new-solar-eclipse-educational-materials/ ) | MAY 18, 2023 |
+| [Clouds for Your Eclipse? NASA Experiment Will Fly Kite to Rise Above - NASA](https://www.nasa.gov/science-research/clouds-for-your-eclipse-nasa-experiment-will-fly-kite-to-rise-above/ ) | APR 18, 2023 |
+| [Meet the Creators of NASA's Newest Eclipse Art - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/meet-the-creators-of-nasas-newest-eclipse-art/ ) | APR 14, 2023 |
+| [NASA Solar Eclipse Partner Locations for 2023 and 2024 - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/nasa-solar-eclipse-partner-locations-for-2023-and-2024/ ) | APR 07, 2023 |
+| [Solar Eclipses in 2023 and 2024 - NASA Science](https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipses-in-2023-and-2024/ ) | MAR 22, 2023 |
+| [New NASA Map Details 2023 and 2024 Solar Eclipses in the US - NASA](https://www.nasa.gov/solar-system/new-nasa-map-details-2023-and-2024-solar-eclipses-in-the-us/ ) | MAR 08, 2023 |
+| [New NASA Map Details 2023 and 2024 Solar Eclipses in the US - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/new-nasa-map-details-2023-and-2024-solar-eclipses-in-the-us/ ) | MAR 08, 2023 |
+| [What does a Solar Eclipse Look Like on Mars? - NASA Science](https://science.nasa.gov/solar-system/planets/mars/what-does-a-solar-eclipse-look-like-on-mars/ ) | APR 26, 2022 |
+| [Partial Solar Eclipse on April 30, 2022 - NASA Science](https://science.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/partial-solar-eclipse-on-april-30-2022/ ) | APR 21, 2022 |
+| [Scientists Use NASA Data to Predict Corona of Dec. 4 Antarctic Eclipse - NASA](https://www.nasa.gov/missions/sdo/scientists-use-nasa-data-to-predict-corona-of-dec-4-antarctic-eclipse/ ) | DEC 09, 2021 |
+| [Total Solar Eclipses Shine a Light on the Solar Wind with Help from NASA’s ACE Mission - NASA](https://www.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/total-solar-eclipses-shine-a-light-on-the-solar-wind-with-help-from-nasas-ace-mission/ ) | JUN 15, 2021 |
+| [Scientists Use NASA Data to Predict Appearance of Dec. 14 Eclipse - NASA](https://www.nasa.gov/centers-and-facilities/ames/scientists-use-nasa-data-to-predict-appearance-of-dec-14-eclipse/ ) | DEC 16, 2020 |
+| [Scientists Study Atmosphere of Venus through Transit Images - NASA](https://www.nasa.gov/solar-system/scientists-study-atmosphere-of-venus-through-transit-images/ ) | JUL 09, 2015 |
+| [Hinode Views Two Solar Eclipses - NASA](https://www.nasa.gov/solar-system/hinode-views-two-solar-eclipses/ ) | NOV 14, 2012 |
+| [Hinode to Support Ground-based Eclipse Observations - NASA](https://www.nasa.gov/solar-system/hinode-to-support-ground-based-eclipse-observations/ ) | NOV 13, 2012 |
+| [Hinode Witnesses Solar Eclipse - NASA](https://www.nasa.gov/solar-system/hinode-witnesses-solar-eclipse/ ) | MAY 20, 2012 |
+
+| Lunar Eclipses | Date |
+|---|---|
+| [What You Need to Know About the November 2022 Lunar Eclipse - NASA Science](https://science.nasa.gov/solar-system/moon/what-you-need-to-know-about-the-nov-2022-lunar-eclipse/ ) | OCT 13, 2022 |
+| [November 2021: The next full Moon is a Near-Total Lunar Eclipse, the Beaver, Frost/Frosty, or Snow Moon - NASA Science](https://science.nasa.gov/solar-system/skywatching/november-2021-the-next-full-moon-is-a-near-total-lunar-eclipse-the-beaver-frostfrosty-or-snow-moon/ ) | NOV 12, 2021 |
+| [An Almost Total Lunar Eclipse - NASA Science](https://science.nasa.gov/solar-system/moon/an-almost-total-lunar-eclipse/ ) | NOV 10, 2021 |
+| [10 Things About the Total Lunar Eclipse on Jan. 31, 2018 - NASA Science](https://science.nasa.gov/earth/10-things-to-know-about-the-total-lunar-eclipse-on-jan-31/ ) | JAN 22, 2018 |
+| [‘Super Blue Blood Moon’ Coming Jan. 31 - NASA](https://www.nasa.gov/solar-system/super-blue-blood-moon-coming-jan-31/ ) | JAN 18, 2018 |
 
 </details >
 
 ### April 8, 2024 Total Solar Eclipse • [Space](https://www.space.com/ ) / [LiveScience](https://www.livescience.com/ )
 
-<details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • Space / LiveScience</summary >
+<details markdown ="1" ><summary >>Expand / Collapse: Total Solar Eclipse • Space / LiveScience</summary >
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
