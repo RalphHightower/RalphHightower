@@ -62,7 +62,29 @@
 
 ## [Eclipse 2024 — NASA](https://eclipse2024.nasa.gov/ )
 
+| Total Solar Eclipses: 2024-04-08, 2017-08-21 | Date |
+|---|---|
+| [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017 ) | April 26, 2024 |
+| [GOES ABI Time Composites from April 8th — CIMSS Satellite Blog, CIMSS](https://cimss.ssec.wisc.edu/satellite-blog/archives/58552 ) | 18 April 2024 |
+
 ### April 8, 2024 Total Solar Eclipse • Space / LiveScience 
+
+<details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • NASA</summary >
+
+| April 8, 2024 Total Solar Eclipse — NASA | Date |
+|---|---|
+| [Seeing the Solar Eclipse from 223,000 Miles Away - NASA](https://www.nasa.gov/image-article/seeing-the-solar-eclipse-from-223000-miles-away/ ) | APR 15, 2024
+| [NASA’s LRO Observes 2024 Solar Eclipse Shadow - NASA](https://www.nasa.gov/missions/lro/nasas-lro-observes-2024-solar-eclipse-shadow/ ) | APR 15, 2024 |
+| [More Than 36,000 Volunteers Helped Do NASA Eclipse Science - NASA Science](https://science.nasa.gov/get-involved/citizen-science/more-than-36000-volunteers-helped-do-nasa-eclipse-science/ ) | APR 10, 2024 |
+| [The April 8 Total Solar Eclipse: Through the Eyes of NASA - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) | APR 12, 2024 |
+| [More Than 36,000 Volunteers Helped Do NASA Eclipse Science - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) | APR 10, 2024 |
+| [NASA Wallops Launches 3 Rockets During Eclipse in Virginia - NASA](https://www.nasa.gov/image-article/nasa-wallops-launches-3-rockets-during-eclipse-in-virginia/ ) | APR 09, 2024 |
+| [Sun Series: Minisode! Countdown to Total Solar Eclipse 2024 - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-minisode-countdown-to-total-solar-eclipse-2024/ ) | APR 6, 2024 |
+| [Astronauts Protect Their Eyes with Eclipse Glasses - NASA](https://www.nasa.gov/image-article/astronauts-protect-their-eyes-with-eclipse-glasses/ ) | APR 05, 2024 |
+| [Seeing Totality - NASA](https://www.nasa.gov/image-article/seeing-totality/ ) | APR 09, 2024 |
+| [Media Invited to June 21 Science, Safety Briefings on August Total Solar Eclipse - NASA](https://www.nasa.gov/news-release/media-invited-to-june-21-science-safety-briefings-on-august-total-solar-eclipse/ ) | JUN 13, 2017 |
+| [NASA Announces Television Coverage for Aug. 21 Solar Eclipse - NASA](https://www.nasa.gov/news-release/nasa-announces-television-coverage-for-aug-21-solar-eclipse/ ) | AUG 11, 2017 |
+| [Eclipse Media Resources - NASA Science](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/ ) |
 
 <details markdown ="1" ><summary >Expand/Collapse: April 8, 2024 Total Solar Eclipse • Space / LiveScience</summary >
 
@@ -240,6 +262,15 @@
 | [Moments before dying, Japan's lunar lander snaps glorious photo of Earth during a total solar eclipse / Live Science](https://www.livescience.com/space/space-exploration/days-before-dying-japans-lunar-lander-snaps-glorious-photo-of-earth-during-a-total-solar-eclipse ) | April 27, 2023 |
 | [I watched the moon 'take a bite of the sun' in a rare hybrid solar eclipse last week. Here's what I saw from Australia. / Live Science](https://www.livescience.com/space/the-sun/i-watched-the-moon-take-a-bite-of-the-sun-in-a-rare-hybrid-solar-eclipse-last-week-heres-what-i-saw-from-australia ) | April 25, 2023 |
 | [A very rare 'hybrid' solar eclipse will take place Thursday, here's how to watch / Live Science](https://www.livescience.com/space/astronomy/the-sun/a-very-rare-hybrid-solar-eclipse-will-take-place-thursday-heres-how-to-watch ) | April 18, 2023 |
+
+| Astronomy Magazine | Date |
+|---|---|
+| [An eclipse victory: What it was like at Love Field in Dallas / Astronomy.com](https://www.astronomy.com/observing/an-eclipse-victory-what-it-was-like-at-love-field-in-dallas/ ) | April 11, 2024 |
+| [The solar eclipse will last a max of 4:28 along the path of totality](https://www.astronomy.com/observing/how-long-will-the-2024-total-solar-eclipse-last/ ) | April 8, 2024 |
+| [Eclipse weather forecast for April 2024](https://www.astronomy.com/observing/your-eclipse-weather-forecast-for-april-2024/ ) | April 8, 2024 |
+| [Expert tips for how to take photos of the eclipse](https://www.astronomy.com/observing/25-tips-for-the-best-eclipse-photos/ ) | April 8, 2024 |
+| [A guide to the 2024 eclipse from Astronomy Magazine](https://www.astronomy.com/observing/our-ultimate-guide-to-the-eclipse/ ) | April 1, 2024 |
+|[Eclipse viewing made simple](https://www.astronomy.com/observing/eclipse-viewing-made-simple/ ) | February 22, 2024 |
 
 </details >
 
