@@ -6,6 +6,14 @@
 |---|
 | [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
 
+## Astrophotography 
+
+| Astrophotography | Date |
+|---|---|
+| **[IR Filter Removal for Astrophotography — Imaging Infinity](https://www.imaginginfinity.com/ )**[^11] |
+
+[^11]: IR filter removal from sensor for astrophotography 
+
 ## The Art of Photography — B&H Photo/Video
 
 | The Art of Photography — B&H Photo/Video | Date |
@@ -58,6 +66,7 @@
 
 | Photography News/Tips | Date |
 |----|---|
+| [A Comprehensive Guide for Starting to Print Your Photos / Fstoppers](https://fstoppers.com/printing/comprehensive-guide-starting-print-your-photos-665251 ) | April 22, 2024 |
 | **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[^41]** |
 | **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
 | **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
