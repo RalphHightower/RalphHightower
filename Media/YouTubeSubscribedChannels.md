@@ -40,6 +40,7 @@
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
 | [jeffostroff](https://youtube.com/@jeffostroff ) | Engineering / Tools |
+| [Practical Engineering](https://youtube.com/@PracticalEngineeringChannel? ) | Engineering | 2028-05-03 |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
 | [Warner Bros. Entertainment](https://youtube.com/@warnerbrosentertainment ) | Entertainment |
 | [Publix](https://youtube.com/@Publix ) | Food |
