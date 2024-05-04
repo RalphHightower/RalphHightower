@@ -1003,9 +1003,9 @@
 [^57]: [MrStarGuy Natural Light Adjustable Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1794519-REG/mrstarguy_sgft039y_86_117mm_adjustable_solar_filter.html )
 [^58]: [MrStarGuy Adjustable Objective White Light Solar Filter (86-117mm OD)](https://www.bhphotovideo.com/c/product/1284412-REG/mrstarguy_sgft039_86_117mm_starguy_adjustable_white.html )
 [^59]: [DayStar Filters 90mm White-Light Universal Lens Solar Filter (Single, 90-109mm OD)](https://www.bhphotovideo.com/c/product/1319799-REG/daystar_filters_ulf90_90mm_universal_lens_filter.html )
-[^60]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )[
+[^60]: [MrStarGuy Natural Light Adjustable Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1794521-REG/mrstarguy_sgft042y_105_135mm_adjustable_solar_filter.html )
 [^61]: [MrStarGuy Adjustable Objective White Light Solar Filter (105-135mm OD)](https://www.bhphotovideo.com/c/product/1284414-REG/mrstarguy_sgft042_105_135mm_starguy_adjustable_white.html )
-[^62]: | [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )
+[^62]: [MrStarGuy Natural Light Adjustable Solar Filter (125-155mm OD)](https://www.bhphotovideo.com/c/product/1794524-REG/mrstarguy_sgft043y_125_155mm_adjustable_solar_filter.html )
 [^63]: [MrStarGuy Natural Light Adjustable Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1794522-REG/mrstarguy_sgft043by_145_175mm_adjustable_solar_filtr.html )
 [^64]: [MrStarGuy Adjustable Objective White Light Solar Filter (145-175mm OD)](https://www.bhphotovideo.com/c/product/1336281-REG/mrstarguy_sgft043b_adjustable_objective_solar_filter.html )
 [^65]: [MrStarGuy Natural Light Adjustable Solar Filter (165-195mm OD)](https://www.bhphotovideo.com/c/product/1794523-REG/mrstarguy_sgft043cy_165_195mm_adjustable_solar_filter.html )
