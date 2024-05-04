@@ -885,7 +885,7 @@
 | [When the solar eclipse hits, you'll see these radiant planets / Mashable](https://mashable.com/article/solar-eclipse-2024-planets ) | April 7, 2024 |
 | [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) | 26 February 2024 |
 | [10 weird things that happen during a solar eclipse / Live Science](https://www.livescience.com/space/the-sun/10-weird-things-that-happen-during-a-solar-eclipse ) | April 5, 2024 |
-| [April 2024 total solar eclipse will confuse animals and cause silence](https://www.usatoday.com/story/news/nation/2024/03/03/april-2024-total-solar-eclipse-will-confuse-animals/72681540007/ )[^201] | April 3, 2024 |
+| [April 2024 total solar eclipse will confuse animals and cause silence](https://www.usatoday.com/story/news/nation/2024/03/03/april-2024-total-solar-eclipse-will-confuse-animals/72681540007/ )[^301] | April 3, 2024 |
 | **Lessons Learned / Wrap-Up** | 
 | [How to Edit Your Total Solar Eclipse Photos / B&H eXplora](https://www.bhphotovideo.com/explora/videos/photography/how-to-edit-your-total-solar-eclipse-photos ) | 04/02/2024 |
 | [8 Lessons Learned When I Photographed a Total Solar Eclipse / B&H eXplora](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/8-lessons-learned-when-i-photographed-a-total-solar-eclipse) | 05/03/2023 |
@@ -906,7 +906,7 @@
 | [How the supersonic Concorde jet broke the record for the longest total solar eclipse in history / Space](https://www.space.com/how-concorde-broke-record-for-longest-total-solar-eclipse-in-history ) | April 5, 2024 |
 | [2024 Eclipse: Airbnb bookings perfectly paint the path of totality](https://www.axios.com/2024/04/05/airbnb-bookings-eclipse-april-8-map ) | Apr 7, 2024 |
 
-[^201]: Our Beagles, Zeus, Athena, and River were watching us on August 17, 2024. When it got darker, they went closer to the house to sleep. When someone shot off firecrackers at totality, they woke up and barked towards the back. 
+[^301]: Our Beagles, Zeus, Athena, and River were watching us on August 17, 2024. When it got darker, they went closer to the house to sleep. When someone shot off firecrackers at totality, they woke up and barked towards the back. 
 
 ## Personal Equipment Own/Buy/Rent[^21]
 
