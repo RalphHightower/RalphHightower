@@ -213,6 +213,7 @@
 | **[Orange Pi 5 Plus 32GB RAM Single Board Computer RK3588 PCIE Module External WiFi-BT SSD M2.0 Orange Pi5 Plus Development Board](https://www.aliexpress.com/item/3256805900265337.html )** |  **[AliExpress](https://www.aliexpress.com/item/3256805900265337.html ) 32GB $189.00 ($270.00) -30%** |
 | **[Orange Pi 5 Plus 32GB RK3588 2.4G Dual Ethernet Ports PCIE Computer Run Android Ubuntu Debian Development Single Board](https://www.aliexpress.com/item/3256805934276164.html )** | **(H/W) [AliExpress](https://www.aliexpress.com/item/3256805934276164.html ) 32GB** |
 | ***[Orange Pi 5 Plus SBC dual HDMI 2.1, dual 2.5GbE, M.2 PCIe sockets](https://www.cnx-software.com/2023/05/10/orange-pi-5-plus-sbc-switches-to-rockchip-rk3588-soc-brings-dual-hdmi-2-1-dual-2-5gbe-m-2-pcie-sockets/)*** | (H/W) **[AliExpress \$157.90 16GB/128GB eMMC](https://www.aliexpress.com/item/1005005363226571.html)**<br />**[Amazon: \$195.99 16GB/256GB eMMC](https://www.amazon.com/Orange-Pi-Rockchip-Computer-Frequency/dp/B0BZ4BBV11?th=1&psc=1)** |
+| **[Orange Pi 5 Pro 16GB LPDDR5 8 Core 64 Bit RK3588S Single Board Computer, 8K Video Decoding 2.4GHz Frequency WiFi Bluetooth Open Source Board Run Orange Pi OS, Android, Debian, Ubuntu](https://a.co/d/iwHENjE)** | **(H/W) $141.99 16GB** |
 | **[Orange Pi 5B 16GB Rockchip RK3588S 8 Core 64 Bit WiFi6,BT5.0 Single Board Computer with 128GB eMMC, 2.4GHz Frequency Open Source Board Run Orange Pi OS,Android,Debian (OPi 5B 16GB/128G+5V4A TypeC Supply)](https://a.co/d/3xBTyUa) - Amazon** | **(H/W) $151.99** |
 | **[Orange Pi 5B 32GB RK3588S with 256GB eMMC 8 Core 64 Bit WiFi 6,Bluetooth 5.0 Single Board Computer, Support 8K Video Codec AI Accelerator NPU Run Orange Pi OS, Android, Debian \(OPi 5B 32G/256G+Supply\)](https://a.co/d/aPu6p70)** | **(H/W) ** |
 | **[Orange Pi 5B SBC adds up to 256GB eMMC flash, built-in WiFi 6 and Bluetooth 5.0 module, 32GB spec'ed as available, but cannot be found](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html)** | (H/W) **[Amazon 16 GB \$149.99](https://www.amazon.com/Orange-Pi-Frequency-Development-Android12/dp/B0BN15SS83)** <br />**[$177.00](https://www.aliexpress.com/item/1005005364438404.html)** |
@@ -269,6 +270,7 @@
 | **[Seeed Studio SenseCAP Indicator D1Pro(Alpha) - Seeed Studio](https://www.seeedstudio.com/SenseCAP-Indicator-D1Pro-p-5644.html )** | **(H/W) $89.00** |
 | [Shinzin Ai-m62-12f Core Development Board, Wi-fi6 Ble5.3 Combo Module, Bl616 Low Power 32-bit Risc-v Cpu, Support Thread Protocol - Integrated Circuits - AliExpress](https://www.aliexpress.com/item/1005005438854506.html ) | (H/W) |
 | [SiFive — RISC-V Processors and Boards](https://www.sifive.com/) | (H/W) |
+| [Sige5 / ArmSoM 16GB/128GB eMM](https://www.armsom.org/product-page/sige5 ) | $148.00 |
 | [Silicon Labs - EFR32FG28 Sub-GHz Wireless + 2.4 GHz BLE SoCs](https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs# ) | (H/W) |
 | **[Sipeed Lichee Cluster 4A RISC-V TH1520 Linux High-performance Cluster Computing - AliExpress](https://www.aliexpress.com/item/3256805838196196.html )** | **$1239 Cluster Board, 7 RISC-V w/ 16GB/128GB** |
 | **[sipeed Lichee Pi 4A Powerful RISC-V SBC ever! 矽速科技 官网](https://sipeed.com/licheepi4a )** | **(H/W) $179.00 16GB/128GB** |
@@ -333,6 +335,8 @@
 
 | Articles | Date |
 |----------|---|
+| **[Banana Pi BPI-M5 Pro low-profile SBC features Rockchip RK3576 octa-core Cortex-A72/A53 AIoT SoC - CNX Software](https://www.cnx-software.com/2024/05/02/banana-pi-bpi-m5-pro-low-profile-rockchip-rk3576-sbc/ ) w/16GB/128GB** |MAY 2, 2024 |
+| [Orange Pi 5 Pro - A low-cost Rockchip RK3588S SBC with up to 16GB LPDDR5 RAM, dual HDMI video output - CNX Software](https://www.cnx-software.com/2024/04/12/orange-pi-5-pro-low-cost-rockchip-rk3588s-sbc-16gb-lpddr5-ram-dual-hdmi/ ) | APRIL 12, 2024 |
 | [EmbedFire LubanCat 4 card computer - A Rockchip RK3588S dev board with a mini PCIe socket for WiFi or 4G LTE - CNX Software](https://www.cnx-software.com/2024/02/15/embedfire-lubancat-4-card-computer-a-rockchip-rk3588s-dev-board-with-mini-pcie-sockt-with-wifi-or-4g-lte/ ) | February 15, 2024 |
 | [Vivid Unit is a low-profile Rockchip RK3399 SBC with an integrated touchscreen display - CNX Software](https://www.cnx-software.com/2024/02/14/vivid-unit-low-profile-rockchip-rk3399-sbc-with-an-integrated-touchscreen-display/ ) | February 14, 2024 |
 | [ElectronicsV2 - An NXP S32K144 development board for DIY automotive projects - CNX Software](https://www.cnx-software.com/2024/02/14/electronicsv2-an-nxp-s32k144-development-board-for-diy-automotive-projects/ ) | February 14, 2024 |
