@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [Some Of Gary Larson's Best Far Side Comics Had Mind-Blowing Backstories](https://screenrant.com/far-side-comics-backstories-gary-larson/ ) | May 4, 2024 |
 | [Far Side's Funniest Fourth Wall-Breaking Comic Perfectly Explains Its Recurring Characters](https://screenrant.com/far-side-funniest-comics-recurring-characters-gary-larson/ ) | May 2, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40](https://screenrant.com/funniest-far-side-comics-gary-larson-april-1984/ ) | Apr 30, 2024 |
 | [10 Funniest Far Side Comics That Prove It's Obsessed with Fishing (and Death)](https://screenrant.com/funniest-far-side-comics-fishing-gary-larson-best/ ) | APR 28, 2024 |
