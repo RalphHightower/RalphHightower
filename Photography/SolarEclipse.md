@@ -124,6 +124,7 @@
 
 | 2024 Total Solar Eclipse — NASA | Date |
 |---|---|
+| [Sun Series: Bonus: Dispatches from the Path of Totality - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-bonus-dispatches-from-the-path-of-totality/ )[^201] | MAY 3, 2024 |
 | [Seeing the Solar Eclipse from 223,000 Miles Away - NASA](https://www.nasa.gov/image-article/seeing-the-solar-eclipse-from-223000-miles-away/ ) | APR 15, 2024 |
 | [NASA’s LRO Observes 2024 Solar Eclipse Shadow - NASA](https://www.nasa.gov/missions/lro/nasas-lro-observes-2024-solar-eclipse-shadow/ ) | APR 15, 2024 |
 | [The April 8 Total Solar Eclipse: Through the Eyes of NASA - NASA Science](https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/ ) | APR 12, 2024 |
@@ -194,6 +195,8 @@
 | [An Almost Total Lunar Eclipse - NASA Science](https://science.nasa.gov/solar-system/moon/an-almost-total-lunar-eclipse/ ) | NOV 10, 2021 |
 | [10 Things About the Total Lunar Eclipse on Jan. 31, 2018 - NASA Science](https://science.nasa.gov/earth/10-things-to-know-about-the-total-lunar-eclipse-on-jan-31/ ) | JAN 22, 2018 |
 | [‘Super Blue Blood Moon’ Coming Jan. 31 - NASA](https://www.nasa.gov/solar-system/super-blue-blood-moon-coming-jan-31/ ) | JAN 18, 2018 |
+
+[^201]: [NASA](https://www.nasa.gov/) Podcast.
 
 </details >
 
@@ -391,6 +394,62 @@
 
 </details >
 
+### April 8, 2024 — Total Solar Eclipse • [ScienceAlert](https://www.sciencealert.com/ )
+
+<details markdown ="1" ><summary >Expand / Collapse: Total Solar Eclipse • ScienceAlert</summary >
+
+| [ScienceAlert](https://www.sciencealert.com/) | Date |
+|---|---|
+| [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
+| [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
+| ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
+| [Keep Your Eyes Peeled: 'Devil Comet' May Show During Solar Eclipse : ScienceAlert](https://www.businessinsider.com/devil-comet-visible-during-total-solar-eclipse-how-see-2024-4 ) | 05 April 2024 |
+| [ScienceAlert's Official Guide to The 2024 Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/sciencealerts-official-guide-to-the-2024-total-solar-eclipse ) | 04 April 2924 |
+| [The Total Solar Eclipse Could Solve a Strange Mystery About The Sun : ScienceAlert](https://www.sciencealert.com/the-total-solar-eclipse-could-solve-a-strange-mystery-about-the-sun ) | 29 March 2024 |
+| [2017's Total Eclipse May Have Caused a Spike in Road Fatalities : ScienceAlert](https://www.sciencealert.com/2017s-total-eclipse-may-have-caused-a-spike-in-road-fatalities ) | 26 March 2024 |
+| [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) | 26 February 2024 |
+| [There's a Solar Eclipse Crossing The US in 2024 That Will Blow Your Mind : ScienceAlert](https://www.businessinsider.com/why-2024-total-solar-eclipse-cool-best-special-nasa-2024-1 ) | 22 January 2024 |
+| [Surreal NASA Footage Reveals What a Solar Eclipse Looks Like on Mars : ScienceAlert](https://www.sciencealert.com/surreal-nasa-footage-reveals-what-a-solar-eclipse-looks-like-on-mars ) | 24 December 2023 |
+
+</details >
+
+### April 8, 2024 — Total Solar Eclipse • [Indiana University](https://www.ie.edu/ )
+
+<details markdown="1" ><summary >Expand / Collapse: Solar Eclipse 2024: Indiana University</summary >
+
+| [Eclipse Project: Solar Eclipse 2024: Indiana University](https://eclipse.iu.edu/eclipse/index.html ) |  Date |
+|---|---|
+| [Eclipses give IU researcher a glimpse into plants’ reaction to environmental stressors](https://news.iu.edu/live/news/35529-eclipses-give-iu-researcher-a-glimpse-into-plants ) | Apr 12, 2024 |
+| [Embracing totality: IU educates, entertains thousands gathered to witness total solar eclipse](https://experience.iu.edu/embracing-totality ) | Apr 10, 2024 |
+| [Eclipse 2024: O’Neill faculty, alumni, and students help keep Indiana safe during the eclipse – Making a Difference](https://blog.oneill.iupui.edu/2024/04/08/eclipse-2024-alumni-faculty/ ) | April 8, 2024 |
+| [School of Education brings solar eclipse lessons to educators and learners around the state: IU News](https://news.iu.edu/live/news/35505-school-of-education-brings-solar-eclipse-lessons-to-ed ) | Apr 4, 2024 |
+| [Solar eclipse is a time for reverence, reflection in many Native American cultures: IU News](https://news.iu.edu/live/news/35481-solar-eclipse-is-a-time-for-reverence-reflection ) | Apr 1, 2024 |
+| [Herron students’ commemorative eclipse posters inspired by music and the city: IU News](https://news.iu.edu/live/news/35478-herron-students-commemorative-eclipse-posters-inspired ) | Apr 1, 2024 |
+| [Total eclipse at IU Bloomington: What you need to know](https://news.iu.edu/live/news/35477-total-eclipse-at-iu-bloomington-what-you-need-to ) | Apr 1, 2024 |
+| [IU scientists launching smartphone app to report bird behavior during eclipse](https://news.iu.edu/live/news/35465-iu-scientists-launching-smartphone-app-to-report ) | Mar 27, 2024 |
+| [Eclipse mythology: Celestial creatures try, fail to swallow sun](https://news.iu.edu/live/news/35448-eclipse-mythology-celestial-creatures-try-fail-to ) | Mar 27, 2024 |
+| [Tourism students bring vision for Indy’s Lunacy! Solar Eclipse Festival to life](https://news.iu.edu/live/news/35430-tourism-students-bring-vision-for-indys-lunacy ) | Mar 20, 2024 |
+| [When it all lines up: Meet IU Northwest’s ‘eclipse experts’](https://news.iu.edu/northwest/live/news/35426-when-it-all-lines-up-meet-iu-northwests-eclipse ) | Mar 19, 2024 |
+| [‘Receding Horizons’ exhibition highlights humanity’s discoveries, stories inspired by the cosmos](https://news.iu.edu/live/news/35317-receding-horizons-exhibition-highlights-humanitys ) | Mar 8, 2024 |
+| [IU eclipse scholars support communities ahead of major tourism event](https://news.iu.edu/live/news/35299-iu-eclipse-scholars-support-communities-ahead-of ) | Mar 6, 2024 |
+| [Public safety officials highlight need for preparedness, patience during upcoming solar eclipse](https://news.iu.edu/live/news/34771-public-safety-officials-highlight-need-for ) | Mar 6, 2024 |
+| [IU Bloomington leaders conduct safety exercise to prepare for solar eclipse](https://news.iu.edu/live/news/34506-iu-bloomington-leaders-conduct-safety-exercise-to ) | Mar 5, 2024 |
+| [IU campuses offering variety of eclipse events to enjoy celestial spectacle](https://news.iu.edu/live/news/34179-iu-campuses-offering-variety-of-eclipse-events-to ) | Feb 29, 2024 |
+| [IUPUI leadership collaborates on safety exercise to prepare for total solar eclipse](https://news.iu.edu/live/news/34168-iupui-leadership-collaborates-on-safety-exercise ) | Feb 27, 2024 |
+| [Janelle Monáe, William Shatner to perform at Hoosier Cosmic Celebration at IU Bloomington](https://news.iu.edu/live/news/33899-janelle-mone-william-shatner-to-perform-at-hoosier-cos ) | Feb 5, 2024 |
+| [IU Public Safety plans ahead for 2024 solar eclipse; what can you do to prepare?](https://news.iu.edu/live/news/33933-iu-public-safety-plans-ahead-for-2024-solar ) | Jan 31, 2024 |
+| [IU South Bend preparing for celestial event with on-campus activities](https://southbend.iu.edu/news/?p=10518 ) | Jan 19, 2024 |
+| [Ask the Expert: Protecting your eyes during a solar eclipse](https://news.iu.edu/live/news/31934-ask-the-expert-protecting-your-eyes-during-a-solar ) | Oct 11, 2023 |
+| [30 rural organizations receive grants to support solar eclipse arts, cultural activities](https://news.iu.edu/live/news/31921-30-rural-organizations-receive-grants-to-support ) | Oct 5, 2023 |
+| [IU using rare solar eclipse as opportunity to educate, engage](https://news.iu.edu/live/news/31920-iu-using-rare-solar-eclipse-as-opportunity-to-educate- ) | Oct 5, 2023 |
+| [IU observatories play role in public education, astronomy history](https://news.iu.edu/live/news/31913-iu-observatories-play-role-in-public-education ) | Oct 4, 2023 |
+| [Unlocking the mysteries of animal behavior during cosmic events](https://news.iu.edu/live/news/31916-unlocking-the-mysteries-of-animal-behavior-during ) | Oct 3, 2023 |
+| [IU astronomers join scientific effort to study sun’s corona during 2024 solar eclipse](https://news.iu.edu/live/news/28278-iu-astronomers-join-scientific-effort-to-study-suns-co ) | May 30, 2023 |
+| [2024 solar eclipse initiative to support arts, cultural activities in rural Indiana](https://news.iu.edu/live/news/28275-2024-solar-eclipse-initiative-to-support-arts ) | May 24, 2023 |
+| [What to expect during 2024 total solar eclipse in Indiana](https://news.iu.edu/feature/eclipse ) | May 22, 2023 |
+
+</details >
+
 ## 2024-04-08 Events
 
 <details markdown='1'><summary>Expand / Collapse: NASA Hosted 2024-04-08</summary>
@@ -422,7 +481,7 @@
 
 ## August 21, 2017 — Total Solar Eclipse 
 
-### [Eclipse 2017 — NASA](https://eclipse2017.nasa.gov/ )
+### Total Solar Eclipse — August 21, 2017 •  [NASA](https://eclipse2017.nasa.gov/ )
 
 <details markdown='1'><summary >Expand / Collapse: Total Solar Eclipse — August 21, 2017 • NASA</summary>
 
@@ -529,7 +588,7 @@
 
 </details >
 
-### Eclipse 2017 — [Space](https://www.space.com/) • [LiveScience](https://www.livescience.com/)
+### Total Solar Eclipse — August 21, 2017 • [Space](https://www.space.com/) • [LiveScience](https://www.livescience.com/)
 
 <details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
 
@@ -854,8 +913,57 @@
 | ['Great American Total Solar Eclipse' Just 1 Year Away / Space](https://www.space.com/33798-great-american-solar-eclipse-one-year-away.html ) | August 19, 2016 |
 | [NASA Solar Observatory Suffers Hiccup During Eclipse (Photo) / Space](https://www.space.com/33644-nasa-sun-watching-spacecraft-eclipse-glitch.html ) | August 3, 2016 |
 
-
 </details>
+
+### Total Solar Eclipse — August 21, 2017 • [ScienceAlert](https://www.sciencealert.com/)
+
+<details markdown ="1" ><summary >Expand / Collapse: Total Solar Eclipse • ScienceAlert</summary >
+
+| [ScienceAlert](https://www.sciencealert.com/) | Date |
+|---|---|
+| [Confirmed: 2017's Total Solar Eclipse Created Bow Waves in Earth's Atmosphere : ScienceAlert](https://www.sciencealert.com/the-august-eclipse-created-bow-waves-in-earth-s-atmosphere ) | 27 December 2017 |
+| [The Solar Eclipse Burned an Image of Itself Onto a Woman's Retina : ScienceAlert](https://www.washingtonpost.com/news/morning-mix/wp/2017/12/08/the-solar-eclipse-burned-a-crescent-wound-on-a-womans-retina-she-wasnt-wearing-proper-glasses/? ) | 08 December 2017 |
+| [A Biblical "Miracle" Could Be One of the First Documented Solar Eclipses : ScienceAlert](https://www.sciencealert.com/ancient-biblical-miracle-solar-eclipse-near-east-1207-bce ) | 31 October 2017 |
+| [NASA Just Released This Absolutely Breathtaking Image of The Solar Eclipse in Infrared : ScienceAlert](https://www.sciencealert.com/nasa-just-released-this-absolutely-breathtaking-image-of-the-solar-eclipse-in-infrared ) | 30 August 2017 |
+| [How Did Animals React to The Solar Eclipse? Here's Some Reports on Their Weird Behaviour : ScienceAlert](https://www.businessinsider.com.au/how-animals-reacted-to-the-solar-eclipse-2017-8 ) | 22 August 2017 |
+| [Behold The International Space Station Passing in Front of The Sun During The Eclipse : ScienceAlert](https://www.sciencealert.com/10-unique-photos-you-really-need-to-see-of-the-solar-eclipse ) | 22 August 2017 |
+| [If Your Eyes Hurt After Watching The Solar Eclipse, Here's What You Need to Know : ScienceAlert](https://www.businessinsider.com.au/eyes-hurt-after-solar-eclipse-solar-retinopathy-2017-8 ) | 22 August 2017 |
+| [The Ultimate Eclipse Photo Is in: NASA Caught The ISS Flying in Front of The Sun : ScienceAlert](https://www.businessinsider.com.au/solar-eclipse-space-station-nasa-photos-video-2017-8 ) | 21 August 2017 |
+| [Here's How to Find Out if You Might Miss The Solar Eclipse Because of Bad Weather : ScienceAlert](https://www.businessinsider.com.au/solar-eclipse-cloudy-weather-2017-8?r=US&IR=T ) | 21 August 2017 |
+| [Here Are The 4 Best Live Video Feeds Streaming The 2017 Total Solar Eclipse : ScienceAlert](https://www.businessinsider.com.au/how-to-watch-solar-eclipse-livestream-youtube-nasa-2017-8?r=US&IR=T ) | 20 August 2017 |
+| [Here's How to Photograph The Solar Eclipse Without Damaging Your Camera : ScienceAlert](https://www.businessinsider.com.au/solar-eclipse-2017-how-to-take-photos-of-the-eclipse-2017-8?r=US&IR=T ) | 18 August 2017 |
+| [Everything You Need to Know to Be Ready For Monday's Great American Eclipse : ScienceAlert](https://www.sciencealert.com/everything-you-need-to-know-to-be-ready-for-monday-s-great-american-eclipse ) | 17 August 2017 |
+| [If You Can't Make This Solar Eclipse, Here's When Your Next Chance Will Be : ScienceAlert](https://www.businessinsider.com.au/when-is-next-solar-eclipse-when-was-last-solar-eclipse-2017-8?r=US&IR=T ) | 17 August 2017 |
+| [Hardcore Eclipse Chasers Spend Big Money to Watch The Totality Longer Than Everybody Else : ScienceAlert](https://www.businessinsider.com.au/total-solar-eclipse-chasing-airplane-experience-2017-8 ) | 17 August 2017 |
+| [No, This Year's Solar Eclipse Won't Trigger a Nibiru Apocalypse : ScienceAlert](https://www.sciencealert.com/no-this-year-s-total-solar-eclipse-won-t-trigger-a-nibiru-apocalypse ) | 10 August 2017 |
+| [7 of The Wackiest Questions NASA Has Been Asked About The Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/7-wackiest-questions-nasa-has-been-asked-about-the-total-solar-eclipse ) | 10 August 2017 |
+| [Will The Upcoming Solar Eclipse Drive Animals to Totally Weird Behaviours? : ScienceAlert](https://www.washingtonpost.com/news/animalia/wp/2017/08/07/do-eclipses-drive-animals-wild-heres-how-you-can-help-scientists-find-out/? ) | 08 August 2017 |
+| [NASA Will Use Converted Bombers to Chase The Totality of The Great American Eclipse : ScienceAlert](https://www.universetoday.com/136384/nasa-use-converted-bombers-chase-totality/ ) | 19 July 2017 |
+| [5 Things You Should Bring to a Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/5-things-you-should-bring-to-a-total-solar-eclipse ) | 06 July 2017 |
+| [August's Total Solar Eclipse Is Going to Be Streamed From 100,000 Feet : ScienceAlert](https://www.sciencealert.com/august-s-total-solar-eclipse-is-going-to-be-streamed-from-100-000-feet ) | 05 April 2017 |
+| [There Are Only 7 Months Until The Great American Eclipse – Here's How to Watch : ScienceAlert](https://www.sciencealert.com/there-s-only-7-months-until-the-great-american-eclipse-here-s-how-to-watch ) | 06 January 2017 |
+| [After 300 Years, Scientists Think They've Finally Solved The Mystery of 'Eclipse Wind' : ScienceAlert](https://www.sciencealert.com/after-300-years-scientists-think-they-ve-finally-solved-the-mystery-of-eclipse-wind ) | 24 August 2016 |
+
+</details >
+
+### [Total Eclipse Weekend Columbia, SC — August 18-21, 2017](https://totaleclipsecolumbiasc.com/ )
+
+<details markdown="1" ><summary >University of South Carolina</summary >
+
+| [University of South Carolina](https://www.sc.eduþ) | Date |
+|---|---|
+| [NSTAR 2017, The 11th International Workshop on the Physics of Excited Nucleons](http://nstar2017.physics.sc.edu/ ) | August 20 — 23, 2017 |
+| [Going dark - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/08/uofsc_naturalist_ready_to_see_eclipse_firsthand.php ) | August 20, 2017 |
+| [Day in the sun - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/08/eclipse_economic_impact.php ) | August 17, 2017 |
+| [Countdown to totality - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/08/university_hosting_several_events_for_eclipse.php ) | August 10, 2017 |
+| [Night and day - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/08/weather_balloon_launch_during_eclipse.php ) | July 29, 2017 |
+| [UofSC community unites to welcome eclipse - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/07/uofsc_community_unites_for_eclipse_experience.php#0 ) | July 27, 2017 |
+| [Einstein vs. Newton, revisited - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/07/timir_datta_eclipse.php ) | July 20, 2017 |
+| [2017 total solar eclipse: UofSC faculty experts - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/06/total_solar_eclipse_faculty_experts_2017.php ) | June 20, 2017 |
+| [Breakthrough Research Magazine - Spring 2017 Issue by VPResearch - Issuu](https://issuu.com/vpresearch/docs/2017_spring_bt_magazine ) | June 19, 2017 |
+| [Carolina stargazing - USC News & Events / University of South Carolina](https://sc.edu/uofsc/posts/2017/04/melton_observatory_skyviewings_and_solar_eclipse.php ) | April 5, 2017 |
+
+</details >
 
 ## Solar Eclipse Articles 
 
@@ -1040,7 +1148,7 @@ August 17, 2017 post martem: My auto exposure bracketing of of 5 photos from -3 
 
 | **It's Texas, Y'all** | 
 |---| 
-| [Trespassing in Texas: know the rules (and avoid the bull’s horns) while viewing the solar eclipse - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/trespassing-in-texas-know-the-rules-and-avoid-the-bullhorns-while-viewing-the-solar-eclipse.html?_gl=1*18v8s4q*_ga*Q1FJM3JRaTdYTUJGVHpNM01hYXhDNVNmQ3JKQzZ4ekx2cmxDeU9BeENzaXBlVEl4OFFaMFE1U19pLTFBVVdQVw..*_ga_YK51HLKH20*MTcxMjI1ODA3My4xLjEuMTcxMjI1ODA3My4wLjAuMA.. )[^4801] | 
+| [Trespassing in Texas: know the rules (and avoid the bull’s horns) while viewing the solar eclipse - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/trespassing-in-texas-know-the-rules-and-avoid-the-bullhorns-while-viewing-the-solar-eclipse.html )[^4801] | 
 | [Texas eclipse weather: New forecast predictions in 5 Texas cities indicates less cloud coverage](https://www.lonestarlive.com/weather/2024/04/texas-eclipse-weather-new-forecast-predictions-in-5-texas-cities-indicates-less-cloud-coverage.html ) | 
 | [Solar eclipse 2024: Here are 11 basic yet overpriced Texas hotels available near totality - lonestarlive.com](https://www.lonestarlive.com/life/2024/04/solar-eclipse-2024-here-are-11-basic-yet-overpriced-texas-hotels-available-near-totality.html ) | 
 
