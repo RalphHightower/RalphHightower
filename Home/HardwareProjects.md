@@ -101,6 +101,11 @@
 | [Turing RK1 - compute module based on Rockchip RK3588](https://turingpi.com/product/turing-rk1/ ) |
 | [Turing RK1 RK3588 system-on-module for cluster boards is now available (for pre-order) - CNX Software](https://www.cnx-software.com/2023/07/28/turing-rk1-rk3588-system-on-module-for-cluster-boards/ ) |
 
+| Products for TuringPi | Price |
+|---|---|
+| **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
+| [DeskPi Store](https://deskpi.com/ ) | |
+
 ### [NVIDIA Jetson AI Articles]()
 
 | [NVIDIA AI Articles]() | Date |
@@ -166,6 +171,7 @@
 | Products for Raspberry Pi |
 |---|
 | **[Raspberry Pi Products One Stop Shopping Mall – 52Pi Store](https://52pi.com/ )** |
+| [DeskPi Store](https://deskpi.com/ ) |
 
 | PDP-11 replica kit: the PiDP-11 Build Sequence |
 |---|
@@ -187,6 +193,10 @@
 
 | Raspberry Pi 5 Articles | Date |
 |---|---|
+| [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
+| ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^11] | MAY 3, 2024 |
+| [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
+| [Ubuntu 24.04 on Raspberry Pi has intermittent installation issues / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/ubuntu-2404-on-raspberry-pi-has-intermittent-installation-issues ) | April 30, 2024 |
 | **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
 | **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** | 2023-11-05 |
 | **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | 2023-11-05 |
@@ -215,12 +225,20 @@
 | [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | 2023-12-13 |
 | [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | 2023-11-26 |
 
+[^11]: [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
+
 | Add-ons | Price |
 |---|---|
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
+| **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
 | **[Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 | [Products – Pineberry Pi](https://pineberrypi.com/pages/products )
 | [Pineberry Pi](https://pineberrypi.com/ ) |
+| [HatDrive! Piano (NVMe 2230, 2242 GEN 3) for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hatdrive-piano-nvme-2230-2242-gen-3-for-raspberry-pi-5 ) | (H/W) €32,99 EUR |
+| [Hat AI! Dual for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-ai-dual-for-raspberry-pi-5 ) | (H/W) €35,99 EUR |
+| [Hat mPCIe for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-mpcie-for-raspberry-pi-5 ) | (H/W) 
+€18,99 EUR |
+| [Hat uPCIty Lite for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-upcity-lite-for-raspberry-pi-5 ) | (H/W) €26,99 EUR |
 
 ### Raspberry Pi 4
 
@@ -347,9 +365,9 @@
 |----|
 | [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station) |
 | [Precise Point Positioning (PPP) HOWTO](https://gpsd.gitlab.io/gpsd/ppp-howto.html) |
-| **[Game of Life Coffee Table : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/Game-of-Life-Coffee-Table/ )[^11]** |
+| **[Game of Life Coffee Table : 6 Steps (with Pictures) - Instructables](https://www.instructables.com/Game-of-Life-Coffee-Table/ )[^111]** |
 
-[^11]: **Incredibly, cool project**
+[^111]: **Incredibly, cool project**
 
 ## Embedded Computers 
 
@@ -495,11 +513,11 @@ I could easily see this for installation in cars, SUVs, trucks.
 | [Time Appliance Project](https://github.com/opencomputeproject/Time-Appliance-Project) | Time Master is a critical part of a PTP enabled network. It provides accurate time via GNSS while maintaining accuracy in case of GNSS failure via a high stability (and holdover) oscillator such as an atomic clock. Existing products in the market are often closed sourced and are far from having sufficient features. The Time Card project presents an open source solution via a PCIe card. |
 | [YouTube PTP](https://youtu.be/tU0xC1ynaT8) ||
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
-| [Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) ||
 | [Open Time Server](https://github.com/opencomputeproject/Time-Appliance-Project/tree/master/Open-Time-Server) ||
+| [Time-Appliance-Project Software](https://github.com/opencomputeproject/Time-Appliance-Project/blob/master/Software) ||
+| [Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project) ||
 | [Time Card](https://github.com/opencomputeproject/Time-Appliance-Project/blob/master/Time-Card) ||
 | [DC PTP Profile](https://github.com/opencomputeproject/Time-Appliance-Project/blob/master/DC-PTP-Profile) ||
-| [Software](https://github.com/opencomputeproject/Time-Appliance-Project/blob/master/Software) ||
 
 ## Programming 
 
