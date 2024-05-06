@@ -23,6 +23,22 @@
 [^1]: [The Fifteenth Doctor's Companion Has Been Revealed](https://www.ign.com/articles/the-fifteenth-doctors-companion-has-been-revealed)
 [^2]: [Everything We Know About the Future of Doctor Who](https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140)
 
+## Doctor Who — Magic The Gathering 
+
+| MagicThe Gathering — Doctor Who | Date |
+|---|---|
+| [River Song's Universes Beyond Doctor Who Magic Card Is A Complete Flavor Win](https://www.cbr.com/doctor-who-river-song-universe-beyond-mtg/ ) | OCT 16, 2023 |
+| [The Best Time Travel Mechanics In Magic: The Gathering History](https://www.cbr.com/mtg-time-travel-mechanics/ ) | AUG 4, 2023 |
+| [MtG Universes Beyond: Doctor Who Complete Visual Spoiler](https://www.cbr.com/mtg-doctor-who-visual-spoilers/ ) | AUG 3, 2023 |
+| [A History of Time Travel in Magic: The Gathering](https://www.cbr.com/mtg-doctor-who-time-travel-history/ ) | JUL 26, 2023 |
+| [MTG Doctor Who Expansion Features 'The Doctor' Cards With Companion Partner Ability](https://www.cbr.com/mtg-doctor-who-universes-beyond-commander-companions/ ) | MAY 24, 2023 |
+| [MTG Doctor Who Planechase Cards Explained](https://www.cbr.com/mtg-bbc-doctor-who-planechase-tv-sci-fi-universe/ ) | MAY 20, 2023 |
+| [MTG: Doctor Who Release Date, Leaks and Spoilers](https://www.cbr.com/mtg-bbc-doctor-who-release-date-leaks-spoilers/ ) | MAY 19, 2023 |
+| [MTG's Doctor Who Set Could Add TV's Best Sci-Fi Monsters](https://www.cbr.com/mtg-doctor-who-universes-beyond-tv-best-sci-fi-monsters/ ) | MAY 15, 2023 |
+| [MTG Doctor Who Set Release Date Revealed](https://www.cbr.com/mtg-doctor-who-set-release-date-revealed/ ) | MAY 8, 2023 |
+| [Doctor Who Is Set to Invade Magic: The Gathering](https://www.cbr.com/doctor-who-is-set-to-invade-magic-the-gathering/ ) | AUG 18, 2022 |
+| [Neil Patrick Harris Teases Details on His 'Posh' Doctor Who Villain](https://www.cbr.com/doctor-who-neil-patrick-harris-teases-villain-details/ ) | AUG 12, 2022 |
+
 ## Doctor Who News
 
 | Doctor Who News | Date |
