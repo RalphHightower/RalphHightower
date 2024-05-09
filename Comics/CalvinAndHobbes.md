@@ -6,6 +6,8 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Did a Fake Calvin and Hobbes Comic Strip Sell For Over $14,000?](https://www.cbr.com/fake-calvin-and-hobbes-comic-strip-sell-14000/ ) | May 7, 2024 |
+| [Calvin & Hobbes: 10 Best Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/ ) | May 7, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Parents](https://www.cbr.com/best-calvin-hobbes-for-parents/ ) | May 2, 2024 |
 | [10 Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/ ) | Apr 29, 2024 |
 | [9 Weirdest Details From Early Calvin And Hobbes Comics](https://www.cbr.com/calvin-and-hobbes-weirdest-details-early-comic-strips/ ) | Apr 23, 2024 |
