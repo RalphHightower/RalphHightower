@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [Far Side Creator Gary Larson's Dream Gig Reveals Why Experimentation Was Instrumental to the Comic (Hint: It Wasn't Cartoonist)](https://screenrant.com/far-side-gary-larson-dream-job-jazz-guitarist/ ) | May 8, 2024 |
+| [15 Funniest Far Side Comics That Prove It's Obsessed with Miniature People](https://screenrant.com/funniest-far-side-comics-gary-larson-miniature-people/ ) | May 7, 2024 |
 | [Some Of Gary Larson's Best Far Side Comics Had Mind-Blowing Backstories](https://screenrant.com/far-side-comics-backstories-gary-larson/ ) | May 4, 2024 |
 | [Far Side's Funniest Fourth Wall-Breaking Comic Perfectly Explains Its Recurring Characters](https://screenrant.com/far-side-funniest-comics-recurring-characters-gary-larson/ ) | May 2, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40](https://screenrant.com/funniest-far-side-comics-gary-larson-april-1984/ ) | Apr 30, 2024 |
@@ -128,6 +130,7 @@
 
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/ ) | May 8, 2024 |
 | [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
 | [10 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/ ) | APR 5, 2024 |
 | [Gary Larson's 10 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/ ) | MAR 26, 2024 |
