@@ -77,7 +77,8 @@
 
 | Reviews | Date |
 |---|---|
-| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) | |
+| [2025 Chevy Corvette Prices, Reviews, and Pictures / Edmunds](https://www.edmunds.com/chevrolet/corvette/2025/ ) | 1/22/2024 |
+| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) | |]
 
 ### API (Application Program Interface)
 

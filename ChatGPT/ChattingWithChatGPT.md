@@ -323,15 +323,19 @@ I thought that I would do something different to announce our forty-fifth weddin
 |June 10 – The first Apple II series computers go on sale.|
 |June 16 – Wernher von Braun, American-German aerospace engineer dies. |
 |August 12 – The NASA Space Shuttle, named Enterprise, makes its first test free-flight from the back of a Boeing 747 Shuttle Carrier Aircraft.|
+|August 15 – The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the Wow! signal for a notation made by a volunteer on the project. |
 |August 16 – Elvis Presley, American actor, musician and singer-songwriter dies.|
 |August 20 – Voyager program: The United States launches the Voyager 2 spacecraft.|
 |September 5 – Voyager program: Voyager 1 is launched after a brief delay.|
 |September 11 – Atari, Inc. releases its Video Computer System in North America.|
 |September 18 – Courageous (U.S.), skippered by Ted Turner, sweeps the Australian challenger Australia in the 24th America’s Cup yacht race.|
+|October 25 — Digital Equipment Corp. (DEC) introduced the VAX-11/780[^41] at their annual shareholders meeting.  |
 |November 22 – The TCP/IP test succeeds, connecting 3 ARPANET nodes (of 111), in what eventually becomes the Internet protocol.|
 |November 22 – British Airways inaugurates regular London to New York City supersonic Concorde service.|
 |December 17 – Ralph Hightower marries Paula Lambert. |
 | **[ChatGPT](https://chat.openai.com/)**: 1977 was a significant year in several fields, including space exploration, technology, entertainment and sports. Notable events include the first test flight of the Space Shuttle Enterprise, the first use of optical fiber for telephone traffic, the premiere of the film "Star Wars", the fourth win of A.J. Foyt in the Indianapolis 500, the launch of the Voyager 1 and Voyager 2 spacecraft, the release of the Atari Video Computer System, and the successful TCP/IP test that became the Internet protocol. Additionally, important individuals such as Wernher von Braun, Elvis Presley, and Ralph Hightower, started or ended their careers, and Ralph Hightower married Paula Lambert.|
+
+[^41]: The DEC VAX11-780 is one of my bucket list computers.
 
 ## Jeopardy 
 
@@ -660,7 +664,7 @@ I need to tell ChatGPT that although Spock is a fictional character that people 
 
 ### Doctor Who 
 
-| *"RalphHightower"* / [ChatGPT]() |
+| *"RalphHightower"* / [ChatGPT](https://chat.openai.com/ ) |
 |----|
 | *"Are you familiar with Doctor Who?"* |
 |Yes, I am familiar with Doctor Who. It is a British science fiction television series created and produced by the BBC. The show follows the adventures of the Doctor, a time-traveling alien who travels through time and space in a ship called the TARDIS. The series has been on the air since 1963, and has a large and dedicated fan base.|
