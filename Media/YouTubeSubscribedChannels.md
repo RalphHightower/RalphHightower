@@ -21,6 +21,7 @@
 | [Dave Plummer's Garage](https://youtube.com/@DavesGarage? ) | Computers |
 | [ExplainingComputers](https://youtube.com/@ExplainingComputers ) | Computers |
 | [Jeff Geerling](https://youtube.com/@JeffGeerling ) | Computers |
+| [Level 2 Jeff](https://youtube.com/@Level2Jeff? ) | Computers | 2024-05-10 |
 | [O'Reilly](https://youtube.com/@oreilly ) | Computers |
 | [RISC-V International](https://youtube.com/@RISCVInternational ) | Computers |
 | [ServeTheHome](https://youtube.com/@ServeTheHomeVideo? ) | Computers |
