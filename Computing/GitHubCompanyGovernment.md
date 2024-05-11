@@ -64,6 +64,7 @@
 | [Cloudflare](https://github.com/cloudflare ) | Cloudflare open source tools |
 | [Cobalt Strike](https://github.com/Cobalt-Strike ) | The official public repository for Cobalt Strike related projects. |
 | [Codecov](https://github.com/codecov ) | Empower developers with tools to improve code quality and testing. |
+| [Combadge](https://github.com/Combadge ) | An organisation focused on development of Combadge software. |
 | [comma\.ai](https://github.com/commaai ) | Make driving chill |
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
 | [Connections Museum](https://github.com/connectionsmuseum ) | Connections Museum |
@@ -124,6 +125,7 @@
 | [IoTSharp](https://github.com/IoTSharp ) | An IoT platform for device management, data collection, processing, status detection, and remote control |
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
 | [Jellyfin](https://github.com/jellyfin ) | The Free Software Media System |
+| [JetBrains](https://github.com/JetBrains ) | JetBrains Open Source — At JetBrains we create, contribute, and support Open Source projects. We are the company behind IntelliJ IDEA and Kotlin, both of which are Open Source and foundational to the many other tools and products we have at JetBrains. |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins |
 | [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
 | [Keyfactor](https://github.com/Keyfactor ) | Keyfactor delivers identity-first security for every device, workload, and thing. Because when you establish digital trust, great things happen. |
@@ -139,6 +141,8 @@
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
 | [LongSoft](https://github.com/LongSoft ) | LongSoft |
+| [Maitrix.org](https://github.com/maitrix-org ) | 
+Open Organization to Build AI-powered Realities based on Techniques of Large Language/Multi-Modal Models, Agent Models, World Models. |
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
@@ -202,6 +206,7 @@
 | [OpenLDAP Project](https://github.com/openldap ) | Lightweight  Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [OpenNMS](https://github.com/OpenNMS ) | Enterprise-Grade Open-Source Network Management |
+| [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
 | [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
 | [OpenStreetMap on GitHub](https://github.com/openstreetmap ) | OpenStreetMap is the largest community-created geospatial project of all time. |
@@ -216,6 +221,7 @@
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
+| [QEMU](https://github.com/qemu ) | QEMU is a generic and open source machine & userspace emulator and virtualizer. |
 | [RabbitMQ](https://github.com/rabbitmq ) | Open source RabbitMQ |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi ) | Raspberry Pi |
@@ -259,10 +265,12 @@
 | [theengs](https://github.com/theengs ) | the engs |
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |
+| [Tracecat](https://github.com/TracecatHQ ) | Open source automation platform for security alerts |
 | [Triton Inference Server](https://github.com/triton-inference-server ) | NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
 | [Truffle Security](https://github.com/trufflesecurity ) | Find and verify credentials |
 | [Turing Machines](https://github.com/turing-machines ) | A platform for edge computing and AI agents |
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
+| [U.S. Geological Survey](https://github.com/DOI-USGS ) | By integrating our diverse scientific expertise, we understand complex natural science phenomena and provide scientific products that lead to solutions. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Valve Software](https://github.com/ValveSoftware ) | Valve Software |
@@ -275,6 +283,7 @@
 | [Windows on R](https://github.com/worproject ) | Get the full desktop experience on your SBC |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
+| [zrythm](https://github.com/zrythm ) | a highly automated and intuitive digital audio workstation - official mirror |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^92]
 [^92]: Three Letter Acronym[^93]
