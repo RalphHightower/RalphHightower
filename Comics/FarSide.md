@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [Gary Larson Told Fans Exactly How The Far Side Would End – A Decade Before It Did](https://screenrant.com/why-gary-larson-stopped-drawing-far-side-comics/ ) | May 10, 2024 |
 | [Far Side Creator Gary Larson's Dream Gig Reveals Why Experimentation Was Instrumental to the Comic (Hint: It Wasn't Cartoonist)](https://screenrant.com/far-side-gary-larson-dream-job-jazz-guitarist/ ) | May 8, 2024 |
 | [15 Funniest Far Side Comics That Prove It's Obsessed with Miniature People](https://screenrant.com/funniest-far-side-comics-gary-larson-miniature-people/ ) | May 7, 2024 |
 | [Some Of Gary Larson's Best Far Side Comics Had Mind-Blowing Backstories](https://screenrant.com/far-side-comics-backstories-gary-larson/ ) | May 4, 2024 |
