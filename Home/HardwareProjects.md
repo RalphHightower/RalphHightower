@@ -250,6 +250,7 @@
 
 | Add-ons | Price |
 |---|---|
+| **[Compute Blade / Your Raspberry Pi CM4 Cluster](https://computeblade.com/ )** |
 | [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
 
 ## RISC-V
