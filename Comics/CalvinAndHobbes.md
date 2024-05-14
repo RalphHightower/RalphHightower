@@ -1,6 +1,7 @@
 # Comics \| Calvin And Hobbes 
 
 | Best Calvin And Hobbes Collections | Price |
+
 |---|---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 )** | **$99.58** |
 
@@ -108,6 +109,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
 | [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/ ) | Apr 29, 2024 |
 | [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
 | [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
