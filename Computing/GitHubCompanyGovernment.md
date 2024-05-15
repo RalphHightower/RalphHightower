@@ -206,8 +206,10 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [OpenLDAP Project](https://github.com/openldap ) | Lightweight  Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [OpenNMS](https://github.com/OpenNMS ) | Enterprise-Grade Open-Source Network Management |
+| [OpenNMT](https://github.com/OpenNMT) | Open source ecosystem for neural machine translation and neural sequence learning |
 | [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
 | [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
+| [OpenSCAD](https://github.com/openscad ) | OpenSCAD - The Programmers Solid 3D CAD Modeller |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
 | [OpenStreetMap on GitHub](https://github.com/openstreetmap ) | OpenStreetMap is the largest community-created geospatial project of all time. |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
