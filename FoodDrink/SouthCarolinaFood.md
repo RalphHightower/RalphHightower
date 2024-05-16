@@ -1,4 +1,4 @@
-# South Carolina Food 
+# FoodDrink \| South Carolina Food 
 
 ## Statewide 
 
@@ -8,8 +8,8 @@
 
 ## Columbia Area
 
-| Restaurant | Cuisine | City |
-|----|----|-----|
+| Restaurant | Cuisine | City | Date Added/Updated |
+|----|----|-----|---|
 | [George Roberts Oysters Raw Bar & Wine](https://www.georgerobertsrawbarsc.com/ )[^11] | Seaford/Steaks | Ballentine |
 | [Chophouse of Chapin / Your Neighborhood Chophouse in Chapin, SC](https://www.chophouseofchapin.com/ ) | Steak | Chapin |
 | [Bart's Crazy Good Coffee](https://bartscoffee.com/ ) | Coffee | Chapin |
@@ -47,14 +47,14 @@
 
 ## Fort Mill
 
-| Restaurant/Condiments | Cuisine | City |
-|----|---|---|
+| Restaurant/Condiments | Cuisine | City | Date Added/,Updated |
+|----|---|---|---|
 | [Puckerbutt Pepper Company creators of the world’s hottest pepper and intensely flavorful hot sauces – Puckerbutt Pepper Company](https://puckerbuttpeppercompany.com/) | Hot, insanely 🔥, pepper 🌶 sauce | Fort Mill |
 
 ## Coastal Seafood Restaurants
 
-| Coastal Seafood Restaurants to Try|
-|---|
+| Coastal Seafood Restaurants to Try | Date Added/Updated |
+|---|---|
 | [Lee's Inlet Kitchen - Murrells Inlet, SC](https://leesinletkitchen.com/# ) |
 | [Hudson's Seafood House on the Docks - Hilton Head, South Carolina](https://www.hudsonsonthedocks.com/ ) |
 | [Bowens Island Restaurant - Folly Beach, Charleston, SC](https://bowensisland.com/ ) |

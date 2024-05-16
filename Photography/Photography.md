@@ -1,4 +1,4 @@
-# Photography 
+# Photography \| Photography 
 
 ## ISS Solar/Lunar Transit Finder
 
@@ -6,10 +6,18 @@
 |---|
 | [ISS Transit Finder — Solar and Lunar](https://transit-finder.com/ ) |
 
+## Astrophotography 
+
+| Astrophotography | Date |
+|---|---|
+| **[IR Filter Removal for Astrophotography — Imaging Infinity](https://www.imaginginfinity.com/ )**[^11] |
+
+[^11]: IR filter removal from sensor for astrophotography 
+
 ## The Art of Photography — B&H Photo/Video
 
-| The Art of Photography — B&H Photo/Video |
-|---|
+| The Art of Photography — B&H Photo/Video | Date |
+|---|---|
 | [The Art of Photography, Part 1: Portrait Photography](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-1-portrait-photography ) |
 | [The Art of Photography, Part 2: Travel Photography, with Scott Kelby](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-2-travel-photography-with-scott-kelby ) |
 | [The Art of Photography, Part 3: Smartphone Photography, with Hazel Meredith](https://www.bhphotovideo.com/explora/videos/photography/the-art-of-photography-part-3-smartphone-photography-with-hazel-meredith ) ### |
@@ -56,8 +64,9 @@
 
 ## Photography News/Tips
 
-| Photography News/Tips |
-|----|
+| Photography News/Tips | Date |
+|----|---|
+| [A Comprehensive Guide for Starting to Print Your Photos / Fstoppers](https://fstoppers.com/printing/comprehensive-guide-starting-print-your-photos-665251 ) | April 22, 2024 |
 | **[How to Get Started in Large Format Photography / Fstoppers](https://fstoppers.com/film/how-get-started-large-format-photography-647936 )[^41]** |
 | **[4x5 Lenses - Choosing the Best Focal Length — Alex Burke Photography](https://www.alexburkephoto.com/blog/2020/5/31/4x5-lenses-choosing-the-best-focal-length )[^41]** |
 | **[The Joy of Large Format Photography / Fstoppers](https://fstoppers.com/film/joy-large-format-photography-643119)[^41]** |
@@ -83,8 +92,8 @@
 
 ## Canon Camera Reviews 
 
-| Canon Camera Reviews | Technology |
-|---|---|
+| Canon Camera Reviews | Technology | Date |
+|---|---|---|
 | [Canon EOS-1D X Mark III review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-1d-x-mark-iii-review ) | DSLR |
 | [Canon EOS 5D Mark IV review / Digital Camera World](https://www.digitalcameraworld.com/reviews/canon-eos-5d-mark-iv-review#section-specifications ) | DSLR |
 | [Canon EOS R5: Full Mirrorless Camera Review](https://www.learnphotographyskills.com/canon-eos-r5-full-review/ ) | Mirrorless |

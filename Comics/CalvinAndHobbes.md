@@ -1,11 +1,22 @@
-# Comics — Calvin And Hobbes 
+# Comics \| Calvin And Hobbes 
 
 | Best Calvin And Hobbes Collections | Price |
+
 |---|---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 )** | **$99.58** |
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Best Calvin & Hobbes Comic Strips for Kids](https://www.cbr.com/calvin-hobbes-best-strips-kids/ ) | May 10, 2024 |
+| [Did a Fake Calvin and Hobbes Comic Strip Sell For Over $14,000?](https://www.cbr.com/fake-calvin-and-hobbes-comic-strip-sell-14000/ ) | May 7, 2024 |
+| [Calvin & Hobbes: 10 Best Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/ ) | May 7, 2024 |
+| [10 Best Calvin & Hobbes Comic Strips for Parents](https://www.cbr.com/best-calvin-hobbes-for-parents/ ) | May 2, 2024 |
+| [10 Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/ ) | Apr 29, 2024 |
+| [9 Weirdest Details From Early Calvin And Hobbes Comics](https://www.cbr.com/calvin-and-hobbes-weirdest-details-early-comic-strips/ ) | Apr 23, 2024 |
+| [Hobbes' 15 Greatest Moments In Calvin & Hobbes](https://www.cbr.com/hobbes-greatest-moments-calvin-and-hobbes/ ) | Apr 21, 2024 |
+| [10 Ways Calvin and Hobbes Has Aged Poorly](https://www.cbr.com/calvin-and-hobbes-aged-poorly/ ) | APR 3, 2024 |
+| [10 Most Wholesome Calvin And Hobbes Comic Strips](https://www.cbr.com/best-calvin-and-hobbes-wholesome-comic-strips/ ) | APR 9, 2024 |
+| [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) | APR 4, 2024 |
 | [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
 | [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
@@ -98,6 +109,9 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
+| [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/ ) | Apr 29, 2024 |
+| [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
 | [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
 | [10 Calvin and Hobbes Comics That Showcase Bill Watterson's Incredible Artistic Talent](https://screenrant.com/calvin-hobbes-comic-best-art-bill-watterson/ ) | Mar 2, 2024 |
 | [These Hilarious Calvin and Hobbes Comics Will Make Any Grown-Up Feel Nostalgic](https://screenrant.com/calvin-hobbes-comics-nostalgia-childhood-imagination/ ) | Feb 24, 2024 |

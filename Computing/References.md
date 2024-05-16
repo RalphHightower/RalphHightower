@@ -1,4 +1,4 @@
-# References — Computing / Networking, Licensing
+# Computing \| References: Computing / Networking, Licensing
 
 ## References 
 

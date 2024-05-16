@@ -1,4 +1,4 @@
-# Automotive Resources
+# Automotive \| Automotive Resources
 
 ## Car/SUV/Truck Reviews, Resources 
 
@@ -27,6 +27,16 @@
 |-------|--------|-------|-------------|
 | Chevrolet | HHR | 2011 | [Owners Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/1000/MA1279/en_US/2.0/2k11hhr4272835628035289288.pdf) |
 |||| [2011 Chevrolet HHR Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=2011&Category=&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=2011&md=HHR&dt=&module=&from=result&Style=helm&Sku=GMT11A&itemtype=N) $300.00 (paper) |
+||| 2010 | [2010 Chevrolet HHR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA691/en_US/3.0/2k10hhr.pdf ) |
+|||| [2010 Chevrolet HHR Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=&Category=1&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=All+Years&md=HHR&dt=Shop%2FService+Information&module=&from=result&Style=helm&Sku=GMT10A&itemtype=N ) |
+||| 2009 | [2009 Chevrolet HHR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA619/en_US/2.0/2k09hhr.pdf ) |
+|||| [Getting to Know Your 2009 Chevrolet HHR](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA533/en_US/5.0/GTK2009HHR.pdf ) |
+|||| [2009 Chevrolet HHR (ASUV Platform) Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=&Category=1&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=All+Years&md=HHR&dt=Shop%2FService+Information&module=&from=result&Style=helm&Sku=GMT09A&itemtype=N ) |
+||| 2008 | [2008 Chevrolet HHR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA405/en_US/2.0/2k08hhr.pdf ) |
+|||| [2008 Chevrolet HHR (ASUV Platform) Service Manual Set](https://www.helminc.com/helm/product2.asp?Make=CHV&Model=HHR+&Year=&Category=1&class%5F2=CHV&mk=Chevrolet+%26+Geo&yr=All+Years&md=HHR&dt=Shop%2FService+Information&module=&from=result&Style=helm&Sku=GMT08A&itemtype=N ) |
+|||| [Getting to Know your 2008 Chevrolet HHR](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA355/en_US/4.0/GTK2008HHR.pdf ) |
+||| 2007 | [2007 Chevrolet HHR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA124/en_US/4.0/2007ChevroletHHROwnersManual.pdf ) |
+||| 2006 | [2006 Chevrolet HHR Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/0/MA904/en_US/4.0/2006ChevroletHHROwnersManual.pdf ) |
 | Chevrolet | Corvette[^21] | 2024 |[2024 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/8000/MA8788/en_US/1.0/24_CHEV_Corvette_OM_en_US_U_84948178A_2023FEB20.pdf) |
 | | Corvette[^21] | 2023 | [2023 Chevrolet Corvette Owner Manual](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/5000/MA5697/en_US/2.0/23_CHEV_Corvette_OM_en_US_U_84795300B_2022AUG01_2P.pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6690/en_US/1.0/GTK_2023_Chevrolet_Corvette_84795301_A.pdf) |
@@ -65,9 +75,10 @@
 
 ### Reviews 
 
-| Reviews |
-|---|
-| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) |
+| Reviews | Date |
+|---|---|
+| [2025 Chevy Corvette Prices, Reviews, and Pictures / Edmunds](https://www.edmunds.com/chevrolet/corvette/2025/ ) | 1/22/2024 |
+| [Chevy Bolt One Week Review - 4½ Stars - CleanTechnica](https://cleantechnica.com/2023/06/21/chevy-bolt-one-week-review-4%C2%BD-stars/ ) | |]
 
 ### API (Application Program Interface)
 
@@ -87,48 +98,67 @@
 
 ## Automotive News
 
-| Automotive News |
-|---|
-| [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) |
-| ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) |
-| [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) |
-| [Italian Company Ares Is Turning the C8 Corvette into a Hypercar](https://www.caranddriver.com/news/a45676763/ares-s1-corvette-hypercar/ ) |
-| [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) |
-| [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) |
-| [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) |
-| [Scientists shed new light on critical issue facing battery components in EVs: ‘The whole field has been misled’](https://finance.yahoo.com/news/scientists-shed-light-critical-issue-113000830.html ) |
-| [2024 Chevy Traverse Limited: More Exclusive Details](https://gmauthority.com/blog/2023/11/2024-chevy-traverse-limited-more-exclusive-details/ ) |
-| **[An Off-Grid EV Camper Van / Hackaday](https://hackaday.com/2023/11/14/an-off-grid-ev-camper-van/ )** |
-| ['I Hope It Bankrupts Them': Las Vegas Residents Enraged Ahead Of Formula 1 Grand Prix](https://jalopnik.com/i-hope-it-bankrupts-them-las-vegas-residents-enraged-a-1851009102 ) |
-| [EVs Get Easier Fix Thanks To Feature Gas Cars Had For Decades](https://jalopnik.com/evs-get-easier-fix-feature-gas-cars-had-decades-obdii-1851017529 ) |
-| [Heavy EVs Will Be Dangerous In Car Accidents: Study](https://jalopnik.com/heavy-ass-evs-are-going-to-kill-us-all-1848764045 ) |
-| [Shelby Wins Legal Battle Over the 'Eleanor' Gone in 60 Seconds Car - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/14/shelby-wins-legal-battle-over-the-eleanor-gone-in-60-seconds-car/ ) |
-| **[Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ )** |
-| [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) |
-| [2024 Corvette E-Ray Offers New Rapid Blue Badges](https://gmauthority.com/blog/2023/11/2024-corvette-e-ray-offers-new-rapid-blue-badges/ ) |
-| [A Leap Forward in EV Charge Technology: Desten's New LFP Cell Raises the Bar](https://ts2.space/en/a-leap-forward-in-ev-charge-technology-destens-new-lfp-cell-raises-the-bar/0 ) |
-| [Chevy's new 'Holiday to Remember' commercial tugs on America's heart](https://www.usatoday.com/story/money/2023/11/29/chevrolet-holiday-commercial-alzheimers/71743866007/ ) |
-| [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) |
-| [Northvolt unveils 160 Wh/kg sodium-ion battery – pv magazine International](https://www.pv-magazine.com/2023/11/22/northvolt-unveils-160-wh-kg-sodium-ion-battery/ ) |
-| [The Next Leap in Battery Tech: Lithium-Ion Batteries Are No Longer the Gold Standard](https://scitechdaily.com/the-next-leap-in-battery-tech-lithium-ion-batteries-are-no-longer-the-gold-standard/ ) |
-| [Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ ) |
-| [New Flow Battery To Be Tested At Rehabbed 1970s Gas Station](https://cleantechnica.com/2023/12/07/new-flow-battery-ev-fast-charging-critical-materials/ ) |
-| [New Battery Crushes Tesla's Tech, Unveils A Solid-State Marvel With 300% Higher Energy Density, 15-minute Ultra-Fast Charge](https://finance.yahoo.com/news/battery-crushes-teslas-tech-unveils-160816090.html ) |
+| Automotive News | Date |
+|---|---|
+| [The 1st Ford Mustang Sold In The U.S. Still Belongs To The Original Owner](https://www.hotcars.com/1st-ford-mustang-sold-us-belongs-same-person/ ) | April 13, 2024 |
+| [Your Icon of Icons: The Chevrolet Corvette Is the Most Iconic Car of the Past 75 Years](https://www.motortrend.com/features/chevrolet-corvette-most-iconic-car-75-years-anniversary/ ) | Mar  25, 2024 |
+| [Mary Barra: GM’s Chair and CEO Offers No-Nonsense Inspiration](https://www.motortrend.com/features/mary-barra-gm-chair-ceo-promotes-diversity-equity-inclusion/ ) | Mar 22, 2024 |
+| [The Real Story Behind The One And Only Existing 1983 Chevrolet Corvette](https://www.topspeed.com/real-story-1983-chevy-corvette/ ) | MAR 15, 2024 |
+| [Toyota's Solid-State Battery Reach: A Breakthrough Insight](https://ts2.space/en/toyotas-solid-state-battery-reach-a-breakthrough-insight/ ) | 2024-01 |
+| [Scientists shed new light on critical issue facing battery components in EVs: ‘The whole field has been misled’](https://finance.yahoo.com/news/scientists-shed-light-critical-issue-113000830.html ) | Dec 17, 2023 5:45 AM ET |
+| [Chevy's new 'Holiday to Remember' commercial tugs on America's heart](https://www.usatoday.com/story/money/2023/11/29/chevrolet-holiday-commercial-alzheimers/71743866007/ ) | Nov 29, 2023 |
+| [New Battery Crushes Tesla's Tech, Unveils A Solid-State Marvel With 300% Higher Energy Density, 15-minute Ultra-Fast Charge](https://finance.yahoo.com/news/battery-crushes-teslas-tech-unveils-160816090.html ) | Nov. 28, 2023 |
+| [2024 Corvette E-Ray Offers New Rapid Blue Badges](https://gmauthority.com/blog/2023/11/2024-corvette-e-ray-offers-new-rapid-blue-badges/ ) |  NOV 26, 2023 |
+| [Northvolt unveils 160 Wh/kg sodium-ion battery – pv magazine International](https://www.pv-magazine.com/2023/11/22/northvolt-unveils-160-wh-kg-sodium-ion-battery/ ) |  NOVEMBER 22, 2023 |
+| [The Next Leap in Battery Tech: Lithium-Ion Batteries Are No Longer the Gold Standard](https://scitechdaily.com/the-next-leap-in-battery-tech-lithium-ion-batteries-are-no-longer-the-gold-standard/ ) | NOVEMBER 18, 2023 |
+| [Shelby Wins Legal Battle Over the 'Eleanor' Gone in 60 Seconds Car - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/14/shelby-wins-legal-battle-over-the-eleanor-gone-in-60-seconds-car/ ) | Nov 14, 2023 |
+| **[An Off-Grid EV Camper Van / Hackaday](https://hackaday.com/2023/11/14/an-off-grid-ev-camper-van/ )** | November 14, 2023 |
+| **[Why The Chevrolet Bolt Is Still An Unbeatable Deal](https://insideevs.com/news/696178/owner-ditches-gas-hyundai-for-used-chevy-bolt-ev-video/ )** | Nov 14, 2023 at 9:02am ET |
+| [EVs Get Easier Fix Thanks To Feature Gas Cars Had For Decades](https://jalopnik.com/ev◇s-get-easier-fix-feature-gas-cars-had-decades-obdii-1851017529 ) | November 13, 2023 |
+| ['I Hope It Bankrupts Them': Las Vegas Residents Enraged Ahead Of Formula 1 Grand Prix](https://jalopnik.com/i-hope-it-bankrupts-them-las-vegas-residents-enraged-a-1851009102 ) | November 13, 2023 |
+| [2024 Chevy Traverse Limited: More Exclusive Details](https://gmauthority.com/blog/2023/11/2024-chevy-traverse-limited-more-exclusive-details/ ) | NOV 12, 2023 |
+| [Solid-state battery patent holdings topped by Toyota as it plans to be first with solid-state cell EV model in mass production - NotebookCheck.net News](https://www.notebookcheck.net/Solid-state-battery-patent-holdings-topped-by-Toyota-as-it-plans-to-be-first-with-solid-state-cell-EV-model-in-mass-production.766708.0.html ) | 11/09/2023 |
+| [Corvette is One of 25 Cars that Hold Their Values the Best Over Five Years - Corvette: Sales, News & Lifestyle](https://www.corvetteblogger.com/2023/11/08/corvette-is-one-of-25-cars-that-hold-their-values-the-best-over-five-years/ ) | Nov 8, 2023 |
+| [Italian Company Ares Is Turning the C8 Corvette into a Hypercar](https://www.caranddriver.com/news/a45676763/ares-s1-corvette-hypercar/ ) | NOV 5, 2023 |
+| [Top analysts break down the 'meltdown' of the global electric vehicle market - TheStreet](https://www.thestreet.com/electric-vehicles/global-electric-vehicle-adoption-curve-slowdown-ev-tesla-detroit-three ) | Nov 1, 2023 9:15 AM EDT |
+| ["Even Better" Next-Gen Chevy Bolt To Get Cheaper LFP Battery](https://insideevs.com/news/692994/even-better-next-gen-chevy-bolt-get-cheaper-lfp-battery/ ) | Oct 24, 2023 at 12:16pm ET |
+| [BMW receives first solid-state cells from Solid Power - electrive.com](https://www.electrive.com/2023/11/09/bmw-receives-first-solid-state-cells-from-solid-power/ ) | 09.11.2023 - 12:24 |
+| [Harman Ready Upgrade: Hot-Swap Hard Drive for Software-Defined Vehicles](https://www.motortrend.com/news/harmans-ready-upgrade-is-like-a-hot-swap-hard-drive-for-cars/ ) | May 16, 2023 |
+| [Heavy EVs Will Be Dangerous In Car Accidents: Study](https://jalopnik.com/heavy-ass-evs-are-going-to-kill-us-all-1848764045 ) | April 7, 2022 |
 
-## [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
+## 2024 Chevelle 70/SS
 
-| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) |
-|---|
-|[2024 Chevelle 70/SS: What We Know So Far](https://www.hotcars.com/chevelle-70ss-what-we-know/ )
-| [10 Ways The New Chevelle 70/SS Reignites The Muscle Car Market](https://www.hotcars.com/how-new-chevelle-reignites-muscle-cars/ ) |
-| [10 Reasons We're Excited About The New Chevelle Model: 70/SS](https://www.hotcars.com/new-chevrolet-chevelle-model/ ) |
-| [The New Chevelle 70/SS: 10 Features Every Gearhead Wants](https://www.hotcars.com/chevelle-70ss-anticipated-features/ ) |
-| [This Retro-Modern Trans Am 70/SS Chevelle Super Sport Is Worth Every Penny](https://www.hotcars.com/retro-modern-trans-am-70ss-chevelle-super-sport/ ) |
-| [TransAm Worldwide](https://transamworldwide.com/current-models-2-2/? ) |
+| [2024 Chevelle 70/SS](https://transamworldwide.com/current-models-2-2/? ) | Date |
+|---|---|
+| [10 Ways The New Chevelle 70/SS Reignites The Muscle Car Market](https://www.hotcars.com/how-new-chevelle-reignites-muscle-cars/ ) | MAR 10, 2024
+| [The New Chevelle 70/SS: 10 Features Every Gearhead Wants](https://www.hotcars.com/chevelle-70ss-anticipated-features/ ) | NOV 1, 2023
+| [10 Reasons We're Excited About The New Chevelle Model: 70/SS](https://www.hotcars.com/new-chevrolet-chevelle-model/ ) | JUL 26, 2023
+| [2024 Chevelle 70/SS](https://www.hotcars.com/chevelle-70ss-what-we-know/ ) | AUG 13, 2023 |
+| [This Retro-Modern Trans Am 70/SS Chevelle Super Sport Is Worth Every Penny](https://www.hotcars.com/retro-modern-trans-am-70ss-chevelle-super-sport/ ) | FEB 25, 2023
 
-## Scale Model Cars
+## Restorations
+
+### [Hemmings](https://www.hemmings.com/ ) 
+
+| Year | Make | Model | Article | Owner | Date |
+|---|---|---|---|---|---|
+| 1955–58 | Chevrolet | Cameo | [1955-’58 Chevrolet Cameo Carrier / Hemmings](https://www.hemmings.com/stories/article/1955-58-chevrolet-cameo-carrier-4 ) || 09/23/2018 |
+| 1955–59 | Chevrolet | 3100 | [1955-'59 Chevrolet "Task Force" Light Trucks / Hemmings](https://www.hemmings.com/stories/1955-59-chevrolet-task-force-light-trucks/ ) || 12/02/2023 |
+| 1955-'59 | Chevrolet | Cameo | [Always Up to the Task / Hemmings](https://www.hemmings.com/stories/article/always-up-to-the-task ) || 09/23/2018 |
+| 1956 | Chevrolet | 3100 | [Auction Highlight: Award-Winning, Thoroughly Restored 1956 Chevrolet 3100 / Hemmings](https://www.hemmings.com/stories/2020/04/24/auction-highlight-award-winning-thoroughly-restored-1956-chevrolet-3100 ) | |04/24/2020 |
+| 1956 | Chevrolet | 3200 | [No Restomod Here – This 1956 Chevrolet 3200 has been Restored to Factory Stock / Hemmings](https://www.hemmings.com/stories/restored-1956-chevrolet-3200/ ) || 09/22/2023 |
+| 1958 | Chevrolet | Apache | [Finding The Sweet Spot / Hemmings](https://www.hemmings.com/stories/sweet-spot-apache-stepside/ ) | James Casey | 06/01/2023 |
+| 1965 | Chevrolet | El Camino | [GM Reshares Classic 1965 Chevelle El Camino Surfer I Convertible and Hot Rod Boat Concepts / Hemmings](https://www.hemmings.com/stories/1965-chevelle-el-camino-surfer-i-convertible/ ) || 08/29/2023 |
+| 1966 | Chevrolet | El Camino | [Starry night at the drive-in / Hemmings](https://www.hemmings.com/stories/2011/07/13/starry-night-at-the-drive-in ) | Patrick and Janice Kane | 07/13/2011 |
+| 1969 | Pontiac | 2+2 Tribute | [Mix and Match - 1969 Pontiac 2+2 Tribute / Hemmings](https://www.hemmings.com/stories/article/mix-and-match-1969-pontiac-22-tribute ) | Dave Plummer | 09/24/2018 |
+| 1970 | GMC | C2500 | [Restoring a 1970 GMC C2500 Custom Camper / Hemmings](https://www.hemmings.com/stories/restoring-a-1970-gmc-c2500-custom-camper/ ) | Dave Plummer | 02/04/2024 |
+| 1970–72 | Chevrolet | El Camino | [1970-72 Chevrolet El Camino SS454 / Hemmings](https://www.hemmings.com/stories/article/chevrolet-el-camino-ss454-1970-72 ) || 09/23/2018 |
+| 1970 | Chevrolet | El Camino | [Buyer's Guide: 1970 Chevrolet El Camino SS / Hemmings](https://www.hemmings.com/stories/article/1970-chevrolet-el-camino-ss ) || 06/11/2019 |
+| 1972 | Chevrolet | El Camino | [Big-block 1972 Chevrolet El Camino needed little until an unavoidable wildlife encounter / Hemmings](https://www.hemmings.com/stories/restoration-1972-chevrolet-el-camino/ ) | Roger Peterson | 11/29/2022 |
+| 1987 | Chevrolet / GMC | El Camino / Caballero | [Class of '87 - Chevrolet El Camino/GMC Caballero / Hemmings](https://www.hemmings.com/stories/2012/02/03/class-of-87-chevrolet-el-caminogmc-caballero ) || 02/03/2012 |
+| 2023 | Chevrolet | Corvette | [The 2023 Chevrolet Corvette Z06 Reinvents The American Sports Car / Hemmings](https://www.hemmings.com/stories/2023-chevrolet-corvette-z06/ ) || 09/28/2023 |
+| 2023 | Chevrolet | Corvette | [Find of the Day: A 2023 Chevrolet Corvette Z06 With Warranty Intact / Hemmings](https://www.hemmings.com/stories/find-of-the-day-2023-corvette-z06/ ) || 07/01/2023 |## Scale Model Cars
 
 | Scale Model Cars |
 |----|
 | [Chevrolet El Camino models](https://livecarmodel.com/categories/chevrolet/el-camino.html) |
-

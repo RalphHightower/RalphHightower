@@ -1,4 +1,4 @@
-# Science Fiction — [Star Trek Franchise](https://www.startrek.com/)  
+# Science Fiction \| [Star Trek Franchise](https://www.startrek.com/)  
 
 ## [Star Trek Series](https://www.startrek.com/)
 
@@ -63,6 +63,16 @@
 |---|
 | **[Holiday Gift Guide for Star Trek Fans](https://www.cbr.com/holiday-gift-guide-for-star-trek-fans/ )** |
 
+## Star Trek: Strange New Worlds 
+
+### Subspace Rhapsody — Vinyl 
+
+| Star Trek Strange New Worlds | Subspace Rhapsody |
+|---|---|
+| [Star Trek: Strange New Worlds' Incredible Musical Episode Is Getting the Vinyl It Deserves](https://gizmodo.com/star-trek-strange-new-worlds-subspace-rhapsody-vinyl-1851374676 ) |   |
+| [Star Trek: Strange New Worlds' Musical Episode Songs, Ranked](https://gizmodo.com/star-trek-strange-new-worlds-musical-songs-ranked-1850708487 ) |   |
+| **[Star Trek Strange New Worlds "Subspace Rhapsody" - 'Black Vinyl' Vario – lakeshorerecords](https://lakeshorerecordsshop.com/products/star-trek-strange-new-worlds-subspace-rhapsody-black-vinyl-various-artists )** | **$24.98** |
+
 ## Reference Links
 
 | ScreenRant List of References: Star Trek Franchise |
@@ -83,8 +93,8 @@
 
 ## Articles 
 
-| Star Trek Articles |
-|---|
+| Star Trek Articles | Date |
+|---|---|
 | **[Star Trek: Deep Space Nine's Ending, Explained](https://gamerant.com/star-trek-deep-space-nine-ds9-ending-explained/ )** |
 | [The Cast Of ‘Star Trek: The Next Generation’ To Receive Special Lifetime Achievement Saturn Award – TrekMovie.com](https://trekmovie.com/2024/01/31/the-cast-of-star-trek-the-next-generation-to-receive-special-lifetime-achievement-saturn-award/ ) |
 | [Ol' Yellow Eyes Is Back, An Album of Crooning Oldies by Brent Spiner of 'Star Trek: The Next Generation'](https://laughingsquid.com/brent-spiner-ol-yellow-eyes-is-back/ ) |

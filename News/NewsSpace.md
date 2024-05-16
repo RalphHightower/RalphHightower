@@ -1,14 +1,17 @@
-# News — Space News
+# News \| Space News
 
 ## [NASA](https://www.nasa.gov) [Space Shuttle Endeavour]()
 
-| [California Science]() [Space Shuttle Endeavour]() Progress |
-|---|
+| [California Science]() [Space Shuttle Endeavour]() Progress | Date |
+|---|---|
 | **[Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )** |
 | **[Last built-for-flight external tank lifted into place for space shuttle Endeavour exhibit / Space](http://www.collectspace.com/news/news-011324a-shuttle-endeavour-exhibit-external-tank-lift.html )** |
 
-| Space News |
-|---|
+| Space News | Date |
+|---|---|
+| [How NASA is Hacking Voyager 1 Back to Life - IEEE Spectrum](https://spectrum.ieee.org/voyager-1 ) | 06 MAY 2024 |
+| **[Why March is the best month to see the northern lights / Space](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting )** |
+| [A supernova caused the BOAT gamma ray burst, JWST data confirms / Ars Technica](https://arstechnica.com/science/2024/04/a-supernova-caused-the-boat-gamma-ray-burst-jwst-data-confirms/ ) | 4/12/2024, 5:00 AM |
 | [Black hole at the center of a galaxy in the early universe received less mass influx than expected, astronomers find](https://phys.org/news/2024-01-black-hole-center-galaxy-early.html ) |
 | [NASA Turns Light into Sound Frequency Creating a Milky Way Symphony (LISTEN)](https://www.goodnewsnetwork.org/nasa-turns-light-into-sound-frequency-creating-a-milky-way-symphony-listen/ ) |
 | [Deep into the Kuiper Belt, New Horizons is still doing science / Ars Technica](https://arstechnica.com/science/2023/12/squeezing-science-out-of-new-horizons-as-it-heads-out-of-the-solar-system/ ) |

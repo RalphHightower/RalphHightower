@@ -1,4 +1,4 @@
-# Rebooted Television Series [^11]
+# Media \| Rebooted Television Series [^11]
 
 [^11]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
 
@@ -41,7 +41,7 @@
 | NCIS: New Orleans | NCIS | CBS |
 | NCIS: Sydney| NCIS | CBS |
 | NCIS – Origins[^31]<sup>,</sup>[^32] | NCIS | Paramount+ |
-| NCIS – Europe[^33]<sup>,</sup>[^34]<sup>,</sup>[^35]<sup>,</sup>[^36]  | NCIS | Paramount+ |
+| NCIS – Tony and Ziva[^33]<sup>,</sup>[^34]<sup>,</sup>[^35]<sup>,</sup>[^36] | NCIS | Paramount+ |
 | Star Trek: Next Generation | Star Trek | CBS |
 | Star Trek: Deep Space Nine | Star Trek | CBS |
 | Star Trek: Voyager | Star Trek | CBS |
@@ -63,6 +63,7 @@
 [^34]: ['NCIS' Cote de Pablo, Michael Weatherly Spinoff Set at Paramount+](https://variety.com/2024/tv/news/ncis-spinoff-cote-de-pablo-michael-weatherly-paramount-plus-1235925895/ )| Star Trek: Next Generation | Star Trek | CBS |
 [^35]: ["Dinozzo Is Coming": Michael Weatherly Teases New NCIS Location For Tony & Ziva Spinoff](https://screenrant.com/ncis-tony-dinozzo-ziva-spinoff-michael-weatherly-location-photo/ )
 [^36]: [Inside Michael Weatherly and Cote de Pablo's adorable friendship ahead of NCIS: Europe / HELLO!](https://www.hellomagazine.com/film/515590/ncis-stars-michael-weatherly-and-cote-de-pablo-sweet-friendship-explored/ )
+[^37]: [NCIS Spinoff Reuniting Cote de Pablo and Michael Weatherly Gets Its Title](https://www.cbr.com/ncis-michael-weatherly-cote-de-pablo-spinoff/ ) | May 7, 2024
 
 ## Shows That Deserve Rebooting
 

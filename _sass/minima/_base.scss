@@ -263,10 +263,13 @@ table {
   }
   th, td {
     padding: ($spacing-unit * 33.3333333333 * .01) ($spacing-unit * .5);
+    vertical-align: top;
   }
   th {
     background-color: $table-header-bg-color;
     border: 1px solid $table-header-border;
+    vertical-align: middle;
+    text-align: center;
   }
   td {
     border: 1px solid $table-border-color;

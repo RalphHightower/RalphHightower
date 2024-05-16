@@ -1,7 +1,7 @@
-# Computer Design 
+# Computing \| Computer Design 
 
-| Computer Design |
-|---|
+| Computer Design | Date |
+|---|---|
 | [ARM’s Cortex A72: aarch64 for the Masses – Chips and Cheese](https://chipsandcheese.com/2023/11/10/arms-cortex-a72-aarch64-for-the-masses/ ) |
 | [An AnandTech Interview with Jim Keller: 'The Laziest Person at Tesla'](https://www.anandtech.com/show/16762/an-anandtech-interview-with-jim-keller-laziest-person-at-tesla ) |
 | [Arm Announces Total Design: Taking Neoverse CSS Forward – Chips and Cheese](https://chipsandcheese.com/2023/10/17/arm-announces-total-design-taking-neoverse-css-forward/ ) |

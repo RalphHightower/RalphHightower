@@ -1,4 +1,4 @@
-# Open Source Projects
+# Computing \| Open Source Projects
 
 | Software | Description | Purpose |
 |----------|---------|----|
@@ -9,8 +9,7 @@
 | [OpenBGP](https://www.openbgpd.org/) | Open Border Gateway Protocol ||
 | [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB/-/releases/release_0.8) | Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS.ASUS, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer, ThermalTake, and more supported. ||
 | [Open LDAP](https://www.openldap.org/) | Lightweight Directory Access ||
-| [OpenNMS](https://github.com/OpenNMS ) | OpenNMS
-Enterprise-Grade Open-Source Network Management |
+| [OpenNMS](https://github.com/OpenNMS ) | Enterprise-Grade Open-Source Network Management |
 | [OpenPLC](https://openplcproject.com/) | A multi-hardware Programmable Logic Controller Suite based on Beremiz IDE ||
 | [Open SSL](https://www.openssl.org) || Secure Sockets Layer |
 | [Perl](https://www.perl.org/) || Programming Language |

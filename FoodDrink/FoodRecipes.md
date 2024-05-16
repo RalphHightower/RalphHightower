@@ -1,4 +1,4 @@
-# Food/Drink Recipes 
+# FoodDrink \| Food/Drink Recipes 
 
 ## Food Recipes 
 
@@ -6,9 +6,9 @@
 
 Pike's Creole Jambalaya (recipe by Leah Chase)
 
-|Yields|Prep Time|Cook Time|
-|---|---|---|
-|6-8 servings|30 minutes|1 hour|
+| Yields | Prep Time | Cook Time| Date |
+|---|---|---|---|
+| 6-8 servings | 30 minutes | 1 hour |
 
 <br />
 
@@ -67,8 +67,8 @@ Whatever jambalaya recipe you use, take your time and let the meat brown to a ni
 
 <br />
 
-| Food Recipes|
-|---|
+| Food Recipes| Date |
+|---|---|
 | [Marinated Mushrooms – A Couple Cooks](https://www.acouplecooks.com/marinated-mushrooms/ ) |
 | [12 barbecue mistakes and how to avoid them - The Washington Post](https://www.washingtonpost.com/food/2023/06/30/barbecue-grilling-mistakes-to-avoid/ ) |
 

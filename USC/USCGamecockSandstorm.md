@@ -1,4 +1,4 @@
-# [USC — University of South Carolina](https://www.sc.edu)
+# [USC \| University of South Carolina](https://www.sc.edu)
 
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|

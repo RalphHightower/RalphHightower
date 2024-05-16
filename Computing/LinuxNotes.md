@@ -1,4 +1,4 @@
-# Linux Notes
+# Computing \| Linux Notes
 
 ## Directories
 
@@ -24,8 +24,8 @@
 
 ## File Systems
 
-| File Systems |
-|---|
+| File Systems | Date |
+|---|---|
 | [OpenZFS 2.2 Released with Linux 6.5 Support, Block Cloning, and More - 9to5Linux](https://9to5linux.com/openzfs-2-2-released-with-linux-6-5-support-block-cloning-and-more ) |
 
 ## Linux Source 
@@ -46,8 +46,8 @@
 
 ## Linux Articles
 
-| Linux Articles |
-|---|
+| Linux Articles | Date |
+|---|---|
 | [CBL-Mariner: Azure Linux Distribution Now Generally Available](https://www.infoq.com/news/2023/06/azure-linux-cbl-mariner/ ) |
 | [5 best Linux distributions in 2023](https://www.xda-developers.com/best-linux-distros/ ) |
 | [Linux containers guide: An introduction to containers](https://www.xda-developers.com/linux-containers-guide/ ) |
@@ -58,6 +58,6 @@
 
 ## Linux History, Trivia 
 
-| Linux History/Trivia |
-|---|
+| Linux History/Trivia | Date |
+|---|---|
 |[Is this the world's oldest Linux peripheral?](https://youtube.com/watch?v=35N5vKKGDy8&feature=share )|

@@ -1,4 +1,4 @@
-# Movies — Bond. James Bond (007)
+# Movies \| Bond. James Bond (007)
 
 | Title | Year | Actor |
 |-------|------|------|
@@ -27,6 +27,11 @@
 | Skyfall | 2012 | Craig, Daniel |
 | Spectre | 2015 | Craig, Daniel |
 | No Time to Die | 2021 | Craig, Daniel |
+
+## News
+
+| News | Date |
+|---|---|
 
 ## [ChatGPT](https://chat.openai.com/) — James Bond Haikus 
 

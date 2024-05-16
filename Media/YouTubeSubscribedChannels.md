@@ -1,10 +1,10 @@
-## [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
+# Media \| [YouTube](https://youtube.com/) Subscribed Channels[^11][^12]
 
 [^11]: These are the [YouTube](https://youtube.com/) channels that I subscribe to. 
 [^12]: I don't list the content that is listed in *"- Topics"*. It must be the band or artist. 
 
-| Content Creator | Content Classification |
-|---|---|
+| Content Creator | Content Classification | Date Added/ Updated |
+|---|---|---|
 | [Foxwood Astronomy - YouTube](https://www.youtube.com/channel/UCgNYyqACs4Mbqpm5BIaiwgA#bottom-sheet ) | Astronomy — Solar Eclipse |
 | [Sam Mahdavi](https://youtube.com/@sammahdavi7031 ) | Auto Repair |
 | [Scotty Kilmer](https://youtube.com/@scottykilmer ) | Auto Repair |
@@ -21,11 +21,13 @@
 | [Dave Plummer's Garage](https://youtube.com/@DavesGarage? ) | Computers |
 | [ExplainingComputers](https://youtube.com/@ExplainingComputers ) | Computers |
 | [Jeff Geerling](https://youtube.com/@JeffGeerling ) | Computers |
+| [Level 2 Jeff](https://youtube.com/@Level2Jeff? ) | Computers | 2024-05-10 |
 | [O'Reilly](https://youtube.com/@oreilly ) | Computers |
 | [RISC-V International](https://youtube.com/@RISCVInternational ) | Computers |
 | [ServeTheHome](https://youtube.com/@ServeTheHomeVideo? ) | Computers |
 | [Veronica Explains](https://youtube.com/@VeronicaExplains? ) | Computers |
 | [Arduino](https://youtube.com/@Arduino ) | Computers – Single Board |
+| [Computer History Museum](https://youtube.com/@ComputerHistory? )</br>We create and provide Educational and Historical video presentations on COMPUTER HISTORY and vintage technology, including restored footage with commentary, for educational purposes, user comment and discussion. Our channel is an independent educational research activity and our goal is to help make computer history data accessible to everyone. | Computer History |
 | [GitHub](https://youtube.com/@GitHub ) | Developer Platform |
 | [mrandrewcotter](https://youtube.com/@mrandrewcotter ) | Dogs |
 | [Off Leash K9 Columbia, SC LLC](https://youtube.com/@offleashk9columbiascllc626 ) | Dogs |
@@ -39,6 +41,7 @@
 | [Shanks FX](https://youtube.com/@ShanksFX1 ) | Electronics |
 | [SparkFun Electronics](https://youtube.com/@sparkfun ) | Electronics |
 | [jeffostroff](https://youtube.com/@jeffostroff ) | Engineering / Tools |
+| [Practical Engineering](https://youtube.com/@PracticalEngineeringChannel? ) | Engineering | 2028-05-03 |
 | [Paramount Pictures](https://youtube.com/@paramountpictures ) | Entertainment |
 | [Warner Bros. Entertainment](https://youtube.com/@warnerbrosentertainment ) | Entertainment |
 | [Publix](https://youtube.com/@Publix ) | Food |

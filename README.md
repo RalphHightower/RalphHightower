@@ -51,7 +51,7 @@ I also have different categories of bucket lists.
 1.	Before I Die
    - ✓ Space Shuttle Photos: [Launch July 8, 2011](https://www.flickr.com/gp/ralphhightower/1X648s6j8W)[^81]. Photos: [Landing July 21, 2011](https://www.flickr.com/gp/ralphhightower/4Tu9tK0K9Y)[^82].
    - ✓ [The Masters Golf Tournament](https://www.masters.com/)[^83] Photos: [Practice Round: Wednesday April 4, 2015](https://flic.kr/s/aHBqjzH9EK).
-   - ~~Arecibo Observatory~~[^84]
+   - ~~[Arecibo Observatory](https://en.wikipedia.org/wiki/Arecibo_Observatory?wprov=sfla1 )~~[^84]
    - ✓ Total Solar Eclipse: August 17, 2017 — Chapin, South Carolina, United States of America
    - Slot Canyon (color & B&W photographs)
    - Aurora Borealis
@@ -166,6 +166,7 @@ My Y2K12 project: Photograph the year exclusively using B&W film. I rediscovered
 | FD Mount Lenses | Canon FD 28mm f2.8 |
 || Canon Auto Bellows |
 || Canon Macro Photo Lens 20mm f/3.5 |
+|| Canon Macro Photo Lens 35mm f2.0 |
 || Canon FD 50mm f1.8 (2) |
 || Profoto 80-205mm f4.5 |
 || Spiratone 400mm f6.3 |
@@ -252,7 +253,9 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 | [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
 | [GM-Canada-Onstar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular 2G CDMA technology in 2015  |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Ralph Hightower's top level repository |
+| [Jekyll Test Bed](https://ralphhightower.github.io/JekyllTestBed/ ) | Test Bed for Experimentation with Jekyll. |
 | [SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/) | Creates events in Microsoft Outlook's Calendar from NASA's Space Shuttle missions schedules that they published in Microsoft Excel[^31] |
+| [Sushi Recipes / Checklist for Trying Sushi, Sashimi from Sushi Restaurants](https://ralphhightower.github.io/Sushi/ ) | A place for sushi recipes and checklists for checking off menu items. |
 | [RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. **[Production Ready]** |
 
 ## Obsolete Computer Collection 
@@ -418,6 +421,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Eclipses](https://www.timeanddate.com/eclipse/in/usa/columbia) | Columbia, South Carolina, USA |
 | [Night Sky](https://www.timeanddate.com/astronomy/night/usa/columbia) | Columbia, South Carolina, USA |
 | [Meteor Showers](https://www.timeanddate.com/astronomy/meteor-shower/list.html) ||
+| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage ) |
 | [Weather Today](https://www.timeanddate.com/weather/usa/columbia) | Columbia, South Carolina, USA |
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |

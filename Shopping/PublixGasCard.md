@@ -1,9 +1,10 @@
-# Shopping | [Publix](https://www/publix.com/) Gas Card Coupon Sales Dates[^11]
+# Shopping \| [Publix](https://www/publix.com/) Gas Card Coupon Sales Dates[^11]
 
 ## Gas Card Coupons[^12]
 
 | Date Begins | Date Ends | Days Between |
 |---|---|---|
+| 2024-04-17 | 2024-04-21 | 35 |
 | 2024-03-13 | 2024-03-17 | 28 |
 | 2024-02-14 | 2024-02-18 | 28 |
 | 2024-01-17 | 2024-01-21 |  |

@@ -26,7 +26,7 @@
     "url":"https://example.com",        "//": "GitHub OAUTH callback url (must be the same as the web instance host)"
   },
   "api":{
-    "rest": #https://api.github.com/",                       "//": "GitHub REST API custom endpoint",
+    "rest": "https://api.github.com/",                       "//": "GitHub REST API custom endpoint",
     "graphql": "https://api.github.com/graphql"                    "//": "GitHub GraphQL API custom endpoint"
   },
   "control":{
@@ -65,41 +65,41 @@
   "plugins.default": false,             "//": "Default plugin state (advised to let 'false' unless in debug mode)",
   "plugins": {                          "//": "Global plugin configuration",
     "isocalendar":{
-      "enabled": false,                 "//": "Enable isocalendar plugin"
+      "enabled": true,                  "//": "Enable isocalendar plugin"
     },
     "languages":{
-      "enabled": false,                 "//": "Enable languages plugin"
+      "enabled": true,                  "//": "Enable languages plugin"
     },
     "stargazers":{
-      "worldmap.token": null,           "//": "Stargazers worldmap token",
-      "enabled": false,                 "//": "Enable stargazers plugin"
+      "worldmap.token": GOOGLE_MAPS_TOKEN,           "//": "Stargazers worldmap token",
+      "enabled": true,                 "//": "Enable stargazers plugin"
     },
     "lines":{
       "enabled": false,                 "//": "Enable lines plugin"
     },
     "topics":{
-      "enabled": false,                 "//": "Enable topics plugin"
+      "enabled": true,                 "//": "Enable topics plugin"
     },
     "stars":{
-      "enabled": false,                 "//": "Enable stars plugin"
+      "enabled": true,                 "//": "Enable stars plugin"
     },
     "licenses":{
-      "enabled": false,                 "//": "Enable licenses plugin"
+      "enabled": tru,                 "//": "Enable licenses plugin"
     },
     "habits":{
       "enabled": false,                 "//": "Enable habits plugin"
     },
     "contributors":{
-      "enabled": false,                 "//": "Enable contributors plugin"
+      "enabled": true,                 "//": "Enable contributors plugin"
     },
     "followup":{
-      "enabled": false,                 "//": "Enable followup plugin"
+      "enabled": true,                 "//": "Enable followup plugin"
     },
     "reactions":{
-      "enabled": false,                 "//": "Enable reactions plugin"
+      "enabled": true,                 "//": "Enable reactions plugin"
     },
     "people":{
-      "enabled": false,                 "//": "Enable people plugin"
+      "enabled": true,                 "//": "Enable people plugin"
     },
     "sponsorships":{
       "enabled": false,                 "//": "Enable sponsorships plugin"
@@ -108,57 +108,57 @@
       "enabled": false,                 "//": "Enable sponsors plugin"
     },
     "repositories":{
-      "enabled": false,                 "//": "Enable repositories plugin"
+      "enabled": true,                 "//": "Enable repositories plugin"
     },
     "discussions":{
-      "enabled": false,                 "//": "Enable discussions plugin"
+      "enabled": true,                 "//": "Enable discussions plugin"
     },
     "starlists":{
-      "enabled": false,                 "//": "Enable starlists plugin"
+      "enabled": true,                 "//": "Enable starlists plugin"
     },
     "calendar":{
-      "enabled": false,                 "//": "Enable calendar plugin"
+      "enabled": true,                 "//": "Enable calendar plugin"
     },
     "achievements":{
-      "enabled": false,                 "//": "Enable achievements plugin"
+      "enabled": true,                 "//": "Enable achievements plugin"
     },
     "notable":{
-      "enabled": false,                 "//": "Enable notable plugin"
+      "enabled": true,                 "//": "Enable notable plugin"
     },
     "activity":{
-      "enabled": false,                 "//": "Enable activity plugin"
+      "enabled": true,                 "//": "Enable activity plugin"
     },
     "traffic":{
-      "enabled": false,                 "//": "Enable traffic plugin"
+      "enabled": true,                 "//": "Enable traffic plugin"
     },
     "code":{
-      "enabled": false,                 "//": "Enable code plugin"
+      "enabled": true,                 "//": "Enable code plugin"
     },
     "gists":{
-      "enabled": false,                 "//": "Enable gists plugin"
+      "enabled": true,                 "//": "Enable gists plugin"
     },
     "projects":{
-      "enabled": false,                 "//": "Enable projects plugin"
+      "enabled": true,                 "//": "Enable projects plugin"
     },
     "introduction":{
-      "enabled": false,                 "//": "Enable introduction plugin"
+      "enabled": true,                 "//": "Enable introduction plugin"
     },
     "skyline":{
-      "enabled": false,                 "//": "Enable skyline plugin"
+      "enabled": true,                 "//": "Enable skyline plugin"
     },
     "support":{
-      "enabled": false,                 "//": "Enable support plugin"
+      "enabled": true,                 "//": "Enable support plugin"
     },
     "pagespeed":{
-      "token": "PageSpeed token",
-      "enabled": false,                 "//": "Enable pagespeed plugin"
+      "token": "PAGESPEED_TOKEN",
+      "enabled": true,                 "//": "Enable pagespeed plugin"
     },
     "tweets":{
       "token": "Twitter API token",
       "enabled": false,                 "//": "Enable tweets plugin"
     },
     "stackoverflow":{
-      "enabled": false,                 "//": "Enable stackoverflow plugin"
+      "enabled": true,                 "//": "Enable stackoverflow plugin"
     },
     "anilist":{
       "enabled": false,                 "//": "Enable aniList plugin"

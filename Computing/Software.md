@@ -1,4 +1,4 @@
-# Software / Utilities 
+# Computing \| Software / Utilities 
 
 | Software / Utilities | Purpose |
 |----------------------|---------|

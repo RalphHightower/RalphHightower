@@ -1,4 +1,4 @@
-# Computing ~ GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+# Computing \| GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
 
 ## Company / Government [GitHubs](https://github.com/ )
 
@@ -41,6 +41,7 @@
 | [Arm Software](https://github.com/ARM-software ) | Arm Software |
 | [Armbian](https://github.com/armbian ) | Linux for single board computers |
 | [Asterisk Project](https://github.com/asterisk ) | Asterisk is a free and open source framework for building communications applications. |
+| [Atheros](https://github.com/atherosai ) | On the path towards artificial general intelligence and building narrow AI products along the way |
 | [Australian Antarctic Data Centre](https://github.com/AustralianAntarcticDataCentre ) | Australian Antarctic Data Centre |
 | [Australian Antarctic Division](https://github.com/AustralianAntarcticDivision ) | Australian Antarctic Division |
 | [AvaloniaUI](https://github.com/AvaloniaUI ) | A cross-platform UI framework for .NET providing a flexible styling system and supporting Windows, Linux, macOS, iOS, Android and Browser. |
@@ -61,7 +62,9 @@
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation ) | Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS |
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf ) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
 | [Cloudflare](https://github.com/cloudflare ) | Cloudflare open source tools |
+| [Cobalt Strike](https://github.com/Cobalt-Strike ) | The official public repository for Cobalt Strike related projects. |
 | [Codecov](https://github.com/codecov ) | Empower developers with tools to improve code quality and testing. |
+| [Combadge](https://github.com/Combadge ) | An organisation focused on development of Combadge software. |
 | [comma\.ai](https://github.com/commaai ) | Make driving chill |
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
 | [Connections Museum](https://github.com/connectionsmuseum ) | Connections Museum |
@@ -70,9 +73,11 @@
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
+| [Defense Unicorns](https://github.com/defenseunicorns ) |We provide secure, open source and infrastructure agnostic applications and tools that enable our partners to rapidly accelerate their software acquisition and delivery processes. Our open source applications enable DevSecOps on even the most secure systems.<br /><br />We are innovators, software engineers, and veterans with decades of experience delivering technology programs across the DoD as well as the broader federal market. Our team of unicorns are zany and passionate individuals who are dedicated to mission success.<br /><br />Defense Unicorns operates with a single belief; that a value not lived is not a value at all. Our team exercises habits every day that bring our values to life. |
 | [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
+| [Elsa Workflows](https://github.com/elsa-workflows ) | A set of workflow libraries, engines & designers |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
 | [F# Software Foundation Repositories](https://github.com/fsharp ) | F# Software Foundation Repositories |
@@ -100,11 +105,13 @@
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
 | [Google DeepMind](https://github.com/google-deepmind ) | Google DeepMind | 
 | [Google GitHub Actions](https://github.com/google-github-actions ) | Google Cloud integrations for the GitHub Actions Marketplace |
+| [Google Maps Platform](https://github.com/googlemaps ) | Google Maps Platform is a set of APIs and SDKs for retrieving location-based data from Google and embedding Google Maps imagery into mobile apps and web pages. |
 | [Google Research](https://github.com/google-research  ) | Google Research |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [GraphQL](https://github.com/graphql ) | GraphQL |
 | [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions. |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
+| [HelioCloud](https://github.com/heliocloud-data )  | Development of the HelioCloud platform for HelioPhysics research |
 | [Heltec Automation](https://github.com/HelTecAutomation ) | LoRa & IoT hardware and solution providers |
 | [Hewlett Packard Enterprise](https://github.com/HewlettPackard) | Hewlett Packard Enterprise on github; please contact github@hpe.com for access |
 | [Home Assistant](https://github.com/home-assistant ) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
@@ -117,8 +124,11 @@
 | [Intrepid Control Systems, Inc.](https://github.com/intrepidcs ) | Global provider of vehicle networking tools |
 | [IoTSharp](https://github.com/IoTSharp ) | An IoT platform for device management, data collection, processing, status detection, and remote control |
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
+| [Jellyfin](https://github.com/jellyfin ) | The Free Software Media System |
+| [JetBrains](https://github.com/JetBrains ) | JetBrains Open Source — At JetBrains we create, contribute, and support Open Source projects. We are the company behind IntelliJ IDEA and Kotlin, both of which are Open Source and foundational to the many other tools and products we have at JetBrains. |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins |
 | [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
+| [Keyfactor](https://github.com/Keyfactor ) | Keyfactor delivers identity-first security for every device, workload, and thing. Because when you establish digital trust, great things happen. |
 | [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
@@ -131,12 +141,15 @@
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
 | [LongSoft](https://github.com/LongSoft ) | LongSoft |
+| [Maitrix.org](https://github.com/maitrix-org ) | 
+Open Organization to Build AI-powered Realities based on Techniques of Large Language/Multi-Modal Models, Agent Models, World Models. |
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
 | [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
 | [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
 | [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
+| [Meta Llama](https://github.com/meta-llama ) | Facebook Large Language Model |
 | [Meta Research](https://github.com/facebookresearch ) | Meta Research |
 | [Microsoft](https://github.com/microsoft ) | Open source projects and samples from Microsoft |
 | [Microsoft .NET Platform](https://github.com/dotnet ) | Home of the open source .NET platform |
@@ -156,6 +169,7 @@
 | [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
 | [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp |
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
+| [The Milvus Project](https://github.com/milvus-io ) | The open source vector database designed for AI applications |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [Mixtile](https://github.com/mixtile ) | Mixtile open source projects. |
@@ -180,6 +194,7 @@
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
+| [OpenAcousticDevices](https://github.com/OpenAcousticDevices ) | The team responsible for the creation of the AudioMoth and all its supporting software. |
 | [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
@@ -191,6 +206,10 @@
 | [OpenLDAP Project](https://github.com/openldap ) | Lightweight  Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [OpenNMS](https://github.com/OpenNMS ) | Enterprise-Grade Open-Source Network Management |
+| [OpenNMT](https://github.com/OpenNMT) | Open source ecosystem for neural machine translation and neural sequence learning |
+| [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
+| [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
+| [OpenSCAD](https://github.com/openscad ) | OpenSCAD - The Programmers Solid 3D CAD Modeller |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
 | [OpenStreetMap on GitHub](https://github.com/openstreetmap ) | OpenStreetMap is the largest community-created geospatial project of all time. |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
@@ -204,12 +223,14 @@
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
+| [QEMU](https://github.com/qemu ) | QEMU is a generic and open source machine & userspace emulator and virtualizer. |
 | [RabbitMQ](https://github.com/rabbitmq ) | Open source RabbitMQ |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi ) | Raspberry Pi |
 | [raspberry-sharp (Raspberry#)](https://github.com/raspberry-sharp ) | Raspberry Pi .Net |
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
+| [riok](https://github.com/riok ) | .Net mapping source generator |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
 | [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Administrative Materials](https://github.com/riscv-admin ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -230,6 +251,7 @@
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
+| [Sky Map Devs](https://github.com/sky-map-team ) | Android App Skymap GitHub |
 | [SLSA Framework](https://github.com/slsa-framework ) | Supply-chain Levels for Software Artifacts |
 | [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
@@ -245,20 +267,25 @@
 | [theengs](https://github.com/theengs ) | the engs |
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |
+| [Tracecat](https://github.com/TracecatHQ ) | Open source automation platform for security alerts |
 | [Triton Inference Server](https://github.com/triton-inference-server ) | NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
 | [Truffle Security](https://github.com/trufflesecurity ) | Find and verify credentials |
 | [Turing Machines](https://github.com/turing-machines ) | A platform for edge computing and AI agents |
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
+| [U.S. Geological Survey](https://github.com/DOI-USGS ) | By integrating our diverse scientific expertise, we understand complex natural science phenomena and provide scientific products that lead to solutions. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
 | [Valve Software](https://github.com/ValveSoftware ) | Valve Software |
+| [Yamato Security 大和セキュリティ](https://github.com/Yamato-Security ) | Yamato Security is a security group created by Zach Mathis (@yamatosecurity) in 2012. At first, the main purpose was to provide security training to build a local security community in Western Japan but has grown to provide training, CTF events, webinars, etc... across the country for thousands of people.<br /><br />Now, with a group of volunteer members, we are providing free open source DFIR tools such as Hayabusa, WELA, Takajo, etc... |
 | [ventoy (longpanda)](https://github.com/ventoy ) | Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x) \| UEFI files.<br />With ventoy, you don't need to format the disk over and over, you just need to copy the image files to the USB drive and boot it. You can copy many image files at a time and ventoy will give you a boot menu to select them.<br />You can also browse ISO/WIM/IMG/VHD(x) \| UEFI files in local disk and boot them. |
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | Visa |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. |
+| [Windows on R](https://github.com/worproject ) | Get the full desktop experience on your SBC |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
+| [zrythm](https://github.com/zrythm ) | a highly automated and intuitive digital audio workstation - official mirror |
 
 [^91]: Internet Of Things (Just in case you weren't aware of this TLA)[^92]
 [^92]: Three Letter Acronym[^93]
@@ -278,16 +305,16 @@
 
 ## GitHub Engineering 
 
-| GitHub Engineering |
-|---|
+| GitHub Engineering | Date |
+|---|---|
 |[How to communicate like a GitHub engineer: our prinpciples, practices, and tools - The GitHub Blog](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/ ) |
 | [github/how-engineering-communicates: A community version of the "common API" for how the GitHub Engineering organization communicates](https://github.com/github/how-engineering-communicates ) |
 | [Copilot June-2023 update](https://github.blog/changelog/2023-06-29-copilot-june-2023-update/ ) |
 
 ## [Microsoft](https://www.microsoft.com/)
 
-| [Microsoft Visual Studio (Online)](https://vscode.dev/) |
-|----------------------------------|
+| [Microsoft Visual Studio (Online)](https://vscode.dev/) | Date |
+|----------------------------------|---|
 | [Microsoft Visual Studio (Online)](https://vscode.dev/) |
 | [Visual Studio with GitHub Enterprise](https://visualstudio.microsoft.com/subscriptions/visual-studio-github/) |
 | [https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github](https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github) |
