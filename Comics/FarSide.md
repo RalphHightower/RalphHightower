@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [We Asked You to Vote for Far Side's Funniest Clown Comic, & This Strip Won by a Landslide](https://screenrant.com/far-side-funniest-comics-gary-larson-clowns/ ) | May 14, 2024 |
 | [The Far Side's First 10 Comics Are Still Hilarious Today](https://screenrant.com/funniest-far-side-comics-gary-larson-first-comics/ ) | May 12, 2024 |
 | [Gary Larson Told Fans Exactly How The Far Side Would End – A Decade Before It Did](https://screenrant.com/why-gary-larson-stopped-drawing-far-side-comics/ ) | May 10, 2024 |
 | [Far Side Creator Gary Larson's Dream Gig Reveals Why Experimentation Was Instrumental to the Comic (Hint: It Wasn't Cartoonist)](https://screenrant.com/far-side-gary-larson-dream-job-jazz-guitarist/ ) | May 8, 2024 |
