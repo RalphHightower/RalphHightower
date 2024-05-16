@@ -2,16 +2,19 @@
     "branches": ["main", "_staging"],
     "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
     "debug": "true",
-    "plugins": [
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
     [
-      "@semantic-release/commit-analyzer",
+      "@semantic-release/github",
       {
-        "preset": "angular",
-        "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
-        }
+        "assets": [
+          { "path": "dist/asset.min.css", "label": "CSS distribution" },
+          { "path": "dist/asset.min.js", "label": "JS distribution" }
+        ]
       }
-    ],
+    ]
+  ],
     [
       "@semantic-release/release-notes-generator",
       {
