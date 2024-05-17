@@ -197,6 +197,7 @@
 
 | Raspberry Pi 5 Articles | Date |
 |---|---|
+| [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
 | [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
 | ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^11] | MAY 3, 2024 |
 | [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
