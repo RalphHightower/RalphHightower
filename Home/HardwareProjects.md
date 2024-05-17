@@ -1,5 +1,7 @@
 # Home \| Hardware Projects 
 
+## Preferred Vendors 
+
 | Preferred Vendors | 
 |------|
 | [Arrow](https://www.arrow.com/) | 
@@ -9,6 +11,8 @@
 | [Newark](https://www.newark.com/) | 
 | [Seeed Studio](https://www.seeedstudio.com/) | 
 | [SparkFun](https://www.sparkfun.com/) |
+
+## Resources 
 
 | Resources | 
 |------|
@@ -106,9 +110,9 @@
 | **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
 | [DeskPi Store](https://deskpi.com/ ) | |
 
-### [NVIDIA Jetson AI Articles]()
+### NVIDIA Jetson AI Articles
 
-| [NVIDIA AI Articles]() | Date |
+| NVIDIA AI Articles | Date |
 |----|---|
 | **[Getting Started — NVIDIA CUDA Quantum documentation](https://nvidia.github.io/cuda-quantum/latest/install.html )** |
 | [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
@@ -193,6 +197,7 @@
 
 | Raspberry Pi 5 Articles | Date |
 |---|---|
+| [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
 | [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
 | ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^11] | MAY 3, 2024 |
 | [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
@@ -252,6 +257,22 @@
 |---|---|
 | **[Compute Blade / Your Raspberry Pi CM4 Cluster](https://computeblade.com/ )** |
 | [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
+
+### [Raspberry Pi4 8GB](https://www.raspberrypi.com/) \| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)**
+
+| SBC | CPU | RAM | SSD (USB-C) |
+|---|---|---|---|
+| [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
+
+| Documentation |
+|-----|
+| [Raspberry Pi](https://www.raspberrypi.com/) |
+| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) 
+
+| Control Panels |
+|----|
+| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)** |
+| [PDP-8 replica kit: the PiDP-8](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/) $210 + shipping from Switzerland |
 
 ## RISC-V
 
@@ -325,21 +346,13 @@
 |---|---|---|---|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) | ARM | 4GB | [Intel 2TB 670p NVMe M.2 Internal SSD](https://www.bhphotovideo.com/c/product/1635040-REG/intel_ssdpeknu020tzx1_2tb_670p_ssd_m_2.html) |
 
+| Khadas VIM Products | Price |
+|---|---|
+| [Khadas 5G NR Module](https://www.khadas.com/product-page/5g-nr-module ) | $240.00 |
+
 | Documentation |
 |-----|
 | [Khadas VIM3](https://docs.khadas.com/products/sbc/vim3/start) |. M###
-
-
-### [Raspberry Pi4 8GB](https://www.raspberrypi.com/) \| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)**
-
-| SBC | CPU | RAM | SSD (USB-C) |
-|---|---|---|---|
-| [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
-
-| Documentation |
-|-----|
-| [Raspberry Pi](https://www.raspberrypi.com/) |
-| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
 
 ## Milk-V 64 core, up to 128GB RAM Support
 
@@ -352,11 +365,6 @@
 |[Bootloader source code](https://github.com/milkv-pioneer/bootloader )|Design/Manufacturer|
 |[OpenSBI source code](https://github.com/milkv-pioneer/opensbi )|Design/Manufacturer|
 |[zsbl source code](https://github.com/milkv-pioneer/zsbl )|Design/Manufacturer|
-
-| Control Panels |
-|----|
-| **[PiPDP-11/70 Control Panel for Raspberry Pi](https://obsolescence.wixsite.com/obsolescence/pidp-11/)** |
-| [PDP-8 replica kit: the PiDP-8](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/) $210 + shipping from Switzerland |
 
 <hr />
 
