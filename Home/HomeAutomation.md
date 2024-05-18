@@ -6,7 +6,7 @@ I have not decided on which home automation system that I want to deploy, but my
 
 They prohibit the integration of HomeAssistance, and probably other home automation systems like esphome, to interface with their garage door opening systems. 
 
-| **WARNING — DO NO USE CHAMBERLAIN GARAGE DOOR OPENERS!!!** | Date |
+| **WARNING — DO NO USE CHAMBERLAIN OR LIFTMASTER GARAGE DOOR OPENERS!!!** | Date |
 |---|---|
 | **[Removal of MyQ integration - Home Assistant](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/ )** |
 | **[Does Getting Into Your Garage Really Need To Be Difficult? / Hackaday](https://hackaday.com/2023/11/09/does-getting-into-your-garage-really-need-to-be-difficult/ )** |
