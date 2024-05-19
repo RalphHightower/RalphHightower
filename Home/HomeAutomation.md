@@ -2,20 +2,20 @@
 
 I have not decided on which home automation system that I want to deploy, but my decision will be based on versatility. 
 
-## WARNING — DO NO BUY CHAMBERLAIN OR LIFTMASTER GARAGE DOOR OPENERS!!!
+## WARNING — DO NO BUY [CHAMBERLAIN](https://www.chamberlain.com/) OR [LIFTMASTER](https://www.liftmaster.com/) GARAGE DOOR OPENERS!!!
 
 They prohibit the integration of HomeAssistance, and probably other home automation systems like esphome, to interface with their garage door opening systems. 
 
-| **WARNING — DO NO USE CHAMBERLAIN OR LIFTMASTER GARAGE DOOR OPENERS!!!** | Date |
+| **WARNING — DO NO USE [CHAMBERLAIN](https://www.chamberlain.com/) OR [LIFTMASTER](https://www.liftmaster.com/) GARAGE DOOR OPENERS!!!** | Date |
 |---|---|
 | **[Removal of MyQ integration - Home Assistant](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/ )** |
 | **[Does Getting Into Your Garage Really Need To Be Difficult? / Hackaday](https://hackaday.com/2023/11/09/does-getting-into-your-garage-really-need-to-be-difficult/ )** |
 
-## WARNING — DO NOT BUY HAIER MANUFACTURED HOME APPLIANCES (GENERAL ELECTRIC, HOTPOINT, HOOVER)[^11]
+## WARNING — DO NOT BUY [HAIER](https://www.haierappliances.com/) MANUFACTURED HOME APPLIANCES ([GENERAL ELECTRIC](https://www.geappliances.com/), [HOTPOINT](https://www.hotpoint.com/), [HOOVER](https://hoover.com/))[^11]
 
 [^11]: **Fisher & Paykel, and Candy are brands that I have never heard of.**
 
-**[Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/ )**<br />**Haier is a multinational home appliances and consumer electronics corporation selling a wide range of products under the brands General Electric Appliances, Hotpoint, Hoover, Fisher & Paykel, and Candy.**
+**[Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/ )**<br />**Haier is a multinational home appliances and consumer electronics corporation selling a wide range of products under the brands [General Electric Appliances](https://www.geappliances.com/), [Hotpoint](https://www.hotpoint.com/), [Hoover](https://hoover.com), Fisher & Paykel, and Candy.**
 
 ## General Articles/News 
 
