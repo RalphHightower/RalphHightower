@@ -21,6 +21,7 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | General Articles  / News | Date |
 |---|---|
+| [The Open Home Foundation will manage Home Assistant, ESPHome, Zigpy among over 240 open-source Smart Home projects - CNX Software](https://www.cnx-software.com/2024/04/23/open-home-foundation-manage-home-assistant-esphome-zigpy-over-240-open-source-smart-home-projects/ ) | APRIL 23, 2024 |
 | **[Home / SkyWind Energy Inc.](https://www.myskywind.world/? )** | May 19, 2024 |
 | [A Smart Power Distribution Unit For Home Automation / Hackaday](https://hackaday.com/2024/04/25/a-smart-power-distribution-unit-for-home-automation/ ) | April 25, 2024 |
 | [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) |
@@ -46,6 +47,10 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | [Home Assistant](https://www.home-assistant.io/ ) | Date |
 |----|---|
+| [How I automated my entire home with just a Raspberry Pi](https://www.xda-developers.com/automate-home-with-raspberry-pi/ ) | May 9, 2024 |
+| [GPT Home Runs Circles Around Traditional Home Assistant Devices - Hackster.io](https://www.hackster.io/news/gpt-home-runs-circles-around-traditional-home-assistant-devices-77d4f4d3c9e5 ) | May 3, 2024 |
+| [Review of SONOFF SNZB-06P human presence and SNZB-04P door/window Zigbee sensors - CNX Software](https://www.cnx-software.com/2024/04/29/review-sonoff-snzb-06p-zigbee-human-presence-snzb-04pdoor-window-sensor/ ) | APRIL 29, 2024 |
+| [Is Aqara’s FP2 presence sensor worth the hype?](https://www.androidpolice.com/aqara-fp2-worth-the-hype/ ) | SEP 25, 2023 |
 | **[How to set up Home Assistant with a Raspberry Pi and build a smart home](https://www.pocket-lint.com/how-to-set-up-home-assistant-with-a-raspberry-pi/ )** | JUL 3, 2023 |
 | **[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )** | SEP 8, 2023 |
 |[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )| 2023-06-21 |
@@ -62,16 +67,16 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | GitHub | Description |
 |---|---|
-| [openHAB](https://github.com/openhab ) 
+| [openHAB](https://github.com/openhab ) | |
 
 ### Vendors — openHAB 
 
 ### Articles — openHAB 
 
 | openHAB | Release | Date |
-|---|---|
-| [openHAB 4.0 Release / openHAB](https://www.openhab.org/blog/2023-07-23-openhab-4-0-release.html ) | Release |
- 2023-07-23 |
+|---|---|---|
+| [openHAB 4.0 Release / openHAB](https://www.openhab.org/blog/2023-07-23-openhab-4-0-release.html ) | Release | 2023-07-23 |
+ 
 ## [ESPHome — ESPHome](https://esphome.io/index.html ) 
 
 ### GitHub — ESPHome
