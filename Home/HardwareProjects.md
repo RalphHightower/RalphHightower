@@ -227,6 +227,15 @@
 | **[Raspberry Pi Products One Stop Shopping Mall – 52Pi Store](https://52pi.com/ )** |
 | [DeskPi Store](https://deskpi.com/ ) |
 
+#### Raspberry Pi Projects 
+
+| Raspberry Pi Projects | Date |
+|---|---|
+| [This 3D-Printed Roof Mounting System Turns a Raspberry Pi Into an Aurora-Capturing Flight Tracker](https://www.hackster.io/news/this-3d-printed-roof-mounting-system-turns-a-raspberry-pi-into-an-aurora-capturing-flight-tracker-97567b492532 ) | May 18, 2024 |
+| [Made a rooftop mounting system for some different Pi-based sensors. Had to solve some interesting thermal and moisture issues.](https://imgur.com/a/made-rooftop-mounting-system-some-different-pi-based-sensors-had-to-solve-some-interesting-thermal-moisture-issues-19pzWQy ) | May 16, 2024 |
+| [Audio Fun and New Possibilities With Raspberry Pi 5](https://audiophilestyle.com/ca/bits-and-bytes/audio-fun-and-new-possibilities-with-raspberry-pi-5-r1261/ ) | March 26, 2024 |
+
+
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards) (2)
 
 <details markdown='1'><summary>StarFiveTech VisionFive2: Expand / Collapse</summary>
