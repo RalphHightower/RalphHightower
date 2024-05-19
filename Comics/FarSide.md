@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The Far Side: One Recurring Gag Highlights the Best Thing About Gary Larson's Humor](https://screenrant.com/far-side-gary-larson-observational-humor-broken-windows/ ) | May 18, 2024 |
+| [10 Funniest Far Side Comics That Prove It's Obsessed with Bugs](https://screenrant.com/far-side-funniest-comics-about-bugs/ ) | May 16, 2024 |
 | [The Far Side: How A Single Syllable Helped Shape Gary Larson's Career As A Cartoonist](https://screenrant.com/far-side-comics-misprint-changed-gary-larson-career/ ) | May 16, 2024 |
 | [We Asked You to Vote for Far Side's Funniest Clown Comic, & This Strip Won by a Landslide](https://screenrant.com/far-side-funniest-comics-gary-larson-clowns/ ) | May 14, 2024 |
 | [The Far Side's First 10 Comics Are Still Hilarious Today](https://screenrant.com/funniest-far-side-comics-gary-larson-first-comics/ ) | May 12, 2024 |
