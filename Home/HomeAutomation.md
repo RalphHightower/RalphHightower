@@ -2,7 +2,7 @@
 
 I have not decided on which home automation system that I want to deploy, but my decision will be based on versatility. 
 
-## WARNING — DO NO USE CHAMBERLAIN GARAGE DOOR OPENERS!!!
+## WARNING — DO NO BUY CHAMBERLAIN OR LIFTMASTER GARAGE DOOR OPENERS!!!
 
 They prohibit the integration of HomeAssistance, and probably other home automation systems like esphome, to interface with their garage door opening systems. 
 
@@ -21,6 +21,8 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | General Articles  / News | Date |
 |---|---|
+| **[Home / SkyWind Energy Inc.](https://www.myskywind.world/? )** | May 19, 2024 |
+| [A Smart Power Distribution Unit For Home Automation / Hackaday](https://hackaday.com/2024/04/25/a-smart-power-distribution-unit-for-home-automation/ ) | April 25, 2024 |
 | [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) |
 | **[Heat Pump Dryer Explained / Hackaday](https://hackaday.com/2023/11/25/heat-pump-dryer-explained/ )** | 2023-11-25 |
 | [Infinite Turbine debuts heat pump turbine for homes, businesses – pv magazine International](https://www.pv-magazine.com/2023/11/27/infinite-turbine-debuts-heat-pump-turbine-for-homes-businesses/ ) | 2023-11-27 |
@@ -44,7 +46,8 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | [Home Assistant](https://www.home-assistant.io/ ) | Date |
 |----|---|
-|[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )|
+| **[How to set up Home Assistant with a Raspberry Pi and build a smart home](https://www.pocket-lint.com/how-to-set-up-home-assistant-with-a-raspberry-pi/ )** | JUL 3, 2023 |
+| **[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )** | SEP 8, 2023 |
 |[Zvidar Z-FW-V01 Smart Gateway runs Home Assistant on Allwinner A133 processor - CNX Software](https://www.cnx-software.com/2023/06/21/zvidar-z-fw-v01-smart-gateway-runs-home-assistant-on-allwinner-a133-processor/ )| 2023-06-21 |
 | [A Guard Bot For Your Home Assistant / Hackaday](https://hackaday.com/2023/05/14/a-guard-bot-for-your-home-assistant/ ) | 2023-05-14 |
 | [PricelessToolkit's MailboxGuard Watches for Activity Then Alerts You via Home Assistant or WhatsApp - Hackster.io](https://www.hackster.io/news/pricelesstoolkit-s-mailboxguard-watches-for-activity-then-alerts-you-via-home-assistant-or-whatsapp-012c5c092aef ) |
