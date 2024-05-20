@@ -1,25 +1,24 @@
 {
-  "plugins": [
-    [
-      "@semantic-release/commit-analyzer",
-      {
-        "preset": "angular",
-        "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+    "branches": ["main", "_staging", "next"],
+    "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
+    
+    "release": {
+        "branches": ["master", "next", "_staging"]
         }
-      }
-    ],
-    [
-      "@semantic-release/release-notes-generator",
-      {
-        "preset": "angular",
-        "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
-        },
-        "writerOpts": {
-          "commitsSort": ["subject", "scope"]
-        }
-      }
+    
+    "plugins": [
+            "@semantic-release/verifyConditions",
+            "@semantic-release/analyzeCommits",
+            "@semantic-release/verifyRelease",
+            "@semantic-release/generateNotes",
+            "@semantic-release/prepare",
+            "@semantic-release/publish",
+            "@semantic-release/addChannel",
+            "@semantic-release/success",
+            "@semantic-release/fail"
     ]
-  ]
-}
+} 
+#GIT_AUTHOR_NAME
+#GIT_AUTHOR_EMAIL
+#GIT_COMMITTER_NAME
+#GIT_COMMITTER_EMAIL
