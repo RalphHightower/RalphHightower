@@ -313,7 +313,10 @@
 || [SparkFun](https://www.sparkfun.com/products/16271) $149.00 backorder ||
 || [Okdo](https://www.okdo.com/us/p/nvidia-jetson-nano-development-kit/) $149.00 ||
 | **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
+| [ Firefly CORE-1688JD4 Core board_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=239) | $N/A | ✓ |
 | **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
+|  **[FireflyCore-3588J 8K AI Core Board Rockchip RK3588 new-gen 8-core 64-bit processor_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=162)** | **~~$ 569~~ Promotion price: $ 539.00 32GB/256GB** | ✓ |
+| **[Mixtile 3588E](https://www.mixtile.com/store/som/core-3588e/)** | **$338.00 32GB** | ✓ |
 
 #### Products for TuringPi 
 
