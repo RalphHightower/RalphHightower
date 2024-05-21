@@ -124,11 +124,15 @@
 
 | 2024 Total Solar Eclipse — NASA | Date |
 |---|---|
-| [Sun Series: Bonus: Dispatches from the Path of Totality - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-bonus-dispatches-from-the-path-of-totality/ )[^201] | MAY 3, 2024 |
+| [Sun Series: Bonus: Dispatches from the Path of Totality - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-bonus-dispatches-from-the-path-of-totality/ )[^201] | MAY 03, 2024 |
+| [2024 Total Solar Eclipse: Prediction vs. Reality - NASA Science](https://science.nasa.gov/eclipses/) | MAY 02, 2024 |
+| [Infiniscope and Eclipse Soundscapes Collaboration Reaches 1,766 Middle School Students - NASA Science](https://science.nasa.gov/sun/) | APR 15, 2024 |
 | [Seeing the Solar Eclipse from 223,000 Miles Away - NASA](https://www.nasa.gov/image-article/seeing-the-solar-eclipse-from-223000-miles-away/ ) | APR 15, 2024 |
 | [NASA’s LRO Observes 2024 Solar Eclipse Shadow - NASA](https://www.nasa.gov/missions/lro/nasas-lro-observes-2024-solar-eclipse-shadow/ ) | APR 15, 2024 |
 | [The April 8 Total Solar Eclipse: Through the Eyes of NASA - NASA Science](https://science.nasa.gov/solar-system/skywatching/april-8-total-solar-eclipse-through-the-eyes-of-nasa/ ) | APR 12, 2024 |
 | [More Than 36,000 Volunteers Helped Do NASA Eclipse Science - NASA Science](https://science.nasa.gov/get-involved/citizen-science/more-than-36000-volunteers-helped-do-nasa-eclipse-science/ ) | APR 10, 2024 |
+| [Seeing Totality - NASA](https://www.nasa.gov/image-article/seeing-totality/) | APR 09, 2024 |
+| [NASA Wallops Launches 3 Rockets During Eclipse in Virginia - NASA](https://www.nasa.gov/image-article/nasa-wallops-launches-3-rockets-during-eclipse-in-virginia/) | APR 09, 2024 |
 | [Harnessing the 2024 Eclipse for Ionospheric Discovery with HamSCI - NASA Science](https://science.nasa.gov/solar-system/skywatching/2024-eclipse-ionospheric-discovery-with-hamsci/ ) | APR 04, 2024 |
 | [Scientists Pursue the Total Solar Eclipse with NASA Jet Planes - NASA Science](https://science.nasa.gov/solar-system/skywatching/scientists-pursue-the-total-solar-eclipse-with-nasa-jet-planes/ ) | APR 03, 2024 |
 | [NASA Partnerships Bring 2024 Total Solar Eclipse to Everyone - NASA](https://www.nasa.gov/science-research/heliophysics/2024-eclipse-partnerships/ ) | APR 02, 2024 |
