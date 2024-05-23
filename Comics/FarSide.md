@@ -16,6 +16,9 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Hilarious Far Side Comics About Characters Lost in the Desert](https://screenrant.com/far-side-comics-lost-desert-characters-gary-larson/) | May 22, 2024 |
+| [This Far Side Comic Was a Direct Insult to Gary Larson's Editor](https://screenrant.com/funniest-far-side-comic-gary-larson-inspiration-editor/) | May 21, 2024 |
+| [10 Hilarious Far Side Comics Starring Shady Characters Wearing Trench Coats](https://screenrant.com/far-side-comics-trench-coats-humans-aliens-elephants/) | May 19, 2024 |
 | [The Far Side: One Recurring Gag Highlights the Best Thing About Gary Larson's Humor](https://screenrant.com/far-side-gary-larson-observational-humor-broken-windows/ ) | May 18, 2024 |
 | [10 Funniest Far Side Comics That Prove It's Obsessed with Bugs](https://screenrant.com/far-side-funniest-comics-about-bugs/ ) | May 16, 2024 |
 | [The Far Side: How A Single Syllable Helped Shape Gary Larson's Career As A Cartoonist](https://screenrant.com/far-side-comics-misprint-changed-gary-larson-career/ ) | May 16, 2024 |
