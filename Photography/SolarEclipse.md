@@ -364,6 +364,7 @@
 | [What is a solar eclipse? / Space](https://www.space.com/15584-solar-eclipses.html ) | January 3, 2024 |
 | [Total solar eclipse April 2024: 10 of the biggest cities within the path of totality / Space](https://www.space.com/total-solar-eclipse10-of-biggest-cities-in-path-of-totality-april-8-2024 ) | January 1, 2024 |
 | [The best places in Canada to see the 2024 total solar eclipse / Space](https://www.space.com/solar-eclipse-2024-best-canada-viewing-locations ) | December 13, 2023 |
+| [A once-in-a-lifetime view of the sun's 'solar maximum' is coming April 8th / Live Science](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024) | December 1, 2023 |
 | [Solar maximum: Why April's total Solar Eclipse will bring unique views of the sun's corona / Space](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024 ) | November 28, 2023 |
 | [10 scenic spots to watch the April 2024 total solar eclipse / Space](https://www.space.com/10-best-scenic-locations-watch-total-solar-eclipse-2024-national-parks-state-parks ) | November 23, 2023 |
 | [The best places in Mexico to see the total solar eclipse on April 8, 2024 / Space](https://www.space.com/best-places-in-mexico-to-see-total-solar-eclipse-april-8-2024 ) | November 20, 2023 |
