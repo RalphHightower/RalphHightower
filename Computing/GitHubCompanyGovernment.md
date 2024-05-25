@@ -122,7 +122,7 @@
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
-| [InterNetNews](https://github.com/InterNetNews) | INN (InterNetNews) Usenet server
+| [InterNetNews](https://github.com/InterNetNews) | INN (InterNetNews) Usenet server |
 | [Intrepid Control Systems, Inc.](https://github.com/intrepidcs ) | Global provider of vehicle networking tools |
 | [IoTSharp](https://github.com/IoTSharp ) | An IoT platform for device management, data collection, processing, status detection, and remote control |
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
