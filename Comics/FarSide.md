@@ -16,6 +16,9 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Funniest Far Side Comics Starring God](https://screenrant.com/funniest-far-side-comics-god-heaven-religion-larson/) | May 25, 2024 |
+| [The Far Side's 1994 TV Adaptation Proves A Movie Needs To Happen](https://screenrant.com/far-side-movie-must-happen-tv-special-prove/) | May 25, 2024 |
+| [Far Side's Most Confusing Comic Has an Incredibly Simple Explanation](https://screenrant.com/far-side-most-confusing-mixed-captions-gary-larson/) | May 24, 2024 |
 | [10 Hilarious Far Side Comics About Characters Lost in the Desert](https://screenrant.com/far-side-comics-lost-desert-characters-gary-larson/) | May 22, 2024 |
 | [This Far Side Comic Was a Direct Insult to Gary Larson's Editor](https://screenrant.com/funniest-far-side-comic-gary-larson-inspiration-editor/) | May 21, 2024 |
 | [10 Hilarious Far Side Comics Starring Shady Characters Wearing Trench Coats](https://screenrant.com/far-side-comics-trench-coats-humans-aliens-elephants/) | May 19, 2024 |
