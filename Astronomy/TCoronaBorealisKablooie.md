@@ -2,6 +2,10 @@
 
 ## T Corona Borealis Articles 
 
+![Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](horrendous-space-kablooie.jpg)
+
+"Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists.
+
 | T Corona Borealis | Date |
 |---|---|
 | [Why Are We Seeing These Crazy Northern Lights? | WIRED](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/) | MAY 24, 2024 11:20 AM |
