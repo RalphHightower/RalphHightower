@@ -4,7 +4,7 @@
 
 ![Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](horrendous-space-kablooie.jpg)
 
-"Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists.
+["Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](https://screenrant.com/calvin-hobbes-big-bang-horrendous-space-kablooie/) • August 1, 2023
 
 | T Corona Borealis | Date |
 |---|---|
