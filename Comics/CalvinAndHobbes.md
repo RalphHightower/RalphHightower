@@ -110,6 +110,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
 | [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
 | [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/ ) | Apr 29, 2024 |
 | [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
