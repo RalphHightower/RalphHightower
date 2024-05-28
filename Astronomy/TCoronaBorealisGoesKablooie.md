@@ -8,8 +8,10 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Astronomers Discover The Largest Planet-Forming Disk We've Ever Seen : ScienceAlert](https://www.sciencealert.com/astronomers-discover-the-largest-planet-forming-disk-weve-ever-seen)[^11] | 25 May 2024 |
 | [We're About To Witness A Stellar Event Potentially First Recorded In A Medieval Manuscript / IFLScience](https://www.iflscience.com/were-about-to-witness-a-stellar-event-potentially-first-recorded-in-a-medieval-manuscript-74360) | May 24, 2024 |
 | [Nova explosion visible to the naked eye expected any day now / Ars Technica](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/) | 5/21/2024, 10:13 AM |
+| [A new star is about to appear in the night sky. Here’s how to catch a glimpse / CU Boulder Today / University of Colorado Boulder](https://www.colorado.edu/today/2024/04/29/new-star-about-appear-night-sky-heres-how-catch-glimpse) | April 29, 2024 |
 | [Q&A: How to catch a glimpse of a new star about to appear in the night sky](https://phys.org/news/2024-04-qa-glimpse-star-night-sky.html) | APRIL 29, 2024 |
 | [A Rare Nova Explosion Will Soon Bring a 'New Star' to the Night Sky—How to Catch a Glimpse / Smithsonian](https://www.smithsonianmag.com/smart-news/a-rare-nova-explosion-will-soon-bring-a-new-star-to-the-night-sky-how-to-catch-a-glimpse-180984186/) | April 19, 2024 |
 | [Never seen an exploding star? This year, you'll have your chance : NPR](https://www.npr.org/2024/04/15/1244799763/nova-exploding-star-t-coronae-borealis) | APRIL 15, 2024 12:37 PM ET |
@@ -30,6 +32,8 @@
 | [A rare nova ignites a 'new star' in the sky this year. Here's how to see it / Space](https://www.space.com/new-star-night-sky-nova-explosion-rare) | March 12, 2024 |
 | [Once-in-a-Lifetime Viewing Opportunity: Nova Explosion, ‘New’ Star in Northern Crown](https://scitechdaily.com/once-in-a-lifetime-viewing-opportunity-nova-explosion-new-star-in-northern-crown/) | FEBRUARY 28, 2024 |
 | [View Nova Explosion, ‘New’ Star in Northern Crown - Watch the Skies / NASA](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/) | February 27, 2024 |
+
+[^11]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 
 ## Light Pollution 
 
