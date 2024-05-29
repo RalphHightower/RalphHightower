@@ -95,7 +95,7 @@
 
 | Alternative Raspberry Pi OS | Date |
 |---|---|
-| [Venturing beyond the default OS on Raspberry Pi 5 • The Register](https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/ ) |
+| [Venturing beyond the default OS on Raspberry Pi 5 • The Register](https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/ ) | Thu 7 Mar 2024 // 11:50 UTC |
 
 #### Raspberry Pi Articles • Nonspecific (4 or 5)
 
@@ -177,6 +177,11 @@
 | **[Seeed Studio Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
 
+| **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
+|---|
+| [Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html) |
+| [Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html) |
+
 ##### Raspberry Pi 5 Articles 
 
 | Raspberry Pi 5 Articles | Date |
@@ -185,8 +190,8 @@
 | **[SupTronics Raspberry Pi 5 UPS HAT X1202 V1.1 takes four 18650 batteries delivering up to 25W - CNX Software](https://www.cnx-software.com/2024/05/24/suptronics-x1202-raspberry-pi-5-ups-hat-four-18650-batteries-25w/)** | MAY 24, 2024 |
 | [How to add fast M.2 accessories to your Raspberry Pi 5 / ZDNET](https://www.zdnet.com/home-and-office/how-to-add-fast-m-2-accessories-to-your-raspberry-pi-5/) | May 21, 2024 at 3:01 a.m. PT |
 | [52Pi W01 U2500 HAT adds 2.5GbE and NVMe SSD support to Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2024/05/16/52pi-w01-u2500-hat-2-5gbe-nvme-ssd-raspberry-pi-5/) | MAY 16, 2024 |
-| [Can Raspberry Pi 5 Run Ubuntu?](https://www.slashgear.com/1576499/raspberry-pi-5-run-ubuntu-what-know/) | MAY 11, 2024 8:45 AM EST |
 | [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
+| [Can Raspberry Pi 5 Run Ubuntu?](https://www.slashgear.com/1576499/raspberry-pi-5-run-ubuntu-what-know/) | MAY 11, 2024 8:45 AM EST |
 | ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^51] | MAY 3, 2024 |
 | [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
 | [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
@@ -196,36 +201,31 @@
 | [PineBerry Pi launches five additional HAT+ boards for the Raspberry Pi 5 with 2.5GbE, GbE, M.2 NVMe, and more - CNX Software](https://www.cnx-software.com/2024/03/08/pineberry-pi-hat-plus-boards-raspberry-pi-5-2-5gbe-gbe-m2-nvme/ ) | MARCH 8, 2024 |
 | **[Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/ )** | March 8, 2024 |
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 1:07 pm March 3, 2024 |
-| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | NOVEMBER 29, 2023 | 
 | [52Pi P02 PCIe expansion board for Raspberry Pi 5 features a PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/23/52pi-p02-pcie-expansion-board-raspberry-pi-5-pcie-x1-slot/) | FEBRUARY 23, 2024 |
 | [52Pi NVdigi Expansion Board for Raspberry Pi 5 combines HiFiBerry Digi+ audio output with M.2 PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/21/52pi-nvdigi-expansion-board-raspberry-pi-5-hifiberry-digi-audio-m2-pcie-slot/) | FEBRUARY 21, 2024 |
 | [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) | JANUARY 24, 2024 |
+| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | DECEMBER 13, 2023 |
+| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | NOVEMBER 29, 2023 | 
+| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | NOVEMBER 16, 2023 |
 | [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) | November 12, 2023 |
 | [Reducing Raspberry Pi 5's power consumption by 140x / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x ) | November 5, 2023 |
 | **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** | NOVEMBER 5, 2023 |
 | **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** | OCTOBER 31, 2023 |
 | [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) | November 1, 2023 |
-| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) | October 23, 2023
 | [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) | October 25, 2023 |
 | [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) | 24th Oct 2023 |
-| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) | October 21, 2023 |
+| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) | October 23, 2023
 | [Raspberry Pi 5 Review: A New Standard for Makers (Updated) / Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-5 ) | October 23, 2023 |
+| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) | October 21, 2023 |
 | [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) | 20th Oct 2023 |
 | [The Raspberry Pi 5 is here!](https://www.yodeck.com/news/raspberry-pi-5/ ) | 
+| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) | 10 OCT 2023 |
 | [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) | OCTOBER 7, 2023 |
 | [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) | 6th Oct 2023 |
-| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) | 10 OCT 2023 |
 | **[The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit / PC Gamer](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit/ )** | 28 Sep. 2023 |
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 
-| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | DECEMBER 13, 2023 |
-| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | NOVEMBER 16, 2023 |
 
 [^51]: [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) • May 1, 2024
-
-| **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
-|---|
-| [Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html) |
-| [Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html) |
 
 </details>
 
@@ -342,7 +342,7 @@
 | **[Firefly CORE-1684JD4 8-Core High Computing Power AI Core Board](https://www.firefly.store/goods.php?id=173)** | [$499 12GB](https://www.firefly.store/goods.php?id=173) | ✓ |
 | [ Firefly CORE-1688JD4 Core board_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=239) | $N/A | ✓ |
 | **[Firefly Core-3588J 8K AI Core Board 16GB+128GB](https://www.firefly.store/goods.php?id=162)** | [$379 16GB+128GB](https://www.firefly.store/goods.php?id=162) | ✓ |
-|  **[FireflyCore-3588J 8K AI Core Board Rockchip RK3588 new-gen 8-core 64-bit processor_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=162)** | **~~$ 569~~ Promotion price: $ 539.00 32GB/256GB** | ✓ |
+|  **[FireflyCore-3588J 8K AI Core Board Rockchip RK3588 new-gen 8-core 64-bit processor_Core Boards_All_Firefly Store](https://www.firefly.store/goods.php?id=162)** | **~~$ 569~~ Promotion price: \$ 539.00 32GB/256GB** | ✓ |
 | **[Mixtile 3588E](https://www.mixtile.com/store/som/core-3588e/)** | **$338.00 32GB** | ✓ |
 
 #### Products for TuringPi 
@@ -364,8 +364,8 @@
 
 | Articles | Date |
 |----|---|
-| [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) |
-| [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) |
+| [Turing Machines Finalizes RK1 System-on-Module Specs, Prepares to Take Orders Starting at $110 - Hackster.io](https://www.hackster.io/news/turing-machines-finalizes-rk1-system-on-module-specs-prepares-to-take-orders-starting-at-110-78178b3420c2) | *December 31, 2023* |
+| [Monitoring Self-Hosted Services](https://blog.randombits.host/monitoring-self-hosted-services/ ) | 07 Jun 2023 |
 
 #### NVIDIA Documentation 
 
@@ -383,7 +383,7 @@
 |----|---|
 | **[Getting Started — NVIDIA CUDA Quantum documentation](https://nvidia.github.io/cuda-quantum/latest/install.html )** |
 | [PeopleNet](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet) |
-| [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) |
+| [Nvidia’s New Orin Nano Developer Kit: Like a Raspberry Pi for AI](https://www.tomshardware.com/news/nvidias-new-orin-nano-developer-kit-like-a-raspberry-pi-for-ai) | March 21, 2023 |
 | [The All In One Review of NVIDIA Jetson Boards](https://www.iotworlds.com/the-all-in-one-review-of-nvidia-jetson-boards/) |
 
 #### NVIDIA Suppliers
@@ -430,8 +430,8 @@
 | [Firefly AIO-3588MQ Automotive-Grade AI Mainboard](https://www.firefly.store/goods.php?id=188) | $759 16GB+128GB |
 | [Firefly AIO-3588JQ 8K AI Industrial Mainboard](https://www.firefly.store/goods.php?id=179) | $479 8GB+64GB |
 | [Firefly ITX-3568JQ Quad-core ITX Mainboard 8GB](https://en.t-firefly.com/product/industry/itx3568jq)  $978 16GB+128GB Deluxe Package A(4G) |
-| [Firefly ITX-3568Q Quad-core ITX Mainboard](https://www.firefly.store/goods.php?id=170) | $389 $4GB+16GB |
-| [Firefly ITX-3588J 8K AI Mini-ITX Mainboard Deluxe expandable to 32GB](https://www.firefly.store/goods.php?id=161) $1326 16GB+128GB Deluxe Package A(5G) |
+| [Firefly ITX-3568Q Quad-core ITX Mainboard](https://www.firefly.store/goods.php?id=170) | \$389 $4GB+16GB |
+| [Firefly ITX-3588J 8K AI Mini-ITX Mainboard Deluxe expandable to 32GB](https://www.firefly.store/goods.php?id=161) | $1326 16GB+128GB Deluxe Package A(5G) |
 
 </details>
 
@@ -449,20 +449,20 @@
 
 | Milk-V RISC-V 64 core CPU Supporting up to 128 GB RAM| Source | Date |
 |---|---|---|
-|[Milk-V's Pioneer Is a Tall Glass of Cold RISC-V with 64 Cores, Up to 128GB of RAM - Hackster.io](https://www.hackster.io/news/milk-v-s-pioneer-is-a-tall-glass-of-cold-risc-v-with-64-cores-up-to-128gb-of-ram-fabf9f22747f )|News Article|
-|[Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer )|Design/Manufacturer|
-|[Linux kernel source code](https://github.com/milkv-pioneer/linux-riscv )|Design/Manufacturer|
-|[CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf )|Design/Manufacturer|
-|[Bootloader source code](https://github.com/milkv-pioneer/bootloader )|Design/Manufacturer|
-|[OpenSBI source code](https://github.com/milkv-pioneer/opensbi )|Design/Manufacturer|
-|[zsbl source code](https://github.com/milkv-pioneer/zsbl )|Design/Manufacturer|
+| [Milk-V's Pioneer Is a Tall Glass of Cold RISC-V with 64 Cores, Up to 128GB of RAM - Hackster.io](https://www.hackster.io/news/milk-v-s-pioneer-is-a-tall-glass-of-cold-risc-v-with-64-cores-up-to-128gb-of-ram-fabf9f22747f ) | News Article | *December 31, 2023* |
+| [Milk-V Pioneer / Crowd Supply](https://www.crowdsupply.com/milkv/milk-v-pioneer ) | Design/Manufacturer|
+| [Linux kernel source code](https://github.com/milkv-pioneer/linux-riscv ) | Design/Manufacturer |
+|[CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf ) | Design/Manufacturer |
+|[Bootloader source code](https://github.com/milkv-pioneer/bootloader ) |  Design/Manufacturer|
+|[OpenSBI source code](https://github.com/milkv-pioneer/opensbi ) |Design/Manufacturer |
+|[zsbl source code](https://github.com/milkv-pioneer/zsbl ) | Design/Manufacturer |
 
 #### Software
 
 | RISC-V Software | Date |
 |---|---|
 | [SiFive Software - Accelerate & Enhance your RISC-V Development.](https://www.sifive.com/software ) |
-| [What's going on with SiFive and RISC V? / TechSpot](https://www.techspot.com/news/100578-what-going-sifive-risc-v.html ) |
+| [What's going on with SiFive and RISC V? / TechSpot](https://www.techspot.com/news/100578-what-going-sifive-risc-v.html ) | October 22, 2023 at 1:03 PM
 
 </details>
 
@@ -472,7 +472,7 @@
 
 | Model | RaspberryPi Shake Seismometers | Price | Date |
 |---|---|---|---|
-| **[Watch the earth move with Raspberry Shake - Raspberry Pi](https://www.raspberrypi.com/news/watch-the-earth-move-with-raspberry-shake/ )** |
+| **[Watch the earth move with Raspberry Shake - Raspberry Pi](https://www.raspberrypi.com/news/watch-the-earth-move-with-raspberry-shake/ )** | | | 15th Mar 2024 |
 | [Earthquake and Infrasound Monitors-Seismograph - Earthquake and Infrasound Sensors](https://shop.raspberryshake.org/ ) |
 | [Raspberry Shake seismometers - Raspberry Pi](https://www.raspberrypi.com/success-stories/raspberry-shake-seismometers/ ) |
 | RS3D | Vertical & Lateral Motion Seismograph | $799.99 – $1,414.99 USD |
@@ -484,8 +484,8 @@
 
 | Single Board Computers |
 |---|
-| [6 Fantastic Single Board Computers (SBC) compared - Geeky Gadgets](https://www.geeky-gadgets.com/single-board-computers-sbc-compared/ ) |
-| [Getting RISC-V (again): Milk-V's Mars CM / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm ) |
+| [6 Fantastic Single Board Computers (SBC) compared - Geeky Gadgets](https://www.geeky-gadgets.com/single-board-computers-sbc-compared/ ) | 10:08 am October 30, 2023 |
+| [Getting RISC-V (again): Milk-V's Mars CM / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm ) | November 1, 2023 |
 
 ## Communications 
 
@@ -536,10 +536,10 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 | Possible Projects | Date |
 |------|---|
-| **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* |
-| [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) |
-| [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) |
-| [A cheap and (relatively) easy microwave imager / radiotelescope / Saveitforparts](https://saveitforparts.wordpress.com/2023/03/29/a-cheap-and-relatively-easy-microwave-imager-radiotelescope/ ) |
+| **[GasCap Tracking Device Fits Inside of a Gasoline Cap — Inspired by Better Call Saul](https://www.hackster.io/news/gascap-tracking-device-fits-inside-of-a-gasoline-cap-inspired-by-better-call-saul-c1156c426ffa)** *lost dog locator?* | *December 31, 2023* |
+| [Build a NVIDIA Jetson Xavier NX 4 Node cluster](https://www.geeky-gadgets.com/build-a-4-node-cluster-04-07-2022/) | 9:55 am July 4, 2022 |
+| [Building a Four-Node Cluster with NVIDIA Jetson Xavier NX](https://developer.nvidia.com/blog/building-a-four-node-cluster-with-nvidia-jetson-xavier-nx/) | Jul 01, 2022 |
+| [A cheap and (relatively) easy microwave imager / radiotelescope / Saveitforparts](https://saveitforparts.wordpress.com/2023/03/29/a-cheap-and-relatively-easy-microwave-imager-radiotelescope/ ) | Wednesday, March 29th, 2023 at 5:10 pm 
 | [AntSDR E200 / Crowd Supply](https://www.crowdsupply.com/microphase-technology/antsdr-e200 ) |
 | [HackRF One - WRL-13001 - SparkFun Electronics](https://www.sparkfun.com/products/13001 ) |
 
@@ -554,7 +554,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 |[Home » Open Compute Project](https://www.opencompute.org) |
 |[Timebeat's Precision Time Keeping Products](https://store.timebeat.app/products/ocp-tap-timecard )|
 |[opencomputeproject/Time-Appliance-Project](https://github.com/opencomputeproject/Time-Appliance-Project): Develop an end-to-end hypothetical reference model, network architectures, performance objectives and the methods to distribute, operate, monitor time synchronization within data center and much more...|
-| [Timebeat's TimeCard mini Turns a Raspberry Pi CM4 Into a PCI Express High-Precision Time Source - Hackster.io](https://www.hackster.io/news/timebeat-s-timecard-mini-turns-a-raspberry-pi-cm4-into-a-pci-express-high-precision-time-source-18b89b1732bc ) |
+| [Timebeat's TimeCard mini Turns a Raspberry Pi CM4 Into a PCI Express High-Precision Time Source - Hackster.io](https://www.hackster.io/news/timebeat-s-timecard-mini-turns-a-raspberry-pi-cm4-into-a-pci-express-high-precision-time-source-18b89b1732bc ) |*December 31, 2023* |
 |[Watch "The most accurate Raspberry Pi atomic clock IN THE WORLD!" on YouTube](https://youtu.be/tU0xC1ynaT8 )|
 |[Watch "Democratizing Time: Hands on with an Atomic Clock PCIe Card" on YouTube](https://youtu.be/Gr7sZ4MPMu8 )|
 |[Watch "Nanosecond clock sync with a Raspberry Pi" on YouTube](https://youtu.be/RvnG-ywF6_s)|
@@ -659,11 +659,11 @@ I could easily see this for installation in cars, SUVs, trucks.
 | Programming | Date |
 |----------|---|
 | [Arm Assembly Programming by Example](https://armasm.com/) | |
-| [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) | |
+| [RISC-V Project: Driving Outputs](https://unboxing-tomorrow.com/risc-v-project-driving-outputs/) | November 24, 2020 |
 
 ## [SparkFun](https://www.sparkfun.com/)
 
-| Hardware | How-to | GitHub | Date |
+| Hardware | How-to | GitHub |
 |----|---|----|---|
 | [SparkFun MicroMod Input and Display Carrier Board](https://www.sparkfun.com/products/16985) | [SparkFun MicroMod Input and Display Carrier Board Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide/all) | [SparkFun MicroMod Input and Display Carrier Board](https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier) |
 | [SparkFun MicroMod nRF52840 Processor](https://www.sparkfun.com/products/16984) | [MicroMod nRF52840 Processor Hookup Guide](https://learn.sparkfun.com/tutorials/micromod-nrf52840-processor-hookup-guide/all) | []() |
@@ -693,7 +693,7 @@ I could easily see this for installation in cars, SUVs, trucks.
 
 | General Computer Building | Date |
 |---|---|
-| [Why Building Your Own PC Is Still a Smart Move in 2023 / Tom's Hardware](https://www.tomshardware.com/news/building-your-own-pc-smart-move ) |
+| [Why Building Your Own PC Is Still a Smart Move in 2023 / Tom's Hardware](https://www.tomshardware.com/news/building-your-own-pc-smart-move ) | June 20, 2023 |
 
 ## MIPI Definitions
 
