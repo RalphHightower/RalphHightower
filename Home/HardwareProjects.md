@@ -97,116 +97,27 @@
 |---|---|
 | [Venturing beyond the default OS on Raspberry Pi 5 • The Register](https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/ ) |
 
-#### Compute Blade • Raspberry Pi Compute Module
+#### Raspberry Pi Articles • Nonspecific (4 or 5)
 
-| Raspberry Pi Compute Blade |
-|---|
-| **[Compute Blade / Your Raspberry Pi CM4 Cluster](https://computeblade.com/ )** |
-
-#### Raspberry Pi 5 (3)
-
-<details markdown='1'><summary>Raspberry Pi 5: Expand / Collapse</summary>
-
-##### Raspberry Pi 5 Configurations 
-
-| Raspberry Pi 5 | RAM | M.2 Hat | SSD |
-|---|---|---|---|
-|    | 8GB |  | 2TB |
-|    | 8GB |  | 2TB |
-|    | 8GB |  | 2TB |
-
-##### Raspberry Pi Add-ons
-
-| Add-ons | Price |
+| Raspberry Pi Articles | Date |
 |---|---|
-| **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
-| **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
-| **[Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
-| [Products – Pineberry Pi](https://pineberrypi.com/pages/products )
-| [Pineberry Pi](https://pineberrypi.com/ ) |
-| [HatDrive! Piano (NVMe 2230, 2242 GEN 3) for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hatdrive-piano-nvme-2230-2242-gen-3-for-raspberry-pi-5 ) | (H/W) €32,99 EUR |
-| [Hat AI! Dual for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-ai-dual-for-raspberry-pi-5 ) | (H/W) €35,99 EUR |
-| [Hat mPCIe for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-mpcie-for-raspberry-pi-5 ) | (H/W) €18,99 EUR |
-| [Hat uPCIty Lite for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-upcity-lite-for-raspberry-pi-5 ) | (H/W) €26,99 EUR |
+| [Raspberry Pi: How to enable SSH](https://www.androidpolice.com/how-to-enable-ssh-on-raspberry-pi/) | May 25, 2024 |
+| [I turned my Raspberry Pi into a full-fledged weather station — here's how you can, too](https://www.xda-developers.com/turn-raspberry-pi-into-a-weather-station/ ) | April 27, 2024 |
+| [Channel your inner DIY god by building these 10 complex Raspberry Pi projects](https://www.xda-developers.com/10-complex-raspberry-pi-projects/ ) | April  26, 2024 |
+| **[Ubuntu 24.04 LTS "Noble Numbat" released with Linux 6.8, up to 12 years of support - CNX Software](https://www.cnx-software.com/2024/04/26/ubuntu-24-04-lts-noble-numbat-released-with-linux-6-8-up-to-12-years-of-support/ )**[^11] | APRIL 26, 2024 |
+| [How to make a print server with a Raspberry Pi](https://www.xda-developers.com/how-to-make-a-print-server-with-a-raspberry-pi/ ) | April 21, 2024 |
+| [You can run LLMs locally on your Raspberry Pi using Ollama - here's how to do it](https://www.xda-developers.com/run-llms-on-raspberry-pi/ ) | APR 9, 2024 |
+| [How to build an AirPlay receiver using a Raspberry Pi](https://www.xda-developers.com/build-airplay-receiver-using-raspberry-pi/ ) |APR 8, 2024 |
+| [Raspberry Pi \| The Ultimate Guide](https://www.jaycon.com/ultimate-guide-to-raspberry-pi/) | February 8, 2024 |
 
-| Product | Price |
-|---|---|
-| [Radxa Penta SATA HAT — A Complete NAS Solution](http://www.radxa.com/products/accessories/penta-sata-hat ) | [$N/A  Amazon](https://a.co/d/hbDui4U)<br />[ARace (HK) $44.99](https://arace.tech/products/radxa-penta-sata-hat-up-to-5x-sata-disks-hat-for-raspberry-pi-5 )<br />[All Net China $49](https://shop.allnetchina.cn/products/penta-sata-hat-for-rock-pi-4 ) |
-| [HatDrive! AI Coral Edge TPU Bundle (NVMe 2230,2242 GEN 2) for Raspberry Pi 5](https://pineboards.io/products/hatdrive-ai-coral-edge-tpu-bundle-nvme-2230-2242-gen-2-for-raspberry-pi-5 ) | €66,99 EUR |
-| [Hat AI! Dual Edge Coral TPU Bundle for Raspberry Pi 5](https://pineboards.io/products/hat-ai-dual-edge-coral-tpu-bundle-for-raspberry-pi-5 ) | €89,99 EUR |
-| [Radxa ROCK 5 ITX, RK3588 8-core CPU, Mini-ITX Motherboard, LPDDR5 RAM, 8K HDMI and Pre-installed Roobi System](https://www.aliexpress.com/item/3256806679715429.html ) | $239.02 |
-
-##### Raspberry Pi 5 Articles 
-
-| Raspberry Pi 5 Articles | Date |
-|---|---|
-| [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
-| [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
-| ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^11] | MAY 3, 2024 |
-| [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
-| [Ubuntu 24.04 on Raspberry Pi has intermittent installation issues / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/ubuntu-2404-on-raspberry-pi-has-intermittent-installation-issues ) | April 30, 2024 |
-| **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** |
-| **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** | 2023-11-05 |
-| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | 2023-11-05 |
-| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
-| [6 best operating systems for Raspberry Pi 5](https://www.xda-developers.com/best-operating-systems-for-raspberry-pi-5/ ) |
-| [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) |
-| [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) | 2023-10-07 |
-| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
-| [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) |
-| [Raspberry Pi 5 Review: A New Standard for Makers (Updated) / Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-5 ) |
-| [The Raspberry Pi 5 is here!](https://www.yodeck.com/news/raspberry-pi-5/ ) |
-| [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
-| [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) | 2023-10-25 |
-| [Qt for VS Code, the TL;DR version - KDAB](https://www.kdab.com/qt-for-vs-code-the-tldr-version/ ) |
-| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) |
-| [Reducing Raspberry Pi 5's power consumption by 140x / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x ) |
-| [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) |
-| [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) |
-| [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) |
-| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) |
-| **[The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit / PC Gamer](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit/ )** |
-| [PineBerry Pi launches five additional HAT+ boards for the Raspberry Pi 5 with 2.5GbE, GbE, M.2 NVMe, and more - CNX Software](https://www.cnx-software.com/2024/03/08/pineberry-pi-hat-plus-boards-raspberry-pi-5-2-5gbe-gbe-m2-nvme/ ) |
-| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** |
-| **[Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/ )** |
-| [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) |
-| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | 2023-12-13 |
-| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | 2023-11-26 |
-
-[^11]: [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) • May 1, 2024
-
-</details>
-
-#### Raspberry Pi 4 (2)
-
-<details markdown='1'><summary>Raspberry Pi 4: Expand / Collapse</summary>
-
-##### Raspberry Pi 4 Configurations 
-
-| SBC | CPU | RAM | SSD (USB-C) |
-|---|---|---|---|
-| [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
-
-##### Raspberry Pi Articles 
-
-| Raspberry Pi 4 | Date |
-|---|---|
-| [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) |
-| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) |
-| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) |
-
-| Add-ons | Price |
-|---|---|
-| [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
-
-</details>
+[^11]: Raspberry Pi 5 support. 
 
 #### DEC PiDP Consoles 
 
 | DEC PDP Consoles | Price | Date |
 |---|---|---|
 | [PDP-8 replica kit: the PiDP-8 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-8-replica-kit-the-pidp-8/ ) | $210.00 |
-| [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) || 2024-03-13 |
+| [PDP-10 Fits In Your Living Room / Hackaday](https://hackaday.com/2024/03/13/pdp-10-fits-in-your-living-room/ ) || March 13, 2024 |
 | [PDP-11 replica kit: the PiDP-11 from Obsolescence Guaranteed on Tindie](https://www.tindie.com/products/obso/pdp-11-replica-kit-the-pidp-11/ ) | $297.00 |
 
 ##### PiDP-11 Build Sequence 
@@ -229,10 +140,126 @@
 #### Raspberry Pi Projects 
 
 | Raspberry Pi Projects | Date |
-|---|---
+|---|---|
 | [This 3D-Printed Roof Mounting System Turns a Raspberry Pi Into an Aurora-Capturing Flight Tracker](https://www.hackster.io/news/this-3d-printed-roof-mounting-system-turns-a-raspberry-pi-into-an-aurora-capturing-flight-tracker-97567b492532 ) | May 18, 2024 |
 | [Made a rooftop mounting system for some different Pi-based sensors. Had to solve some interesting thermal and moisture issues.](https://imgur.com/a/made-rooftop-mounting-system-some-different-pi-based-sensors-had-to-solve-some-interesting-thermal-moisture-issues-19pzWQy ) | May 16, 2024 |
+| **[How to make a print server with a Raspberry Pi](https://www.xda-developers.com/how-to-make-a-print-server-with-a-raspberry-pi/)** | APR 21, 2024 |
 | [Audio Fun and New Possibilities With Raspberry Pi 5](https://audiophilestyle.com/ca/bits-and-bytes/audio-fun-and-new-possibilities-with-raspberry-pi-5-r1261/ ) | March 26, 2024 |
+
+#### Raspberry Pi 5 (3)
+
+<details markdown='1'><summary>Raspberry Pi 5: Expand / Collapse</summary>
+
+##### Raspberry Pi 5 Configurations 
+
+| Raspberry Pi 5 | RAM | M.2 Hat | SSD |
+|---|---|---|---|
+|    | 8GB |  | 2TB |
+|    | 8GB |  | 2TB |
+|    | 8GB |  | 2TB |
+
+##### Raspberry Pi Add-ons
+
+| Add-ons | Price |
+|---|---|
+| **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
+| **[Geekworm X1202 4-Cell 5V UPS Shield for Raspberry Pi 5 \| Max 5.1V 5A Output \| Wide 6-18V Input \| Auto Power On \| Safe Shutdown \| Power Loss Detection : Electronics](https://www.amazon.com/dp/B0CRZ4ZXQW?&linkCode=sl1&tag=cnxtra-20&linkId=a222239349a666d5497dbb66cfa61cac&language=en_US&)** | $49.00 |
+| [GeeekPi M.2 NVMe SSD Plus 2.5G Ethernet Adapter for Raspberry Pi 5, W01 U2500 Hat with NVMe SSD Expansion, USB 2.5G Network Port, GPIO Header, Support M.2 NVMe M-Key 2230/2242/2260/2280 SSD](https://a.co/d/eo07sDg) | $29.99 Amazon |
+| [Products – Pineberry Pi](https://pineberrypi.com/pages/products )
+| [Pineberry Pi](https://pineberrypi.com/ ) |
+| [HatDrive! Piano (NVMe 2230, 2242 GEN 3) for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hatdrive-piano-nvme-2230-2242-gen-3-for-raspberry-pi-5 ) | (H/W) €32,99 EUR |
+| [Pineboards AI! Dual for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-ai-dual-for-raspberry-pi-5 ) | (H/W) €35,99 EUR |
+| [Pineboards mPCIe for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-mpcie-for-raspberry-pi-5 ) | (H/W) €18,99 EUR |
+| [Pineboards uPCIty Lite for Raspberry Pi 5 – Pineboards](https://pineboards.io/products/hat-upcity-lite-for-raspberry-pi-5 ) | (H/W) €26,99 EUR |
+| [Pineboards HatDrive! AI Coral Edge TPU Bundle (NVMe 2230,2242 GEN 2) for Raspberry Pi 5](https://pineboards.io/products/hatdrive-ai-coral-edge-tpu-bundle-nvme-2230-2242-gen-2-for-raspberry-pi-5 ) | €66,99 EUR |
+| [Pineboards AI! Dual Edge Coral TPU Bundle for Raspberry Pi 5](https://pineboards.io/products/hat-ai-dual-edge-coral-tpu-bundle-for-raspberry-pi-5 ) | €89,99 EUR |
+| [Radxa Penta SATA HAT — A Complete NAS Solution](http://www.radxa.com/products/accessories/penta-sata-hat ) | [\$N/A — Amazon](https://a.co/d/hbDui4U)<br />[ARace (HK) \$44.99](https://arace.tech/products/radxa-penta-sata-hat-up-to-5x-sata-disks-hat-for-raspberry-pi-5 )<br />[All Net China \$49](https://shop.allnetchina.cn/products/penta-sata-hat-for-rock-pi-4 ) |
+| **[Seeed Studio Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
+| **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
+
+##### Raspberry Pi 5 Articles 
+
+| Raspberry Pi 5 Articles | Date |
+|---|---|
+| [Pironman 5 is a fancy tower PC case for the Raspberry Pi 5 with NVMe M.2 SSD, oversized fans, RGB LEDs - CNX Software](https://www.cnx-software.com/2024/05/25/pironman-5-tower-pc-case-raspberry-pi-5-nvme-m-2-ssd-oversized-fans-rgb-leds/) | MAY 25, 2024 |
+| **[SupTronics Raspberry Pi 5 UPS HAT X1202 V1.1 takes four 18650 batteries delivering up to 25W - CNX Software](https://www.cnx-software.com/2024/05/24/suptronics-x1202-raspberry-pi-5-ups-hat-four-18650-batteries-25w/)** | MAY 24, 2024 |
+| [How to add fast M.2 accessories to your Raspberry Pi 5 / ZDNET](https://www.zdnet.com/home-and-office/how-to-add-fast-m-2-accessories-to-your-raspberry-pi-5/) | May 21, 2024 at 3:01 a.m. PT |
+| [52Pi W01 U2500 HAT adds 2.5GbE and NVMe SSD support to Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2024/05/16/52pi-w01-u2500-hat-2-5gbe-nvme-ssd-raspberry-pi-5/) | MAY 16, 2024 |
+| [Can Raspberry Pi 5 Run Ubuntu?](https://www.slashgear.com/1576499/raspberry-pi-5-run-ubuntu-what-know/) | MAY 11, 2024 8:45 AM EST |
+| [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
+| ~~[Geekworm X1011 board adds up to four NVMe SSDs to the Raspberry Pi 5 - CNX Software](https://www.cnx-software.com/2024/05/03/geekworm-x1011-board-adds-up-to-four-nvme-ssds-to-the-raspberry-pi-5/ )~~[^51] | MAY 3, 2024 |
+| [Pineboards adds four more Raspberry Pi 5 PCIe HAT+ boards with PCIe x4 slot, mPCIe socket, Coral Dual Edge TPU support, and audio ports - CNX Software](https://www.cnx-software.com/2024/05/01/pineboards-raspberry-pi-5-pcie-hat-boards-pcie-x4-slot-mpcie-coral-dual-edge-tpu-audio/ ) | MAY 1, 2024 |
+| [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) | May 1, 2024 |
+| [Ubuntu 24.04 on Raspberry Pi has intermittent installation issues / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/ubuntu-2404-on-raspberry-pi-has-intermittent-installation-issues ) | April 30, 2024 |
+| [Essential Compatibility Insights for Raspberry Pi 5: What You Need to Know Before Purchase - DFRobot](https://www.dfrobot.com/blog-13550.html) | Apr 19 2024 |
+| [6 best operating systems for Raspberry Pi 5](https://www.xda-developers.com/best-operating-systems-for-raspberry-pi-5/ ) | MAR 16, 2024 |
+| [PineBerry Pi launches five additional HAT+ boards for the Raspberry Pi 5 with 2.5GbE, GbE, M.2 NVMe, and more - CNX Software](https://www.cnx-software.com/2024/03/08/pineberry-pi-hat-plus-boards-raspberry-pi-5-2-5gbe-gbe-m2-nvme/ ) | MARCH 8, 2024 |
+| **[Adding NVMe storage to your Raspberry Pi 5: What you should know](https://www.androidauthority.com/add-nvme-raspberry-pi-5-3423234/ )** | March 8, 2024 |
+| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 1:07 pm March 3, 2024 |
+| **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | NOVEMBER 29, 2023 | 
+| [52Pi P02 PCIe expansion board for Raspberry Pi 5 features a PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/23/52pi-p02-pcie-expansion-board-raspberry-pi-5-pcie-x1-slot/) | FEBRUARY 23, 2024 |
+| [52Pi NVdigi Expansion Board for Raspberry Pi 5 combines HiFiBerry Digi+ audio output with M.2 PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/21/52pi-nvdigi-expansion-board-raspberry-pi-5-hifiberry-digi-audio-m2-pcie-slot/) | FEBRUARY 21, 2024 |
+| [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) | JANUARY 24, 2024 |
+| [Raspberry Pi 5 4GB Versus 8GB: Pi vs Pi / Tom's Hardware](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5-4gb-versus-8gb ) | November 12, 2023 |
+| [Reducing Raspberry Pi 5's power consumption by 140x / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x ) | November 5, 2023 |
+| **[Raspberry Pi 5 review - Part 2: Raspberry Pi OS Bookworm, benchmarks, power consumption, and more - CNX Software](https://www.cnx-software.com/2023/11/05/raspberry-pi-5-review-raspberry-pi-os-bookworm-benchmarks-power-consumption/ )** | NOVEMBER 5, 2023 |
+| **[Raspberry Pi 5 Kit Review - Part 1: Unboxing, Assembly and First Boot - CNX Software](https://www.cnx-software.com/2023/10/31/raspberry-pi-5-kit-review-unboxing-assembly-boot/ )** | OCTOBER 31, 2023 |
+| [EDATEC Aims to Tame the Heat with Its New Passive Cooling Cases for the Raspberry Pi 5 - Hackster\.io](https://www.hackster.io/news/edatec-aims-to-tame-the-heat-with-its-new-passive-cooling-cases-for-the-raspberry-pi-5-b8eb12804185 ) | November 1, 2023 |
+| [Raspberry Pi 5 Launches to Eager Makers / Tom's Hardware](https://www.tomshardware.com/news/raspberry-pi-5-launches-to-eager-makers ) | October 23, 2023
+| [Booting The Raspberry Pi 5 With An NVMe SSD / Hackaday](https://hackaday.com/2023/10/25/booting-the-raspberry-pi-5-with-an-nvme-ssd/ ) | October 25, 2023 |
+| [The inside story on the new Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/the-inside-story-on-the-new-raspberry-pi-5-hackspace-72/ ) | 24th Oct 2023 |
+| [NVMe SSD boot with the Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5 ) | October 21, 2023 |
+| [Raspberry Pi 5 Review: A New Standard for Makers (Updated) / Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-5 ) | October 23, 2023 |
+| [Benchmarking Raspberry Pi 5 - Raspberry Pi](https://www.raspberrypi.com/news/benchmarking-raspberry-pi-5/ ) | 20th Oct 2023 |
+| [The Raspberry Pi 5 is here!](https://www.yodeck.com/news/raspberry-pi-5/ ) | 
+| [Raspberry Pi releases RP1 peripheral controller datasheet and block diagram - CNX Software](https://www.cnx-software.com/2023/10/07/raspberry-pi-rp1-datasheet-block-diagram/ ) | OCTOBER 7, 2023 |
+| [RP1: the silicon controlling Raspberry Pi 5 I/O, designed here at Raspberry Pi - Raspberry Pi](https://www.raspberrypi.com/news/rp1-the-silicon-controlling-raspberry-pi-5-i-o-designed-here-at-raspberry-pi/ ) | 6th Oct 2023 |
+| [Fresh From the Oven: Pi for Your Desktop - IEEE Spectrum](https://spectrum.ieee.org/raspberry-pi-5 ) | 10 OCT 2023 |
+| **[The plucky Raspberry Pi 5 gets the full liquid treatment with this slightly absurd water cooling kit / PC Gamer](https://www.pcgamer.com/the-plucky-raspberry-pi-5-gets-the-full-liquid-treatment-with-this-slightly-absurd-water-cooling-kit/ )** | 28 Sep. 2023 |
+| **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 
+| [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | DECEMBER 13, 2023 |
+| [Raspberry Pi 5 gets an M.2 PCIe HAT - Meet PineBerry Pi HatDrive - CNX Software](https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/ ) | NOVEMBER 16, 2023 |
+
+[^51]: [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) • May 1, 2024
+
+| **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
+|---|
+| [Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html) |
+| [Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html) |
+
+</details>
+
+#### Raspberry Pi 4 (2)
+
+<details markdown='1'><summary>Raspberry Pi 4: Expand / Collapse</summary>
+
+##### Raspberry Pi 4 Configurations 
+
+| SBC | CPU | RAM | SSD (USB-C) |
+|---|---|---|---|
+| [Raspberry Pi4 8GB](https://www.raspberrypi.com/) | ARM | 8GB | (2) [Samsung 1TB 870 QVO 2.5" SATA III Internal SSD](https://www.bhphotovideo.com/c/product/1566622-REG/samsung_mz_77q1t0b_am_1tb_870_qvo_2_5.html) |
+
+##### Raspberry Pi 4 Add-ons
+
+| Add-ons | Price |
+|---|---|
+| [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
+
+##### Raspberry Pi 4 Articles 
+
+| Raspberry Pi 4 | Date |
+|---|---|
+| [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) | JUNE 14, 2023
+| [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) | Feb. 8, 2023 at 7:20 a.m. PT |
+
+</details>
+
+#### Compute Blade • Raspberry Pi Compute Module
+
+| Raspberry Pi Compute Blade |
+|---|
+| **[Compute Blade / Your Raspberry Pi CM4 Cluster](https://computeblade.com/ )** |
+
 
 ### [StarFiveTech VisionFive2](https://www.starfivetech.com/en/site/boards) (2)
 
