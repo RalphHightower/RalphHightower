@@ -24,6 +24,7 @@
 | [Liquid reference](https://shopify.dev/api/liquid) | Liquid: Template Language Documentation |
 | [OpenMQTTGateway](https://docs.openmqttgateway.com/) | MQTT: Products |
 | [MQTT Version 5.0 — OASIS Standard — 07 March 2019](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) | MQTT: Standard |
+| [MathJax 3.2 documentation](https://docs.mathjax.org/en/latest/) | MathJax Documentation |
 | [Writing mathematical expressions - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions/) | MathJax Example |
 | [TeX and LaTeX Support — MathJax](https://docs.mathjax.org/en/latest/input/tex/index.html) | MathJax: Markdown Documentation |
 | [Node\.js](https://nodejs.org/en/) | Node\.js® is an open-source, cross-platform JavaScript runtime environment. |
