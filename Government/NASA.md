@@ -9,7 +9,8 @@
 | [NASA Open Source Software](https://code.nasa.gov/#/ ) |
 | [DSN Now](https://eyes.nasa.gov/dsn/dsn.html ) |
 | [NASA - Catalog of Solar Eclipses of Saros 139](https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros139.html ). |
-| [Citizen Science - NASA Science](https://science.nasa.gov/citizen-science/ ) || [NASA Technology Transfer Portal Home](https://technology.nasa.gov/ ) |
+| [Citizen Science - NASA Science](https://science.nasa.gov/citizen-science/ ) |
+| [NASA Technology Transfer Portal Home](https://technology.nasa.gov/ ) |
 
 [^21]: [NOAA](https://www.noaa.gov) ain't [NASA](https://www.nasa.gov/), but it is a government agency. 
 
