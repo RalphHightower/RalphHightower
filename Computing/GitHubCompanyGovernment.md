@@ -134,6 +134,7 @@
 | [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
+| [Khoj AI](https://github.com/khoj-ai) | Creating the open-source, AI copilot for your life |
 | [Kubernetes](https://github.com/kubernetes ) | Kubernetes |
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
@@ -215,6 +216,7 @@
 | [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
 | [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
 | [OpenSCAD](https://github.com/openscad ) | OpenSCAD - The Programmers Solid 3D CAD Modeller |
+| [OpenSpace](https://github.com/OpenSpace) | OpenSpace is an open source interactive data visualization software designed to show the known universe and portray our efforts to investigate the cosmos. |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
 | [OpenStreetMap on GitHub](https://github.com/openstreetmap ) | OpenStreetMap is the largest community-created geospatial project of all time. |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
