@@ -69,6 +69,7 @@
 | [Connected Vehicle Systems Alliance](https://github.com/COVESA ) | Connected Vehicle Systems Alliance |
 | [Connections Museum](https://github.com/connectionsmuseum ) | Connections Museum |
 | [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
+| [containerd](https://github.com/containerd ) | An open and reliable container runtime |
 | [Content Authenticity Initiative](https://github.com/contentauth ) |Content Authenticity Initiative |
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
@@ -121,6 +122,7 @@
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
+| [InterNetNews](https://github.com/InterNetNews) | INN (InterNetNews) Usenet server |
 | [Intrepid Control Systems, Inc.](https://github.com/intrepidcs ) | Global provider of vehicle networking tools |
 | [IoTSharp](https://github.com/IoTSharp ) | An IoT platform for device management, data collection, processing, status detection, and remote control |
 | [Jekyll](https://github.com/jekyll ) | Jekyll is a blog-aware, static site generator in Ruby. |
@@ -132,6 +134,7 @@
 | [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
+| [Khoj AI](https://github.com/khoj-ai) | Creating the open-source, AI copilot for your life |
 | [Kubernetes](https://github.com/kubernetes ) | Kubernetes |
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
@@ -141,8 +144,7 @@
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
 | [LongSoft](https://github.com/LongSoft ) | LongSoft |
-| [Maitrix.org](https://github.com/maitrix-org ) | 
-Open Organization to Build AI-powered Realities based on Techniques of Large Language/Multi-Modal Models, Agent Models, World Models. |
+| [Maitrix.org](https://github.com/maitrix-org ) | Open Organization to Build AI-powered Realities based on Techniques of Large Language/Multi-Modal Models, Agent Models, World Models. |
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
@@ -173,6 +175,7 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
 | [Mixtile](https://github.com/mixtile ) | Mixtile open source projects. |
+| [moby](https://github.com/moby ) | An open framework to assemble specialized container systems without reinventing the wheel. |
 | [NASA](https://github.com/nasa ) | National Aeronautics and Space Administration. — ReadOpen Data initiative here:<br />https://www.nasa.gov/open/ & Instructions here: https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md |
 | [NASA Advanced Multi-Mission Operations System](https://github.com/NASA-AMMOS ) | The Advanced Multi-Mission Operations System, or AMMOS, is a set of mission operations and data processing capabilities for robotic missions through an "Ops in a Box" approach. AMMOS is a low-cost, highly reliable system utilized by more than 50 missions, including planetary exploration, deep space, earth science, heliophysics, and astrophysics, by NASA, ESA, industry, and academia. Play the video to learn more about AMMOS' capabilities. |
 | [NASA Datanauts](https://github.com/NASADatanauts ) | NASA Datanauts is an open innovation initiative and offers citizens an opportunity to engage with NASA data, learn and enhance data skills, and build community. |
@@ -189,20 +192,23 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [Nexus-Electronics](https://github.com/Nexus-Electronics ) | Nexus Electronics specializes in the development of open-source hardware. |
 | [nginx](https://github.com/nginx ) | NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances |
 | [Node-RED](https://github.com/node-red ) | Low-code programming for event-driven applications |
+| [Notary Public](https://github.com/notaryproject ) | Notary is a project that allows anyone to have trust over arbitrary collections of data |
 | [NSA Cybersecurity Directorate](https://github.com/nsacyber ) | Official GitHub account for NSA Cybersecurity Directorate. Formerly branded as NSA Cybersecurity, NSA Information Assurance, & Information Assurance Directorate |
 | [NVIDIA Corporation](https://github.com/NVIDIA ) | NVIDIA Corporation |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
 | [OpenAcousticDevices](https://github.com/OpenAcousticDevices ) | The team responsible for the creation of the AudioMoth and all its supporting software. |
-| [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
+| [Open Container Initiative](https://github.com/opencontainers ) | Creating open standards around container technology |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
 | [OpenAI](https://github.com/openai ) | OpenAI |
 | [OpenBGPD Portable](https://github.com/openbgpd-portable ) | Open Border Gateway Protocol Portable |
+| [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
 | [OpenCV](https://github.com/opencv ) | Open Source Computer Vision |
 | [OpenFeature](https://github.com/open-feature ) | Standardizing Feature Flagging for Everyone |
 | [openHAB](https://github.com/openhab ) | openHAB |
+| [OpenHW Group](https://github.com/openhwgroupOpenHW ) | OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices. Please see our website for membership information, latest news, and further resources. |
 | [OpenLDAP Project](https://github.com/openldap ) | Lightweight  Directory Access Protocol |
 | [openmediavault](https://github.com/openmediavault ) | openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home environments |
 | [OpenNMS](https://github.com/OpenNMS ) | Enterprise-Grade Open-Source Network Management |
@@ -210,14 +216,17 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
 | [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
 | [OpenSCAD](https://github.com/openscad ) | OpenSCAD - The Programmers Solid 3D CAD Modeller |
+| [OpenSpace](https://github.com/OpenSpace) | OpenSpace is an open source interactive data visualization software designed to show the known universe and portray our efforts to investigate the cosmos. |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
 | [OpenStreetMap on GitHub](https://github.com/openstreetmap ) | OpenStreetMap is the largest community-created geospatial project of all time. |
 | [OpenTelemetry - CNCF](https://github.com/open-telemetry ) | OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software. |
 | [opentraffic](https://github.com/opentraffic ) | A free, global traffic speed data set linked to OpenStreetMap. |
+| [OpenVoiceOS](https://github.com/OpenVoiceOS ) | A community-driven, open-source voice AI platform for creating custom voice-controlled ​interfaces across devices with a focus on privacy and security. |
 | [OpenVPN Inc](https://github.com/OpenVPN ) | OpenVPN Inc |
 | [OpenZFS](https://github.com/openzfs ) | OpenZFS File System |
 | [Oracle](https://github.com/oracle ) | Open Source at Oracle |
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
+| [OWASP Dep Scan Project](https://github.com/owasp-dep-scan) | OWASP Dep Scan Project<br />OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration. |
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
 | [PiKVM Project](https://github.com/pikvm ) | Open and inexpensive DIY IP-KVM based on Raspberry Pi  |
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
@@ -225,11 +234,17 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
 | [QEMU](https://github.com/qemu ) | QEMU is a generic and open source machine & userspace emulator and virtualizer. |
 | [RabbitMQ](https://github.com/rabbitmq ) | Open source RabbitMQ |
+| [Radxa Build](https://github.com/radxa-build) |Radxa product image releases |
+| [Radxa Computer](https://github.com/radxa) | An hardware company from China - 瑞莎计算机 |
+| [Radxa Documentation](https://github.com/radxa-docs) |Radxa Documentation |
+| [Radxa Pkg](https://github.com/radxa-pkg) | |
+| [Radxa Repo](https://github.com/radxa-repo) | |
 | [RAKwireless](https://github.com/RAKWireless ) | RAK is a pioneer in providing innovative and diverse cellular and LPWAN connectivity solutions for IoT edge devices. |
 | [Raspberry Pi](https://github.com/raspberrypi ) | Raspberry Pi |
 | [raspberry-sharp (Raspberry#)](https://github.com/raspberry-sharp ) | Raspberry Pi .Net |
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
+| [rigexpert | Fobos SDR receiver Complex IQ signal source block for GnuRadio.](https://github.com/rigexpert ) |
 | [riok](https://github.com/riok ) | .Net mapping source generator |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
 | [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
@@ -249,6 +264,7 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [Shopify](https://github.com/Shopify ) | The commerce platform powering millions of businesses worldwide. |
 | [Sidero Labs, Inc.](https://github.com/siderolabs ) | Talos Linux |
 | [SiFive](https://github.com/sifive ) | We bring RISC-V, software, and silicon experts together to innovate with a modern, software-driven approach to semiconductors. |
+| [sigstore](https://github.com/sigstore ) | Software Supply Chain Security |
 | [Sipeed](https://github.com/sipeed ) | Sipeed AIoT[^91] opensource hardware platform |
 | [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
 | [Sky Map Devs](https://github.com/sky-map-team ) | Android App Skymap GitHub |
@@ -264,6 +280,7 @@ Open Organization to Build AI-powered Realities based on Techniques of Large Lan
 | [TAS Emulators on GitHub](https://github.com/TASEmulators ) | Rerecording emulators and tools used for making Tool Assisted Speedruns |
 | [Tenable](https://github.com/tenable ) | Tenable - the Cyber Exposure company |
 | [tensorflow](https://github.com/tensorflow ) | An Open Source Machine Learning Framework for Everyone |
+| [testcontainers](https://github.com/testcontainers) | Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container. |
 | [theengs](https://github.com/theengs ) | the engs |
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
 | [ToyotaResearchInstitute](https://github.com/ToyotaResearchInstitute ) | Toyota Research Institute |

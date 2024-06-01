@@ -234,6 +234,7 @@
 | **[Radxa ROCK 5B Wiki](https://wiki.radxa.com/Rock5/5b/getting_started)** | (H/W) |
 | **[Radxa ROCK5 Compute Module](https://wiki.radxa.com/Rock5/CM)** | (H/W) |
 | **[RADXA Rock5 Model B – ALLNET China](https://shop.allnetchina.cn/products/rock5-model-b )** | **$189.00 16GB** |
+| [Radxa ROCK 5 ITX, RK3588 8-core CPU, Mini-ITX Motherboard, LPDDR5 RAM, 8K HDMI and Pre-installed Roobi System](https://www.aliexpress.com/item/3256806679715429.html ) | $239.02 |
 | **[Radxa ROCK5 Model B](https://ameridroid.com/products/rock5-model-b)** | (H/W) |
 | **[RADXA TACO](https://shop.allnetchina.cn/products/taco)** | (H/W) |
 | [RAKWireless Blues.ONE - LTE-M NB-IoT GSM LoRaWAN Device based on nRF52840, SX1262 – RAKwireless Store](https://store.rakwireless.com/products/blues-one ) | (H/W) $158.00 |

@@ -16,6 +16,16 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [The Far Side's Biggest Weakness (According to Gary Larson\) Is What Makes It Great](https://screenrant.com/far-side-comics-gary-larson-biggest-artistic-weakness/) | May 28, 2024 |
+| [10 Funniest Far Side Comics Starring God](https://screenrant.com/funniest-far-side-comics-god-heaven-religion-larson/) | May 25, 2024 |
+| [The Far Side's 1994 TV Adaptation Proves A Movie Needs To Happen](https://screenrant.com/far-side-movie-must-happen-tv-special-prove/) | May 25, 2024 |
+| [Far Side's Most Confusing Comic Has an Incredibly Simple Explanation](https://screenrant.com/far-side-most-confusing-mixed-captions-gary-larson/) | May 24, 2024 |
+| [10 Hilarious Far Side Comics About Characters Lost in the Desert](https://screenrant.com/far-side-comics-lost-desert-characters-gary-larson/) | May 22, 2024 |
+| [This Far Side Comic Was a Direct Insult to Gary Larson's Editor](https://screenrant.com/funniest-far-side-comic-gary-larson-inspiration-editor/) | May 21, 2024 |
+| [10 Hilarious Far Side Comics Starring Shady Characters Wearing Trench Coats](https://screenrant.com/far-side-comics-trench-coats-humans-aliens-elephants/) | May 19, 2024 |
+| [The Far Side: One Recurring Gag Highlights the Best Thing About Gary Larson's Humor](https://screenrant.com/far-side-gary-larson-observational-humor-broken-windows/ ) | May 18, 2024 |
+| [10 Funniest Far Side Comics That Prove It's Obsessed with Bugs](https://screenrant.com/far-side-funniest-comics-about-bugs/ ) | May 16, 2024 |
+| [The Far Side: How A Single Syllable Helped Shape Gary Larson's Career As A Cartoonist](https://screenrant.com/far-side-comics-misprint-changed-gary-larson-career/ ) | May 16, 2024 |
 | [We Asked You to Vote for Far Side's Funniest Clown Comic, & This Strip Won by a Landslide](https://screenrant.com/far-side-funniest-comics-gary-larson-clowns/ ) | May 14, 2024 |
 | [The Far Side's First 10 Comics Are Still Hilarious Today](https://screenrant.com/funniest-far-side-comics-gary-larson-first-comics/ ) | May 12, 2024 |
 | [Gary Larson Told Fans Exactly How The Far Side Would End – A Decade Before It Did](https://screenrant.com/why-gary-larson-stopped-drawing-far-side-comics/ ) | May 10, 2024 |
@@ -133,6 +143,7 @@
 
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/ ) | May 15, 2024  |
 | [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/ ) | May 8, 2024 |
 | [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
 | [10 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/ ) | APR 5, 2024 |

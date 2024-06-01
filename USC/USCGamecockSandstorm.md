@@ -10,9 +10,31 @@
 | [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
-## [USC Gamecock](https://www.sc.edu/) Sandstorm Theme Derived from [Jekyll](https://github.com/jekyll/)/[Minima](https://github.com/jekyll/minima)[^11]
+## [University of South Carolina Athletics](https://www.gamecocksonline.com/)
 
-[^11]: footnote 1
+| Men's | Women’s |
+|----|----|
+| [Baseball](https://gamecocksonline.com/sports/baseball/ ) | [Softball](https://gamecocksonline.com/sports/softball/ ) |
+| [Men’s Basketball](https://gamecocksonline.com/sports/mbball/ ) | [Women’s Basketball](https://gamecocksonline.com/sports/wbball/ ) |
+| [Football](https://gamecocksonline.com/sports/football/ ) | [Women’s Cross Country Athletics](https://gamecocksonline.com/sports/wcross/ ) |
+| [Men’s Golf](https://gamecocksonline.com/sports/mgolf/ ) | [Women’s Golf](https://gamecocksonline.com/sports/wgolf/ ) |
+| [Men’s Soccer](https://gamecocksonline.com/sports/msoc/ ) | [Women’s Soccer](https://gamecocksonline.com/sports/wsoc/ ) |
+| [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) | [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) |
+| [Men’s Tennis](https://gamecocksonline.com/sports/mten/ ) | [Women’s Tennis](https://gamecocksonline.com/sports/wten/ ) |
+| [Track and Field](https://gamecocksonline.com/sports/track/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ )
+| | [Beach Volleyball](https://gamecocksonline.com/sports/bvball/ ) |
+| | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
+| | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
+
+## USC Carolina Band Marching in the 2024 Macy's Thanksgiving Day Parade
+
+Click on the link below to make a donation to help fund their travel expenses to New York City.
+
+[Marching to NYC - School of Music | University of South Carolina](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/march_to_nyc/index.php)
+
+## [USC Gamecock](https://www.sc.edu/) Sandstorm Theme Derived from [Jekyll](https://github.com/jekyll/)/[Minima](https://github.com/jekyll/minima)
+
+The USC Sandstorm GitHub template that is based on the Jekyll minima template is ready for use.
 
 | [Communications and Marketing - Communications and Marketing](https://sc.edu/about/offices_and_divisions/communications/index.php) / [University of South Carolina](https://www.sc.edu/) |
 |---|
@@ -30,38 +52,6 @@
 | 10% Black | HEX: #ECECEC |
 | Warm Grey |HEX: #676156 |
 | Sandstorm | HEX: #FFF2E3 |
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-[Ralph Hightower](https://ralphhightower.github.io/)[^21]
-
-[^21]: footnote 2
-
-## [University of South Carolina Athletics](https://www.gamecocksonline.com/)
-
-| Men's | Women’s |
-|----|----|
-| [Baseball](https://gamecocksonline.com/sports/baseball/ ) | [Softball](https://gamecocksonline.com/sports/softball/ ) |
-| [Men’s Basketball](https://gamecocksonline.com/sports/mbball/ ) | [Women’s Basketball](https://gamecocksonline.com/sports/wbball/ ) |
-| [Football](https://gamecocksonline.com/sports/football/ ) | [Women’s Cross Country Athletics](https://gamecocksonline.com/sports/wcross/ ) |
-| [Men’s Golf](https://gamecocksonline.com/sports/mgolf/ ) | [Women’s Golf](https://gamecocksonline.com/sports/wgolf/ ) |
-| [Men’s Soccer](https://gamecocksonline.com/sports/msoc/ ) | [Women’s Soccer](https://gamecocksonline.com/sports/wsoc/ ) |
-| [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) | [Swimming and Diving](https://gamecocksonline.com/sports/swimming/ ) |
-| [Men’s Tennis](https://gamecocksonline.com/sports/mten/ ) | [Women’s Tennis](https://gamecocksonline.com/sports/wten/ ) |
-| [Track and Field](https://gamecocksonline.com/sports/track/ ) | [Track and Field](https://gamecocksonline.com/sports/track/ )
-| | [Beach Volleyball](https://gamecocksonline.com/sports/bvball/ ) |
-| | [Equestrian](https://gamecocksonline.com/sports/equestrian/ ) |
-| | [Women’s Volleyball](https://gamecocksonline.com/sports/wvball/ ) |
 
 ## [University of South Carolina](https://chat.openai.com/)
 

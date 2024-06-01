@@ -32,6 +32,7 @@
 
 | The Orville — ScreenRant News | Date |
 |---|---|
+| [The Orville Season 4 Seemingly Confirmed By Seth MacFarlane After 2-Year Wait](https://screenrant.com/the-orville-season-4-confirmed-seth-macfarlane-response/ ) | APR 19, 2024 |
 | [The Orville Would Overtake Star Trek In 1 Surprising Way If Season 4 Happens](https://screenrant.com/orville-season-4-overtake-star-trek-tos-cancel/ ) | JAN 29, 2024 |
 | [The Orville Season 4: Will It Happen? Everything We Know](https://screenrant.com/orville-season-4-news-updates/ ) | NOV 30, 2023 |
 
