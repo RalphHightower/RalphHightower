@@ -9,8 +9,11 @@
 
 | Space News | Date |
 |---|---|
+| **['We'll be studying this event for years': Recent auroras may have been the strongest in 500 years, NASA says / Live Science](https://www.livescience.com/space/the-sun/well-be-studying-this-event-for-years-recent-auroras-may-have-been-the-strongest-in-500-years-nasa-says)** | May 22, 2024 |
+| [Private mission to save the Hubble Space Telescope raises concerns, NASA emails show](https://www.npr.org/2024/05/16/1250250249/spacex-repair-hubble-space-telescope-nasa-foia )[^91] | May 16, 2024, 5:00 AM |
 | [How NASA is Hacking Voyager 1 Back to Life - IEEE Spectrum](https://spectrum.ieee.org/voyager-1 ) | 06 MAY 2024 |
 | [Recoding Voyager 1—NASA’s interstellar explorer is finally making sense again / Ars Technica](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/ ) | 4/23/2024, 1:56 PM |
+| **[A Rare Nova Explosion Will Soon Bring a 'New Star' to the Night Sky—How to Catch a Glimpse 6 Smithsonian](https://www.smithsonianmag.com/smart-news/a-rare-nova-explosion-will-soon-bring-a-new-star-to-the-night-sky-how-to-catch-a-glimpse-180984186/)** | April 19, 2024 |
 | [A supernova caused the BOAT gamma ray burst, JWST data confirms / Ars Technica](https://arstechnica.com/science/2024/04/a-supernova-caused-the-boat-gamma-ray-burst-jwst-data-confirms/ ) | 4/12/2024, 5:00 AM |
 | [Black hole at the center of a galaxy in the early universe received less mass influx than expected, astronomers find](https://phys.org/news/2024-01-black-hole-center-galaxy-early.html ) |
 | **[Why March is the best month to see the northern lights / Space](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting )** | March 1, 2024 |
@@ -285,3 +288,5 @@
 | [Galactic Surprise: Milky Way’s Slower Outer Stars Suggest Dark Matter Overestimated](https://scitechdaily.com/galactic-surprise-milky-ways-slower-outer-stars-suggest-dark-matter-overestimated/ ) |
 | [It's a fine line between a black hole energy factory and a black hole bomb](https://phys.org/news/2024-01-fine-line-black-hole-energy.html ) |
 | [Betelgeuse. Before, During and After the Great Dimming - Universe Today](https://www.universetoday.com/165520/betelgeuse-before-during-and-after-the-great-dimming/ ) |
+
+[^91]: I agree with [NASA](https://www.nasa.gov/). The Space Shuttle with CanadArm provided a stable platform for astronauts to service Hubble. Servicing Hubble while it's drifting in space is too damned risky.
