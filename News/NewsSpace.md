@@ -10,9 +10,10 @@
 | Space News | Date |
 |---|---|
 | [How NASA is Hacking Voyager 1 Back to Life - IEEE Spectrum](https://spectrum.ieee.org/voyager-1 ) | 06 MAY 2024 |
-| **[Why March is the best month to see the northern lights / Space](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting )** |
+| [Recoding Voyager 1—NASA’s interstellar explorer is finally making sense again / Ars Technica](https://arstechnica.com/space/2024/04/recoding-voyager-1-nasas-interstellar-explorer-is-finally-making-sense-again/ ) | 4/23/2024, 1:56 PM |
 | [A supernova caused the BOAT gamma ray burst, JWST data confirms / Ars Technica](https://arstechnica.com/science/2024/04/a-supernova-caused-the-boat-gamma-ray-burst-jwst-data-confirms/ ) | 4/12/2024, 5:00 AM |
 | [Black hole at the center of a galaxy in the early universe received less mass influx than expected, astronomers find](https://phys.org/news/2024-01-black-hole-center-galaxy-early.html ) |
+| **[Why March is the best month to see the northern lights / Space](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting )** | March 1, 2024 |
 | [NASA Turns Light into Sound Frequency Creating a Milky Way Symphony (LISTEN)](https://www.goodnewsnetwork.org/nasa-turns-light-into-sound-frequency-creating-a-milky-way-symphony-listen/ ) |
 | [Deep into the Kuiper Belt, New Horizons is still doing science / Ars Technica](https://arstechnica.com/science/2023/12/squeezing-science-out-of-new-horizons-as-it-heads-out-of-the-solar-system/ ) |
 | [The Milky Way will probably devour all the tiny galaxies that surround it / Ars Technica](https://arstechnica.com/science/2023/12/the-milky-way-will-probably-devour-all-the-tiny-galaxies-that-surround-it/ ) |
