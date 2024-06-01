@@ -16,6 +16,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Far Side Comics That Prove Gary Larson Preferred Animals Over Humans](https://screenrant.com/far-side-comics-animals-beat-people-gary-larson/) | May 28, 2024 |
 | [The Far Side's Biggest Weakness (According to Gary Larson\) Is What Makes It Great](https://screenrant.com/far-side-comics-gary-larson-biggest-artistic-weakness/) | May 28, 2024 |
 | [10 Funniest Far Side Comics Starring God](https://screenrant.com/funniest-far-side-comics-god-heaven-religion-larson/) | May 25, 2024 |
 | [The Far Side's 1994 TV Adaptation Proves A Movie Needs To Happen](https://screenrant.com/far-side-movie-must-happen-tv-special-prove/) | May 25, 2024 |
