@@ -67,12 +67,5 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "scripts": {
-    "lint:prettier": "prettier --check \"*.{js,json,md}\" \".github/**/*.{md,yml}\" \"docs/**/*.md\" \"{bin,lib,test}/**/*.js\"",
-    "lint:prettier:fix": "prettier --write \"*.{js,json,md}\" \".github/**/*.{md,yml}\" \"docs/**/*.md\" \"{bin,lib,test}/**/*.js\"",
-    "lint:lockfile": "lockfile-lint",
-    "lint:engines": "ls-engines",
-    "lint:publish": "publint --strict",
-  },
   "packageManager": "npm@10.8.1"
   }
