@@ -7,6 +7,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Calvin and Hobbes Jokes We Only Got As Adults](https://www.cbr.com/calvin-and-hobbes-adult-jokes/) | May 30, 2024 
 | [10 Best Calvin & Hobbes Comic Strips Featuring Susie](https://www.cbr.com/best-calvin-hobbes-susie-comics/) | May 19, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Kids](https://www.cbr.com/calvin-hobbes-best-strips-kids/ ) | May 10, 2024 |
 | [Did a Fake Calvin and Hobbes Comic Strip Sell For Over $14,000?](https://www.cbr.com/fake-calvin-and-hobbes-comic-strip-sell-14000/ ) | May 7, 2024 |
@@ -110,9 +111,10 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 24, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
 | [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
-| [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/ ) | Apr 29, 2024 |
+| [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/) | Apr 29, 2024 |
 | [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
 | [Calvin & Hobbes' Very First Comic Reveals the Hilarious Way They Met](https://screenrant.com/calvin-and-hobbes-first-comic-reveals-how-they-met/ ) | Mar 25, 2024 |
 | [10 Calvin and Hobbes Comics That Showcase Bill Watterson's Incredible Artistic Talent](https://screenrant.com/calvin-hobbes-comic-best-art-bill-watterson/ ) | Mar 2, 2024 |
