@@ -1,7 +1,6 @@
 # Comics \| Calvin And Hobbes 
 
-| Best Calvin And Hobbes Collections | Price |
-
+| Best Calvin And Hobbes Collections | Price 
 |---|---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 )** | **$99.58** |
 
