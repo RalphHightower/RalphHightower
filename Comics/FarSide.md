@@ -16,6 +16,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|--- |
+| [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |
+| [We Asked You to Vote for Far Side's Funniest Superman Comic & the Winner Is a Perfect Movie Parody](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superheroes/) | May 31, 2024 |
 | [10 Far Side Comics That Prove Gary Larson Preferred Animals Over Humans](https://screenrant.com/far-side-comics-animals-beat-people-gary-larson/) | May 28, 2024 |
 | [The Far Side's Biggest Weakness (According to Gary Larson\) Is What Makes It Great](https://screenrant.com/far-side-comics-gary-larson-biggest-artistic-weakness/) | May 28, 2024 |
 | [10 Funniest Far Side Comics Starring God](https://screenrant.com/funniest-far-side-comics-god-heaven-religion-larson/) | May 25, 2024 |
