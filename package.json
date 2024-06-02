@@ -74,7 +74,5 @@
     "lint:engines": "ls-engines",
     "lint:publish": "publint --strict",
   },
-  "renovate": {
-  },
   "packageManager": "npm@10.8.1"
   }
