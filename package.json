@@ -42,15 +42,6 @@
     "version"
   ],
   "license": "Apache-2.0",
-  "c8": {
-    ],
-    "reporter": [
-      "json",
-      "text",
-      "html"
-    ],
-    "all": true
-  },
   "lockfile-lint": {
     "path": "package-lock.json",
     "type": "npm",
