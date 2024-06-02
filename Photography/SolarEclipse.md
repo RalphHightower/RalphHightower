@@ -210,17 +210,20 @@
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
+| [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017) |April 26, 2024 |
 | [14 of the best total solar eclipse 2024 photos from our readers / Space](https://www.space.com/best-total-solar-eclipse-2024-photos ) | April 23, 2024 |
 | [Eclipse expert Jamie Carter wins media award for extensive solar eclipse coverage / Space](https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award ) | April 21, 2024 |
 | [Those magic minutes during April 8's solar eclipse brought me to tears / Space](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears ) | April 20, 2024 |
 | [Global 'time signals' subtly shifted as the total solar eclipse reshaped Earth's upper atmosphere, new data shows / Live Science](https://www.livescience.com/space/the-sun/global-time-signals-subtly-shifted-as-the-total-solar-eclipse-reshaped-earths-upper-atmosphere-new-data-shows ) | April 19, 2024 |
 | [The 2024 solar eclipse was a teachable moment in more ways than one / Space](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university ) | April 16, 2024 |
+| [What's left of the 2024 solar eclipse lives in our hearts / Space](https://www.space.com/total-solar-eclipse-2024-indiana-memories) | April 16, 2024 
 | [7 strange things observed during the April 8 solar eclipse: From shifting time signals to puzzling plasma plumes / Live Science](https://www.livescience.com/space/the-sun/6-strange-things-observed-during-the-april-8-solar-eclipse-from-doomed-comets-to-diamond-rings ) | April 16, 2024 |
 | [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Space](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 15, 2024 |
 | [Top total solar eclipses to look out for over the next decade / Live Science](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034 ) | April 15, 2024 |
 | [Space photo of the week: NASA spots enormous pink 'flames' during total solar eclipse. What are they? / Live Science](https://www.livescience.com/space/the-sun/space-photo-of-the-week-nasa-spots-enormous-pink-flames-during-total-solar-eclipse-what-are-they ) | April 14, 2024 |
 | [NASA astronaut Loral O'Hara missed the total solar eclipse, but saw Earth 'moving' below her during spacewalk (photos) / Space](https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk ) | April 14, 2024 |
 | ['You could feel the energy and wonder': Despite clouds, totality wows crowds during solar eclipse in Syracuse / Space](https://www.livescience.com/space/the-sun/you-could-feel-the-energy-and-wonder-total-eclipse-wows-crowds-in-syracuse-despite-cloudy-sky ) | April 13, 2024 |
+| [No, you didn't see a solar flare during the total eclipse — but you may have seen something just as special / Space](https://www.space.com/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special) | April 12, 2024 |
 | [My formal 2024 solar eclipse apology / Space](https://www.space.com/2024-solar-eclipse-apology-letter-totality-was-excellent ) | April 11, 2024 |
 | [Here are the best photos of the April 8 total solar eclipse over North America / Live Science](https://www.livescience.com/space/the-best-photos-and-videos-of-the-april-8-total-solar-eclipse-over-north-america ) | April 11, 2024 |
 | [Astronauts' photos capture April 8 solar eclipse from Earth orbit / Space](http://www.collectspace.com/news/news-040924a-2024-eclipse-astronauts-view-space-station.html ) | April 10, 2024 |
