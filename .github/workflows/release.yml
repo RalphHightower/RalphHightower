@@ -1,8 +1,7 @@
 name: Release. Copied from docs/recipes/ci-configurations/github-actions.md)
 on:
   push:
-    branches:
-      - master # or main
+    branches: ["main", "_staging", "next", "master"]
 
 permissions:
   contents: read # for checkout
