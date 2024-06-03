@@ -280,7 +280,6 @@
 | [The most distant spacecraft in the solar system — Where are they now? / Space](https://www.space.com/most-distant-spacecraft-voyagers-new-horizons ) | December 30, 2022 |
 | [What Is Powering the Largest Explosion Since the Big Bang? / SYFY WIRE](https://www.syfy.com/syfy-wire/what-is-powering-the-largest-explosion-since-the-big-bang ) |Jun 14, 2023, 4:.04 PM ET|
 | [The four fundamental liforces of nature / Live Science](https://www.livescience.com/the-fundamental-forces-of-nature.html ) | October 1, 2019 |
-| ["Steve" looks like and acts like an aurora, but it's not an aurora • Earth.com](https://www.earth.com/news/steve-phenomenon-looks-like-an-aurora-acts-like-an-aurora-but-what-is-it/ ) |
 | [A Century Later, New Math Smooths Out General Relativity / Quanta Magazine](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/ ) ||
 | [Mathematicians Attempt to Glimpse Past the Big Bang / Quanta Magazine](https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/) ||
 
