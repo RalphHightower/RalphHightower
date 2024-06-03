@@ -219,8 +219,7 @@
 | [James Webb Space Telescope Spots Strangely Familiar Looking Celestial Object That May Upend Theories of Galactic Formation - The Debrief](https://thedebrief.org/james-webb-space-telescope-spots-strangely-familiar-looking-celestial-object-that-may-upend-theories-of-galactic-formation/ ) | November 13, 2023 |
 | [Is the vacuum of space truly empty? / Space](https://www.space.com/is-the-vacuum-of-space-truly-empty ) | November 13, 2023 |
 | [How to think about a four-dimensional universe](https://phys.org/news/2023-11-four-dimensional-universe.html ) | NOVEMBER 13, 2023 |
-| [Why Even Einstein Couldn't Unite Physics - Universe Today](https://www.universetod
-ay.com/164144/why-even-einstein-couldnt-unite-physics/ ) |NOVEMBER 13, 2023|
+| [Why Even Einstein Couldn't Unite Physics - Universe Today](https://www.universetoday.com/164144/why-even-einstein-couldnt-unite-physics/ ) |NOVEMBER 13, 2023|
 | [Phosphorous discovered in outskirts of the Milky Way for the first time](https://phys.org/news/2023-11-phosphorous-outskirts-milky.html ) | NOVEMBER 13, 2023  |
 | [Why are things in space round? / Live Science](https://www.livescience.com/space/why-are-things-in-space-round ) |November 13, 2023|
 | **[A successful liftoff: Space shuttle Endeavour's rockets are installed](https://phys.org/news/2023-11-successful-liftoff-space-shuttle-endeavour.html )** | NOVEMBER 13, 2023 |
