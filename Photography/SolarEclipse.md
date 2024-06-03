@@ -211,6 +211,7 @@
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
 | [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017) |April 26, 2024 |
+| [Solar eclipse 2024: Live updates / Space](https://www.space.com/news/live/solar-eclipse-live-updates ) | April 23, 2024 |
 | [14 of the best total solar eclipse 2024 photos from our readers / Space](https://www.space.com/best-total-solar-eclipse-2024-photos ) | April 23, 2024 |
 | [Eclipse expert Jamie Carter wins media award for extensive solar eclipse coverage / Space](https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award ) | April 21, 2024 |
 | [Those magic minutes during April 8's solar eclipse brought me to tears / Space](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears ) | April 20, 2024 |
@@ -231,7 +232,6 @@
 | [No, you didn't see a solar flare during the total eclipse — but you may have seen something just as special / Live Science](https://www.livescience.com/space/the-sun/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special ) | April 10, 2024 |
 | [Total solar eclipse reveals tiny new comet moments before it was destroyed by the sun / Live Science](https://www.livescience.com/space/the-sun/tiny-sungrazer-comet-discovered-photographed-and-destroyed-all-during-historic-total-solar-eclipse ) | April 10, 2024 |
 | [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Live Science](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 10, 2024 |
-| [Solar eclipse 2024: Live updates / Space](https://www.space.com/news/live/solar-eclipse-live-updates ) | April 23, 2024 |
 | [I proposed under the diamond ring of the 2024 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-2024-marriage-proposal ) | April 9, 2024 |
 | [When is the next total solar eclipse in the US? / Space](https://www.space.com/when-next-total-solar-eclipse-us ) | April 9, 2024 |
 | [What to do next with your solar viewing kit after the 2024 solar eclipse / Space](https://www.space.com/what-to-do-next-with-your-solar-viewing-kit ) | April 9, 2024 |
