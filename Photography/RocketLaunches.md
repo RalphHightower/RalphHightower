@@ -1,5 +1,14 @@
 # Photography \| Rocket Launches
 
+## Rocket Launch Schedules
+
+| Rocket Launch Schedule |
+|---|
+| [Launch/Landing Events – NASA](https://www.nasa.gov/events/) |
+| [Launch Schedule – Spaceflight Now](https://spaceflightnow.com/launch-schedule/)
+| [See a Rocket Launch at Kennedy Space Center](https://www.kennedyspacecenter.com/launches-and-events/events-calendar/see-a-rocket-launch) |
+| [Rocket Launch Manifest](https://nextspaceflight.com/launches/) 
+
 ## Photographing Rocket Launches • Articles 
 
 | Photographing Rocket Launches | Date |
@@ -10,3 +19,4 @@
 | [Photography Breakdown of the NASA Antares Rocket Launch](https://www.lensrentals.com/blog/2019/05/photography-breakdown-of-the-nasa-antares-rocket-launch/ ) | May 8, 2019 
 | [Customer Stories – Photographing the SpaceX Falcon Major Launch](https://www.lensrentals.com/blog/2018/02/customer-stories-photographing-the-spacex-falcon-major-launch/ ) | February 12, 2018
 | [Simplifying the Complexities of Lighting in Photography](https://www.lensrentals.com/blog/2017/06/simplifying-the-complexities-of-lighting-in-photography/ ) | June 9, 2017 
+| [Launch Photography Guide - Scriptunas Images](https://www.scriptunasimages.com/Launch-Photo-Guide) |
