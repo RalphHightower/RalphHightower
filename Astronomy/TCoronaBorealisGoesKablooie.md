@@ -7,7 +7,7 @@
 | [Ars Technica • Science](https://arstechnica.com/science/) |
 | [The Lighter Side of Science / IFLScience](https://www.iflscience.com/) |
 | [Inverse • Science](https://www.inverse.com/science)
-| [PHYS • Space News - Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
+| [PHYS • News of: Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
 | [ScienceAlert](https://www.sciencealert.com/) |
 | [Space](https://www.space.com/) |
 | [The Sun Spot - NASA](https://blogs.nasa.gov/sunspot/) |
