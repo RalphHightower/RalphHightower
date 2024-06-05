@@ -1,10 +1,24 @@
 # Astronomy \| T Corona Borealis Goes Kablooie 
 
+## Aurora / T Corona Borealis *"Hot Links"*
+
+| [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage)[^11] |
+|---|
+| [Ars Technica • Science](https://arstechnica.com/science/) |
+| [The Lighter Side of Science / IFLScience](https://www.iflscience.com/) |
+| [Inverse • Science](https://www.inverse.com/science)
+| [PHYS • Space News - Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
+| [ScienceAlert](https://www.sciencealert.com/) |
+| [Space](https://www.space.com/) |
+| [The Sun Spot - NASA](https://blogs.nasa.gov/sunspot/) |
+
+[^11]: Links to get ready access to new news articles on solar flares that may bring the Aurora Borealis down to South Carolina, and also, T Corona Borealis for when it goes **KABLOOIE!**
+
 ## T Corona Borealis Articles 
 
 ![Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](horrendous-space-kablooie.jpg)
 
-["Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](https://screenrant.com/calvin-hobbes-big-bang-horrendous-space-kablooie/) • August 1, 2023
+["Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](https://screenrant.com/calvin-hobbes-big-bang-horrendous-space-kablooie/) • August 1, 2023 @ [ScreenRant](https://screenrant.com/)
 
 | T Corona Borealis | Date |
 |---|---|
@@ -61,9 +75,9 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 | [Light pollution map](https://www.lightpollutionmap.info/)
 | [Light Pollution and Astronomy: How Dark Are Your Night Skies? - Sky & Telescope](https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale/) | JULY 18, 2006 |
 
-## International Space Station 
+# International Space Station 
 
-### ISS Sighting Opportunities for South Carolina 
+## ISS Sighting Opportunities for South Carolina 
 
 If you can see stars at night, then you can watch the ISS when it flies overhead. The sun reflecting off the solar arrays is what makes it visible. It sort of looks like a fast moving star, faster than a passenger jet, but slower than a meteor.
 
