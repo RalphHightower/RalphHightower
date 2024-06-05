@@ -22,6 +22,7 @@
   "dependencies": {
   },
   "devDependencies": {
+    "RalphHightower": "github:RalphHightower/RalphHightower"
   },
   "engines": {
     "node": ">=20.8.1"
