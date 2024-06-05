@@ -22,6 +22,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. | Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 5, 2024 |
 | [We're About To Witness A Stellar Event Potentially First Recorded In A Medieval Manuscript / IFLScience](https://www.iflscience.com/were-about-to-witness-a-stellar-event-potentially-first-recorded-in-a-medieval-manuscript-74360) | May 24, 2024 |
 | [Nova explosion visible to the naked eye expected any day now / Ars Technica](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/) | 5/21/2024, 10:13 AM |
 | [A new star is about to appear in the night sky. Here’s how to catch a glimpse / CU Boulder Today / University of Colorado Boulder](https://www.colorado.edu/today/2024/04/29/new-star-about-appear-night-sky-heres-how-catch-glimpse) | April 29, 2024 |
