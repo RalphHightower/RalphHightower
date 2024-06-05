@@ -32,6 +32,7 @@
 
 | News | Date |
 |---|---|
+|   |   |
 
 ## [ChatGPT](https://chat.openai.com/) — James Bond Haikus 
 
