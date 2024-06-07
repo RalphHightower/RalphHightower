@@ -1,6 +1,8 @@
 # Photography \| Auroras 
 
-## Aurora Links / T Corona Borealis Links
+## Aurora Links / T Cona Borealis Links
+
+The sun has been active firing off class X strength Corona Mass Ejections send plasma to Earth and bringing the Aurora Borealis as far south as Florida. 
 
 | [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage)[^11] |
 |---|
@@ -17,7 +19,7 @@
 
 ## Photographing Auroras • Articles 
 
- ## News Articles 
+## News Articles 
 
 | News | Date |
 |---|---|
