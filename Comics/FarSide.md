@@ -15,7 +15,10 @@
 ## Comics 
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
-|---|--- |
+|---|---|
+| ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June  6, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 5, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 4, 2024 |
 | [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |
 | [We Asked You to Vote for Far Side's Funniest Superman Comic & the Winner Is a Perfect Movie Parody](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superheroes/) | May 31, 2024 |
 | [10 Far Side Comics That Prove Gary Larson Preferred Animals Over Humans](https://screenrant.com/far-side-comics-animals-beat-people-gary-larson/) | May 28, 2024 |
