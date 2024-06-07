@@ -6,6 +6,8 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Cutest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-cute-comic-strips/) | June 4, 2024
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/funniest-calvin-and-hobbes-comics-may-2024/) | June 3, 2024 | 
 | [10 Calvin and Hobbes Jokes We Only Got As Adults](https://www.cbr.com/calvin-and-hobbes-adult-jokes/) | May 30, 2024 
 | [10 Best Calvin & Hobbes Comic Strips Featuring Susie](https://www.cbr.com/best-calvin-hobbes-susie-comics/) | May 19, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Kids](https://www.cbr.com/calvin-hobbes-best-strips-kids/ ) | May 10, 2024 |
@@ -110,6 +112,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Weirdest Calvin and Hobbes Comics, Ranked](https://www.cbr.com/calvin-and-hobbes-strangest-comics/) | May 28, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 24, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
 | [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
