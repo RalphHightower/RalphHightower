@@ -45,6 +45,8 @@
 | [A rare nova ignites a 'new star' in the sky this year. Here's how to see it / Space](https://www.space.com/new-star-night-sky-nova-explosion-rare) | March 12, 2024 |
 | [Once-in-a-Lifetime Viewing Opportunity: Nova Explosion, ‘New’ Star in Northern Crown](https://scitechdaily.com/once-in-a-lifetime-viewing-opportunity-nova-explosion-new-star-in-northern-crown/) | FEBRUARY 28, 2024 |
 | [View Nova Explosion, ‘New’ Star in Northern Crown - Watch the Skies / NASA](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/) | February 27, 2024 |
+| [A Medieval Manuscript Adds Credibility To Prediction Of A Nova Next Year](https://www.iflscience.com/a-medieval-manuscript-adds-credibility-to-prediction-of-a-nova-next-year-70802) | September 21, 2023 |
+| [Three planets around this sun-like star are doomed](https://phys.org/news/2023-11-planets-sun-like-star-doomed.html) | NOVEMBER 1, 2023 |
 
 [^11]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 
