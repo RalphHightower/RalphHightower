@@ -12,6 +12,7 @@ The sun has been active firing off class X strength Corona Mass Ejections send p
 | [PHYS • Space News - Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
 | [ScienceAlert](https://www.sciencealert.com/) |
 | [Space](https://www.space.com/) |
+| **[Solar Cycle 25](https://blogs.nasa.gov/solarcycle25/)** |
 | [The Sun Spot - NASA](https://blogs.nasa.gov/sunspot/) |
 | [HelioCloud Project](https://heliocloud.org/) |
 
@@ -25,6 +26,7 @@ The sun has been active firing off class X strength Corona Mass Ejections send p
 |---|---|
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
+| [Sun Releases 2 Strong Flares – Solar Cycle 25](https://blogs.nasa.gov/solarcycle25/2024/06/03/sun-releases-2-strong-flares-3/)| June 3, 2024 |
 | [Astrophotographer captures stunning close-up views of sunspot region that spawned May's auroras / Space](https://www.space.com/astrophotographer-captured-stunning-close-up-images-sun-sunspot-region-turning-toward-earth) | June 1, 2024 |
 | [Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/31/strong-solar-flare-erupts-from-sun-17/) | May 31, 2024 |
 | [As Aurora-Causing Sunspot Returns, Here’s What To Look Out For In June / IFLScience](https://www.iflscience.com/as-aurora-causing-sunspot-returns-heres-what-to-look-out-for-in-june-74458) | May 31, 2024 | 
@@ -188,6 +190,7 @@ The sun has been active firing off class X strength Corona Mass Ejections send p
 | [NASA’s Solar Dynamics Observatory Captures Intense Solar Flare Erupting From Sun • SciTechDaily](https://scitechdaily.com/nasas-solar-dynamics-observatory-captures-intense-solar-flare-erupting-from-sun/) | MARCH 31, 2023 |
 | [Gigantic 'solar tornado' taller than 14 Earths raged for 3 days. What caused it? / Live Science](https://www.livescience.com/111000-mile-tall-solar-tornado-is-one-of-the-largest-plasma-twisters-ever-seen ) | March 23, 2023 |
 | [60,000-mile-tall 'plasma waterfall' snapped showering the sun with impossibly fast fire / Live Science](https://www.livescience.com/60000-mile-tall-plasma-waterfall-snapped-showering-the-sun-with-impossibly-fast-fire ) | March 15, 2023 |
+| [A Powerful Solar Eruption on Far Side of Sun Still Impacted Earth – The Sun Spot](https://blogs.nasa.gov/sunspot/2023/03/14/a-powerful-solar-eruption-on-far-side-of-sun-still-impacted-earth/) | March 14, 2023 |
 | [“Unexpected” – Researchers Pinpoint Mysterious Source of Sun’s “Heartbeat-Like” Signals • SciTechDaily](https://scitechdaily.com/unexpected-researchers-pinpoint-mysterious-source-of-suns-heartbeat-like-signals/) | MARCH 12, 2023 |
 | [Breathtaking X-Class Solar Flare Bursts From the Sun • SciTechDaily](https://scitechdaily.com/breathtaking-x-class-solar-flare-bursts-from-the-sun/) | MARCH 6, 2023 |
 | [Stunning Aurora Over Wales As Coronal Mass Ejection Arrives at Earth • SciTechDaily](https://scitechdaily.com/stunning-aurora-over-wales-as-coronal-mass-ejection-arrives-at-earth/) | FEBRUARY 27, 2023 |
