@@ -41,6 +41,7 @@
 | [A new star in the sky might be the 'brightest nova of the generation'](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | March 18, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation'](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | March 18, 2024 |
 | ['New star' as bright as the North Star will ignite in the sky this year. Here's how to see it. / Live Science](https://www.space.com/new-star-night-sky-nova-explosion-rare) | March 15, 2024 |
+| [This Year Could Be A Once In A Lifetime Opportunity To See A Nova / IFLScience](https://www.iflscience.com/this-year-could-be-a-once-in-a-lifetime-opportunity-to-see-a-nova-73379) | March 13, 2024 |
 | [A rare nova ignites a 'new star' in the sky this year. Here's how to see it / Space](https://www.space.com/new-star-night-sky-nova-explosion-rare) | March 12, 2024 |
 | [Once-in-a-Lifetime Viewing Opportunity: Nova Explosion, ‘New’ Star in Northern Crown](https://scitechdaily.com/once-in-a-lifetime-viewing-opportunity-nova-explosion-new-star-in-northern-crown/) | FEBRUARY 28, 2024 |
 | [View Nova Explosion, ‘New’ Star in Northern Crown - Watch the Skies / NASA](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/) | February 27, 2024 |
