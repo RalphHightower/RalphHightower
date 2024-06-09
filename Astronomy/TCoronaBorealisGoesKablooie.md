@@ -29,9 +29,9 @@
 | [Q&A: How to catch a glimpse of a new star about to appear in the night sky • Phys](https://phys.org/news/2024-04-qa-glimpse-star-night-sky.html) | APRIL 29, 2024 |
 | [A Rare Nova Explosion Will Soon Bring a 'New Star' to the Night Sky—How to Catch a Glimpse / Smithsonian](https://www.smithsonianmag.com/smart-news/a-rare-nova-explosion-will-soon-bring-a-new-star-to-the-night-sky-how-to-catch-a-glimpse-180984186/) | April 19, 2024 |
 | [Never seen an exploding star? This year, you'll have your chance : NPR](https://www.npr.org/2024/04/15/1244799763/nova-exploding-star-t-coronae-borealis) | APRIL 15, 2024 12:37 PM ET |
+| [Be the First to See a Once-in-a-Lifetime Stellar Explosion! • SETI Institute](https://www.seti.org/be-first-see-once-lifetime-stellar-explosion) | April 17 2024 |
 | [Nova explosion 2024 date approaches. Better than the eclipse? • Fast Company](https://www.fastcompany.com/91090893/nova-explosion-2024-date-approaches-t-coronae-borealis-better-than-eclipse) | 04-11-2024 |
 | [Move Over Eclipse, a New Celestial Wonder Is Set to Take Center Stage • Gizmodo](https://gizmodo.com/move-over-eclipse-a-new-celestial-wonder-is-set-to-tak-1851399742) | April 10, 2024 |
-| [Be the First to See a Once-in-a-Lifetime Stellar Explosion! • SETI](https://www.seti.org/be-first-see-once-lifetime-stellar-explosion) | April 10 2024 |
 | [A Giant Explosion in Space Will Happen This Year, And You Can See It : ScienceAlert](https://www.sciencealert.com/a-giant-explosion-in-space-will-happen-this-year-and-you-can-see-it) | 08 April 2024 |
 | [Huge star explosion to appear in sky in once-in-a-lifetime event • Phys](https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html) | APR 6, 2024 |
 | [Nova explosion will be visible to naked eye in rare stargazing event • NBC News](https://www.nbcnews.com/science/space/nova-explosion-new-star-visible-naked-eye-rcna144511) | March 22, 2024, 7:00 AM EDT |
