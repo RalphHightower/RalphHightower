@@ -1,4 +1,4 @@
-# Photography \| Auroras 
+# Astronomy \| Auroras 
 
 ## Aurora Links / T Corona Borealis Links
 
