@@ -45,7 +45,7 @@
 | [Once-in-a-Lifetime Viewing Opportunity: Nova Explosion, ‘New’ Star in Northern Crown • SciTechDaily](https://scitechdaily.com/once-in-a-lifetime-viewing-opportunity-nova-explosion-new-star-in-northern-crown/) | FEBRUARY 28, 2024 |
 | [View Nova Explosion, ‘New’ Star in Northern Crown - Watch the Skies / NASA](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/) | February 27, 2024 |
 | [A Medieval Manuscript Adds Credibility To Prediction Of A Nova Next Year • IFLScience](https://www.iflscience.com/a-medieval-manuscript-adds-credibility-to-prediction-of-a-nova-next-year-70802) | September 21, 2023 |
-| [Three planets around this sun-like star are doomed • Phys](https://phys.org/news/2023-11-planets-sun-like-star-doomed.html) | NOVEMBER 1, 2023 |
+| [Three planets around this sun-like star are doomed • Phys](https://phys.org/news/2023-11-planets-sun-like-star-doomed.html)[^22] | NOVEMBER 1, 2023 |
 
 [^21]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 [^22]: Typically, T CrB is not visible to the naked eye at a magnitude of 10. When it reaches peak brightness, T CrB will be comparable to Polaris, the North Star, which has a magnitude of 2. (The smaller the number, the brighter it is.) It should remain this bright for a few days to a week before vanishing again. When T CrB goes off, it will only be at maximum brightness for half a day before you must wait another 80 years to see it with your naked eyes. So go out and keep an eye on it!
@@ -64,9 +64,9 @@ What is light pollution?
 Light pollution is the human-made alteration of outdoor light levels from those occurring naturally.
 
 What are the effects?
-Light pollution disrupts wildlife, impacts human health, wastes money and energy, contributes to climate change, and blocks our view of the universe.[^11]
+Light pollution disrupts wildlife, impacts human health, wastes money and energy, contributes to climate change, and blocks our view of the universe.[^31]
 
-[^11]: From [Dark Web's website](https://darksky.org/)
+[^31]: From [Dark Web's website](https://darksky.org/)
 
 | Light Pollution Solutions |
 |---|
