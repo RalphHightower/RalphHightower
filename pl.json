@@ -1,0 +1,28 @@
+{
+  
+  "name": "RalphHightower",
+  "version": "2.1.0-production",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "RalphHightower",
+      "version": "2.1.0-production",
+      "license": "Apache-2.0",
+      "devDependencies": {
+        "RalphHightower": "github:RalphHightower/RalphHightower"
+      },
+      "engines": {
+        "node": ">=20.8.1"
+      }
+    },
+    "node_modules/RalphHightower": {
+      "version": "2.1.0-production",
+      "resolved": "git+ssh://git@github.com/RalphHightower/RalphHightower.git#fb0a4c2e39db64007eb42371c5fd49b5eea6aba3",
+      "dev": true,
+      "engines": {
+        "node": ">=20.8.1"
+      }
+    }
+  }
+}
