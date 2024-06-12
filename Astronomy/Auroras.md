@@ -336,5 +336,5 @@ The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010
 | [Space Weather Follow On Program / NESDIS](https://www.nesdis.noaa.gov/our-satellites/future-programs/space-weather-follow-program ) |
 | [A Media Primer for the Solar Cycle and Space Weather / NESDIS](https://www.nesdis.noaa.gov/our-satellites/future-programs/swfo/media-primer-the-solar-cycle-and-space-weather ) |
 | [Space Weather Media Resources / NESDIS](https://www.nesdis.noaa.gov/imagery/media-stills-animation/space-weather-media-resources ) |
-| [Welcome to Sungrazer | Sungrazer - Sungrazing Comet Spotter](https://sungrazer.nrl.navy.mil/home) |
+| [Welcome to Sungrazer / Sungrazer - Sungrazing Comet Spotter](https://sungrazer.nrl.navy.mil/home) |
 | [laurenorr/substorm-community at nat_comm • GitHub](https://github.com/laurenorr/substorm-community/tree/nat_comm) |
