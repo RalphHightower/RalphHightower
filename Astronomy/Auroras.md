@@ -31,7 +31,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [NASA considering an interstellar probe to study the heliosphere, the region of space influenced by the sun • Phys](https://phys.org/news/2024-06-nasa-interstellar-probe-heliosphere-region.html) | June 8, 2024 |
 | [Scientists call the region of space influenced by the Sun the heliosphere – but without an interstellar probe, they don’t know much about its shape • The Conversation](https://theconversation.com/scientists-call-the-region-of-space-influenced-by-the-sun-the-heliosphere-but-without-an-interstellar-probe-they-dont-know-much-about-its-shape-227131) | June 7, 2024 8:42am EDT |
 | [Missed the Auroras in May? Here’s How to See Them Next Time /  Smithsonian](https://www.smithsonianmag.com/science-nature/missed-the-auroras-in-may-heres-how-to-see-them-next-time-180984480/) | June 6, 2024 |
-| [More people Googled 'northern lights' in May 2024 than in any other month in history | Space](https://www.space.com/sun-space-weather-search-trends-may-2024-analysis) | June 6, 2024 |
+| [More people Googled 'northern lights' in May 2024 than in any other month in history / Space](https://www.space.com/sun-space-weather-search-trends-may-2024-analysis) | June 6, 2024 |
 | [How to See the Northern Lights in the U.S. • Outside](https://www.outsideonline.com/adventure-travel/advice/northern-lights-us-2024/) | Jun 5, 2024 |
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
@@ -47,7 +47,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Tracing solar wind to its source with the Solar Orbiter &#8226; Earth.com](https://www.earth.com/news/tracing-solar-wind-directly-to-its-source-for-the-first-time/) | 05-29-2024 |
 | [The Sun’s Cycles Might Be Driven By The Influence Of The Planets, Study Claims / IFLScience](https://www.iflscience.com/the-suns-cycles-might-be-driven-by-the-influence-of-the-planets-study-claims-74416) | May 29, 2024 |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/28/strong-solar-flare-erupts-from-sun-16/)** | **May 28, 2024** |
-| [Multi-source connectivity as the driver of solar wind variability in the heliosphere | Nature Astronomy](https://www.nature.com/articles/s41550-024-02278-9) | 28 May 2024 |
+| [Multi-source connectivity as the driver of solar wind variability in the heliosphere / Nature Astronomy](https://www.nature.com/articles/s41550-024-02278-9) | 28 May 2024 |
 | [Auroras could paint Earth's skies again in early June. Here are the key nights to watch for. / Live Science](https://www.livescience.com/space/auroras-could-paint-earths-skies-again-in-early-june-here-are-the-key-nights-to-watch-for) | May 28, 2024 |
 | [Colossal X-class solar flare suggests return of sunspot group that fueled May's epic auroras video / Space](https://www.space.com/x-class-solar-flare-from-historic-may-solar-storms-sunspot-suggests-return) | May 28, 2024 |
 | [That giant sunspot that supercharged auroras on Earth? It's back and may amp up the northern lights with June solar storms. / Space](https://www.space.com/return-aurora-causing-sunspot-june-solar-storm-prospects) | May 28, 2024 |
