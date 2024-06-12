@@ -35,6 +35,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [How to See the Northern Lights in the U.S. • Outside](https://www.outsideonline.com/adventure-travel/advice/northern-lights-us-2024/) | Jun 5, 2024 |
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
+| [Swarm satellites help aurora chasers discover Steve's long-lost twin](https://phys.org/news/2024-06-swarm-satellites-aurora-chasers-steve.html) | JUNE 4, 2024 |
 | **[Sun Releases 2 Strong Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/06/03/sun-releases-2-strong-flares-3/)** | **June 3, 2024** |
 | [Astrophotographer captures stunning close-up views of sunspot region that spawned May's auroras / Space](https://www.space.com/astrophotographer-captured-stunning-close-up-images-sun-sunspot-region-turning-toward-earth) | June 1, 2024 |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/31/strong-solar-flare-erupts-from-sun-17/)** | **May 31, 2024** |
