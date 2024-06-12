@@ -41,8 +41,6 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [As Aurora-Causing Sunspot Returns, Here’s What To Look Out For In June / IFLScience](https://www.iflscience.com/as-aurora-causing-sunspot-returns-heres-what-to-look-out-for-in-june-74458) | May 31, 2024 | 
 | [Sun Struck: NASA Captures Intense X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/sun-struck-nasa-captures-intense-x-class-solar-flares/) | MAY 30, 2024 |
 | **[Sun Releases Strong Solar Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/29/sun-releases-strong-solar-flare-11/)** | **May 29, 2024** |
-| [What danger are the auroras hiding? • Universe Magazine](https://universemagazine.com/en/what-danger-lies-behind-the-auroras/) | May 20, 2024 |
-| [Solar flare could cause X-ray auroras • Universe Magazine](https://universemagazine.com/en/a-powerful-solar-flare-could-cause-x-ray-auroras-on-mercury/) | March 19, 2024 |
 | [Sunspot Behind Stunning Auroras Is Back – And More Solar Storms Could Be Ahead / IFLScience](https://www.iflscience.com/sunspot-behind-stunning-auroras-is-back-and-more-solar-storms-could-be-ahead-74425) | May 29, 2024 |
 | [Tracing solar wind to its source with the Solar Orbiter &#8226; Earth.com](https://www.earth.com/news/tracing-solar-wind-directly-to-its-source-for-the-first-time/) | 05-29-2024 |
 | [The Sun’s Cycles Might Be Driven By The Influence Of The Planets, Study Claims / IFLScience](https://www.iflscience.com/the-suns-cycles-might-be-driven-by-the-influence-of-the-planets-study-claims-74416) | May 29, 2024 |
@@ -70,14 +68,16 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Solar storm frenzy of May 2024 was strong enough to affect the deep sea / Space](https://www.space.com/solar-storm-effects-reach-deep-sea) | May 20, 2024 |
 | [How Solar Storms Can Shut Down The Internet, Power Grids, And Even Tractors • Inverse](https://www.inverse.com/science/solar-storm-knocks-out-farmers-high-tech-tractors-power-grid-the-internet)[^21] | MAY 20, 2024 |
 | [We may have just witnessed some of the strongest auroras in 500 years /  Space](https://www.space.com/solar-storms-may-2024-strongest-auroras-500-years) | May 20, 2024 |
+| [What danger are the auroras hiding? • Universe Magazine](https://universemagazine.com/en/what-danger-lies-behind-the-auroras/) | May 20, 2024 |
 | [Stunning Aurora Light Up the Night During Epic Geomagnetic Storm • SciTechDaily](https://scitechdaily.com/stunning-aurora-light-up-the-night-during-epic-geomagnetic-storm/) | MAY 19, 2024 |
+| [Solar flare could cause X-ray auroras • Universe Magazine](https://universemagazine.com/en/a-powerful-solar-flare-could-cause-x-ray-auroras-on-mercury/) | March 19, 2024 |
 | ['Danger behind the beauty': More solar storms could be heading our way • Phys](https://phys.org/news/2024-05-danger-beauty-solar-storms.html) | MAY 18, 2024 |
 | [More Northern Lights soon as Sun storms strengthen • BBC](https://www.bbc.com/news/articles/c163j8551ygo ) | 18 May 2024 |
 | [Here we go again — new sunspot regions emerge, strong solar flare recorded. / Space](https://www.space.com/x-flare-solar-activity-may-16 ) | May 17, 2024 |
 | [NASA video: Solar storms are as impressive as the auroras they caused](https://newatlas.com/space/nasa-solar-storms-videos/) | May 17, 2024 |
 | **[How NASA Tracked the Most Intense Solar Storm in Decades - NASA Science](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/)** | MAY 16, 2024 |
-| **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/15/strong-solar-flare-erupts-from-sun-15/)** | **May 15, 2024** |
 | [Twin X-Class Flares: NASA Captures Epic Solar Showdown • SciTechDaily](https://scitechdaily.com/twin-x-class-flares-nasa-captures-epic-solar-showdown/) |  MAY 16, 2024  |
+| **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/15/strong-solar-flare-erupts-from-sun-15/)** | **May 15, 2024** |
 | **[Sun Releases Strong Solar Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/15/sun-releases-strong-solar-flare-10/)** | **May 15, 2024** |
 | [Huge, solar flare-launching sunspot has rotated away from Earth. But will it return? / Space](https://www.space.com/sunspot-ar3664-will-solar-storms-return ) | May 15, 2024 |
 | [How do you forecast a solar storm? Space weather experts explain / Space](https://www.space.com/space-weather-forecasts-noaa-solar-storms) | May 15, 2024 |
@@ -99,6 +99,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Sun Releases 2 Strong Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/)** | **May 11, 2024** |
 | [Rapid-Fire Solar Flares Unleashed: NASA Witnesses 82 Intense Flares This Week (Video) • SciTechDaily](https://scitechdaily.com/rapid-fire-solar-flares-unleashed-nasa-witnesses-82-intense-flares-this-week-video/) | MAY 11, 2024 |
 | [I took photos of the northern lights with my Pixel 8 Pro and Galaxy S24 Plus — the results were very different / Android Central](https://www.androidcentral.com/phones/may-2024-northern-lights-pixel-8-pro-galaxy-s24-plus) | May 11, 2024 |
+| [NOAA says “extreme” solar storm will persist through the weekend / Ars Technica](https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/) | 5/11/2024, 9:44 AM |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/10/strong-solar-flare-erupts-from-sun-13/)** | **May 10, 2024** |
 | [First 'extreme' solar storm in 20 years brings spectacular auroras • Phys](https://phys.org/news/2024-05-strong-solar-storm-disrupt-communications.html) | MAY 10, 2024 |
 | [NOAA Issues First Severe (G4\) Geomagnetic Storm Watch Since 2005 – Giant Sunspot Cluster 16x Earth’s Diameter • SciTechDaily](https://scitechdaily.com/noaa-issues-first-severe-g4-geomagnetic-storm-watch-since-2005-giant-sunspot-cluster-16x-earths-diameter/) | MAY 10, 2024 |
@@ -216,7 +217,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Breathtaking X-Class Solar Flare Bursts From the Sun • SciTechDaily](https://scitechdaily.com/breathtaking-x-class-solar-flare-bursts-from-the-sun/) | MARCH 6, 2023 |
 | **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/03/03/sun-releases-strong-solar-flare-5/)** | **March 3, 2023** |
 | [Stunning Aurora Over Wales As Coronal Mass Ejection Arrives at Earth • SciTechDaily](https://scitechdaily.com/stunning-aurora-over-wales-as-coronal-mass-ejection-arrives-at-earth/) | FEBRUARY 27, 2023 |
-| **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/02/17/sun-releases-strong-solar-flare-4/)**,| **February 17, 2023** |
+| **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/02/17/sun-releases-strong-solar-flare-4/) | **February 17, 2023** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/02/13/strong-solar-flare-erupts-from-sun-5/)** | **February 13, 2023** |
 | [Enormous 'polar vortex' on the sun is unprecedented, scientists say / Live Science](https://www.livescience.com/enormous-polar-vortex-on-the-sun-is-unprecedented-scientists-say ) | February 10, 2023 |
 | [Modeling Solar Winds: Simulations Reproduce Complex Fluctuations in Soft X-Ray Signal Detected by Satellites • SciTechDaily](https://scitechdaily.com/modeling-solar-winds-simulations-reproduce-complex-fluctuations-in-soft-x-ray-signal-detected-by-satellites/) | JANUARY 27, 2023 |
@@ -280,7 +281,6 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Space Weather Puzzle Unlocked by Supercomputer Simulations • SciTechDaily](https://scitechdaily.com/space-weather-puzzle-unlocked-by-supercomputer-simulations/) | MAY 19, 2021 |
 | [Diffuse Auroral Eraser: Physicists Discover a New Type of Aurora • SciTechDaily](https://scitechdaily.com/diffuse-auroral-eraser-physicists-discover-a-new-type-of-aurora/) | MAY 18, 2021 |
 | [Survey of electron density changes in the daytime ionosphere over the Arecibo Observatory due to lightning and solar flares / Scientific Reports • Nature](https://www.nature.com/articles/s41598-021-89662-x) | 13 May 2021 |
-| [laurenorr/substorm-community at nat_comm • GitHub](https://github.com/laurenorr/substorm-community/tree/nat_comm) |
 | [The Aurora’s Very High Altitude Booster Creates Dazzling Displays • SciTechDaily](https://scitechdaily.com/the-auroras-very-high-altitude-booster-creates-dazzling-displays/) | APRIL 1, 2021 |
 | [Social Network Inspired Algorithms Reveal Lifecycle of Auroral Substorms, a Key Element of Space Weather • SciTechDaily](https://scitechdaily.com/social-network-inspired-algorithms-reveal-lifecycle-of-auroral-substorms-a-key-element-of-space-weather/) | MARCH 23, 2021 |
 | [Network community structure of substorms using SuperMAG magnetometers / Nature Communications](https://www.nature.com/articles/s41467-021-22112-4) | 23 March 2021 |
@@ -336,3 +336,4 @@ The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010
 | [A Media Primer for the Solar Cycle and Space Weather / NESDIS](https://www.nesdis.noaa.gov/our-satellites/future-programs/swfo/media-primer-the-solar-cycle-and-space-weather ) |
 | [Space Weather Media Resources / NESDIS](https://www.nesdis.noaa.gov/imagery/media-stills-animation/space-weather-media-resources ) |
 | [Welcome to Sungrazer | Sungrazer - Sungrazing Comet Spotter](https://sungrazer.nrl.navy.mil/home) |
+| [laurenorr/substorm-community at nat_comm • GitHub](https://github.com/laurenorr/substorm-community/tree/nat_comm) |
