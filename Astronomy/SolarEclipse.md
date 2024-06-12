@@ -210,6 +210,7 @@
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
+| [See the sun's corona revealed in all its glory during 2024 total solar eclipse (photo\) / Space](https://www.miguelclaro.com/wp/portfolio/the-suns-aura-solar-corona-revealed-in-all-its-glory-during-total-solar-eclipse-2024/) | May 7, 2024 |
 | [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017) |April 26, 2024 |
 | [Solar eclipse 2024: Live updates / Space](https://www.space.com/news/live/solar-eclipse-live-updates ) | April 23, 2024 |
 | [14 of the best total solar eclipse 2024 photos from our readers / Space](https://www.space.com/best-total-solar-eclipse-2024-photos ) | April 23, 2024 |
