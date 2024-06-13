@@ -1,12 +1,14 @@
 # Comics \| Calvin And Hobbes 
 
-## Best Best Calvin And Hobbes Collections
+## Books
 
 | Best Calvin And Hobbes Collections | Price 
 |---|---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 )** | **$99.58** |
 
-## Calvin and Hobbes / CBR
+## Comics
+
+### Calvin and Hobbes / CBR
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
@@ -116,7 +118,7 @@
 | [Six by 6 / Six 'retired' artists we'd like to see return to comics](https://www.cbr.com/six-by-6-six-retired-artists-wed-like-to-see-return-to-comics/ ) | Apr 19, 2009 |
 | [Talking Comics with Tim: Andrew Farago](https://www.cbr.com/talking-comics-with-tim-andrew-farago/ ) | Mar 9, 2009 |
 
-## Calvin and Hobbes/ ScreenRant 
+### Calvin and Hobbes / ScreenRant 
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
