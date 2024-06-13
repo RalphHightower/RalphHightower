@@ -12,10 +12,14 @@
 |---|---|
 | [Larson is drawn to the wild side - USATODAY.com](https://usatoday30.usatoday.com/life/2006-11-20-larson-cover-usat_x.htm ) | 11/22/2006 10:13 AM ET |
 
-## Comics 
+## Comics
+
+### Comics — ScreenRant 
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [15 Funniest Far Side Comics Starring Its 'Nerdy Kid' Recurring Character (Including 2 of Gary Larson's All Time Best\)](https://screenrant.com/funniest-far-side-comics-gary-larson-nerdy-kid/) | June 13, 2024 |
+| [15 Funniest Far Side Comics That Somehow Found the Funny Side of War](https://screenrant.com/funniest-far-side-comics-about-war-gary-larson/) | June 8, 2024 |
 | ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June  6, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 5, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 4, 2024 |
@@ -147,8 +151,11 @@
 | [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
 | [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 |
 
+### Comics — CBR
+
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [10 Far Side Comics With the Darkest Humor](https://www.cbr.com/the-far-side-dark-comedy/) | June 8, 2024 |
 | [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/ ) | May 15, 2024  |
 | [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/ ) | May 8, 2024 |
 | [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
