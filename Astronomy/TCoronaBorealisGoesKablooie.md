@@ -22,6 +22,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Space](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 10, 2024 |
 | [NASA, global astronomers await rare nova explosion • Phys](https://phys.org/news/2024-06-nasa-global-astronomers-await-rare.html) | JUNE 7, 2024 |
 | [NASA, Global Astronomers Await Rare Nova Explosion - NASA](https://www.nasa.gov/centers-and-facilities/marshall/nasa-global-astronomers-await-rare-nova-explosion/) | JUN 06, 2024 |
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 4, 2024 |
