@@ -8,7 +8,6 @@
 | Company / Government GitHub Repository | Description |
 |---|---|
 | [AAVSO](https://github.com/AAVSO) | Astronomy NonProfit connecting backyard observers and professional astronome |
-#3970
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
 | [Adobe - Perficient](https://github.com/PRFTAdobe ) | Perficient - Adobe |
 | [Adobe Commerce Docs](https://github.com/commerce-docs ) | We are 42—Adobe's team of Commerce devdocs writers, developers, and enthusiasts!<br />Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br />Our standards demand concise content, descriptive diagrams, and interactive examples.<br />Our purpose is simple: Help developers learn and apply concepts as quickly as possible |
