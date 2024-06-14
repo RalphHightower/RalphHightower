@@ -461,6 +461,7 @@
 
 | RISC-V Software | Date |
 |---|---|
+| [Canonical releases Ubuntu 24.04 Server image for Milk-V Mars RISC-V SBC - CNX Software](https://www.cnx-software.com/2024/05/28/canonical-releases-ubuntu-24-04-server-image-for-milk-v-mars-risc-v-sbc/) | MAY 28, 2024 |
 | [SiFive Software - Accelerate & Enhance your RISC-V Development.](https://www.sifive.com/software ) |
 | [What's going on with SiFive and RISC V? / TechSpot](https://www.techspot.com/news/100578-what-going-sifive-risc-v.html ) | October 22, 2023 at 1:03 PM
 
