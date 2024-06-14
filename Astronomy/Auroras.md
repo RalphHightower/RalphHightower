@@ -24,6 +24,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | News | Date |
 |---|---|
+| [Solar flare blasts out strongest radiation storm since 2017 / Space](https://www.space.com/solar-storm-june-strongest-radiation-since-2017) | June 11, 2024 |
 | **[Strong Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/06/10/strong-flare-erupts-from-sun-2/)** | **June 10, 2024** |
 | [Why Phone Cameras Are the Hidden Secret to Taking Amazing Photos of the Northern Lights • Inverse](https://www.inverse.com/science/phone-cameras-hidden-secret-taking-photos-northern-lights) | JUNE 9, 2024 |
 | [The Sun Is Hitting a Phenomenal 11-Year Peak, And The Effects Could Be Huge : ScienceAlert](https://www.sciencealert.com/the-sun-is-hitting-a-phenomenal-11-year-peak-and-the-effects-could-be-huge) | 09 June 2024 |
