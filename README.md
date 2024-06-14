@@ -29,7 +29,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 |---------|---------|
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower) |
 | Facebook | [RalphHightower](https://www.facebook.com/ralph.hightower/) (I spend more time on LinkedIn than I do on Facebook.) |
-| GitHub | **[RalphHightower](https://ralphhightower.github.io/RalphHightower/)** **(Primary Website)** |
+| GitHub | **[RalphHightower (Ralph Hightower\)](https://github.com/RalphHightower)** |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
