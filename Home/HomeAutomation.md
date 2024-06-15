@@ -50,6 +50,7 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 | [How I automated my entire home with just a Raspberry Pi](https://www.xda-developers.com/automate-home-with-raspberry-pi/ ) | May 9, 2024 |
 | [GPT Home Runs Circles Around Traditional Home Assistant Devices - Hackster.io](https://www.hackster.io/news/gpt-home-runs-circles-around-traditional-home-assistant-devices-77d4f4d3c9e5 ) | May 3, 2024 |
 | [Review of SONOFF SNZB-06P human presence and SNZB-04P door/window Zigbee sensors - CNX Software](https://www.cnx-software.com/2024/04/29/review-sonoff-snzb-06p-zigbee-human-presence-snzb-04pdoor-window-sensor/ ) | APRIL 29, 2024 |
+| [A Home-Approved Dashboard chapter 1: Drag-and-drop, Sections view, and a new grid system design! - Home Assistant](https://www.home-assistant.io/blog/2024/03/04/dashboard-chapter-1/) | March 4, 2024 |
 | [Is Aqara’s FP2 presence sensor worth the hype?](https://www.androidpolice.com/aqara-fp2-worth-the-hype/ ) | SEP 25, 2023 |
 | **[How to set up Home Assistant with a Raspberry Pi and build a smart home](https://www.pocket-lint.com/how-to-set-up-home-assistant-with-a-raspberry-pi/ )** | JUL 3, 2023 |
 | **[What is Home Assistant, how does it work, and what do you need to get started?](https://www.pocket-lint.com/what-is-home-assistant-how-does-it-work/ )** | SEP 8, 2023 |
