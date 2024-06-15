@@ -21,6 +21,7 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | General Articles  / News | Date |
 |---|---|
+| [A roadmap for Home Assistant - Home Assistant](https://www.home-assistant.io/blog/2024/06/12/roadmap-introduction/) | June 12, 2024 |
 | [The Open Home Foundation will manage Home Assistant, ESPHome, Zigpy among over 240 open-source Smart Home projects - CNX Software](https://www.cnx-software.com/2024/04/23/open-home-foundation-manage-home-assistant-esphome-zigpy-over-240-open-source-smart-home-projects/ ) | APRIL 23, 2024 |
 | **[Home / SkyWind Energy Inc.](https://www.myskywind.world/? )** | May 19, 2024 |
 | [A Smart Power Distribution Unit For Home Automation / Hackaday](https://hackaday.com/2024/04/25/a-smart-power-distribution-unit-for-home-automation/ ) | April 25, 2024 |
