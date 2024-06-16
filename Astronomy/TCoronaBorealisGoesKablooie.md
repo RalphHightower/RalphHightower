@@ -1,4 +1,4 @@
-	# Astronomy \| T Corona Borealis Goes Kablooie 
+# Astronomy \| T Corona Borealis Goes Kablooie 
 
 ## Astronomy / T Corona Borealis *"Hot Links"*
 
@@ -52,6 +52,7 @@
 [^21]: Typically, T CrB is not visible to the naked eye at a magnitude of 10. When it reaches peak brightness, T CrB will be comparable to Polaris, the North Star, which has a magnitude of 2. (The smaller the number, the brighter it is.) It should remain this bright for a few days to a week before vanishing again. When T CrB goes off, it will only be at maximum brightness for half a day before you must wait another 80 years to see it with your naked eyes. So go out and keep an eye on it!
 [^22]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 
+![Sky Chart with T Corona Borealis](Astronomy/TCrB-2AM-April15-SE.png)
 
 ## Light Pollution 
 
