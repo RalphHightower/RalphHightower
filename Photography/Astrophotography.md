@@ -188,6 +188,7 @@
 | [The Best Telescopes to Buy Right Now / B&H eXplora](https://www.bhphotovideo.com/explora/photography/buying-guide/best-telescopes) | 03/29/2024 |
 | [How to Edit Your Total Solar Eclipse Photos / B&H eXplora](https://www.bhphotovideo.com/explora/videos/photography/how-to-edit-your-total-solar-eclipse-photos) | 04/02/2024 |
 | **[A Stellar Guide to Photographing the Milky Way / B&H eXplora](https://www.bhphotovideo.com/explora/videos/photography/a-stellar-guide-to-photographing-the-milky-way)[^12]** | 04/11/2024 |
+
 [^11]: I compiled this list of links from [B&H Photo/Video](https://www.bhphotovideo.com/) [eXplora](https://www.bhphotovideo.com/explora/ ), which contains articles, videos, podcasts, and product reviews. The list contains links to content related to astrophotography and night photography using associated keywords[^14]. If the content specifies a brand and offers no general advice, the link to the content is not in the list with the exceptions of the brands that I use. This is my website after all. Night photography encompasses many different topics, but this page focuses on astrophotography; so, fireworks and holiday lights are not in this list.
 [^12]: These astrophotography articles are of particular interest to me.
 [^13]: These topics are of interest to me, even though they are not astrophotography related. 
