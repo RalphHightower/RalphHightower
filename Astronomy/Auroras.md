@@ -260,8 +260,6 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [2024: The Year of the Sun’s Grand Show – New Study Predicts Solar Peak • SciTechDaily](https://scitechdaily.com/2024-the-year-of-the-suns-grand-show-new-study-predicts-solar-peak/) | JANUARY 14, 2024 |
 | [NASA Captures Sun’s Fury: Strongest Solar Flare Since 2017 • SciTechDaily](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/) | JANUARY 2, 2024 |
 
-</details >
-
 <br />
 
 <details markdown='1'><summary>Expand / Collapse: Solar Activity — 2023</summary>
