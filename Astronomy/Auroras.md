@@ -24,6 +24,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | News | Date |
 |---|---|
+| [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 13, 2024 |
 | [Solar flare blasts out strongest radiation storm since 2017 / Space](https://www.space.com/solar-storm-june-strongest-radiation-since-2017) | June 11, 2024 |
 | **[Strong Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/06/10/strong-flare-erupts-from-sun-2/)** | **June 10, 2024** |
 | [Why Phone Cameras Are the Hidden Secret to Taking Amazing Photos of the Northern Lights • Inverse](https://www.inverse.com/science/phone-cameras-hidden-secret-taking-photos-northern-lights) | JUNE 9, 2024 |
@@ -88,7 +89,6 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Sun Releases 2 Strong Solar Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/14/sun-releases-2-strong-solar-flares-2/ )** | **May 14, 2024** |
 | [The Sun's Fury Sparked Breathtaking Auroras Worldwide. Why Do We See Different Colors? • ScienceAlert](https://www.sciencealert.com/the-suns-fury-sparked-breathtaking-auroras-worldwide-why-do-we-see-different-colors ) | 14 May 2024 |
 | [Sun unleashes massive X8.7 solar flare, biggest of current cycle, from super-active monster sunspot (video) / Space ](https://www.space.com/sun-solar-flare-sunspot-ar3664-x88-class-may-14-2024 ) | May 14, 2024 |
-| [How a giant sunspot unleashed solar storms that spawned global auroras that just dazzled us all / Space](https://www.space.com/giant-sunspot-ar3664-solar-storms-aurora) | May 13, 2024 |
 | [Best photos of the most powerful aurora borealis • Universe Magazine](https://universemagazine.com/en/storm-of-the-century-the-best-photos-of-the-historic-aurora-borealis/) | May 13, 2024 |
 | [How a giant sunspot unleashed solar storms that spawned global auroras that just dazzled us all / Space](https://www.space.com/giant-sunspot-ar3664-solar-storms-aurora ) | May 13, 2024 |
 | [Dazzling auroras fade from skies as sunspot turns away • Phys](https://phys.org/news/2024-05-dazzling-auroras-skies-sunspot.html) | MAY 13, 2024 |
@@ -132,13 +132,6 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Solar Power Surge: Sun Emits Intense X1.1 Flare • SciTechDaily](https://scitechdaily.com/solar-power-surge-sun-emits-intense-x1-1-flare/) | MARCH 29, 2024 |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/03/28/strong-solar-flare-erupts-from-sun-11/)** | **March 28, 2024** |
 | **[Sun Releases Strong Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/03/25/sun-releases-strong-flare/)** | **March 25, 2024** |
-| [Rare 'Ghosts' Seen in Earth's Upper Atmosphere Explained by Physicists - Newsweek](https://www.newsweek.com/rare-ghosts-earth-upper-atmosphere-physicists-green-lightning-1851420) | Dec 12, 2023 at 6:02 PM EST |
-| [Astronaut Catches "Transient Luminous Event" High Above The Earth / IFLScience](https://www.iflscience.com/astronaut-catches-transient-luminous-event-high-above-the-earth-71834) | December 4, 2023 |
-| ['Impossible' orange auroras spotted in UK after solar storm slams into Earth / Live Science](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth) | December 2, 2023 |
-| [Steve: The aurora-like light show you can help research / CNN](https://www.cnn.com/2023/11/28/world/steve-aurora-lights-scn/index.html) | 8:57 AM EST, Tue November 28, 2023 |
-| [What is STEVE, and how is it different from the aurora? / Space](https://www.space.com/what-is-steve) | November 6, 2023 |
-| **[Parker Observes Powerful Coronal Mass Ejection ‘Vacuum Up’ Interplanetary Dust](https://blogs.nasa.gov/parkersolarprobe/2023/09/15/parker-observes-powerful-coronal-mass-ejection-vacuum-up-interplanetary-dust/)**  | September 15, 2023 |
-| [Massive Hole In Sun's Atmosphere Cracked Open And Auroras Are Coming / IFLScience](https://www.iflscience.com/massive-hole-in-suns-atmosphere-cracked-open-and-auroras-are-coming-68123) | March 23, 2023 |
 | [Astronomers Discover Surprising Radio Signals Emanating From the Sun • SciTechDaily](https://scitechdaily.com/astronomers-discover-surprising-radio-signals-emanating-from-the-sun/) | MARCH 20, 2024 |
 | [Science Simplified: What Is Supercomputing? • SciTechDaily](https://scitechdaily.com/science-simplified-what-is-supercomputing/) | MARCH 19, 2024 |
 | [It’s aurora season. Why more auroras at equinoxes? • EarthSky](https://earthsky.org/sun/aurora-season-auroras-equinox-connection/) | March 10, 2024 |
@@ -168,15 +161,20 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Biggest solar flare in years temporarily disrupts radio signals on Earth • Phys](https://phys.org/news/2023-12-biggest-solar-flare-years-temporarily.html) | DECEMBER 15, 2023 |
 | [Sun Unleashes Mighty X2.8 Fury: NASA Captures Stellar Spectacle • SciTechDaily](https://scitechdaily.com/sun-unleashes-mighty-x2-8-fury-nasa-captures-stellar-spectacle/) | DECEMBER 15, 2023 |
 | **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/12/14/sun-releases-strong-solar-flare-8/)** | **December 14, 2023** |
+| [Rare 'Ghosts' Seen in Earth's Upper Atmosphere Explained by Physicists - Newsweek](https://www.newsweek.com/rare-ghosts-earth-upper-atmosphere-physicists-green-lightning-1851420) | Dec 12, 2023 at 6:02 PM EST |
 | **[HelioCloud Leads Heliophysics Research into the Cloud Computing Revolution - The Sun Spot • NASA](https://blogs.nasa.gov/sunspot/2023/12/11/heliocloud-leads-heliophysics-research-into-the-cloud-computing-revolution/)** | December 11, 2023 |
 | [A Possible Mechanism for the "Late Phase" in Stellar White-light Flares - IOPscience • SciTechDaily](https://iopscience.iop.org/article/10.3847/1538-4357/ad077d) | 2023 December 6 |
+| [Astronaut Catches "Transient Luminous Event" High Above The Earth / IFLScience](https://www.iflscience.com/astronaut-catches-transient-luminous-event-high-above-the-earth-71834) | December 4, 2023 |
 | [A Solar Superstorm Struck Earth 150 Years Ago – Now, New Research Reveals That They Are Much More Common Than We Thought • SciTechDaily](https://scitechdaily.com/a-solar-superstorm-struck-earth-150-years-ago-now-new-research-reveals-that-they-are-much-more-common-that-we-thought/) | DECEMBER 4, 2023 |
+| ['Impossible' orange auroras spotted in UK after solar storm slams into Earth / Live Science](https://www.livescience.com/space/the-sun/impossible-orange-auroras-spotted-in-uk-after-solar-storm-slams-into-earth) | December 2, 2023 |
 | [The Extreme Space Weather Event of 1872 February: Sunspots, Magnetic Disturbance, and Auroral Displays - IOPscience](https://iopscience.iop.org/article/10.3847/1538-4357/acc6cc) | 2023 December 1 |
+| [Steve: The aurora-like light show you can help research / CNN](https://www.cnn.com/2023/11/28/world/steve-aurora-lights-scn/index.html) | 8:57 AM EST, Tue November 28, 2023 |
 | [Mysterious Aurora-Like Radio Emissions Uncovered Above a Sunspot • SciTechDaily](https://scitechdaily.com/mysterious-aurora-like-radio-emissions-uncovered-above-a-sunspot/) | NOVEMBER 16, 2023 |
 | [Solar Storm Spectacle: Colorful Auroras Light Up Earth’s Atmosphere • SciTechDaily](https://scitechdaily.com/solar-storm-spectacle-colorful-auroras-light-up-earths-atmosphere/) | NOVEMBER 13, 2023 |
 | [The sun may be smaller than we thought / Live Science](https://www.livescience.com/space/the-sun/the-sun-may-be-smaller-than-we-thought ) | November 12, 2023 |
 | [Auroral Mysteries Unveiled: NASA’s Sounding Rocket Rises Into Alaskan Skies • SciTechDaily](https://scitechdaily.com/auroral-mysteries-unveiled-nasas-sounding-rocket-rises-into-alaskan-skies/) | NOVEMBER 10, 2023 |
 | [NASA’s AWE Mission Launching to Space Station To Study Atmospheric Gravity Waves via Airglow • SciTechDaily](https://scitechdaily.com/nasas-awe-mission-launching-to-space-station-to-study-atmospheric-gravity-waves-via-airglow/) | NOVEMBER 8, 2023 |
+| [What is STEVE, and how is it different from the aurora? / Space](https://www.space.com/what-is-steve) | November 6, 2023 |
 | [Alaskan Nights Aglow: Don’t Miss HAARP’s Spectacular Artificial Airglow Show • SciTechDaily](https://scitechdaily.com/alaskan-nights-aglow-dont-miss-haarps-spectacular-artificial-airglow-show/) | NOVEMBER 7, 2023 |
 | [Three planets around this sun-like star are doomed • Phys](https://phys.org/news/2023-11-planets-sun-like-star-doomed.html) | NOVEMBER 1, 2023 |
 | [15 signs the sun is gearing up for its explosive peak — the solar maximum / Live Science](https://www.livescience.com/space/the-sun/10-signs-the-sun-is-gearing-up-for-its-explosive-peak-the-solar-maximum ) | November 1, 2023 |
@@ -184,6 +182,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [The 8‐Year Solar Cycle During the Maunder Minimum - Yan - 2023 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV000964) | 03 October 2023 |
 | [Layers of the Sun - The Sun Spot • Phys](https://blogs.nasa.gov/sunspot/2023/09/26/layers-of-the-sun/) | September 26, 2023 |
 | **[Earth's Magnetosphere and Plasmasheet - The Sun Spot • NASA](https://blogs.nasa.gov/sunspot/2023/09/26/earths-magnetosphere-and-plasmasheet/)** | September 26, 2023 |
+| **[Parker Observes Powerful Coronal Mass Ejection ‘Vacuum Up’ Interplanetary Dust](https://blogs.nasa.gov/parkersolarprobe/2023/09/15/parker-observes-powerful-coronal-mass-ejection-vacuum-up-interplanetary-dust/)**  | September 15, 2023 |
 | [Solar Flares in a Lab? Caltech’s Miniature Marvels Unlock Cosmic Secrets • SciTechDaily](https://scitechdaily.com/solar-flares-in-a-lab-caltechs-miniature-marvels-unlock-cosmic-secrets/) | SEPTEMBER 6, 2023 |
 | [Space’s Silent Threat: Scientists Shed New Light on “Killer Electrons” • SciTechDaily](https://scitechdaily.com/spaces-silent-threat-scientists-shed-new-light-on-killer-electrons/) | SEPTEMBER 4, 2023 |
 | [Sun’s Mighty Solar Wind Powered by Tiny “Picoflare Jets” Within Coronal Holes • SciTechDaily](https://scitechdaily.com/suns-mighty-solar-wind-powered-by-tiny-picoflare-jets-within-coronal-holes/) | AUGUST 30, 2023 |
@@ -212,6 +211,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Bracing for Impact: NASA’s New AI Model To Defend Earth From Dangerous Space Weather • SciTechDaily](https://scitechdaily.com/bracing-for-impact-nasas-new-ai-model-to-defend-earth-from-dangerous-space-weather/) | APRIL 1, 2023 |
 | [NASA’s Solar Dynamics Observatory Captures Intense Solar Flare Erupting From Sun • SciTechDaily](https://scitechdaily.com/nasas-solar-dynamics-observatory-captures-intense-solar-flare-erupting-from-sun/) | MARCH 31, 2023 |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/03/29/strong-solar-flare-erupts-from-sun-6/)** | **March 29, 2023** |
+| [Massive Hole In Sun's Atmosphere Cracked Open And Auroras Are Coming / IFLScience](https://www.iflscience.com/massive-hole-in-suns-atmosphere-cracked-open-and-auroras-are-coming-68123) | March 23, 2023 |
 | [Gigantic 'solar tornado' taller than 14 Earths raged for 3 days. What caused it? / Live Science](https://www.livescience.com/111000-mile-tall-solar-tornado-is-one-of-the-largest-plasma-twisters-ever-seen ) | March 23, 2023 |
 | [60,000-mile-tall 'plasma waterfall' snapped showering the sun with impossibly fast fire / Live Science](https://www.livescience.com/60000-mile-tall-plasma-waterfall-snapped-showering-the-sun-with-impossibly-fast-fire ) | March 15, 2023 |
 | **[A Powerful Solar Eruption on Far Side of Sun Still Impacted Earth – The Sun Spot](https://blogs.nasa.gov/sunspot/2023/03/14/a-powerful-solar-eruption-on-far-side-of-sun-still-impacted-earth/)** | **March 14, 2023** |
@@ -224,27 +224,26 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Enormous 'polar vortex' on the sun is unprecedented, scientists say / Live Science](https://www.livescience.com/enormous-polar-vortex-on-the-sun-is-unprecedented-scientists-say ) | February 10, 2023 |
 | [Modeling Solar Winds: Simulations Reproduce Complex Fluctuations in Soft X-Ray Signal Detected by Satellites • SciTechDaily](https://scitechdaily.com/modeling-solar-winds-simulations-reproduce-complex-fluctuations-in-soft-x-ray-signal-detected-by-satellites/) | JANUARY 27, 2023 |
 | **[Flashes on the Sun Could Help Scientists Predict Solar Flares - NASA](https://www.nasa.gov/missions/sdo/flashes-on-the-sun-could-help-scientists-predict-solar-flares/)** | JAN 17, 2023 |
+| [Explosive X1.9 Class Solar Flare Erupts From the Sun • SciTechDaily](https://scitechdaily.com/explosive-x1-9-class-solar-flare-erupts-from-the-sun/) | JANUARY 12, 2023 |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/01/10/strong-solar-flare-erupts-from-sun-4/)** | **January 10, 2023** |
 | **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/01/09/sun-releases-strong-solar-flare-3/)** | **January 9, 2023** |
-| [Explosive X1.9 Class Solar Flare Erupts From the Sun • SciTechDaily](https://scitechdaily.com/explosive-x1-9-class-solar-flare-erupts-from-the-sun/) | JANUARY 12, 2023 |
 | [Powerful X-Class Solar Flare Erupts From Sun – Captured by NASA’s Solar Dynamics Observatory • SciTechDaily](https://scitechdaily.com/powerful-x-class-solar-flare-erupts-from-sun-captured-by-nasas-solar-dynamics-observatory-2/) | JANUARY 8, 2023 |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/01/06/strong-solar-flare-erupts-from-sun-3/)** | **January 6, 2023** |
 | [Strong solar flare erupts from Sun • Phys](https://phys.org/news/2023-01-strong-solar-flare-erupts-sun.html) | JANUARY 6, 2023 |
 | [10 solar storms that blew us away in 2022 / Live Science](https://www.livescience.com/solar-storm-stories-2022 ) | December 26, 2022 |
 | [Microwave imaging of quasi-periodic pulsations at flare current sheet / Nature Communications](https://www.nature.com/articles/s41467-022-35377-0) | 12 December 2022 |
 | [Tree Rings Offer Insight Into Mysterious, Devastating Radiation Storms • SciTechDaily](https://scitechdaily.com/tree-rings-offer-insight-into-mysterious-devastating-radiation-storms/) | OCTOBER 28, 2022 |
-| **[THE GREAT SPRITES CHASE - The Sun Spot • NASA](https://blogs.nasa.gov/sunspot/2022/10/27/the-great-sprites-chase/)** | October 27, 2022 |
 | [Modelling cosmic radiation events in the tree-ring radiocarbon record / Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0497) | 26 October 2022 |
+| **[THE GREAT SPRITES CHASE - The Sun Spot • NASA](https://blogs.nasa.gov/sunspot/2022/10/27/the-great-sprites-chase/)** | October 27, 2022 |
 | [Image: Sun releases strong solar flare • Phys](https://phys.org/news/2022-10-image-sun-strong-solar-flare.html) | OCTOBER 3, 2022 |
 | [Astronomy & Astrophysics 101: Stellar Wind • SciTechDaily](https://scitechdaily.com/astronomy-astrophysics-101-stellar-wind/) | AUGUST 23, 2022 |
 | [Unraveling the Mysteries of “Gigantic Jet” Lightning Bursts That Reach 50 Miles Into Space • SciTechDaily](https://scitechdaily.com/unraveling-the-mysteries-of-gigantic-jet-lightning-bursts-that-reach-50-miles-into-space/) | AUGUST 9, 2022 |
 | [Upward propagation of gigantic jets revealed by 3D radio and optical mapping / Science Advances • SciTechDaily](https://www.science.org/doi/10.1126/sciadv.abl8731) | 3 Aug 2022 |
 | [First of NASA’s SunRISE SmallSats Rolls Off Production Line - NASA](https://www.nasa.gov/missions/small-satellite-missions/first-of-nasas-sunrise-smallsats-rolls-off-production-line/) | AUG 09, 2022 |
-| [NASA's Heliophysics Education Team Reaches 341 Teachers in 23 States and 7 Countries - NASA Science](https://science.nasa.gov/science-research/heliophysics/heliophysics-education-team/) | JUL 15, 2022 |
 | [Rocket Launches Can Create Night-Shining Clouds Away from the Poles, NASA’s AIM Mission Reveals - NASA](https://www.nasa.gov/missions/aim/rocket-launches-can-create-night-shining-clouds-away-from-the-poles-nasas-aim-mission-reveals/) | JUL 21, 2022 |
-| [The Coronal Veil: Are the Sun’s Magnetic Arches an Optical Illusion? - NASA](https://www.nasa.gov/missions/sdo/the-coronal-veil-are-the-suns-magnetic-arches-an-optical-illusion/) | JUN 16, 2022 |
-| [The Coronal Veil: Are the Sun’s Magnetic Arches an Optical Illusion? - NASA](https://www.nasa.gov/missions/sdo/the-coronal-veil-are-the-suns-magnetic-arches-an-optical-illusion/) | JUN 16, 2022 |
+| [NASA's Heliophysics Education Team Reaches 341 Teachers in 23 States and 7 Countries - NASA Science](https://science.nasa.gov/science-research/heliophysics/heliophysics-education-team/) | JUL 15, 2022 |
 | [Auroras Incoming? Giant Sunspot Has Doubled in Size and Is Pointed Right at Earth • SciTechDaily](https://scitechdaily.com/auroras-incoming-giant-sunspot-has-doubled-in-size-and-is-pointed-right-at-earth/) | JUNE 30, 2022 |
+| [The Coronal Veil: Are the Sun’s Magnetic Arches an Optical Illusion? - NASA](https://www.nasa.gov/missions/sdo/the-coronal-veil-are-the-suns-magnetic-arches-an-optical-illusion/) | JUN 16, 2022 |
 | [Global Geomagnetic Perturbation Forecasting Using Deep Learning - Upendran - 2022 - Space Weather - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003045) | 19 May 2022 |
 | [Experiments Show Source of the Aurora Borealis: Electrons Surfing on Alfvén Waves • SciTechDaily](https://scitechdaily.com/experiments-show-source-of-the-aurora-borealis-electrons-surfing-on-alfven-waves/) | APRIL 30, 2022 |
 | [Scientists with NASA’s MMS Mission Crack 60-Year Mystery of Fast Magnetic Explosions - NASA](https://www.nasa.gov/missions/mms/scientists-with-nasas-mms-mission-crack-60-year-mystery-of-fast-magnetic-explosions/) | APR 28, 2022 |
@@ -306,7 +305,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25]** | FEBRUARY 19, 2018 |
 | [New Wave Pattern On The Sun Might Help Us Predict Solar Storms / IFLScience](https://www.iflscience.com/new-wave-pattern-on-the-sun-might-help-us-predict-solar-storms-41028) | March 29, 2017 |
 | [NASA Scientists Reveal the Role of Electrons in Pulsating Auroras • SciTechDaily](https://scitechdaily.com/nasa-scientists-reveal-the-role-of-electrons-in-pulsating-auroras/) | OCTOBER 8, 2015 |
-| **[NASA Measuring the Pulsating Aurora - NASA](https://www.nasa.gov/science-research/heliophysics/nasa-measuring-the-pulsating-aurora/) | OCT 07, 2015** |
+| **[NASA Measuring the Pulsating Aurora - NASA](https://www.nasa.gov/science-research/heliophysics/nasa-measuring-the-pulsating-aurora/)** | **OCT 07, 2015** |
 | [Researchers Predicted Blue, Red and Green Aurorae at Mars • SciTechDaily](https://scitechdaily.com/researchers-predicted-blue-red-and-green-aurorae-at-mars/) | MAY 29, 2015 |
 | [Study Suggests Auroras Occur Outside Our Solar System • SciTechDaily](https://scitechdaily.com/study-suggests-auroras-occur-outside-our-solar-system/) | JANUARY 22, 2013 |
 | [Two Coronal Mass Ejections Strongly Compressed the Magnetopause • SciTechDaily](https://.scitechdaily.com/two-cmes-strongly-compressed-thmme-magnetopause/) | JUNE 19, 2012 |
