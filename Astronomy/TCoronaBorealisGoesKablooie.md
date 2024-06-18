@@ -22,6 +22,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Astronomers Await Visible Nova Event in Corona Borealis • Space Daily](https://www.spacedaily.com/reports/Astronomers_Await_Visible_Nova_Event_in_Corona_Borealis_999.html) | Jun 07, 2024 |
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Space](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 10, 2024 |
 | [NASA, global astronomers await rare nova explosion • Phys](https://phys.org/news/2024-06-nasa-global-astronomers-await-rare.html) | JUNE 7, 2024 |
 | [NASA, Global Astronomers Await Rare Nova Explosion - NASA](https://www.nasa.gov/centers-and-facilities/marshall/nasa-global-astronomers-await-rare-nova-explosion/) | JUN 06, 2024 |
@@ -52,7 +53,7 @@
 [^21]: Typically, T CrB is not visible to the naked eye at a magnitude of 10. When it reaches peak brightness, T CrB will be comparable to Polaris, the North Star, which has a magnitude of 2. (The smaller the number, the brighter it is.) It should remain this bright for a few days to a week before vanishing again. When T CrB goes off, it will only be at maximum brightness for half a day before you must wait another 80 years to see it with your naked eyes. So go out and keep an eye on it!
 [^22]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 
-![Sky Chart with T Corona Borealis](Astronomy/TCrB-2AM-April15-SE.png)
+![Sky Chart with T Corona Borealis](TCrB-2AM-April15-SE.png)
 
 ## Light Pollution 
 
