@@ -132,6 +132,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Yet Another X-class Flare — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/yet-another-x-class-flare)** | **Saturday, May 11, 2024 - 02:13** |
 | **[Sun Releases 2 Strong Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/ )** | **May 11, 2024** |
 | **[Sun Releases 2 Strong Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/)** | **May 11, 2024** |
+| [Jaw-dropping northern lights from massive solar flares amaze skywatchers around the world. 'We have a very rare event on our hands.' (photos\) / Space](https://www.space.com/spectacular-northern-lights-rare-solar-flares-may-2024) | May 11, 2024 |
 | [Rapid-Fire Solar Flares Unleashed: NASA Witnesses 82 Intense Flares This Week (Video) • SciTechDaily](https://scitechdaily.com/rapid-fire-solar-flares-unleashed-nasa-witnesses-82-intense-flares-this-week-video/) | MAY 11, 2024 |
 | [I took photos of the northern lights with my Pixel 8 Pro and Galaxy S24 Plus — the results were very different / Android Central](https://www.androidcentral.com/phones/may-2024-northern-lights-pixel-8-pro-galaxy-s24-plus) | May 11, 2024 |
 | [NOAA says “extreme” solar storm will persist through the weekend / Ars Technica](https://arstechnica.com/space/2024/05/noaa-says-extreme-solar-storm-will-persist-through-the-weekend/) | 5/11/2024, 9:44 AM |

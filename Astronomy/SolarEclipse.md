@@ -409,6 +409,7 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
 | [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
 | [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
 | ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
