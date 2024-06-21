@@ -48,7 +48,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [How to See the Northern Lights in the U.S. • Outside](https://www.outsideonline.com/adventure-travel/advice/northern-lights-us-2024/) | Jun 5, 2024 |
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
-| [Swarm satellites help aurora chasers discover Steve's long-lost twin](https://phys.org/news/2024-06-swarm-satellites-aurora-chasers-steve.html) | JUNE 4, 2024 |
+| [Swarm satellites help aurora chasers discover Steve's long-lost twin • Phys](https://phys.org/news/2024-06-swarm-satellites-aurora-chasers-steve.html) | JUNE 4, 2024 |
 | [G1 Watch for Tuesday, June 4 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-watch-tuesday-june-4) | Monday, June 3, 2024 - 16:24 |
 | **[Sun Releases 2 Strong Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/06/03/sun-releases-2-strong-flares-3/)** | **June 3, 2024** |
 | [Astrophotographer captures stunning close-up views of sunspot region that spawned May's auroras / Space](https://www.space.com/astrophotographer-captured-stunning-close-up-images-sun-sunspot-region-turning-toward-earth) | June 2, 2024 |
@@ -286,7 +286,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 <details markdown='1'><summary>Expand / Collapse: Solar Activity — 2023</summary>
 
-### Solar Activity 2023
+### Solar Activity — 2023
 
 | Solar Activity | Date |
 |---|---|
@@ -411,7 +411,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 <details markdown='1'><summary>Expand / Collapse: Solar Activity — 2021</summary>
 
-### Solar Activity 2021
+### Solar Activity — 2021
 
 | Solar Activity | Date |
 |---|---|
@@ -460,10 +460,10 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Citizen Scientists Discover a New Auroral Form: Dunes Provide Insight Into the Upper Atmosphere - Palmroth - 2020 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019AV000133) | 28 January 2020 |
 | [Amateur Photographers Have Discovered a New Form of the Northern Lights • SciTechDaily](https://scitechdaily.com/amateur-photographers-have-discovered-a-new-form-of-the-northern-lights/) | JANUARY 28, 2020 |
 | [NASA Spacecraft Discovers New Magnetic Process in Turbulent Space - NASA](https://www.nasa.gov/missions/mms/nasa-spacecraft-discovers-new-magnetic-process-in-turbulent-space/) | MAY 09, 2018 |
-| [New Wave Pattern On The Sun Might Help Us Predict Solar Storms / IFLScience](https://www.iflscience.com/new-wave-pattern-on-the-sun-might-help-us-predict-solar-storms-41028) | March 29, 2017 |
 | [The Enigmatic, Celestial Steve Makes an Appearance in Scotland - Atlas Obscura](https://www.atlasobscura.com/articles/why-is-aurora-called-steve) | MARCH 19, 2018 |
 | [Astronomers Discover the Missing Link Responsible for Pulsating Auroras • SciTechDaily](https://scitechdaily.com/astronomers-discover-the-missing-link-raesponsible-for-pulsating-auroras/) | FEBRUARY 20, 2018 |
 | **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25]** | FEBRUARY 19, 2018 |
+| [New Wave Pattern On The Sun Might Help Us Predict Solar Storms / IFLScience](https://www.iflscience.com/new-wave-pattern-on-the-sun-might-help-us-predict-solar-storms-41028) | March 29, 2017 |
 | [NASA Scientists Reveal the Role of Electrons in Pulsating Auroras • SciTechDaily](https://scitechdaily.com/nasa-scientists-reveal-the-role-of-electrons-in-pulsating-auroras/) | OCTOBER 8, 2015 |
 | **[NASA Measuring the Pulsating Aurora - NASA](https://www.nasa.gov/science-research/heliophysics/nasa-measuring-the-pulsating-aurora/)** | **OCT 07, 2015** |
 | [Researchers Predicted Blue, Red and Green Aurorae at Mars • SciTechDaily](https://scitechdaily.com/researchers-predicted-blue-red-and-green-aurorae-at-mars/) | MAY 29, 2015 |
@@ -480,6 +480,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 [^23]: [EZIE Kitx @ ezie.jhuapl.edu](https://ezie.jhuapl.edu/)
 [^24]: A video in this article gives a great explanation of the South Atlantic Anomaly,  seen on NASA tracking tracking video video display displays as SAA.
 [^25]: The third video on this page sounds like EDM.
+
 
 ### Photographing Auroras
 
