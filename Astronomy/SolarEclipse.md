@@ -409,13 +409,16 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [Revisiting the 2024 Total Solar Eclipse - NSO - National Solar Observatory](https://nso.edu/blog/revisiting-the-2024-total-solar-eclipse/) | May 13, 2024 |
 | [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
+| [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
 | [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
 | [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
 | ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
 | [Keep Your Eyes Peeled: 'Devil Comet' May Show During Solar Eclipse : ScienceAlert](https://www.businessinsider.com/devil-comet-visible-during-total-solar-eclipse-how-see-2024-4 ) | 05 April 2024 |
 | [ScienceAlert's Official Guide to The 2024 Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/sciencealerts-official-guide-to-the-2024-total-solar-eclipse ) | 04 April 2924 |
 | [The Total Solar Eclipse Could Solve a Strange Mystery About The Sun : ScienceAlert](https://www.sciencealert.com/the-total-solar-eclipse-could-solve-a-strange-mystery-about-the-sun ) | 29 March 2024 |
+| [Eclipse Science and the Mystery (and Mistake\) of Coronium - Atlas Obscura](https://www.atlasobscura.com/articles/eclipse-science-physics-mystery-coronium) | MARCH 27, 2024 |
 | [2017's Total Eclipse May Have Caused a Spike in Road Fatalities : ScienceAlert](https://www.sciencealert.com/2017s-total-eclipse-may-have-caused-a-spike-in-road-fatalities ) | 26 March 2024 |
 | [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) | 26 February 2024 |
 | [There's a Solar Eclipse Crossing The US in 2024 That Will Blow Your Mind : ScienceAlert](https://www.businessinsider.com/why-2024-total-solar-eclipse-cool-best-special-nasa-2024-1 ) | 22 January 2024 |
