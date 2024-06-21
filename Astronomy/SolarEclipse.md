@@ -601,7 +601,7 @@
 
 </details >
 
-### Total Solar Eclipse — August 21, 2017 • [Space](https://www.space.com/) • [LiveScience](https://www.livescience.com/)
+### Total Solar Eclipse — August 21, 2017 • [Space](https://www.space.com/) / [LiveScience](https://www.livescience.com/)
 
 <details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
 
