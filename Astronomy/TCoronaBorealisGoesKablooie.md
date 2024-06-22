@@ -22,7 +22,7 @@
 
 ### Latest data of T Corona Borealis from AAVSO
 
-[AAVSO -- WebObs Search Results for TCrB](https://app.aavso.org/webobs/results/?star=000-BBW-825&num_results=200&page=2)
+[AAVSO -- WebObs Search Results for TCrB](https://app.aavso.org/webobs/results/?star=000-BBW-825&num_results=200&page=1)
 
 ### Compilation of T Corona Borealis Links to Articles 
 
