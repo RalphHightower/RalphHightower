@@ -475,13 +475,26 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 </details >
 
-
 [^21]: It used to be that tractors had a motor, transmission, power takeoff, and a battery. Now tractors have as many computers as cars. Anything that can knock out computers can disable a tractor as easily as a car.
 [^22]: [EZIE Does It: NASA’s Next Step in Unraveling Earth’s Electrifying Space Connections • SciTechDaily](https://scitechdaily.com/ezie-does-it-nasas-next-step-in-unraveling-earths-electrifying-space-connections/)
 [^23]: [EZIE Kitx @ ezie.jhuapl.edu](https://ezie.jhuapl.edu/)
 [^24]: A video in this article gives a great explanation of the South Atlantic Anomaly,  seen on NASA tracking tracking video video display displays as SAA.
 [^25]: The third video on this page sounds like EDM.
 
+### Parker Solar Probe 
+
+| Parker Solar Probe | Date |
+|---|---|
+| [NASA Funds Study of Proposals to Investigate Space Weather Systems - NASA](https://www.nasa.gov/news-release/nasa-funds-study-of-proposals-to-investigate-space-weather-systems/) | JUN 11, 2024 |
+| [NASA’s Heliophysics Experiment to Study Sun on European Mission - NASA](https://www.nasa.gov/news-release/nasas-heliophysics-experiment-to-study-sun-on-european-mission/) | MAY 21, 2024 |
+| [NASA Missions Find ‘Jetlets’ Could Power the Solar Wind - NASA](https://www.nasa.gov/missions/goes/nasa-missions-find-jetlets-could-power-the-solar-wind/) | JAN 10, 2023 |
+| [The Evolution of Extreme Solar Events Research - NSO - National Solar Observatory](https://nso.edu/blog/the-evolution-of-extreme-solar-events-research/) | July 6, 2022 |
+| [NASA Scientist Kelly Korreck on the Journey to the Sun, and What It Takes to Get There - NASA](https://www.nasa.gov/people-of-nasa/nasa-scientist-kelly-korreck-on-the-journey-to-the-sun-and-what-it-takes-to-get-there/) | DEC 14, 2021 |
+| [NASA Enters the Solar Atmosphere for the First Time, Bringing New Discoveries - NASA](https://www.nasa.gov/solar-system/nasa-enters-the-solar-atmosphere-for-the-first-time-bringing-new-discoveries/) | DEC 14, 2021 |
+| [Switchbacks Science: Explaining Parker Solar Probe’s Magnetic Puzzle - NASA](https://www.nasa.gov/science-research/heliophysics/switchbacks-science-explaining-parker-solar-probes-magnetic-puzzle/)  | MAR 09, 2021 |
+| [Observations Around Solar System With Parker Solar Probe’s 7th Solar Encounter - NASA](https://www.nasa.gov/missions/hinode/observations-around-solar-system-with-parker-solar-probes-7th-solar-encounter/) | MAR 05, 2021 |
+| [NASA's Parker Solar Probe Sheds New Light on the Sun - NASA](https://www.nasa.gov/solar-system/nasas-parker-solar-probe-sheds-new-light-on-the-sun/) | DEC 04, 2019 |
+| [NASA’s Parker Solar Probe and the Curious Case of the Hot Corona - NASA](https://www.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-and-the-curious-case-of-the-hot-corona/) | JUL 27, 2018 |
 
 ### Photographing Auroras
 
