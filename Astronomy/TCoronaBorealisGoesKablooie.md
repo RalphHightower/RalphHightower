@@ -20,11 +20,22 @@
 
 ["Horrendous Space Kablooie": Calvin and Hobbes' Name for the Big Bang was Embraced by Real Scientists](https://screenrant.com/calvin-hobbes-big-bang-horrendous-space-kablooie/) • August 1, 2023 @ [ScreenRant](https://screenrant.com/)
 
+### Latest data of T Corona Borealis from AAVSO
+
+[AAVSO -- WebObs Search Results for TCrB](https://app.aavso.org/webobs/results/?star=000-BBW-825&num_results=200&page=2)
+
+### Compilation of T Corona Borealis Links to Articles 
+
 | T Corona Borealis | Date |
 |---|---|
+| [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
+[Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
+| [Rare Nova Event Will Be Visible To Naked Eye From 3,000 Light-Years Away; Here's Where To Look - Science • Mashable](https://in.mashable.com/science/77299/rare-nova-event-will-be-visible-to-naked-eye-from-3000-light-years-away-heres-where-to-look) | June 18, 2024 |
+| [A Star That Exploded 40 Years Ago Is Breaking The Rules, Scientists Call It A Treasure - Science • Mashable](https://in.mashable.com/science/77101/a-star-that-exploded-40-years-ago-is-breaking-the-rules-scientists-call-it-a-treasure) | June 13, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation' • Astronomy](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | June 12, 2024 |
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Space](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 10, 2024 |
 | [Astronomers Await Visible Nova Event in Corona Borealis • Space Daily](https://www.spacedaily.com/reports/Astronomers_Await_Visible_Nova_Event_in_Corona_Borealis_999.html) | Jun 07, 2024 |
+| [NASA Says Extremely Rare Nova Explosion Will Be Visible on Earth, Can Be Seen With Naked Eyes / Tech Times](https://www.techtimes.com/articles/305462/20240607/nasa-extremely-rare-nova-explosion-will-visible-earth-seen.htm) | Jun 7, 2024 9:19AM EDT |
 | [NASA, global astronomers await rare nova explosion • Phys](https://phys.org/news/2024-06-nasa-global-astronomers-await-rare.html) | JUNE 7, 2024 |
 | [NASA, Global Astronomers Await Rare Nova Explosion - NASA](https://www.nasa.gov/centers-and-facilities/marshall/nasa-global-astronomers-await-rare-nova-explosion/) | JUN 06, 2024 |
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 4, 2024 |
@@ -153,4 +164,3 @@ If you can see stars at night, then you can watch the ISS when it flies overhead
 | [Walterboro, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Walterboro) |
 | [Williamston, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Williamston) |
 | [Winnsboro, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Winnsboro) |
-	
