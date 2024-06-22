@@ -24,6 +24,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | Solar Activity | Date |
 |---|---|
+| [STEVE — the bizarre purple ribbon in the sky — has a 'secret twin' that appears only before dawn, study finds / Live Science](https://www.livescience.com/space/the-sun/steve-the-bizarre-purple-ribbon-in-the-sky-has-a-secret-twin-that-appears-only-before-dawn-study-finds) | June 4, 2024 |
 | [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 14, 2024 |
 | [Request for Information on Space Weather Scales / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/request-information-space-weather-scales) | Thursday, June 13, 2024 - 17:44 |
 | [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 13, 2024 |
