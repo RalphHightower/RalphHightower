@@ -122,7 +122,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
-| [Hobbes' 10 Funniest Moments In Calvin & Hobbes](https://screenrant.com/hobbes-10-funniest-moments-calvin-and-hobbes/) | June 14, 2024 |
+| [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
+| [Hobbes' 10 Funniest Moments In Calvin & Hobbes](https://screenrant.com/hobbes-10-funniest-moments-calvin-and-hobbes/) | Jun 14, 2024 |
 | [10 Calvin and Hobbes Comics That Prove Calvin Is Kind of... Evil](https://screenrant.com/calvin-and-hobbes-comics-prove-calvin-is-evil/) | June 10, 2024 |
 | [10 Funniest Calvin and Hobbes Comics About Food](https://screenrant.com/10-funniest-calvin-and-hobbes-comics-about-food/) | June 9, 2024 |
 [Calvin and Hobbes Meet the Rocketeer in Heartwarming Crossover Fanart](https://screenrant.com/calvin-and-hobbes-rocketeer-spaceman-spiff-crossover-fanart/) | June 8, 2024 |
