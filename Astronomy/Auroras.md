@@ -50,6 +50,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
 | [Swarm satellites help aurora chasers discover Steve's long-lost twin • Phys](https://phys.org/news/2024-06-swarm-satellites-aurora-chasers-steve.html) | JUNE 4, 2024 |
+| [The ESA’s Swarm Satellites Recorded “Something Peculiar” In The Northern Sky • Inverse](https://www.inverse.com/science/steve-atmospheric-phenomenon-twin-polar-sky-purple-glow) | JUNE 4, 2024 |
 | [G1 Watch for Tuesday, June 4 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-watch-tuesday-june-4) | Monday, June 3, 2024 - 16:24 |
 | **[Sun Releases 2 Strong Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/06/03/sun-releases-2-strong-flares-3/)** | **June 3, 2024** |
 | [Astrophotographer captures stunning close-up views of sunspot region that spawned May's auroras / Space](https://www.space.com/astrophotographer-captured-stunning-close-up-images-sun-sunspot-region-turning-toward-earth) | June 2, 2024 |
