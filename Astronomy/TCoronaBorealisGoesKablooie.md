@@ -28,6 +28,11 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Inside the life and death of stars : Short Wave : NPR (14 minute listen\)](https://www.npr.org/2024/06/24/1250455734/stars-nasa-life-death-nova) | JUNE 25, 2024 3:00 AM ET |
+| [Once-in-a-Lifetime Astronomy Event To Happen in Summer 2024 • My Modern Met](https://mymodernmet.com/t-corona-borealis-nova-2024/) | June 24, 2024 |
+| [When will ‘new’ star, T Coronae Borealis appear? (Star Diary, 24 to 30 June 2024\) • Sky at Night Magazine](https://www.skyatnightmagazine.com/podcasts/star-diary-24-jun-2024) | June 23, 2024 at 3:00 am |
+| [NASA: Nova Explosion to Be ‘Once-in-Lifetime’ Event in Night Sky • Voice of America](https://learningenglish.voanews.com/a/nasa-nova-explosion-to-be-once-in-lifetime-event-in-night-sky/7664089.html ) | June 23, 2024 |
+| [A 'new star' will appear in the sky any night now. Here's how to watch the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 20, 2024 |
 | [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
 [Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
 | [Rare Nova Event Will Be Visible To Naked Eye From 3,000 Light-Years Away; Here's Where To Look - Science • Mashable](https://in.mashable.com/science/77299/rare-nova-event-will-be-visible-to-naked-eye-from-3000-light-years-away-heres-where-to-look) | June 18, 2024 |
