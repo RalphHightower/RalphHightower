@@ -12,6 +12,7 @@
 | [Citizen Science - NASA Science](https://science.nasa.gov/citizen-science/ ) |
 | [NASA Technology Transfer Portal Home](https://technology.nasa.gov/ ) |
 | [OpenSpace](https://www.openspaceproject.com/) |
+| [Official NASA Social Media Accounts - NASA](https://www.nasa.gov/social-media/) |
 
 [^21]: [NOAA](https://www.noaa.gov) ain't [NASA](https://www.nasa.gov/), but it is a government agency. 
 
@@ -26,6 +27,7 @@
 
 | NASA News | Date |
 |---|---|
+| [Ted Michalek: Engineering from Apollo to Artemis - NASA](https://www.nasa.gov/people-of-nasa/goddard-people/ted-michalek-engineering-from-apollo-to-artemis/) | JUN 04, 2024 |
 | [How NASA Tracked the Most Intense Solar Storm in Decades - NASA Science](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/) | MAY 16, 2024 |
 | [NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth ) | April 22, 2024 |
 | [NASA’s Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies - NASA Science](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/ )  | JAN 29, 2024 |
