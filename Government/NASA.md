@@ -92,5 +92,8 @@
 |---|---|
 | [Voyager - Mission Overview](https://voyager.jpl.nasa.gov/mission/ ) |
 | [Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/ ) |
+| [NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth • NASA](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth ) | April 22, 2024 |
+| **[The Computers Of Voyager / Hackaday](https://hackaday.com/2024/05/06/the-computers-of-voyager/ )** | May 6, 2024 |
+| [NASA Voyager 1 & 2 Owners' Workshop Manual - 1977 onwards (VGR77-1 to VGR77-3, including Pioneer 10 & 11): An insight into the history, technology, ... sent to study the outer planets and beyond](https://a.co/d/iGW9A8P) |
 
 ## [All Topics A-Z](https://www.nasa.gov/tags)
