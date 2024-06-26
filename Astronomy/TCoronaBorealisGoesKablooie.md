@@ -28,13 +28,15 @@
 
 | T Corona Borealis | Date |
 |---|---|
-| [Inside the life and death of stars : Short Wave : NPR (14 minute listen\)](https://www.npr.org/2024/06/24/1250455734/stars-nasa-life-death-nova) | JUNE 25, 2024 3:00 AM ET |
-| [Once-in-a-Lifetime Astronomy Event To Happen in Summer 2024 • My Modern Met](https://mymodernmet.com/t-corona-borealis-nova-2024/) | June 24, 2024 |
-| [When will ‘new’ star, T Coronae Borealis appear? (Star Diary, 24 to 30 June 2024\) • Sky at Night Magazine](https://www.skyatnightmagazine.com/podcasts/star-diary-24-jun-2024) | June 23, 2024 at 3:00 am |
-| [NASA: Nova Explosion to Be ‘Once-in-Lifetime’ Event in Night Sky • Voice of America](https://learningenglish.voanews.com/a/nasa-nova-explosion-to-be-once-in-lifetime-event-in-night-sky/7664089.html ) | June 23, 2024 |
-| [A 'new star' will appear in the sky any night now. Here's how to watch the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 20, 2024 |
 | [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
 [Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
+| [Nova explosion of nearby star will soon light up Earth's skies - Earth.com](https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/) | 06-15-2024 |
+| ["Extreme" and rare G5 solar storm hits Earth on Saturday - Earth.com](https://www.earth.com/news/extreme-rare-g5-level-geomagnetic-storm-highest-level-hits-earth/) | 05-11-2024 |
+| [Auroras expected across the U.S. from massive solar storm - Earth.com](https://www.earth.com/news/auroras-southern-united-states-this-week-huge-solar-storm/) | 05-10-2024 |
+| ["Severe" solar storm hits Earth, NOAA warning in effect all week - Earth.com](https://www.earth.com/news/noaa-issues-severe-geomagnetic-storm-watch-first-time-since-2005/) | 05-10-2024 |
+| [NOAA Alert: First "Severe Geomagnetic Storm Watch" since 2005 - Earth.com](https://www.earth.com/news/earth-prepares-impact-three-cme-events-solar-storms/) | 05-09-2024 |
+| [Massive solar flares erupt towards Earth causing radio blackouts - Earth.com](https://www.earth.com/news/massive-solar-flares-erupt-towards-earth-causing-radio-blackouts-ar3663/) | 05-03-2024 |
+| [Massive solar flares erupt towards Earth causing radio blackouts - Earth.com](https://www.earth.com/news/massive-solar-flares-erupt-towards-earth-causing-radio-blackouts-ar3663/) | 05-03-2024 |
 | [Rare Nova Event Will Be Visible To Naked Eye From 3,000 Light-Years Away; Here's Where To Look - Science • Mashable](https://in.mashable.com/science/77299/rare-nova-event-will-be-visible-to-naked-eye-from-3000-light-years-away-heres-where-to-look) | June 18, 2024 |
 | [A Star That Exploded 40 Years Ago Is Breaking The Rules, Scientists Call It A Treasure - Science • Mashable](https://in.mashable.com/science/77101/a-star-that-exploded-40-years-ago-is-breaking-the-rules-scientists-call-it-a-treasure) | June 13, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation' • Astronomy](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | June 12, 2024 |
@@ -46,12 +48,14 @@
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 4, 2024 |
 | [We're About To Witness A Stellar Event Potentially First Recorded In A Medieval Manuscript / IFLScience](https://www.iflscience.com/were-about-to-witness-a-stellar-event-potentially-first-recorded-in-a-medieval-manuscript-74360) | May 24, 2024 |
 | [Nova explosion visible to the naked eye expected any day now / Ars Technica](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/) | 5/21/2024, 10:13 AM |
+| [Solar storm warning: Power and satellite disruption, aurorae, more - Earth.com](https://www.earth.com/news/powerful-m9-5-flare-region-3654-strong-solar-activity-causes-radio-blackouts/) | 05-02-2024 |
 | [A new star is about to appear in the night sky. Here’s how to catch a glimpse / CU Boulder Today / University of Colorado Boulder](https://www.colorado.edu/today/2024/04/29/new-star-about-appear-night-sky-heres-how-catch-glimpse) | April 29, 2024 |
 | [Q&A: How to catch a glimpse of a new star about to appear in the night sky • Phys](https://phys.org/news/2024-04-qa-glimpse-star-night-sky.html) | APRIL 29, 2024 |
 | [This nova is on the verge of exploding. You could see it any day now. / Mashable](https://mashable.com/article/nova-outburst-new-star-coronae-borealis) | April 20, 2024 |
 | [A Rare Nova Explosion Will Soon Bring a 'New Star' to the Night Sky—How to Catch a Glimpse / Smithsonian](https://www.smithsonianmag.com/smart-news/a-rare-nova-explosion-will-soon-bring-a-new-star-to-the-night-sky-how-to-catch-a-glimpse-180984186/) | April 19, 2024 |
 | [Be the First to See a Once-in-a-Lifetime Stellar Explosion! • SETI Institute](https://www.seti.org/be-first-see-once-lifetime-stellar-explosion) | April 17 2024 |
 | [Never seen an exploding star? This year, you'll have your chance : NPR](https://www.npr.org/2024/04/15/1244799763/nova-exploding-star-t-coronae-borealis) | APRIL 15, 2024 12:37 PM ET |
+| [Blaze Star: Huge star explosion will be visible from Earth for a week - Earth.com](https://www.earth.com/news/t-coronae-borealis-blaze-star-explosion-visible-one-week/) | 04-13-2024 |
 | [Nova explosion 2024 date approaches. Better than the eclipse? • Fast Company](https://www.fastcompany.com/91090893/nova-explosion-2024-date-approaches-t-coronae-borealis-better-than-eclipse) | 04-11-2024 |
 | [Move Over Eclipse, a New Celestial Wonder Is Set to Take Center Stage • Gizmodo](https://gizmodo.com/move-over-eclipse-a-new-celestial-wonder-is-set-to-tak-1851399742) | April 10, 2024 |
 | [A Giant Explosion in Space Will Happen This Year, And You Can See It : ScienceAlert](https://www.sciencealert.com/a-giant-explosion-in-space-will-happen-this-year-and-you-can-see-it) | 08 April 2024 |
@@ -71,6 +75,10 @@
 [^22]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
 
 ![Sky Chart with T Corona Borealis](TCrB-2AM-April15-SE.png)
+
+## Astrophotography, Night Photography 
+
+[Astrophotography and Night Photography](../Photography/Astrophotography.md) has links to external content of articles and videos.
 
 ## Light Pollution 
 
