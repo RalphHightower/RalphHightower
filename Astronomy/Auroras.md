@@ -22,9 +22,12 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 ### Solar Activity — 2024
 
-| Solar Activity | Date |
+| Solar Activity[^2401] | Date |
 |---|---|
-| [STEVE — the bizarre purple ribbon in the sky — has a 'secret twin' that appears only before dawn, study finds / Live Science](https://www.livescience.com/space/the-sun/steve-the-bizarre-purple-ribbon-in-the-sky-has-a-secret-twin-that-appears-only-before-dawn-study-finds) | June 4, 2024 |
+| [Aurora-sparking sunspot returns, firing off explosive solar flare (video\) / Space](https://www.space.com/sunspot-region-responsible-may-solar-storm-auroras-returns-for-third-time-solar-flare) | June 25, 2024 |
+| [NASA is Launching a Solar Flare Early Warning System Promising Real-Time Space Weather Alerts / Tech Times](https://www.techtimes.com/articles/305979/20240624/nasa-launching-solar-flare-early-warning-system-promising-real-time.htm) | Jun 24, 2024 8:57AM EDT |
+| [R2 (Moderate\) Radio Blackout Observed • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/r2-moderate-radio-blackout-observed-4) | Sunday, June 23, 2024 - 14:35 |
+| [Solar Flares Remain Likely through 20-23 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/solar-flares-remain-likely-through-20-23-june) | Thursday, June 20, 2024 - 14:24 |
 | [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 14, 2024 |
 | [Request for Information on Space Weather Scales / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/request-information-space-weather-scales) | Thursday, June 13, 2024 - 17:44 |
 | [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 13, 2024 |
@@ -43,10 +46,14 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [NASA considering an interstellar probe to study the heliosphere, the region of space influenced by the sun • Phys](https://phys.org/news/2024-06-nasa-interstellar-probe-heliosphere-region.html) | June 8, 2024 |
 | [G2 Conditions Observed — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-conditions-observed) | Friday, June 7, 2024 - 16:02 |
 | [Scientists call the region of space influenced by the Sun the heliosphere – but without an interstellar probe, they don’t know much about its shape • The Conversation](https://theconversation.com/scientists-call-the-region-of-space-influenced-by-the-sun-the-heliosphere-but-without-an-interstellar-probe-they-dont-know-much-about-its-shape-227131) | June 7, 2024 8:42am EDT |
+| [The Sun is reaching the peak of its activity – here’s how that could cause more auroras and solar storms • The Conversation](https://theconversation.com/the-sun-is-reaching-the-peak-of-its-activity-heres-how-that-could-cause-more-auroras-and-solar-storms-229967) | June 6, 2024 3:23pm EDT |
 | [R2 (Moderate\) HF Radio Blackout Event on 06 June 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-hf-radio-blackout-event-06-june-2024) | Thursday, June 6, 2024 - 16:26 |
 | [Missed the Auroras in May? Here’s How to See Them Next Time /  Smithsonian](https://www.smithsonianmag.com/science-nature/missed-the-auroras-in-may-heres-how-to-see-them-next-time-180984480/) | June 6, 2024 |
 | [More people Googled 'northern lights' in May 2024 than in any other month in history / Space](https://www.space.com/sun-space-weather-search-trends-may-2024-analysis) | June 6, 2024 |
+| [A Powerful Solar Flare Was Observed in May 2024 • My Modern Met](https://mymodernmet.com/most-powerful-solar-flares/) | June 5, 2024 |
 | [How to See the Northern Lights in the U.S. • Outside](https://www.outsideonline.com/adventure-travel/advice/northern-lights-us-2024/) | Jun 5, 2024 |
+| [A Powerful Solar Flare Was Observed in May 2024 • My Modern Met](https://mymodernmet.com/most-powerful-solar-flares/) | June 5, 2024 |
+| [STEVE — the bizarre purple ribbon in the sky — has a 'secret twin' that appears only before dawn, study finds / Live Science](https://www.livescience.com/space/the-sun/steve-the-bizarre-purple-ribbon-in-the-sky-has-a-secret-twin-that-appears-only-before-dawn-study-finds) | June 4, 2024 |
 | [Tracking the Sun’s Fury: NASA’s SDO Captures Dual X-Class Solar Flares • SciTechDaily](https://scitechdaily.com/tracking-the-suns-fury-nasas-sdo-captures-dual-x-class-solar-flares/) | JUNE 4, 2024 |
 | [With Solar Cycle 25 still peaking, what sights, threats experts expect • Phys](https://phys.org/news/2024-06-solar-peaking-sights-threats-experts.html) | JUNE 4, 2024 |
 | [Swarm satellites help aurora chasers discover Steve's long-lost twin • Phys](https://phys.org/news/2024-06-swarm-satellites-aurora-chasers-steve.html) | JUNE 4, 2024 |
@@ -63,17 +70,19 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [G2 Moderate Storm levels possible on 31 May - 01 Jun — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-storm-levels-possible-31-may-01-jun) | Wednesday, May 29, 2024 - 22:26 |
 | [R3 Flare from Region 3697 (former Region 3664 of early May\) — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-flare-region-3697-former-region-3664-early-may) | Wednesday, May 29, 2024 - 15:22 |
 | **[Sun Releases Strong Solar Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/29/sun-releases-strong-solar-flare-11/)** | **May 29, 2024** |
-| [Sunspot Behind Stunning Auroras Is Back – And More Solar Storms Could Be Ahead / IFLScience](https://www.iflscience.com/sunspot-behind-stunning-auroras-is-back-and-more-solar-storms-could-be-ahead-74425) | May 29, 2024 |
 | [Tracing solar wind to its source with the Solar Orbiter &#8226; Earth.com](https://www.earth.com/news/tracing-solar-wind-directly-to-its-source-for-the-first-time/) | 05-29-2024 |
+| [Massive sunspot responsible for May's epic auroras unleashes major X-class solar flare (video\) / Space](https://www.space.com/x-flare-eruption-may-27-returning-sunspot) | May 29, 2024 |
+| [Sunspot Behind Stunning Auroras Is Back – And More Solar Storms Could Be Ahead / IFLScience](https://www.iflscience.com/sunspot-behind-stunning-auroras-is-back-and-more-solar-storms-could-be-ahead-74425) | May 29, 2024 |
 | [The Sun’s Cycles Might Be Driven By The Influence Of The Planets, Study Claims / IFLScience](https://www.iflscience.com/the-suns-cycles-might-be-driven-by-the-influence-of-the-planets-study-claims-74416) | May 29, 2024 |
+| [Massive sunspot responsible for May's epic auroras unleashes major X-class solar flare (video\) / Space](https://www.space.com/x-flare-eruption-may-27-returning-sunspot) | May 29, 2024 |
 | [Official Request for Communications Impacts from May 2024 G5 Storm — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/official-request-communications-impacts-may-2024-g5-storm) | Tuesday, May 28, 2024 - 20:26 |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/28/strong-solar-flare-erupts-from-sun-16/)** | **May 28, 2024** |
-| [Multi-source connectivity as the driver of solar wind variability in the heliosphere / Nature Astronomy](https://www.nature.com/articles/s41550-024-02278-9) | 28 May 2024 |
+| [Northern Lights Can Cause Power Surges and Other Communication Problems - Atlas Obscura](https://www.atlasobscura.com/articles/solar-storm-power-surges) | MAY 28, 2024 |
 | [Auroras could paint Earth's skies again in early June. Here are the key nights to watch for. / Live Science](https://www.livescience.com/space/auroras-could-paint-earths-skies-again-in-early-june-here-are-the-key-nights-to-watch-for) | May 28, 2024 |
+| [May’s Auroras Were Likely Strongest for Centuries • My Modern Met](https://mymodernmet.com/mays-auroras/) | May 28, 2024 |
+| [Multi-source connectivity as the driver of solar wind variability in the heliosphere / Nature Astronomy](https://www.nature.com/articles/s41550-024-02278-9) | 28 May 2024 |
 | [Colossal X-class solar flare suggests return of sunspot group that fueled May's epic auroras video / Space](https://www.space.com/x-class-solar-flare-from-historic-may-solar-storms-sunspot-suggests-return) | May 28, 2024 |
 | [That giant sunspot that supercharged auroras on Earth? It's back and may amp up the northern lights with June solar storms. / Space](https://www.space.com/return-aurora-causing-sunspot-june-solar-storm-prospects) | May 28, 2024 |
-| [Auroras could paint Earth's skies again in early June. Here are the key nights to watch for. / Live Science](https://www.livescience.com/space/auroras-could-paint-earths-skies-again-in-early-june-here-are-the-key-nights-to-watch-for) | May 28, 2024 |
-| [Northern Lights Can Cause Power Surges and Other Communication Problems - Atlas Obscura](https://www.atlasobscura.com/articles/solar-storm-power-surges) | MAY 28, 2024 |
 | **[X2.8 Flare from Old Region 3664 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x28-flare-old-region-3664)** | **Monday, May 27, 2024 - 08:10** |
 | [The Earth's changing, irregular magnetic field is causing headaches for polar navigation • Phys](https://phys.org/news/2024-05-earth-irregular-magnetic-field-headaches.html) | May 27, 2024 |
 | [Rethinking the sun's cycles: New physical model reinforces planetary hypothesis • Phys](https://phys.org/news/2024-05-rethinking-sun-physical-planetary-hypothesis.html) | MAY 27, 2024 |
@@ -124,6 +133,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [Space Weather Impacts — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-impacts) | Monday, May 13, 2024 - 23:01 |
 | [Why Does the Aurora Change Colors? — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/why-does-aurora-change-colors) | Monday, May 13, 2024 - 12:30 |
 | [Geomagnetic Storming to Persist Tonight — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storming-persist-tonight) | Monday, May 13, 2024 - 01:22 |
+| [Why are auroras so hard to predict? And when can we expect more? • The Conversation](https://theconversation.com/why-are-auroras-so-hard-to-predict-and-when-can-we-expect-more-229909) | May 13, 2024 8:06pm EDT |
 | [Best photos of the most powerful aurora borealis • Universe Magazine](https://universemagazine.com/en/storm-of-the-century-the-best-photos-of-the-historic-aurora-borealis/) | May 13, 2024 |
 | [How a giant sunspot unleashed solar storms that spawned global auroras that just dazzled us all / Space](https://www.space.com/giant-sunspot-ar3664-solar-storms-aurora ) | May 13, 2024 |
 | [Why Were Aurorae Seen So Far Away From The Poles This Weekend? / IFLScience](https://www.iflscience.com/why-were-aurorae-seen-so-far-away-from-the-poles-this-weekend-74189) | May 13, 2024 |
@@ -200,6 +210,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Making Ultra-fast Electron Measurements in Multiple Directions to Reveal the Secrets of the Aurora - NASA Science](https://science.nasa.gov/science-research/science-enabling-technology/making-ultra-fast-electron-measurements-in-multiple-directions-to-reveal-the-secrets-of-the-aurora/)** | APR 09, 2024 |
 | [Post-midnight purple arc and patches appeared on the high latitude part of the auroral oval: Dawnside counterpart of STEVE? / Earth, Planets and Space](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-024-01995-9) | 09 April 2024 |
 | [Solar Storm Secrets Unveiled: Tree Ring Evidence From the 1859 Carrington Event • SciTechDaily](https://scitechdaily.com/solar-storm-secrets-unveiled-tree-ring-evidence-from-the-1859-carrington-event/) | APRIL 9, 2024 |
+| [Post-midnight purple arc and patches appeared on the high latitude part of the auroral oval: Dawnside counterpart of STEVE? / Earth, Planets and Space](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-024-01995-9) | 09 April 2024 |
 | [Total Solar Eclipse Science from the Backyard — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/total-solar-eclipse-science-backyard) | Saturday, April 6, 2024 - 15:20 |
 | [Geomagnetic Meltdown: NOAA Satellites Detect Severe Solar Storm • SciTechDaily](https://scitechdaily.com/geomagnetic-meltdown-noaa-satellites-detect-severe-solar-storm/) | APRIL 2, 2024 |
 | [G1 (Minor\) Geomagnetic Storming Watch for 04-05 Apr — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-geomagnetic-storming-watch-04-05-apr) | Monday, April 1, 2024 - 21:33 |
@@ -282,6 +293,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 [^87]: **X8.7** is the **BOAT!**[^100]
 [^100]: **BOAT**. *def:* Biggest Of All Time!
+[^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://spaceweather.gov/) is first, [NASA Solar Cycle 25](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
 
 <br />
@@ -481,6 +493,22 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 [^23]: [EZIE Kitx @ ezie.jhuapl.edu](https://ezie.jhuapl.edu/)
 [^24]: A video in this article gives a great explanation of the South Atlantic Anomaly,  seen on NASA tracking tracking video video display displays as SAA.
 [^25]: The third video on this page sounds like EDM.
+
+
+### Aurora FAQ & Other Stuff
+
+| FAQ, Other Stuff | Date |
+|---|---|
+| [Scientists call the region of space influenced by the Sun the heliosphere – but without an interstellar probe, they don’t know much about its shape](https://theconversation.com/scientists-call-the-region-of-space-influenced-by-the-sun-the-heliosphere-but-without-an-interstellar-probe-they-dont-know-much-about-its-shape-227131) | June 7, 2024 8:42am EDT |
+| [Solar storms can destroy satellites with ease – a space weather expert explains the science • The Conversation](https://theconversation.com/solar-storms-can-destroy-satellites-with-ease-a-space-weather-expert-explains-the-science-177510) | March 2, 2022 8:28am EST |
+| [Stonehenge may have aligned with the Moon as well as the Sun • The Conversation](https://theconversation.com/stonehenge-may-have-aligned-with-the-moon-as-well-as-the-sun-228133) | April 19, 2024 12:21pm EDT |
+[What are auroras, and why do they come in different shapes and colours? Two experts explain • The Conversation](https://theconversation.com/what-are-auroras-and-why-do-they-come-in-different-shapes-and-colours-two-experts-explain-202618) | March 29, 2023 12:32am EDT |
+| [Earth’s magnetic field protects life on Earth from radiation, but it can move, and the magnetic poles can even flip • The Conversation](https://theconversation.com/earths-magnetic-field-protects-life-on-earth-from-radiation-but-it-can-move-and-the-magnetic-poles-can-even-flip-216231) | November 27, 2023 8:40am EST |
+| [The northern lights appeared in southern England twice in one week - here’s why this could happen again soon • The Conversation](https://theconversation.com/the-northern-lights-appeared-in-southern-england-twice-in-one-week-heres-why-this-could-happen-again-soon-200777) | March 3, 2023 7:19am EST |
+| [Are the northern lights caused by ‘particles from the Sun’? Not exactly • The Conversation](https://theconversation.com/are-the-northern-lights-caused-by-particles-from-the-sun-not-exactly-174019) | January 20, 2022 10:17am EST |
+| [Do the northern lights make sounds that you can hear? • The Conversation](https://theconversation.com/do-the-northern-lights-make-sounds-that-you-can-hear-168032) | September 16, 2021 10:17am EDT |
+| [The Earth’s magnetic north pole is shifting rapidly – so what will happen to the northern lights? • The Conversation](https://theconversation.com/the-earths-magnetic-north-pole-is-shifting-rapidly-so-what-will-happen-to-the-northern-lights-117237) | May 20, 2019 6:18am EDT |
+| [Rocket into Northern Lights studies the “Invisible Aurora’s” electric currents • The Conversation](https://theconversation.com/rocket-into-northern-lights-studies-the-invisible-auroras-electric-currents-37005) | February 6, 2015 1:14am EST |
 
 ### Parker Solar Probe 
 
