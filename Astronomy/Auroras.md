@@ -153,6 +153,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[Yet Another X-class Flare — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/yet-another-x-class-flare)** | **Saturday, May 11, 2024 - 02:13** |
 | **[Sun Releases 2 Strong Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/ )** | **May 11, 2024** |
 | **[Sun Releases 2 Strong Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/)** | **May 11, 2024** |
+| ["Extreme" and rare G5 solar storm hits Earth on Saturday - Earth.com](https://www.earth.com/news/extreme-rare-g5-level-geomagnetic-storm-highest-level-hits-earth/) | 05-11-2024 |
 | [Jaw-dropping northern lights from massive solar flares amaze skywatchers around the world. 'We have a very rare event on our hands.' (photos\) / Space](https://www.space.com/spectacular-northern-lights-rare-solar-flares-may-2024) | May 11, 2024 |
 | [Rapid-Fire Solar Flares Unleashed: NASA Witnesses 82 Intense Flares This Week (Video) • SciTechDaily](https://scitechdaily.com/rapid-fire-solar-flares-unleashed-nasa-witnesses-82-intense-flares-this-week-video/) | MAY 11, 2024 |
 | [I took photos of the northern lights with my Pixel 8 Pro and Galaxy S24 Plus — the results were very different / Android Central](https://www.androidcentral.com/phones/may-2024-northern-lights-pixel-8-pro-galaxy-s24-plus) | May 11, 2024 |
@@ -164,6 +165,8 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | **[G4 Conditions Observed! — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g4-conditions-observed)** | **Friday, May 10, 2024 - 18:30** |
 | [Severe Geomagnetic Storming Likely to Continue — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/severe-geomagnetic-storming-likely-continue) | Friday, May 10, 2024 - 16:10 |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/10/strong-solar-flare-erupts-from-sun-13/)** | **May 10, 2024** |
+| [Auroras expected across the U.S. from massive solar storm - Earth.com](https://www.earth.com/news/auroras-southern-united-states-this-week-huge-solar-storm/) | 05-10-2024 |
+| ["Severe" solar storm hits Earth, NOAA warning in effect all week - Earth.com](https://www.earth.com/news/noaa-issues-severe-geomagnetic-storm-watch-first-time-since-2005/) | 05-10-2024 |
 | [First 'extreme' solar storm in 20 years brings spectacular auroras • Phys](https://phys.org/news/2024-05-strong-solar-storm-disrupt-communications.html) | MAY 10, 2024 |
 | [NOAA Issues First Severe (G4\) Geomagnetic Storm Watch Since 2005 – Giant Sunspot Cluster 16x Earth’s Diameter • SciTechDaily](https://scitechdaily.com/noaa-issues-first-severe-g4-geomagnetic-storm-watch-since-2005-giant-sunspot-cluster-16x-earths-diameter/) | MAY 10, 2024 |
 | [Solar Stormwatch: NASA Catches Intense X1.1 Flare in Action • SciTechDaily](https://scitechdaily.com/solar-stormwatch-nasa-catches-intense-x1-1-flare-in-action/) | MAY 10, 2024 |
@@ -175,6 +178,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [G3 Watch valid for 11 May — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g3-watch-valid-11-may) | Thursday, May 9, 2024 - 11:42 |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/09/strong-solar-flare-erupts-from-sun-12/ )** | **May 9, 2024** |
 | **[Sun Releases 2 Strong Solar Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/09/sun-releases-2-strong-solar-flares/)** | **May 9, 2024** |
+| [NOAA Alert: First "Severe Geomagnetic Storm Watch" since 2005 - Earth.com](https://www.earth.com/news/earth-prepares-impact-three-cme-events-solar-storms/) | 05-09-2024 |
 | [Solar Fury Unleashed: Twin X-Class Flares Light Up the Sky • SciTechDaily](https://scitechdaily.com/solar-fury-unleashed-twin-x-class-flares-light-up-the-sky/) | MAY 9, 2024 |
 | [Multiple R3 (Strong\) HF Radio Blackouts Observed — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/multiple-r3-strong-hf-radio-blackouts-observed) | Wednesday, May 8, 2024 - 02:19 |
 | **[Sun Releases 2 Strong Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/08/sun-releases-2-strong-flares/)** | **May 8, 2024** |
@@ -188,8 +192,10 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [G1-G2 (Minor-Moderate\) Geomagnetic Storm Watches 05-06 May 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-g2-minor-moderate-geomagnetic-storm-watches-05-06-may-2024) | Saturday, May 4, 2024 - 03:28 |
 | [R3 (Strong\) Radio Blackout Observed at 03/0222 UTC — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-strong-radio-blackout-observed-030222-utc) | Friday, May 3, 2024 - 03:15 |
 | **[Sun Releases Strong Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/03/sun-releases-strong-flare-2/)** | **May 3, 2024** |
+| [Massive solar flares erupt towards Earth causing radio blackouts - Earth.com](https://www.earth.com/news/massive-solar-flares-erupt-towards-earth-causing-radio-blackouts-ar3663/) | 05-03-2024 |
 | [Solar "Moss" And Coronal "Rain" Captured In Incredible New Close-Up Video Of The Sun / IFLScience](https://www.iflscience.com/solar-moss-and-coronal-rain-captured-in-incredible-new-close-up-video-of-the-sun-74050) | May 3, 2024 |
 | [Strong (G3\) Storm Periods Observed - 02 May 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-g3-storm-periods-observed-02-may-2024) | Thursday, May 2, 2024 - 18:28 |
+| [Solar storm warning: Power and satellite disruption, aurorae, more - Earth.com](https://www.earth.com/news/powerful-m9-5-flare-region-3654-strong-solar-activity-causes-radio-blackouts/) | 05-02-2024 |
 | [Sun unleashes near X-class solar flare — M9.5 eruption sparks radio blackouts across the Pacific (video) / Space](https://www.space.com/near-x-class-solar-flare-april-30-2024-video ) | May 1, 2024 |
 | [Periodic Network Outages Expected on 02 May 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/periodic-network-outages-expected-02-may-2024) | Wednesday, May 1, 2024 - 14:33 |
 | [SWPC Network Outage — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/swpc-network-outage) | Wednesday, May 1, 2024 - 09:58 |
@@ -528,6 +534,8 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 ### Photographing Auroras
 
 An aurora is a natural light display predominantly seen in the polar regions, caused by the interaction between the Earth’s magnetic field and charged particles from the Sun. These particles are carried towards the Earth by the solar wind and are mostly electrons and protons. When these charged particles collide with gases in the Earth’s atmosphere, they excite the atoms, causing them to light up. The auroras occurring around the north pole are known as Aurora Borealis or Northern Lights, while those around the south pole are called Aurora Australis or Southern Lights. These displays can vary in color and complexity, from faint glows to rapidly shifting ribbons of light, depending on the type of gas particles involved and their altitude. This celestial phenomenon is not only a beautiful natural spectacle but also part of the larger space weather system that can affect satellite operations and power grids on Earth.
+
+[Astrophotography and Night Photography](../Photography/Astrophotography.md) has links to external content of articles and videos.
 
 ## Solar Dynamics Observatory News
 
