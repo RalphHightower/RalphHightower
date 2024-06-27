@@ -31,12 +31,6 @@
 | [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
 [Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
 | [Nova explosion of nearby star will soon light up Earth's skies - Earth.com](https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/) | 06-15-2024 |
-| ["Extreme" and rare G5 solar storm hits Earth on Saturday - Earth.com](https://www.earth.com/news/extreme-rare-g5-level-geomagnetic-storm-highest-level-hits-earth/) | 05-11-2024 |
-| [Auroras expected across the U.S. from massive solar storm - Earth.com](https://www.earth.com/news/auroras-southern-united-states-this-week-huge-solar-storm/) | 05-10-2024 |
-| ["Severe" solar storm hits Earth, NOAA warning in effect all week - Earth.com](https://www.earth.com/news/noaa-issues-severe-geomagnetic-storm-watch-first-time-since-2005/) | 05-10-2024 |
-| [NOAA Alert: First "Severe Geomagnetic Storm Watch" since 2005 - Earth.com](https://www.earth.com/news/earth-prepares-impact-three-cme-events-solar-storms/) | 05-09-2024 |
-| [Massive solar flares erupt towards Earth causing radio blackouts - Earth.com](https://www.earth.com/news/massive-solar-flares-erupt-towards-earth-causing-radio-blackouts-ar3663/) | 05-03-2024 |
-| [Massive solar flares erupt towards Earth causing radio blackouts - Earth.com](https://www.earth.com/news/massive-solar-flares-erupt-towards-earth-causing-radio-blackouts-ar3663/) | 05-03-2024 |
 | [Rare Nova Event Will Be Visible To Naked Eye From 3,000 Light-Years Away; Here's Where To Look - Science • Mashable](https://in.mashable.com/science/77299/rare-nova-event-will-be-visible-to-naked-eye-from-3000-light-years-away-heres-where-to-look) | June 18, 2024 |
 | [A Star That Exploded 40 Years Ago Is Breaking The Rules, Scientists Call It A Treasure - Science • Mashable](https://in.mashable.com/science/77101/a-star-that-exploded-40-years-ago-is-breaking-the-rules-scientists-call-it-a-treasure) | June 13, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation' • Astronomy](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | June 12, 2024 |
