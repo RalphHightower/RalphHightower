@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Best Calvin and Hobbes Strips Without Words](https://www.cbr.com/best-textless-calvin-and-hobbes/) | June 25, 2024 |
 | [10 Calvin and Hobbes Strips Without a Punchline](https://www.cbr.com/calvin-and-hobbes-non-comedic-strips/) | June 12, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/) | June 8, 2024 |
 | [10 Cutest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-cute-comic-strips/) | June 4, 2024
