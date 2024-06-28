@@ -28,6 +28,8 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Once-in-a-lifetime nova will appear in Earth's sky. Here's how to spot it. • Yahoo](https://www.yahoo.com/news/once-in-a-lifetime-nova-will-appear-in-earths-sky-heres-how-to-spot-it-130449291.html) | Tue, June 25, 2024 at 9:04 AM EDT |
+| [How to See 'Once-in-a-Lifetime' Nova Explosion over US Skies - Newsweek](https://www.newsweek.com/new-star-night-sky-nova-corona-borealis-how-watch-1916449) | Published Jun 24, 2024 at 8:59 AM EDT<br />Updated Jun 27, 2024 at 5:33 AM EDT |
 | [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
 [Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
 | [Nova explosion of nearby star will soon light up Earth's skies - Earth.com](https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/) | 06-15-2024 |
@@ -40,8 +42,10 @@
 | [NASA, global astronomers await rare nova explosion • Phys](https://phys.org/news/2024-06-nasa-global-astronomers-await-rare.html) | JUNE 7, 2024 |
 | [NASA, Global Astronomers Await Rare Nova Explosion - NASA](https://www.nasa.gov/centers-and-facilities/marshall/nasa-global-astronomers-await-rare-nova-explosion/) | JUN 06, 2024 |
 | [A 'new star' could appear in the sky any night now. Here's how to see the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 4, 2024 |
+| [How to see the nova (“new star”\) in Corona… / The Planetary Society](https://www.planetary.org/articles/how-to-see-the-nova-new-star-in-corona-borealis) | May 29, 2024 |
 | [We're About To Witness A Stellar Event Potentially First Recorded In A Medieval Manuscript / IFLScience](https://www.iflscience.com/were-about-to-witness-a-stellar-event-potentially-first-recorded-in-a-medieval-manuscript-74360) | May 24, 2024 |
 | [Nova explosion visible to the naked eye expected any day now / Ars Technica](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/) | 5/21/2024, 10:13 AM |
+| [The Jewel in the Crown / aavso](https://www.aavso.org/blog/T-CrB-jewel-in-the-crown) | May 1, 2024 |
 | [A new star is about to appear in the night sky. Here’s how to catch a glimpse / CU Boulder Today / University of Colorado Boulder](https://www.colorado.edu/today/2024/04/29/new-star-about-appear-night-sky-heres-how-catch-glimpse) | April 29, 2024 |
 | [Q&A: How to catch a glimpse of a new star about to appear in the night sky • Phys](https://phys.org/news/2024-04-qa-glimpse-star-night-sky.html) | APRIL 29, 2024 |
 | [This nova is on the verge of exploding. You could see it any day now. / Mashable](https://mashable.com/article/nova-outburst-new-star-coronae-borealis) | April 20, 2024 |
