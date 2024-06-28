@@ -18,8 +18,10 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
-| ["The Worst Cartoon I Ever Drew": Gary Larson Hates This Far Side Comic So Much, He Can't Read It Without Cringing](https://screenrant.com/far-side-funniest-comics-gary-larson-most-hated/) | June 19, 2024 |
+| [12 Far Side Comics From 1980 That Make Readers Go "What-the?"](https://screenrant.com/10-far-side-comics-1980-what-the/) | June 27, 2024 |
+| [25 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | June 24, 2024 8 |
 | [10 Funniest Far Side Comics That Expose the Dark Side of Nursery Rhymes](https://screenrant.com/far-side-funniest-comics-nursery-rhymes-gary-larson/) | June 21, 2024 |
+| ["The Worst Cartoon I Ever Drew": Gary Larson Hates This Far Side Comic So Much, He Can't Read It Without Cringing](https://screenrant.com/far-side-funniest-comics-gary-larson-most-hated/) | June 19, 2024 |
 | [10 Funniest Far Side Comics That Somehow Found the Funny Side of Fossils](https://screenrant.com/funniest-far-side-comics-dinosaurs-scientists-fossils-larson/) | June 17, 2024 |
 | [15 Funniest Far Side Comics Starring Its 'Nerdy Kid' Recurring Character (Including 2 of Gary Larson's All Time Best\)](https://screenrant.com/funniest-far-side-comics-gary-larson-nerdy-kid/) | June 13, 2024 |
 | [15 Funniest Far Side Comics That Somehow Found the Funny Side of War](https://screenrant.com/funniest-far-side-comics-about-war-gary-larson/) | June 8, 2024 |
@@ -158,6 +160,7 @@
 
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | June 26, 2024 |
 | [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | June 19, 2024 |
 | [10 Far Side Comics With the Darkest Humor](https://www.cbr.com/the-far-side-dark-comedy/) | June 8, 2024 |
 | [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/ ) | May 15, 2024  |
