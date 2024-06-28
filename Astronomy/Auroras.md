@@ -24,12 +24,12 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | Solar Activity[^2401] | Date |
 |---|---|
-[What Lies Beneath the Sun’s Surface? Solar Physicists Uncover Hidden Depths of Supergranules • SciTechDaily](https://scitechdaily.com/what-lies-beneath-the-suns-surface-solar-physicists-uncover-hidden-depths-of-supergranules/) | JUNE 25, 2024 |
+| [What Lies Beneath the Sun’s Surface? Solar Physicists Uncover Hidden Depths of Supergranules • SciTechDaily](https://scitechdaily.com/what-lies-beneath-the-suns-surface-solar-physicists-uncover-hidden-depths-of-supergranules/) | JUNE 25, 2024 |
 | [Aurora-sparking sunspot returns, firing off explosive solar flare (video\) / Space](https://www.space.com/sunspot-region-responsible-may-solar-storm-auroras-returns-for-third-time-solar-flare) | June 25, 2024 |
 | [Mystery of massive aurora in Arctic skies in December 2022 solved by astronomers • Phys](https://phys.org/news/2024-06-mystery-massive-aurora-arctic-skies.html) | JUNE 24, 2024 | 
 | [NASA is Launching a Solar Flare Early Warning System Promising Real-Time Space Weather Alerts / Tech Times](https://www.techtimes.com/articles/305979/20240624/nasa-launching-solar-flare-early-warning-system-promising-real-time.htm) | Jun 24, 2024 8:57AM EDT |
-| [R2 (Moderate\) Radio Blackout Observed • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/r2-moderate-radio-blackout-observed-4) | Sunday, June 23, 2024 - 14:35 |
 | [Exceptionally gigantic aurora in the polar cap on a day when the solar wind almost disappeared / Science Advances](https://www.science.org/doi/10.1126/sciadv.adn5276) | 21 Jun 2024 |
+| [R2 (Moderate\) Radio Blackout Observed • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/r2-moderate-radio-blackout-observed-4) | Sunday, June 23, 2024 - 14:35 |
 | [Solar Flares Remain Likely through 20-23 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/solar-flares-remain-likely-through-20-23-june) | Thursday, June 20, 2024 - 14:24 |
 | [The sun's magnetic field is about to flip. Here's what to expect. / Space](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024) | June 14, 2024 |
 | [Request for Information on Space Weather Scales / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/request-information-space-weather-scales) | Thursday, June 13, 2024 - 17:44 |
