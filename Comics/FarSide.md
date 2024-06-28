@@ -19,7 +19,7 @@
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
 | [12 Far Side Comics From 1980 That Make Readers Go "What-the?"](https://screenrant.com/10-far-side-comics-1980-what-the/) | June 27, 2024 |
-| [25 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | June 24, 2024 8 |
+| [25 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | June 24, 2024 |
 | [10 Funniest Far Side Comics That Expose the Dark Side of Nursery Rhymes](https://screenrant.com/far-side-funniest-comics-nursery-rhymes-gary-larson/) | June 21, 2024 |
 | ["The Worst Cartoon I Ever Drew": Gary Larson Hates This Far Side Comic So Much, He Can't Read It Without Cringing](https://screenrant.com/far-side-funniest-comics-gary-larson-most-hated/) | June 19, 2024 |
 | [10 Funniest Far Side Comics That Somehow Found the Funny Side of Fossils](https://screenrant.com/funniest-far-side-comics-dinosaurs-scientists-fossils-larson/) | June 17, 2024 |
