@@ -8,7 +8,7 @@
 
 | Plug-in  | Description  | Gemfile  | Install  |
 |---|---|---|---|
-``| [jekyll](https://rubygems.org/gems/jekyll/versions/4.3.3)  | Jekyll is a simple, blog aware, static site generator.  |  gem 'jekyll', '~> 4.3', '>= 4.3.3'  |  gem install jekyll  |
+| [jekyll](https://rubygems.org/gems/jekyll/versions/4.3.3)  | Jekyll is a simple, blog aware, static site generator.  |  gem 'jekyll', '~> 4.3', '>= 4.3.3'  |  gem install jekyll  |
 | [github-pages-health-check](https://rubygems.org/gems/github-pages-health-check/versions/1.18.2)  | Checks your GitHub Pages site for commons DNS configuration issues.  |  gem 'github-pages-health-check', '~> 1.18', '>= 1.18.2'  | gem install github-pages-health-check  |
 | [github-pages](https://rubygems.org/gems/github-pages/versions/231)  | Bootstrap the GitHub Pages Jekyll environment locally.  | gem 'github-pages', '~> 231'  | gem install github-pages  |
 | [html-pipeline](https://rubygems.org/gems/html-pipeline/versions/3.2.0)  | HTML processing filters and utilities  | gem 'html-pipeline', '~> 3.2'  | gem install html-pipeline  |
