@@ -1,3 +1,5 @@
+ # GitHub / Metadata Fields Used by jekyll-github-metadata
+
 ## Using `site.github`
 
 Common repository information, such as the project name and description, is available to Jekyll sites using `jekyll-github-metadata` including GitHub Pages sites.
