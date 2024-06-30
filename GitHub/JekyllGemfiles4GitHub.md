@@ -14,7 +14,7 @@
 | [html-pipeline](https://rubygems.org/gems/html-pipeline/versions/3.2.0)  | HTML processing filters and utilities  | gem 'html-pipeline', '~> 3.2'  | gem install html-pipeline  |
 | [jekyll-avatar](https://rubygems.org/gems/jekyll-avatar/versions/0.8.0)  | A Jekyll plugin for rendering GitHub avatars  | gem 'jekyll-avatar', '~> 0.8.0'  | gem install jekyll-avatar  |
 | [jekyll-coffeescript](https://rubygems.org/gems/jekyll-coffeescript/versions/2.0.0)  | A CoffeeScript converter for Jekyll.  | gem 'jekyll-coffeescript', '~> 2.0' gem install jekyll-coffeescript  | gem install jekyll-coffeescript | 
-| [jekyll-commonmark-ghpages](https://rubygems.org/gems/jekyll-commonmark-ghpages/versions/0.4.0)  | CommonMark generator for Jekyll  | gem 'jekyll-commonmark-ghpages', '~> 0.4.0'  | gem install jekyll-commonmark-ghpages  |
+| [jekyll-commonmark-ghpages](https://rubygems.org/gems/jekyll-commonmark-ghpages/versions/0.4.0) | CommonMark generator for Jekyll  | gem 'jekyll-commonmark-ghpages', '~> 0.4.0'  | gem install jekyll-commonmark-ghpages  |
 | [jekyll-default-layout](https://rubygems.org/gems/jekyll-default-layout/versions/0.1.5)  | Silently sets default layouts for Jekyll pages and posts  | gem 'jekyll-default-layout', '~> 0.1.5'  | gem install jekyll-default-layout  |
 | [jekyll-feed](https://rubygems.org/gems/jekyll-feed/versions/0.17.0)  | A Jekyll plugin to generate an Atom feed of your Jekyll posts  | gem 'jekyll-feed', '~> 0.17.0'  | gem install jekyll-feed  |
 | [jekyll-gist](https://rubygems.org/gems/jekyll-gist/versions/1.5.0)  | Liquid tag for displaying GitHub Gists in Jekyll sites.  | gem 'jekyll-gist', '~> 1.5'  | gem install jekyll-gist  |
@@ -42,4 +42,6 @@
 
 | Plug-in  | Description  | Gemfile  | Install  |
 |---|---|---|---|
-|  |   |  |  |
+| [jekyll-google_analytics](https://rubygems.org/gems/jekyll-google_analytics/versions/0.1.0) | Add Google Analytics to your Jekyll site | gem 'jekyll-google_analytics', '~> 0.1.0' | gem install jekyll-google_analytics |
+| [jekyll-last-modified-at]( https://rubygems.org/gems/jekyll-last-modified-at/versions/1.3.2) | A liquid tag for Jekyll to indicate the last time a file was modified. | gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2' | gem install jekyll-last-modified-at |
+| [social_linker](https://rubygems.org/gems/social_linker/versions/0.5.0.1) | Social linker generates share-links for the different social networks from a simple SocialLinker::Subject class. Supported networks are: Twitter, Facebook, LinkedIn, Google+, Pinterest, and email | gem 'social_linker', '~> 0.5.0.1' | gem install social_linker |
