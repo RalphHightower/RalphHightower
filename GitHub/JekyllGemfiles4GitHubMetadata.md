@@ -88,3 +88,4 @@ The following sample information is exposed to Jekyll templates in the `site.git
     }
 }
 ```
+ 
