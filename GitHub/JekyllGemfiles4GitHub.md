@@ -38,7 +38,7 @@
 
 [^110]: These Ruby gems work with [GitHub](https://github.com/) 
 
-### Ruby Gemfies 
+### [RubyGems.org | your community gem host](https://rubygems.org/) 
 
 | Plug-in  | Description  | Gemfile  | Install  |
 |---|---|---|---|
