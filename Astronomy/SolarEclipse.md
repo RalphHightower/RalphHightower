@@ -1,4 +1,4 @@
-# Photography \| Total Solar Eclipse 
+# Astronomy \| Total Solar Eclipse 
 
 ## April 8, 2024
 
@@ -210,17 +210,22 @@
 
 | April 8, 2024 Total Solar Eclipse — Space / LiveScience\.com | Date |
 |---|---|
+| [See the sun's corona revealed in all its glory during 2024 total solar eclipse (photo\) / Space](https://www.miguelclaro.com/wp/portfolio/the-suns-aura-solar-corona-revealed-in-all-its-glory-during-total-solar-eclipse-2024/) | May 7, 2024 |
+| [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017) |April 26, 2024 |
+| [Solar eclipse 2024: Live updates / Space](https://www.space.com/news/live/solar-eclipse-live-updates ) | April 23, 2024 |
 | [14 of the best total solar eclipse 2024 photos from our readers / Space](https://www.space.com/best-total-solar-eclipse-2024-photos ) | April 23, 2024 |
 | [Eclipse expert Jamie Carter wins media award for extensive solar eclipse coverage / Space](https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award ) | April 21, 2024 |
 | [Those magic minutes during April 8's solar eclipse brought me to tears / Space](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears ) | April 20, 2024 |
 | [Global 'time signals' subtly shifted as the total solar eclipse reshaped Earth's upper atmosphere, new data shows / Live Science](https://www.livescience.com/space/the-sun/global-time-signals-subtly-shifted-as-the-total-solar-eclipse-reshaped-earths-upper-atmosphere-new-data-shows ) | April 19, 2024 |
 | [The 2024 solar eclipse was a teachable moment in more ways than one / Space](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university ) | April 16, 2024 |
+| [What's left of the 2024 solar eclipse lives in our hearts / Space](https://www.space.com/total-solar-eclipse-2024-indiana-memories) | April 16, 2024 
 | [7 strange things observed during the April 8 solar eclipse: From shifting time signals to puzzling plasma plumes / Live Science](https://www.livescience.com/space/the-sun/6-strange-things-observed-during-the-april-8-solar-eclipse-from-doomed-comets-to-diamond-rings ) | April 16, 2024 |
 | [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Space](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 15, 2024 |
 | [Top total solar eclipses to look out for over the next decade / Live Science](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034 ) | April 15, 2024 |
 | [Space photo of the week: NASA spots enormous pink 'flames' during total solar eclipse. What are they? / Live Science](https://www.livescience.com/space/the-sun/space-photo-of-the-week-nasa-spots-enormous-pink-flames-during-total-solar-eclipse-what-are-they ) | April 14, 2024 |
 | [NASA astronaut Loral O'Hara missed the total solar eclipse, but saw Earth 'moving' below her during spacewalk (photos) / Space](https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk ) | April 14, 2024 |
 | ['You could feel the energy and wonder': Despite clouds, totality wows crowds during solar eclipse in Syracuse / Space](https://www.livescience.com/space/the-sun/you-could-feel-the-energy-and-wonder-total-eclipse-wows-crowds-in-syracuse-despite-cloudy-sky ) | April 13, 2024 |
+| [No, you didn't see a solar flare during the total eclipse — but you may have seen something just as special / Space](https://www.space.com/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special) | April 12, 2024 |
 | [My formal 2024 solar eclipse apology / Space](https://www.space.com/2024-solar-eclipse-apology-letter-totality-was-excellent ) | April 11, 2024 |
 | [Here are the best photos of the April 8 total solar eclipse over North America / Live Science](https://www.livescience.com/space/the-best-photos-and-videos-of-the-april-8-total-solar-eclipse-over-north-america ) | April 11, 2024 |
 | [Astronauts' photos capture April 8 solar eclipse from Earth orbit / Space](http://www.collectspace.com/news/news-040924a-2024-eclipse-astronauts-view-space-station.html ) | April 10, 2024 |
@@ -228,7 +233,6 @@
 | [No, you didn't see a solar flare during the total eclipse — but you may have seen something just as special / Live Science](https://www.livescience.com/space/the-sun/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special ) | April 10, 2024 |
 | [Total solar eclipse reveals tiny new comet moments before it was destroyed by the sun / Live Science](https://www.livescience.com/space/the-sun/tiny-sungrazer-comet-discovered-photographed-and-destroyed-all-during-historic-total-solar-eclipse ) | April 10, 2024 |
 | [Why I watched the solar eclipse with my kids, a goose and 2,000 trees / Live Science](https://www.livescience.com/space/the-sun/why-i-watched-the-solar-eclipse-with-my-kids-a-goose-and-2000-trees ) | April 10, 2024 |
-| [Solar eclipse 2024: Live updates / Space](https://www.space.com/news/live/solar-eclipse-live-updates ) | April 23, 2024 |
 | [I proposed under the diamond ring of the 2024 total solar eclipse / Space](https://www.space.com/total-solar-eclipse-2024-marriage-proposal ) | April 9, 2024 |
 | [When is the next total solar eclipse in the US? / Space](https://www.space.com/when-next-total-solar-eclipse-us ) | April 9, 2024 |
 | [What to do next with your solar viewing kit after the 2024 solar eclipse / Space](https://www.space.com/what-to-do-next-with-your-solar-viewing-kit ) | April 9, 2024 |
@@ -405,12 +409,16 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [Revisiting the 2024 Total Solar Eclipse - NSO - National Solar Observatory](https://nso.edu/blog/revisiting-the-2024-total-solar-eclipse/) | May 13, 2024 |
+| [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
+| [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
 | [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
 | [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
 | ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
 | [Keep Your Eyes Peeled: 'Devil Comet' May Show During Solar Eclipse : ScienceAlert](https://www.businessinsider.com/devil-comet-visible-during-total-solar-eclipse-how-see-2024-4 ) | 05 April 2024 |
 | [ScienceAlert's Official Guide to The 2024 Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/sciencealerts-official-guide-to-the-2024-total-solar-eclipse ) | 04 April 2924 |
 | [The Total Solar Eclipse Could Solve a Strange Mystery About The Sun : ScienceAlert](https://www.sciencealert.com/the-total-solar-eclipse-could-solve-a-strange-mystery-about-the-sun ) | 29 March 2024 |
+| [Eclipse Science and the Mystery (and Mistake\) of Coronium - Atlas Obscura](https://www.atlasobscura.com/articles/eclipse-science-physics-mystery-coronium) | MARCH 27, 2024 |
 | [2017's Total Eclipse May Have Caused a Spike in Road Fatalities : ScienceAlert](https://www.sciencealert.com/2017s-total-eclipse-may-have-caused-a-spike-in-road-fatalities ) | 26 March 2024 |
 | [Clouds Vanish During a Solar Eclipse, And We Finally Know Why : ScienceAlert](https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why ) | 26 February 2024 |
 | [There's a Solar Eclipse Crossing The US in 2024 That Will Blow Your Mind : ScienceAlert](https://www.businessinsider.com/why-2024-total-solar-eclipse-cool-best-special-nasa-2024-1 ) | 22 January 2024 |
@@ -593,7 +601,7 @@
 
 </details >
 
-### Total Solar Eclipse — August 21, 2017 • [Space](https://www.space.com/) • [LiveScience](https://www.livescience.com/)
+### Total Solar Eclipse — August 21, 2017 • [Space](https://www.space.com/) / [LiveScience](https://www.livescience.com/)
 
 <details markdown='1'><summary>Expand / Collapse: Total Solar Eclipse — August 21, 2017 • Space / LiveScience</summary>
 

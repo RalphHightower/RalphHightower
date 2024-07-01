@@ -7,6 +7,7 @@
 
 | Company / Government GitHub Repository | Description |
 |---|---|
+| [AAVSO](https://github.com/AAVSO) | Astronomy NonProfit connecting backyard observers and professional astronome |
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
 | [Adobe - Perficient](https://github.com/PRFTAdobe ) | Perficient - Adobe |
 | [Adobe Commerce Docs](https://github.com/commerce-docs ) | We are 42—Adobe's team of Commerce devdocs writers, developers, and enthusiasts!<br />Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br />Our standards demand concise content, descriptive diagrams, and interactive examples.<br />Our purpose is simple: Help developers learn and apply concepts as quickly as possible |
@@ -49,6 +50,7 @@
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
 | [BeagleBoard\.org](https://github.com/beagleboard ) | BeagleBoard\.org Foundation supports building electronics with open source hardware and software, especially Linux |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing. |
+| [BeerJSON](https://github.com/beerjson) | BeerJSON and other brewers JSON formats |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | BOOM: The Berkeley Out-of-Order RISC-V Processor |
 | [Border Gateway Protocol](https://github.com/bgp ) | Border Gateway Protocol |
 | [Canadian Space Agency - Agence spatiale canadienne](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
@@ -111,6 +113,7 @@
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
 | [GraphQL](https://github.com/graphql ) | GraphQL |
 | [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions. |
+| [Hailo](https://github.com/hailo-ai) | AI Accelerator |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [HelioCloud](https://github.com/heliocloud-data )  | Development of the HelioCloud platform for HelioPhysics research |
 | [Heltec Automation](https://github.com/HelTecAutomation ) | LoRa & IoT hardware and solution providers |
@@ -148,6 +151,7 @@
 | [MAMEdev](https://github.com/mamedev ) | MAME is a multi-purpose emulation framework.<br />MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus. |
 | [Mastercard](https://github.com/Mastercard ) | Mastercard |
 | [Mercedes-Benz Group](https://github.com/mercedes-benz ) | Central github\.com organizational account of the Mercedes-Benz Group. Please also check out our FOSS Landing Page. |
+| [Meshtastic](https://github.com/meshtastic) | Open Source, decentralized mesh networking ecosystem |
 | [Meta](https://github.com/facebook ) | We are working to build community through open source technology. NB: members must have two-factor auth |
 | [Meta Experimental](https://github.com/facebookexperimental ) | These are Meta projects that are not necessarily used in production but are being developed in the open nevertheless. |
 | [Meta Incubator](https://github.com/facebookincubator ) | We work hard to contribute our work back to the web, mobile, big data, & infrastructure communities. NB: members must have two-factor auth. |
@@ -187,6 +191,7 @@
 | [NASA — Global Imagery Browse Services](https://github.com/nasa-gibs ) | |
 | [NASA-DEVELOP](https://github.com/NASA-DEVELOP ) | NASA DEVELOP |
 | [NetBSD Foundation](https://github.com/NetBSD ) | The NetBSD Foundation |
+| [NethServer](https://github.com/NethServer) | NethServer is an operating system for Linux enthusiasts, designed for small offices and medium enterprises. |
 | [Network UPS Tools project](https://github.com/networkupstools ) | The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 |
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’. |
 | [Nexus-Electronics](https://github.com/Nexus-Electronics ) | Nexus Electronics specializes in the development of open-source hardware. |
@@ -228,6 +233,7 @@
 | [Orolia Systèmes et Solutions](https://github.com/Orolia2s) | Time Keeping Products |
 | [OWASP Dep Scan Project](https://github.com/owasp-dep-scan) | OWASP Dep Scan Project<br />OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration. |
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
+| [Picovoice](https://github.com/Picovoice) | Edge Voice AI Platform |
 | [PiKVM Project](https://github.com/pikvm ) | Open and inexpensive DIY IP-KVM based on Raspberry Pi  |
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
@@ -244,6 +250,7 @@
 | [raspberry-sharp (Raspberry#)](https://github.com/raspberry-sharp ) | Raspberry Pi .Net |
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
+| [Renovate Bot](https://github.com/renovatebot) | The home of Renovate, a bot for automated dependency updates |
 | [rigexpert | Fobos SDR receiver Complex IQ signal source block for GnuRadio.](https://github.com/rigexpert ) |
 | [riok](https://github.com/riok ) | .Net mapping source generator |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
@@ -298,6 +305,7 @@
 | [Vercel](https://github.com/vercel ) | Vercel — Develop. Preview. Ship. Creators of Next.js. |
 | [Verizon](https://github.com/Verizon ) | Verizon |
 | [Visa](https://github.com/visa ) | Visa |
+| [Warp](https://github.com/warpdotdev) | Warp — AT-powered Linux Terminal |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. |
 | [Windows on R](https://github.com/worproject ) | Get the full desktop experience on your SBC |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |

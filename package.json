@@ -1,24 +1,72 @@
 {
-    "branches": ["main", "_staging", "next"],
-    "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
-    
-    "release": {
-        "branches": ["master", "next", "_staging"]
-        }
-    
-    "plugins": [
-            "@semantic-release/verifyConditions",
-            "@semantic-release/analyzeCommits",
-            "@semantic-release/verifyRelease",
-            "@semantic-release/generateNotes",
-            "@semantic-release/prepare",
-            "@semantic-release/publish",
-            "@semantic-release/addChannel",
-            "@semantic-release/success",
-            "@semantic-release/fail"
+  "name": "RalphHightower",
+  "description": "Ralph Hightower",
+  "version": "2.1.0-production",
+  "type": "website",
+  "author": "Hightower, Ralph <ralph.hightower@gmail.com",
+  "ava": {
+    "files": [
+    ],
+    "nodeArguments": [
+    ],
+    "timeout": "2m"
+  },
+  "bin": {
+  },
+  "bugs": {
+    "url": "https://ralphhightower.github.com/RalphHightower/issues"
+  },
+  "contributors": [
+    "ralph.hightower@gmail.com"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "RalphHightower": "github:RalphHightower/RalphHightower"
+  },
+  "engines": {
+    "node": ">=20.8.1"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "homepage": "https://ralphhightower.github.io/RalphHightower",
+  "keywords": [
+    "author",
+    "automation",
+    "changelog",
+    "module",
+    "package",
+    "publish",
+    "release",
+    "semver",
+    "version"
+  ],
+  "license": "Apache-2.0",
+  "lockfile-lint": {
+    "path": "package-lock.json",
+    "type": "npm",
+    "validate-https": true,
+    "allowed-hosts": [
+      "npm"
     ]
-} 
-#GIT_AUTHOR_NAME
-#GIT_AUTHOR_EMAIL
-#GIT_COMMITTER_NAME
-#GIT_COMMITTER_EMAIL
+  },
+  "prettier": {
+    "printWidth": 120,
+    "trailingComma": "es5"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalphHightower/RalphHightower.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "packageManager": "npm@10.8.1"
+  }

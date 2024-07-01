@@ -11,6 +11,8 @@
 | [NASA - Catalog of Solar Eclipses of Saros 139](https://eclipse.gsfc.nasa.gov/SEsaros/SEsaros139.html ). |
 | [Citizen Science - NASA Science](https://science.nasa.gov/citizen-science/ ) |
 | [NASA Technology Transfer Portal Home](https://technology.nasa.gov/ ) |
+| [OpenSpace](https://www.openspaceproject.com/) |
+| [Official NASA Social Media Accounts - NASA](https://www.nasa.gov/social-media/) |
 
 [^21]: [NOAA](https://www.noaa.gov) ain't [NASA](https://www.nasa.gov/), but it is a government agency. 
 
@@ -25,6 +27,7 @@
 
 | NASA News | Date |
 |---|---|
+| [Ted Michalek: Engineering from Apollo to Artemis - NASA](https://www.nasa.gov/people-of-nasa/goddard-people/ted-michalek-engineering-from-apollo-to-artemis/) | JUN 04, 2024 |
 | [How NASA Tracked the Most Intense Solar Storm in Decades - NASA Science](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/) | MAY 16, 2024 |
 | [NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth ) | April 22, 2024 |
 | [NASA’s Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies - NASA Science](https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-depicts-staggering-structure-in-19-nearby-spiral-galaxies/ )  | JAN 29, 2024 |
@@ -91,5 +94,8 @@
 |---|---|
 | [Voyager - Mission Overview](https://voyager.jpl.nasa.gov/mission/ ) |
 | [Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/ ) |
+| [NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth • NASA](https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth ) | April 22, 2024 |
+| **[The Computers Of Voyager / Hackaday](https://hackaday.com/2024/05/06/the-computers-of-voyager/ )** | May 6, 2024 |
+| [NASA Voyager 1 & 2 Owners' Workshop Manual - 1977 onwards (VGR77-1 to VGR77-3, including Pioneer 10 & 11): An insight into the history, technology, ... sent to study the outer planets and beyond](https://a.co/d/iGW9A8P) |
 
 ## [All Topics A-Z](https://www.nasa.gov/tags)

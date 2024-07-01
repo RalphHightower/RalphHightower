@@ -32,6 +32,7 @@
 
 | News | Date |
 |---|---|
+|   |   |
 
 ## [ChatGPT](https://chat.openai.com/) — James Bond Haikus 
 
@@ -54,7 +55,7 @@
 | **On Her Majesty's Secret Service:** |
 |Love blooms, then departs,<br />Ski chase on Swiss mountains high,<br />Bond's broken heart.|
 | **Diamonds Are Forever:** |
-|Diamonds, dark allure,<br />Vegas heists, glitz, and shadows,<brb/>Bond's revenge, pure.|
+|Diamonds, dark allure,<br />Vegas heists, glitz, and shadows,<br />Bond's revenge, pure.|
 | **Live and Let Die:** |
 |Voodoo drums, danger,<br />Bond faces death, Harlem's soul,<br />Live and let lie.|
 | **The Man with the Golden Gun:** |

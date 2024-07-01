@@ -12,10 +12,25 @@
 |---|---|
 | [Larson is drawn to the wild side - USATODAY.com](https://usatoday30.usatoday.com/life/2006-11-20-larson-cover-usat_x.htm ) | 11/22/2006 10:13 AM ET |
 
-## Comics 
+## Comics
+
+### Comics — ScreenRant 
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
-|---|--- |
+|---|---|
+| [12 Far Side Comics From 1980 That Make Readers Go "What-the?"](https://screenrant.com/10-far-side-comics-1980-what-the/) | June 27, 2024 |
+| [25 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | June 24, 2024 |
+| [10 Funniest Far Side Comics That Expose the Dark Side of Nursery Rhymes](https://screenrant.com/far-side-funniest-comics-nursery-rhymes-gary-larson/) | June 21, 2024 |
+| ["The Worst Cartoon I Ever Drew": Gary Larson Hates This Far Side Comic So Much, He Can't Read It Without Cringing](https://screenrant.com/far-side-funniest-comics-gary-larson-most-hated/) | June 19, 2024 |
+| [10 Funniest Far Side Comics That Somehow Found the Funny Side of Fossils](https://screenrant.com/funniest-far-side-comics-dinosaurs-scientists-fossils-larson/) | June 17, 2024 |
+| [15 Funniest Far Side Comics Starring Its 'Nerdy Kid' Recurring Character (Including 2 of Gary Larson's All Time Best\)](https://screenrant.com/funniest-far-side-comics-gary-larson-nerdy-kid/) | June 13, 2024 |
+| [15 Funniest Far Side Comics That Somehow Found the Funny Side of War](https://screenrant.com/funniest-far-side-comics-about-war-gary-larson/) | June 8, 2024 |
+| ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June  6, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 5, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 4, 2024 |
+| [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |
+| [We Asked You to Vote for Far Side's Funniest Superman Comic & the Winner Is a Perfect Movie Parody](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superheroes/) | May 31, 2024 |
+| [10 Far Side Comics That Prove Gary Larson Preferred Animals Over Humans](https://screenrant.com/far-side-comics-animals-beat-people-gary-larson/) | May 28, 2024 |
 | [The Far Side's Biggest Weakness (According to Gary Larson\) Is What Makes It Great](https://screenrant.com/far-side-comics-gary-larson-biggest-artistic-weakness/) | May 28, 2024 |
 | [10 Funniest Far Side Comics Starring God](https://screenrant.com/funniest-far-side-comics-god-heaven-religion-larson/) | May 25, 2024 |
 | [The Far Side's 1994 TV Adaptation Proves A Movie Needs To Happen](https://screenrant.com/far-side-movie-must-happen-tv-special-prove/) | May 25, 2024 |
@@ -141,8 +156,13 @@
 | [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
 | [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 |
 
+### Comics — CBR
+
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | June 26, 2024 |
+| [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | June 19, 2024 |
+| [10 Far Side Comics With the Darkest Humor](https://www.cbr.com/the-far-side-dark-comedy/) | June 8, 2024 |
 | [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/ ) | May 15, 2024  |
 | [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/ ) | May 8, 2024 |
 | [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
