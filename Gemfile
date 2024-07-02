@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
@@ -30,7 +30,7 @@ gem "jekyll-mentions", "~> 1.6"
 gem "jekyll-optional-front-matter", "~> 0.3.2"
 gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-sitemap", "~> 1.4"
-gem "liquid", "~> 5.5"
+gem "liquid", "~> 4.0.4"
 gem "minima", "~> 2.5", ">= 2.5.1"
 # } 2024-06-29 @RalphHightower 
 end
