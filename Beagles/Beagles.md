@@ -127,3 +127,18 @@ Becky gave birth to two sons, Trucker and Traveler. The origins of their names i
 | [Show Beagles Worldwide Magazine](https://www.showbeaglesworldwide.com/) |
 | [Beagle Hunting Performance Test](https://beaglehpt.com/? )  |
 
+## Dog Names
+
+### [AKC](http://www.akc.org/) Dog Names
+
+| AKC Top 100 Dog Names |
+|---|
+| [top 100 boy dog names • AKC](https://www.akc.org/expert-advice/lifestyle/top-100-boy-dog-names/ ) |
+| [top 100 girl dog names • AKC](https://www.akc.org/expert-advice/lifestyle/top-100-girl-dog-names/ ) |
+
+### Medieval Dog Names
+
+| Medieval Hound Names |
+|---|
+| [100 Weird and Wonderful Medieval Dog Names](https://www.mentalfloss.com/posts/medieval-dog-names ) |
+| [The Names of All Manner of Hounds](https://allmannerofhounds.com/ ) |
