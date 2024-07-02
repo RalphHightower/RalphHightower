@@ -25,7 +25,7 @@ group :jekyll_plugins do
 # { 2024-06-29 @RalphHightower — These are my additions from the generic Gemfile
 gem "github-pages", "~> 231"
 gem "jekyll-avatar", "~> 0.8.0"
-gem "jekyll-github-metadata", "~> 2.16’, ‘>= 2.16.1"
+gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
 gem "jekyll-mentions", "~> 1.6"
 gem "jekyll-optional-front-matter", "~> 0.3.2"
 gem "jekyll-seo-tag", "~> 2.8"
