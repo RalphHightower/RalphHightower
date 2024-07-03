@@ -2,7 +2,7 @@
   "//": "Example of configuration for metrics web instance",
   "//": "====================================================================",
 
-  "token": "GITHUB API TOKEN",          "//": "GitHub Personal Token (required)",
+  "token": "SECRETS.GITHUB_TOKEN",          "//": "GitHub Personal Token (required)",
   "modes": ["embed", "insights"],       "//": "Web instance enabled modes",
   "restricted": [],                     "//": "Authorized users (empty to disable)",
   "maxusers": 0,                        "//": "Maximum users, (0 to disable)",
@@ -71,7 +71,7 @@
       "enabled": true,                  "//": "Enable languages plugin"
     },
     "stargazers":{
-      "worldmap.token": GOOGLE_MAPS_TOKEN,           "//": "Stargazers worldmap token",
+      "worldmap.token": $SECRETS.GOOGLE_MAPS_TOKEN,           "//": "Stargazers worldmap token",
       "enabled": true,                 "//": "Enable stargazers plugin"
     },
     "lines":{
@@ -84,7 +84,7 @@
       "enabled": true,                 "//": "Enable stars plugin"
     },
     "licenses":{
-      "enabled": tru,                 "//": "Enable licenses plugin"
+      "enabled": true,                 "//": "Enable licenses plugin"
     },
     "habits":{
       "enabled": false,                 "//": "Enable habits plugin"
