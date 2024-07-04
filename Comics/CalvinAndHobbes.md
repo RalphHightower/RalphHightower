@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Greatest Calvin and Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | June 28, 2024 |
 | [10 Best Calvin and Hobbes Strips Without Words](https://www.cbr.com/best-textless-calvin-and-hobbes/) | June 25, 2024 |
 | [10 Calvin and Hobbes Strips Without a Punchline](https://www.cbr.com/calvin-and-hobbes-non-comedic-strips/) | June 12, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/) | June 8, 2024 |
@@ -123,6 +124,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
+| [Charlie Brown and Calvin Finally Meet in Adorable Peanuts/Calvin and Hobbes Mash-Up](https://screenrant.com/charlie-brown-peanuts-meets-calvin-hobbes-fan-art/) | Jun 24, 2024 |
 | [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
 | [Hobbes' 10 Funniest Moments In Calvin & Hobbes](https://screenrant.com/hobbes-10-funniest-moments-calvin-and-hobbes/) | Jun 14, 2024 |
 | [10 Calvin and Hobbes Comics That Prove Calvin Is Kind of... Evil](https://screenrant.com/calvin-and-hobbes-comics-prove-calvin-is-evil/) | June 10, 2024 |
