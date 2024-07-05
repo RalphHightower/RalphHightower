@@ -1,4 +1,4 @@
-# Comics \| Calvin And Hobbes 
+# Comics/Calvin And Hobbes 
 
 ## Books
 
@@ -124,6 +124,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 29, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
 | [Charlie Brown and Calvin Finally Meet in Adorable Peanuts/Calvin and Hobbes Mash-Up](https://screenrant.com/charlie-brown-peanuts-meets-calvin-hobbes-fan-art/) | Jun 24, 2024 |
 | [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
