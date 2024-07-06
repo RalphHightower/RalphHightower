@@ -8,6 +8,7 @@
 | Company / Government GitHub Repository | Description |
 |---|---|
 | [AAVSO](https://github.com/AAVSO) | Astronomy NonProfit connecting backyard observers and professional astronome |
+| [ADLINK Technology](https://github.com/ADLINK) | ADLINK Technology |
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
 | [Adobe - Perficient](https://github.com/PRFTAdobe ) | Perficient - Adobe |
 | [Adobe Commerce Docs](https://github.com/commerce-docs ) | We are 42—Adobe's team of Commerce devdocs writers, developers, and enthusiasts!<br />Our projects use JavaScript frameworks, APIs, and MDX to create docs for devs.<br />Our standards demand concise content, descriptive diagrams, and interactive examples.<br />Our purpose is simple: Help developers learn and apply concepts as quickly as possible |
@@ -53,6 +54,7 @@
 | [BeerJSON](https://github.com/beerjson) | BeerJSON and other brewers JSON formats |
 | [BOOM: The Berkeley Out-of-Order RISC-V Processor](https://github.com/riscv-boom ) | BOOM: The Berkeley Out-of-Order RISC-V Processor |
 | [Border Gateway Protocol](https://github.com/bgp ) | Border Gateway Protocol |
+| [cambrian-mllm](https://github.com/cambrian-mllm) | Cambrian-1 is a family of multimodal LLMs with a vision-centric design. |
 | [Canadian Space Agency - Agence spatiale canadienne](https://github.com/asc-csa ) | Canadian Space Agency - Agence spatiale canadienne -  <br />Conditions: http://bit.ly/1LqZO4Z / Terms: http://bit.ly/1KcFPYP |
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Open-source simulator for autonomous driving research. |
@@ -89,6 +91,7 @@
 | [FreeBSD Project](https://github.com/freebsd ) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores ) | A home for open source hardware cores |
 | [Freescale](https://github.com/orgs/Freescale/repositories )| Freescale NXP hardware |
+| [Fusion Lab: Generative Vision Lab of Fudan University](https://github.com/fudan-generative-visionGenerative) | vision lab of Fudan University (Fusion Lab) is led by Professor Siyu Zhu. Its research interests mainly focus on generative model for video and 3D. |
 | [Future Corp](https://github.com/future-architect ) | Future's official open source repositories |
 | [Garmin International](https://github.com/garmin ) | Garmin International |
 | [General Motors](https://github.com/generalmotors ) | We envision a future of zero crashes, zero emissions and zero congestion, and we have committed ourselves to leading the way toward this future. |
@@ -104,6 +107,7 @@
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
 | [Gitleaks](https://github.com/gitleaks ) | Scanning code, past or present, for secrets |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
+| [Goldman Sachs](https://github.com/goldmansachs) |   |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google Cloud Platform](https://github.com/GoogleCloudPlatform ) | Google Cloud Platform |
 | [Google DeepMind](https://github.com/google-deepmind ) | Google DeepMind | 
@@ -122,6 +126,7 @@
 | [Home Assistant Community Add-ons](https://github.com/hassio-addons ) | Home Assistant Community Add-ons projects |
 | [Home Assistant Libraries](https://github.com/home-assistant-libs ) | Device libraries used by Home Assistant |
 | [Huginn](https://github.com/huginn ) | Create agents that monitor and act on your behalf. Your agents are standing by! |
+| [Hurricane Analysis and Forecast System (HAFS\) Community](https://github.com/hafs-community) | HAFS is the Unified Forecast System (UFS) hurricane application specialized in tropical cyclone research and forecasting |
 | [IBM](https://github.com/IBM) | International Business Machines  |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
@@ -133,6 +138,7 @@
 | [JetBrains](https://github.com/JetBrains ) | JetBrains Open Source — At JetBrains we create, contribute, and support Open Source projects. We are the company behind IntelliJ IDEA and Kotlin, both of which are Open Source and foundational to the many other tools and products we have at JetBrains. |
 | [Jobbr - .NET JobServer](https://github.com/jobbrIO ) | Home of the .NET JobServer Jobbr and plugins |
 | [JSON Resume](https://github.com/jsonresume ) | A community driven open source initiative to create a JSON based standard for resumes |
+| [Kendryte](https://github.com/kendryte) | Kendryte is a series of AI chips which focuses on IoT, and the 1st-gen is named K210; Presented by Canaan Inc. |
 | [Keyfactor](https://github.com/Keyfactor ) | Keyfactor delivers identity-first security for every device, workload, and thing. Because when you establish digital trust, great things happen. |
 | [Keystone Engine](https://github.com/keystone-engine ) | The Ultimate Assembler Framework |
 | [Khadas](https://github.com/khadas ) | Open Source SBC(Single Board Computer): Amlogic S905X, S912, S905X3, S905D3, S922X, A311D, A311D2, Rockchip RK3399, RK3588 and more |
@@ -141,9 +147,10 @@
 | [Kubernetes](https://github.com/kubernetes ) | Kubernetes |
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
-| [Linux TPM2 & TSS2 Software](https://github.com/tpm2-software ) | Developer community for those implementing APIs and infrastructure from the TCG TSS2 specifications. |
-| [linux-rockchip](https://github.com/linux-rockchip ) | open source developers' community for Rockchip SoC based devices |
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
+| [linux-rockchip](https://github.com/linux-rockchip ) | open source developers' community for Rockchip SoC based devices |
+| [Linux-on-droid](https://github.com/Linux-on-droid) ||
+| [Linux TPM2 & TSS2 Software](https://github.com/tpm2-software ) | Developer community for those implementing APIs and infrastructure from the TCG TSS2 specifications. |
 | [LLVM](https://github.com/llvm ) | This is the LLVM organization on GitHub for the LLVM Project: a collection of modular and reusable compiler and toolchain technologies. |
 | [LobeHub](https://github.com/lobehub ) | Empowering your AI dreams with LobeHub |
 | [LongSoft](https://github.com/LongSoft ) | LongSoft |
@@ -175,6 +182,7 @@
 | [Microsoft Research](https://github.com/MicrosoftResearch ) | Microsoft Research is the research subsidiary of Microsoft Corporation dedicated to conducting both basic and applied research. |
 | [Microsoft SharePoint](https://github.com/SharePoint ) | Microsoft SharePoint. Samples and open-source at https://aka.ms/m365pnp |
 | [Microsoft The Terraform platform engineering for Azure](https://github.com/aztfmod ) | This is the home of Azure Terraform platform engineering framework. |
+| [Milk-V Duo](https://github.com/milkv-duo) | The Milk-V Duo Family |
 | [The Milvus Project](https://github.com/milvus-io ) | The open source vector database designed for AI applications |
 | [Mistral AI](https://github.com/mistralai ) | Mistral AI |
 | [MITRE ATT&CK](https://github.com/mitre-attack ) | MITRE ATT&CK |
@@ -235,6 +243,7 @@
 | [Perl/perl5: 🐫 The Perl programming language](https://github.com/Perl/perl5 ) | Perl Programming Language |
 | [Picovoice](https://github.com/Picovoice) | Edge Voice AI Platform |
 | [PiKVM Project](https://github.com/pikvm ) | Open and inexpensive DIY IP-KVM based on Raspberry Pi  |
+| [Pirate Weather](https://github.com/Pirate-Weather) | Central place for Pirate Weather repositories |
 | [polterguy (AINIRO)](https://github.com/polterguy ) | We put ChatGPT on your website \| AINIRO<br />AINIRO\.IO can put ChatGPT on your website and make it say whatever you want it to say. The technology is based upon scraping your website, for then to create a custom machine learning model based upon your website's data. |
 | [Privacy Sandbox](https://github.com/privacysandbox ) | The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and provide tools to build thriving digital businesses. |
 | [Protocol Buffers](https://github.com/protocolbuffers ) | A language-neutral, platform-neutral extensible mechanism for serializing structured data. |
@@ -262,9 +271,11 @@
 | [RISC-V Software](https://github.com/riscv-software-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s ) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
+| [SAFARI Research Group at ETH Zurich and Carnegie Mellon University](https://github.com/CMU-SAFARI) | Site for source code and tools distribution from SAFARI Research Group at ETH Zurich and Carnegie Mellon University. |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
 | [SB Components — UK](https://github.com/sbcshop) (H/W) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT[^91], AI and Robotics based solutions since 2012. |
 | [SB Components](https://github.com/sbcshop ) | SB Components is a UK-based Research and Development company that has been providing embedded, IoT, AI and Robotics based solutions since 2012. |
+| [schema.org project](https://github.com/schemaorg) | Github presence for schema.org project |
 | [Security Onion Solutions, LLC](https://github.com/Security-Onion-Solutions ) | Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. |
 | [Seeed Studio](https://github.com/Seeed-Studio ) | Seeed Studio |
 | [semantic-release](https://github.com/semantic-release ) | Semantic Release |
@@ -287,6 +298,7 @@
 | [TAS Emulators on GitHub](https://github.com/TASEmulators ) | Rerecording emulators and tools used for making Tool Assisted Speedruns |
 | [Tenable](https://github.com/tenable ) | Tenable - the Cyber Exposure company |
 | [tensorflow](https://github.com/tensorflow ) | An Open Source Machine Learning Framework for Everyone |
+| [Termux](https://github.com/termux) | Android terminal emulator and Linux environment. |
 | [testcontainers](https://github.com/testcontainers) | Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container. |
 | [theengs](https://github.com/theengs ) | the engs |
 | [toyota-connected](https://github.com/toyota-connected ) | toyota-connected |
