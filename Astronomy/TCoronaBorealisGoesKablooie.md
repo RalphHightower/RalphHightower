@@ -27,7 +27,10 @@
 | T Corona Borealis | Date |
 |---|---|
 | [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 
+| [‘Once in a lifetime event’: rare chance to see explosion on dwarf star 3,000 light years away / Astronomy • The Guardian](https://www.theguardian.com/science/article/2024/jul/05/t-coronae-borealis-blaze-star-dwarf-australia-how-to-see-nasa-usyd) | Thu 4 Jul 2024 11.00 EDT |
+[This new star will soon be visible in Windsor's night sky, for the 1st time in 80 years / CBC News](https://www.cbc.ca/news/canada/windsor/nova-t-coronae-borealis-steve-pellarin-astronomy-girl-guides-stars-constellations-1.7253766) | Jul 04, 2024 4:00 AM EDT |
 | [We Might Witness A Star Explode Soon — And It’s Not Betelgeuse • Inverse](https://www.inverse.com/science/star-supernova-explosion-how-to-see) | UPDATED: JULY 3, 2024<br />ORIGINALLY PUBLISHED: MARCH 20, 2024 |
+| [Exploding star to appear in night sky for first time in 80 years / The Independent](https://www.independent.co.uk/space/blaze-star-explosion-corona-borealis-nasa-b2572400.html) | July 2, 2024 |
 | [Cosmic Fireworks, Close Encounters Among Spectacular Shortlist For Astronomy Photographer Of The Year / IFLScience](https://www.iflscience.com/cosmic-fireworks-close-encounters-among-spectacular-shortlist-for-astronomy-photographer-of-the-year-74904) | July 2, 2024 |
 | [TCrB Charts and Photometry Tables / aavso](https://www.aavso.org/tcrb-charts-photometry-tables) | Tuesday, July 2, 2024 - 21:41 |
 | [How to win the fight against light pollution • Astronomy](https://www.astronomy.com/science/how-to-win-fight-against-light-pollution/) | Published: July 1, 2024<br />Last updated on July 2, 2024 |
