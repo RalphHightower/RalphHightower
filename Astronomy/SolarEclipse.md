@@ -409,6 +409,7 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [2024 Total Solar Eclipse: Supercomputer Prediction vs. Reality](https://scitechdaily.com/2024-total-solar-eclipse-supercomputer-prediction-vs-reality/) | MAY 17, 2024 |
 | [Revisiting the 2024 Total Solar Eclipse - NSO - National Solar Observatory](https://nso.edu/blog/revisiting-the-2024-total-solar-eclipse/) | May 13, 2024 |
 | [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
 | [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
