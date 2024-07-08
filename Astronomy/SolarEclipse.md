@@ -565,7 +565,7 @@
 | [NPS Resources / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/nps-resources ) |
 | [US Fish and Wildlife Service / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/us-fish-and-wildlife-service ) |
 
-| Total Solar Eclipse August 17, 2917 — NASA | Date |
+| Total Solar Eclipse August 17, 2017 — NASA | Date |
 |---|---|
 | [Eclipse 2017 Shines Light on the Sun-Earth Connection - NASA](https://www.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/eclipse-2017-shines-light-on-the-sun-earth-connection/ ) | DEC 10, 2020 |
 | [Spots, Waves and Wind: A Solar Science Timeline / Full Text - NASA](https://www.nasa.gov/history/spots-waves-and-wind-a-solar-science-timeline-full-text/ ) | FEB 03, 2020 |
