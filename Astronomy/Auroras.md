@@ -24,6 +24,10 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [The Evolution and Impact of Active Region 13664 • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/evolution-and-impact-active-region-13664) | Monday, July 8, 2024 - 14:22 UTC |
+| [G1 Watch for 3 July • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-3-july) | Monday, July 1, 2024 - 18:51 UTC |
+| [Rare, mystery blasts from sun can devastate the ozone layer and spike radiation levels on Earth / Live Science](https://theconversation.com/new-study-shows-mysterious-solar-particle-blasts-can-devastate-the-ozone-layer-bathing-earth-in-radiation-for-years-233464) | July 4, 2024 |
+| [Best photos of the most powerful aurora borealis](https://universemagazine.com/en/storm-of-the-century-the-best-photos-of-the-historic-aurora-borealis/) | May 13, 2024 |
 | **[G4 (Severe\) Conditons Reached near 10:18am EDT on 28 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g4-severe-conditons-reached-near-1018am-edt-28-june)** | **Friday, June 28, 2024 - 14:34 UTC** |
 | **[G3 (Strong\) Levels Reached on 28 June• NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g3-strong-levels-reached-28-june)** | **Friday, June 28, 2024 - 14:06  UTC** |
 | [G1 Watch for 28-29 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-28-29-june) | June 28, 2024 14:13 UTC |
@@ -548,7 +552,6 @@ An aurora is a natural light display predominantly seen in the polar regions, ca
 ## Solar Dynamics Observatory News
 
 The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010 as part of the Living With a Star (LWS) program, which aims to understand the causes of solar variability and its impacts on Earth. The SDO is equipped with three advanced scientific instruments: the Helioseismic and Magnetic Imager (HMI), the Atmospheric Imaging Assembly (AIA), and the Extreme Ultraviolet Variability Experiment (EVE), which together provide comprehensive measurements of the sun’s interior, atmosphere, magnetic field, and energy output. Operating in a geosynchronous orbit around Earth, the SDO supplies high-resolution images of the Sun in multiple wavelengths, offering unprecedented insights into solar activities such as solar flares, coronal mass ejections, and their effects on space weather. This continuous stream of data plays a crucial role in improving our understanding of the relationship between the Sun and the Earth’s environment.
-
 
 ## Solar Observing Satellites
 
