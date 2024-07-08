@@ -25,9 +25,8 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | Solar Activity[^2401] | Date |
 |---|---|
 | [The Evolution and Impact of Active Region 13664 • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/evolution-and-impact-active-region-13664) | Monday, July 8, 2024 - 14:22 UTC |
-| [G1 Watch for 3 July • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-3-july) | Monday, July 1, 2024 - 18:51 UTC |
 | [Rare, mystery blasts from sun can devastate the ozone layer and spike radiation levels on Earth / Live Science](https://theconversation.com/new-study-shows-mysterious-solar-particle-blasts-can-devastate-the-ozone-layer-bathing-earth-in-radiation-for-years-233464) | July 4, 2024 |
-| [Best photos of the most powerful aurora borealis](https://universemagazine.com/en/storm-of-the-century-the-best-photos-of-the-historic-aurora-borealis/) | May 13, 2024 |
+| [G1 Watch for 3 July • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-3-july) | Monday, July 1, 2024 - 18:51 UTC |
 | **[G4 (Severe\) Conditons Reached near 10:18am EDT on 28 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g4-severe-conditons-reached-near-1018am-edt-28-june)** | **Friday, June 28, 2024 - 14:34 UTC** |
 | **[G3 (Strong\) Levels Reached on 28 June• NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g3-strong-levels-reached-28-june)** | **Friday, June 28, 2024 - 14:06  UTC** |
 | [G1 Watch for 28-29 June • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-28-29-june) | June 28, 2024 14:13 UTC |
@@ -150,6 +149,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 | [How a giant sunspot unleashed solar storms that spawned global auroras that just dazzled us all / Space](https://www.space.com/giant-sunspot-ar3664-solar-storms-aurora ) | May 13, 2024 |
 | [Why Were Aurorae Seen So Far Away From The Poles This Weekend? / IFLScience](https://www.iflscience.com/why-were-aurorae-seen-so-far-away-from-the-poles-this-weekend-74189) | May 13, 2024 |
 | [Dazzling auroras fade from skies as sunspot turns away • Phys](https://phys.org/news/2024-05-dazzling-auroras-skies-sunspot.html) | MAY 13, 2024 |
+| [Best photos of the most powerful aurora borealis](https://universemagazine.com/en/storm-of-the-century-the-best-photos-of-the-historic-aurora-borealis/) | May 13, 2024 |
 | [G3 Geomagnetic Storm WARNING in effect until 06 UTC on May 13 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g3-geomagnetic-storm-warning-effect-until-06-utc-may-13) | Sunday, May 12, 2024 - 23:23 UTC |
 | [Severe to Extreme Geomagnetic Storming is Possible Again Later Today — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/severe-extreme-geomagnetic-storming-possible-again-later-today) | Sunday, May 12, 2024 - 13:26 UTC |
 | [Historic Geomagnetic Storm Continues — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/historic-geomagnetic-storm-continues) | Sunday, May 12, 2024 - 13:04 UTC |
