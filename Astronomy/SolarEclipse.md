@@ -409,6 +409,7 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [2024 Total Solar Eclipse: Supercomputer Prediction vs. Reality](https://scitechdaily.com/2024-total-solar-eclipse-supercomputer-prediction-vs-reality/) | MAY 17, 2024 |
 | [Revisiting the 2024 Total Solar Eclipse - NSO - National Solar Observatory](https://nso.edu/blog/revisiting-the-2024-total-solar-eclipse/) | May 13, 2024 |
 | [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
 | [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
@@ -564,7 +565,7 @@
 | [NPS Resources / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/nps-resources ) |
 | [US Fish and Wildlife Service / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/us-fish-and-wildlife-service ) |
 
-| Total Solar Eclipse August 17, 2917 — NASA | Date |
+| Total Solar Eclipse August 17, 2017 — NASA | Date |
 |---|---|
 | [Eclipse 2017 Shines Light on the Sun-Earth Connection - NASA](https://www.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/eclipse-2017-shines-light-on-the-sun-earth-connection/ ) | DEC 10, 2020 |
 | [Spots, Waves and Wind: A Solar Science Timeline / Full Text - NASA](https://www.nasa.gov/history/spots-waves-and-wind-a-solar-science-timeline-full-text/ ) | FEB 03, 2020 |
