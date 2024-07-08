@@ -5,14 +5,11 @@
   "type": "website",
   "author": "Hightower, Ralph <ralph.hightower@gmail.com",
   "ava": {
-    "files": [
-    ],
-    "nodeArguments": [
-    ],
+    "files": [],
+    "nodeArguments": [],
     "timeout": "2m"
   },
-  "bin": {
-  },
+  "bin": {},
   "bugs": {
     "url": "https://ralphhightower.github.com/RalphHightower/issues"
   },
@@ -20,6 +17,7 @@
     "ralph.hightower@gmail.com"
   ],
   "dependencies": {
+    "npm": "^10.8.1"
   },
   "devDependencies": {
     "RalphHightower": "github:RalphHightower/RalphHightower"
@@ -69,4 +67,4 @@
     }
   },
   "packageManager": "npm@10.8.1"
-  }
+}
