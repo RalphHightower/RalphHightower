@@ -1,6 +1,5 @@
-# 9999-12-31:0:$0
-# 2024-02-28:0:$0
-# 1234567891
+###### Some web links have the date as part of the link address, such as xyz.com/YYYY/MM/DD.
+###### This awk program gets the date and adds it as a sort field: YYYY-MM-DD
 function printEnvironment() {
     for (key in ENVIRON) {
         printf("ENVIRON[%s]=%s\n", key, ENVIRON[key])
