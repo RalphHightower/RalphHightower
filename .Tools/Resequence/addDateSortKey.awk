@@ -15,13 +15,13 @@ function padLeft(twoDigit)
 function addKey(line)
 {
     posDate = match($0, rgxYYYYMMDD)
-    printf("DEBUG: RSTART=%d\n", RSTART)
+    printf("1DEBUG: RSTART=%d\n", RSTART)
     if (RSTART > 0) {
         date = substr(line, RSTART + 1, RLENGTH - 1)
         sep = substr(line, RSTART, 1)
         cntFields = split(date, dateParts, sep)
         dateKey = dateParts[1] "-" padLeft(dateParts[2]) "-" padLeft(dateParts[3])
-        #printf("DEBUG: dateKey=%s\n", dateKey)
+        #printf("2DEBUG: dateKey=%s\n", dateKey)
         }
     }
 BEGIN {
@@ -34,16 +34,16 @@ BEGIN {
     rgxDates[4] = rgxYYYY
     }
 {   dateKey = "" 
-    #printf("DEBUG: NR=%d,%s\n", NR, $0)
+    #printf("3DEBUG: NR=%d,%s\n", NR, $0)
     for (idx = 8; (idx >= 4) && (dateKey == ""); idx -= 2) 
     {
-        #printf("DEBUG: rgxDates[%d]=\"%s\"\n", idx, rgxDates[idx])
+        #printf("4DEBUG: rgxDates[%d]=\"%s\"\n", idx, rgxDates[idx])
         rgx = rgxDates[idx]
         posDate = match($0, rgx)
         rstart = RSTART
         rlength = RLENGTH 
         if (rstart > 0) {
-            #printf("DEBUG: RSTART=%d\tRLENGTH=%d\tposDate=%d\n", rstart, rlength, posDate)
+            #printf("5DEBUG: RSTART=%d\tRLENGTH=%d\tposDate=%d\n", rstart, rlength, posDate)
             date = substr($0, rstart + 1, rlength - 1)
             sep = substr($0, rstart, 1)
             if (index(date, "-") > 0)
@@ -54,24 +54,24 @@ BEGIN {
                 trimFld = substr(dateParts[fld], lenPart, 1)
                 if (index("/-", lenPart) > 0)
                     dateParts[fld] = substr(trimFld, 1  lenPart - 1)
-                #printf("\nDEBUG split: %d, %s, sep=%s\n", fld, dateParts[fld], sep)
+                #printf("\n6DEBUG split: %d, %s, sep=%s\n", fld, dateParts[fld], sep)
                 }
             if (idx == 8) {
                 dateKey = dateParts[1] "-" padLeft(dateParts[2]) "-" padLeft(dateParts[3])
-                #printf("\nDEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
+                #printf("\n7DEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
                 }
             else if (idx ==6) {
                 dateKey = dateParts[1] "-" padLeft(dateParts[2]) "-15"
-                #printf("\nDEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
+                #printf("\n8DEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
                 }
             else if (idx == 4) {
                 dateKey = substr(dateParts[1], 1, length(dateParts[1] - 1)) "-06-30"
-                #printf("\nDEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
+                #printf("\n9DEBUG: idx=%d, dateKey=%s, NR=%d, %s\n\n", idx  dateKey, NR, $0)
                 }
             else {
                 dateKey = ""
                 }
-            #printf("DEBUG: dateKey=%s\n", dateKey)
+            #printf("10DEBUG: dateKey=%s\n", dateKey)
             }
         }
     printf("%s:%d:%s\n", dateKey, NR, $0)
