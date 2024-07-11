@@ -4,6 +4,8 @@
 
 | RISC-V Articles | Date | 
 |---|---| 
+| [RISC-V Unleashed: The definitive guide to next-gen computing - Sirin Software](https://sirinsoftware.com/blog/risc-v-unleashed-the-definitive-guide-to-next-gen-computing) | 16 Apr 2024 |
+| [RISC-V Processors Shape Future Computing](https://www.electronicsforu.com/news/risc-v-processors-shape-future-computing) | January 15, 2024 |
 | [When To Expect Domain-Specific AI Chips](https://semiengineering.com/when-to-expect-domain-specific-ai/) | JUNE 13TH, 2024 |
 | [Why It's So Hard To Secure AI Chips](https://semiengineering.com/why-its-so-hard-to-secure-ai-chips/) | JUNE 6TH, 2024 |
 | [RISC-V Heralds New Era Of Cooperation](https://semiengineering.com/risc-v-heralds-new-era-of-cooperation/) | MAY 30TH, 2024 |
