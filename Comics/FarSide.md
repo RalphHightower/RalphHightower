@@ -18,6 +18,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [16 Funniest Far Side Comics Starring Gary Larson's Best Recurring Character, The Detective](https://screenrant.com/funniest-far-side-comics-reccuring-character-detective-larson/) | July 10, 2024 |
+| [15 Far Side Comics That Prove Gary Larson Is Obsessed with Cats](https://screenrant.com/funniest-far-side-comics-about-cats-gary-larson/) | July 6, 2024 |
 | [12 Far Side Comics From 1981 That Make Readers Go "What The?"](https://screenrant.com/far-side-comics-1981-confusing/) | July 5, 2024 |
 | [10 Funniest Far Side Comics Where Gary Larson Made Pirates Hilarious](https://screenrant.com/funniest-far-side-comics-pirates-gary-larson/) | June 30, 2024 |
 | [12 Far Side Comics From 1980 That Make Readers Go "What-the?"](https://screenrant.com/10-far-side-comics-1980-what-the/) | June 27, 2024 |
