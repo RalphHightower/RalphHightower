@@ -52,7 +52,7 @@
 | [Side-Channel Attacks Via Cache On the RISC-V Processor Configuration](https://semiengineering.com/side-channel-attacks-via-cache-on-the-risc-v-processor-configuration/ ) | JANUARY 29TH, 2023 |
 | [Selecting The Right RISC-V Core](https://semiengineering.com/selecting-the-right-risc-v-core/ ) | JANUARY 16TH, 2023 |
 | [CXL Picks Up Steam In Data Centers](https://semiengineering.com/cxl-picks-up-steam-in-data-centers/ ) | JANUARY 26TH, 2023 |
-| [Design And Verification Methodologies Breaking Down](https://semiengineering.com/design-and-verification-methodologies-breaking -down/ ) | JANUARY 12TH, 2023 |
+| [Design And Verification Methodologies Breaking Down](https://semiengineering.com/design-and-verification-methodologies-breaking-down/ ) | JANUARY 12TH, 2023 |
 | [A Minimal RISC-V](https://semiengineering.com/a-minimal-risc-v/ ) | JANUARY 13TH, 2022 |
 | [How Secure Are RISC-V Chips?](https://semiengineering.com/how-secure-are-risc-v-chips/ ) | JANUARY 5TH, 2023 |
 | [RISC-V Pushes Into The Mainstream](https://semiengineering.com/risc-v-pushes-into-the-mainstream/ ) | DECEMBER 21ST, 2022 |
