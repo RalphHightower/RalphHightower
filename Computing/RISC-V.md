@@ -1,9 +1,12 @@
-# Computing \| RISC-V
+# Computing / RISC-V
 
  ## Articles 
 
 | RISC-V Articles | Date | 
 |---|---| 
+| [RISC-V Unleashed: The definitive guide to next-gen computing - Sirin Software](https://sirinsoftware.com/blog/risc-v-unleashed-the-definitive-guide-to-next-gen-computing) | 16 Apr 2024 |
+| [RISC-V Processors Shape Future Computing](https://www.electronicsforu.com/news/risc-v-processors-shape-future-computing) | January 15, 2024 |
+| [Is MIPS Poised to Take the RISC-V World by Storm? – EEJournal](https://www.eejournal.com/article/is-mips-poised-to-take-the-risc-v-world-by-storm/) | January 11, 2024 |
 | [When To Expect Domain-Specific AI Chips](https://semiengineering.com/when-to-expect-domain-specific-ai/) | JUNE 13TH, 2024 |
 | [Why It's So Hard To Secure AI Chips](https://semiengineering.com/why-its-so-hard-to-secure-ai-chips/) | JUNE 6TH, 2024 |
 | [RISC-V Heralds New Era Of Cooperation](https://semiengineering.com/risc-v-heralds-new-era-of-cooperation/) | MAY 30TH, 2024 |
@@ -13,6 +16,7 @@
 | [The Good Old Days Of EDA](https://semiengineering.com/the-good-old-days-of-eda/ ) | NOVEMBER 30TH, 2023 |
 | [The Evolution Of RISC-V Processor Verification: Open Standards And Verification IP](https://semiengineering.com/the-evolution-of-risc-v-processor-verification-open-standards-and-verification-ip/ ) | NOVEMBER 29TH, 2023 |
 | [Coding And Debugging RISC-V](https://semiengineering.com/coding-and-debugging-risc-v/ ) | NOVEMBER 6TH, 2023 |
+| [Getting RISC-V (again\): Milk-V's Mars CM / Jeff Geerling](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm) | November 1, 2023 |
 | [Potentials And Issues Of Designing Fault-Tolerant Hardware Acceleration For Edge-Computing Devices](https://semiengineering.com/potentials-and-issues-of-designing-fault-tolerant-hardware-acceleration-for-edge-computing-devices/ ) | OCTOBER 31ST, 2023 |
 | [CPU Fuzzing Via Intricate Program Generation (ETH Zurich)](https://semiengineering.com/cpu-fuzzing-via-intricate-program-generation-eth-zurich/ ) | OCTOBER 31ST, 2023 |
 | [RISC-V Wants All Your Cores](https://semiengineering.com/risc-v-wants-all-your-cores/ ) | OCTOBER 12TH, 2023 |
@@ -48,7 +52,7 @@
 | [Side-Channel Attacks Via Cache On the RISC-V Processor Configuration](https://semiengineering.com/side-channel-attacks-via-cache-on-the-risc-v-processor-configuration/ ) | JANUARY 29TH, 2023 |
 | [Selecting The Right RISC-V Core](https://semiengineering.com/selecting-the-right-risc-v-core/ ) | JANUARY 16TH, 2023 |
 | [CXL Picks Up Steam In Data Centers](https://semiengineering.com/cxl-picks-up-steam-in-data-centers/ ) | JANUARY 26TH, 2023 |
-| [Design And Verification Methodologies Breaking Down](https://semiengineering.com/design-and-verification-methodologies-breaking -down/ ) | JANUARY 12TH, 2023 |
+| [Design And Verification Methodologies Breaking Down](https://semiengineering.com/design-and-verification-methodologies-breaking-down/ ) | JANUARY 12TH, 2023 |
 | [A Minimal RISC-V](https://semiengineering.com/a-minimal-risc-v/ ) | JANUARY 13TH, 2022 |
 | [How Secure Are RISC-V Chips?](https://semiengineering.com/how-secure-are-risc-v-chips/ ) | JANUARY 5TH, 2023 |
 | [RISC-V Pushes Into The Mainstream](https://semiengineering.com/risc-v-pushes-into-the-mainstream/ ) | DECEMBER 21ST, 2022 |
