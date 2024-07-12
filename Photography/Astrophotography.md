@@ -1,4 +1,4 @@
-# Photography \| Astrophotography 
+# Photography/Astrophotography 
 
 ## Links to B&H eXplora Content Relating to Astrophotography
 
@@ -193,3 +193,16 @@
 [^12]: These astrophotography articles are of particular interest to me.
 [^13]: These topics are of interest to me, even though they are not astrophotography related. 
 [^14]: Keywords, with article count in parentheses: [Astro Photography](https://www.bhphotovideo.com/explora/tag/astro-photography) (14), [Astronomy](https://www.bhphotovideo.com/explora/tag/astronomy) (86), [Astrophotography](https://www.bhphotovideo.com/explora/tag/astrophotography) (91), [Eclipse Photography](https://www.bhphotovideo.com/explora/tag/eclipse-photography) (19), [Milky Way Photography](https://www.bhphotovideo.com/explora/tag/milky-way-photography) (3), [Night Photography](https://www.bhphotovideo.com/explora/tag/night-photography) (70), [Solar Eclipse](https://www.bhphotovideo.com/explora/tag/solar-eclipse) (19), [Solar Filters](https://www.bhphotovideo.com/explora/podcasts/tag/solar-filters) (1), [Solar Photography](https://www.bhphotovideo.com/explora/tag/solar-photography) (6). Often, several keywords are used in tandem with a web page, so there is some overlap.
+
+## Astrophotography Lenses 
+
+| Astrophotography Lenses 
+|---|
+| [Askar Astronomy Lenses](https://agenaastro.com/askar?ca_t_focallength_bucket=658&gad_source=1&product_list_limit=72&product_list_order=price) |
+
+## Astrophotography Articles 
+
+| Astrophotography Articles | Date |
+|------|---|
+| [How to take your own wide-field sky images](https://www.astronomy.com/observing/how-to-take-your-own-wide-field-sky-images/) | July 5, 2024 |
+| [Astrophotography and the art of collaboration](https://www.astronomy.com/observing/astrophotography-and-the-art-of-collaboration/) | May 9, 2024 |
