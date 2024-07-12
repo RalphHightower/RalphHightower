@@ -4,18 +4,34 @@ BEGIN {
     DOMAIN = 1
     WEBURL = 2
     RECNUM=3
-    SUBSTR_ROW = 4
+    REMAINDER = 4
     }
 {
-    if (0)
+    if (1)
     {
-        printf("DEBUG: %d:%s\n", length ($0), $0)
+        printf("\n1DEBUG: length(%s)=%d\n\n", $0, length($0))
         for (ndx = 1; ndx <= NF; ndx++)
-            printf("\nDEBUG: $%d='%s'\n", ndx, $ndx)
-        printf("DEBUG: SUBSTR_ROW=%d\n", $SUBSTR_ROW)
-        printf("%d:%d\n", length($SUBSTR_ROW), $SUBSTR_ROW)
+            printf("2DEBUG: $%s=%s\n", ndx, $ndx)
+        printf("3DEBUG: length(%s)=%d\n", $REMAINDER, length($REMAINDER))
     }
+    
+    duplicate = ""
+    if (NR > 1)
+    {
+        if (priorUrl == $WEBURL)
+            duplicate = "$"
+        priorUrl = $WEBURL
+    }
+    else
+        priorUrl = $WEBURL
+       
+    duplicate =""
+     
+    chopRight = $REMAINDER 
+    row = substr($0, $REMAINDER + remainder + length($REMAINDER))
+    printf("3DEBUG: remainder=%d\n\n", remainder) 
         
+    printf("4DEBUG: length(%s)=%d\n", row, length(row))
     if ((length($0) > 0) && (index($0, "DEBUG") == 0))
-        printf("%s\n", substr($0, $SUBSTR_ROW + length($SUBSTR_ROW) + 2))
+        printf("%s%s\n", duplicate, row)
     }
