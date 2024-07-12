@@ -1,4 +1,4 @@
-# Astronomy \| Auroras 
+# Astronomy/Auroras 
 
 ## Aurora Links / T Corona Borealis Links
 
@@ -24,6 +24,7 @@ The sun has been active firing off class X strength Coronal Mass Ejections sendi
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [G1 Watch for 13 July / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-13-july) | Thursday, July 11, 2024 15:51 UTC |
 | [The Evolution and Impact of Active Region 13664 • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/evolution-and-impact-active-region-13664) | Monday, July 8, 2024 - 14:22 UTC |
 | [Rare, mystery blasts from sun can devastate the ozone layer and spike radiation levels on Earth / Live Science](https://theconversation.com/new-study-shows-mysterious-solar-particle-blasts-can-devastate-the-ozone-layer-bathing-earth-in-radiation-for-years-233464) | July 4, 2024 |
 | [G1 Watch for 3 July • NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/g1-watch-3-july) | Monday, July 1, 2024 - 18:51 UTC |
