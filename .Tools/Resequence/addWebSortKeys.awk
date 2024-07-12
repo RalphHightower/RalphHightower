@@ -8,22 +8,27 @@ BEGIN {
     #printf("~---~---~---~---~\n")
 }
 /\(http[s]:\/\/[^~:]*\)/ {
-    #printf("\nDEBUG: %d:%s\n", NR, $0) 
+    #printf("\n1DEBUG: %d:%s\n", NR, $0) 
     row = $0
     domain = ""
     url = ""
     
+    #"http[s]://[^:~]*)"
     
-    ndxWeb = match(row, "http[s]://[^:~]*)")
+    #rgxWebAddr = "(?:\()((https?:\/\/)?([a-zA-Z0-9.-]+)(:[0-9]+)?(\/[a-zA-Z0-9._~:/?#[\]@!$&'()*+,;=%-]*)?)(?:\)\s?)"
+    rgxWebAddr = "(?:()((https?://)?([a-zA-Z0-9.-]+)(:[0-9]+)?(/[a-zA-Z0-9._~:/?#@!$&'()*+,;=%-]*)?)(?:)s?)"
     
-    #printf("\nDEBUG: ndxWeb=%d, RLENGTH=%d\n", ndxWeb, RLENGTH)
+    ndxWeb = match(row, rgxWebAddr)
+    
+    #printf("\n2DEBUG: ndxWeb=%d, RLENGTH=%d\n", ndxWeb, RLENGTH)
         
     if (ndxWeb > 0)
     {
         if (RLENGTH > 0)
         {
             webUrl = substr(row, ndxWeb, RLENGTH - 1)
-            #printf("\nDEBUG: webUrl=%s\n", webUrl)
+            gsub("[#,*| *]", "", webUrl)
+            #printf("\n3DEBUG: webUrl=\"%s\"\n", webUrl)
             cntWebParts = split(webUrl, webParts, "/")
             if (0)
             {
@@ -31,29 +36,29 @@ BEGIN {
                 {
                     for (ndx = 1; ndx <= cntWebParts; ndx ++)
                     {
-                        printf("\nDEBUG: webParts[%d]='%s'\n", ndx, webParts[ndx])
+                        printf("\n4DEBUG: webParts[%d]='%s'\n", ndx, webParts[ndx])
                     }
                 }
             }
-            #printf("\nDEBUG: cntWebParts=%d:webParts[3]=%s\n", cntWebParts, webParts[3])
+            #printf("\n5DEBUG: cntWebParts=%d:webParts[3]=%s\n", cntWebParts, webParts[3])
             cntDomain = split(webParts[3], domainParts, ".")
-            #printf("\nDEBUG: cntDomain=%d\n", cntDomain)
+            #printf("\n6DEBUG: cntDomain=%d\n", cntDomain)
             if (cntDomain > 0)
             {
                 domain = ""
                 for (ndx = cntDomain; ndx > 0; ndx--)
                 {
-                    #printf("\nDEBUG: domainParts[%d]=%s\n", ndx, domainParts[ndx])
+                    #printf("\n7DEBUG: domainParts[%d]=%s\n", ndx, domainParts[ndx])
                     domain = (ndx < cntDomain ? domain "."  domainParts[ndx] : domain domainParts[ndx])
                 }
             }
         }
         # domain:weblink:recordNumber:
-        sortKey = sprintf("%s~%s~%d~", domain, webUrl, NR)
+        sortKey = sprintf("%s$%s$%d$", domain, webUrl, NR)
         lenSortKey = length(sortKey)
         
-        #printf("\nDEBUG: length(%s)=%d\n\n", sortKey, length(sortKey))
+        #printf("\n8DEBUG: length(%s)=%d\n\n", sortKey, length(sortKey))
         
-        printf("%s%d~%s\n", sortKey, lenSortKey, row)
+        printf("%s%d$%s\n", sortKey, lenSortKey, row)
     }
 }
