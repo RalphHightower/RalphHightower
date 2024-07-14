@@ -164,6 +164,8 @@
 
 | [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
 |---|---|
+| [10 Best The Far Side Comics Featuring Farm Animals](https://www.cbr.com/best-far-side-comics-farm-animals/) | July 13, 2024 |
+| [15 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/) | July 10, 2024 |
 | [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | June 26, 2024 |
 | [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | June 19, 2024 |
 | [10 Far Side Comics With the Darkest Humor](https://www.cbr.com/the-far-side-dark-comedy/) | June 8, 2024 |
