@@ -2,26 +2,31 @@
 ###### 2. Grabs the domain from the web address and adds the domain in reverse order as key one.
 ###### Example: bbc.co.uk becomes uk.co.bbc
 ###### sort by domain groups articles articles within a domain
-###### sort by weblink may group articles 
+###### sort by weblink may group articles
+###### ==========
+###### TODO:
+###### 1) Add named capture groups
+###### 2) Add parameter passing: &name=value,?name=value
+###### 3) Add "go to" named section: #section
+###### ==========
 BEGIN {
-    #printf("~ Record # ~ Domain ~ URL ~ Content ~\n")
-    #printf("~---~---~---~---~\n")
+    #printf("| Record # | Domain | URL | Content |\n")
+    #printf("|---|---|---|---|\n")
+
+    rgxWebAddr =  "https?://[A-Za-z0-9][a-zA-Z0-9]*(\.[a-zA-Z0-9][a-zA-Z0-9]*)*((/[A-Za-z0-9]|%[0-9A-Fa-f]{2}]*)*)?/"
 }
-/\(http[s]:\/\/[^~:]*\)/ {
-    #printf("\n1DEBUG: %d:%s\n", NR, $0) 
+/https?://[A-Za-z0-9][a-zA-Z0-9]*(\.[a-zA-Z0-9][a-zA-Z0-9]*)*((/[A-Za-z0-9]|%[0-9A-Fa-f]{2}]*)*)/ {
+    #printf("\n1DEBUG: %d:%s\n", NR, $0)
     row = $0
     domain = ""
     url = ""
-    
+
     #"http[s]://[^:~]*)"
-    
-    #rgxWebAddr = "(?:\()((https?:\/\/)?([a-zA-Z0-9.-]+)(:[0-9]+)?(\/[a-zA-Z0-9._~:/?#[\]@!$&'()*+,;=%-]*)?)(?:\)\s?)"
-    rgxWebAddr = "(?:()((https?://)?([a-zA-Z0-9.-]+)(:[0-9]+)?(/[a-zA-Z0-9._~:/?#@!$&'()*+,;=%-]*)?)(?:)s?)"
-    
+
     ndxWeb = match(row, rgxWebAddr)
-    
+
     #printf("\n2DEBUG: ndxWeb=%d, RLENGTH=%d\n", ndxWeb, RLENGTH)
-        
+
     if (ndxWeb > 0)
     {
         if (RLENGTH > 0)
@@ -56,9 +61,9 @@ BEGIN {
         # domain:weblink:recordNumber:
         sortKey = sprintf("%s$%s$%d$", domain, webUrl, NR)
         lenSortKey = length(sortKey)
-        
+
         #printf("\n8DEBUG: length(%s)=%d\n\n", sortKey, length(sortKey))
-        
+
         printf("%s%d$%s\n", sortKey, lenSortKey, row)
     }
 }
