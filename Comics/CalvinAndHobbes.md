@@ -12,6 +12,9 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/) | July 12, 2024 |
+| [Why Doesn't Calvin and Hobbes Have Official Merch?](https://www.cbr.com/calvin-and-hobbes-no-official-merch/) | July 12, 2024 |
+| [10 Funniest Calvin & Hobbes Comics with Calvin's Alter-Egos](https://www.cbr.com/best-calvin-and-hobbes-alter-egos/) | July 11, 2024 |
 | [10 Best Calvin & Hobbes Comics Featuring Calvin's Parents](https://www.cbr.com/best-calvin-hobbes-parents-comic-strips/) | July 10, 2024 |
 | [Calvinball from Calvin & Hobbes, Explained](https://www.cbr.com/calvin-and-hobbes-calvinball/) | July 7, 2024 |
 | [Every Time Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/) | Jul 2, 2024 |
