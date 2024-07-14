@@ -351,6 +351,8 @@
 |---|---|
 | **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
 | [DeskPi Store](https://deskpi.com/ ) | |
+| **[Hailo-8R Mini PCIe AI Accelerator Module / Hailo AI Chips](https://hailo.ai/products/ai-accelerators/hailo-8r-mpcie-ai-acceleration-module/#hailo8-features)** | |
+
 
 #### TuringPi Documentation 
 
