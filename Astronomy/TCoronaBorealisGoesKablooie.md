@@ -29,6 +29,9 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Exploding nova T Coronae Borealis could be on show for the first time in 80 years. Here's how to spot it - ABC News / Australia](https://www.abc.net.au/news/science/2024-07-10/t-coronae-borealis-nova-australia-explosion/104059134) | July 9, 2024 |
+| [A once-in-a-lifetime explosion is about to create a 'new' star in the sky](https://phys.org/news/2024-07-lifetime-explosion-star-sky.htmll) | JULY 9, 2024 |
+| [A rare stellar explosion will soon reveal a ‘new’ star. Here’s how to see it. / University of Pittsburgh](https://www.pitt.edu/pittwire/features-articles/corona-borealis-nova-explosion) | July 8, 2024 |
 | [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 
 | [‘Once in a lifetime event’: rare chance to see explosion on dwarf star 3,000 light years away / Astronomy • The Guardian](https://www.theguardian.com/science/article/2024/jul/05/t-coronae-borealis-blaze-star-dwarf-australia-how-to-see-nasa-usyd) | Thu 4 Jul 2024 11.00 EDT |
 [This new star will soon be visible in Windsor's night sky, for the 1st time in 80 years / CBC News](https://www.cbc.ca/news/canada/windsor/nova-t-coronae-borealis-steve-pellarin-astronomy-girl-guides-stars-constellations-1.7253766) | Jul 04, 2024 4:00 AM EDT |
@@ -38,6 +41,7 @@
 | [TCrB Charts and Photometry Tables / aavso](https://www.aavso.org/tcrb-charts-photometry-tables) | Tuesday, July 2, 2024 - 21:41 |
 | [How to win the fight against light pollution • Astronomy](https://www.astronomy.com/science/how-to-win-fight-against-light-pollution/) | Published: July 1, 2024<br />Last updated on July 2, 2024 |
 | [July's night sky notes: A hero, a crown, and possibly a nova • Phys](https://phys.org/news/2024-07-july-night-sky-hero-crown.html) | JULY 1, 2024 |
+| [A stellar explosion may create a temporary ‘new star’ this summer • Science News](https://www.sciencenews.org/article/stellar-explosion-nova-new-star-summer) | JULY 1, 2024 AT 11:30 AM |
 | [Starwatch: a 2,600-year wait to see T Coronae Borealis explosion / Science / The Guardian](https://www.theguardian.com/science/article/2024/jul/01/starwatch-a-2600-year-wait-to-see-t-coronae-borealis-explosion) | Mon 1 Jul 2024 01.00 EDT |
 | [Once-in-a-lifetime star explosion, visible from Earth, could happen any day now / Space](https://www.space.com/the-universe/stars/once-in-a-lifetime-star-explosion-visible-from-earth-could-happen-any-day-now) | July 1, 2024 |
 | [Inside the life and death of stars : Short Wave : NPR (14 minute listen\) • NPR](https://www.npr.org/2024/06/24/1250455734/stars-nasa-life-death-nova) | JUNE 25, 2024 3:00 AM ET |
