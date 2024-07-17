@@ -31,9 +31,9 @@
 | T Corona Borealis | Date |
 |---|---|
 | [Exploding nova T Coronae Borealis could be on show for the first time in 80 years. Here's how to spot it - ABC News / Australia](https://www.abc.net.au/news/science/2024-07-10/t-coronae-borealis-nova-australia-explosion/104059134) | July 9, 2024 |
-| [A once-in-a-lifetime explosion is about to create a 'new' star in the sky](https://phys.org/news/2024-07-lifetime-explosion-star-sky.htmll) | JULY 9, 2024 |
+| [A once-in-a-lifetime explosion is about to create a 'new' star in the sky • Phys](https://phys.org/news/2024-07-lifetime-explosion-star-sky.htmll) | JULY 9, 2024 |
 | [A rare stellar explosion will soon reveal a ‘new’ star. Here’s how to see it. / University of Pittsburgh](https://www.pitt.edu/pittwire/features-articles/corona-borealis-nova-explosion) | July 8, 2024 |
-| [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 
+| [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 |
 | [‘Once in a lifetime event’: rare chance to see explosion on dwarf star 3,000 light years away / Astronomy • The Guardian](https://www.theguardian.com/science/article/2024/jul/05/t-coronae-borealis-blaze-star-dwarf-australia-how-to-see-nasa-usyd) | Thu 4 Jul 2024 11.00 EDT |
 [This new star will soon be visible in Windsor's night sky, for the 1st time in 80 years / CBC News](https://www.cbc.ca/news/canada/windsor/nova-t-coronae-borealis-steve-pellarin-astronomy-girl-guides-stars-constellations-1.7253766) | Jul 04, 2024 4:00 AM EDT |
 | [We Might Witness A Star Explode Soon — And It’s Not Betelgeuse • Inverse](https://www.inverse.com/science/star-supernova-explosion-how-to-see) | UPDATED: JULY 3, 2024<br />ORIGINALLY PUBLISHED: MARCH 20, 2024 |
