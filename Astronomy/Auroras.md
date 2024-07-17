@@ -312,7 +312,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [The Sun in gamma rays over a 14-year period captured on video - Earth.com](https://www.earth.com/news/team-creates-video-showing-the-sun-in-gamma-rays-over-a-14-year-period/) | 02-07-2024 |
 | [Yet Another Sunshine Mystery: Unexpected Asymmetry in GeV Emission from the Solar Disk - IOPscience](https://iopscience.iop.org/article/10.3847/1538-4357/ad1bd2) | 2024 February 7 |
 | [Yet Another Sunshine Mystery: Unexpected Asymmetry in GeV Emission from the Solar Disk - IOPscience](https://iopscience.iop.org/article/10.3847/1538-4357/ad1bd2) | 2024 February 7 |
-| [More auroras and radio blackouts today from ongoing solar storm - Earth.com](https://www.earth.com/news/ongoing-solar-storms-spectacular-auroras-and-radio-blackouts/) | 01-24-2024 |
 | [Long-duration R1 (Minor\) Flare Occurred — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/long-duration-r1-minor-flare-occurred) | Tuesday, February 6, 2024 - 04:35 UTC |
 | [Large Sunspot Regions Present on 5 Feb, 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/large-sunspot-regions-present-5-feb-2024) | Monday, February 5, 2024 - 15:16 UTC |
 | [Space Weather Workshop is this week! — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-workshop-week) | Tuesday, January 30, 2024 - 20:43 UTC |
@@ -322,6 +321,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [R2 (Moderate\) Radio Blackout Observed — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-radio-blackout-observed-2) | Monday, January 29, 2024 - 06:17 UTC |
 | [Brighter Than a Thousand Suns: Scientists Unravel Physics Behind Unusual Behavior of Stars’ Super Flares • SciTechDaily](https://scitechdaily.com/brighter-than-a-thousand-suns-scientists-unravel-physics-behind-unusual-behavior-of-stars-super-flares/) | JANUARY 27, 2024 |
 | [G1 Minor Storm levels likely on 25-27 Jan 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-levels-likely-25-27-jan-2024) | Wednesday, January 24, 2024 - 21:45 UTC |
+| [More auroras and radio blackouts today from ongoing solar storm - Earth.com](https://www.earth.com/news/ongoing-solar-storms-spectacular-auroras-and-radio-blackouts/) | 01-24-2024 |
 | [G1 Minor Storm levels likely on 24-26 Jan 2024 — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-levels-likely-24-26-jan-2024) | Tuesday, January 23, 2024 - 19:21 UTC |
 | [R2 (Moderate\) Radio Blackout Observed — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-radio-blackout-observed-1) | Tuesday, January 23, 2024 - 05:11 UTC |
 | [G2 (Moderate\) Geomagnetic Storm Watch for 22-23 Jan — NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-watch-22-23-jan) | Sunday, January 21, 2024 - 07:56 UTC |
