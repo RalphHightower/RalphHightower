@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Darkest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-dark-comic-strips/) | July 16, 2024 |
 | [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/) | July 12, 2024 |
 | [Why Doesn't Calvin and Hobbes Have Official Merch?](https://www.cbr.com/calvin-and-hobbes-no-official-merch/) | July 12, 2024 |
 | [10 Funniest Calvin & Hobbes Comics with Calvin's Alter-Egos](https://www.cbr.com/best-calvin-and-hobbes-alter-egos/) | July 11, 2024 |
@@ -131,18 +132,18 @@
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 29, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
 | [Charlie Brown and Calvin Finally Meet in Adorable Peanuts/Calvin and Hobbes Mash-Up](https://screenrant.com/charlie-brown-peanuts-meets-calvin-hobbes-fan-art/) | Jun 24, 2024 |
 | [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
 | [Hobbes' 10 Funniest Moments In Calvin & Hobbes](https://screenrant.com/hobbes-10-funniest-moments-calvin-and-hobbes/) | Jun 14, 2024 |
 | [10 Calvin and Hobbes Comics That Prove Calvin Is Kind of... Evil](https://screenrant.com/calvin-and-hobbes-comics-prove-calvin-is-evil/) | June 10, 2024 |
 | [10 Funniest Calvin and Hobbes Comics About Food](https://screenrant.com/10-funniest-calvin-and-hobbes-comics-about-food/) | June 9, 2024 |
 [Calvin and Hobbes Meet the Rocketeer in Heartwarming Crossover Fanart](https://screenrant.com/calvin-and-hobbes-rocketeer-spaceman-spiff-crossover-fanart/) | June 8, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/funniest-calvin-and-hobbes-comics-may-2024/) | June 3, 2024 | 
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (in May 2024)](https://screenrant.com/funniest-calvin-and-hobbes-comics-may-2024/) | June 2, 2024 | 
 | [10 Best Calvin and Hobbes Comics That Discuss Death Without Pulling Their Punches](https://screenrant.com/10-best-calvin-hobbes-comics-about-death/) | May 31, 2024 |
 | [10 Weirdest Calvin and Hobbes Comics, Ranked](https://www.cbr.com/calvin-and-hobbes-strangest-comics/) | May 28, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 24, 2024 |
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
+| [Peanuts & Calvin and Hobbes Totally Influenced DC's Funniest Story, and Now I Love It Even More](https://screenrant.com/tom-king-wonder-woman-trinity-influences-peanuts-calvin-hobbes/) | May 21, 2024 |
 | [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
 | [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/) | Apr 29, 2024 |
 | [Indiana Jones Meets Calvin & Hobbes in Genius Recreation of Bill Watterson's Art Style](https://screenrant.com/indiana-jones-calvin-hobbes-fanart-bill-wattersons-art-style/ ) | APR 11, 2024 |
