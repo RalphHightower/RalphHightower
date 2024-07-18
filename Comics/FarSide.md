@@ -164,18 +164,17 @@
 
 ### Comics — CBR
 
-| [Comics Lists •, [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) |
- | Date |
+| [Comics Lists •, [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
 | [10 The Far Side Comic Strips That Barely Make Any Sense](https://www.cbr.com/the-far-side-strips-make-no-sense/) | July 15, 2024 |
 | [10 Best The Far Side Comics Featuring Farm Animals](https://www.cbr.com/best-far-side-comics-farm-animals/) | July 13, 2024 |
-| [15 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/) | July 10, 2024 |
-| [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | June 26, 2024 |
-| [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | June 19, 2024 |
-| [10 Far Side Comics With the Darkest Humor](https://www.cbr.com/the-far-side-dark-comedy/) | June 8, 2024 |
-| [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/ ) | May 15, 2024  |
-| [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/ ) | May 8, 2024 |
-| [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/ ) | APR 10, 2024 |
-| [10 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/ ) | APR 5, 2024 |
-| [Gary Larson's 10 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/ ) | MAR 26, 2024 |
-| [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/ ) | FEB 14, 2024 |
+| [15 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/) | Jul 10, 2024 |
+| [10 Far Side Comic Jokes We Only Understood As Adults](https://www.cbr.com/the-far-side-best-adult-jokes/) | Jun 30, 2024 |
+| [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | Jun 26, 2024 |
+| [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | Jun 19, 2024 |
+| [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/) | May 15, 2024 |
+| [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/) | May 8, 2024 |
+| [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/far-side-cow-tools-confusion-gary-larson-letter/) | Apr 29, 2024 |
+| [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/) | Apr 10, 2024 |
+| [Gary Larson's 10 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/) | Mar 26, 2024 |
+| [The Far Side Comic Strips Featuring Aliens, Ranked](https://www.cbr.com/the-far-side-aliens-strip-ranked/) | Aug 12, 2023 |
