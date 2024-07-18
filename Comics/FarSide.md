@@ -29,11 +29,12 @@
 | ["The Worst Cartoon I Ever Drew": Gary Larson Hates This Far Side Comic So Much, He Can't Read It Without Cringing](https://screenrant.com/far-side-funniest-comics-gary-larson-most-hated/) | June 19, 2024 |
 | [10 Funniest Far Side Comics That Somehow Found the Funny Side of Fossils](https://screenrant.com/funniest-far-side-comics-dinosaurs-scientists-fossils-larson/) | June 17, 2024 |
 | [15 Funniest Far Side Comics Starring Its 'Nerdy Kid' Recurring Character (Including 2 of Gary Larson's All Time Best\)](https://screenrant.com/funniest-far-side-comics-gary-larson-nerdy-kid/) | June 13, 2024 |
+| ["The So-Called Artist Must Be Sick": 37 Years Later, This Editor's Defense Of THE FAR SIDE Is More Relevant Than Ever](https://screenrant.com/far-side-comics-gary-larson-editor-defense-1980s/) | June 11, 2024 |
+| [Gary Larson's Creative Process Explains Why The Far Side Comics Are So Weird](https://screenrant.com/why-far-side-comics-so-weird-explained-gary-larson/) | June 10, 2024 |
 | [15 Funniest Far Side Comics That Somehow Found the Funny Side of War](https://screenrant.com/funniest-far-side-comics-about-war-gary-larson/) | June 8, 2024 |
 | ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June  6, 2024 |
-| [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 5, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 4, 2024 |
-| [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |
+| [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |,
 | [We Asked You to Vote for Far Side's Funniest Superman Comic & the Winner Is a Perfect Movie Parody](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superheroes/) | May 31, 2024 |
 | [10 Far Side Comics That Prove Gary Larson Preferred Animals Over Humans](https://screenrant.com/far-side-comics-animals-beat-people-gary-larson/) | May 28, 2024 |
 | [The Far Side's Biggest Weakness (According to Gary Larson\) Is What Makes It Great](https://screenrant.com/far-side-comics-gary-larson-biggest-artistic-weakness/) | May 28, 2024 |
@@ -163,8 +164,10 @@
 
 ### Comics — CBR
 
-| [Comics Lists • FarSide / CBR](https://www.cbr.com/category/comics-lists/ )[^21] | Date |
+| [Comics Lists •, [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) |
+ | Date |
 |---|---|
+| [10 The Far Side Comic Strips That Barely Make Any Sense](https://www.cbr.com/the-far-side-strips-make-no-sense/) | July 15, 2024 |
 | [10 Best The Far Side Comics Featuring Farm Animals](https://www.cbr.com/best-far-side-comics-farm-animals/) | July 13, 2024 |
 | [15 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/) | July 10, 2024 |
 | [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | June 26, 2024 |
@@ -176,5 +179,3 @@
 | [10 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/ ) | APR 5, 2024 |
 | [Gary Larson's 10 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/ ) | MAR 26, 2024 |
 | [Greatest Far Side Strips](https://www.cbr.com/best-far-side-comic-strips/ ) | FEB 14, 2024 |
-
-[^21]: CBR does not have any FarSide tags; one just has to scroll through the comics listing. 
