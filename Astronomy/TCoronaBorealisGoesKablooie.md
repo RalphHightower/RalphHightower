@@ -31,7 +31,7 @@
 | T Corona Borealis | Date |
 |---|---|
 | [Exploding nova T Coronae Borealis could be on show for the first time in 80 years. Here's how to spot it - ABC News / Australia](https://www.abc.net.au/news/science/2024-07-10/t-coronae-borealis-nova-australia-explosion/104059134) | July 9, 2024 |
-| [A once-in-a-lifetime explosion is about to create a 'new' star in the sky • Phys](https://phys.org/news/2024-07-lifetime-explosion-star-sky.htmll) | JULY 9, 2024 |
+| [A once-in-a-lifetime explosion is about to create a 'new' star in the sky • Phys](https://phys.org/news/2024-07-lifetime-explosion-star-sky.html) | JULY 9, 2024 |
 | [A rare stellar explosion will soon reveal a ‘new’ star. Here’s how to see it. / University of Pittsburgh](https://www.pitt.edu/pittwire/features-articles/corona-borealis-nova-explosion) | July 8, 2024 |
 | [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 |
 | [‘Once in a lifetime event’: rare chance to see explosion on dwarf star 3,000 light years away / Astronomy • The Guardian](https://www.theguardian.com/science/article/2024/jul/05/t-coronae-borealis-blaze-star-dwarf-australia-how-to-see-nasa-usyd) | Thu 4 Jul 2024 11.00 EDT |
