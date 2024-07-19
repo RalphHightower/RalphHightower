@@ -28,20 +28,20 @@
             {
                 for (ndx = 1; ndx <= cntParts; ndx ++)
                 {
-                    printf("40DEBUG: webParts[%d]=%s\n", ndx, webParts[ndx])
+                    #printf("40DEBUG: webParts[%d]=%s\n", ndx, webParts[ndx])
                 }
             }
             domain = ""
             cntDomain = split(webParts[3], domainParts, ".")
-            #printf("55DEBUG: cntDomain=%d\n", cntDomain)
+            #printf("55DEBUG: %s:cntDomain=%d\n", webParts[3], cntDomain)
             if (cntDomain > 0)
             {
                 for (ndx = cntDomain; ndx > 0; ndx--)
                 {
                     #printf("60DEBUG: domainParts[%d]=%s\n", ndx, domainParts[ndx])
                     domain = domain domainParts[ndx] (ndx > 1 ? "." : "")
-            printf("%s$%s$%d$%s\n", domain, webUrl, NR, $0)
                 }
+            printf("%s$%s$%d$%s\n", domain, webUrl, NR, $0)
             }
         }
     }
