@@ -20,6 +20,7 @@
     "npm": "^10.8.1"
   },
   "devDependencies": {
+    "@semantic-release/github": "github:semantic-release/github",
     "RalphHightower": "github:RalphHightower/RalphHightower"
   },
   "engines": {
