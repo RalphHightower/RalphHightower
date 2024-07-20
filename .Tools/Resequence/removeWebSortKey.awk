@@ -20,8 +20,10 @@ BEGIN {
     if (NR > 1)
     {
         if (priorUrl == $WEBURL)
+        {
             duplicate = "$"
-        priorUrl = $WEBURL
+            priorUrl = $WEBURL
+        }
     }
     else
     {
