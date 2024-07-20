@@ -8,17 +8,17 @@
 #}
 {
 
-    found = match($0, "https?://[-./%$#@A-Za-z0-9]*")
-
+    found = match($0, "https?://[-!$%&'*+,./;<=>@_~A-Za-z0-9?]*")
+    
     #printf("100DEBUG: RSTART=%d\tRLENGTH=%d\n", RSTART, RLENGTH)
-
     if ((RSTART > 0) && (RLENGTH > 0))
     {
         row = $0
+            
         #printf("00DEBUG: %d:%s\tlength=%d\n", NR, $0, length($0))
         webUrl = substr($0, RSTART, RLENGTH)
-
-        #printf("30DEBUG: substr(%s, %d, %d)=\n'%s'", $0, RSTART,  RLENGTH, webUrl)
+            
+        #printf("30DEBUG: substr(%s, %d, %d)='%s'\n", $0, RSTART,  RLENGTH, webUrl)
 
         cntParts = split(webUrl, webParts, "/")
         #printf("50DEBUG: cntParts=%d:%s\n", cntParts, webUrl)
