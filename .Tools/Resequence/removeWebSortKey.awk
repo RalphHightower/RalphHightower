@@ -4,18 +4,34 @@ BEGIN {
     DOMAIN = 1
     WEBURL = 2
     RECNUM=3
-    SUBSTR_ROW = 4
+    REMAINDER = 4
+    OUTPUT = 5
     }
 {
-    if (0)
+    if (0) #0 for no debug statements, 1 for DEBUG 
     {
-        printf("DEBUG: %d:%s\n", length ($0), $0)
+        printf("10DEBUG: length(%s)=%d\n", $0, length($0))
+        printf("20DEBUG: length(%s)=%d\n", $REMAINDER, length($REMAINDER))
         for (ndx = 1; ndx <= NF; ndx++)
-            printf("\n10DEBUG: $%d='%s'\n", ndx, $ndx)
-        printf("29DEBUG: SUBSTR_ROW=%d\n", $SUBSTR_ROW)
-        printf("%d:%d\n", length($SUBSTR_ROW), $SUBSTR_ROW)
+            printf("30DEBUG: $%s=%s\n", ndx, $ndx)
     }
+    
+    duplicate = ""
+    if (NR > 1)
+    {
+        if (priorUrl == $WEBURL)
+            duplicate = "$"
+        priorUrl = $WEBURL
+    }
+    else
+        priorUrl = $WEBURL
+       
+    chopRight = $REMAINDER + length($REMAINDER) + 1
+    #printf("40DEBUG: chopRight=%d\n", chopRight) 
+    #printf("50DEBUG: substr('%s', %d)=%s\n", $0, chopRight, row)
+    row = substr($0, chopRight)
         
+    #printf("60DEBUG: length(%s)=%d\n", row, length(row))
     if ((length($0) > 0) && (index($0, "DEBUG") == 0))
-        printf("%s\n", substr($0, $SUBSTR_ROW + length($SUBSTR_ROW) + 2))
+        printf("%s%s\n", duplicate, row)
     }

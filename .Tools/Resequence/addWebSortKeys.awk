@@ -8,17 +8,17 @@
 #}
 {
 
-
     found = match($0, "https?://[-./%$#@A-Za-z0-9]*")
 
-    #printf("\n\n100DEBUG: RSTART=%d\tRLENGTH=%d\n\n", RSTART, RLENGTH)
+    #printf("100DEBUG: RSTART=%d\tRLENGTH=%d\n", RSTART, RLENGTH)
 
     if ((RSTART > 0) && (RLENGTH > 0))
     {
+        row = $0
         #printf("00DEBUG: %d:%s\tlength=%d\n", NR, $0, length($0))
         webUrl = substr($0, RSTART, RLENGTH)
 
-        #printf("\n\n30DEBUG: substr(%s, %d, %d)=\n'%s'\n\n", $0, RSTART,  RLENGTH, webUrl)
+        #printf("30DEBUG: substr(%s, %d, %d)=\n'%s'", $0, RSTART,  RLENGTH, webUrl)
 
         cntParts = split(webUrl, webParts, "/")
         #printf("50DEBUG: cntParts=%d:%s\n", cntParts, webUrl)
@@ -28,7 +28,7 @@
             {
                 for (ndx = 1; ndx <= cntParts; ndx ++)
                 {
-                    #printf("40DEBUG: webParts[%d]=%s\n", ndx, webParts[ndx])
+                    printf("40DEBUG: webParts[%d]=%s\n", ndx, webParts[ndx])
                 }
             }
             domain = ""
@@ -41,8 +41,16 @@
                     #printf("60DEBUG: domainParts[%d]=%s\n", ndx, domainParts[ndx])
                     domain = domain domainParts[ndx] (ndx > 1 ? "." : "")
                 }
-            printf("%s$%s$%d$%s\n", domain, webUrl, NR, $0)
             }
+            recNum = sprintf("%d", $NR)
+            #printf("80DEBUG: \nlength(%s)=%d\nlength(%s)=%d\nlength(%s)=%d\n", domain, length(domain), webUrl, length(webUrl), NR, length(NR))
+            # domain$weblink$recordNumber$substr$
+            sortKey = sprintf("%s$%s$%d$", domain, webUrl, NR)
+            lenSortKey = length(sortKey)
+        
+            #printf("\n90DEBUG: length(%s)=%d\n", sortKey, lenSortKey)
+        
+            printf("%s%d$%s\n", sortKey, lenSortKey, row)
         }
     }
 }
