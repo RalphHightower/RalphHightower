@@ -24,9 +24,12 @@ BEGIN {
         priorUrl = $WEBURL
     }
     else
+    {
         priorUrl = $WEBURL
+        duplicate = ""
+    }
        
-    chopRight = $REMAINDER + length($REMAINDER) + 1
+    chopRight = $REMAINDER + length($REMAINDER) + 2
     #printf("40DEBUG: chopRight=%d\n", chopRight) 
     #printf("50DEBUG: substr('%s', %d)=%s\n", $0, chopRight, row)
     row = substr($0, chopRight)
