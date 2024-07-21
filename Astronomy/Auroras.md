@@ -367,8 +367,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [What to Expect from the Peak of Solar Cycle 25 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/what-expect-peak-solar-cycle-25) | Friday, January 19, 2024 - 16:49 UTC  |
 | [Hydrogen recombination continuum as the radiative model for stellar optical flares / Monthly Notices of the Royal Astronomical Society / Oxford Academic](https://academic.oup.com/mnras/article/528/2/2562/7571558) | 17 January 2024 |
 | [2024: The Year of the Sun’s Grand Show – New Study Predicts Solar Peak • SciTechDaily](https://scitechdaily.com/2024-the-year-of-the-suns-grand-show-new-study-predicts-solar-peak/) | JANUARY 14, 2024 |
-**| [NASA Captures Sun’s Fury: Strongest Solar Flare Since 2017 • SciTechDaily](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/)** | &*JANUARY 2, 2024** |
-| **[Monstrous X5 solar flare launched on New Year's Eve could bring auroras to Earth tonight / Live Science](https://www.livescience.com/space/the-sun/monstrous-x5-solar-flare-launched-on-new-years-eve-could-bring-auroras-to-earth-tonight)** | **January 2, 2024*& |
+| **[NASA Captures Sun’s Fury: Strongest Solar Flare Since 2017 • SciTechDaily](https://scitechdaily.com/nasa-captures-suns-fury-strongest-solar-flare-since-2017/)** | **JANUARY 2, 2024** |
+| **[Monstrous X5 solar flare launched on New Year's Eve could bring auroras to Earth tonight / Live Science](https://www.livescience.com/space/the-sun/monstrous-x5-solar-flare-launched-on-new-years-eve-could-bring-auroras-to-earth-tonight)** | **January 2, 2024** |
 
 [^87]: **X8.7** is the **BOAT!**[^100]
 [^100]: **BOAT**. *def:* Biggest Of All Time!
