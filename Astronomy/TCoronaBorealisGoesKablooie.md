@@ -26,12 +26,13 @@
 
 [AAVSO -- WebObs Search Results for TCrB](https://app.aavso.org/webobs/results/?star=000-BBW-825&num_results=200&page=1)
 
+,
 ### Compilation of T Corona Borealis Links to Articles 
-
 | T Corona Borealis | Date |
 |---|---|
 | [Exploding nova T Coronae Borealis could be on show for the first time in 80 years. Here's how to spot it - ABC News / Australia](https://www.abc.net.au/news/science/2024-07-10/t-coronae-borealis-nova-australia-explosion/104059134) | July 9, 2024 |
 | [A once-in-a-lifetime explosion is about to create a 'new' star in the sky • Phys](https://phys.org/news/2024-07-lifetime-explosion-star-sky.html) | JULY 9, 2024 |
+| [Look up! A once-in-a-lifetime explosion is about to create a ‘new’ star in the sky • The Conversation](https://theconversation.com/look-up-a-once-in-a-lifetime-explosion-is-about-to-create-a-new-star-in-the-sky-233884) | July 8, 2024 10:49pm EDT |
 | [A rare stellar explosion will soon reveal a ‘new’ star. Here’s how to see it. / University of Pittsburgh](https://www.pitt.edu/pittwire/features-articles/corona-borealis-nova-explosion) | July 8, 2024 |
 | [Nova eruption of V1716 Sco inspected in X-rays and gamma rays • Phys](https://phys.org/news/2024-07-nova-eruption-v1716-sco-rays.html) | JULY 4, 2024 |
 | [‘Once in a lifetime event’: rare chance to see explosion on dwarf star 3,000 light years away / Astronomy • The Guardian](https://www.theguardian.com/science/article/2024/jul/05/t-coronae-borealis-blaze-star-dwarf-australia-how-to-see-nasa-usyd) | Thu 4 Jul 2024 11.00 EDT |
@@ -155,6 +156,8 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 ## ISS Sighting Opportunities for South Carolina 
 
 If you can see stars at night, then you can watch the ISS when it flies overhead. The sun reflecting off the solar arrays is what makes it visible. It sort of looks like a fast moving star, faster than a passenger jet, but slower than a meteor.
+
+![How to Identify that Light in the Sky](https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg))
 
 | Sighting Opportunity / Spot The Station ▪︎ NASA |
 |---|
