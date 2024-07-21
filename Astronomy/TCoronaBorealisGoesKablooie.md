@@ -27,7 +27,8 @@
 [AAVSO -- WebObs Search Results for TCrB](https://app.aavso.org/webobs/results/?star=000-BBW-825&num_results=200&page=1)
 
 ,
-### Compilation of T Corona Borealis Links to Articles 
+### Compilation of T Corona Borealis Links to Articles
+
 | T Corona Borealis | Date |
 |---|---|
 | [Exploding nova T Coronae Borealis could be on show for the first time in 80 years. Here's how to spot it - ABC News / Australia](https://www.abc.net.au/news/science/2024-07-10/t-coronae-borealis-nova-australia-explosion/104059134) | July 9, 2024 |
