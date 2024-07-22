@@ -21,7 +21,7 @@ BEGIN {
         priorUrl = $WEBURL 
     }
     
-    if (1) #0 for no debug statements, 1 for DEBUG 
+    if (0) #0 for no debug statements, 1 for DEBUG 
     {
         printf("10DEBUG: $0 length(%s)=%d\n", $0, length($0))
         printf("20DEBUG: REMAINDER length(%s)=%d\n", $REMAINDER, length($REMAINDER))

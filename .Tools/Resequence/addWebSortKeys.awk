@@ -40,10 +40,10 @@
                     domain = domain domainParts[ndx] (ndx > 1 ? "." : "")
                 }
             }
-            recNum = sprintf("%d", $NR)
-            #printf("80DEBUG: \nlength(%s)=%d\nlength(%s)=%d\nlength(%s)=%d\n", domain, length(domain), webUrl, length(webUrl), NR, length(NR))
+            recNum = sprintf("%d", NR)
+            #printf("80DEBUG: \nlength(%s)=%d\nlength(%s)=%d\nlength(%s)=%d\n", domain, length(domain), webUrl, length(webUrl), NR, length(recNum))
             # domain$weblink$recordNumber$substr$
-            sortKey = sprintf("%s$%s$%d$", domain, webUrl, NR)
+            sortKey = sprintf("%s$%s$%s$", domain, webUrl, recNum)
             lenSortKey = length(sortKey)
         
             #printf("\n90DEBUG: length(%s)=%d\n", sortKey, lenSortKey)
