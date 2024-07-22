@@ -7,13 +7,11 @@
 #    #rgxWebAddr = /(https?):\/\/([-.A-Za-z0-9])[.][a-zA-Z]{2,}(\/[-._/A-Za-z0-9 ]|%[0-9A-Fa-f]{2})/
 #}
 {
-
     found = match($0, "https?://[-!$%&'*+,./;<=>@_~A-Za-z0-9?]*")
     
     #printf("100DEBUG: RSTART=%d\tRLENGTH=%d\n", RSTART, RLENGTH)
     if ((RSTART > 0) && (RLENGTH > 0))
     {
-        row = $0
             
         #printf("00DEBUG: %d:%s\tlength=%d\n", NR, $0, length($0))
         webUrl = substr($0, RSTART, RLENGTH)
@@ -24,7 +22,7 @@
         #printf("50DEBUG: cntParts=%d:%s\n", cntParts, webUrl)
         if (cntParts > 0)
         {
-            if (0)
+            if (0)   # 1 for debug
             {
                 for (ndx = 1; ndx <= cntParts; ndx ++)
                 {
@@ -49,8 +47,11 @@
             lenSortKey = length(sortKey)
         
             #printf("\n90DEBUG: length(%s)=%d\n", sortKey, lenSortKey)
-        
-            printf("%s%d$%s\n", sortKey, lenSortKey, row)
+            
+            #printf("\n95DEBUG:\nsortKey=%s,\nlenSortKey=%s,\n$0=%s\n", sortKey, lenSortKey, $0)
+            
+            printf("%s%d$%s\n", sortKey, lenSortKey, $0)
         }
     }
 }
+ 
