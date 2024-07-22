@@ -12,6 +12,9 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Ways Calvin and Hobbes Aged Well](https://www.cbr.com/things-calvin-and-hobbes-did-right/) | July 2, 2024 |
+| [Every Time Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/) | July 2, 2024 |
+| [Greatest Calvin and Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | June 28, 2024 |
 | [10 Darkest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-dark-comic-strips/) | July 16, 2024 |
 | [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/) | July 12, 2024 |
 | [Why Doesn't Calvin and Hobbes Have Official Merch?](https://www.cbr.com/calvin-and-hobbes-no-official-merch/) | July 12, 2024 |
@@ -130,7 +133,10 @@
 ### Calvin and Hobbes / ScreenRant 
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
-|---|---|
+|---|---| 
+| [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
+| [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 29, 2024 |
 | [Charlie Brown and Calvin Finally Meet in Adorable Peanuts/Calvin and Hobbes Mash-Up](https://screenrant.com/charlie-brown-peanuts-meets-calvin-hobbes-fan-art/) | Jun 24, 2024 |
 | [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
