@@ -1,0 +1,15 @@
+{
+    "branches": ["main", "_staging", "next"],
+    "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
+    
+    "release": {
+        "branches": ["master", "next", "_staging"]
+    }
+    
+    "plugins": [
+        @semantic-release/commit-analyzer
+        @semantic-release/release-notes-generator
+        @semantic-release/npm
+        @semantic-release/github
+    ]
+}
