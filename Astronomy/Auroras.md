@@ -36,6 +36,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Magnetometers / SpaceWeatherLive.com](https://www.spaceweatherlive.com/en/auroral-activity/magnetometers.html) |
 | [Interactive Multi-Instrument Database of Solar Flares](https://data.nas.nasa.gov/helio/portals/solarflares/) |
 | [Heliophysics Data Portal](https://data.nas.nasa.gov/helio) |
+| [Aurora Forecast / Geophysical Institute](https://www.gi.alaska.edu/monitors/aurora-forecast) |
+| *[Aurora Tutorial @ NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/content/aurora-tutorial)* |
 
 ## Auroras
 
@@ -43,6 +45,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [G2 Watch for July 24th | NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Monday, July 22, 2024 13:53 UTC |
+| [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York | Space](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning) | July 22, 2024 |
 | [G1 (Minor\) Storm Watch for Saturday Evening (EDT\) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-watch-saturday-evening-edt) | Thursday, July 18, 2024 19:43 UTC |
 | **[Sun blasts out 2nd X-class flare this week, triggers more radio blackouts (video\) / Space](https://www.space.com/sun-solar-flare-x-class-2nd-this-week-july-16-2024)** | **July 18, 2024** |
 | [The Evolution and Impact of Active Region 13664 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/evolution-and-impact-active-region-13664-0) | Wednesday, July 17, 2024 21:09 UTC |
@@ -136,6 +140,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [NASA spots 16 'Death Star' black holes blasting powerful beams at multiple targets / Live Science](https://www.space.com/black-hole-jet-chandra-death-star) | May 25, 2024 |
 | [NASA’s Hi-C Rocket Experiment Captures Never-Before-Seen View of Solar Flares • SciTechDaily](https://scitechdaily.com/nasas-hi-c-rocket-experiment-captures-never-before-seen-view-of-solar-flares/) | MAY 25, 2024 |
 | [Space Weather Can Impact the Power Grid / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-can-impact-power-grid) | Friday, May 24, 2024 - 18:35 UTC |
+| [Why Are We Seeing These Crazy Northern Lights? / WIRED](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/) | MAY 24, 2024 11:20 AM |
 | [NASA Supercomputer Solves 400-Year-Old Solar Magnetic Puzzle • SciTechDaily](https://scitechdaily.com/nasa-supercomputer-solves-400-year-old-solar-magnetic-puzzle/) | MAY 24, 2024 |
 | [Historical Comparison of May 2024 Solar Storms / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/historical-comparison-may-2024-solar-storms) | Wednesday, May 22, 2024 - 18:17 UTC |
 | [Scientists find weird link between a solar mystery and feeding black holes / Space](https://www.space.com/sun-solar-mystery-feeding-black-holes) | May 22, 2024 |
@@ -347,6 +352,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [S2 (Moderate\) Solar Radiation Storm Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s2-moderate-solar-radiation-storm-observed) | Monday, January 29, 2024 - 18:38 UTC |
 | [SWPC Management and Program Analyst position now posted on USAJobs / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/swpc-management-and-program-analyst-position-now-posted-usajobs) | Monday, January 29, 2024 - 15:30 UTC |
 | [R2 (Moderate\) Radio Blackout Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-radio-blackout-observed-2) | Monday, January 29, 2024 - 06:17 UTC |
+| [Citizen scientists discover new type of aurora named ‘the dunes’ (video available\) - AGU Newsroom](https://news.agu.org/press-release/citizen-scientists-discover-new-type-of-aurora-named-the-dunes-video-available/) | 29 January 2020 |
 | [Brighter Than a Thousand Suns: Scientists Unravel Physics Behind Unusual Behavior of Stars’ Super Flares • SciTechDaily](https://scitechdaily.com/brighter-than-a-thousand-suns-scientists-unravel-physics-behind-unusual-behavior-of-stars-super-flares/) | JANUARY 27, 2024 |
 | [G1 Minor Storm levels likely on 25-27 Jan 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-levels-likely-25-27-jan-2024) | Wednesday, January 24, 2024 - 21:45 UTC |
 | [More auroras and radio blackouts today from ongoing solar storm - Earth.com](https://www.earth.com/news/ongoing-solar-storms-spectacular-auroras-and-radio-blackouts/) | 01-24-2024 |
