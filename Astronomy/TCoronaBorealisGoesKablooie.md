@@ -1,4 +1,4 @@
-# Astronomy/T Corona Borealis Goes Kablooie 
+# Astronomy/T Corona Borealis Goes Kablooie
 
 <details markdown="1">Auroras / T Corona Borealis "Hot Links"<summary ></summary >
 
@@ -96,6 +96,7 @@
 | [A Giant Explosion in Space Will Happen This Year, And You Can See It : ScienceAlert](https://www.sciencealert.com/a-giant-explosion-in-space-will-happen-this-year-and-you-can-see-it) | 08 April 2024 |
 | [Huge star explosion to appear in sky in once-in-a-lifetime event • Space Daily](https://www.spacedaily.com/reports/Huge_star_explosion_to_appear_in_sky_in_once-in-a-lifetime_event_999.html) | April 6, 2024 |
 | [Huge star explosion to appear in sky in once-in-a-lifetime event • Phys](https://phys.org/news/2024-04-huge-star-explosion-sky-lifetime.html) | APR 6, 2024 |
+| [Starwatch: Exploding nova promises rare sight in coming months / Astronomy / The Guardian](https://www.theguardian.com/science/2024/apr/08/starwatch-star-nova-t-coronae-borealis-visible) | Mon 8 Apr 2024 01.00 EDT<br />Last modified on Mon 8 Apr 2024 04.17 EDT |
 | [Nova explosion will be visible to naked eye in rare stargazing event • NBC News](https://www.nbcnews.com/science/space/nova-explosion-new-star-visible-naked-eye-rcna144511) | March 22, 2024, 7:00 AM EDT |
 | [Explosive nova will create a ‘new star’ in the night sky / CNN](https://www.cnn.com/2024/03/19/world/t-coronae-borealis-nova-new-star-scn/index.html) | 5:37 PM EDT, Tue March 19, 2024 |
 | [Astrophysicist explains science behind once-in-a-lifetime nova outburst that will light up the sky this year • Phys](https://phys.org/news/2024-03-astrophysicist-science-lifetime-nova-outburst.html) | MARCH 19, 2024 |
@@ -115,20 +116,20 @@
 | [Timely Information About Upcoming Major Celestial Events - Astronomical League](https://www.astroleague.org/timely-information-about-upcoming-major-celestial-events/) | NO DATE |
 
 [^21]: Typically, T CrB is not visible to the naked eye at a magnitude of 10. When it reaches peak brightness, T CrB will be comparable to Polaris, the North Star, which has a magnitude of 2. (The smaller the number, the brighter it is.) It should remain this bright for a few days to a week before vanishing again. When T CrB goes off, it will only be at maximum brightness for half a day before you must wait another 80 years to see it with your naked eyes. So go out and keep an eye on it!
-[^22]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation. 
+[^22]: This Rho Corona Borealis, not T Corona Borealis. But they are in the same constellation.
 
 ![Sky Chart with T Corona Borealis](TCrB-2AM-April15-SE.png)
 
-## Astrophotography, Night Photography 
+## Astrophotography, Night Photography
 
 [Astrophotography and Night Photography](../Photography/Astrophotography.md) has links to external content of articles and videos.
 
-## Light Pollution 
+## Light Pollution
 
 As rural areas of Lexington County, South Carolina, become suburban areas, the ability to enjoy the night sky is greatly diminished. Subdivisions in the design phase should be developed to preserve dark skies for stargazing, meteor showers, and viewing the International Space Station. Current subdivision currently in the design, development, and construction phases in Lexington County, South Carolina are producing light pollution that destroy the night sky.
 
 ### Light Pollution Remediations
- 
+
 #### Lighting Recommendations for New Subdivisions
 
 DarkSky International restores the nighttime environment and protects communities from the harmful effects of light pollution through outreach, advocacy, and conservation.
@@ -152,9 +153,9 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 | [Light pollution map](https://www.lightpollutionmap.info/)
 | [Light Pollution and Astronomy: How Dark Are Your Night Skies? - Sky & Telescope](https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale/) | JULY 18, 2006 |
 
-# International Space Station 
+# International Space Station
 
-## ISS Sighting Opportunities for South Carolina 
+## ISS Sighting Opportunities for South Carolina
 
 If you can see stars at night, then you can watch the ISS when it flies overhead. The sun reflecting off the solar arrays is what makes it visible. It sort of looks like a fast moving star, faster than a passenger jet, but slower than a meteor.
 
@@ -221,4 +222,4 @@ If you can see stars at night, then you can watch the ISS when it flies overhead
 | [Walhalla, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Walhalla) |
 | [Walterboro, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Walterboro) |
 | [Williamston, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Williamston) |
-| [Winnsboro, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Winnsboro) | 
+| [Winnsboro, South Carolina, United States](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Winnsboro) |
