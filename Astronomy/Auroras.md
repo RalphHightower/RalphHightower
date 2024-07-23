@@ -45,8 +45,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity[^2401] | Date |
 |---|---|
-| [G2 Watch for July 24th | NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Monday, July 22, 2024 13:53 UTC |
-| [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York | Space](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning) | July 22, 2024 |
+| [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Monday, July 22, 2024 13:53 UTC |
+| [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York / Space](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning) | July 22, 2024 |
 | [G1 (Minor\) Storm Watch for Saturday Evening (EDT\) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-watch-saturday-evening-edt) | Thursday, July 18, 2024 19:43 UTC |
 | **[Sun blasts out 2nd X-class flare this week, triggers more radio blackouts (video\) / Space](https://www.space.com/sun-solar-flare-x-class-2nd-this-week-july-16-2024)** | **July 18, 2024** |
 | [Astrophotographer Catches Sun Firing Spectacular Plasma Ejection At Mercury / IFLScience](https://www.iflscience.com/astrophotographer-catches-sun-firing-spectacular-plasma-ejection-at-mercury-75159) | July 18, 2024 |
