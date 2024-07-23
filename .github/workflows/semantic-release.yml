@@ -3,7 +3,7 @@
     "repositoryUrl": "https://github.com/RalphHightower/RalphHightower",
     
     "release": {
-        "branches": ["master", "next", "_staging"]
+        "branches": ["main", "next", "_staging"]
     }
     
     "plugins": [
