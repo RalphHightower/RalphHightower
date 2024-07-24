@@ -135,7 +135,7 @@
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---| 
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
-| [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 || [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
+| [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 29, 2024 |
