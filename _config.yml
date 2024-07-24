@@ -47,7 +47,7 @@ social_links:
 
 # Build settings
 theme: minima
-    skin: auto
+skin: auto
 
 plugins:
     - gem install github-pages
