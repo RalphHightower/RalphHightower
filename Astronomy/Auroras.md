@@ -37,6 +37,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Interactive Multi-Instrument Database of Solar Flares](https://data.nas.nasa.gov/helio/portals/solarflares/) |
 | [Heliophysics Data Portal](https://data.nas.nasa.gov/helio) |
 | [Aurora Forecast / Geophysical Institute](https://www.gi.alaska.edu/monitors/aurora-forecast) |
+| [News Archive / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news-archive) |
 | *[Aurora Tutorial @ NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/content/aurora-tutorial)* |
 
 ## Auroras
@@ -45,6 +46,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [S1-Minor Solar Radiation Storm Event from Far Side Halo CME / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s1-minor-solar-radiation-storm-event-far-side-halo-cme) | Wednesday, July 24, 2024 12:48 UTC |
+| [S1-Minor Solar Radiation Storm Event from Far Side Halo CME / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s1-minor-solar-radiation-storm-event-far-side-halo-cme) | Tuesday, July 23, 2024 16:28 UTC |
 | [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Monday, July 22, 2024 13:53 UTC |
 | [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York / Space](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning) | July 22, 2024 |
 | [G1 (Minor\) Storm Watch for Saturday Evening (EDT\) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-watch-saturday-evening-edt) | Thursday, July 18, 2024 19:43 UTC |
