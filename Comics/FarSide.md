@@ -19,9 +19,7 @@
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
-| [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Larson's Most Iconic Strips\)](https://screenrant.com/funniest-far-side-comics-gary-larson-june-1984/) | July 20, 2024 |
-| [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
 | [THE FAR SIDE: 12 Comics From 1983 Designed To Make Readers Go "WHAT-THE?"](https://screenrant.com/10-far-side-comics-1983-what-the-reflex/) | July 18, 2024 |
 | [12 Far Side Comics From 1982 That Make Readers Go "What The?"](https://screenrant.com/best-far-side-comics-1982-confusing/) | July 15, 2024 |
 | [16 Funniest Far Side Comics Starring Gary Larson's Best Recurring Character, The Detective](https://screenrant.com/funniest-far-side-comics-reccuring-character-detective-larson/) | July 10, 2024 |
