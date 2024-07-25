@@ -12,16 +12,15 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
-| [10 Ways Calvin and Hobbes Aged Well](https://www.cbr.com/things-calvin-and-hobbes-did-right/) | July 2, 2024 |
-| [Every Time Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/) | July 2, 2024 |
-| [Greatest Calvin and Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | June 28, 2024 |
+| [10 Best Calvin & Hobbes Comics with Animals (That Aren’t Hobbes)](https://www.cbr.com/best-calvin-and-hobbes-comics-with-animals/) | July 18, 2024 |
 | [10 Darkest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-dark-comic-strips/) | July 16, 2024 |
-| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/) | July 12, 2024 |
+| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/) | July 13, 2024 |
 | [Why Doesn't Calvin and Hobbes Have Official Merch?](https://www.cbr.com/calvin-and-hobbes-no-official-merch/) | July 12, 2024 |
 | [10 Funniest Calvin & Hobbes Comics with Calvin's Alter-Egos](https://www.cbr.com/best-calvin-and-hobbes-alter-egos/) | July 11, 2024 |
 | [10 Best Calvin & Hobbes Comics Featuring Calvin's Parents](https://www.cbr.com/best-calvin-hobbes-parents-comic-strips/) | July 10, 2024 |
 | [Calvinball from Calvin & Hobbes, Explained](https://www.cbr.com/calvin-and-hobbes-calvinball/) | July 7, 2024 |
-| [Every Time Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/) | Jul 2, 2024 |
+| [Every Time Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/) | July 2, 2024 |
+| [10 Ways Calvin and Hobbes Aged Well](https://www.cbr.com/things-calvin-and-hobbes-did-right/) | July 2, 2024 |
 | [Greatest Calvin and Hobbes Strips Ever Published](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | June 28, 2024 |
 | [10 Best Calvin and Hobbes Strips Without Words](https://www.cbr.com/best-textless-calvin-and-hobbes/) | June 25, 2024 |
 | [10 Calvin and Hobbes Strips Without a Punchline](https://www.cbr.com/calvin-and-hobbes-non-comedic-strips/) | June 12, 2024 |
@@ -41,8 +40,6 @@
 | [10 Most Wholesome Calvin And Hobbes Comic Strips](https://www.cbr.com/best-calvin-and-hobbes-wholesome-comic-strips/ ) | APR 9, 2024 |
 | [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) | APR 4, 2024 |
 | [Calvin’s Most Creative Show-and-Tell Items in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-show-and-tell/ ) | Mar 22, 2024 |
-| [Calvin's Most Creative Inventions in Calvin and Hobbes](https://www.cbr.com/calvin-and-hobbes-best-inventions/ ) | Mar 18, 2024 |
-| [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/ ) | Mar 8, 2024 |
 | [Why Are There So Few Characters in Calvin and Hobbes?](https://www.cbr.com/calvin-and-hobbes-minimal-characters/ ) | Mar 1, 2024 |
 | [Calvin & Hobbes 15 Best Characters](https://www.cbr.com/calvin-n-hobbes-favorite-characters/ ) | Feb 23, 2024 |
 | [Ending Calvin And Hobbes Is Exactly What Saved It](https://www.cbr.com/calvin-and-hobbes-finale-shaped-its-legacy/ ) | Feb 21, 2024 |
@@ -52,23 +49,18 @@
 | [10 Best Calvin and Hobbes Comics Set In A Winter Wonderland](https://www.cbr.com/calvin-and-hobbes-best-winter-wonderland-comics/ ) | Dec 16, 2023 |
 | [10 Heartwarming Calvin and Hobbes Comic Strips Perfect for the Holidays](https://www.cbr.com/best-calvin-and-hobbes-holiday-comic-strips/ ) | Nov 23, 2023 |
 | [10 Greatest Calvin's Mom Strips In Calvin & Hobbes](https://www.cbr.com/calvin-and-hobbs-mom-comic-strips-ranked/ ) | Nov 23, 2023 |
-| [15 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/ ) | Nov 2, 2023 |
 | [10 Greatest Calvin's Dad Strips In Calvin & Hobbes](https://www.cbr.com/greatest-calvins-dad-comics-calvin-and-hobbes/ ) | Oct 26, 2023 |
-| [Why Are They Named Calvin and Hobbes?](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/ ) | Oct 19, 2023 |
 | [Hobbes' 10 Greatest Moments In Calvin & Hobbes](https://www.cbr.com/hobbess-10-greatest-moments-in-calvin-hobbes/ ) | Oct 18, 2023 |
 | [Calvin's 10 Greatest Moments In Calvin & Hobbes](https://www.cbr.com/calvin-hobbes-best-calvin-stories/ ) | Oct 12, 2023 |
 | [15 Reasons Hobbes is Actually the Star of Calvin and Hobbes](https://www.cbr.com/hobbes-better-than-calvin-comic-strips/ ) | Oct 10, 2023 |
 | [10 Reasons Calvin And Hobbes Is The World’s Greatest Comic Strip](https://www.cbr.com/calvin-and-hobbes-best-comic-strip/ ) | Oct 3, 2023 |
 | [10 Times Calvin and Hobbes Got Surprisingly Dark](https://www.cbr.com/calvin-and-hobbes-dark-humor/ ) | Sep 15, 2023 |
-| [The History Behind Calvin and Hobbes (& Where to Read Bill Watterson's Classic Strips)](https://www.cbr.com/calvin-hobbes-reading-guide/ ) | Sep 1, 2023 |
 | [A Complete Guide to Reading Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-reading-guide/ ) | Sep 1, 2023 |
 | [How Bill Watterson's Calvin & Hobbes Captures the Essence of Childhood Summer](https://www.cbr.com/calvin-and-hobbes-childhood-summer/ ) | Jul 31, 2023 |
 | [10 Calvin & Hobbes Strips That'll Make You Miss Summer Vacation](https://www.cbr.com/calvin-hobbes-best-summer-vacation-comic-strips/ ) | Jul 10, 2023 |
 | [15 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/calvin-hobbes-funny-comics/ ) | Jul 4, 2023 |
-| [15 Times Calvin & Hobbes Broke Our Hearts](https://www.cbr.com/calvin-hobbes-sad-comics/ ) | Jun 16, 2023 |
 | [15 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/ ) | Jun 2, 2023 |
 | [10 Most Heartwarming Calvin & Hobbes Comics](https://www.cbr.com/calvin-hobbes-heartwarming-comics/ ) | May 29, 2023 |
-| [9 Weirdest Details From Early Calvin And Hobbes Comics](https://www.cbr.com/calvin-and-hobbes-weirdest-details-early-comic-strips/ ) | Mar 24, 2023 |
 | [Calvin and Hobbes Debate Exactly How Santa Claus Defines the Term 'Good'](https://www.cbr.com/calvin-and-hobbes-christmas-comic-strips/ ) | Dec 2, 2022 |
 | [Calvin & Hobbes 10 Most Beloved Stories](https://www.cbr.com/best-calvin-hobbes-stories/ ) | Dec 1, 2022 |
 | [10 Things Calvin & Hobbes Did Better Than Any Other Strip](https://www.cbr.com/calvin-n-hobbes-best-comic-strip/ ) | Nov 22, 2022 |
@@ -104,8 +96,6 @@
 | [Is Bill Watterson drawing this week's 'Pearls Before Swine'?](https://www.cbr.com/is-bill-watterson-drawing-this-weeks-pearls-before-swine/ ) | Jun 5, 2014 |
 | [Another rare 'Calvin and Hobbes' original goes up for auction](https://www.cbr.com/another-rare-calvin-and-hobbes-original-goes-up-for-auction/ ) | Apr 25, 2014 |
 | [Bill Watterson talks readership, digital and more in new interview](https://www.cbr.com/bill-watterson-talks-readership-digital-and-more-in-new-interview/ ) | Mar 20, 2014 |
-| [Another rare 'Calvin and Hobbes' original goes up for auction](https://www.cbr.com/another-rare-calvin-and-hobbes-original-goes-up-for-auction/ ) | Apr 25, 2014 |
-| [Bill Watterson talks readership, digital and more in new interview](https://www.cbr.com/bill-watterson-talks-readership-digital-and-more-in-new-interview/ ) | Mar 20, 2014 |
 | ['Calvin and Hobbes' makes surprise appearance in courtroom](https://www.cbr.com/calvin-and-hobbes-makes-surprise-appearance-in-courtroom/ ) | Feb 11, 2014 |
 | ['Dear Mr. Watterson' Demonstrates Resonance of 'Calvin and Hobbes'](https://www.cbr.com/dear-mr-watterson-demonstrates-resonance-of-calvin-and-hobbes/ ) | Nov 15, 2013 |
 | ['Dear Mr. Watterson' Director Discusses Cultural Impact of 'Calvin and Hobbes'](https://www.cbr.com/dear-mr-watterson-director-discusses-cultural-impact-of-calvin-and-hobbes/ ) | Nov 15, 2013 |
@@ -137,8 +127,6 @@
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
-| [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 29, 2024 |
 | [Charlie Brown and Calvin Finally Meet in Adorable Peanuts/Calvin and Hobbes Mash-Up](https://screenrant.com/charlie-brown-peanuts-meets-calvin-hobbes-fan-art/) | Jun 24, 2024 |
 | [Calvin and Hobbes Creator' Learned Two Vital Lessons From Peanuts' Charles Schulz](https://screenrant.com/calvin-and-hobbes-peanuts-charles-schulz-bill-watterson/) | June 22, 2024 |
 | [Hobbes' 10 Funniest Moments In Calvin & Hobbes](https://screenrant.com/hobbes-10-funniest-moments-calvin-and-hobbes/) | Jun 14, 2024 |
@@ -149,7 +137,6 @@
 | [10 Best Calvin and Hobbes Comics That Discuss Death Without Pulling Their Punches](https://screenrant.com/10-best-calvin-hobbes-comics-about-death/) | May 31, 2024 |
 | [10 Weirdest Calvin and Hobbes Comics, Ranked](https://www.cbr.com/calvin-and-hobbes-strangest-comics/) | May 28, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
 | [Peanuts & Calvin and Hobbes Totally Influenced DC's Funniest Story, and Now I Love It Even More](https://screenrant.com/tom-king-wonder-woman-trinity-influences-peanuts-calvin-hobbes/) | May 21, 2024 |
 | [This Calvin & Hobbes Comic Would NEVER Be Published Today](https://screenrant.com/calvin-hobbes-inappropriate-comic/ ) | May 12, 2024 |
 | [Calvin & Hobbes Combines with DC's Shazam in Adorable Bill Watterson Tribute](https://screenrant.com/calvin-hobbes-tribute-shazam-comic/) | Apr 29, 2024 |
