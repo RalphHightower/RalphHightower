@@ -150,6 +150,7 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 
 | Light Pollution | Date |
 |---|---|
+| **[Losing the darkness / Science](https://www.science.org/doi/10.1126/science.adi4552)** | 15 Jun 2023 |
 | [Light pollution map](https://www.lightpollutionmap.info/)
 | [Light Pollution and Astronomy: How Dark Are Your Night Skies? - Sky & Telescope](https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale/) | JULY 18, 2006 |
 
