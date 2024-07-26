@@ -2,7 +2,9 @@
 
 ## Ruby Gemfiles
 
-### [Dependency versions  | GitHub Pages](https://pages.github.com/versions/)[^110]
+### [Dependency versions  | GitHub Pages](https://pages.github.com/versions/)[^11]
+
+[^11]: These Ruby gems work with [GitHub](https://github.com/) 
 
 #### GitHub Pages uses the following dependencies and versions:
 
@@ -36,12 +38,24 @@
 | [nokogiri](https://rubygems.org/gems/nokogiri/versions/1.16.6)  | Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, or xerces.  | gem "nokogiri", "~> 1.16", ">= 1.16.6"  | gem install nokogiri  |
 | [safe_yaml](https://rubygems.org/gems/safe_yaml/versions/1.0.5)  | Parse YAML safely  | gem "safe_yaml", "~> 1.0", ">= 1.0.5"  | gem install safe_yaml  |
 
-[^110]: These Ruby gems work with [GitHub](https://github.com/) 
+[^21]: No GitHub repository for jekyll-nested-menu-generator.
 
-### [RubyGems.org | your community gem host](https://rubygems.org/) 
+### Not referenced in: [Dependency versions  | GitHub Pages](https://pages.github.com/versions/)[^11]
+
+#### [RubyGems.org | your community gem host](https://rubygems.org/) 
 
 | Plug-in  | Description  | Gemfile  | Install  |
-|---|---|---|---|
+|----|----|----|----|
+| [activesupport](https://rubygems.org/gems/activesupport/versions/7.1.3.4) | A toolkit of support libraries and Ruby core extensions extracted from the Rails framework. Rich support for multibyte strings, internationalization, time zones, and testing. | gem "activesupport", "~> 7.1", ">= 7.1.3.4" | gem install activesupport |
+| [addressable](https://rubygems.org/gems/addressable/versions/2.8.7) | Addressable is an alternative implementation to the URI implementation that is part of Ruby"s standard library. It is flexible, offers heuristic parsing, and additionally provides extensive support for IRIs and URI templates. | gem "addressable", "~> 2.8", ">= 2.8.7" | gem install addressable |
+| [bigdecimal](https://rubygems.org/gems/bigdecimal/versions/3.1.8) | This library provides arbitrary-precision decimal floating-point number class. | gem "bigdecimal", "~> 3.1", ">= 3.1.8" | gem install bigdecimal |
+| [concurrent-ruby](https://rubygems.org/gems/concurrent-ruby/versions/1.3.3) | Modern concurrency tools including agents, futures, promises, thread pools, actors, supervisors, and more. Inspired by Erlang, Clojure, Go, JavaScript, actors, and classic concurrency patterns. | gem "concurrent-ruby", "~> 1.3", ">= 1.3.3" | gem install concurrent-ruby |
+| [dnsruby](https://rubygems.org/gems/dnsruby/versions/1.72.2) | Dnsruby is a pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs, including DNSSEC NSEC3 support. | gem "dnsruby", "~> 1.72", ">= 1.72.2" | gem install dnsruby |
+| [drb](https://rubygems.org/gems/drb/versions/2.2.1) | Distributed object system for Ruby | gem "drb", "~> 2.2", ">= 2.2.1" | gem install drb |
+| [faraday-net_http](https://rubygems.org/gems/faraday-net_http/versions/3.1.1) | Faraday adapter for Net::HTTP | gem "faraday-net_http", "~> 3.1", ">= 3.1.1" | gem install faraday-net_http |
+| [faraday](https://rubygems.org/gems/faraday/versions/2.10.0) | HTTP/REST API client library. | gem "faraday", "~> 2.10" | gem install faraday |
+| [ffi](https://rubygems.org/gems/ffi/versions/1.17.0) | Ruby FFI library | gem "ffi", "~> 1.17" | gem install ffi |
+| [i18n](https://rubygems.org/gems/i18n/versions/1.14.5) | New wave Internationalization support for Ruby. | gem "i18n", "~> 1.14", ">= 1.14.5" | gem install i18n |
 | [jekyll-categories](https://rubygems.org/gems/jekyll-categories/versions/0.0.2) | Provides a category index page, category pages and category atom feeds for Jekyll. |gem "jekyll-categories", "~> 0.0.2" | gem install jekyll-categories |
 | [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect/versions/1.1.0) | Email protection liquid filter for Jekyll | gem "jekyll-email-protect", "~> 1.1" | gem install jekyll-email-protect |
 | [jekyll-exiftag](https://rubygems.org/gems/jekyll-exiftag/versions/0.1.0) | jekyll-exiftag is a LiquidTag Extension for Jekyll to get Exif data from images | gem "jekyll-exiftag", "~> 0.1.0" | gem install jekyll-exiftag |
@@ -53,14 +67,23 @@
 | [jekyll-menu](https://rubygems.org/gems/jekyll-menu/versions/0.1.1) | Easy menu creation with YAML data |  gem "jekyll-menu", "~> 0.1.1" | gem install jekyll-menu |
 | [jekyll-menus](https://rubygems.org/gems/jekyll-menus/versions/0.6.1) | Menus (site navigation) for your Jekyll website | *gem "jekyll-menus", "~> 0.6.1"* | *gem install jekyll-menus* |
 | [jekyll-mermaid](https://rubygems.org/gems/jekyll-mermaid/versions/1.0.0) | A Jekyll plugin to simplify the creation of mermaid diagrams and flowcharts in your posts and pages. | gem "jekyll-mermaid", "~> 1.0" | gem install jekyll-mermaid |
-| [jekyll-nested-menu-generator](https://rubygems.org/gems/jekyll-nested-menu-generator/versions/1.0.1)[^21] | Provides a tag that generates a nested navigation menu for a specified folder. Useful for automatically generating a multilevel menu that mirrors your directory structure, or generating a menu of generated pages. | gem "jekyll-nested-menu-generator", "~> 1.0", ">= 1.0.1" | gem install jekyll-nested-menu-generator |
+| ~~[jekyll-nested-menu-generator](https://rubygems.org/gems/jekyll-nested-menu-generator/versions/1.0.1)[^21]~~ | ~~Provides a tag that generates a nested navigation menu for a specified folder. Useful for automatically generating a multilevel menu that mirrors your directory structure, or generating a menu of generated pages.~~ | ~~gem "jekyll-nested-menu-generator", "~> 1.0", ">= 1.0.1"~~ | ~~gem install jekyll-nested-menu-generator~~ |
 | [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship/versions/0.10.2) | A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, audio, youtube, vimeo, dailymotion, spotify, soundcloud, etc. | gem "jekyll-spaceship", "~> 0.10.2" | gem install jekyll-spaceship |
 | [jekyll-tagging](https://rubygems.org/gems/jekyll-tagging/versions/1.1.0) | Jekyll plugin to automatically generate a tag cloud and tag pages. | gem "jekyll-tagging", "~> 1.1" | gem install jekyll-tagging |
 | [jekyll-theme-conference](https://rubygems.org/gems/jekyll-theme-conference/versions/3.6.5) | Jekyll template for a conference website containing program, speaker, talks and room overview. |gem "jekyll-theme-conference", "~> 3.6", ">= 3.6.5" | gem install jekyll-theme-conference |
-[jekyll-titles-from-headings](https://rubygems.org/gems/jekyll-titles-from-headings/versions/0.5.3) | A Jekyll plugin to pull the page title from the first Markdown heading when none is specified. | gem "jekyll-titles-from-headings", "~> 0.5.3" | gem install jekyll-titles-from-headings |
+| [jekyll-titles-from-headings](https://rubygems.org/gems/jekyll-titles-from-headings/versions/0.5.3) | A Jekyll plugin to pull the page title from the first Markdown heading when none is specified. | gem "jekyll-titles-from-headings", "~> 0.5.3" | gem install jekyll-titles-from-headings |
 | [jekyll-toc](https://rubygems.org/gems/jekyll-toc/versions/0.19.0) | Jekyll (Ruby static website generator) plugin which generates a Table of Contents for the page. | gem "jekyll-toc", "~> 0.19.0" | gem install jekyll-toc |
 | [jekyll-webmention_io](https://rubygems.org/gems/jekyll-webmention_io/versions/4.0.0) | This Gem includes a suite of tools for managing webmentions in Jekyll: * Tags * Count of webmentions (filterable) * All webmentions (filterable) * Bookmarks * Likes * Links * Posts * Replies * Reposts * RSVPs * Contents for the `head` of your pages * JavaScript enhancements * Commands - Send webmentions you’ve made * Generators - Collect webmentions from Webmention.io and gather sites you’ve mentioned | gem "jekyll-webmention_io", "~> 4.0" | gem install jekyll-webmention_io |
 | [jekyll-youtube](https://rubygems.org/gems/jekyll-youtube/versions/1.0.0) | jekyll plugin to generate html snippets for embedding Youtube videos | gem "jekyll-youtube", "~> 1.0" | gem install jekyll-youtube |
+| [logger](https://rubygems.org/gems/logger/versions/1.6.0) | Provides a simple logging utility for outputting messages. |gem "logger", "~> 1.6" | gem install logger |
+| [minima](https://rubygems.org/gems/minima/versions/2.5.1) | A beautiful, minimal theme for Jekyll. | gem 'minima', "~> 2.5", ">= 2.5.1" | gem install minima |
+| [minitest](https://rubygems.org/gems/minitest/versions/5.24.1) | minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.[^41] | gem "minitest", "~> 5.24", ">= 5.24.1" | gem install minitest |
+| [net-http](https://rubygems.org/gems/net-http/versions/0.4.1) | HTTP client api for Ruby. | gem "net-http", "~> 0.4.1" | gem install net-http |
+| [rake](https://rubygems.org/gems/rake/versions/13.2.1) | Rake is a Make-like program implemented in Ruby. Tasks and dependencies are specified in standard Ruby syntax.[^42] | gem "rake", "~> 13.2", ">= 13.2.1" | gem install rake |
+| [simpleidn](https://rubygems.org/gems/simpleidn/versions/0.2.3) | This gem allows easy conversion from punycode ACE strings to unicode UTF-8 strings and vice-versa. | gem "simpleidn", "~> 0.2.3" | gem install simpleidn |
 | [social_linker](https://rubygems.org/gems/social_linker/versions/0.5.0.1) | Social linker generates share-links for the different social networks from a simple SocialLinker::Subject class. Supported networks are: Twitter, Facebook, LinkedIn, Google+, Pinterest, and email | gem "social_linker", "~> 0.5.0.1" | gem install social_linker |
+| [uri](https://rubygems.org/gems/uri/versions/0.13.0) | URI is a module providing classes to handle Uniform Resource Identifiers | gem "uri", "~> 0.13.0" | gem install uri 
 
-[^21]: No GitHub repository for jekyll-nested-menu-generator.
+[^41]: [^61]"I had a class with Jim Weirich on testing last week and we were allowed to choose our testing frameworks. Kirk Haines and I were paired up and we cracked open the code for a few test frameworks... I MUST say that minitest is *very* readable / understandable compared to the "other two" options we looked at. Nicely done and thank you for helping us keep our mental sanity." <br />-- Wayne E. Seguin<br /><br />• minitest/test is a small and incredibly fast unit testing framework. It provides a rich set of assertions to make your tests clean and readable. <br /><br />• minitest/spec is a functionally complete spec engine. It hooks onto minitest/test and seamlessly bridges test assertions over to spec expectations. <br /><br />• minitest/benchmark is an awesome way to assert the performance of your algorithms in a repeatable manner. Now you can assert that your newb co-worker doesn"t replace your linear algorithm with an exponential one! <br /><br />• minitest/mock by Steven Baker, is a beautifully tiny mock (and stub) object framework. <br /><br />• minitest/pride shows pride in testing and adds coloring to your test output. I guess it is an example of how to write IO pipes too. :P <br /><br />• minitest/test is meant to have a clean implementation for language implementors that need a minimal set of methods to bootstrap a working test suite. For example, there is no magic involved for test-case discovery. <br /><br />"Again, I can"t praise enough the idea of a testing/specing framework that I can actually read in full in one sitting!" <br />-- Piotr Szotkowski <br /><br />Comparing to rspec: rspec is a testing DSL. minitest is ruby. <br />-- Adam Hawkins,<br /><br />"Bow Before MiniTest" minitest doesn"t reinvent anything that ruby already provides, like: classes, modules, inheritance, methods. This means you only have to learn ruby to use minitest and all of your regular OO practices like extract-method refactorings still apply.
+[^42]: Rake has the following features: <br /> • Rakefiles (rake"s version of Makefiles) are completely defined in standard Ruby syntax. No XML files to edit. No quirky Makefile syntax to worry about (is that a tab or a space?) <br />•  Users can specify tasks with prerequisites. <br />• Rake supports rule patterns to synthesize implicit tasks. <br />• Flexible FileLists that act like arrays but know about manipulating file names and paths. <br />• Supports parallel execution of tasks
+[^61]: In my opinion, flowery prose doesn"t need to be in the description. <br> *Just the facts ma'am.*<br />Detective Joe Friday. Dragnet.<br />- @RalphHightower 
