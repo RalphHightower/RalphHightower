@@ -57,11 +57,11 @@
 | [ffi](https://rubygems.org/gems/ffi/versions/1.17.0) | Ruby FFI library | gem "ffi", "~> 1.17" | gem install ffi |
 | [i18n](https://rubygems.org/gems/i18n/versions/1.14.5) | New wave Internationalization support for Ruby. | gem "i18n", "~> 1.14", ">= 1.14.5" | gem install i18n |
 | [jekyll-categories](https://rubygems.org/gems/jekyll-categories/versions/0.0.2) | Provides a category index page, category pages and category atom feeds for Jekyll. |gem "jekyll-categories", "~> 0.0.2" | gem install jekyll-categories |
-| [jekyll-email-protec](https://rubygems.org/gems/jekyll-email-protect/versions/1.1.0) | Email protection liquid filter for Jekyll | gem "jekyll-email-protect", "~> 1.1" | gem install jekyll-email-protect |
+| [jekyll-email-protect](https://rubygems.org/gems/jekyll-email-protect/versions/1.1.0) | Email protection liquid filter for Jekyll | gem "jekyll-email-protect", "~> 1.1" | gem install jekyll-email-protect |
 | [jekyll-exiftag](https://rubygems.org/gems/jekyll-exiftag/versions/0.1.0) | jekyll-exiftag is a LiquidTag Extension for Jekyll to get Exif data from images | gem "jekyll-exiftag", "~> 0.1.0" | gem install jekyll-exiftag |
 | [jekyll-galleries](https://rubygems.org/gems/jekyll-galleries/versions/0.8.2) | Jekyll plugin to automatically generate photo gallery (album) from image folder. | gem "jekyll-galleries", "~> 0.8.2" | gem install jekyll-galleries |
 | [jekyll-google_analytics](https://rubygems.org/gems/jekyll-google_analytics/versions/0.1.0) | Add Google Analytics to your Jekyll site | gem "jekyll-google_analytics", "~> 0.1.0" | gem install jekyll-google_analytics |
-| [jekyll-last-modified-a](https://rubygems.org/gems/jekyll-last-modified-at/versions/1.3.2) | A liquid tag for Jekyll to indicate the last time a file was modified. | gem "jekyll-last-modified-at", "~> 1.3", ">= 1.3.2" | gem install jekyll-last-modified-at
+| [jekyll-last-modified-at](https://rubygems.org/gems/jekyll-last-modified-at/versions/1.3.2) | A liquid tag for Jekyll to indicate the last time a file was modified. | gem "jekyll-last-modified-at", "~> 1.3", ">= 1.3.2" | gem install jekyll-last-modified-at
 | [jekyll-maps](https://rubygems.org/gems/jekyll-maps/versions/2.4.0) | Google Maps support in Jekyll blog to easily embed maps with posts" locations |gem "jekyll-maps", "~> 2.4" | gem install jekyll-maps |
 | [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions/versions/1.6.0) | @mention support for your Jekyll site | gem "jekyll-mentions", "~> 1.6" | gem install jekyll-mentions |
 | [jekyll-menu](https://rubygems.org/gems/jekyll-menu/versions/0.1.1) | Easy menu creation with YAML data |  gem "jekyll-menu", "~> 0.1.1" | gem install jekyll-menu |
