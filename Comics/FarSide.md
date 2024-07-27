@@ -36,7 +36,7 @@
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
 | [10 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | July 23, 2024 |
-| [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://scre.enrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
+| [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 20, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Larson's Most Iconic Strips)](https://screenrant.com/funniest-far-side-comics-gary-larson-june-1984/) | July 20, 2024 |
 | [THE FAR SIDE: 12 Comics From 1983 Designed To Make Readers Go "WHAT-THE?"](https://screenrant.com/10-far-side-comics-1983-what-the-reflex/) | July 18, 2024 |
