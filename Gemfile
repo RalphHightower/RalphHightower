@@ -15,7 +15,7 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 # Happy Jekylling!
 # gem "jekyll", "~>3.6.0"
 #gem "rake", "~>12.3.3"
-gem “rake”, “~> 13.2”, “>= 13.2.1”
+gem “rake”, “~> 13.2” #, “>= 13.2.1”
 gem “json”, “~> 2.7”, “>= 2.7.2”
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
