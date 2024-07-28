@@ -18,6 +18,8 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The Best Historical The Far Side Comics, Ranked](https://www.cbr.com/video/the-far-side-best-historical-comics-ranked/) | July 25, 2024 |
+| [15 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/) | July 22, 2024 |
 | [10 The Far Side Comic Strips That Barely Make Any Sense](https://www.cbr.com/the-far-side-strips-make-no-sense/) | July 15, 2024 |
 | [10 Best The Far Side Comics Featuring Farm Animals](https://www.cbr.com/best-far-side-comics-farm-animals/) | July 13, 2024 |
 | [15 Funniest The Far Side Comics About Animals, Ranked](https://www.cbr.com/best-far-side-comics-funny-animals-ranked/) | Jul 10, 2024 |
@@ -35,6 +37,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [20 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/) | July 26, 2024 |
 | [10 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | July 23, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 20, 2024 |
