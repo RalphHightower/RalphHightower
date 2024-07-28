@@ -2,9 +2,9 @@ source "https://rubygems.org"
 #gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 #gem “jekyll”, “~> 4.3”, “>= 4.3.3”
-#gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
-gem “kramdown-parser-gfm”, “~> 1.1”
+#gem “kramdown-parser-gfm”, “~> 1.1”
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
