@@ -42,7 +42,7 @@
 
 #### [RubyGems.org | your community gem host](https://rubygems.org/)
 
-| Plug-in | Description | Gemfile | Install | Version  |Updated | 
+| Plug-in | Description | Gemfile | Install | Version  | Updated | 
 |----|----|----|----|----|----|
 | [activesupport](https://rubygems.org/gems/activesupport/versions/7.1.3.4) | A toolkit of support libraries and Ruby core extensions extracted from the Rails framework. Rich support for multibyte strings, internationalization, time zones, and testing. | gem "activesupport", "~> 7.1", ">= 7.1.3.4" | gem install activesupport | 7.2.0.beta3 | July 11, 2024 |
 | [addressable](https://rubygems.org/gems/addressable/versions/2.8.7) | Addressable is an alternative implementation to the URI implementation that is part of Ruby"s standard library. It is flexible, offers heuristic parsing, and additionally provides extensive support for IRIs and URI templates. | gem "addressable", "~> 2.8", ">= 2.8.7" | gem install addressable | 2.8.7 | June 21, 2024 |
@@ -84,6 +84,7 @@
 | ~~[social_linker](https://rubygems.org/gems/social_linker/versions/0.5.0.1)~~[^32] | ~~Social linker generates share-links for the different social networks from a simple SocialLinker::Subject class. Supported networks are: Twitter, Facebook, LinkedIn, Google+, Pinterest, and email~~ | ~~gem "social_linker", "~> 0.5.0.1"~~ | ~~gem install social_linker | 0.5.0.1~~ | October 16, 2018 |
 | [uri](https://rubygems.org/gems/uri/versions/0.13.0) | URI is a module providing classes to handle Uniform Resource Identifiers | gem "uri", "~> 0.13.0" | gem install uri | 0.13.0 | November 06, 2023 |
 | [xml-sitemap](https://rubygems.org/gems/xml-sitemap/versions/1.3.3) | Provides a wrapper to generate XML sitemaps and sitemap indexes. | gem "xml-sitemap", "~> 1.3", ">= 1.3.3" | gem install xml-sitemap | 1.3.3 | November 04, 2013 |
+
 [^31]: 0.0.X. Micro release. No recent activity. Appears to be a dead project. 
 [^32]: 0.X.0. Minor release. No recent activity. Appears to be a dead project.
 [^33]: No GitHub repository for Ruby Gem.
