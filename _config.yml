@@ -53,6 +53,7 @@ plugins:
     - github-pages
     - jekyll-avatar
     - jekyll-github-metadata
+    - jekyll-last-modified-at 
     - jekyll-mentions
     - jekyll-optional-front-matter
     - jekyll-seo-tag
