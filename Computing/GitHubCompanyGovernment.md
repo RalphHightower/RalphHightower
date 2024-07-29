@@ -270,6 +270,8 @@
 | [RISC-V Non-ISA Specifications](https://github.com/riscv-non-isa ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Software](https://github.com/riscv-software-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
+| [The Ruby Programming Language](https://github.com/ruby) | Repositories related to the Ruby Programming language. |
+| [RubyGems](https://github.com/rubygems) | Ruby Plugins |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s ) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
 | [SAFARI Research Group at ETH Zurich and Carnegie Mellon University](https://github.com/CMU-SAFARI) | Site for source code and tools distribution from SAFARI Research Group at ETH Zurich and Carnegie Mellon University. |
 | [Saleae](https://github.com/saleae ) | Logic Analyzers: Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer. |
