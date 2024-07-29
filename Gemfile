@@ -12,8 +12,8 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #gem “jekyll”, “~> 4.3”, “>= 4.3.3”
-gem “json”, “~> 2.7”, “>= 2.7.2”
-gem “rake”, “~> 13.2”, “>= 13.2.1”	
+gem “json” $, “~> 2.7”, “>= 2.7.2”
+gem “rake” #, “~> 13.2”, “>= 13.2.1”	
 
 # RMH 2024-07-29 gem “github-pages”, “~> 231”
 
@@ -42,8 +42,8 @@ group :jekyll_plugins do
 #gem “jekyll-mentions”, “~> 1.6”
 #gem “jekyll-spaceship”, “~> 0.10.2”
 #gem “jekyll-tagging”, “~> 1.1
-gem “jekyll-toc”, “~> 0.19.0”
-gem “jekyll-webmention_io”, “~> 4.0”
-gem “xml-sitemap”, “~> 1.3”, “>= 1.3.3”
+#gem “jekyll-toc”, “~> 0.19.0”
+#gem “jekyll-webmention_io”, “~> 4.0”
+#gem “xml-sitemap”, “~> 1.3”, “>= 1.3.3”
 # } 2024-06-29 @RalphHightower 
 end
