@@ -14,6 +14,7 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 
 gem “json”
 gem “rake"
+
 #gem “json” #, “~> 2.7”, “>= 2.7.2”
 #gem “rake” #, “~> 13.2”, “>= 13.2.1”	
 
@@ -21,7 +22,7 @@ gem “rake"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
