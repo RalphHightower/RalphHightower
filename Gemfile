@@ -26,6 +26,7 @@ group :jekyll_plugins do
 gem "github-pages", "~> 231"
 gem "jekyll-avatar", "~> 0.8.0"
 gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
+gem “jekyll-last-modified-at”, “~> 1.3”, “>= 1.3.2”
 gem "jekyll-mentions", "~> 1.6"
 gem "jekyll-optional-front-matter", "~> 0.3.2"
 gem "jekyll-seo-tag", "~> 2.8"
