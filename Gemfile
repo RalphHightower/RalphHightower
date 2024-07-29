@@ -12,8 +12,9 @@ gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~>3.6.0"
-gem "rake"
-gem "json"
+gem "rake", "~>12.3.3"
+gem "sass", "~>3.4"
+gem "json", "~> 2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -22,13 +23,14 @@ gem "json"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 # { 2024-06-29 @RalphHightower — These are my additions from the generic Gemfile
-gem "github-pages"
-gem "jekyll-avatar"
-gem "jekyll-github-metadata"
-gem "jekyll-mentions"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "liquid"
-gem "minima"
+gem "github-pages", "~> 231"
+gem "jekyll-avatar", "~> 0.8.0"
+gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
+gem "jekyll-mentions", "~> 1.6"
+gem "jekyll-optional-front-matter", "~> 0.3.2"
+gem "jekyll-seo-tag", "~> 2.8"
+gem "jekyll-sitemap", "~> 1.4"
+gem "liquid", "~> 4.0.4"
+gem "minima", "~> 2.5", ">= 2.5.1"
 # } 2024-06-29 @RalphHightower 
 end
