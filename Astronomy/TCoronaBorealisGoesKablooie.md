@@ -173,6 +173,7 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 | **[Losing the darkness / Science](https://www.science.org/doi/10.1126/science.adi4552)** | 15 Jun 2023 |
 | [Light pollution map](https://www.lightpollutionmap.info/)
 | [Light Pollution and Astronomy: How Dark Are Your Night Skies? - Sky & Telescope](https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale/) | JULY 18, 2006 |
+| [The world’s largest ‘dark sky sanctuary’ is now in Oregon - OPB](https://www.opb.org/article/2024/03/15/southern-oregon-dark-sky-sanctuary/ ) |
 
 # International Space Station
 
