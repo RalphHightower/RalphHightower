@@ -55,6 +55,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Sun blasts out 2nd X-class flare this week, triggers more radio blackouts (video\) / Space](https://www.space.com/sun-solar-flare-x-class-2nd-this-week-july-16-2024)** | **July 18, 2024** |
 | [Astrophotographer Catches Sun Firing Spectacular Plasma Ejection At Mercury / IFLScience](https://www.iflscience.com/astrophotographer-catches-sun-firing-spectacular-plasma-ejection-at-mercury-75159) | July 18, 2024 |
 | [The Evolution and Impact of Active Region 13664 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/evolution-and-impact-active-region-13664-0) | Wednesday, July 17, 2024 21:09 UTC |
+| &*[R3 Event on 16 July 2024 from Region 3738 / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/r3-event-16-july-2024-region-3738)** | Wednesday, July 17, 2024 21:03 UTC |
 | **[R3 Event on 16 July 2024 from Region 3738 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-event-16-july-2024-region-3738)** | **Tuesday, July 16, 2024 14:18 UTC** |
 | **[Strong Solar Flare Erupts From Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/07/16/strong-solar-flare-erupts-from-sun-18/)** | **July 16, 2024** |
 | [Forecast Highlight 15-18 July: R1-R2 Events Remain Likely / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/forecast-highlight-15-18-july-r1-r2-events-remain-likely) | Monday, July 15, 2024 14:33 UTC |
