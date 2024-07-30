@@ -415,6 +415,7 @@
 | [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
 | [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
 | [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
+| [Eclipses aren't just visual spectacles, they are at the heart of scientific efforts to understand distant planets](https://phys.org/news/2024-04-eclipses-visual-spectacles-heart-scientific.html ) | April 9, 2024 |
 | ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
 | [Keep Your Eyes Peeled: 'Devil Comet' May Show During Solar Eclipse : ScienceAlert](https://www.businessinsider.com/devil-comet-visible-during-total-solar-eclipse-how-see-2024-4 ) | 05 April 2024 |
 | [ScienceAlert's Official Guide to The 2024 Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/sciencealerts-official-guide-to-the-2024-total-solar-eclipse ) | 04 April 2924 |
