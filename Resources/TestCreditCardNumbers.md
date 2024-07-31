@@ -1,4 +1,4 @@
-# Resources \| Test Credit Card Numbers 
+# Resources/Test Credit Card Numbers 
 
 I have worked for four financial services firms; while I did not work with credit cards when I was at BTSC, I did use test credit cards at the other three companies. Each of the three credit reporting bureaus supply test credit cards for use in testing. I have used test credit cards to scam telemarketing scammers, such as automobile extended warranties or "Microsoft" support scammers telling me that my computer was infected with a virus and that Microsoft was going to "turn off" my internet. 
 
