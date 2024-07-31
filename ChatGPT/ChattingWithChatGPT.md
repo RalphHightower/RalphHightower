@@ -1,4 +1,4 @@
-# ChatGPT \| Chatting with [ChatGPT](https://chat.openai.com/)
+# ChatGPT/Chatting with [ChatGPT](https://chat.openai.com/)
 
 ## Cars/Trucks
 
