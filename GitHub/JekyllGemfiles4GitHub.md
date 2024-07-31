@@ -1,4 +1,4 @@
-# GitHub / Gemfiles For GitHub Pages
+# GitHub/Gemfiles For GitHub Pages
 
 ## Ruby Gemfiles
 
