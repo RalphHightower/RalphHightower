@@ -1,4 +1,4 @@
-# Science Fiction \| [Star Trek Franchise](https://www.startrek.com/)  
+# Science Fiction/[Star Trek Franchise](https://www.startrek.com/)  
 
 ## [Star Trek Series](https://www.startrek.com/)
 
