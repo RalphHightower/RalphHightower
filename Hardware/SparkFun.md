@@ -1,4 +1,4 @@
-# Hardware \| [SparkFun](https://sparkfun.com/)
+# Hardware/[SparkFun](https://sparkfun.com/)
 
 | SparkFun | Date |
 |---|---|
