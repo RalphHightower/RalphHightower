@@ -1,4 +1,4 @@
-# Media \| Rebooted Television Series [^11]
+# Media/Rebooted Television Series [^11]
 
 [^11]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
 
