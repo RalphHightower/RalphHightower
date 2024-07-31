@@ -1,4 +1,4 @@
-# Computing \| Open Source Projects
+# Computing/Open Source Projects
 
 | Software | Description | Purpose |
 |----------|---------|----|
