@@ -1,4 +1,4 @@
-# Computing \| Software Developer Events 
+# Computing/Software Developer Events 
 
 | Software Developer Event | Date | Time Zone |
 |---|---|---|
