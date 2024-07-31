@@ -1,4 +1,4 @@
-# GitHub / SEO Resources 
+# GitHub/SEO Resources 
 
 ## SEO Resource Definitions
 

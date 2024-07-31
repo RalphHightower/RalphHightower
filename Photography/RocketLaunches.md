@@ -1,4 +1,4 @@
-# Photography \| Rocket Launches
+# Photography/Rocket Launches
 
 ## Rocket Launch Schedules
 

@@ -1,7 +1,7 @@
 title: Ralph Hightower
 
 author:
-  name: Ralph Hightower 
+  name: Ralph Hightower
   #email: ralph.hightower@gmail.com
   #street_address:
   city: Chapin
@@ -10,11 +10,39 @@ author:
   country: United States of America
   #phone:
 description: > # This means to ignore newlines until "show_excerpts:"
-  I freeze time; I photograph. RETIRED Software Engineer (C#, .Net), 
-  50++ years experience; still active for personal projects. Witnessed 
+  I freeze time; I photograph. RETIRED Software Engineer (C#, .Net),
+  50++ years experience; still active for personal projects. Witnessed
   two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
+
+repository: "RalphHightower/RalphHightower"
+
+plugins:
+    - jekyll
+    - github-pages
+    - jekyll-avatar
+    - jekyll-coffeescript
+    - jekyll-default-layout
+    - jekyll-github-metadata
+    - jekyll-include-cache
+    - jekyll-mentions
+    - jekyll-optional-front-matter
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - liquid
+    - minima
+    - nokogiri
+    - jekyll-email-protect
+    - jekyll-google_analytics	
+    - jekyll-last-modified-at
+    - jekyll-maps
+    - jekyll-mentions
+    - jekyll-spaceship
+    - jekyll-tagging
+    - jekyll-toc
+    - json
+    - xml-sitemap
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -37,7 +65,7 @@ social_links:
     #   - { platform: telegram,       user_url: "https://t.me/RalphHightower" }
     #   - { platform: twitter,        user_url: "https://twitter.com/RalphHightower" }
     - { platform: youtube,        user_url: "https://www.youtube.com/@RalphHightower" }
-    
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -47,17 +75,7 @@ social_links:
 
 # Build settings
 theme: minima
-
-plugins:
-    - gem install github-pages
-    - gem install jekyll-avatar
-    - gem install jekyll-github-metadata
-    - gem install jekyll-mentions
-    - gem install jekyll-optional-front-matter
-    - gem install jekyll-seo-tag
-    - gem install jekyll-sitemap
-    - gem install liquid
-    - gem install minima
+skin: auto
 
 # github-pages
 
@@ -105,14 +123,13 @@ plugins:
 # • post.html — The layout for your posts.
 # • Base Layout
 # • From Minima v3 onwards, the base layout is named base.html instead of default.html to avoid confusing new users into assuming that name holds special status.
-        
+
 #titles_from_headings:
 #  enabled: true
 #  strip_title: true
 #  collections: true
-  
+
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
-repository: "RalphHightower/RalphHightower"

@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
@@ -25,12 +25,12 @@ group :jekyll_plugins do
 # { 2024-06-29 @RalphHightower — These are my additions from the generic Gemfile
 gem "github-pages", "~> 231"
 gem "jekyll-avatar", "~> 0.8.0"
-gem "jekyll-github-metadata", "~> 2.16’, ‘>= 2.16.1"
+gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
 gem "jekyll-mentions", "~> 1.6"
 gem "jekyll-optional-front-matter", "~> 0.3.2"
 gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-sitemap", "~> 1.4"
-gem "liquid", "~> 5.5"
+gem "liquid", "~> 4.0.4"
 gem "minima", "~> 2.5", ">= 2.5.1"
 # } 2024-06-29 @RalphHightower 
 end

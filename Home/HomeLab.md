@@ -1,4 +1,4 @@
-# Home \| Home Lab
+# Home/Home Lab
 
 ## Hardware 
 
@@ -13,7 +13,10 @@
 
 ### Time Keeping 
 
+| Time Keeping | Date |
+|---|---|
 | [The Timebeat Store - Not Dick's Clock Shop](https://store.timebeat.app/ ) |
+| [opencompute Time Appliance Project](https://www.opencompute.org/w/index.php?title=Time_Appliances_Project ) |
 
 ## Essential Services
 

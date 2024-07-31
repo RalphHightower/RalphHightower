@@ -1,4 +1,4 @@
-# Science Fiction \| The Orville
+# Science Fiction/The Orville
 
 ## Reference Links
 

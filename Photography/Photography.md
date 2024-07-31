@@ -1,4 +1,4 @@
-# Photography \| Photography 
+# Photography/Photography 
 
 ## ISS Solar/Lunar Transit Finder
 

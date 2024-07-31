@@ -1,4 +1,4 @@
-# Government \| [NASA](https://www.nasa.gov/)
+# Government[NASA](https://www.nasa.gov/)
 
 ## NASA Links
 

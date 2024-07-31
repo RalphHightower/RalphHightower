@@ -1,4 +1,4 @@
-# Computing \| The Software Package Data Exchange® (SPDX®)
+# Computing/The Software Package Data Exchange® (SPDX®)
 
 ## Software Data Package Exchange Specifications
 

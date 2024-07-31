@@ -1,4 +1,4 @@
-# FoodDrink \| South Carolina Craft Beer Breweries
+# FoodDrink/South Carolina Craft Beer Breweries
 
 | Brewery | Location | Year | Date Added/Updated |
 |---------|----------|------|---|

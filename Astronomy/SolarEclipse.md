@@ -1,4 +1,4 @@
-# Astronomy \| Total Solar Eclipse 
+# Astronomy/Total Solar Eclipse 
 
 ## April 8, 2024
 
@@ -409,11 +409,13 @@
 
 | [ScienceAlert](https://www.sciencealert.com/) | Date |
 |---|---|
+| [2024 Total Solar Eclipse: Supercomputer Prediction vs. Reality](https://scitechdaily.com/2024-total-solar-eclipse-supercomputer-prediction-vs-reality/) | MAY 17, 2024 |
 | [Revisiting the 2024 Total Solar Eclipse - NSO - National Solar Observatory](https://nso.edu/blog/revisiting-the-2024-total-solar-eclipse/) | May 13, 2024 |
 | [The Solar Eclipse Gave Astronomers An Unprecedented Window Into What Drives Space Weather • Inverse](https://www.inverse.com/science/solar-eclipse-gave-astronomers-unprecedented-window-into-space-weather) | APRIL 11, 2024 |
 | [The Total Solar Eclipse Was Surrounded By Bright Pink Streamers – What Were They? / IFLScience](https://www.iflscience.com/the-total-solar-eclipse-was-surrounded-by-bright-pink-streamers-what-were-they-73752) | April 10, 2024 |
 | [Eclipse From Space: Stunning NASA Video of The Moon's Shadow Passing Across Earth : ScienceAlert](https://www.sciencealert.com/iss-captures-stunning-video-of-the-lunar-shadow-passing-across-earth ) | 09 April 2024 |
 | [Three Things You Must Not Do This Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/three-things-you-must-not-do-this-total-solar-eclipse ) | 08 April 2024 |
+| [Eclipses aren't just visual spectacles, they are at the heart of scientific efforts to understand distant planets](https://phys.org/news/2024-04-eclipses-visual-spectacles-heart-scientific.html ) | April 9, 2024 |
 | ['Incredible': The Total Solar Eclipse Is Huge For Scientists. Here's Why. : ScienceAlert](https://www.sciencealert.com/incredible-the-total-solar-eclipse-is-huge-for-scientists-heres-why ) | 08 April 2024 |
 | [Keep Your Eyes Peeled: 'Devil Comet' May Show During Solar Eclipse : ScienceAlert](https://www.businessinsider.com/devil-comet-visible-during-total-solar-eclipse-how-see-2024-4 ) | 05 April 2024 |
 | [ScienceAlert's Official Guide to The 2024 Total Solar Eclipse : ScienceAlert](https://www.sciencealert.com/sciencealerts-official-guide-to-the-2024-total-solar-eclipse ) | 04 April 2924 |
@@ -564,7 +566,7 @@
 | [NPS Resources / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/nps-resources ) |
 | [US Fish and Wildlife Service / Total Solar Eclipse 2017](https://eclipse2017.nasa.gov/us-fish-and-wildlife-service ) |
 
-| Total Solar Eclipse August 17, 2917 — NASA | Date |
+| Total Solar Eclipse August 17, 2017 — NASA | Date |
 |---|---|
 | [Eclipse 2017 Shines Light on the Sun-Earth Connection - NASA](https://www.nasa.gov/solar-system/skywatching/eclipses/solar-eclipses/eclipse-2017-shines-light-on-the-sun-earth-connection/ ) | DEC 10, 2020 |
 | [Spots, Waves and Wind: A Solar Science Timeline / Full Text - NASA](https://www.nasa.gov/history/spots-waves-and-wind-a-solar-science-timeline-full-text/ ) | FEB 03, 2020 |

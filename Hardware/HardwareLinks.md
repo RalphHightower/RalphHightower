@@ -1,4 +1,4 @@
-# Hardware \| Hardware Links
+# Hardware/Hardware Links
 
 | Resource |
 |------|
