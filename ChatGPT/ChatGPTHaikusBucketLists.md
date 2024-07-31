@@ -1,4 +1,4 @@
-# ChatGPT \| [ChatGPT](https://chat.openai.com/) Haikus — Lists of Bucket Lists  
+# ChatGPT/[ChatGPT](https://chat.openai.com/) Haikus — Lists of Bucket Lists  
 
 I have multiple bucket lists of different categories.
 

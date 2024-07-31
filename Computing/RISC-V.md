@@ -1,4 +1,4 @@
-# Computing / RISC-V
+# Computing/RISC-V
 
  ## Articles 
 

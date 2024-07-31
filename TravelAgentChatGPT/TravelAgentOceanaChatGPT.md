@@ -1,4 +1,4 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/) \| Oceana 
+# [ChatGPT Travel Agent](https://chat.openai.com/)/Oceana 
 # Oceana 
 ## Australia 🇦🇺 
 ## Fiji 🇫🇯 

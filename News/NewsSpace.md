@@ -1,4 +1,4 @@
-# News \| Space News
+# News/Space News
 
 ## [NASA](https://www.nasa.gov) [Space Shuttle Endeavour]()
 

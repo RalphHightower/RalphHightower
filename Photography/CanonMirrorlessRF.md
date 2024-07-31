@@ -1,4 +1,4 @@
-# Photography \| Canon Mirrorless Cameras 
+# Photography/Canon Mirrorless Cameras 
 
 ## Canon RF Cameras 
 

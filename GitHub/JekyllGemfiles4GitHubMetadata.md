@@ -1,4 +1,4 @@
- # GitHub / Metadata Fields Used by jekyll-github-metadata
+ # GitHub/Metadata Fields Used by jekyll-github-metadata
 
 ## Using `site.github`
 

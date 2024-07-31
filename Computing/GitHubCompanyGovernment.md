@@ -1,4 +1,4 @@
-# Computing \| GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+# Computing/GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
 
 ## Company / Government [GitHubs](https://github.com/ )
 
