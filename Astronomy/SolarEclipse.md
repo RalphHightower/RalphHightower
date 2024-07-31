@@ -1,4 +1,4 @@
-# Astronomy \| Total Solar Eclipse 
+# Astronomy/Total Solar Eclipse 
 
 ## April 8, 2024
 
