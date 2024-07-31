@@ -1,4 +1,4 @@
-# Geography \| Locations
+# Geography/Locations
 
 ## Comparisons: Columbia, South Carolina and Cedar Rapids, Iowa
 
