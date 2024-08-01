@@ -57,10 +57,10 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Geomagnetic Storm Watches Now Continue Into 1 August / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-now-continue-1-august)** | **Monday, July 29, 2024 22:02 UTC** |
 | **[Geomagnetic Storm Watches in Effect 29-31 July (up to G3; Strong) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-effect-29-31-july-g3-strong)** | **Monday, July 29, 2024 13:55 UTC** |
 | **[Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024)** | **Monday, July 29, 2024 03:09 UTC** |
+| [Sun blasts out most powerful flare of current solar cycle (video) / Space](https://www.space.com/sun-solar-flare-far-side-x14-july-23) | July 26, 2024 |
 | [Eyes on the Skies: Scientists Crack Code on Earth-Threatening Solar Storms](https://scitechdaily.com/eyes-on-the-skies-scientists-crack-code-on-earth-threatening-solar-storms/) | July 25, 2024 |
 | [Sun news July 25: Solar deja vu, but action incoming • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 25, 2024 |
 | [Sun news July 24: Sun activity moderate with 2 M flares •  EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 24, 2024 |
-| [Sun blasts out most powerful flare of current solar cycle (video) / Space](https://www.space.com/sun-solar-flare-far-side-x14-july-23) | July 26, 2024 |
 | [S1-Minor Solar Radiation Storm Event from Far Side Halo CME / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s1-minor-solar-radiation-storm-event-far-side-halo-cme) | Wednesday, July 24, 2024 12:48 UTC |
 | [S1-Minor Solar Radiation Storm Event from Far Side Halo CME / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s1-minor-solar-radiation-storm-event-far-side-halo-cme) | Tuesday, July 23, 2024 16:28 UTC |
 | [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Tuesday, July 23, 2024 16:28 UTC |
