@@ -48,11 +48,11 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | Solar Activity[^2401] | Date |
 |---|---|
 | [R1-R2 (Minor-Moderate) Events Still Expected into the Weekend (1 - 4 Aug) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r1-r2-minor-moderate-events-still-expected-weekend-1-4-aug) | Thursday, August 01, 2024 14:43 UTC |
+| [NASA's Parker Solar Probe Shatters Theory on Sun’s Extremely Hot Corona](https://scitechdaily.com/nasas-parker-solar-probe-shatters-theory-on-suns-extremely-hot-corona/) | July 31, 2024 |
 | [Geomagnetic storm could spark northern lights at mid-latitudes across US and Europe / Space](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme) | July 30, 2024 |
+| [NASA’s Solar Dynamics Observatory Chronicles Major Flare Event](https://scitechdaily.com/nasas-solar-dynamics-observatory-chronicles-major-flare-event/) | July 30, 2024 |
 | [Sun news July 30: ‘Strong’ geomagnetic storm watch !• EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 30, 2024 |
 | [Watch a colossal X-class solar flare erupt from Earth-facing sunspot (video) / Space](https://www.space.com/x-flare-eruption-july-radio-blackout-asia-australia) | July 29, 2024 |
-| [NASA's Parker Solar Probe Shatters Theory on Sun’s Extremely Hot Corona](https://scitechdaily.com/nasas-parker-solar-probe-shatters-theory-on-suns-extremely-hot-corona/) | July 31, 2024 |
-| [NASA’s Solar Dynamics Observatory Chronicles Major Flare Event](https://scitechdaily.com/nasas-solar-dynamics-observatory-chronicles-major-flare-event/) | July 30, 2024 |
 | [In Situ Mechanisms are Necessary for Switchback Formation - IOPscience](https://iopscience.iop.org/article/10.3847/2041-8213/ad60bc) | 2024 July 29 |
 | **[Geomagnetic Storm Watches Now Continue Into 1 August / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-now-continue-1-august)** | **Monday, July 29, 2024 22:02 UTC** |
 | **[Geomagnetic Storm Watches in Effect 29-31 July (up to G3; Strong) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-effect-29-31-july-g3-strong)** | **Monday, July 29, 2024 13:55 UTC** |
