@@ -47,6 +47,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [G2 Watch for 03-04 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-03-04-aug) | Thursday, August 01, 2024 17:29 UTC  |
 | [R1-R2 (Minor-Moderate) Events Still Expected into the Weekend (1 - 4 Aug) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r1-r2-minor-moderate-events-still-expected-weekend-1-4-aug) | Thursday, August 01, 2024 14:43 UTC |
 | [NASA's Parker Solar Probe Shatters Theory on Sun’s Extremely Hot Corona](https://scitechdaily.com/nasas-parker-solar-probe-shatters-theory-on-suns-extremely-hot-corona/) | July 31, 2024 |
 | [Geomagnetic storm could spark northern lights at mid-latitudes across US and Europe / Space](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme) | July 30, 2024 |
