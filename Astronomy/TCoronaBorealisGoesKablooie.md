@@ -28,8 +28,6 @@
 
 ### Compilation of T Corona Borealis Links to Articles
 
-
-
 | T Corona Borealis | Date |
 |---|---|
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • The Conversation](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | August 1, 2024 8:37am EDT |
