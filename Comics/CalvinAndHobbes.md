@@ -1,8 +1,8 @@
-# Comics/Calvin And Hobbes 
+# Comics/Calvin And Hobbes
 
 ## Books
 
-| Best Calvin And Hobbes Collections | Price 
+| Best Calvin And Hobbes Collections | Price
 |---|---|
 | **[The Complete Calvin and Hobbes \[Box Set\]: Bill Watterson, Bill Watterson: 8601420153295: Amazon.com: Books](https://www.amazon.com/Complete-Calvin-Hobbes-Box-Set/dp/0740748475?tag=gamespot-bfcm-20 )** | **$99.58** |
 
@@ -12,6 +12,8 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [20 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/) | Updated July 30, 2024 |
+| [Calvin and Hobbes: Calvin’s 10 Grossest Lunches](https://www.cbr.com/calvin-and-hobbes-grossest-lunches/) | July 26, 2024 |
 | [The Funniest Calvin & Hobbes Comics Of All Time](https://www.cbr.com/calvin-hobbes-funny-comics/) | July 24, 2024 |
 | [10 Darkest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-dark-comic-strips/) | Jul 16, 2024 |
 | [10 Best Calvin & Hobbes Comics with Animals (That Aren’t Hobbes)](https://www.cbr.com/best-calvin-and-hobbes-comics-with-animals/) | July 18, 2024 |
@@ -28,7 +30,7 @@
 | [10 Calvin and Hobbes Strips Without a Punchline](https://www.cbr.com/calvin-and-hobbes-non-comedic-strips/) | June 12, 2024 |
 | [For the Entirety of Calvin and Hobbes, Bill Watterson Left One Detail a Total Mystery](https://www.cbr.com/calvin-and-hobbes-comics-location/) | June 8, 2024 |
 | [10 Cutest Calvin and Hobbes Comic Strips, Ranked](https://www.cbr.com/calvin-and-hobbes-cute-comic-strips/) | June 4, 2024
-| [10 Calvin and Hobbes Jokes We Only Got As Adults](https://www.cbr.com/calvin-and-hobbes-adult-jokes/) | May 30, 2024 
+| [10 Calvin and Hobbes Jokes We Only Got As Adults](https://www.cbr.com/calvin-and-hobbes-adult-jokes/) | May 30, 2024
 | [10 Best Calvin & Hobbes Comic Strips Featuring Susie](https://www.cbr.com/best-calvin-hobbes-susie-comics/) | May 19, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Kids](https://www.cbr.com/calvin-hobbes-best-strips-kids/ ) | May 10, 2024 |
 | [Did a Fake Calvin and Hobbes Comic Strip Sell For Over $14,000?](https://www.cbr.com/fake-calvin-and-hobbes-comic-strip-sell-14000/ ) | May 7, 2024 |
@@ -61,7 +63,6 @@
 | [How Bill Watterson's Calvin & Hobbes Captures the Essence of Childhood Summer](https://www.cbr.com/calvin-and-hobbes-childhood-summer/ ) | Jul 31, 2023 |
 | [10 Calvin & Hobbes Strips That'll Make You Miss Summer Vacation](https://www.cbr.com/calvin-hobbes-best-summer-vacation-comic-strips/ ) | Jul 10, 2023 |
 | [15 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/calvin-hobbes-funny-comics/ ) | Jul 4, 2023 |
-| [15 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/ ) | Jun 2, 2023 |
 | [10 Most Heartwarming Calvin & Hobbes Comics](https://www.cbr.com/calvin-hobbes-heartwarming-comics/ ) | May 29, 2023 |
 | [Calvin and Hobbes Debate Exactly How Santa Claus Defines the Term 'Good'](https://www.cbr.com/calvin-and-hobbes-christmas-comic-strips/ ) | Dec 2, 2022 |
 | [Calvin & Hobbes 10 Most Beloved Stories](https://www.cbr.com/best-calvin-hobbes-stories/ ) | Dec 1, 2022 |
@@ -122,10 +123,10 @@
 | [Six by 6 / Six 'retired' artists we'd like to see return to comics](https://www.cbr.com/six-by-6-six-retired-artists-wed-like-to-see-return-to-comics/ ) | Apr 19, 2009 |
 | [Talking Comics with Tim: Andrew Farago](https://www.cbr.com/talking-comics-with-tim-andrew-farago/ ) | Mar 9, 2009 |
 
-### Calvin and Hobbes / ScreenRant 
+### Calvin and Hobbes / ScreenRant
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
-|---|---| 
+|---|---|
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
@@ -135,7 +136,7 @@
 | [10 Calvin and Hobbes Comics That Prove Calvin Is Kind of... Evil](https://screenrant.com/calvin-and-hobbes-comics-prove-calvin-is-evil/) | June 10, 2024 |
 | [10 Funniest Calvin and Hobbes Comics About Food](https://screenrant.com/10-funniest-calvin-and-hobbes-comics-about-food/) | June 9, 2024 |
 [Calvin and Hobbes Meet the Rocketeer in Heartwarming Crossover Fanart](https://screenrant.com/calvin-and-hobbes-rocketeer-spaceman-spiff-crossover-fanart/) | June 8, 2024 |
-| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (in May 2024)](https://screenrant.com/funniest-calvin-and-hobbes-comics-may-2024/) | June 2, 2024 | 
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (in May 2024)](https://screenrant.com/funniest-calvin-and-hobbes-comics-may-2024/) | June 2, 2024 |
 | [10 Best Calvin and Hobbes Comics That Discuss Death Without Pulling Their Punches](https://screenrant.com/10-best-calvin-hobbes-comics-about-death/) | May 31, 2024 |
 | [10 Weirdest Calvin and Hobbes Comics, Ranked](https://www.cbr.com/calvin-and-hobbes-strangest-comics/) | May 28, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (In April 2024\)](https://screenrant.com/calvin-and-hobbes-funniest-comics-april-1994/) | May 23, 2024 |
