@@ -6,9 +6,8 @@ gem "kramdown", "~> 2.4"
 gem "rake", "~> 13.2", ">= 13.2.1"
 gem "json", "~> 2.7", ">= 2.7.2"
 
-group :jekyll_plugins do
+gem 'github-pages', group: :jekyll_plugins
 # { 2024-08-02 @RalphHightower — These are my additions from the generic Gemfile
-gem "github-pages", "~> 231"
 gem "jekyll-avatar", "~> 0.8.0"
 #gem "jekyll-coffeescript", "~> 2.0"
 #gem "jekyll-commonmark-ghpages", "~> 0.4.0"
