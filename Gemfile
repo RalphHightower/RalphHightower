@@ -11,7 +11,7 @@ group :jekyll_plugins do
 gem "github-pages", "~> 231"
 gem "html-pipeline", "~> 3.2"
 gem "jekyll-avatar", "~> 0.8.0"
-gem "jekyll-coffeescript", "~> 2.0" gem install jekyll-coffeescript
+gem "jekyll-coffeescript", "~> 2.0"
 #gem "jekyll-commonmark-ghpages", "~> 0.4.0"
 gem "jekyll-default-layout", "~> 0.1.5"
 gem "jekyll-feed", "~> 0.17.0"
