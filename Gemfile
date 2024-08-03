@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 #gemspec
 
-gem "jekyll", "~> 4.3", ">= 4.3.3"
+#gem "jekyll", "~> 4.3", ">= 4.3.3"
 gem "kramdown", "~> 2.4"
 gem "rake", "~> 13.2", ">= 13.2.1"
 gem "json", "~> 2.7", ">= 2.7.2"
