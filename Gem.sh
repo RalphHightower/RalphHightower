@@ -1,3 +1,4 @@
+gem update --system 3.5.17
 gem install jekyll
 gem install kramdown
 gem install rake
