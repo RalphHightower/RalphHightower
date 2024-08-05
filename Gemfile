@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 #gemspec :name => "jekyll"
 
-gem "jekyll", "~> 4.3", ">= 4.3.3"
-gem "github-pages", "~> 231"
+#gem "jekyll", "~> 4.3", ">= 4.3.3"
+#gem "github-pages", "~> 231"
 
+gem 'github-pages', group: :jekyll_plugins
 gem "rake", "~> 13.0"
 
 gem "nokogiri", "~> 1.7"
