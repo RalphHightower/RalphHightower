@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec :name => "jekyll"
+#gemspec :name => "jekyll"
 
 gem "jekyll", "~> 4.3", ">= 4.3.3"
 gem "github-pages", "~> 231"
