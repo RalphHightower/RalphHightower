@@ -13,7 +13,6 @@ gem "rspec"
 group :jekyll_optional_dependencies do
     gem "html-pipeline", "~> 3.2"
     gem "jekyll-coffeescript", "~> 2.0"
-    gem "jekyll-default-layout", "~> 0.1.5"
     gem "jekyll-feed", "~> 0.17.0"
     gem "jekyll-gist", "~> 1.5"
     gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
