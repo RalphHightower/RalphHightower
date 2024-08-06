@@ -51,7 +51,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity[^2401] | Date |
 |---|---|
-| **[X1.7 and X1.1 Flares Observed on 05 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x17-and-x11-flares-observed-05-aug)>* | **Monday, August 05, 2024 17:07 UTC** |
+| **[X1.7 and X1.1 Flares Observed on 05 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x17-and-x11-flares-observed-05-aug)** | **Monday, August 05, 2024 17:07 UTC** |
 | **[3-4 Aug Weekend Summary and 5-7 Aug Forecast Outlook / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/3-4-aug-weekend-summary-and-5-7-aug-forecast-outlook)** | **Monday, August 05, 2024 14:32 UTC** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/strong-solar-flare-erupts-from-sun-19/)** | **August 5, 2024** |
 | **[Sun Releases Strong Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/sun-releases-strong-flare-3/) | **August 5, 2024** |
@@ -61,7 +61,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | ["Cannibal" solar eruption will bring auroras to U.S. this weekend - Earth.com](https://www.earth.com/news/cannibal-cme-solar-eruption-will-bring-auroras-northern-lights-united-states/) | 08-02-2024 |
 | [Sun news August 3: July 2024 was the peak of Solar Cycle 25 so far • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | August 3, 2024 |
 | [Researchers identify useful emission lines in the sun's outer atmosphere • Phys](https://phys.org/news/2024-08-emission-lines-sun-outer-atmosphere.html) | AUGUST 2, 2024 |
-| [Sunspot sketches from 1607 unlock secrets of solar activity - Earth.com](https://www.earth.com/news/sunspot-sketches-from-1607-unlock-secrets-of-solar-activity/) | 07-31-2024 |
 | [Moderate geomagnetic storm could bring northern lights as far south as New York this weekend / Space](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity) | August 2, 2024 |
 | [Aurora Alert Issued! Here’s How To See The Northern Lights This Weekend • Inverse](https://www.inverse.com/science/aurora-northern-lights-august-3-4-united-states) | Aug. 2, 2024 |
 | [Massive solar wind disturbance caused Earth's magnetosphere to fly without its usual tail • Phys](https://phys.org/news/2024-08-massive-solar-disturbance-earth-magnetosphere.html) | August 2, 2024 |
@@ -70,6 +69,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [May’s solar storm created a new Van Allen belt • EarthSky](https://earthsky.org/earth/2024-mays-solar-storm-new-ring-around-earth-van-allen-belt/) | August 1, 2024 |
 | [Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024) | Thursday, August 01, 2024 14:01 UTC |
 | [Predicting solar storms before they leave the sun • Phys](https://phys.org/news/2024-08-solar-storms-sun.html) | AUGUST 1, 2024 |
+| [Sunspot sketches from 1607 unlock secrets of solar activity - Earth.com](https://www.earth.com/news/sunspot-sketches-from-1607-unlock-secrets-of-solar-activity/) | 07-31-2024 |
 | [Why is the sun’s corona hotter than its surface?  - Earth.com](https://www.earth.com/news/why-is-the-suns-corona-hotter-than-its-surface/) | 07-31-2024 |
 | [NASA's Parker Solar Probe Shatters Theory on Sun’s Extremely Hot Corona • SciTechDaily](https://scitechdaily.com/nasas-parker-solar-probe-shatters-theory-on-suns-extremely-hot-corona/) | July 31, 2024 |
 | [Northern lights delight as 'cannibal' solar storm triggers auroras across US and Canada (photos) / Space](https://www.space.com/northern-lights-cannibal-solar-storm-us-canada-photos) | July 31, 2024 |
