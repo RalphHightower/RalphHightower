@@ -44,13 +44,12 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 ## Auroras
 
-- SolarActivity2024 
-
-
 ### Solar Activity — 2024
 
 | Solar Activity[^2401] | Date |
 |---|---|
+| [G2 (Moderate) Geomagnetic Storm Watch for 09-10 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-watch-09-10-aug) | Wednesday, August 07, 2024 20:06 UTC |
+| [GOES 500 MeV Proton Flux Observations Now Available / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/goes-500-mev-proton-flux-observations-now-available) | Tuesday, August 06, 2024 15:41 UTC |
 | **[X1.7 and X1.1 Flares Observed on 05 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x17-and-x11-flares-observed-05-aug)** | **Monday, August 05, 2024 17:07 UTC** |
 | **[3-4 Aug Weekend Summary and 5-7 Aug Forecast Outlook / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/3-4-aug-weekend-summary-and-5-7-aug-forecast-outlook)** | **Monday, August 05, 2024 14:32 UTC** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/strong-solar-flare-erupts-from-sun-19/)** | **August 5, 2024** |
