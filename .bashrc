@@ -2,17 +2,18 @@ for file in .bashrc update-gem.sh update-npm.sh
 do
     if test -f $file
     then
-        chmod +x o-w $file
-    file
+        chmod +x $file
+        chmod o-w $file
+    fi
 done
 if test ! -d $HOME/_plugins
 then
     mkdir $HOME/_plugins
-if
+fi
 if test ! -d ~/_plugins
 then
     mkdir ~/_plugins
-if
+fi
 if test ! -d $HOME/gems
 then
     mkdir $HOME/gems
