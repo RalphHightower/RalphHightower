@@ -26,6 +26,7 @@ gem "json", "~> 2.7", ">= 2.7.2"
 group :jekyll_plugins do
 # { 2024-08-08 @RalphHightower — These are my additions from the generic Gemfile
 #gem "github-pages", "~> 232"
+gem "github-pages"
 gem "jekyll-avatar", "~> 0.8.0"
 gem "jekyll-github-metadata", "~> 2.16", ">= 2.16.1"
 gem "jekyll-google_analytics", "~> 0.1.0"
