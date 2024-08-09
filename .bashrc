@@ -1,4 +1,5 @@
 if test ! -d $HOME/gems
+then
     mkdir $HOME/gems
 fi
 # Install Ruby Gems to ~/gems'
