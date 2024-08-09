@@ -23,7 +23,7 @@
 | [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata/versions/2.16.1) | The site.github namespace | gem \"jekyll-github-metadata\", \"~> 2.16\", \">= 2.16.1\" | gem install jekyll-github-metadata | 2.16.1 | December 29, 2023 | >= 3.4, < 5.0 |
 | [jekyll-include-cache](https://rubygems.org/gems/jekyll-include-cache/versions/0.2.1) | A Jekyll plugin to cache the rendering of Liquid includes | gem \"jekyll-include-cache\", \"~> 0.2.1\" | gem install jekyll-include-cache | 0.2.1 | October 08, 2020 | >= 3.7, < 5.0 |
 | [jekyll-mentions](https://rubygems.org/gems/jekyll-mentions/versions/1.6.0) | @mention support for your Jekyll site | gem \"jekyll-mentions\", \"~> 1.6\" | gem install jekyll-mentions | 1.6.0 | March 05, 2020 | >= 3.7, < 5.0 |
-| ~~[jekyll-optional-front-matter](https://rubygems.org/gems/jekyll-optional-front-matter/versions/0.3.2)~~[^32] | ~~A Jekyll plugin to make front matter optional for Markdown files~~ | ~~gem \"jekyll-optional-front-matter\", \"~> 0.3.2\"~~ | ~~gem install jekyll-optional-front-matter~~ | 0.3.2 | October 23, 2019 | >= 3.0, < 5.0 | ? |
+| ~~[jekyll-optional-front-matter](https://rubygems.org/gems/jekyll-optional-front-matter/versions/0.3.2)~~[^32] | ~~A Jekyll plugin to make front matter optional for Markdown files~~ | ~~gem \"jekyll-optional-front-matter\", \"~> 0.3.2\"~~ | ~~gem install jekyll-optional-front-matter~~ | 0.3.2 | October 23, 2019 | >= 3.0, < 5.0 |
 | [jekyll-readme-index](https://rubygems.org/gems/jekyll-readme-index/versions/0.3.0) | A Jekyll plugin to render a project\"s README as the site\"s index. | gem \"jekyll-readme-index\", \"~> 0.3.0\" | gem install jekyll-readme-index | 0.3.0 | November 05, 2019 | >= 3.0, < 5.0 |
 | [jekyll-redirect-from](https://rubygems.org/gems/jekyll-redirect-from/versions/0.16.0) | Seamlessly specify multiple redirection URLs for your pages and posts | gem \"jekyll-redirect-from\", \"~> 0.16.0\" | gem install jekyll-redirect-from | 0.16.0 | January 26, 2020 | >= 3.3, < 5.0 |
 | [jekyll-relative-links](https://rubygems.org/gems/jekyll-relative-links/versions/0.7.0) | A Jekyll plugin to convert relative links to markdown files to their rendered equivalents. | gem \"jekyll-relative-links\", \"~> 0.7.0\" | gem install jekyll-relative-links | 0.7.0 | January 13, 2023 | >= 3.3, < 5.0 |
@@ -37,8 +37,10 @@
 | [minima](https://rubygems.org/gems/minima/versions/2.5.1) | A beautiful, minimal theme for Jekyll. | gem \"minima\", \"~> 2.5\", \">= 2.5.1\" | gem install minima | 2.5.1 | August 16, 2019 | >= 3.5, < 5.0 |
 | [nokogiri](https://rubygems.org/gems/nokogiri/versions/1.16.7-x86_64-linux) | Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, or xerces. | gem \"nokogiri\", \"~> 1.16\", \">= 1.16.7\" | gem install nokogiri -v 1.16.7 | 1.16.7 | July 27, 2024 | ? |
 | [safe_yaml](https://rubygems.org/gems/safe_yaml/versions/1.0.5) | Parse YAML safely | gem \"safe_yaml\", \"~> 1.0\", \">= 1.0.5\" | gem install safe_yaml | 1.0.5 | February 22, 2019 | ? |
+| ~~[sass](https://rubygems.org/gems/sass/versions/3.7.4)~~[^22] | ~~Ruby Sass is deprecated! See https://sass-lang.com/ruby-sass for details. Sass makes CSS fun again. Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.~~ | ~~gem 'sass', '~> 3.7', '>= 3.7.4'~~ | ~~gem install sass~~ | 3.7.4 | April 04, 2019 | ? |
 
 [^21]: Can the dependencies on github-pages be used on Jekyll 4.3.3? The dependencies all show \"=\".
+[^22]: Ruby Sass is deprecated! See https://sass-lang.com/ruby-sass for details.
 
 ### Not referenced in: [Dependency versions | GitHub Pages](https://pages.github.com/versions/)[^11]
 
