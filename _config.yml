@@ -21,28 +21,28 @@ repository: "RalphHightower/RalphHightower"
 plugins:
     - jekyll
     - github-pages
-    - jekyll-avatar
-    - jekyll-coffeescript
-    - jekyll-default-layout
-    - jekyll-github-metadata
-    - jekyll-include-cache
-    - jekyll-mentions
-    - jekyll-optional-front-matter
-    - jekyll-seo-tag
-    - jekyll-sitemap
-    - liquid
+#    - jekyll-avatar
+#    - jekyll-coffeescript
+#    - jekyll-default-layout
+#    - jekyll-github-metadata
+#    - jekyll-include-cache
+#    - jekyll-mentions
+#    - jekyll-optional-front-matter
+#    - jekyll-seo-tag
+#    - jekyll-sitemap
+#    - liquid
     - minima
-    - nokogiri
-    - jekyll-email-protect
-    - jekyll-google_analytics	
-    - jekyll-last-modified-at
-    - jekyll-maps
-    - jekyll-mentions
-    - jekyll-spaceship
-    - jekyll-tagging
-    - jekyll-toc
-    - json
-    - xml-sitemap
+#    - nokogiri
+#    - jekyll-email-protect
+#    - jekyll-google_analytics	
+#    - jekyll-last-modified-at
+#    - jekyll-maps
+#    - jekyll-mentions
+#    - jekyll-spaceship
+#    - jekyll-tagging
+#    - jekyll-toc
+#    - json
+#    - xml-sitemap
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -94,7 +94,6 @@ skin: auto
 # Hey @benbalter, what do you think of this?
 
 # jekyll-optional-front-matter
-
 
 # jekyll-seo-tag
 # Jekyll SEO Tag adds the following meta tags to your site:
