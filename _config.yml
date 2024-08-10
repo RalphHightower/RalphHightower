@@ -21,28 +21,22 @@ repository: "RalphHightower/RalphHightower"
 plugins:
     - jekyll
     - github-pages
-    - jekyll-avatar
-    - jekyll-coffeescript
-    - jekyll-default-layout
-    - jekyll-github-metadata
-    - jekyll-include-cache
-    - jekyll-mentions
-    - jekyll-optional-front-matter
-    - jekyll-seo-tag
-    - jekyll-sitemap
-    - liquid
-    - minima
-    - nokogiri
-    - jekyll-email-protect
-    - jekyll-google_analytics	
-    - jekyll-last-modified-at
-    - jekyll-maps
-    - jekyll-mentions
-    - jekyll-spaceship
-    - jekyll-tagging
-    - jekyll-toc
-    - json
-    - xml-sitemap
+#    - jekyll-avatar
+#    - jekyll-coffeescript
+#    - jekyll-github-metadata
+#    - jekyll-include-cache
+#    - jekyll-mentions
+#    - jekyll-optional-front-matter
+#    - jekyll-seo-tag
+#    - jekyll-sitemap
+#    - jekyll-last-modified-at
+#    - jekyll-maps
+#    - jekyll-mentions
+#    - jekyll-spaceship
+#    - jekyll-tagging
+#    - jekyll-toc
+#    - json
+#    - xml-sitemap
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -132,4 +126,3 @@ skin: auto
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
     date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
-

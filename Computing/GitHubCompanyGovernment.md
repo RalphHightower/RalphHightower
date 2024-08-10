@@ -49,6 +49,7 @@
 | [AvaloniaUI](https://github.com/AvaloniaUI ) | A cross-platform UI framework for .NET providing a flexible styling system and supporting Windows, Linux, macOS, iOS, Android and Browser. |
 | [Avnet](https://github.com/Avnet) | Hardware Products |
 | [Ballerine](https://github.com/ballerine-io ) | Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning |
+| [Bareboat Necessities](https://github.com/bareboat-necessities) | Open Source for Sailors |
 | [BeagleBoard\.org](https://github.com/beagleboard ) | BeagleBoard\.org Foundation supports building electronics with open source hardware and software, especially Linux |
 | [BOINC](https://github.com/BOINC ) | Open-source software for volunteer computing and grid computing. |
 | [BeerJSON](https://github.com/beerjson) | BeerJSON and other brewers JSON formats |
@@ -260,7 +261,7 @@
 | [REMS](https://github.com/rems-project ) | REMS |
 | [Renesas Electronics](https://github.com/renesas ) | Renesas Electronics |
 | [Renovate Bot](https://github.com/renovatebot) | The home of Renovate, a bot for automated dependency updates |
-| [rigexpert | Fobos SDR receiver Complex IQ signal source block for GnuRadio.](https://github.com/rigexpert ) |
+| [rigexpert](https://github.com/rigexpert ) | Fobos SDR receiver Complex IQ signal source block for GnuRadio. |
 | [riok](https://github.com/riok ) | .Net mapping source generator |
 | [RIPE NCC](https://github.com/RIPE-NCC ) | Regional Internet Registry and the secretariat for the RIPE community |
 | [RISC-V](https://github.com/riscv ) | RISC-V: The Free and Open RISC Instruction Set Architecture |

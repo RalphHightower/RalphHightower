@@ -1,6 +1,6 @@
-# Photography/Canon Mirrorless Cameras 
+# Photography/Canon Mirrorless Cameras
 
-## Canon RF Cameras 
+## Canon RF Cameras
 
 | Canon RF Cameras | Date |
 |---|---|
@@ -99,9 +99,8 @@
 |---|---|
 | [Printing big and BIGGER with my Canon printers!](https://blog.jeffcable.com/2023/06/printing-big-and-bigger-with-my-canon.html ) |
 
-## Articles 
+## Articles
 
 | Articles |
 |---|
 | [I love DSLRs but mirrorless cameras are so much better at manual focusing / Digital Camera World](https://www.digitalcameraworld.com/news/i-love-dslrs-but-mirrorless-cameras-are-so-much-better-at-manual-focusing ) |
-
