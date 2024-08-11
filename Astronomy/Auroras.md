@@ -41,67 +41,76 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [News Archive / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news-archive) |
 | [SpaceWeatherLive.com / Real-time data and plots auroral activity / SpaceWeatherLive.com](https://www.spaceweatherlive.com/) |
 | *[Aurora Tutorial @ NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/content/aurora-tutorial)* |
+| **[Aurora Viewline for Tonight and Tomorrow Night (Experimental) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)** |
 
 ## Auroras
 
 ### Solar Activity — 2024
 
+
 | Solar Activity[^2401] | Date |
 |---|---|
+| [Sun news July 25: Solar deja vu, but action incoming • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | August 11, 2024 |
+| [Solar Cycle 25 Likely Reached the Highest Sunspot Number in over 20 Years / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/solar-cycle-25-likely-reached-highest-sunspot-number-over-20-years) | Friday, August 09, 2024 18:27 UTC |
+| [Origins of matter discovered by recreating the Big Bang - Earth.com](https://www.earth.com/news/origins-of-matter-discovered-by-recreating-the-big-bang/) | 08-09-2024 |
+| **[Sun unleashes X-class solar flare, blasts 3rd coronal mass ejection toward Earth in a week (video) / Space](https://www.space.com/sun-3rd-solar-flare-week-geomagnetic-storm-watch-aug-2024)** | **August 9, 2024** |
+| **[Solar storm alert: Auroras and radio blackouts expected - Earth.com](https://www.earth.com/news/solar-storm-alert-auroras-radio-blackouts-expected-weekend-august-9-11-2024/)** | **08-09-2024** |
+| **[R3 (Strong) Radio Blackout Observed 08 Aug / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/r3-strong-radio-blackout-observed-08-aug)** | **Thursday, August 08, 2024 20:42 UTC** |
+| [Space Weather Weekend Outlook Forecast for 9-11 August / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/space-weather-weekend-outlook-forecast-9-11-august) | Thursday, August 08, 2024 19:30 UTC |
+| [Space Hurricanes Are Now A Thing – And They Happen A Lot / IFLScience](https://www.iflscience.com/space-hurricanes-are-now-a-thing-and-they-happen-a-lot-75463) | August 8, 2024 |
+| [NASA's Parker Solar Probe finds fresh clues to decades-old mystery surrounding the sun / Space](https://www.space.com/sun-parker-solar-probe-solar-heating-mystery) | August 8, 2024 |
+| [Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/08/strong-solar-flare-erupts-from-sun-20/) | August 8, 2024 |
 | [G2 (Moderate) Geomagnetic Storm Watch for 09-10 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-watch-09-10-aug) | Wednesday, August 07, 2024 20:06 UTC |
+| [Gigantic jets – a rare type of lightning – caught on video • EarthSky](https://earthsky.org/earth/gigantic-jets-rare-lightning-video/) | August 7, 2024 |
 | [GOES 500 MeV Proton Flux Observations Now Available / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/goes-500-mev-proton-flux-observations-now-available) | Tuesday, August 06, 2024 15:41 UTC |
+| [Earth's magnetic field dances with solar wind - Earth.com](https://www.earth.com/news/earths-magnetic-field-dances-with-solar-wind/) | 08-06-2024 |
+| [How NOAA's Hurricane Hunter aircraft help satellites build a 'full picture of the storm' / Space](https://www.space.com/noaa-hurricane-hunter-aircraft) | August 6, 2024 |
 | **[X1.7 and X1.1 Flares Observed on 05 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x17-and-x11-flares-observed-05-aug)** | **Monday, August 05, 2024 17:07 UTC** |
 | **[3-4 Aug Weekend Summary and 5-7 Aug Forecast Outlook / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/3-4-aug-weekend-summary-and-5-7-aug-forecast-outlook)** | **Monday, August 05, 2024 14:32 UTC** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/strong-solar-flare-erupts-from-sun-19/)** | **August 5, 2024** |
-| **[Sun Releases Strong Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/sun-releases-strong-flare-3/) | **August 5, 2024** |
+| **[Sun Releases Strong Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/08/05/sun-releases-strong-flare-3/)** | **August 5, 2024** |
 | **[The sun fires off 2 powerful X flares in less than 2 hours (video, photo) / Space](https://www.space.com/sun-two-x-class-solar-flares-august-5)** | **August 5, 2024** |
 | **[G3 Level Geomagnetic Event Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g3-level-geomagnetic-event-observed)** | **Sunday, August 04, 2024 15:22 UTC** |
 | [Alert: Geomagnetic Storm Could Bring Northern Lights As Far South As New York Tonight / IFLScience](https://www.iflscience.com/alert-geomagnetic-storm-could-bring-northern-lights-as-far-south-as-new-york-tonight-75413) | August 3, 2024 |
 | ["Cannibal" solar eruption will bring auroras to U.S. this weekend - Earth.com](https://www.earth.com/news/cannibal-cme-solar-eruption-will-bring-auroras-northern-lights-united-states/) | 08-02-2024 |
-| [Sun news August 3: July 2024 was the peak of Solar Cycle 25 so far • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | August 3, 2024 |
 | [Researchers identify useful emission lines in the sun's outer atmosphere • Phys](https://phys.org/news/2024-08-emission-lines-sun-outer-atmosphere.html) | AUGUST 2, 2024 |
 | [Moderate geomagnetic storm could bring northern lights as far south as New York this weekend / Space](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity) | August 2, 2024 |
 | [Aurora Alert Issued! Here’s How To See The Northern Lights This Weekend • Inverse](https://www.inverse.com/science/aurora-northern-lights-august-3-4-united-states) | Aug. 2, 2024 |
 | [Massive solar wind disturbance caused Earth's magnetosphere to fly without its usual tail • Phys](https://phys.org/news/2024-08-massive-solar-disturbance-earth-magnetosphere.html) | August 2, 2024 |
 | [G2 Watch for 03-04 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-03-04-aug) | Thursday, August 01, 2024 17:29 UTC  |
+| **[Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024)** | **Thursday, August 01, 2024 14:01 UTC** |
 | [R1-R2 (Minor-Moderate) Events Still Expected into the Weekend (1 - 4 Aug) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r1-r2-minor-moderate-events-still-expected-weekend-1-4-aug) | Thursday, August 01, 2024 14:43 UTC |
 | [May’s solar storm created a new Van Allen belt • EarthSky](https://earthsky.org/earth/2024-mays-solar-storm-new-ring-around-earth-van-allen-belt/) | August 1, 2024 |
-| [Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024) | Thursday, August 01, 2024 14:01 UTC |
 | [Predicting solar storms before they leave the sun • Phys](https://phys.org/news/2024-08-solar-storms-sun.html) | AUGUST 1, 2024 |
 | [Sunspot sketches from 1607 unlock secrets of solar activity - Earth.com](https://www.earth.com/news/sunspot-sketches-from-1607-unlock-secrets-of-solar-activity/) | 07-31-2024 |
 | [Why is the sun’s corona hotter than its surface?  - Earth.com](https://www.earth.com/news/why-is-the-suns-corona-hotter-than-its-surface/) | 07-31-2024 |
 | [NASA's Parker Solar Probe Shatters Theory on Sun’s Extremely Hot Corona • SciTechDaily](https://scitechdaily.com/nasas-parker-solar-probe-shatters-theory-on-suns-extremely-hot-corona/) | July 31, 2024 |
 | [Northern lights delight as 'cannibal' solar storm triggers auroras across US and Canada (photos) / Space](https://www.space.com/northern-lights-cannibal-solar-storm-us-canada-photos) | July 31, 2024 |
+| [Magnetic fields on the sun could solve longstanding solar heating mystery / Space](https://www.space.com/sun-magnetism-hot-outer-atmosphere) | July 31, 2024 |
 | [The sun's corona is weirdly hot, and Parker Solar Probe rules out one explanation • Phys](https://phys.org/news/2024-07-sun-corona-weirdly-hot-parker.html) | July 30, 2024 |
+| [Solar Mystery Solved by Astronomer\"s Drawings From Hundreds of Years Ago : ScienceAlert](https://www.sciencealert.com/solar-mystery-solved-by-astronomers-drawings-from-hundreds-of-years-ago) | 30 July 2024 |
 | [Geomagnetic storm could spark northern lights at mid-latitudes across US and Europe / Space](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme) | July 30, 2024 |
 | [Solar storms could cause more auroras • Phys](https://phys.org/news/2024-07-solar-storms-auroras-tuesday-night.html) | July 30, 2024 |
-| [Sun news July 30: ‘Strong’ geomagnetic storm watch !• EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 30, 2024 |
 | [NASA’s Solar Dynamics Observatory Chronicles Major Flare Event• SciTechDaily](https://scitechdaily.com/nasas-solar-dynamics-observatory-chronicles-major-flare-event/) | July 30, 2024 |
 | [Cannibal CME Is About to Deliver Spectacular Auroras to Earth's Atmosphere : ScienceAlert](https://www.sciencealert.com/cannibal-cme-is-about-to-deliver-spectacular-auroras-to-earths-atmosphere) |  30 July 2024 |
-| [Geomagnetic storm could spark northern lights at mid-latitudes across US and Europe / Space](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme) | July 30, 2024 |
 | **[Geomagnetic Storm Watches Now Continue Into 1 August / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-now-continue-1-august)** | **Monday, July 29, 2024 22:02 UTC** |
 | **[Geomagnetic Storm Watches in Effect 29-31 July (up to G3; Strong) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-effect-29-31-july-g3-strong)** | **Monday, July 29, 2024 13:55 UTC** |
-| **[Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024)** | **Monday, July 29, 2024 03:09 UTC** |
 | [New study simulates gravitational waves from failing warp drive • Phys](https://phys.org/news/2024-07-simulates-gravitational-warp.html) | July 29, 2024
 | [Watch a colossal X-class solar flare erupt from Earth-facing sunspot (video) / Space](https://www.space.com/x-flare-eruption-july-radio-blackout-asia-australia) | July 29, 2024 |
+| [Kepler Sketched the Sun in 1607. Astronomers Pinpointed the Solar Cycle - Universe Today](https://www.universetoday.com/167922/kepler-sketched-the-sun-in-1607-astronomers-pinpointed-the-solar-cycle/) | JULY 27, 2024 |
 | [Sun blasts out most powerful flare of current solar cycle (video) / Space](https://www.space.com/sun-solar-flare-far-side-x14-july-23) | July 26, 2024 |
 | [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Thursday, July 25, 2024 12:55 UTC |
 | [Eyes on the Skies: Scientists Crack Code on Earth-Threatening Solar Storms • SciTechDaily](https://scitechdaily.com/eyes-on-the-skies-scientists-crack-code-on-earth-threatening-solar-storms/) | July 25, 2024 |
-| [Sun news July 25: Solar deja vu, but action incoming • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 25, 2024 |
 | [Where and when to see the northern lights in 2024 / Space](https://www.space.com/32601-where-to-see-northern-lights.html) | Updated July 25, 2024 |
 | [S1-Minor Solar Radiation Storm Event from Far Side Halo CME / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s1-minor-solar-radiation-storm-event-far-side-halo-cme) | Wednesday, July 24, 2024 12:48 UTC |
-| [Sun news July 24: Sun activity moderate with 2 M flares •  EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 24, 2024 |
-| [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Tuesday, July 23, 2024 16:28 UTC |
 | [The next solar cycle – Solar Cycle 26 – is already beginning • EarthSky](https://earthsky.org/sun/the-next-solar-cycle-already-beginning-solar-cycle-26/) | July 23, 2024 |
 | [Precise space storm alerts could help shield Earth’s tech • EarthSky](https://earthsky.org/earth/precise-space-storm-alerts-earth/) | July 23, 2024 |
 | [Northern lights (aurora borealis) — what they are and how to see them / Space](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html) | Updated July 23, 2024 |
 | [G1 (Minor) Storm Watch for Saturday Evening (EDT) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-watch-saturday-evening-edt) | Monday, July 22, 2024 13:54 UTC |
-| [G2 Watch for July 24th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-watch-july-24th) | Monday, July 22, 2024 13:53 UTC |
 | [Watch two plumes of 'dark' plasma explode from the sun and send solar storm towards Earth (video) / Space](https://www.space.com/sun-dark-plasma-solar-storm-july-21-2024) | July 22, 2024 |
  [New breakthrough could lead to better solar storm predictions / Space](https://www.space.com/space-weather-predictions-cme-speed) | July 22, 2024 |
 | [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York / Space](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning) | July 22, 2024 |
 | [The sun's next solar cycle has begun, 'starquakes' suggest / Space](https://www.space.com/sun-next-solar-cycle-beginning) | July 19, 2024 |
-| [G1 (Minor\) Storm Watch for Saturday Evening (EDT\) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-storm-watch-saturday-evening-edt) | Thursday, July 18, 2024 19:43 UTC |
 | **[Sun blasts out 2nd X-class flare this week, triggers more radio blackouts (video\) / Space](https://www.space.com/sun-solar-flare-x-class-2nd-this-week-july-16-2024)** | **July 18, 2024** |
 | [Astrophotographer Catches Sun Firing Spectacular Plasma Ejection At Mercury / IFLScience](https://www.iflscience.com/astrophotographer-catches-sun-firing-spectacular-plasma-ejection-at-mercury-75159) | July 18, 2024 |
 | [The Evolution and Impact of Active Region 13664 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/evolution-and-impact-active-region-13664-0) | Wednesday, July 17, 2024 21:09 UTC |
@@ -109,7 +118,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[R3 Event on 16 July 2024 from Region 3738 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-event-16-july-2024-region-3738)** | **Tuesday, July 16, 2024 14:18 UTC** |
 | **[Strong Solar Flare Erupts From Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/07/16/strong-solar-flare-erupts-from-sun-18/)** | **July 16, 2024** |
 | [X1.2 Event: Decoding the Sun’s Latest Megaflare • SciTechDaily](https://scitechdaily.com/x1-2-event-decoding-the-suns-latest-megaflare/) | July 16, 2024 |
-| [Forecast Highlight 15-18 July: R1-R2 Events Remain Likely / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/forecast-highlight-15-18-july-r1-r2-events-remain-likely) | Monday, July 15, 2024 14:33 UTC |
 | [Forecast Highlight 15-18 July: R1-R2 Events Remain Likely / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/forecast-highlight-15-18-july-r1-r2-events-remain-likely) | Monday, July 15, 2024 14:33 UTC |
 | [G1 Watch for 13 July / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-watch-13-july) | Monday, July 15, 2024 13:12 UTC |
 | **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/07/15/sun-releases-strong-solar-flare-12/)** | **July 15, 2024** |
@@ -119,7 +127,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Solar maximum is in sight but when will it arrive (and when will we know)? / Space](https://www.space.com/when-will-solar-maximum-arrive-and-when-will-we-know-latest-predictions) | July 10, 2024 |
 | [Are there more solar flares than expected during this solar cycle? / Space](https://www.space.com/solar-flare-numbers-solar-cycle-25-comparison-previous-years) | July 9, 2024 |
 | [The Evolution and Impact of Active Region 13664 / NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/news/evolution-and-impact-active-region-13664) | Monday, July 8, 2024 - 14:22 UTC |
-| [Sun news July 7: A new region over the limb • Earth Sky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | July 7, 2024 |
 | [The Sun Unleashes More Solar Flares as Solar Maximum Continues / SYFY WIRE](https://www.syfy.com/syfy-wire/the-sun-unleashes-more-solar-flares-as-solar-maximum-continues) | Jul 6, 2024, 10:30 AM ET |
 | [Rare 'polar rain' aurora seen from Earth for the first time / Space](https://www.space.com/rare-smooth-aurora-north-pole-explained) | July 5, 2024 |
 | [Rare, mystery blasts from sun can devastate the ozone layer and spike radiation levels on Earth / Live Science](https://theconversation.com/new-study-shows-mysterious-solar-particle-blasts-can-devastate-the-ozone-layer-bathing-earth-in-radiation-for-years-233464) | July 4, 2024 |
@@ -235,24 +242,26 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[How NASA Tracked the Most Intense Solar Storm in Decades - NASA Science](https://science.nasa.gov/science-research/heliophysics/how-nasa-tracked-the-most-intense-solar-storm-in-decades/)** | MAY 16, 2024 |
 | [India's space agency has been carefully watching our sun's solar tantrums / Space](https://www.space.com/india-space-agency-isro-solar-activity-moon-orbiter-chandrayaan-2-aditya-l1-sun) | May 16, 2024 |
 | **[Twin X-Class Flares: NASA Captures Epic Solar Showdown • SciTechDaily](https://scitechdaily.com/twin-x-class-flares-nasa-captures-epic-solar-showdown/)** |  **MAY 16, 2024**  |
+| [NOAA: "Strong" solar storms and auroras continuing into Tuesday - Earth.com](https://www.earth.com/news/noaa-strong-geomagnetic-solar-storms-auroras-continue-through-tuesday/) | 05-13-2024 |
 | [Auroras on May 10-11 wowed millions! Pics here • EarthSky](https://earthsky.org/earth/auroras-last-night-extreme-solar-storm-wow-millions-may-10-11-12-2024/) | May 16, 2024 |
 | **[Region 3664 Remains Relentless / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/region-3664-remains-relentless)** | **Wednesday, May 15, 2024 - 14:25 UTC** |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/15/strong-solar-flare-erupts-from-sun-15/)** | **May 15, 2024** |
 | **[Sun Releases Strong Solar Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/15/sun-releases-strong-solar-flare-10/)** | **May 15, 2024** |
 | **[Huge, solar flare-launching sunspot has rotated away from Earth. But will it return? / Space](https://www.space.com/sunspot-ar3664-will-solar-storms-return )** | **May 15, 2024** |
-| [How do you forecast a solar storm? Space weather experts explain / Space](https://www.space.com/space-weather-forecasts-noaa-solar-storms) | May 15, 2024 |
 | **[NASA Captures Triple X-Class Solar Eruptions – Including a Powerful X8.7 Flare • SciTechDaily](https://scitechdaily.com/nasa-captures-triple-x-class-solar-eruptions-including-a-powerful-x8-7-flare/)** |  **MAY 15, 2024**  |
 | **[Biggest Solar Flare In 2 Decades Released By The Sun, Causing Blackouts / IFLScience](https://www.iflscience.com/biggest-solar-flare-in-2-decades-released-by-the-sun-causing-blackouts-74228)** | **May 15, 2024** |
 | **[Another X-flare from Another Region! / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/another-x-flare-another-region)** | **Wednesday, May 15, 2024 - 14:56 UTC** |
 | **[Solar storm detected in deep sea observatories • Ocean Networks Canada Communications](https://www.oceannetworks.ca/news-and-stories/stories/solar-storm-detected-in-deep-sea-observatories/)[^20240515]** | **MAY 15, 2024** |
+| [How do you forecast a solar storm? Space weather experts explain / Space](https://www.space.com/space-weather-forecasts-noaa-solar-storms) | May 15, 2024 |
 | **[Region 3664 not done yet! Produces X8.7 flare...largest of the solar cycle! / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/region-3664-not-done-yet-produces-x87-flarelargest-solar-cycle)[^87]** | **Tuesday, May 14, 2024 - 17:10 UTC[^87]** |
 | **[Two R3 Strong Radio Blackouts in past 12 hours / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/two-r3-strong-radio-blackouts-past-12-hours)** | **Tuesday, May 14, 2024 - 13:44 UTC** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/14/strong-solar-flare-erupts-from-sun-14/ )** | **May 14, 2024** |
 | **[Sun Releases 2 Strong Solar Flares – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/14/sun-releases-2-strong-solar-flares-2/ )** | **May 14, 2024** |
+| **[Sun unleashes massive X8.7 solar flare, biggest of current cycle, from super-active monster sunspot (video) / Space ](https://www.space.com/sun-solar-flare-sunspot-ar3664-x88-class-may-14-2024 )** | **May 14, 2024** |
 | [The Sun's Fury Sparked Breathtaking Auroras Worldwide. Why Do We See Different Colors? • ScienceAlert](https://www.sciencealert.com/the-suns-fury-sparked-breathtaking-auroras-worldwide-why-do-we-see-different-colors ) | 14 May 2024 |
 | [Biggest solar flare since 2019 erupts today, more radio blackouts - Earth.com](https://www.earth.com/news/biggest-solar-flare-since-2019-erupted-today-more-radio-blackouts/) | 05-14-2024 |
 | [Why Is the Sun So Active Right Now? - Atlas Obscura](https://www.atlasobscura.com/articles/why-is-the-sun-so-active-solar-cycle-maximum) | MAY 14, 2024 |
-| **[Sun unleashes massive X8.7 solar flare, biggest of current cycle, from super-active monster sunspot (video) / Space ](https://www.space.com/sun-solar-flare-sunspot-ar3664-x88-class-may-14-2024 )** | **May 14, 2024** |
+| [Solar storms that caused pretty auroras can create havoc with technology — here’s how • The Conversation](https://theconversation.com/solar-storms-that-caused-pretty-auroras-can-create-havoc-with-technology-heres-how-230020) | May 14, 2024 12:24pm EDT |
 | [Space Weather Impacts / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-impacts) | Monday, May 13, 2024 - 23:01 UTC |
 | [Why Does the Aurora Change Colors? / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/why-does-aurora-change-colors) | Monday, May 13, 2024 - 12:30 UTC |
 | [Geomagnetic Storming to Persist Tonight / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storming-persist-tonight) | Monday, May 13, 2024 - 01:22 UTC |
@@ -268,16 +277,19 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[G4 or Greater WATCH Remains in Effect / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g4-or-greater-watch-remains-effect)** | **Sunday, May 12, 2024 - 13:01 UTC** |
 | [Secondary Peak in Solar Storm Likely / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/secondary-peak-solar-storm-likely) | Sunday, May 12, 2024 - 12:57 UTC |
 | **[Strong Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/12/strong-flare-erupts-from-sun/ )** | **May 12, 2024** |
+| [What causes the different colours of the aurora? An expert explains the electric rainbow](https://theconversation.com/what-causes-the-different-colours-of-the-aurora-an-expert-explains-the-electric-rainbow-229899) | May 12, 2024 10:42pm EDT |
 | [Impact of solar storm that pushed Northern Lights to lower latitudes is waning : NPR](https://www.npr.org/2024/05/12/1250812592/northern-lights-solar-storm-power-grid-satellites ) | MAY 12, 2024 3:11 PM ET |
 | [Second night of auroras seen 'extreme' solar storm • Phys](https://phys.org/news/2024-05-night-auroras-extreme-solar-storm.html) | MAY 12, 2024 |
 | **[Cosmic Firestorm: Sun Unleashes Powerful X3.9 Solar Flare • SciTechDaily](https://scitechdaily.com/cosmic-firestorm-sun-unleashes-powerful-x3-9-solar-flare/)** | **MAY 12, 2024** |
 | **['Extreme' solar storms cook up sweet Mother's Day auroras for Moms everywhere / Space](https://www.space.com/sun-storms-aurora-show-mothers-day-2024)** | **May 12, 2024** |
 | **[Extreme solar storms mean gorgeous views of auroras / Digital Trends](https://www.digitaltrends.com/space/solar-storms-auroras/)** | **May 12, 2024** |
+| [New solar flare, secondary peak in "Extreme" solar storm - Earth.com](https://www.earth.com/news/secondary-peak-extreme-geomagnetic-solar-storm-expected-today/) | 05-12-2024 |
 | **[X-class Flares Continue to Occur / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x-class-flares-continue-occur)** | **Saturday, May 11, 2024 - 13:53 UTC** |
 | **[G5 Conditions Reached Yet Again! / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g5-conditions-reached-yet-again)** | **Saturday, May 11, 2024 - 12:43 UTC** |
 | **[Yet Another X-class Flare / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/yet-another-x-class-flare)** | **Saturday, May 11, 2024 - 02:13 UTC** |
 | **[Sun Releases 2 Strong Flares - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/05/11/sun-releases-2-strong-flares-2/)** | **May 11, 2024** |
 | **["Extreme" and rare G5 solar storm hits Earth on Saturday - Earth.com](https://www.earth.com/news/extreme-rare-g5-level-geomagnetic-storm-highest-level-hits-earth/)** | **05-11-2024** |
+| [More "Severe\"" and "Extreme" solar storms expected tonight - Earth.com](https://www.earth.com/news/more-severe-extreme-geomagnetic-solar-storms-expected-tonight-tomorrow/) | 05-11-2024 |
 | [Rapid-Fire Solar Flares Unleashed: NASA Witnesses 82 Intense Flares This Week (Video) • SciTechDaily](https://scitechdaily.com/rapid-fire-solar-flares-unleashed-nasa-witnesses-82-intense-flares-this-week-video/) | MAY 11, 2024 |
 | [The stormy sun erupts with its biggest solar flare yet from a massive sunspot — and it's still crackling (video) / Space](https://www.space.com/sun-fires-off-massive-x-class-solar-flares-may-11-2024) | May 11, 2024 |
 | **[Jaw-dropping northern lights from massive solar flares amaze skywatchers around the world. 'We have a very rare event on our hands.' (photos\) / Space](https://www.space.com/spectacular-northern-lights-rare-solar-flares-may-2024)** | **May 11, 2024** |
@@ -369,13 +381,14 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [R1-2 (Minor-Moderate\) Radio Blackouts Continue / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r1-2-minor-moderate-radio-blackouts-continue) | Thursday, March 28, 2024 - 07:19 UTC |
 | **[Strong Solar Flare Erupts from Sun - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/03/28/strong-solar-flare-erupts-from-sun-11/)** | **March 28, 2024** |
 | [G1 (Minor\) Geomagnetic Storm Watch for 26 Mar / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g1-minor-geomagnetic-storm-watch-26-mar) | Tuesday, March 26, 2024 - 07:13 UTC |
+| [NOAA: Severe solar storm warning status update - Earth.com](https://www.earth.com/news/severe-solar-storm-will-generate-auroras-as-far-south-as-alabama/) | 03-26-2024 |
 | **[G3 Watch still valid, but conditions diminishing / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g3-watch-still-valid-conditions-diminishing)** | **Monday, March 25, 2024 - 18:24 UTC** |
 | [G2 (Moderate\) Geomagnetic Storm Warning Extended / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-warning-extended) | Monday, March 25, 2024 - 10:31 UTC |
 | **[Sun Releases Strong Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/03/25/sun-releases-strong-flare/)** | **March 25, 2024** |
 | **[Earth hit by radiation from rare 'double' X-class solar flare, triggering most powerful geomagnetic storm in 6 years / Live Science](https://www.livescience.com/space/the-sun/earth-hit-by-radiation-from-rare-double-x-class-solar-flare-triggering-most-powerful-geomagnetic-storm-in-6-years )** | **March 25, 2024** |
 | [Strongest solar storm since 2017 hits Earth but leaves aurora chasers in the dark / Space](https://www.space.com/strongest-solar-storm-since-2017-hits-earth-march-24) | March 25, 2024 |
 | [Geomagnetic Storm due to CME Continues on Sunday, 24 March 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-due-cme-continues-sunday-24-march-2024) |  Sunday, March 24, 2024 - 20:42 UTC |
-| **[Severe (G4\) Geomagnetic Storms Observed - 24 March 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/severe-g4-geomagnetic-storms-observed-24-march-2024)** | Sunday, March 24, 2024 - 17:40 UTC** |
+| **[Severe (G4\) Geomagnetic Storms Observed - 24 March 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/severe-g4-geomagnetic-storms-observed-24-march-2024)** | **Sunday, March 24, 2024 - 17:40 UTC** |
 | [G2 (Moderate\) Geomagnetic Storm Levels Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-levels-observed-3) |  Saturday, March 23, 2024 - 23:47 UTC |
 | [Geomagnetic Storm Watches Issued for 24-25 March 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/geomagnetic-storm-watches-issued-24-25-march-2024) | Saturday, March 23, 2024 - 19:23 UTC |
 | [Solar Radiation Storms at S1-S2 (Minor-Moderate\) Levels - 23 March 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/solar-radiation-storms-s1-s2-minor-moderate-levels-23-march-2024) | Saturday, March 23, 2024 - 15:34 UTC |
@@ -403,7 +416,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Sun activity archive for March 2024 • EarthSky](https://earthsky.org/sun/sun-activity-archive-for-march-2024/) | March 1, 2024 |
 | [Why March is the best month to see the northern lights / Space](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting) | March 1, 2024 |
 | [Weird dent in Earth's magnetic field is messing with auroras in the Southern Hemisphere / Live Science](https://www.livescience.com/planet-earth/weird-dent-in-earths-magnetic-field-is-messing-with-auroras-in-the-southern-hemisphere) | March 1, 2024 |
-| [Where and when to see the northern lights in 2024 / Space](https://www.space.com/32601-where-to-see-northern-lights.html) | February 29, 2024 |
 | [Network Maintenance: 22 May 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/network-maintenance-22-may-2024) | Wednesday, February 28, 2024 - 19:30 UTC |
 | [Sunspot Region 3590 Evolution from February 19-27th / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/sunspot-region-3590-evolution-february-19-27th) | Tuesday, February 27, 2024 - 16:39 UTC |
 | **[Strongest solar flare in 7 years to cause Earth disruptions - Earth.com](https://www.earth.com/news/strongest-solar-flare-in-7-years-prompts-gps-satellite-warnings-and-aurora-alert/)** | **02-27-2024** |
@@ -433,7 +445,6 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Sun Unleashes X3.3 Fury / NASA’s SDO Captures Powerful Solar Flare • SciTechDaily](https://scitechdaily.com/sun-unleashes-x3-3-fury-nasas-sdo-captures-powerful-solar-flare/)** | **FEBRUARY 11, 2024** |
 | **[Colossal 'Martian sunspot' is so big it was seen from Mars. Now it's facing Earth. / Live Science](https://www.space.com/enormous-martian-sunspot-turns-to-face-earth-high-chance-solar-flares )** | **February 9, 2024** |
 | **[Sun Releases Strong Solar Flare - Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/02/09/sun-releases-strong-solar-flare-9/)** | **February 9, 2024** |
-| [Northern lights (aurora borealis): What they are & how to see them / Space](https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html ) | February 9, 2024 |
 | [R2 (Moderate\) Radio Blackout Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-radio-blackout-observed-3) | Wednesday, February 7, 2024 - 04:20 UTC |
 | [The Sun in gamma rays over a 14-year period captured on video - Earth.com](https://www.earth.com/news/team-creates-video-showing-the-sun-in-gamma-rays-over-a-14-year-period/) | 02-07-2024 |
 | [Long-duration R1 (Minor\) Flare Occurred / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/long-duration-r1-minor-flare-occurred) | Tuesday, February 6, 2024 - 04:35 UTC |
@@ -519,6 +530,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Three planets around this sun-like star are doomed • Phys](https://phys.org/news/2023-11-planets-sun-like-star-doomed.html) | NOVEMBER 1, 2023 |
 | [15 signs the sun is gearing up for its explosive peak — the solar maximum / Live Science](https://www.livescience.com/space/the-sun/10-signs-the-sun-is-gearing-up-for-its-explosive-peak-the-solar-maximum) <br />1. Rising sunspot numbers <br />2. X-class flare frequency<br />3. Gigantic sunspot<br />4. Eerie airglow<br />5. Disappearing clouds<br />6. Cannibal CMEs<br />7. Detecting solar storms on Mars<br />8. Geomagnetic storm bombardment<br />9. Thermosphere temperatures rising<br />10. Surprising solar eclipse image<br />11. Towering solar tornado <br />12. Fiery plasma waterfall<br />13. Enormous polar vortex<br />14. Butterfly CME<br />15. 1 million-mile-long plasma plume | November 1, 2023 |
 | [Scientists finally acknowledge that they got their solar cycle predictions wrong, and that we are fast approaching the sun's explosive peak / Live Science](https://www.livescience.com/space/the-sun/scientists-finally-acknowledge-that-they-got-their-solar-cycle-predictions-wrong-and-that-we-are-fast-approaching-the-suns-explosive-peak ) | October 30, 2023 |
+| [The Sun’s activity cycle is reaching its peak early: knowing why could help us unlock the secrets of our star](https://theconversation.com/the-suns-activity-cycle-is-reaching-its-peak-early-knowing-why-could-help-us-unlock-the-secrets-of-our-star-214444) | October 26, 2023 6:30am EDT |
 | [New speed record holder for fastest human-made object - Earth.com](https://www.earth.com/news/meet-the-fastest-human-made-object-ever-nasas-parker-solar-probe/) | 10-14-2023 |
 | [Largest Ever Solar Storm Identified in Ancient Tree Rings – Could Devastate Modern Technology and Cost Billions • SciTechDaily](https://scitechdaily.com/largest-ever-solar-storm-identified-in-ancient-tree-rings-could-devastate-modern-technology-and-cost-billions/) | OCTOBER 9, 2023 |
 | [Layers of the Sun - The Sun Spot • Phys](https://blogs.nasa.gov/sunspot/2023/09/26/layers-of-the-sun/) | September 26, 2023 |
@@ -527,6 +539,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Solar Flares in a Lab? Caltech’s Miniature Marvels Unlock Cosmic Secrets • SciTechDaily](https://scitechdaily.com/solar-flares-in-a-lab-caltechs-miniature-marvels-unlock-cosmic-secrets/) | SEPTEMBER 6, 2023 |
 | [Space’s Silent Threat: Scientists Shed New Light on “Killer Electrons” • SciTechDaily](https://scitechdaily.com/spaces-silent-threat-scientists-shed-new-light-on-killer-electrons/) | SEPTEMBER 4, 2023 |
 | [Sun’s Mighty Solar Wind Powered by Tiny “Picoflare Jets” Within Coronal Holes • SciTechDaily](https://scitechdaily.com/suns-mighty-solar-wind-powered-by-tiny-picoflare-jets-within-coronal-holes/) | AUGUST 30, 2023 |
+| [This solar cycle, the sun’s activity is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955) | August 14, 2023 2:42pm EDT |
 | [Enormous solar flare struck Earth this week, but what does this mean? - Earth.com](https://www.earth.com/news/a-massive-solar-flare-struck-earth-on-monday-but-what-does-this-mean/) | 08-12-2023 |
 | [Triple Impact: Massive Solar Eruption Felt on Earth, Moon, and Mars • SciTechDaily](https://scitechdaily.com/triple-impact-massive-solar-eruption-felt-on-earth-moon-and-mars/) | AUGUST 9, 2023 |
 | **[Sun Unleashes an X1.5 Class Flare: NASA Captures the Stunning Display • SciTechDaily](https://scitechdaily.com/sun-unleashes-an-x1-5-class-flare-nasa-captures-the-stunning-display/)** | **AUGUST 8, 2023** |
@@ -545,6 +558,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Radiant Fury: Sun Unleashes Powerful X1.0 Class Solar Flare • SciTechDaily](https://scitechdaily.com/radiant-fury-sun-unleashes-powerful-x1-0-class-solar-flare/)** | **JUNE 26, 2023** |
 | [Earth's thermosphere reaches highest temperature in 20 years after being bombarded by solar storms / Live Science](https://www.livescience.com/space/the-sun/earths-thermosphere-reaches-highest-temperature-in-20-years-after-being-bombarded-by-solar-storms) | June 23, 2023 |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)** | **June 20, 2023** |
+| [The solar wind, which creates beautiful auroras on Earth, is now less mysterious - Earth.com](https://www.earth.com/news/the-solar-wind-which-creates-beautiful-auroras-on-earth-is-now-less-mysterious/) | 06-10-2023 |
 | [NASA’s Parker Solar Probe Plunges Into Fast Solar Wind and Discovers Its Mysterious Source • SciTechDaily](https://scitechdaily.com/nasas-parker-solar-probe-plunges-into-fast-solar-wind-and-discovers-its-mysterious-source/) | JUNE 8, 2023 |
 | [Interchange reconnection as the source of the fast solar wind within coronal holes / Nature Communications](https://www.nature.com/articles/s41586-023-05955-3) | 07 June 2023 |
 | [NASA's mission to the Sun is already cracking some of our star's mysteries / Astronomy.com](https://www.astronomy.com/observing/nasas-mission-to-the-sun-is-already-cracking-some-of-our-stars-mysteries/) | Published: December 4, 2019<br />Last updated on May 18, 2023 |
@@ -565,6 +579,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Mysterious aurora-like phenomenon 'STEVE' appears during strongest solar storm for more than half a decade / Live Science](https://www.livescience.com/mysterious-aurora-like-phenomenon-steve-appears-during-strongest-solar-storm-for-more-than-half-a-decade)** | **March 28, 2023** |
 | **[Gigantic 'solar tornado' taller than 14 Earths raged for 3 days. What caused it? / Live Science](https://www.livescience.com/111000-mile-tall-solar-tornado-is-one-of-the-largest-plasma-twisters-ever-seen)** | **March 23, 2023** |
 | [Massive Hole In Sun's Atmosphere Cracked Open And Auroras Are Coming / IFLScience](https://www.iflscience.com/massive-hole-in-suns-atmosphere-cracked-open-and-auroras-are-coming-68123) | March 23, 2023 |
+| [Is a solar flare the same thing as a CME?](https://earthsky.org/sun/is-a-solar-flare-the-same-thing-as-a-cme/) | March 22, 2023 |
 | **[A Powerful Solar Eruption on Far Side of Sun Still Impacted Earth – The Sun Spot](https://blogs.nasa.gov/sunspot/2023/03/14/a-powerful-solar-eruption-on-far-side-of-sun-still-impacted-earth/)** | **March 14, 2023** |
 | [60,000-mile-tall 'plasma waterfall' snapped showering the sun with impossibly fast fire / Live Science](https://www.livescience.com/60000-mile-tall-plasma-waterfall-snapped-showering-the-sun-with-impossibly-fast-fire ) | March 15, 2023 |
 | [“Unexpected” – Researchers Pinpoint Mysterious Source of Sun’s “Heartbeat-Like” Signals • SciTechDaily](https://scitechdaily.com/unexpected-researchers-pinpoint-mysterious-source-of-suns-heartbeat-like-signals/) | MARCH 12, 2023 |
@@ -576,6 +591,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Enormous 'polar vortex' on the sun is unprecedented, scientists say / Live Science](https://www.livescience.com/enormous-polar-vortex-on-the-sun-is-unprecedented-scientists-say ) | February 10, 2023 |
 | [Ultra-rare 'rainbow clouds' light up the Arctic Circle like auroras in stunning new photos / Live Science](https://www.livescience.com/polar-stratospheric-clouds-arctic) | January 31, 2023 |
 | [Modeling Solar Winds: Simulations Reproduce Complex Fluctuations in Soft X-Ray Signal Detected by Satellites • SciTechDaily](https://scitechdaily.com/modeling-solar-winds-simulations-reproduce-complex-fluctuations-in-soft-x-ray-signal-detected-by-satellites/) | JANUARY 27, 2023 |
+| [Flashes on the sun might help predict solar flares](https://earthsky.org/sun/flashes-on-the-sun-predict-solar-flares/) | January 22, 2023 |
 | **[Flashes on the Sun Could Help Scientists Predict Solar Flares - NASA](https://www.nasa.gov/missions/sdo/flashes-on-the-sun-could-help-scientists-predict-solar-flares/)** | JAN 17, 2023 |
 | **[Explosive X1.9 Class Solar Flare Erupts From the Sun • SciTechDaily](https://scitechdaily.com/explosive-x1-9-class-solar-flare-erupts-from-the-sun/)** | **JANUARY 12, 2023** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/01/10/strong-solar-flare-erupts-from-sun-4/)** | **January 10, 2023** |
@@ -594,6 +610,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Activity | Date |
 |---|---|
+| [Maximal growth rate of the ascending phase of a sunspot cycle for predicting its amplitude / Astronomy & Astrophysics (A&A\)](https://www.aanda.org/articles/aa/full_html/2022/07/aa43509-22/aa43509-22.html) | 20 July 2022 |
+| [A new method for predicting the 11-year solar cycle strength](https://www.spacedaily.com/reports/A_new_method_for_predicting_the_11_year_solar_cycle_strength_999.html) | Jul 06, 2022 |
 | [10 solar storms that blew us away in 2022 / Live Science](https://www.livescience.com/solar-storm-stories-2022 ) | December 26, 2022 |
 | [Microwave imaging of quasi-periodic pulsations at flare current sheet / Nature Communications](https://www.nature.com/articles/s41467-022-35377-0) | 12 December 2022 |
 | **[Solar storm smashes hole in Earth's magnetosphere, triggering extremely rare pink auroras / Live Science](https://www.livescience.com/pink-auroras-solar-storm)** | **November 7, 2022** |
@@ -670,7 +688,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [NASA Approves Two Heliophysics Missions to Explore Sun, Earth’s Aurora • SciTechDaily](https://scitechdaily.com/nasa-approves-two-heliophysics-missions-to-explore-sun-earths-aurora/) | DECEMBER 30, 2020 |
 | [Rare & Magical Pulsating Aurora Lights: Killer Electrons in Strumming Sky Lights • SciTechDaily](https://scitechdaily.com/rare-magical-pulsating-aurora-lights-killer-electrons-in-strumming-sky-lights/) | NOVEMBER 30, 2020 |
 | [Aurora-Chasing Citizen Scientists Bring Us a Step Closer to Solving the STEVE Mystery • SciTechDaily](https://scitechdaily.com/aurora-chasing-citizen-scientists-bring-us-a-step-closer-to-solving-the-steve-mystery/) | NOVEMBER 15, 2020 |
-»«| [New “Sun Clock” Quantifies Cycle of Extreme Space Weather With Astonishing Precision • SciTechDaily](https://scitechdaily.com/new-sun-clock-quantifies-cycle-of-extreme-space-weather-with-astonishing-precision/) | JUNE 13, 2020 |
+| [New “Sun Clock” Quantifies Cycle of Extreme Space Weather With Astonishing Precision • SciTechDaily](https://scitechdaily.com/new-sun-clock-quantifies-cycle-of-extreme-space-weather-with-astonishing-precision/) | JUNE 13, 2020 |
 | [Amateur Photographers Discover a New Type of Aurora / Digital Trends](https://www.digitaltrends.com/cool-tech/aurora-the-dunes-atmospheric-waes/) | February 2, 2020 |
 | [Beautiful new form of aurora discovered by amateur skygazers • New Atlas](https://newatlas.com/space/new-form-aurora-dune/) | January 29, 2020 |
 | [Amateur Photographers Have Discovered a New Form of the Northern Lights • SciTechDaily](https://scitechdaily.com/amateur-photographers-have-discovered-a-new-form-of-the-northern-lights/) | JANUARY 28, 2020 |
@@ -688,6 +706,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Study Suggests Auroras Occur Outside Our Solar System • SciTechDaily](https://scitechdaily.com/study-suggests-auroras-occur-outside-our-solar-system/) | JANUARY 22, 2013 |
 | **[Two Coronal Mass Ejections Strongly Compressed the Magnetopause • SciTechDaily](https://.scitechdaily.com/two-cmes-strongly-compressed-thmme-magnetopause/)** | **JUNE 19, 2012** |
 | [NASA Continues to Monitor Solar Flares • SciTechDaily](https://scitechdaily.com/nasa-continues-to-monitor-solar-flares/) | MARCH 9, 2012 |
+| [Huge space storm could disrupt power grids, GPS, flights](https://theconversation.com/huge-space-storm-could-disrupt-power-grids-gps-flights-5775) | March 8, 2012 12:28am EST |
 | **[Strong Geomagnetic Storms a Possibility After Active Sunspot 1401 Erupted • SciTechDaily](https://scitechdaily.com/strong-geomagnetic-storms-a-possibility-after-active-sunspot-1401-erupted/)** | **JANUARY 23, 2012** |
 
 </details >
@@ -741,7 +760,6 @@ An aurora is a natural light display predominantly seen in the polar regions, ca
 
 ## Solar Dynamics Observatory News
 
-
 The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010 as part of the Living With a Star (LWS) program, which aims to understand the causes of solar variability and its impacts on Earth. The SDO is equipped with three advanced scientific instruments: the Helioseismic and Magnetic Imager (HMI), the Atmospheric Imaging Assembly (AIA), and the Extreme Ultraviolet Variability Experiment (EVE), which together provide comprehensive measurements of the sun’s interior, atmosphere, magnetic field, and energy output. Operating in a geosynchronous orbit around Earth, the SDO supplies high-resolution images of the Sun in multiple wavelengths, offering unprecedented insights into solar activities such as solar flares, coronal mass ejections, and their effects on space weather. This continuous stream of data plays a crucial role in improving our understanding of the relationship between the Sun and the Earth’s environment.
 
 ## Solar Observing Satellites
@@ -758,20 +776,25 @@ The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010
 
 ## Research Papers 
 
+
 | Publication | Date |
 |---|---|
 | [In Situ Mechanisms are Necessary for Switchback Formation - IOPscience](https://iopscience.iop.org/article/10.3847/2041-8213/ad60bc) | 2024 July 29 |
 | [Earth's Alfvén Wings Driven by the April 2023 Coronal Mass Ejection - Chen - 2024 - Geophysical Research Letters - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108894) | 24 July 2024 |
+| [^20240701]: [The X‐Pattern Merging of the Equatorial Ionization Anomaly Crests During Geomagnetic Quiet Time - Laskar - 2024 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JA032224) —  07 April 2024<br />[Unique Combinations of Differently Shaped Equatorial Plasma Bubbles Occurring Within a Small Longitude Range - Karan - 2023 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JA031625) — 13 November 2023 |
 | [An Extreme Auroral Electrojet Spike During 2023 April 24th Storm - Zou - 2024 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV001101) | 25 April 2024 |
 | [Yet Another Sunshine Mystery: Unexpected Asymmetry in GeV Emission from the Solar Disk - IOPscience](https://iopscience.iop.org/article/10.3847/1538-4357/ad1bd2) | 2024 February 7 |
 | [A Possible Mechanism for the "Late Phase" in Stellar White-light Flares - IOPscience • SciTechDaily](https://iopscience.iop.org/article/10.3847/1538-4357/ad077d) | 2023 December 6 |
 | [The Extreme Space Weather Event of 1872 February: Sunspots, Magnetic Disturbance, and Auroral Displays - IOPscience](https://iopscience.iop.org/article/10.3847/1538-4357/acc6cc) | 2023 December 1 |
+| [Hadronic J/ψ regeneration in Pb+Pb collisions - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0370269323005804) | Received 25 July 2023<br />Accepted 8 October 2023<br /> Available online 11 October 2023<br />Version of Record 17 October 2023. |
 | [The 8‐Year Solar Cycle During the Maunder Minimum - Yan - 2023 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV000964) | 03 October 2023 |
+| [Resolution of a Few Problems in the Application of Quasilinear Theory to Calculating Diffusion Coefficients in Heliophysics - Cunningham - 2023 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JA031703 ) | 19 September 2023 |
 | [The First Ground Level Enhancement Seen on Three Planetary Surfaces: Earth, Moon, and Mars - Guo - 2023 - Geophysical Research Letters - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103069) | 02 August 2023 |
 | [Global Geomagnetic Perturbation Forecasting Using Deep Learning - Upendran - 2022 - Space Weather - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003045) | 19 May 2022 |
 | [The Diffuse Auroral Eraser - Troyer - 2021 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JA028805) | 18 February 2021 |
 | [Intense dB/dt Variations Driven by Near‐Earth Bursty Bulk Flows (BBFs\): A Case Study - Wei - 2021 - Geophysical Research Letters - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091781) | 20 January 2021 |
 | [Relativistic Electron Microbursts as High‐Energy Tail of Pulsating Aurora Electrons - Miyoshi - 2020 - Geophysical Research Letters - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090360) | 13 October 2020 |
+| [The Value of CME Arrival Time Forecasts for Space Weather Mitigation - Owens - 2020 - Space Weather - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020SW002507) | 10 June 2020 |
 | [The Mysterious Green Streaks Below STEVE - Semeter - 2020 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020AV000183) | 01 October 2020 |
 | [Quantifying the Solar Cycle Modulation of Extreme Space Weather - Chapman - 2020 - Geophysical Research Letters - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087795) | 30 May 2020 |
 | [Citizen Scientists Discover a New Auroral Form: Dunes Provide Insight Into the Upper Atmosphere - Palmroth - 2020 - AGU Advances - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019AV000133) | 28 January 2020 |
