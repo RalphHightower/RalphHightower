@@ -2,7 +2,7 @@
 
 For justice to be equitable, justices must be neutral to personal or politics. However, Justice Thomas has been compromised. 
 
-## Financially Compromised 
+## Financially and *Ethically* Compromised!
 
 | [Clarence Thomas: Here Are All The Ethics Scandals Involving The Supreme Court Justice Amid New Harlan Crow Trips](https://www.forbes.com/sites/alisondurkee/2024/08/05/clarence-thomas-here-are-all-the-ethics-scandals-involving-the-supreme-court-justice-amid-new-harlan-crow-trips/)[^11] — Forbes Magazine. Aug 5, 2024,04:12pm EDT |
 |-----|
