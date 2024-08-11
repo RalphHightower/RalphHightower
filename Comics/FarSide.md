@@ -18,6 +18,8 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Funniest The Far Side Comics About Sports](https://www.cbr.com/hilarious-far-side-sports-comics/) | August 8, 2024 |
+| [Who is Gary Larson, The Far Side Creator?](https://www.cbr.com/gary-larson-the-far-side-creator/) | August 4, 2024 |
 | [The Best Historical The Far Side Comics, Ranked](https://www.cbr.com/video/the-far-side-best-historical-comics-ranked/) | July 25, 2024 |
 | [15 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/) | July 22, 2024 |
 | [10 The Far Side Comic Strips That Barely Make Any Sense](https://www.cbr.com/the-far-side-strips-make-no-sense/) | July 15, 2024 |
@@ -37,7 +39,17 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [10 Hilarious Far Side Comics Set In Movie Theaters](https://screenrant.com/10-hilarious-far-side-comics-movie-theaters/) | August 10, 2024 |
+| [10 Hilarious Far Side Comics Featuring Absurd Vacation Photos](https://screenrant.com/10-hilarious-far-side-comics-absurd-vacation-photos/) | August 7, 2024 |
+| [Gary Larson\"s Final Words On His Career Are Bizarre, Touching, & Perfect For The Far Side](https://screenrant.com/gary-larson-career-far-side-comics-spider-analogy/) |August 7, 2024|
+| [10 Funniest Far Side Comics That Somehow Found the Funny Side of Broken Marriages](https://screenrant.com/funniest-far-side-comics-bad-marriages-gary-larson/) | August 6, 2024 |
+| ["What Else Didn\"t I Draw?": Gary Larson On The Far Side Comics Left Unproduced By His Retirement](https://screenrant.com/gary-larson-retirement-undrawn-far-side-comics/) | August 5, 2024 |
+| [12 Hilarious Far Side Comics Featuring Rhinoceros (From 1980 to 1987)](https://screenrant.com/far-side-comics-rhinos-1980s/) | August 3, 2024|
+| [10 More Brilliant Multi-Panel Far Side Comics](https://screenrant.com/best-far-side-multi-panel-comics-gary-larson/) | August 2, 2024 |
+| [12 Far Side Comics From 1985 That Make Readers Go "What The?"](https://screenrant.com/confusing-far-side-comics-what-the-1984/) | July 28, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 30 (Including Gary Larson\"s Best Wordless Comic)](https://screenrant.com/funniest-far-side-comics-no-caption-june-1994/) | Jul 27, 2024 |
 | [20 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/) | July 26, 2024 |
+| [This Recurring Far Side Joke Is the Perfect Metaphor For Gary Larson\"s Humor](https://screenrant.com/far-side-trojan-horse-comics-gary-larson-humor/) | Jul 24, 2024 |
 | [10 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | July 23, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 20, 2024 |

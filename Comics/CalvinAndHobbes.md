@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Best Calvin and Hobbes Comics About Sports](https://www.cbr.com/calvin-and-hobbes-best-sports-comics/) | August 10, 2024 |
 | [20 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/) | Updated July 30, 2024 |
 | [Calvin and Hobbes: Calvin’s 10 Grossest Lunches](https://www.cbr.com/calvin-and-hobbes-grossest-lunches/) | July 26, 2024 |
 | [The Funniest Calvin & Hobbes Comics Of All Time](https://www.cbr.com/calvin-hobbes-funny-comics/) | July 24, 2024 |
@@ -127,6 +128,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [15 Best Calvin and Hobbes Strips About School (and Homework)](https://screenrant.com/best-calvin-and-hobbes-comics-about-school-homework/) | August 10, 2024 |
+| [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Watterson's Most Creative of All Time)](https://screenrant.com/funniest-calvin-and-hobbes-comics-july-1994/) | August 5, 2024 |
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
 | [10 Longest Calvin and Hobbes Storylines](https://screenrant.com/calvin-and-hobbes-comics-longest-stories/) | July 19, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Calvin's Biggest Disasters\)](https://screenrant.com/funniest-calvin-and-hobbes-comics-june-2024/) | June 28, 2024 |
