@@ -8,6 +8,7 @@
 | [Bringing APL To The Masses: The History Of The IBM 5100 / Hackaday](https://hackaday.com/2023/12/19/bringing-apl-to-the-masses-the-history-of-the-ibm-5100/ ) | December 19, 2023 |
 | [Remembering Ed Roberts, The Home Computer Pioneer You Should Have Heard Of But Probably Haven’t / Hackaday](https://hackaday.com/2023/12/17/remembering-ed-roberts-the-home-computer-pioneer-you-should-have-heard-of-but-probably-havent/ ) | December 17, 2023 |
 | [Swiss Physicist’s “Big Hack” for Intel 4004’s 52nd Anniversary](https://4004.com/hackaday23/ ) | 2023-Nov-19 |
+| [Long gone, DEC is still powering the world of computing / Ars Technica](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/) | 10/6/2023, 7:30 AM |
 | [The Rise and Decline of Silicon Art - News](https://www.allaboutcircuits.com/news/the-rise-and-decline-of-silicon-art/ ) | July 11, 2022 |
 
 ## Commodore 64

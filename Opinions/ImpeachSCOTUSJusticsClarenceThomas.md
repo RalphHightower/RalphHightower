@@ -1,3 +1,4 @@
+
 # Opinions/Impeach Supreme Court Justice Clarence Thomas
 
 For justice to be equitable, justices must be neutral to personal or politics. However, Justice Thomas has been compromised.
@@ -17,12 +18,14 @@ For justice to be equitable, justices must be neutral to personal or politics. H
 | **Horatio Alger Association:** ProPublica’s reporting built off a previous New York Times report that Thomas—a longtime member of the Horatio Alger Association, which was created to “dispel the mounting belief ... that the American dream was no longer attainable”—has for years accepted gifts from a “[broad] cohort of wealthy and powerful friends” who belong to the group, including people with business before the Supreme Court, receiving such benefits as luxury trips and a Super Bowl ring. |
 | **Ginni Thomas Conservative Activism:** Thomas’ wife, Ginni Thomas, is a right-wing activist, which has raised considerable ethics concerns about overlap between her and her husband’s work—particularly as the New Yorker reported groups she’s been involved with have submitted briefs before the Supreme Court, including a group that has weighed in on the court’s pending case about affirmative action in university admissions. |
 | **Ginni Thomas Leonard Leo:** Leo, a conservative judicial activist who’s spent billions on efforts to reshape the federal courts, including the Supreme Court, told then-conservative pollster Kellyanne Conway to give Ginni Thomas “another $25k” through a nonprofit group he advises—which then filed a brief with the Supreme Court—but conceal that the payment was for her, the Post reports, telling Conway, “No mention of Ginni, of course.” |
-| **Ginni Thomas 2020 Election:** Thomas pushed efforts to overturn the 2020 election results as her husband was hearing cases on it, including sending text messages to then White House Chief of Staff Mark Meadows, which fueled calls for Thomas to resign or face impeachment over the perceived conflict of interest. |
-| **January 6:** Ginni Thomas has also confirmed she briefly attended the rally on January 6 that preceded the attack on the Capitol building and publicly criticized the House January 6 Committee, and the justice has come under fire for failing to recuse himself in a case concerning former President Donald Trump’s records being turned over to the committee—in which he was the only justice to dissent and believe the records should have been withheld. |
+| **Ginni Thomas 2020 Election:** Thomas pushed efforts to overturn the 2020 election results as her husband was hearing cases on it, including sending text messages to then White House Chief of Staff Mark Meadows, which fueled calls for Thomas to resign or face impeachment over the perceived conflict of interest.[^12] |
+| **January 6:** Ginni Thomas has also confirmed she briefly attended the rally on January 6 that preceded the attack on the Capitol building and publicly criticized the House January 6 Committee, and the justice has come under fire for failing to recuse himself in a case concerning former President Donald Trump’s records being turned over to the committee—in which he was the only justice to dissent and believe the records should have been withheld.[^13] |
 | **Ginni Thomas Funding:** The Post reported in March that a conservative group Ginni Thomas formed in 2019 had raised nearly $600,000 from anonymous donors funneled through a right-wing think tank that filed an amicus brief at the Supreme Court during the same time, and ethics experts said Clarence Thomas should have recused himself from that case if his wife was paid by the group. |
 | **Financial Disclosures:** Thomas has made a series of other “errors and omissions” on financial disclosure reports, which the Washington Postreported includes reporting real estate income for decades from a company that shut down in 2006 and has in the past had to amend his financial disclosures multiple times, including after failing to report his wife’s income in the 2000s. |
 
 [^11]: This is an excellent summarization of the financial and ethical problems and conflicts of Thomas, plus his wife, Ginny.<br />— *Ralph Hightower*
+[^12]: ***DAMN!***<br />— *Ralph Hightower
+[^13]: Imagine the optics if Ginni Thomas were photographed or recorded at the rioting and subsequently charged with sedition.<br />— *Ralph Hightower*
 
 ## [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe • MSN](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ )
 
@@ -57,10 +60,10 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 | [Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) | April 6, 2023, 5 a.m. EDT |
 | [Thomas Pushed To Kill Disclosure Laws While Getting Secret Billionaire Gifts • Lever News](https://www.levernews.com/thomas-pushed-to-kill-disclosure-laws-while-getting-secret-billionaire-gifts/)[^31] | Apr 12, 2023 |
 | [The Saga of Clarence Thomas and His Luxury RV Takes a Disturbing Turn / The New Republic](https://newrepublic.com/article/181627/clarence-thomas-rv-loan-democrats-letter) | May 16, 2024 |
+| [Supreme Court Finally Adopts a Code of Ethics. But It Has No Teeth. – Mother Jones](https://www.motherjones.com/politics/2023/11/supreme-court-code-of-ethics/) | November 13, 2023 |
+| [Clarence Thomas’ 38 Vacations: The Other Billionaires Who Have Treated the Supreme Court Justice to Luxury Travel – Mother Jones](https://www.motherjones.com/politics/2023/08/clarence-thomas-38-vacations-the-other-billionaires-who-have-treated-the-supreme-court-justice-to-luxury-travel/) | August 11, 2023 |
 
 [^31]: *Ralph Hightower* — Like a fox guarding the hen house. 
-
-
 
 ## [Clarence Thomas Is Committing Tax Fraud • MSN](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )
 
