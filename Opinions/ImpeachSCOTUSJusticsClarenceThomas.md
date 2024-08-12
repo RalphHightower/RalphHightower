@@ -34,6 +34,7 @@ For justice to be equitable, justices must be neutral to personal or politics. H
 2. During the investigation of the RV purchase, the senate committee discovered the loan was obtained from Anthony Welters in 1999. The only evidence of that transaction is a 1999 promissory note signed by Justice Thomas.[^21]
 3. Unfortunately, only a single trail of the loan exists in Justice Thomas’s tax returns. He did pay the loan interest, amounting to $20,043.23. However, the judge at no time declared in his records that the loan had been forgiven. The rule is that the IRS must receive the tax on a loan even if someone has forgiven it.[^21]
 4. In April, ProPublica released that Justice Thomas has been enjoying various gifts, with no disclosure, over the years. Some of the gifts came in the form of full-funded trips and vacations. Interestingly, most of the donors involved have GOP affiliations.[^21]
+
 [^21]: [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe • MSN](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ )
 
 California attorney James L. Arrasmith offers his opinion regarding gifts of substantial value and travel of Justice Thomas:
@@ -58,8 +59,6 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 | [The Saga of Clarence Thomas and His Luxury RV Takes a Disturbing Turn / The New Republic](https://newrepublic.com/article/181627/clarence-thomas-rv-loan-democrats-letter) | May 16, 2024 |
 
 [^31]: *Ralph Hightower* — Like a fox guarding the hen house. 
-
-
 
 ## [Clarence Thomas Is Committing Tax Fraud • MSN](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )
 
