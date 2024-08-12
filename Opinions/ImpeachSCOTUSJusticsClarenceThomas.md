@@ -1,6 +1,6 @@
 # Impeach Supreme Court Justice Clarence Thomas
 
-For justice to be equitable, justices must be neutral to personal or politics. However, Justice Thomas has been compromised. 
+For justice to be equitable, justices must be neutral to personal or politics. However, Justice Thomas has been compromised.
 
 ## Financially and *Ethically* Compromised!
 
@@ -24,39 +24,49 @@ For justice to be equitable, justices must be neutral to personal or politics. H
 
 [^11]: This is an excellent summarization of the financial and ethical problems and conflicts of Thomas, plus his wife, Ginny.<br />— *Ralph Hightower*
 
-## [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ar-AA1lcu4e?ocid=emmx-mmx-feeds&PC=EMMX01 )
+## [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe • MSN](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ )
 
 **[The Other Billionaires Who Helped Clarence Thomas Live a Luxe Life — ProPublica](https://www.propublica.org/article/clarence-thomas-other-billionaires-sokol-huizenga-novelly-supreme-court )**. Aug. 10, 2023, 5:45 a.m. EDT.
 
  While some of the hospitality, such as stays in personal homes, may not have required disclosure, Thomas appears to have violated the law by failing to disclose flights, yacht cruises and expensive sports tickets, according to ethics experts. <br />
 
-1. Records show that Justice Thomas bought an expensive RV over 20 years ago. The loan at the time amounted to $267,230. However, Justice Thomas did not settle the loan, as his wealthy friend took care of it. The bone of contention is that the loan does not appear on any of Justice Thomas’s ethics forms.[^11]
-2. During the investigation of the RV purchase, the senate committee discovered the loan was obtained from Anthony Welters in 1999. The only evidence of that transaction is a 1999 promissory note signed by Justice Thomas.[^11]
+1. Records show that Justice Thomas bought an expensive RV over 20 years ago. The loan at the time amounted to $267,230. However, Justice Thomas did not settle the loan, as his wealthy friend took care of it. The bone of contention is that the loan does not appear on any of Justice Thomas’s ethics forms.[^21]
+2. During the investigation of the RV purchase, the senate committee discovered the loan was obtained from Anthony Welters in 1999. The only evidence of that transaction is a 1999 promissory note signed by Justice Thomas.[^21]
+3. Unfortunately, only a single trail of the loan exists in Justice Thomas’s tax returns. He did pay the loan interest, amounting to $20,043.23. However, the judge at no time declared in his records that the loan had been forgiven. The rule is that the IRS must receive the tax on a loan even if someone has forgiven it.[^21]
+4. In April, ProPublica released that Justice Thomas has been enjoying various gifts, with no disclosure, over the years. Some of the gifts came in the form of full-funded trips and vacations. Interestingly, most of the donors involved have GOP affiliations.[^21]
+[^21]: [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe • MSN](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ )
 
-3. Unfortunately, only a single trail of the loan exists in Justice Thomas’s tax returns. He did pay the loan interest, amounting to $20,043.23. However, the judge at no time declared in his records that the loan had been forgiven. The rule is that the IRS must receive the tax on a loan even if someone has forgiven it.[^11]
-4. In April, ProPublica released that Justice Thomas has been enjoying various gifts, with no disclosure, over the years. Some of the gifts came in the form of full-funded trips and vacations. Interestingly, most of the donors involved have GOP affiliations.[^11]
-[^11]: [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ar-AA1lcu4e?ocid=emmx-mmx-feeds&PC=EMMX01 )
+California attorney James L. Arrasmith offers his opinion regarding gifts of substantial value and travel of Justice Thomas:
+[Supreme Court Under Fire: Justice Clarence Thomas](https://www.jlegal.org/blog/supreme-court-under-fire-justice-clarence-thomas-faces-scrutiny-over-4-2-million-in-unreported-gifts/), June 19, 2024
+- The Importance of Transparency and Accountability
+- Potential Conflicts of Interest and Their Consequence
+- Calls for Stricter Disclosure Requirements
+- The Political Dimension
+- Implications for the Supreme Court and the Judicial System
+- Preserving Judicial Integrity and Public Trust
 
-| Compromised United States Supreme Court Justice Clarence Thomas Problems With Ethics |
-|---|
-|[5 U.S. Code § 7353 - Gifts to Federal employees / U.S. Code / US Law / LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text/5/7353 )| 
-|[Clarence Thomas’ Billionaire Benefactor Tied To SCOTUS Bombshell](https://www.levernews.com/clarence-thomas-billionaire-benefactor-is-grateful-for-latest-scotus-bombshell/ )|
-|[Clarence Thomas Gets Extension to File Financial Disclosures](https://www.businessinsider.com/clarence-thomas-extension-financial-disclosures-supreme-court-2023-6 )|
-|[Clarence Thomas Is Committing Tax Fraud](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )|
-|[Clarence Thomas Reversed Position After Gifts And Family Payments](https://www.levernews.com/clarence-thomas-reversed-position-after-gifts-and-family-payments/ )|
-|[Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow )|
-|[Clarence Thomas Vacationed With Billionaire Against Student-Debt Relief: ProPublica](https://www.businessinsider.com/clarence-thomas-vacations-billionaire-sokol-against-student-loan-forgiveness-propublica-2023-8 )|
-|[Thomas: I Was Told I Did Not Have to Report Harlan Crow's Lavish Trips](https://www.businessinsider.com/clarence-thomas-harlan-crow-response-trips-supreme-court-ethics-2023-4 )|
-|[Thomas Pushed To Kill Disclosure Laws While Getting Secret Billionaire Gifts](https://www.levernews.com/thomas-pushed-to-kill-disclosure-laws-while-getting-secret-billionaire-gifts/ )|
-|[What We Know About the Obscure Judges Investigating Clarence Thomas](https://www.businessinsider.com/judges-investigating-clarence-thomas-committee-financial-disclosure-2023-5 )|
-|[What We Know About the Obscure Judges Investigating Clarence Thomas](https://www.businessinsider.com/judges-investigating-clarence-thomas-committee-financial-disclosure-2023-5 )|
+| Compromised United States Supreme Court Justice Clarence Thomas Problems With Ethics | Date |
+|---|---|
+|[5 U.S. Code § 7353 - Gifts to Federal employees / U.S. Code / US Law / LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text/5/7353 )|
+| [Clarence Thomas Vacationed With Billionaire Against Student-Debt Relief: ProPublica - Business Insider](https://www.businessinsider.com/clarence-thomas-vacations-billionaire-sokol-against-student-loan-forgiveness-propublica-2023-8) | Aug 10, 2023, 12:15 PM EDT |
+| [Thomas: I Was Told I Did Not Have to Report Harlan Crow's Lavish Trips - Business Insider](https://www.businessinsider.com/clarence-thomas-harlan-crow-response-trips-supreme-court-ethics-2023-4) | Apr 7, 2023, 12:02 PM EDT |
+| [What We Know About the Obscure Judges Investigating Clarence Thomas - Business Insider](https://www.businessinsider.com/judges-investigating-clarence-thomas-committee-financial-disclosure-2023-5) | May 12, 2023, 2:34 PM EDT |
+| [Clarence Thomas’ Billionaire Benefactor Tied To SCOTUS Bombshell • Lever News](https://www.levernews.com/clarence-thomas-billionaire-benefactor-is-grateful-for-latest-scotus-bombshell/) | Jun 6, 2023 |
+| [Clarence Thomas Reversed Position After Gifts And Family Payments • LeverNews](https://www.levernews.com/clarence-thomas-reversed-position-after-gifts-and-family-payments/) | May 9, 2023 |
+| [Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) | April 6, 2023, 5 a.m. EDT |
+| [Thomas Pushed To Kill Disclosure Laws While Getting Secret Billionaire Gifts • Lever News](https://www.levernews.com/thomas-pushed-to-kill-disclosure-laws-while-getting-secret-billionaire-gifts/)[^31] | Apr 12, 2023 |
+| [The Saga of Clarence Thomas and His Luxury RV Takes a Disturbing Turn / The New Republic](https://newrepublic.com/article/181627/clarence-thomas-rv-loan-democrats-letter) | May 16, 2024 |
 
-## [Clarence Thomas Is Committing Tax Fraud](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )
+[^31]: *Ralph Hightower* — Like a fox guarding the hen house. 
+
+
+
+## [Clarence Thomas Is Committing Tax Fraud • MSN](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )
 
 This article is a particularly damning article. Clarence Thomas has accepted private jet flights to lavish resorts by billionaire individuals whose corporate affiliations could be influenced in a United States of America Supreme Court ruling.
 
-[Clarence Thomas' former clerks have brought him a taxidermy lobster and batteries for his RV to express their loyalty over the years, report says](https://www.businessinsider.com/clarence-thomas-clerks-brought-lobsters-rv-batteries-loyalties-nyt-scotus-2023-12 )
-[Clarence Thomas Purchased His RV With the Help of a Wealthy Friend](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8 )
+- [Clarence Thomas' former clerks have brought him a taxidermy lobster and batteries for his RV to express their loyalty over the years, report says • Business Insider](https://www.businessinsider.com/clarence-thomas-clerks-brought-lobsters-rv-batteries-loyalties-nyt-scotus-2023-12 ). Dec 25, 2023, 5:45 PM EST
+- [Clarence Thomas Purchased His RV With the Help of a Wealthy Friend • Business Insider](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8 )[^41]. Aug 5, 2023, 1:08 PM EDT
+- [AOC, House Democrats Ask AG Merrick Garland to Investigate Clarence Thomas • Business Insider](https://www.businessinsider.com/aoc-house-democrats-ask-merrick-garland-to-investigate-clarence-thomas-2023-8 ). Aug 11, 2023, 9:05 PM EDT
 
-[AOC, House Democrats Ask AG Merrick Garland to Investigate Clarence Thomas](https://www.businessinsider.com/aoc-house-democrats-ask-merrick-garland-to-investigate-clarence-thomas-2023-8 )
-
+[^41]: Those Prevost Marathon RV normally retail new in the multi million dollar range. Buying a used version for $267,000 is probably below market value for used. — *Ralph Hightower*
