@@ -39,6 +39,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [The Far Side Featured By Far the Goofiest Version of This Iconic Pop Culture Character](https://screenrant.com/far-side-goofy-tarzan-comics-gary-larson/) | August 12, 2024 |
+| [This Dark Recurring Far Side Joke Charts How Gary Larson's Humor Evolved Over Time](https://screenrant.com/far-side-kill-markings-joke-gary-larson-humor/) | August 11, 2024 |
 | [10 Hilarious Far Side Comics Set In Movie Theaters](https://screenrant.com/10-hilarious-far-side-comics-movie-theaters/) | August 10, 2024 |
 | [10 Hilarious Far Side Comics Featuring Absurd Vacation Photos](https://screenrant.com/10-hilarious-far-side-comics-absurd-vacation-photos/) | August 7, 2024 |
 | [Gary Larson\"s Final Words On His Career Are Bizarre, Touching, & Perfect For The Far Side](https://screenrant.com/gary-larson-career-far-side-comics-spider-analogy/) |August 7, 2024|
