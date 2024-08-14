@@ -176,8 +176,9 @@
 | [Radxa Penta SATA HAT — A Complete NAS Solution](http://www.radxa.com/products/accessories/penta-sata-hat ) | [\$N/A — Amazon](https://a.co/d/hbDui4U)<br />[ARace (HK) \$44.99](https://arace.tech/products/radxa-penta-sata-hat-up-to-5x-sata-disks-hat-for-raspberry-pi-5 )<br />[All Net China \$49](https://shop.allnetchina.cn/products/penta-sata-hat-for-rock-pi-4 ) |
 | **[Seeed Studio Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
-
 | **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
+
+| UPS |
 |---|
 | [Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html) |
 | [Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html) |
@@ -189,6 +190,7 @@
 | [Pironman 5 is a fancy tower PC case for the Raspberry Pi 5 with NVMe M.2 SSD, oversized fans, RGB LEDs - CNX Software](https://www.cnx-software.com/2024/05/25/pironman-5-tower-pc-case-raspberry-pi-5-nvme-m-2-ssd-oversized-fans-rgb-leds/) | MAY 25, 2024 |
 | **[SupTronics Raspberry Pi 5 UPS HAT X1202 V1.1 takes four 18650 batteries delivering up to 25W - CNX Software](https://www.cnx-software.com/2024/05/24/suptronics-x1202-raspberry-pi-5-ups-hat-four-18650-batteries-25w/)** | MAY 24, 2024 |
 | [How to add fast M.2 accessories to your Raspberry Pi 5 / ZDNET](https://www.zdnet.com/home-and-office/how-to-add-fast-m-2-accessories-to-your-raspberry-pi-5/) | May 21, 2024 at 3:01 a.m. PT |
+| [Radxa Launches the ROCK 5C, 5C Lite Single-Board Computers — And Adopts Raspberry Pi's PCIe Pinout - Hackster.io](https://www.hackster.io/news/radxa-launches-the-rock-5c-5c-lite-single-board-computers-and-adopts-raspberry-pi-s-pcie-pinout-d327c57ed04c) | May 20, 2024 |
 | [52Pi W01 U2500 HAT adds 2.5GbE and NVMe SSD support to Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2024/05/16/52pi-w01-u2500-hat-2-5gbe-nvme-ssd-raspberry-pi-5/) | MAY 16, 2024 |
 | [Raspberry Pi Launches the M.2 HAT+, Improves NVMe Boot Support in the Raspberry Pi 5 Firmware](https://www.hackster.io/news/raspberry-pi-launches-the-m-2-hat-improves-nvme-boot-support-in-the-raspberry-pi-5-firmware-888830195239 ) | May 14, 2024 |
 | [Can Raspberry Pi 5 Run Ubuntu?](https://www.slashgear.com/1576499/raspberry-pi-5-run-ubuntu-what-know/) | MAY 11, 2024 8:45 AM EST |
@@ -203,6 +205,7 @@
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 1:07 pm March 3, 2024 |
 | [52Pi P02 PCIe expansion board for Raspberry Pi 5 features a PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/23/52pi-p02-pcie-expansion-board-raspberry-pi-5-pcie-x1-slot/) | FEBRUARY 23, 2024 |
 | [52Pi NVdigi Expansion Board for Raspberry Pi 5 combines HiFiBerry Digi+ audio output with M.2 PCIe x1 slot - CNX Software](https://www.cnx-software.com/2024/02/21/52pi-nvdigi-expansion-board-raspberry-pi-5-hifiberry-digi-audio-m2-pcie-slot/) | FEBRUARY 21, 2024 |
+| [Raspberry Pi 5 review: A huge upgrade for the single-board computer / PCWorld](https://www.pcworld.com/article/2219346/raspberry-pi-5-review.html) | FEB 7, 2024 3:30 AM PST |
 | [Geekworm X1003 PCIe to NVMe SSD adapter for Raspberry Pi 5 works with the active cooler or official case - CNX Software](https://www.cnx-software.com/2024/01/24/geekworm-x1003-pcie-to-nvme-ssd-raspberry-pi-5-active-cooler/ ) | JANUARY 24, 2024 |
 | [$14 Pimoroni NVMe Base adds an M.2 PCIe socket underneath the Raspberry Pi 5 SBC - CNX Software](https://www.cnx-software.com/2023/12/13/pimoroni-nvme-base-m-2-ssd-ai-accelerator-raspberry-pi-5/ ) | DECEMBER 13, 2023 |
 | **[Raspberry Pi 5 gets 5G Modem HAT based on Quectel RM502Q-AE M.2 module - CNX Software](https://www.cnx-software.com/2023/11/29/raspberry-pi-5-5g-modem-hat-quectel-rm502q-ae/ )** | NOVEMBER 29, 2023 | 
@@ -244,6 +247,7 @@
 | Add-ons | Price |
 |---|---|
 | [RAKWireless BG95-M3 Pi Hat / Raspberry Pi Cellular Hat / GPS and GSM Module for Raspberry Pi](https://store.rakwireless.com/products/rak2013-cellular-pi-hat-bg96-bg95-m3 ) | $99.00 |
+| [Raspberry Pi Gateway, Edge IoT Controller, reComputer R1000](https://www.seeedstudio.com/reComputer-R1025-10-p-5895.html) | $209.00 |
 
 ##### Raspberry Pi 4 Articles 
 
@@ -251,6 +255,7 @@
 |---|---|
 | [The Ultimate Raspberry Pi Commands Cheat Sheet - The Tech Edvocate](https://www.thetechedvocate.org/the-ultimate-raspberry-pi-commands-cheat-sheet/#google_vignette ) | JUNE 14, 2023
 | [How to set up your first Raspberry Pi / ZDNET](https://www.zdnet.com/article/how-to-set-up-your-first-raspberry-pi/ ) | Feb. 8, 2023 at 7:20 a.m. PT |
+| [Seeed's Latest reComputer, the R1000, Turns a Raspberry Pi CM4 Into an Industrial IoT Edge Box - Hackster.io](https://www.hackster.io/news/seeed-s-latest-recomputer-the-r1000-turns-a-raspberry-pi-cm4-into-an-industrial-iot-edge-box-bb75b07a0eb7) | lMay 18, 2024 |
 
 </details>
 
