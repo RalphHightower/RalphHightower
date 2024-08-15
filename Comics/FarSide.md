@@ -18,6 +18,8 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Weirdest The Far Side Comics, Ranked](https://www.cbr.com/the-far-side-weirdest-comics/) | August 14. 2024 |
+| [The History of The Far Side, Explained](https://www.cbr.com/the-far-side-history-explained/) | August 13, 2024 |
 | [10 Funniest The Far Side Comics About Sports](https://www.cbr.com/hilarious-far-side-sports-comics/) | August 8, 2024 |
 | [Who is Gary Larson, The Far Side Creator?](https://www.cbr.com/gary-larson-the-far-side-creator/) | August 4, 2024 |
 | [The Best Historical The Far Side Comics, Ranked](https://www.cbr.com/video/the-far-side-best-historical-comics-ranked/) | July 25, 2024 |
@@ -39,6 +41,8 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [Far Side's Funniest Sports Comic Is One Gary Larson Drew When He Was Just 7 Years Old (As Voted By YOU)](https://screenrant.com/funniest-far-side-comics-sports-gary-larson-first/) | August 15, 2024 |
+| [10 Hilarious Far Side Comics Starring Ants (That Readers Shouldn’t Overlook)](https://screenrant.com/10-hilarious-far-side-comics-ants-gary-larson/) | August 14, 2024 |
 | [The Far Side Featured By Far the Goofiest Version of This Iconic Pop Culture Character](https://screenrant.com/far-side-goofy-tarzan-comics-gary-larson/) | August 12, 2024 |
 | [This Dark Recurring Far Side Joke Charts How Gary Larson's Humor Evolved Over Time](https://screenrant.com/far-side-kill-markings-joke-gary-larson-humor/) | August 11, 2024 |
 | [10 Hilarious Far Side Comics Set In Movie Theaters](https://screenrant.com/10-hilarious-far-side-comics-movie-theaters/) | August 10, 2024 |
