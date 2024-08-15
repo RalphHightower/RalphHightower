@@ -128,6 +128,7 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Funniest Calvin and Hobbes Comics Starring Calvin's Imaginary Inventions](https://screenrant.com/funniest-calvin-and-hobbes-comics-starring-imaginary-inventions/) | August 13, 2024 |
 | [15 Best Calvin and Hobbes Strips About School (and Homework)](https://screenrant.com/best-calvin-and-hobbes-comics-about-school-homework/) | August 10, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Watterson's Most Creative of All Time)](https://screenrant.com/funniest-calvin-and-hobbes-comics-july-1994/) | August 5, 2024 |
 | [1 Calvin and Hobbes Comic Proves Hobbes Is Real After All](https://screenrant.com/calvin-and-hobbes-comic-proves-hobbes-is-real/) | July 21, 2024 |
