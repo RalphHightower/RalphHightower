@@ -52,16 +52,17 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 | Compromised United States Supreme Court Justice Clarence Thomas Problems With Ethics | Date |
 |---|---|
 |[5 U.S. Code § 7353 - Gifts to Federal employees / U.S. Code / US Law / LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text/5/7353 )|
-| [Clarence Thomas Vacationed With Billionaire Against Student-Debt Relief: ProPublica - Business Insider](https://www.businessinsider.com/clarence-thomas-vacations-billionaire-sokol-against-student-loan-forgiveness-propublica-2023-8) | Aug 10, 2023, 12:15 PM EDT |
-| [Thomas: I Was Told I Did Not Have to Report Harlan Crow's Lavish Trips - Business Insider](https://www.businessinsider.com/clarence-thomas-harlan-crow-response-trips-supreme-court-ethics-2023-4) | Apr 7, 2023, 12:02 PM EDT |
-| [What We Know About the Obscure Judges Investigating Clarence Thomas - Business Insider](https://www.businessinsider.com/judges-investigating-clarence-thomas-committee-financial-disclosure-2023-5) | May 12, 2023, 2:34 PM EDT |
-| [Clarence Thomas’ Billionaire Benefactor Tied To SCOTUS Bombshell • Lever News](https://www.levernews.com/clarence-thomas-billionaire-benefactor-is-grateful-for-latest-scotus-bombshell/) | Jun 6, 2023 |
-| [Clarence Thomas Reversed Position After Gifts And Family Payments • LeverNews](https://www.levernews.com/clarence-thomas-reversed-position-after-gifts-and-family-payments/) | May 9, 2023 |
-| [Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) | April 6, 2023, 5 a.m. EDT |
-| [Thomas Pushed To Kill Disclosure Laws While Getting Secret Billionaire Gifts • Lever News](https://www.levernews.com/thomas-pushed-to-kill-disclosure-laws-while-getting-secret-billionaire-gifts/)[^31] | Apr 12, 2023 |
 | [The Saga of Clarence Thomas and His Luxury RV Takes a Disturbing Turn / The New Republic](https://newrepublic.com/article/181627/clarence-thomas-rv-loan-democrats-letter) | May 16, 2024 |
 | [Supreme Court Finally Adopts a Code of Ethics. But It Has No Teeth. – Mother Jones](https://www.motherjones.com/politics/2023/11/supreme-court-code-of-ethics/) | November 13, 2023 |
 | [Clarence Thomas’ 38 Vacations: The Other Billionaires Who Have Treated the Supreme Court Justice to Luxury Travel – Mother Jones](https://www.motherjones.com/politics/2023/08/clarence-thomas-38-vacations-the-other-billionaires-who-have-treated-the-supreme-court-justice-to-luxury-travel/) | August 11, 2023 |
+| [Clarence Thomas Vacationed With Billionaire Against Student-Debt Relief: ProPublica - Business Insider](https://www.businessinsider.com/clarence-thomas-vacations-billionaire-sokol-against-student-loan-forgiveness-propublica-2023-8) | Aug 10, 2023, 12:15 PM EDT |
+| [Clarence Thomas’ Billionaire Benefactor Tied To SCOTUS Bombshell • Lever News](https://www.levernews.com/clarence-thomas-billionaire-benefactor-is-grateful-for-latest-scotus-bombshell/) | Jun 6, 2023 |
+| [What We Know About the Obscure Judges Investigating Clarence Thomas - Business Insider](https://www.businessinsider.com/judges-investigating-clarence-thomas-committee-financial-disclosure-2023-5) | May 12, 2023, 2:34 PM EDT |
+| [Clarence Thomas Reversed Position After Gifts And Family Payments • LeverNews](https://www.levernews.com/clarence-thomas-reversed-position-after-gifts-and-family-payments/) | May 9, 2023 |
+| [More Questionable Financial Revelations for Justice Clarence Thomas – Mother Jones](https://www.motherjones.com/politics/2023/04/more-questionable-financial-revelations-for-justice-clarence-thomas/) | April 16, 2023 |
+| [Thomas Pushed To Kill Disclosure Laws While Getting Secret Billionaire Gifts • Lever News](https://www.levernews.com/thomas-pushed-to-kill-disclosure-laws-while-getting-secret-billionaire-gifts/)[^31] | Apr 12, 2023 |
+| [Thomas: I Was Told I Did Not Have to Report Harlan Crow's Lavish Trips - Business Insider](https://www.businessinsider.com/clarence-thomas-harlan-crow-response-trips-supreme-court-ethics-2023-4) | Apr 7, 2023, 12:02 PM EDT |
+| [Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor — ProPublica](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) | April 6, 2023, 5 a.m. EDT |
 
 [^31]: *Ralph Hightower* — Like a fox guarding the hen house. 
 
@@ -70,7 +71,7 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 This article is a particularly damning article. Clarence Thomas has accepted private jet flights to lavish resorts by billionaire individuals whose corporate affiliations could be influenced in a United States of America Supreme Court ruling.
 
 - [Clarence Thomas' former clerks have brought him a taxidermy lobster and batteries for his RV to express their loyalty over the years, report says • Business Insider](https://www.businessinsider.com/clarence-thomas-clerks-brought-lobsters-rv-batteries-loyalties-nyt-scotus-2023-12 ). Dec 25, 2023, 5:45 PM EST
-- [Clarence Thomas Purchased His RV With the Help of a Wealthy Friend • Business Insider](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8 )[^41]. Aug 5, 2023, 1:08 PM EDT
 - [AOC, House Democrats Ask AG Merrick Garland to Investigate Clarence Thomas • Business Insider](https://www.businessinsider.com/aoc-house-democrats-ask-merrick-garland-to-investigate-clarence-thomas-2023-8 ). Aug 11, 2023, 9:05 PM EDT
+- [Clarence Thomas Purchased His RV With the Help of a Wealthy Friend • Business Insider](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8 )[^41]. Aug 5, 2023, 1:08 PM EDT
 
 [^41]: Those Prevost Marathon RV normally retail new in the multi million dollar range. Buying a used version for $267,000 is probably below market value for used. — *Ralph Hightower*
