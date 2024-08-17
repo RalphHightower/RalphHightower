@@ -30,8 +30,10 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [A New ‘Guest Star’ Will Appear in the Sky Soon. Here's How Novas Work and Where to Look.](https://singularityhub.com/2024/08/13/a-new-guest-star-will-appear-in-the-sky-soon-heres-how-novas-work-and-where-to-look/) | August 13, 2024 |
+| [How To See The T Coronae Borealis Nova Explosion In The Sky](https://www.inverse.com/science/how-to-see-t-coronae-borealis-nova) | Aug. 9, 2024 |
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • The Conversation](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | August 1, 2024 8:37am EDT |
-| [A new 'guest star' will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • Phys](https://phys.org/news/2024-08-guest-star-sky-space-scientist.html) | AUGUST 1, 2024 
+| [A new 'guest star' will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • Phys](https://phys.org/news/2024-08-guest-star-sky-space-scientist.html) | AUGUST 1, 2024
 | [Ever see a star explode? You're about to get a chance very soon • Phys](https://phys.org/news/2024-07-star-youre-chance.html) | July 29, 2024 |
 | [You Can Watch a Once-in-a-Lifetime Cosmic Explosion From Your Own Backyard - CNET](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/) | July 22, 2024 4:14 p.m. PT |
 | [Witness the Blaze Star: A Rare Nova Explosion Visible from Earth • Geek Side](https://geeksided.com/posts/witness-the-blaze-star-a-rare-nova-explosion-visible-from-earth-01j381v75m9p) | Jul 20, 2024 |
@@ -55,18 +57,18 @@
 | [Cosmic Fireworks, Close Encounters Among Spectacular Shortlist For Astronomy Photographer Of The Year / IFLScience](https://www.iflscience.com/cosmic-fireworks-close-encounters-among-spectacular-shortlist-for-astronomy-photographer-of-the-year-74904) | July 2, 2024 |
 | [TCrB Charts and Photometry Tables / aavso](https://www.aavso.org/tcrb-charts-photometry-tables) | Tuesday, July 2, 2024 - 21:41 |
 | [T Coronae Borealis nova to be visible in 2024 after eight decades • Interesting Engineering](https://interestingengineering.com/space/t-coronae-borealis-nova-visible-80-years) | Jul 01, 2024 10:45 AM EST |
-| [A stellar explosion may create a temporary ‘new star’ this summer • Science News](https://www.sciencenews.org/article/stellar-explosion-nova-new-star-summer) | JULY 1, 20 X24 AT 11:30 AM |
-| [How to win the fight against light pollution • Astronomy](https://www.astronomy.com/science/how-to-win-fight-against-light-pollution/) | Published: July 1, 2024<br />Last updated on July 2, 2024 |
+| [A stellar explosion may create a temporary ‘new star’ this summer • Science News](https://www.sciencenews.org/article/stellar-explosion-nova-new-star-summer) | July 1, 2024 11:30 am |
+| [How to win the fight against light pollution • Astronomy](https://www.astronomy.com/science/how-to-win-fight-against-light-pollution/) | Last updated on July 2, 2024<br />Published: July 1, 2024 |
 | [Starwatch: A 2,600-year wait to see T Coronae Borealis explosion / Science / The Guardian](https://www.theguardian.com/science/article/2024/jul/01/starwatch-a-2600-year-wait-to-see-t-coronae-borealis-explosion) | Mon 1 Jul 2024 01.00 EDT |
 | [July's night sky notes: A hero, a crown, and possibly a nova • Phys](https://phys.org/news/2024-07-july-night-sky-hero-crown.html) | JULY 1, 2024 |
 | [Starwatch: a 2,600-year wait to see T Coronae Borealis explosion / Science / The Guardian](https://www.theguardian.com/science/article/2024/jul/01/starwatch-a-2600-year-wait-to-see-t-coronae-borealis-explosion) | Mon 1 Jul 2024 01.00 EDT |
 | [Once-in-a-lifetime star explosion, visible from Earth, could happen any day now / Space](https://www.space.com/the-universe/stars/once-in-a-lifetime-star-explosion-visible-from-earth-could-happen-any-day-now) | July 1, 2024 |
 | [This Week's Sky at a Glance, June 28 – July 7 - Sky & Telescope - Sky & Telescope](https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-june-28-july-7/) | JUNE 28, 2024 |
+| [How to See 'Once-in-a-Lifetime' Nova Explosion over US Skies - Newsweek](https://www.newsweek.com/new-star-night-sky-nova-corona-borealis-how-watch-1916449) | Updated Jun 27, 2024 at 5:33 AM EDT<br /ìPublished Jun 24, 2024 at 8:59 AM EDT |
 | [Is the "Blaze Star" About to Blow? You May Be the First to Know - Sky & Telescope](https://skyandtelescope.org/astronomy-news/is-the-blaze-star-about-to-blow-you-may-be-the-first-to-know/) | JUNE 26, 2024 |
 | [Inside the life and death of stars : Short Wave : NPR (14 minute listen\) • NPR](https://www.npr.org/2024/06/24/1250455734/stars-nasa-life-death-nova) | JUNE 25, 2024 3:00 AM ET |
 | [T Coronae Borealis and asteroid (2\) Pallas conjunction: image of the event and time-lapse - 24 June 2024. - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/25/t-coronae-borealis-and-asteroid-2-pallas-conjunction-image-of-the-event-and-time-lapse-24-june-2024/) | 06/25/2024 |
 | [Once-in-a-lifetime nova will appear in Earth's sky. Here's how to spot it. • Yahoo](https://www.yahoo.com/news/once-in-a-lifetime-nova-will-appear-in-earths-sky-heres-how-to-spot-it-130449291.html) | Tue, June 25, 2024 at 9:04 AM EDT |
-| [How to See 'Once-in-a-Lifetime' Nova Explosion over US Skies - Newsweek](https://www.newsweek.com/new-star-night-sky-nova-corona-borealis-how-watch-1916449) | Published Jun 24, 2024 at 8:59 AM EDT<br />Updated Jun 27, 2024 at 5:33 AM EDT |
 | [Once-in-a-Lifetime Astronomy Event To Happen in Summer 2024 • My Modern Met](https://mymodernmet.com/t-corona-borealis-nova-2024/) | June 24, 2024 |
 | [When will ‘new’ star, T Coronae Borealis appear? (Star Diary, 24 to 30 June 2024\) • Sky at Night Magazine](https://www.skyatnightmagazine.com/podcasts/star-diary-24-jun-2024) | June 23, 2024 at 3:00 am |
 | [T Coronae Borealis and asteroid (2\) Pallas conjunction: an image - 22 June 2024. - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/23/t-coronae-borealis-and-asteroid-2-pallas-conjunction-an-image-22-june-2024/) | 06/23/2024 |
@@ -81,7 +83,7 @@
 | [Waiting for T Coronae Borealis (T CrB\) to erupt: what could we see? - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/18/waiting-for-t-coronae-borealis-to-erupt-what-could-we-see/) | 06/18/2024 |
 | [Rare Nova Event Will Be Visible To Naked Eye From 3,000 Light-Years Away; Here's Where To Look - Science • Mashable](https://in.mashable.com/science/77299/rare-nova-event-will-be-visible-to-naked-eye-from-3000-light-years-away-heres-where-to-look) | June 18, 2024 |
 | [Nova explosion of nearby star will soon light up Earth's skies - Earth.com](https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/) | 06-15-2024 |
-| [Spaceweather.com Time Machine](https://spaceweather.com/archive.php?view=1&day=27&month=06&year=2024) –  TCrB | June 15, 2024 |
+| [Spaceweather.com Time Machine](https://spaceweather.com/archive.php?view=1&day=27&month=06&year=2024) – TCrB | June 15, 2024 |
 | [Light Eruption From a Dead Star Dubbed Nova Event, Potentially Observable This Summer / Tech Times](https://www.techtimes.com/articles/305685/20240614/light-eruption-dead-star-dubbed-nova-event-potentially-observable-summer.htm) | Jun 14, 2024 12:29AM EDT |
 | [A Star That Exploded 40 Years Ago Is Breaking The Rules, Scientists Call It A Treasure - Science • Mashable](https://in.mashable.com/science/77101/a-star-that-exploded-40-years-ago-is-breaking-the-rules-scientists-call-it-a-treasure) | June 13, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation' • Astronomy](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/) | June 12, 2024 |
@@ -128,7 +130,7 @@
 | [Astrophysicist explains science behind once-in-a-lifetime nova outburst that will light up the sky this year • Phys](https://phys.org/news/2024-03-astrophysicist-science-lifetime-nova-outburst.html) | MARCH 19, 2024 |
 | [Bright new ‘North star’ will soon burst into view – here’s how to see it • New Atlas](https://newatlas.com/space/bright-new-star-2024-nova/) | March 19, 2024 |
 | [A new star in the sky might be the 'brightest nova of the generation' • Astronomy](https://www.astronomy.com/observing/how-to-see-t-coronae-borealis-the-brightest-nova-of-the-generation/)[^21] | March 18, 2024 |
-| [When will T Coronae Borealis ignite in 2024? Expect a nova outburst soon – NBC4 Washington](https://www.nbcwashington.com/news/national-international/nova-explosion-2024-new-star/3566378/) | Published March 13, 2024 <br /> Updated on March 13, 2024 at 2:51 pm |
+| [When will T Coronae Borealis ignite in 2024? Expect a nova outburst soon – NBC4 Washington](https://www.nbcwashington.com/news/national-international/nova-explosion-2024-new-star/3566378/)  Updated on March 13, 2024 at 2:51 pm<br />Published March 13, 2024 |
 | [This Year Could Be A Once In A Lifetime Opportunity To See A Nova / IFLScience](https://www.iflscience.com/this-year-could-be-a-once-in-a-lifetime-opporthttps://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746unity-to-see-a-nova-73379) | March 13, 2024 |
 | [A rare nova ignites a 'new star' in the sky this year. Here's how to see it / Space](https://www.space.com/new-star-night-sky-nova-explosion-rare) | March 12, 2024 |
 | [A Nova in the Night Sky Will Make ‘a New Star’: How to See it. - The New York Times](https://www.nytimes.com/article/nova-new-star-t-coronae-borealis.html) | March 8, 2024 |
