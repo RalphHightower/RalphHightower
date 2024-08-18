@@ -49,9 +49,13 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 - Implications for the Supreme Court and the Judicial System
 - Preserving Judicial Integrity and Public Trust
 
+### [5 U.S. Code § 7353 - Gifts to Federal employees / U.S. Code / US Law / LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text/5/7353 )
+
 | Compromised United States Supreme Court Justice Clarence Thomas Problems With Ethics | Date |
 |---|---|
-|[5 U.S. Code § 7353 - Gifts to Federal employees / U.S. Code / US Law / LII / Legal Information Institute](https://www.law.cornell.edu/uscode/text/5/7353 )|
+| [Clarence Thomas Wrote Note 'Obviously Intended' for Aileen Cannon: Attorney](https://www.newsweek.com/clarence-thomas-wrote-note-intended-aileen-cannon-glenn-kirschner-1927980) | July 20, 2024 |
+| ['This Man Is a Shame': Unfazed Clarence Thomas Under Fire After Reports Reveal More Undisclosed Trips Aboard GOP Billionaire's Private Jet and Nearly $4.2 Million In Gifts • Atlanta Black Star.](https://atlantablackstar.com/2024/06/17/clarence-thomas-faces-more-scrutiny-after-reports-reveal-undisclosed-trips/) | June 17, 2024 |
+| [Justice Thomas took more trips paid for by GOP donor, panel reveals / AP News](https://apnews.com/article/clarence-thomas-supreme-court-senate-harlan-crow-f538d244f148065de8c52fb13e2f9853) | Updated 5:55 PM EDT, June 13, 2024 |
 | [The Saga of Clarence Thomas and His Luxury RV Takes a Disturbing Turn / The New Republic](https://newrepublic.com/article/181627/clarence-thomas-rv-loan-democrats-letter) | May 16, 2024 |
 | [Supreme Court Finally Adopts a Code of Ethics. But It Has No Teeth. – Mother Jones](https://www.motherjones.com/politics/2023/11/supreme-court-code-of-ethics/) | November 13, 2023 |
 | [Clarence Thomas’ 38 Vacations: The Other Billionaires Who Have Treated the Supreme Court Justice to Luxury Travel – Mother Jones](https://www.motherjones.com/politics/2023/08/clarence-thomas-38-vacations-the-other-billionaires-who-have-treated-the-supreme-court-justice-to-luxury-travel/) | August 11, 2023 |
