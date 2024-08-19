@@ -229,7 +229,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [NASA spots 16 'Death Star' black holes blasting powerful beams at multiple targets / Live Science](https://www.space.com/black-hole-jet-chandra-death-star) | May 25, 2024 |
 | [NASA’s Hi-C Rocket Experiment Captures Never-Before-Seen View of Solar Flares • SciTechDaily](https://scitechdaily.com/nasas-hi-c-rocket-experiment-captures-never-before-seen-view-of-solar-flares/) | MAY 25, 2024 |
 | [Space Weather Can Impact the Power Grid / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-can-impact-power-grid)<br />Did you know that space weather can actually cause power outages? How is this possible? Find out more about space weather impacts at [swpc.noaa.gov/impacts/electric-power-transmission.](http:s//swpc.noaa.gov/impacts/electric-power-transmission). | Friday, May 24, 2024 18:35 UTC |
-| [Historical Comparison of May 2024 Solar Storms / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/historical-comparison-may-2024-solar-storms)<br />Are you curious about how the recent G5 geomagnetic storm compared to other historical events? ![May 2024, October 2003, March 1989, May 1921, and September 1859 (the Carrington Event)](https://www.swpc.noaa.gov/sites/default/files/styles/pad_sides_large/public/top_news/New%2016x10%20Generic%20SWPC%20Template.pptx_.png?itok=oX3KaZtV) | Friday, May 24, 2024 18:32 UTC |
+| [Historical Comparison of May 2024 Solar Storms / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/historical-comparison-may-2024-solar-storms)<br />Are you curious about how the recent G5 geomagnetic storm compared to other historical events?[^241] | Friday, May 24, 2024 18:32 UTC |
 | [Why Are We Seeing These Crazy Northern Lights? / WIRED](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/) | MAY 24, 2024 11:20 AM |
 | [NASA Supercomputer Solves 400-Year-Old Solar Magnetic Puzzle • SciTechDaily](https://scitechdaily.com/nasa-supercomputer-solves-400-year-old-solar-magnetic-puzzle/) | MAY 24, 2024 |
 | [Far Side CME Observed on 20 May / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/far-side-cme-observed-20-may)<br />A far side halo coronal mass ejection (CME) was observed in NASA/SOHO coronagraph imagery early on 20 May, 2024. The CME was determined to be from the opposite side of the Sun and is not Earth-directed. However, old Region 3664 is back there right now and is a likely source. Will old Region 3664 survive it's solar rotation journey? If so, the former region is anticipated to return on 26 May. Keep informed with our latest forecasts and information. | Thursday, May 23, 2024 19:50 UTC |
@@ -242,7 +242,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | **[Region 3664 Remains Relentless / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/region-3664-remains-relentless)** <br />Region 3664, now over the southwest limb, produced another X-class flare at 0837 UTC. Significant magnetic looping remains visible above the region, suggesting additional strong flares are possible despite its far-side location. | **Thursday, May 16, 2024 14:09 UTC** |
 | **[Strongest Geomagnetic Storm in Over 20 Years Unleashes Stunning Aurora • SciTechDaily](https://scitechdaily.com/strongest-geomagnetic-storm-in-over-20-years-unleashes-stunning-aurora/)** | **MAY 21, 2024** |
 | **[Solar storm frenzy of May 2024 was strong enough to affect the deep sea / Space](https://www.space.com/solar-storm-effects-reach-deep-sea)** | **May 20, 2024** |
-| **[How Solar Storms Can Shut Down The Internet, Power Grids, And Even Tractors • Inverse](https://www.inverse.com/science/solar-storm-knocks-out-farmers-high-tech-tractors-power-grid-the-internet)[^21]** | **MAY 20, 2024** |
+| **[How Solar Storms Can Shut Down The Internet, Power Grids, And Even Tractors • Inverse](https://www.inverse.com/science/solar-storm-knocks-out-farmers-high-tech-tractors-power-grid-the-internet)[^242]** | **MAY 20, 2024** |
 | [Something strange is happening with Earth's magnetic field tail / Space](https://www.space.com/mms-magnetic-substorms) | May 20, 2024 |
 | **[We may have just witnessed some of the strongest auroras in 500 years /  Space](https://www.space.com/solar-storms-may-2024-strongest-auroras-500-years)** | **May 20, 2024** |
 | [What danger are the auroras hiding? • Universe Magazine](https://universemagazine.com/en/what-danger-lies-behind-the-auroras/) | May 20, 2024 |
@@ -464,7 +464,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Solar maximum is coming, but we won't know it happened until 7 months after it's over / Space](https://www.space.com/solar-maximum-in-sight-but-scientists-will-have-to-wait-seven-months-after-it-occurs-to-officially-declare-it) | February 5, 2024 |
 | [Ghostly plasma loops linger on the sun after massive solar explosion (photos) / Space](https://www.livescience.com/space/the-sun/photos-ghostly-plasma-loops-linger-on-the-sun-after-massive-solar-explosion) | February 3, 2024 |
 | [Sun activity archive for February 2024 • EarthSky](https://earthsky.org/sun/sun-activity-archive-for-february-2024/) | February 1, 2024 |
-| [S2 (Moderate) Solar Radiation Storm Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s2-moderate-solar-radiation-storm-observed)<br />An S2 (Moderate) solar radiation storm was observed from Region 3559.<br />![](https://www.swpc.noaa.gov/sites/default/files/styles/pad_sides_large/public/top_news/NEW%20S2%20Alert%20Template.jpg?itok=kzIWcMCc) | Tuesday, January 30, 2024 19:24 UTC |
+| [S2 (Moderate) Solar Radiation Storm Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/s2-moderate-solar-radiation-storm-observed)<br />An S2 (Moderate) solar radiation storm was observed from Region 3559.[^243] | Tuesday, January 30, 2024 19:24 UTC |
 | [R2 (Moderate) Radio Blackout Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r2-moderate-radio-blackout-observed-2)<br />An R2 (Moderate) radio blackout was observed at 29/04:38 UTC (28/23:38 Eastern) due to an M6.7 flare from Sunspot Region 3559. An S1 (Minor) solar radiation storm warning is in effect until 1800 UTC on 29 Jan. | Tuesday, January 30, 2024 14:29 UTC |
 | [Photographer snaps extremely rare 'aurora curls' after magnetic wave rings Earth's atmosphere 'like a bell' / Live Science](https://www.livescience.com/space/the-sun/photographer-snaps-extremely-rare-aurora-curls-after-magnetic-wave-rings-earths-atmosphere-like-a-bell) | January 30, 2024 |
 | [Watch the sun spew out a giant eruption of plasma in incredible footage (video) / Space](https://www.space.com/sun-solar-prominence-photo) | January 28, 2024 |
@@ -486,6 +486,9 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Coronal mass ejection from colossal New Year's Eve solar flare will strike Earth Jan. 2 / Space](https://www.space.com/sun-solar-flare-new-years-eve-coronal-mass-eruption) | January 2, 2024 |
 | **[Monstrous X5 solar flare launched on New Year's Eve could bring auroras to Earth tonight / Live Science](https://www.livescience.com/space/the-sun/monstrous-x5-solar-flare-launched-on-new-years-eve-could-bring-auroras-to-earth-tonight)** | **January 2, 2024** |
 
+[^241]: ![May 2024, October 2003, March 1989, May 1921, and September 1859 (the Carrington Event)](https://www.swpc.noaa.gov/sites/default/files/styles/pad_sides_large/public/top_news/New%2016x10%20Generic%20SWPC%20Template.pptx_.png?itok=oX3KaZtV)
+[^242]: It used to be that tractors had a motor, transmission, power takeoff, and a battery. Now tractors have as many computers as cars. Anything that can knock out computers can disable a tractor as easily as a car.
+[^243]: ![](https://www.swpc.noaa.gov/sites/default/files/styles/pad_sides_large/public/top_news/NEW%20S2%20Alert%20Template.jpg?itok=kzIWcMCc) 
 [^87]: **X8.7** is the **BOAT!**[^100]
 [^100]: **BOAT**. *def:* Biggest Of All Time!
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://spaceweather.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
@@ -705,7 +708,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [The Enigmatic, Celestial Steve Makes an Appearance in Scotland - Atlas Obscura](https://www.atlasobscura.com/articles/why-is-aurora-called-steve) | MARCH 19, 2018 |
 | [Aurora-Tracking Satellites Get Extra Help to Study Space Weather](https://www.inverse.com/article/41592-aurora-tracking-satellites-get-extra-help-study-space-weather) | FEB. 23, 2018 |
 | [Astronomers Discover the Missing Link Responsible for Pulsating Auroras • SciTechDaily](https://scitechdaily.com/astronomers-discover-the-missing-link-raesponsible-for-pulsating-auroras/) | FEBRUARY 20, 2018 |
-| **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25 • NASA]** | FEBRUARY 19, 2018 |
+| **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25] • NASA]** | FEBRUARY 19, 2018 |
 | [Sun Unleashes Monster Solar Flare, Strongest in a Decade / Space](https://www.space.com/38057-sun-unleashes-decades-strongest-solar-flare.html) | September 6, 2017 |
 | [New Wave Pattern On The Sun Might Help Us Predict Solar Storms / IFLScience](https://www.iflscience.com/new-wave-pattern-on-the-sun-might-help-us-predict-solar-storms-41028) | March 29, 2017 |
 | [Scientists Have Detected a Crack in Earth\"s Magnetic Shield : ScienceAlert](https://www.sciencealert.com/scientists-have-detected-a-crack-in-earth-s-magnetic-shield) | 04 November 2016 |
@@ -720,11 +723,10 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 </details >
 
-[^21]: It used to be that tractors had a motor, transmission, power takeoff, and a battery. Now tractors have as many computers as cars. Anything that can knock out computers can disable a tractor as easily as a car.
 [^22]: [EZIE Does It: NASA’s Next Step in Unraveling Earth’s Electrifying Space Connections • SciTechDaily](https://scitechdaily.com/ezie-does-it-nasas-next-step-in-unraveling-earths-electrifying-space-connections/)
 [^23]: [EZIE Kitx @ ezie.jhuapl.edu](https://ezie.jhuapl.edu/)
 [^24]: A video in this article gives a great explanation of the South Atlantic Anomaly,  seen on NASA tracking tracking video video display displays as SAA.
-[^25 • NASA]: The third video on this page sounds like EDM.
+[^25]: The third video on this page sounds like EDM.
 
 ### Aurora FAQ & Other Stuff
 
@@ -783,8 +785,7 @@ The Solar Dynamics Observatory (SDO) is a NASA mission launched in February 2010
 | [Welcome to Sungrazer / Sungrazer - Sungrazing Comet Spotter](https://sungrazer.nrl.navy.mil/home) |
 | [laurenorr/substorm-community at nat_comm • GitHub](https://github.com/laurenorr/substorm-community/tree/nat_comm) |
 
-## Research Papers 
-
+## Research Papers
 
 | Publication | Date |
 |---|---|
