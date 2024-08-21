@@ -18,6 +18,7 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/far-side-cow-tools-confusion-gary-larson-letter/) | August 18, 2024 |
 | [10 Weirdest The Far Side Comics, Ranked](https://www.cbr.com/the-far-side-weirdest-comics/) | August 14. 2024 |
 | [The History of The Far Side, Explained](https://www.cbr.com/the-far-side-history-explained/) | August 13, 2024 |
 | [10 Funniest The Far Side Comics About Sports](https://www.cbr.com/hilarious-far-side-sports-comics/) | August 8, 2024 |
@@ -41,6 +42,10 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [10 Genius Far Side Comics About Writer's Block (& Other Creative Woes)](https://screenrant.com/10-far-side-comics-writers-block-gary-larson/) | August 18, 2024 |
+| [I Was Surprised By How Many Times The Far Side's Most Famous Prehistoric Character Actually Appeared](https://screenrant.com/far-side-comics-thag-caveman-gary-larson-creativity/) | August 17, 2024 |
+| [15 Funniest Far Side Comics That Prove Gary Larson Is Bizarrely Obsessed with... Milk?!](https://screenrant.com/funniest-far-side-comics-cows-milk-gary-larson/) | August 17, 2024 |
+| [10 Hilarious Far Side Comics Where Characters Are Lost At Sea (From the 1980s)](https://screenrant.com/best-far-side-comics-lost-at-sea-1980s/) | August 16, 2024 |
 | [Far Side's Funniest Sports Comic Is One Gary Larson Drew When He Was Just 7 Years Old (As Voted By YOU)](https://screenrant.com/funniest-far-side-comics-sports-gary-larson-first/) | August 15, 2024 |
 | [10 Hilarious Far Side Comics Starring Ants (That Readers Shouldn’t Overlook)](https://screenrant.com/10-hilarious-far-side-comics-ants-gary-larson/) | August 14, 2024 |
 | [The Far Side Featured By Far the Goofiest Version of This Iconic Pop Culture Character](https://screenrant.com/far-side-goofy-tarzan-comics-gary-larson/) | August 12, 2024 |
@@ -52,6 +57,7 @@
 | ["What Else Didn\"t I Draw?": Gary Larson On The Far Side Comics Left Unproduced By His Retirement](https://screenrant.com/gary-larson-retirement-undrawn-far-side-comics/) | August 5, 2024 |
 | [12 Hilarious Far Side Comics Featuring Rhinoceros (From 1980 to 1987)](https://screenrant.com/far-side-comics-rhinos-1980s/) | August 3, 2024|
 | [10 More Brilliant Multi-Panel Far Side Comics](https://screenrant.com/best-far-side-multi-panel-comics-gary-larson/) | August 2, 2024 |
+| [12 Far Side Comics From 1985 That Make Readers Go “WHAT-THE?”](https://screenrant.com/most-confusing-far-side-comics-1985/) | August 1, 2024 |
 | [12 Far Side Comics From 1985 That Make Readers Go "What The?"](https://screenrant.com/confusing-far-side-comics-what-the-1984/) | July 28, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 30 (Including Gary Larson\"s Best Wordless Comic)](https://screenrant.com/funniest-far-side-comics-no-caption-june-1994/) | Jul 27, 2024 |
 | [20 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/) | July 26, 2024 |
@@ -202,4 +208,3 @@
 | [Gary Larson's Misunderstood Far Side Comic Was Deemed Offensive and Sick](https://screenrant.com/gary-larson-far-side-misunderstood-dog-comic-controversy/ ) | Dec 21, 2022 |
 | [Far Side's Gary Larson Admits He Wants to 'Mess With' One Iconic Comic](https://screenrant.com/far-side-gary-larson-admits-mess-with-one-iconic-comic/ ) | Dec 18, 2022 |
 | [Gary Larson's Far Side Comics Were Inspired by a Surreal Kids' Book](https://screenrant.com/far-side-gary-larson-inspiration-book-mr-bear/ ) | Dec 16, 2022 |
-
