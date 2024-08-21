@@ -30,7 +30,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
-| [A New ‘Guest Star’ Will Appear in the Sky Soon. Here's How Novas Work and Where to Look.](https://singularityhub.com/2024/08/13/a-new-guest-star-will-appear-in-the-sky-soon-heres-how-novas-work-and-where-to-look/) | August 13, 2024 |
+| [A New ‘Guest Star’ Will Appear in the Sky Soon. Here's How Novas Work and Where to Look.  • Singularity Hub](https://singularityhub.com/2024/08/13/a-new-guest-star-will-appear-in-the-sky-soon-heres-how-novas-work-and-where-to-look/) | August 13, 2024 |
 | [How To See The T Coronae Borealis Nova Explosion In The Sky](https://www.inverse.com/science/how-to-see-t-coronae-borealis-nova) | Aug. 9, 2024 |
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • The Conversation](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | August 1, 2024 8:37am EDT |
 | [A new 'guest star' will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • Phys](https://phys.org/news/2024-08-guest-star-sky-space-scientist.html) | AUGUST 1, 2024
@@ -38,7 +38,7 @@
 | [You Can Watch a Once-in-a-Lifetime Cosmic Explosion From Your Own Backyard - CNET](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/) | July 22, 2024 4:14 p.m. PT |
 | [Witness the Blaze Star: A Rare Nova Explosion Visible from Earth • Geek Side](https://geeksided.com/posts/witness-the-blaze-star-a-rare-nova-explosion-visible-from-earth-01j381v75m9p) | Jul 20, 2024 |
 | [Stars Can Survive Their Partner Detonating as a Supernova - Universe Today](https://www.universetoday.com/167818/stars-can-survive-their-partner-detonating-as-a-supernova/) | JULY 18, 2024 |
-| [Astronomers Believe A Star Is About To Explode 3000 Light Years From Earth — Here’s How to See It • Inverse](https://www.inverse.com/science/t-coronae-borealis-tcrb-t-cor-bor-northern-crown-brightly-erupt) | JULY 13, 2024 |
+| [Astronomers Believe A Star Is About To Explode 3000 Light Years From Earth — Here’s How to See It • InverselyInverselyInversely](https://www.inverse.com/science/t-coronae-borealis-tcrb-t-cor-bor-northern-crown-brightly-erupt) | JULY 13, 2024 |
 | [T Coronae Borealis star nova expected to happen in 2024 / Entertainment/Life / theadvocate.com](https://www.theadvocate.com/baton_rouge/entertainment_life/the-t-coronae-borealis-star-nova-expected-to-happen-soon/article_c3f3e260-3d40-11ef-87c6-8ba5b441f774.html) | Jul 12, 2024 |
 | [UQ physicist explains T Coronae Borealis star explosion / news.com.au — Australia’s leading news site](https://www.news.com.au/technology/science/space/t-coronae-borealis-star-ready-to-release-massive-thermonuclear-explosion/news-story/5803c5fde05c2ced5130eea484bbf20b) | July 12, 2024 - 3:11PM |
 | [T Coronae Borealis - the Blaze Star - Astronomical Society of Edinburgh](https://www.astronomyedinburgh.org/2024/07/10/t-coronae-borealis-the-blaze-star/#) | 10 July 2024 |
