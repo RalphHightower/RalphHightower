@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Unforgettable Calvin & Hobbes Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/) | August 17, 2024 |
 | [10 Best Calvin and Hobbes Comics About Sports](https://www.cbr.com/calvin-and-hobbes-best-sports-comics/) | August 10, 2024 |
 | [20 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/) | Updated July 30, 2024 |
 | [Calvin and Hobbes: Calvin’s 10 Grossest Lunches](https://www.cbr.com/calvin-and-hobbes-grossest-lunches/) | July 26, 2024 |
@@ -35,7 +36,6 @@
 | [10 Best Calvin & Hobbes Comic Strips Featuring Susie](https://www.cbr.com/best-calvin-hobbes-susie-comics/) | May 19, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Kids](https://www.cbr.com/calvin-hobbes-best-strips-kids/ ) | May 10, 2024 |
 | [Did a Fake Calvin and Hobbes Comic Strip Sell For Over $14,000?](https://www.cbr.com/fake-calvin-and-hobbes-comic-strip-sell-14000/ ) | May 7, 2024 |
-| [Calvin & Hobbes: 10 Best Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/ ) | May 7, 2024 |
 | [10 Best Calvin & Hobbes Comic Strips for Parents](https://www.cbr.com/best-calvin-hobbes-for-parents/ ) | May 2, 2024 |
 | [10 Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/ ) | Apr 29, 2024 |
 | [9 Weirdest Details From Early Calvin And Hobbes Comics](https://www.cbr.com/calvin-and-hobbes-weirdest-details-early-comic-strips/ ) | Apr 23, 2024 |
@@ -128,6 +128,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Calvin and Hobbes Comics That Perfectly Capture Calvin's Anarchist Spirit](https://screenrant.com/hilarious-anarchist-calvin-and-hobbes-comics/) | August 20, 2024 |
+| [10 Most Epic Calvin and Hobbes Snowball Fights in Comic History](https://screenrant.com/most-epic-calvin-and-hobbes-snowball-fights/) | August 18, 2024 |
 | [10 Funniest Calvin and Hobbes Comics Starring Calvin's Imaginary Inventions](https://screenrant.com/funniest-calvin-and-hobbes-comics-starring-imaginary-inventions/) | August 13, 2024 |
 | [15 Best Calvin and Hobbes Strips About School (and Homework)](https://screenrant.com/best-calvin-and-hobbes-comics-about-school-homework/) | August 10, 2024 |
 | [10 Funniest Calvin and Hobbes Comics That Just Turned 30 (Including 1 of Watterson's Most Creative of All Time)](https://screenrant.com/funniest-calvin-and-hobbes-comics-july-1994/) | August 5, 2024 |
