@@ -12,7 +12,7 @@ $color-scheme-dark: false !default;
 
 $lm-brand-color:           #73000a !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
-$lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
+$lm-brand-color-dark:     darken($lm-brand-color, 25%) !default;
 
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
@@ -107,8 +107,8 @@ $lm-table-border-color:    #73000a !default;
 // ---------
 
 $dm-brand-color:           #73000a !default;
-$dm-brand-color-light:     lighten($dm-brand-color, 45%) !default;
-$dm-brand-color-dark:      darken($dm-brand-color, 15%) !default;
+$dm-brand-color-light:     lighten($dm-brand-color, 65%) !default;
+$dm-brand-color-dark:     lighten($dm-brand-color, 15%) !default;
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
@@ -284,7 +284,7 @@ $table-border-color: $lm-table-border-color;
       --minima-link-hover-color: #{$dm-link-hover-color};
 
       --minima-border-color-01: #{$dm-border-color-01};
-      --minima-border-color-02: #{$dm-border-color-02};
+      --minima-border-color-02: #{$dm-border-color-02}; 
       --minima-border-color-03: #{$dm-border-color-03};
 
       --minima-table-text-color: #{$dm-table-text-color};
