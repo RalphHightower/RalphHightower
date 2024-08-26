@@ -204,4 +204,5 @@
 | [10 Calvin And Hobbes Comics That Were Surprisingly Deep](https://screenrant.com/calvin-and-hobbes-comics-surprisingly-deep/ ) | Nov 18, 2022 |
 | [10 Funniest Calvin and Hobbes Comics, According To Reddit](https://screenrant.com/calvin-hobbes-funniest-comics-reddit/ ) | Oct 13, 2022 |
 | [10 Most Heartwarming Calvin and Hobbes Comics](https://screenrant.com/most-heartwarming-calvin-and-hobbes-comics/ ) | Sep 27, 2022 |
-| [Calvin and Hobbes Secretly Takes Place in the Marvel Universe](https://screenrant.com/calvin-hobbes-marvel-universe-cameo-bug-sleigh/ ) | Jan 23, 2022 |u
+| [Calvin and Hobbes Secretly Takes Place in the Marvel Universe](https://screenrant.com/calvin-hobbes-marvel-universe-cameo-bug-sleigh/ ) | Jan 23, 2022 |
+
