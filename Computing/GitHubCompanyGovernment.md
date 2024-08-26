@@ -116,9 +116,9 @@
 | [Google Maps Platform](https://github.com/googlemaps ) | Google Maps Platform is a set of APIs and SDKs for retrieving location-based data from Google and embedding Google Maps imagery into mobile apps and web pages. |
 | [Google Research](https://github.com/google-research  ) | Google Research |
 | [google-coral](https://github.com/google-coral ) | Open source projects for [coral.ai](https:://coral.ai) |
+| [Grafana Labs](https://github.com/grafana) | Grafana Labs is behind leading open source projects Grafana and Loki, and the creator of the first open & composable observability platform. |
 | [GraphQL](https://github.com/graphql ) | GraphQL |
 | [Greenhost](https://github.com/greenhost) | sustainable hosting and digital security |
-| [Mintplex Labs](https://github.com/Mintplex-Labs) | AI applications for everyone |
 | [Grid Protection Alliance (GPA)](https://github.com/GridProtectionAlliance ) | GPA is a not-for-profit corporation formed to facilitate the development of comprehensive electric energy solutions. |
 | [Hailo](https://github.com/hailo-ai) | AI Accelerator |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
@@ -210,6 +210,7 @@
 | [nginx](https://github.com/nginx ) | NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances |
 | [Node-RED](https://github.com/node-red ) | Low-code programming for event-driven applications |
 | [Notary Public](https://github.com/notaryproject ) | Notary is a project that allows anyone to have trust over arbitrary collections of data |
+| [npm](https://github.com/npm) | JavaScript Package Manager, Registry & Website |
 | [NSA Cybersecurity Directorate](https://github.com/nsacyber ) | Official GitHub account for NSA Cybersecurity Directorate. Formerly branded as NSA Cybersecurity, NSA Information Assurance, & Information Assurance Directorate |
 | [NVIDIA Corporation](https://github.com/NVIDIA ) | NVIDIA Corporation |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
