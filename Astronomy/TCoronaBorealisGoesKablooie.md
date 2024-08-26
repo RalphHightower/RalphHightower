@@ -1,6 +1,6 @@
 # Astronomy/T Corona Borealis Goes Kablooie
 
-<details markdown="1">Auroras / T Corona Borealis "Hot Links"<summary ></summary >
+<details markdown="1"><summary >Auroras / T Corona Borealis "Hot Links"</summary >
 
 ## Auroras / T Corona Borealis *"Hot Links"*
 
@@ -30,6 +30,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| **[A nova explosion may soon be visible in the night sky. Here’s where and when to look / PBS News](https://www.pbs.org/newshour/science/a-nova-explosion-may-soon-be-visible-in-the-night-sky-heres-where-and-when-to-look)** | **Aug 24, 2024 6:34 PM EDT** |
 | [A New ‘Guest Star’ Will Appear in the Sky Soon. Here's How Novas Work and Where to Look.  • Singularity Hub](https://singularityhub.com/2024/08/13/a-new-guest-star-will-appear-in-the-sky-soon-heres-how-novas-work-and-where-to-look/) | August 13, 2024 |
 | [How To See The T Coronae Borealis Nova Explosion In The Sky](https://www.inverse.com/science/how-to-see-t-coronae-borealis-nova) | Aug. 9, 2024 |
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • The Conversation](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | August 1, 2024 8:37am EDT |

@@ -14,6 +14,7 @@
 |---|---|
 | [Unforgettable Calvin & Hobbes Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/) | August 17, 2024 |
 | [10 Best Calvin and Hobbes Comics About Sports](https://www.cbr.com/calvin-and-hobbes-best-sports-comics/) | August 10, 2024 |
+| [Debunking the Bill Watterson/Berkeley Breathed 'Feud'](https://www.cbr.com/bill-watterson-berkeley-breathed-feud-calvin-hobbes-bloom-county/) | July 31, 2024 |
 | [20 Best Calvin And Hobbes Snowman Comic Strips](https://www.cbr.com/best-calvin-hobbes-snowman-comics/) | Updated July 30, 2024 |
 | [Calvin and Hobbes: Calvin’s 10 Grossest Lunches](https://www.cbr.com/calvin-and-hobbes-grossest-lunches/) | July 26, 2024 |
 | [The Funniest Calvin & Hobbes Comics Of All Time](https://www.cbr.com/calvin-hobbes-funny-comics/) | July 24, 2024 |
@@ -128,6 +129,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [Calvin and Hobbes: 10 Calvinball Comics That Make Us Actually Want To Play](https://screenrant.com/calvin-and-hobbes-best-calvinball-comics/) | August 25, 2024 |
+| [10 Best Calvin and Hobbes Comic Strip Punchlines We'll Never Forget](https://screenrant.com/best-calvin-and-hobbes-comic-strip-punchlines/) | August 24, 2024 |
 | [10 Calvin and Hobbes Comics That Perfectly Capture Calvin's Anarchist Spirit](https://screenrant.com/hilarious-anarchist-calvin-and-hobbes-comics/) | August 20, 2024 |
 | [10 Most Epic Calvin and Hobbes Snowball Fights in Comic History](https://screenrant.com/most-epic-calvin-and-hobbes-snowball-fights/) | August 18, 2024 |
 | [10 Funniest Calvin and Hobbes Comics Starring Calvin's Imaginary Inventions](https://screenrant.com/funniest-calvin-and-hobbes-comics-starring-imaginary-inventions/) | August 13, 2024 |
@@ -202,3 +205,4 @@
 | [10 Funniest Calvin and Hobbes Comics, According To Reddit](https://screenrant.com/calvin-hobbes-funniest-comics-reddit/ ) | Oct 13, 2022 |
 | [10 Most Heartwarming Calvin and Hobbes Comics](https://screenrant.com/most-heartwarming-calvin-and-hobbes-comics/ ) | Sep 27, 2022 |
 | [Calvin and Hobbes Secretly Takes Place in the Marvel Universe](https://screenrant.com/calvin-hobbes-marvel-universe-cameo-bug-sleigh/ ) | Jan 23, 2022 |
+

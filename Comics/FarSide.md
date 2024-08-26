@@ -18,6 +18,7 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [15 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/) | August 21, 2024 |
 | [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/far-side-cow-tools-confusion-gary-larson-letter/) | August 18, 2024 |
 | [10 Weirdest The Far Side Comics, Ranked](https://www.cbr.com/the-far-side-weirdest-comics/) | August 14. 2024 |
 | [The History of The Far Side, Explained](https://www.cbr.com/the-far-side-history-explained/) | August 13, 2024 |
@@ -31,7 +32,6 @@
 | [10 Far Side Comic Jokes We Only Understood As Adults](https://www.cbr.com/the-far-side-best-adult-jokes/) | Jun 30, 2024 |
 | [10 Best The Far Side Comics About Cats](https://www.cbr.com/the-far-side-best-strips-cats/) | Jun 26, 2024 |
 | [10 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | Jun 19, 2024 |
-| [10 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/) | May 15, 2024 |
 | [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/) | May 8, 2024 |
 | [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/far-side-cow-tools-confusion-gary-larson-letter/) | Apr 29, 2024 |
 | [10 Best Historical The Far Side Comics, Ranked](https://www.cbr.com/best-historical-far-side-comics/) | Apr 10, 2024 |
@@ -42,6 +42,13 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [The Hilarious Way Far Side's Confusing Humor Came Back To Haunt Gary Larson](https://screenrant.com/far-side-gary-larson-confusion-payback-anecdote/) | August 25, 2024 |
+| [10 Hilarious Far Side Comics Starring Anthropomorphized Flies](https://screenrant.com/10-hilarious-far-side-comics-santhropomorphized-flies-larson/) | August 25, 2024 |
+| ["The Great Confuser": Far Side's Gary Larson On How & Why His Weirdest Cartoons Got Published](https://screenrant.com/far-side-confusing-jokes-weirdest-cartoons-gary-larson/) | August 24, 2024 |
+| [15 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | August 23, 2024 |
+| [10 Funniest Far Side Comics That Found the Funny Side of Mobsters](https://screenrant.com/funniest-far-side-comics-mafia-mobsters-gary-larson/) | August 22, 2024 |
+| [Far Side Creator Gary Larson Explained the "Huge Difference" Between Cartoonists And Writers](https://screenrant.com/far-side-gary-larson-huge-difference-cartoonists-writers/) | August 21,  2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including Gary Larson's Best Desert Island Comic)](https://screenrant.com/funniest-far-side-comics-july-1984-desert-island/) | August 20, 2024 |
 | [10 Genius Far Side Comics About Writer's Block (& Other Creative Woes)](https://screenrant.com/10-far-side-comics-writers-block-gary-larson/) | August 18, 2024 |
 | [I Was Surprised By How Many Times The Far Side's Most Famous Prehistoric Character Actually Appeared](https://screenrant.com/far-side-comics-thag-caveman-gary-larson-creativity/) | August 17, 2024 |
 | [15 Funniest Far Side Comics That Prove Gary Larson Is Bizarrely Obsessed with... Milk?!](https://screenrant.com/funniest-far-side-comics-cows-milk-gary-larson/) | August 17, 2024 |
@@ -62,7 +69,6 @@
 | [10 Funniest Far Side Comics That Just Turned 30 (Including Gary Larson\"s Best Wordless Comic)](https://screenrant.com/funniest-far-side-comics-no-caption-june-1994/) | Jul 27, 2024 |
 | [20 Funniest Far Side Comics Set on A Desert Island](https://screenrant.com/funniest-far-side-desert-island-comics/) | July 26, 2024 |
 | [This Recurring Far Side Joke Is the Perfect Metaphor For Gary Larson\"s Humor](https://screenrant.com/far-side-trojan-horse-comics-gary-larson-humor/) | Jul 24, 2024 |
-| [10 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | July 23, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 21, 2024 |
 | [10 Genius Far Side Comics Featuring the Invention of Fire, The Wheel, & More](https://screenrant.com/far-side-comics-cavemen-inventing-fire-wheel/) | July 20, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Larson's Most Iconic Strips)](https://screenrant.com/funniest-far-side-comics-gary-larson-june-1984/) | July 20, 2024 |
