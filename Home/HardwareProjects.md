@@ -30,11 +30,13 @@
 
 ## Magazines 
 
-| [Circuit Cellar Residents](https://circuitcellar.com/subscription/)|1 year|2 years|3 years|
-|---|---|---|----|
-| Print Subscription|$50|$80|$105|
-| Digital Subscription| $50|$80|$105|
-|Print/Digital Combo Subscription|$85|$135|$180|
+| [Circuit Cellar Residents](https://circuitcellar.com/subscription/)
+
+|Circuit Cellar | 1 year | 2 years | 3 years |
+|----|----|----|----|
+| Print Subscription | \$50 | \$80 | \$105 |
+| Digital Subscription | \$50 | \$80 | \$105 |
+| Print/Digital Combo Subscription | \$85 | \$135 | \$180 |
 
 <p />
 
@@ -158,10 +160,15 @@
 |    | 8GB |  | 2TB |
 |    | 8GB |  | 2TB |
 
-##### Raspberry Pi Add-ons
+##### Raspberry Pi 5 Add-ons
 
 | Add-ons | Price |
 |---|---|
+| **[Raspberry Pi M.2 HAT+ - DEV-25268 - SparkFun Electronics](https://www.sparkfun.com/products/25268)** | $12.00 |
+| **[Buy a Raspberry Pi AI Kit – Raspberry Pi](https://www.raspberrypi.com/products/ai-kit/)** |
+| **[Raspberry Pi AI Kit for Raspberry Pi 5](https://www.canakit.com/raspberry-pi-ai-kit.html?cid=USD&src=raspberrypi)** | $70.00 |
+| **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/)** | $350.00 |
+| **[Buy a Raspberry Pi M.2 HAT+ – Raspberry Pi](https://www.raspberrypi.com/products/m2-hat-plus/)** |
 | **[Coral AI M.2 Accelerator with Dual Edge TPU M.2-2230 (E-key) : Electronics](https://www.amazon.com/dp/B08KTSGN7F?&linkCode=sl1&tag=cnxtra-20&linkId=2774d06d0915963701713ff6f7071d93&language=en_US& )** | **(H/W) $79.79** |
 | **[Geekworm X1202 4-Cell 5V UPS Shield for Raspberry Pi 5 \| Max 5.1V 5A Output \| Wide 6-18V Input \| Auto Power On \| Safe Shutdown \| Power Loss Detection : Electronics](https://www.amazon.com/dp/B0CRZ4ZXQW?&linkCode=sl1&tag=cnxtra-20&linkId=a222239349a666d5497dbb66cfa61cac&language=en_US&)** | $49.00 |
 | [GeeekPi M.2 NVMe SSD Plus 2.5G Ethernet Adapter for Raspberry Pi 5, W01 U2500 Hat with NVMe SSD Expansion, USB 2.5G Network Port, GPIO Header, Support M.2 NVMe M-Key 2230/2242/2260/2280 SSD](https://a.co/d/eo07sDg) | $29.99 Amazon |
@@ -176,17 +183,24 @@
 | [Radxa Penta SATA HAT — A Complete NAS Solution](http://www.radxa.com/products/accessories/penta-sata-hat ) | [\$N/A — Amazon](https://a.co/d/hbDui4U)<br />[ARace (HK) \$44.99](https://arace.tech/products/radxa-penta-sata-hat-up-to-5x-sata-disks-hat-for-raspberry-pi-5 )<br />[All Net China \$49](https://shop.allnetchina.cn/products/penta-sata-hat-for-rock-pi-4 ) |
 | **[Seeed Studio Water Cooling Kit for Raspberry Pi 5](https://www.seeedstudio.com/High-Performance-Liquid-Cooler-for-Raspberry-Pi-5-p-5854.html )** | **(H/W) $120.00** |
 | **[Sixfab 5G Modem Kit for Raspberry Pi 5 - Sixfab](https://sixfab.com/product/sixfab-5g-modem-kit-for-raspberry-pi-5/ )** | **(H/W) $350.00** | 
-| **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
+
+###### UPS
 
 | UPS |
 |---|
-| [Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html) |
-| [Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html) |
+| **[SupTronics Technologies — Raspberry Pi 5 UPS HAT X1202 V1.1](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1.html)** |
+| **[Raspberry Pi 5 UPS HAT X1202 V1.11 H/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x1202-v1.1_hardware.html)** |
+| **[Raspberry Pi 5 UPS HAT X1202 V1.1 S/W • SupTronics Technologies](https://suptronics.com/Raspberrypi/Power_mgmt/x120x-v1.0_software.html)** |
 
 ##### Raspberry Pi 5 Articles 
 
 | Raspberry Pi 5 Articles | Date |
 |---|---|
+| [N-Fuse PoE HAT for the Raspberry Pi 5 also includes mini PCIe or M.2 Key-M/E/B sockets - CNX Software](https://www.cnx-software.com/2024/07/05/n-fuse-poe-hat-for-the-raspberry-pi-5-also-includes-mini-pcie-or-m-2-key-m-e-b-sockets/) | JULY 5, 2024 |
+| **[PCIe to 5G HAT+ for Raspberry Pi 5 takes SIMCom and Quectel 5G modules - CNX Software](https://www.cnx-software.com/2024/06/05/pcie-to-5g-hat-for-raspberry-pi-5-takes-simcom-and-quectel-5g-modules/)** | JUNE 5, 2024 |
+| [SBC software news - Armbian 24.5.1, DietPi 9.4, and Otii server for the Raspberry Pi 4/5 - CNX Software](https://www.cnx-software.com/2024/06/04/sbc-software-news-armbian-24-5-1-dietpi-9-4-and-otii-server-for-the-raspberry-pi-4-5/) | JUNE 4, 2024 |
+| **[$70 Raspberry Pi AI Kit combines official M.2 HAT+ with Hailo-8L AI accelerator - CNX Software](https://www.cnx-software.com/2024/06/04/70-raspberry-pi-ai-kit-combines-official-m-2-hat-with-hailo-8l-ai-accelerator/)** | JUNE 4, 2024 |
+| **[Official Raspberry Pi M.2 HAT+ launched for $12 - CNX Software](https://www.cnx-software.com/2024/05/14/official-raspberry-pi-m-2-hat-launched-for-12/)** | MAY 14, 2024 |
 | [Pironman 5 is a fancy tower PC case for the Raspberry Pi 5 with NVMe M.2 SSD, oversized fans, RGB LEDs - CNX Software](https://www.cnx-software.com/2024/05/25/pironman-5-tower-pc-case-raspberry-pi-5-nvme-m-2-ssd-oversized-fans-rgb-leds/) | MAY 25, 2024 |
 | **[SupTronics Raspberry Pi 5 UPS HAT X1202 V1.1 takes four 18650 batteries delivering up to 25W - CNX Software](https://www.cnx-software.com/2024/05/24/suptronics-x1202-raspberry-pi-5-ups-hat-four-18650-batteries-25w/)** | MAY 24, 2024 |
 | [How to add fast M.2 accessories to your Raspberry Pi 5 / ZDNET](https://www.zdnet.com/home-and-office/how-to-add-fast-m-2-accessories-to-your-raspberry-pi-5/) | May 21, 2024 at 3:01 a.m. PT |
@@ -229,6 +243,81 @@
 | **[How to install AI on a Raspberry Pi 5 - Geeky Gadgets](https://www.geeky-gadgets.com/installing-ai-on-raspberry-pi-5/ )** | 
 
 [^51]: [4-way NVMe RAID comes to Raspberry Pi 5 / Jeff Geerling](https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5 ) • May 1, 2024
+
+
+- Hailo.ai Support SBC – Raspberry Pi 5
+- M.2 HAT+ with PCIe Gen2 x1 interfaces, M.2 Key M support,
+- Hailo-8L AI accelerator with
+   - Up to 13 TOPS of performance
+   - M.2 2242 form factor
+   - Typical power consumption – 1.5W
+- Thermal pad pre-fitted between the module and the M.2 HAT+
+- Mounting hardware kit
+- 16mm stacking GPIO header
+- PCIe FPC cable
+
+Waveshare PCIe to 5G HAT+ specifications:
+
+- M.2 Key B socket for 3042/3052 5G modules with PCIe interface
+- 16-pin PCIe FPC connector directly connected to the Raspberry Pi 5 PCIe interface
+- 40-pin GPIO header
+- Nano SIM card slot
+- Antenna – 4-in-1 PCB antenna board with four IPEX antennas
+- USB – USB Type-C port for 5G networking of Raspberry Pi or PC via USB cable, firmware updating, or external power supply input
+- Storage – I2C EEPROM for configuration
+- Misc – Reset button, Power and Network LEDs
+- Power Management – Onboard power monitoring chip for real-time measurement of voltage, current, and power
+- Dimensions – HAT+ form factor
+
+Waveshare provides support for five different 5G modules suitable for various regions across the globe:
+
+- Quectel Modules
+   - **RM502Q-AE (Global except China) – 3GPP R15, Sub-6 GHz**
+   - **RM520N-GL (Global) – 3GPP R16, Sub-6 GHz**
+   - **RM530N-GL (Global) – 3GPP R16, Sub-6 GHz, mmWave**
+   - Bands
+      - 5G NR (RM530N-GL only) – n257, n258, n260, n261
+      - 5G NR NSA/SA – n1, n2, n3, n5, n7, n8, n12, n20, n25, n28, n38, n40, n41, n48, n66, n71, n77, n78, n79; RM520N/RM530N add: n13, n14, n18, n29, n30, n70, n71, n76
+      - 4G LTE-FDD – B1, B2, B3, B4, B5, B7, B8, B12, B13, B14, B17, B18, B19, B20, B25, B26, B28, B29, B30, B32, B66, B71
+      - 4G LTE-TDD – B34, B38, B39, B40, B41, B42, B43, B48
+      - LAA – B46
+      - WCDMA – B1, B2, B4, B5, B8, B19; RM502Q-AE adds: B3 and B6
+   - GNSS – GPS / GLONASS / BeiDou (Compass) / Galileo / QZSS (QZSS is not supported on RM502Q-AE)
+   - Data rates
+      - 5G mmWave – Downlink 4 Gbps; uplink 1.4 Gbps
+      - 5G SA Sub-6
+         - RM502Q-AE – downlink 4.2 Gbps; uplink 450 Mbps
+         - RM520N-GL/RM530N-GL – downlink 2.4 Gbps; uplink 900 Mbps
+   - 5G NSA Sub-6
+      - RM502Q-AE – downlink 5 Gbps; uplink 650 Mbps
+      - RM520N-GL/RM530N-GL – downlink 3.4 Gbps; uplink 550 Mbps
+   - 4G LTE
+      - RM502Q-AE – downlink 2 Gbps; uplink 200 Mbps
+      - RM520N-GL – downlink 1.6 Gbps; uplink 200 Mbps
+      - RM530N-GL – downlink 1.0 Gbps; uplink 200 Mbps
+   - 3G UMTS – downlink 42 Mbps; uplink 5.76 Mbps
+- SIMCom modules
+   - **SIM8262E-M2 (except Americas) – Sub-6 GHz**
+   - **SIM8262A-M2 (Americas) – Sub-6 GHz**
+   - Bands
+      - 5G NR NSA/SA
+         - SIM8262E-M2 – n1, n3, n5, n7, n8, n20, n28, n38, n40, n41, n77, n78, n79
+         - SIM8262A-M2 – n2, n5, n7, n12, n13, n14, n25, n30, n41, n48, n66, n71, n77, n78, n79
+      - 4G LTE
+         - LTE-FDD
+            - SIM8262E-M2 – B1, B3, B5, B7, B8, B18, B19, B20, B26, B28, B32
+            - SIM8262A-M2 – B2, B4, B5, B7, B12, B13, B14, B25, B26, B29, B30, B66, B71
+         - LTD-TDD
+           - SIM8262E-M2 – B38, B39, B40, B41, B42, B43
+           - SIM8262A-M2 – B2, B41, B46, B48
+        - UMTS
+           - SIM8262E-M2 – B1, B5, B8
+           - SIM8262A-M2 – B2, B4, B5
+        - GNSS – GPS / GLONASS / BeiDou / Galileo / QZS
+        - Data rates
+           - 5G – downlink 2.4 Gbps; uplink 500 Mbps
+           - 4G LTE –  downlink 1.0 Gbps; uplink 200 Mbps
+           - UMTS – downlink 42 Mbps; uplink 5.76 Mbps
 
 </details>
 
@@ -636,11 +725,11 @@ I could easily see this for installation in cars, SUVs, trucks.
 |--------|--------------|-----------|------------|----------------------|
 |Base|||||
 |RVWMO	|Weak Memory Ordering	|2.0	|Ratified	||
-|RV32I|	Base Integer Instruction Set 32-bit|	2.1	|Ratified	|40|
-|RV32E|	Base Integer Instruction Set (embedded) 32-bit 16 registers|1.9	|Open	40||
-|RV64I|	Base Integer Instruction Set 64-bit	|2.1	|Ratified|	15|
-|RV128I	|Base Integer Instruction Set 128-bit|	1.7|	Open|	15 Extension|
-|M|	Standard Extension for Integer Multiplication and Division|	2.0|	Ratified	| 8 (RV32) 13 (RV64)|
+|RV32I|	Base Integer Instruction Set 32-bit|	2.1	|Ratified	|40 |
+|RV32E|	Base Integer Instruction Set (embedded) 32-bit 16 registers|1.9	|Open	40 ||
+|RV64I|	Base Integer Instruction Set 64-bit	|2.1	|Ratified|	15 |
+|RV128I	|Base Integer Instruction Set 128-bit|	1.7|	Open | 	15 Extension | 
+|M|	Standard Extension for Integer Multiplication and Division | 	2.0 |	Ratified	| 8 (RV32) 13 (RV64)|
 |A	|Standard Extension for Atomic Instructions	|2.1|	Ratified	|11 (RV32) 22 (RV64)|
 |F	|Standard Extension for Single-Precision Floating-Point	|2.2	|Ratified|	26 (RV32) 30 (RV64)|
 |D|	Standard Extension for Double-Precision Floating-Point	|2.2	|Ratified|	26 (RV32) 32 (RV64)|
@@ -648,16 +737,16 @@ I could easily see this for installation in cars, SUVs, trucks.
 |Zifencei	|Instruction-Fetch Fence	|2.0	|Ratified	|1|
 |G	|Shorthand for the IMAFDZicsr_Zifencei| base and extensions|—|—|
 |Q	|Standard Extension for Quad-Precision Floating-Point	|2.2	|Ratified	|8 (RV32) 32 (RV64)1q Zam|
-|L	|Standard Extension for Decimal Floating-Point|	0.0	|Open|-|
-|C	|Standard Extension for Compressed Instructions	|2.0	|Ratified	|40|
-|B	|Standard Extension for Bit Manipulation	|1.0|	Ratified	|43 \[28\]|
-|J	|Standard Extension for Dynamically Translated Languages|	0.0|	Open	|-|
+|L	|Standard Extension for Decimal Floating-Point|	0.0	|Open | -|
+|C	|Standard Extension for Compressed Instructions	|2.0	|Ratified	|40 |
+|B	|Standard Extension for Bit Manipulation	|1.0 |	Ratified	|43 \[28\]|
+|J	|Standard Extension for Dynamically Translated Languages|	0.0 |	Open	|-|
 |T	|Standard Extension for Transactional Memory	|0.0	|Open	|-|
-|P	|Standard Extension for Packed-SIMD Instructions|	0.9.10|	Open	|-|
-|V	|Standard Extension for Vector Operations|	1.0|	Frozen	|187[29]|
+|P	|Standard Extension for Packed-SIMD Instructions|	0.9.10 |	Open	|-|
+|V	|Standard Extension for Vector Operations|	1.0 |	Frozen	|187[29]|
 |Zk	|Standard Extension for Scalar Cryptography	|1.0.1	|Ratified	|49|
 |N	|Standard Extension for User-Level Interrupts	|1.1	|Open	|3|
-|H	|Standard Extension for Hypervisor|	1.0	|Ratified	|15|
+|H	|Standard Extension for Hypervisor|	1.0	|Ratified	|15 |
 |S	|Standard Extension for Supervisor-level Instructions|	1.12	|Ratified	|4|
 |Zam	|Misaligned Atomics	|0.1	|Open	|-|
 |Ztso	|Total Store Ordering|	0.1	|Frozen	|-|
