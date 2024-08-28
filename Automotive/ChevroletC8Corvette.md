@@ -38,6 +38,8 @@
 
 | Articles/News| Date |
 |---|---|
+| [Jay Leno Shares Exclusive Look at New Corvette ZR1 - Men's Journal](https://www.mensjournal.com/news/jay-leno-exclusive-look-new-corvette-zr1) | Aug 27, 2024 4:46 PM EDT |
+| [The Wildest Holden Ute Never Built Was the First Mid-Engine C8 Corvette Prototype!](https://www.motortrend.com/features/chevy-c8-corvette-mid-engine-prototype-holden-ute/) | Aug 26, 2024 |
 | [2023 Corvette Gets Recommended Rating By Consumer Reports](https://gmauthority.com/blog/2022/11/2023-corvette-gets-recommended-rating-by-consumer-reports/) |
 | [The mid-engined Corvette was 60 years in the making—now we’ve driven it / Ars Technica](https://arstechnica.com/cars/2020/02/the-mid-engine-corvette-was-60-years-in-the-making-now-weve-driven-it/ ) |
 | [Is The 2025 Corvette Getting 5G Connectivity?](https://gmauthority.com/blog/2023/11/is-the-2025-corvette-getting-5g-connectivity/ ) |
