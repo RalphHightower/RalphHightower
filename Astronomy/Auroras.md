@@ -38,7 +38,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Heliophysics Data Portal](https://data.nas.nasa.gov/helio) |
 | [Aurora Forecast / Geophysical Institute](https://www.gi.alaska.edu/monitors/aurora-forecast) |
 | [WSA-ENLIL Solar Wind Prediction / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction)
-| **[News Archive / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news-archive)*? |
+| **[News Archive / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news-archive)** |
+| **[Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/)** |
 | [SpaceWeatherLive.com / Real-time data and plots auroral activity / SpaceWeatherLive.com](https://www.spaceweatherlive.com/) |
 | *[Aurora Tutorial @ NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/content/aurora-tutorial)* |
 | **[Aurora Viewline for Tonight and Tomorrow Night (Experimental) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)** |
@@ -49,6 +50,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 
 | Solar Event | Date |
 |---|---|
+| [G2 (Moderate) Geomagnetic Storm Levels Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-levels-observed-4)<br />G2 (Moderate) geomagnetic storm levels were observed at 28/0259 UTC (10:59 Eastern) due to persistent CME effects. | Thursday, August 29, 2024 14:05 UTC |
 | [Experimental Global Total Electron Content (GloTEC) Ionospheric Model Available / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/experimental-global-total-electron-content-glotec-ionospheric-model-available)<br />SWPC has released an experimental version of the Global Total Electron Content (GloTEC) ionospheric model.<br /><br />The operational products of the North America Total Electron Content (NATEC) ionosphere model and U.S. Total Electron Content (USTEC) are no longer being supported and will be replaced by GloTEC. GloTEC is a real-time data-assimilative model that provides global electron density and total electron content (TEC). Soliciting comments on the experimental deployment of the GloTEC from users and the general public is through September 23, 2024. Direct access to the experiment products and outputs can be found [here](https://www.swpc.noaa.gov/experimental/glotec) | Monday, August 26, 2024 19:16 UTC |
 | [NOAA Shares First Data From GOES-19 Magnetometer / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/noaa-shares-first-data-goes-19-magnetometer)<br />The magnetometer on [GOES-19](https://www.nesdis.noaa.gov/news-events/noaas-goes-u) satellite is now transmitting data to Earth.<br /><br />For the full story, please go [here](https://www.nesdis.noaa.gov/news/noaa-shares-first-data-goes-19-magnetometer) | Thursday, August 22, 2024 17:06 UTC |
 | [August 23-25th Weekend Space Weather Outlook / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/august-23-25th-weekend-space-weather-outlook)<br />R1-R2 (Minor-Moderate) solar flare events remain probable through the weekend (Aug 23-25th EDT). Many sunspot groups are present as solar cycle 25 continues. Please visit our SWPC webpage for the latest information, forecasts, and updates. | Thursday, August 22, 2024 16:16 UTC |
