@@ -12,6 +12,7 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [Calvin & Hobbes' Best Summer Adventures](https://www.cbr.com/calvin-hobbes-best-summer-vacation-comic-strips/) | August 28, 2024 |
 | [Unforgettable Calvin & Hobbes Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/) | August 17, 2024 |
 | [10 Best Calvin and Hobbes Comics About Sports](https://www.cbr.com/calvin-and-hobbes-best-sports-comics/) | August 10, 2024 |
 | [Debunking the Bill Watterson/Berkeley Breathed 'Feud'](https://www.cbr.com/bill-watterson-berkeley-breathed-feud-calvin-hobbes-bloom-county/) | July 31, 2024 |
