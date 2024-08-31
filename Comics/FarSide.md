@@ -18,6 +18,7 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The Most Clever Gary Larson The Far Side Comic Strips](https://www.cbr.com/far-side-clever-comics/) | August 30, 2024 |
 | [Far Side's Best Comics Without Words](https://www.cbr.com/best-far-side-comics-no-words/) | August 30, 2024 |
 | [10 Best The Far Side Collections, Ranked](https://www.cbr.com/the-far-side-best-collections/) | August 28, 2024 |
 | [15 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/) | August 21, 2024 |
@@ -44,7 +45,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
-| [10 Brilliant Far Side Comics Featuring Butterflies (& Butterfly Hunters)](https://screenrant.com/far-side-comics-butterflies-butterfly-hunters/) | August 30, 2024 |
+| [10 Funniest Far Side Comics At The Beach](https://screenrant.com/funniest-far-side-beach-comics/) | August 31, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 30](https://screenrant.com/funniest-far-side-comic-july-1994-vikings/) | August 29, 2024 |
 | [Far Side Creator Gary Larson Brilliantly Described the Difference Between Cartoonists and Comedians](https://screenrant.com/far-side-creator-gary-larson-difference-between-cartoonists-comedians/) | August 28, 2024 |
 [10 Perfect Far Side Comics About Penguins](https://screenrant.com/10-hilarious-far-side-comics-penguins-gary-larson/) | August 27, 2024 |
