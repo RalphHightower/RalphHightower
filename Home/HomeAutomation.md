@@ -21,11 +21,14 @@ They prohibit the integration of HomeAssistance, and probably other home automat
 
 | General Articles  / News | Date |
 |---|---|
+| [Home Automation: The Network – Sam Akroyd.](https://samakroyd.com/2024/06/18/home-automation-the-network/) | June 18, 2024 |
 | [A roadmap for Home Assistant - Home Assistant](https://www.home-assistant.io/blog/2024/06/12/roadmap-introduction/) | June 12, 2024 |
-| [The Open Home Foundation will manage Home Assistant, ESPHome, Zigpy among over 240 open-source Smart Home projects - CNX Software](https://www.cnx-software.com/2024/04/23/open-home-foundation-manage-home-assistant-esphome-zigpy-over-240-open-source-smart-home-projects/ ) | APRIL 23, 2024 |
 | **[Home / SkyWind Energy Inc.](https://www.myskywind.world/? )** | May 19, 2024 |
+| [The Open Home Foundation will manage Home Assistant, ESPHome, Zigpy among over 240 open-source Smart Home projects - CNX Software](https://www.cnx-software.com/2024/04/23/open-home-foundation-manage-home-assistant-esphome-zigpy-over-240-open-source-smart-home-projects/ ) | APRIL 23, 2024 |
 | [A Smart Power Distribution Unit For Home Automation / Hackaday](https://hackaday.com/2024/04/25/a-smart-power-distribution-unit-for-home-automation/ ) | April 25, 2024 |
-| [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) |
+| [Measuring energy usage: regular code vs. SIMD code – Daniel Lemire's blog](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/ ) | February 19, 2024 |
+| [I was wrong to ignore Zigbee and Z-Wave. They’re the best part of my smart home. / Ars Technica](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/ ) | 2/12/2024, 7:30 AM |
+| [Matter, set to fix smart home standards in 2023, stumbled in the real market / Ars Technica](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/ ) | 12/23/2023, 7:35 AM |
 | **[Heat Pump Dryer Explained / Hackaday](https://hackaday.com/2023/11/25/heat-pump-dryer-explained/ )** | 2023-11-25 |
 | [Infinite Turbine debuts heat pump turbine for homes, businesses – pv magazine International](https://www.pv-magazine.com/2023/11/27/infinite-turbine-debuts-heat-pump-turbine-for-homes-businesses/ ) | 2023-11-27 |
 

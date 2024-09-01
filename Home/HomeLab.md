@@ -22,6 +22,8 @@
 
 | Essential Services | Purpose | Date |
 |---|---|---|
+| [EJBCA - The Open-Source Certificate Authority (CA)](https://www.ejbca.org/ ) |
+| **[Doing DNS and DHCP for your LAN the old way—the way that works / Ars Technica](https://arstechnica.com/information-technology/2024/02/doing-dns-and-dhcp-for-your-lan-the-old-way-the-way-that-works/ )** |
 | **[Unlocking High-Precision RTK Positioning - News - SparkFun Electronics](https://www.sparkfun.com/news/7401?_hsmi=264570328&_hsenc=p2ANqtz-8mYIMo-lyv0BAtJ14bPLj3KM60o_HLHbWEZhXF64wzJNd_GCy1LNde85sFDGAJWSWVg0qV7ZQ_o-tRI9-ZTcznsNjOQ7RGcXejfYVnLAN8t1dX3lg& )** | NTP/NTRIP Server | 
 | [Atomic Clocks and Oscillators - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/atomic-clocks-and-oscillators/ ) | PTP |
 | [GPS NTP Servers - Network Time Servers - Timing & Sync - Safran / Navigation and Timing](https://safran-navigation-timing.com/solution/timing-and-synchronization/ ) | PTP 
