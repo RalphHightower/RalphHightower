@@ -4,7 +4,7 @@
 
 ## Auroras / T Corona Borealis *Hot Links*
 
-The sun has been active firing off class strong G class and X strength Coronal Mass Ejections sending plasma to Earth and bringing the Aurora Borealis as far south as Florida.
+The sun has been active firing off strong G class (G3 – G5) and extreme X strength Coronal Mass Ejections sending plasma to Earth and bringing the Aurora Borealis as far south as Florida.
 
 | [NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/homepage)[^11] |
 |---|
@@ -13,7 +13,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Inverse • Science](https://www.inverse.com/science)
 | [PHYS • Space News - Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
 | [ScienceAlert](https://www.sciencealert.com/) |
-| [Space](https://www.space.com/) |
+| [Space](https://www.space.com/) |(G3 –
 | **[Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/)** |
 | [The Sun Spot - NASA](https://blogs.nasa.gov/sunspot/) |
 | [HelioCloud Project](https://heliocloud.org/) |
@@ -44,6 +44,13 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | *[Aurora Tutorial @ NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/content/aurora-tutorial)* |
 | **[Aurora Viewline for Tonight and Tomorrow Night (Experimental) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental)** |
 
+## Aurora Photography
+
+| Articles | Date |
+|---|---|
+| [Where and how to photograph the aurora / Space](https://www.space.com/how-to-photograph-the-aurora) | August 30, 2024 |
+| [Aurora season is here — What to expect from the northern lights in 2024/25 / Space](https://www.space.com/aurora-season-what-to-expect-northern-lights-2024-and-2025) | August 3, 2024 |
+
 ## Auroras
 
 ### Solar Activity — 2024
@@ -51,6 +58,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | Solar Event | Date |
 |---|---|
 | [G2 (Moderate) Geomagnetic Storm Levels Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-levels-observed-4)<br />G2 (Moderate) geomagnetic storm levels were observed at 28/0259 UTC (10:59 Eastern) due to persistent CME effects. | Thursday, August 29, 2024 14:05 UTC |
+| [2 solar probes are helping researchers understand what phenomenon powers the solar wind](https://theconversation.com/2-solar-probes-are-helping-researchers-understand-what-phenomenon-powers-the-solar-wind-235286) | August 29, 2024 2:13pm EDT |
+| [Auroral substorm sparks stunning northern lights visible at mid-latitudes (photos) / Space](https://www.space.com/aurora-substorm-northern-lights-aug-2024) | August 28, 2024 |
 | [Experimental Global Total Electron Content (GloTEC) Ionospheric Model Available / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/experimental-global-total-electron-content-glotec-ionospheric-model-available)<br />SWPC has released an experimental version of the Global Total Electron Content (GloTEC) ionospheric model.<br /><br />The operational products of the North America Total Electron Content (NATEC) ionosphere model and U.S. Total Electron Content (USTEC) are no longer being supported and will be replaced by GloTEC. GloTEC is a real-time data-assimilative model that provides global electron density and total electron content (TEC). Soliciting comments on the experimental deployment of the GloTEC from users and the general public is through September 23, 2024. Direct access to the experiment products and outputs can be found [here](https://www.swpc.noaa.gov/experimental/glotec) | Monday, August 26, 2024 19:16 UTC |
 | [NOAA Shares First Data From GOES-19 Magnetometer / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/noaa-shares-first-data-goes-19-magnetometer)<br />The magnetometer on [GOES-19](https://www.nesdis.noaa.gov/news-events/noaas-goes-u) satellite is now transmitting data to Earth.<br /><br />For the full story, please go [here](https://www.nesdis.noaa.gov/news/noaa-shares-first-data-goes-19-magnetometer) | Thursday, August 22, 2024 17:06 UTC |
 | [August 23-25th Weekend Space Weather Outlook / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/august-23-25th-weekend-space-weather-outlook)<br />R1-R2 (Minor-Moderate) solar flare events remain probable through the weekend (Aug 23-25th EDT). Many sunspot groups are present as solar cycle 25 continues. Please visit our SWPC webpage for the latest information, forecasts, and updates. | Thursday, August 22, 2024 16:16 UTC |
@@ -72,8 +81,8 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Space Weather Weekend Outlook Forecast for 9-11 August / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/space-weather-weekend-outlook-forecast-9-11-august)<br />Highlights include continuing R1-R2 (Minor-Moderate) events and likelihood of G2 (Moderate) levels. Please visit our SWPC webpage for the latest information and forecasts, and check on our latest 3-Day Forecast and Forecast Discussions for any forecast changes or new activity. | Monday, August 12, 2024 13:49 UTC |
 | [G2 (Moderate) Geomagnetic Storm Watch for 09-11 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-watch-09-11-aug)<br />A G2 (Moderate) geomagnetic storm watch is in place for 09-11 August in response to CME event's that left the sun on 07-08 Aug. See our latest discussion at https://www.swpc.noaa.gov/products/forecast-discussion for additional details. | Monday, August 12, 2024 13:49 UTC |
 | **[R3 (Strong) Radio Blackout Observed 08 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-strong-radio-blackout-observed-08-aug)** <br />AR 3774 produced a X1.3 flare at 08/1935 UTC. Stay tuned for the next https://www.swpc.noaa.gov/products/forecast-discussion for updates on if this event and any associated coronal mass ejection. | **Monday, August 12, 2024 13:48 UTC** |
+| [Geomagnetic storms from solar flares may supercharge northern lights across US, Canada / Space](https://www.space.com/auroras-from-geomagnetic-storm-amps-northern-lights-august-2024) | August 12, 2024 |
 | ['Severe' G4 geomagnetic storm strikes Earth, making widespread auroras likely / Live Science](https://www.livescience.com/space/the-sun/severe-g4-geomagnetic-storm-strikes-earth-making-widespread-auroras-likely) | August 12, 2024 |
-| [Coronal Mass Ejection Gives Earth’s Magnetosphere Rare “Wings” - Eos](https://eos.org/research-spotlights/coronal-mass-ejection-gives-earths-magnetosphere-rare-wings) | 2 August 2024 |
 | [Alfvén Waves: The Hidden Force Superheating the Sun’s Corona • SciTechDaily ](https://scitechdaily.com/alfven-waves-the-hidden-force-superheating-the-suns-corona/) | August 11, 2024 |
 | [Sun news July 25: Solar deja vu, but action incoming • EarthSky](https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/) | August 11, 2024 |
 | [Solar Cycle 25 Likely Reached the Highest Sunspot Number in over 20 Years / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/solar-cycle-25-likely-reached-highest-sunspot-number-over-20-years)<br />Solar Cycle 25 likely reached the highest sunspot number yet - a value of at least 299. The Space Weather Predicition Center (SWPC) non-official, estimated daily sunspot number for August 8th was 337, a value not observed since March 2001. However, the official SSN is determined by the World Data Center - Sunspot Index and Long-Term Solar Observations (WDC-SILSO) and it's Solar Influences Data Center (SIDC) at the Royal Observatory in Belgium; and their initial daily estimate for August 8th was 299. They will report out the official number by September 1st. Visit their webpage at: https://www.sidc.be/SILSO/home(link is external) and as always visit our webpage for the latest space weather information and forecasts. | Friday, August 09, 2024 18:27 UTC |
@@ -90,6 +99,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Gigantic jets – a rare type of lightning – caught on video • EarthSky](https://earthsky.org/earth/gigantic-jets-rare-lightning-video/) | August 7, 2024 |
 | [GOES 500 MeV Proton Flux Observations Now Available / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/goes-500-mev-proton-flux-observations-now-available)<br />The National Weather Service (NWS) Space Weather Prediction Center (SWPC) has deployed an update to the observed Geostationary Orbiting Environmental Satellite (GOES) Proton Flux plots displayed on the SWPC website.  This update added the GOES >= 500 MeV proton flux to the time series plot, and will benefit users with an interest in the high energy proton flux.  For example, users in the aviation industry will be able to monitor for the enhancement of radiation dose rates at aviation flight levels for whom the >= 500 MeV proton flux is pertinent for assessing exposure.  In addition, users associated with the conduct of human space exploration will be able to monitor for potential radiation impacts to astronauts and hardware. As always, visit our webpage for the latest information, forecasts, and updates. | Tuesday, August 06, 2024 15:41 UTC |
 | **[X1.7 and X1.1 Flares Observed on 05 Aug / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/x17-and-x11-flares-observed-05-aug)** <br />The X1.7 flare originating from just beyond the western limb that was observed at 05/1340 UTC was followed by an X1.1 flare from AR3780 at 1527 UTC. Given the source location of beyond the western limb, an Earth-directed CME is unlikely for the first event. The X1.1 event from AR3780 is still under assessment as we await updated coronagraph imagery. | **Tuesday, August 06, 2024 12:45 UTC** |
+| [1st 'hyperspectral' image of aurora borealis reveals true colors of northern lights / Space](https://www.space.com/aurora-borealis-1st-hyperspectral-images) | August 6, 2024 |
 | [Earth's magnetic field dances with solar wind - Earth.com](https://www.earth.com/news/earths-magnetic-field-dances-with-solar-wind/) | 08-06-2024 |
 | [How NOAA's Hurricane Hunter aircraft help satellites build a 'full picture of the storm' / Space](https://www.space.com/noaa-hurricane-hunter-aircraft) | August 6, 2024 |
 | [R1-R2 (Minor-Moderate) Events Still Expected into the Weekend (1 - 4 Aug) / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r1-r2-minor-moderate-events-still-expected-weekend-1-4-aug)<br />R1-R2 (Minor - Moderate) level solar flares continue to be expected into the weekend (1 - 4 August). There is also a continuing chance for an R3 (Strong) event. Continue to monitor our webpage for the latest observations, forecast information, and updates. | Monday, August 05, 2024 13:16 UTC |
@@ -107,6 +117,7 @@ The sun has been active firing off class strong G class and X strength Coronal M
 | [Moderate geomagnetic storm could bring northern lights as far south as New York this weekend / Space](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity) | August 2, 2024 |
 | [Aurora Alert Issued! Here’s How To See The Northern Lights This Weekend • Inverse](https://www.inverse.com/science/aurora-northern-lights-august-3-4-united-states) | Aug. 2, 2024 |
 | [Massive solar wind disturbance caused Earth's magnetosphere to fly without its usual tail • Phys](https://phys.org/news/2024-08-massive-solar-disturbance-earth-magnetosphere.html) | August 2, 2024 |
+| [Coronal Mass Ejection Gives Earth’s Magnetosphere Rare “Wings” - Eos](https://eos.org/research-spotlights/coronal-mass-ejection-gives-earths-magnetosphere-rare-wings) | 2 August 2024 |
 | [Sun’s Next Solar Cycle Detected Early in Sound Waves • SciTechDaily](https://scitechdaily.com/suns-next-solar-cycle-detected-early-in-sound-waves/) | August 2, 2024 |
 | [The Higgs particle could have ended the universe by now – here’s why we’re still here • The Conversation](https://theconversation.com/the-higgs-particle-could-have-ended-the-universe-by-now-heres-why-were-still-here-235694) | August 2, 2024 12:03pm EDT |
 | **[Strong (R3) Flare Activity Observed - 29 July 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-r3-flare-activity-observed-29-july-2024)** <br />An impulsive X1.5 (R3-Strong) solar flare was observed at 29/0233 UTC from SWPC Region 3764 (S05W04). Accompanying this event were a 300 sfu Tenflare and a Type-II radio sweep with an estimated velocity of 535 km/s. Forecasters are awaiting coronagraph imagery to determine if an Earth-directed CME follows this activity. | **Thursday, August 01, 2024 14:01 UTC** |
