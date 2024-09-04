@@ -57,6 +57,7 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 | Solar Event | Date |
 |---|---|
+| [Strong, non-Earth Directed CMEs Depart the Sun 1-3 September / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/strong-non-earth-directed-cmes-depart-sun-1-3-september)<br />Quite energetic coronal mass ejections (CME) departed the Sun 1-3 September; however, they are not Earth-directed. Visit our SWPC webpage for the latest information, forecasts, and updates. | Tuesday, September 03, 2024 17:12 UTC |
 | [G2 (Moderate) Geomagnetic Storm Levels Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g2-moderate-geomagnetic-storm-levels-observed-4)<br />G2 (Moderate) geomagnetic storm levels were observed at 28/0259 UTC (10:59 Eastern) due to persistent CME effects. | Thursday, August 29, 2024 14:05 UTC |
 | [2 solar probes are helping researchers understand what phenomenon powers the solar wind](https://theconversation.com/2-solar-probes-are-helping-researchers-understand-what-phenomenon-powers-the-solar-wind-235286) | August 29, 2024 2:13pm EDT |
 | [Auroral substorm sparks stunning northern lights visible at mid-latitudes (photos) / Space](https://www.space.com/aurora-substorm-northern-lights-aug-2024) | August 28, 2024 |
