@@ -30,6 +30,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Q&A: Astronomers await a once-in-80-year stellar explosion • Phys](https://phys.org/news/2024-09-qa-astronomers-await-year-stellar.html) | September 2, 2024 |
 | [Once-in-a-Lifetime 'Blaze Star' Explosion Set to Light Up the September Sky - CNET](https://www.cnet.com/science/once-in-a-lifetime-blaze-star-explosion-set-to-light-up-the-september-sky/) | Sept. 1, 2024 2:15 a.m. PT |
 | [Q&A: Astronomers await a "once-every-80-years" stellar explosion / Carnegie Science](https://carnegiescience.edu/news/qa-astronomers-await-once-every-80-years-stellar-explosion) | August 30, 2024 |
 | [T Coronae Borealis: A Star on the Edge of Explosion – Have You Missed It? • Geek Insider](https://geeksided.com/posts/t-coronae-borealis-a-star-on-the-edge-of-explosion-have-you-missed-it-01j5zd6njnvn) | Aug 23, 2024 |
@@ -80,7 +81,6 @@
 | [When will ‘new’ star, T Coronae Borealis appear? (Star Diary, 24 to 30 June 2024\) • Sky at Night Magazine](https://www.skyatnightmagazine.com/podcasts/star-diary-24-jun-2024) | June 23, 2024 at 3:00 am |
 | [T Coronae Borealis and asteroid (2\) Pallas conjunction: an image - 22 June 2024. - The Virtual Telescope Project 2.0](https://www.virtualtelescope.eu/2024/06/23/t-coronae-borealis-and-asteroid-2-pallas-conjunction-an-image-22-june-2024/) | 06/23/2024 |
 | [NASA: Nova Explosion to Be ‘Once-in-Lifetime’ Event in Night Sky • Voice of America](https://learningenglish.voanews.com/a/nasa-nova-explosion-to-be-once-in-lifetime-event-in-night-sky/7664089.html ) | June 23, 2024 |
-| [Don’t Miss: Witness a “Once-in-a-Lifetime” Nova Explosion](https://scitechdaily.com/dont-miss-witness--once-in-a-lifetime-nova-explosion/) | June 23, 2024 |
 | [Don’t Miss: Witness a “Once-in-a-Lifetime” Nova Explosion • SciTechDaily](https://scitechdaily.com/dont-miss-witness-a-once-in-a-lifetime-nova-explosion/) | JUNE 23, 2024 |
 | [When a new star flares in the constellation Corona Borealis • Universe Today](https://universemagazine.com/en/new-star-in-the-constellation-corona-borealis-the-most-anticipated-astronomical-event-of-2024/) | June 21, 2024 |
 | [A 'new star' will appear in the sky any night now. Here's how to watch the Blaze Star ignite. / Live Science](https://www.livescience.com/space/astronomy/a-new-star-could-appear-in-the-sky-any-night-now-heres-how-to-see-the-blaze-star-ignite) | June 20, 2024 |
