@@ -129,7 +129,8 @@
 ### Calvin and Hobbes / ScreenRant
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
-|---|---|
+|---|---| 
+| [10 Most Heartwarming Calvin and Hobbes Comics About Friendship (and Loyalty)](https://screenrant.com/most-heartwarming-calvin-and-hobbes-comics-about-friendship/) | September 1, 2024 |
 | [10 Greatest Calvin and Hobbes Comics About Snowmen](https://screenrant.com/calvin-and-hobbes-greatest-comics-about-snowmen/) | August 30, 2024 |
 | [Calvin and Hobbes: 10 Calvinball Comics That Make Us Actually Want To Play](https://screenrant.com/calvin-and-hobbes-best-calvinball-comics/) | August 25, 2024 |
 | [10 Best Calvin and Hobbes Comic Strip Punchlines We'll Never Forget](https://screenrant.com/best-calvin-and-hobbes-comic-strip-punchlines/) | August 24, 2024 |
