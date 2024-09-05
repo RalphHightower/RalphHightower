@@ -1,4 +1,4 @@
-#  Opinion/Donald Trump Is a Fucking Idiot
+#  Opinions/Donald Trump Is a Fucking Idiot
 
 ## 1.	My Personal Opinion
 
