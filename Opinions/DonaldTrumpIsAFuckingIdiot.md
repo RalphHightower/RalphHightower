@@ -120,6 +120,7 @@ Here's a breakdown of the golf and vacation activities for each president during
 If you have any more questions or need further details, feel free to ask!
 
 Source: Conversation with Copilot, 8/26/2024
+
 [^211]: [United States presidential vacations - Wikipedia.](https://en.wikipedia.org/wiki/United_States_presidential_vacations)
 [^212]: [Presidential Vacations - FactCheck.org.](https://www.factcheck.org/2014/08/presidential-vacations/)
 [^213]: [Presidential vacations: Which commander in chief took the most time off?.](https://www.cleveland.com/nation/2017/08/presidential_vacations_who_too.html)
