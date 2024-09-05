@@ -303,6 +303,9 @@ While Oama was president, Trump complained continually that Obama was not an Ame
 
 ## 13.	Legal Troubles
 
+1. Convicted on 34 counts of falsifying business records for hush money payments made to former adult film actor Stormy Daniels 
+2. Guilty of deflating property values to reduce property taxes.
+
 ## 14. Third Campaign — 2024
 
 | News Articles | Date |
