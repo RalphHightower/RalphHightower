@@ -123,6 +123,7 @@ Here's a breakdown of the golf and vacation activities for each president during
 If you have any more questions or need further details, feel free to ask!
 
 Source: Conversation with Copilot, 8/26/2024
+
 [^211]: [United States presidential vacations - Wikipedia.](https://en.wikipedia.org/wiki/United_States_presidential_vacations)
 [^212]: [Presidential Vacations - FactCheck.org.](https://www.factcheck.org/2014/08/presidential-vacations/)
 [^213]: [Presidential vacations: Which commander in chief took the most time off?.](https://www.cleveland.com/nation/2017/08/presidential_vacations_who_too.html)
@@ -146,7 +147,7 @@ Source: Conversation with Copilot, 8/26/2024
 ### Trump's Wives
 
 | Wife | Married | Divorced | Nationality | Settlement | Alimony | Fringe Benefits |
-|---|---|---|
+|---|---|---|---|---|---|---|
 | Ivana Marie Zelníčková[^301] | 1977 | 1990[^313] | Czechoslovakia (until 1993)<br />Czech Republic (from 1993)<br />Austria (from 1973)<br />United States (from 1988) | \$14 million9[^302]<br />a 45-room mansion, Greenwich, Conn.<br />Trump Plaza apartment | \$650,000 annually | use of the 118-room Mar-a-Lago mansion in Florida for one month a year |
 | Marla Maples[^311] | 1993 | 1999[^312]<sup>,</sup>[^322] | American | between 1 – 5 million | | Apartment in one of Trump's buildings |
 | Melania (Melanija) Knavs[^321] | 2005 | *not yet* | Yugoslavia. 1970-1991<br />Slovenia. 1991–present<br />United States. 2006–present.
@@ -190,17 +191,17 @@ Several former Miss USA and Miss Teen USA contestants accused Trump of entering 
 Trump has denied all the allegations against him, saying he has been the victim of media bias, conspiracies, and a political smear campaign. In October 2016, Trump publicly vowed to sue all the women who have made allegations of sexual misconduct against him, as well as The New York Times for publishing the allegations.[^412]
 
 [^411]: Wikipedia – [Donald Trump sexual misconduct allegations](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations?wprov=sfla1)
-[^412]: [Book review of All the President's Women: Donald Trump and the Making of a Predator by Barry Levine and Monique El-Faizy - The Washington Post](https://www.washingtonpost.com/outlook/a-thorough-revolting-history-of-trumps-behavior-toward-women/2019/10/23/3dea9ac4-d00d-11e9-b29b-a528dc82154a_story.html). October 23, 2019 at 12:02 p.m. EDT |
+[^412]: [Book review of All the President's Women: Donald Trump and the Making of a Predator by Barry Levine and Monique El-Faizy - The Washington Post](https://www.washingtonpost.com/outlook/a-thorough-revolting-history-of-trumps-behavior-toward-women/2019/10/23/3dea9ac4-d00d-11e9-b29b-a528dc82154a_story.html). October 23, 2019 at 12:02 p.m. EDT
 
 ## 5.	Not a Savvy Businessman. Multiple Bankruptcies. Scores of Business Failures.
 
 Trump is not the savvy businessman that he thinks he is and brags to everyone that he is.
 
 - Six bank​rupt​cies[^511]
-    1. 1991. In 1991, Trump Taj Mahal was unable to service its debt and filed Chapter 11 bankruptcy. Forbes indicated that this first bankruptcy was the only one where Trump's personal financial resources were involved. Time, however, maintains that \$72 million of his personal money was also involved in a later 2004 bankruptcy.
+   1. 1991. In 1991, Trump Taj Mahal was unable to service its debt and filed Chapter 11 bankruptcy. Forbes indicated that this first bankruptcy was the only one where Trump's personal financial resources were involved. Time, however, maintains that \$72 million of his personal money was also involved in a later 2004 bankruptcy.
     2.  1992. On November 2, 1992, the Trump Plaza Hotel filed Chapter 11 bankruptcy, and Trump lost his 49 percent stake in the luxury hotel to Citibank and five other lenders. In return Trump received more favorable terms on the remaining \$550+ million owed to the lenders, and retain his position as chief executive, though he would not be paid and would not have a role in day-to-day operations.
     3.  2004. Donald Trump's third corporate bankruptcy was on October 21, 2004, involving Trump Hotels & Casino Resorts, the publicly traded holding company for his three Atlantic City casinos and some others. Trump lost over half of his 56% ownership and gave bondholders stock in exchange for surrendering part of the debt. No longer CEO, Trump retained a role as chairman of the board. In May.
-    4.  2005. The company emerged from bankruptcy as Trump Entertainment Resorts Holdings. In his 2007 book, Think BIG and Kick Ass in Business and Life, Trump wrote: "I figured it was the bank's problem, not mine. What the hell did I care? I actually told one bank, __'I told you you shouldn't have loaned me that money. I told you the goddamn deal was no good.'__"[^111]
+    4.  2005. The company emerged from bankruptcy as Trump Entertainment Resorts Holdings. In his 2007 book, Think BIG and Kick Ass in Business and Life, Trump wrote: "I figured it was the bank's problem, not mine. What the hell did I care? I actually told one bank, **'I told you you shouldn't have loaned me that money. I told you the goddamn deal was no good.'**"[^111]
     5.  2009. Trump's fourth corporate bankruptcy occurred in 2009, when Trump and his daughter Ivanka resigned from the board of Trump Entertainment Resorts; four days later the company, which owed investors \$1\.74 billion against its \$2\.06 billion of assets, filed for Chapter 11 bankruptcy. At that time, Trump Entertainment Resorts had three properties in Atlantic City: Trump Taj Mahal, Trump Plaza Hotel and Casino (closed in 2014), and Trump Marina (formerly Trump's Castle, sold in 2011). Trump and some investors bought the company back that same year for \$225 million. As part of the agreement, Trump withdrew a \$100 million lawsuit he had filed against the casino's owners alleging damage to the Trump brand. Trump re-negotiated the debt, reducing by over \}}\$1 billion the repayments required to bondholders.
     6.  2014. Trump sued his former company to remove his name from the buildings since he no longer ran the company, having no more than a 10% stake; he lost the suit. Trump Entertainment Resorts filed again for bankruptcy in 2014 and was purchased by billionaire philanthropist Carl Icahn in 2016, who acquired Trump Taj Mahal in the deal.
 - Failed businesses[^515]<sup>,</sup>[^516]
@@ -328,7 +329,7 @@ While Oama was president, Trump complained continually that Obama was not an Ame
 
 ### An Analysis of Trump's Myriad of Flaws by a Right-Winger Opinion Writer[^1601]. Nicole Russell, USA Today.
 
-[Nicole Russell](https://www.usatoday.com/staff/73221959007/nicole-russell/)[^31] points out the many faults and flaws of Trump, but she thinks that the election is winnable if and only if Trump acts like an adult instead of the man-child, school yard bully, and crybaby.
+[Nicole Russell](https://www.usatoday.com/staff/73221959007/nicole-russell/)[^1601] points out the many faults and flaws of Trump, but she thinks that the election is winnable if and only if Trump acts like an adult instead of the man-child, school yard bully, and crybaby.
 <br />
 *Bless her heart.*
 *– Ralph Hightower*
