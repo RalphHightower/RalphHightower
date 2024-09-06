@@ -1,8 +1,10 @@
-#  Opinions/Donald Trump Is a Fucking Idiot
+# Opinions/Donald Trump Is a Fucking Idiot
 
-## 1.	My Personal Opinion
+## 1. My Personal Opinion
 
 Besides the title of this page, Donald Trump is a temperamental, belligerent, mercurial, egotistical, childish, unintelligent ass; he is unfit, and unqualified to be president of the United States of America.
+
+Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is a large family-run business, which he runs like a dictatorship. 
 
 Leadership is not intimidation and fear. Trump has absolutely, no fucking clue as to how government works. He thinks that he can run government like his family owned business. Trump thinks that he can just bark orders and people will jump through hoops like a circus poodle and that he can fire and hire federal employees at will.
 
@@ -10,7 +12,7 @@ I don't understand this idolatry of Trump and his cult worship.
 
 Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's sycophants. He has he head so far up  Trump's ass that he doesn't know if it's night or day.
 
-[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right. 
+[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
 A true leader recognizes and praises their team for their successes and accepts blame and responsibility when things fail. Trump claims credit for others' accomplishment, the *"I did that all by myself!"*, and blames others for his failures, the *"It's not my fault."*[^111]
 
@@ -29,14 +31,20 @@ In the Trump penthouse, here's how I think he made his decision.
 | Child | "Father, when I grow up, I want to be president."|
 | Trump | "Barron, here. Hold my beer. Watch this."[^112] |
 
-[^112]: A common phrase that often said before something stupid and more than probably disastrous.
+[^112] A common phrase that often said before something stupid and more than probably disastrous.
 
+- Bully
 - Charlatan
 - Cheat
+- Crybaby 
 - Fraud
 - Grifter
 - Huckster
 - Pathological Liar
+- Sore Loser
+- Sore Winner[^113]
+
+[^113]: The *"I got bigger crowds!"* falsehood comparing his inaugural crowd to Obama's. 
 
 **The only person that can convince me that Donald Trump is not a fucking idiot is Donald Trump himself.**
 
@@ -50,7 +58,7 @@ In the Trump penthouse, here's how I think he made his decision.
 
 Trump may act *"presidential"* for five minutes, but it is impossible for him to be an adult.
 
-## 2.	Make America Golf Again
+## 2. Make America Golf Again
 
 ### Conversation with Copilot
 
@@ -139,7 +147,7 @@ Source: Conversation with Copilot, 8/26/2024
 [^216]: https://instagram.com/ryanballengee
 [^217]: https://youtube.com/@ryanballengeegolf
 
-## 3.	Personal Life
+## 3. Personal Life
 
 ### Trump's Wives
 
@@ -175,7 +183,7 @@ It is my opinion that Trump was *"test driving"* Marla Maples while still marrie
 
 Donald Trump has the same problem that Bill Clinton does.[^351]
 
-[^351]:  A problem with their zipper. 
+[^351]: A problem with their zipper. 
 
 #### [Donald Trump sexual misconduct allegations](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations?wprov=sfla1)
 
@@ -248,9 +256,9 @@ Trump is not the savvy businessman that he thinks he is and brags to everyone th
     40. Trump's Travel Site — GoTrump.com was in business for one year. Failed.
     41. Trumpnet — A telephone communication company that abandoned its trademark.
     42. Truth Social — This existing Trump business owes big money, and may well be breathing its last.
-3. By mid-2016, it was alleged that the organization, specifically under the leadership of Donald Trump, had a history of not paying for services rendered. Several hundred contractors or workers for the organization have filed lawsuits or liens saying they were not paid for their work, and others say they had to settle for cents on the dollar.[^513]
-4. Convicted of tax fraud for inflating property values for better finance terms and rates and deflating property values for property tax. NY. This practice of inflating and deflating property values when convenient is sure to occur in other states where Trump owns property.
-5. Convicted on 34 counts of falsifying business records for hush money payments made to former adult film actor Stormy Daniels.
+4. By mid-2016, it was alleged that the organization, specifically under the leadership of Donald Trump, had a history of not paying for services rendered. Several hundred contractors or workers for the organization have filed lawsuits or liens saying they were not paid for their work, and others say they had to settle for cents on the dollar.[^513]
+5. Convicted of tax fraud for inflating property values for better finance terms and rates and deflating property values for property tax. NY. This practice of inflating and deflating property values when convenient is sure to occur in other states where Trump owns property.
+6. Convicted on 34 counts of falsifying business records for hush money payments made to former adult film actor Stormy Daniels.
 
 [The RNC Has Been Bankrolling Trump's Legal Bills. If He Runs, They're Cutting Him Off. / Vanity Fair](https://www.vanityfair.com/news/2022/07/rnc-trump-running-2024-legal-bills). July 28, 2022
 
@@ -271,16 +279,16 @@ Chairman Neal’s request for Trump’s taxes came after the president’s ex-la
 
 [11 Takeaways From The Times’s Investigation Into Trump’s Wealth - The New York Times](https://www.nytimes.com/2018/10/02/us/politics/donald-trump-wealth-fred-trump.html). Oct. 2, 2018
 1. "The Trumps’ tax maneuvers show a pattern of deception, tax experts say"
-2.  "Donald Trump began reaping wealth from his father’s real estate empire as a toddler"
-3.  "That ‘small loan’ of $1 million was actually at least $60.7 million — much of it never repaid"
-4.  "Fred Trump wove a safety net that rescued his son from one bad bet after another"
-5.  "The Trumps turned an $11 million loan debt into a legally questionable tax write-off"
-6.  "Father and son set out to create the myth of a self-made billionaire"
-7.  "Donald Trump tried to change his ailing father’s will, setting off a family reckoning"
-8.  "The Trumps created a company that siphoned cash from the empire"
-9.  "The Trump parents dodged hundreds of millions in gift taxes by grossly undervaluing the assets they would pass on"
-10.   "After Fred Trump’s death, his empire’s most valuable asset was an I.O.U. from Donald Trump"
-11.  "Donald Trump got a windfall when the empire was sold. But he may have left money on the table."
+2. "Donald Trump began reaping wealth from his father’s real estate empire as a toddler"
+3. "That ‘small loan’ of $1 million was actually at least $60.7 million — much of it never repaid"
+4. "Fred Trump wove a safety net that rescued his son from one bad bet after another"
+5. "The Trumps turned an $11 million loan debt into a legally questionable tax write-off"
+6. "Father and son set out to create the myth of a self-made billionaire"
+7. "Donald Trump tried to change his ailing father’s will, setting off a family reckoning"
+8. "The Trumps created a company that siphoned cash from the empire"
+9. "The Trump parents dodged hundreds of millions in gift taxes by grossly undervaluing the assets they would pass on"
+10. "After Fred Trump’s death, his empire’s most valuable asset was an I.O.U. from Donald Trump"
+11. "Donald Trump got a windfall when the empire was sold. But he may have left money on the table."
 
 ## 7. Everything Is a Transaction to Trump. Even Relationships
 
@@ -290,19 +298,23 @@ I questioned the mental acuity of South Carolina's Lieutenant Governor, Henry Mc
 
 [^711]: Everything is a transaction for Trump. He *"buys"* people and disposes of them when they no longer are of value to him.
 
-## 8.	Barak Obama
+## 8. Barak Obama
 
 While Oama was president, Trump complained continually that Obama was not an American and demand proof that he was, in fact, born in America. Trump also whined that Obama plays too much golf, which I find ironic since Trump golfs as much as possible at his golf courses.
 
-## 9.	2016
+## 9. 2016
 
-## 10.	45th President
+## 10. 45th President
 
-## 11.	False Election Claims
+### International Embarrassment and Mockery 
 
-## 12.	January 6, 2021
+Trump adores strong-man dictators. He considers Putin of Russia and Kim Jung Un of North Korea, and China's leader as friends, while our allies are enemies. 
 
-## 13.	Legal Troubles
+## 11. False Election Claims
+
+## 12. January 6, 2021
+
+## 13. Legal Troubles
 
 ## 14. Third Campaign — 2024
 
@@ -326,7 +338,7 @@ While Oama was president, Trump complained continually that Obama was not an Ame
 
 ### [Agenda 47](https://en.wikipedia.org/wiki/Agenda_47?wprov=sfla1)
 
-## 16. Other	Op-Ed
+## 16. Other Op-Ed
 
 ### An Analysis of Trump's Myriad of Flaws by a Right-Winger Opinion Writer[^1601]. Nicole Russell, USA Today.
 
@@ -379,9 +391,9 @@ While Oama was president, Trump complained continually that Obama was not an Ame
 
 Overall, Trump ranks 41 of 44, above Franklin Pierce (42),  Andrew Johnson (43), and James Buchanan (44)
 
-# A. Definitions
+## A. Definitions
 
-##  [Acolyte — Merriam-Webster](http://www.merriam-webster.com/dictionary/acolyte)
+###  [Acolyte — Merriam-Webster](http://www.merriam-webster.com/dictionary/acolyte)
 
 noun<br />
 ac·​o·​lyte | \ ˈa-kə-ˌlīt , -kō- \<br />
@@ -400,7 +412,7 @@ First Known Use<br />
 History and Etymology<br />
 Middle English acolite, borrowed from Anglo-French & Medieval Latin; Anglo-French acolit, borrowed from Medieval Latin acolūthus, acolythus, acolitus, going back to Late Latin, "person assisting the priest," borrowed from Middle Greek akólouthos, going back to Greek, "following, (as noun) follower, attendant," from a- (variant, before a following aspirate consonant, of ha- "having one, having the same," going back to Indo-European sm̥-) + -kolouthos (ablaut form, in a compound, of kéleuthos "path"); akin to Greek heîs "one," homós "same" and perhaps to Greek keleúein "to direct forward, urge on" — more at same entry 1, hold entry 1 <br />
 
-## [Sycophant — Merriam-Webster](http://www.merriam-webster.com/dictionary/sycophant)
+### [Sycophant — Merriam-Webster](http://www.merriam-webster.com/dictionary/sycophant)
 
 noun<br />
 sy·​co·​phant | \ ˈsi-kə-fənt , also ˈsī-, -ˌfant \<br />
@@ -418,7 +430,7 @@ History and Etymology<br />
 borrowed from Latin sȳcophanta, borrowed from Greek sȳkophántēs, literally, "one who shows the fig," from sŷkon "fig" (perhaps in reference to an apotropaic gesture made by inserting the thumb between the index and second fingers) + -phantēs, agentive derivative of phaínein "to reveal, show, make known"; perhaps from the use of such a gesture in denouncing a culprit — more at fig entry 1, fantasy entry 1<br />
 NOTE: The origin of Greek sȳkophántēs, applied in ancient Athens to private individuals who brought prosecutions in which they had no personal stake, was already under debate by ancient writers. The "apotropaic gesture" hypothesis given here was presented early on by Arthur Bernard Cook ("CΥΚΟΦΑΝΤΗC," The Classical Review, vol. 21, issue 5 [August, 1907], pp. 133-36); Cook also usefully summarizes ancient speculation (as the idea that the original sȳkophántēs denounced those who illegally exported figs from Attica). The objection has been made that the basic notion "one who makes the fig gesture" does not account for the extremely negative connotations of the word ("slanderer, calumniator, etc."), but other explanations (as, for example, that a sȳkophántēs revealed figs hidden in a malefactor's clothing, or initiated a prosecution for something of as little value as a fig) seem even less likely. A more nuanced, if not entirely convincing account, based on presumed fig metaphors in Athenian culture, is in Danielle Allen, The World of Prometheus: The Politics of Punishing in Democratic Athens (Princeton University Press, 2000), p. 156 passim. — The application of sycophant to a flatterer, which departs entirely from the Greek meaning, is peculiar to the history of the word in English. In the sixteenth century English writers seem to have applied sycophant in particular to slanderous accusers who had found their way into the retinue of the powerful. Once the word became a generally used label for ill-willed people close to those in power, it presumably became associated with obsequious flattery, a stereotypical negative quality of such people.<br />
 
-##  [Nepotism — Merriam-Webster](http://www.merriam-webster.com/dictionary/nepotism)
+###  [Nepotism — Merriam-Webster](http://www.merriam-webster.com/dictionary/nepotism)
 
 noun<br />
 nep·​o·​tism | \ ˈne-pə-ˌti-zəm  \<br />
@@ -434,7 +446,7 @@ First Known Use<br />
 History and Etymology<br />
 French népotisme, from Italian nepotismo, from nepote nephew, from Latin nepot-, nepos grandson, nephew — more at nephew<br />
 
-## [Cronyism — Merriam-Webster](http://www.merriam-webster.com/word-of-the-day/2024/09/03/)
+### [Cronyism — Merriam-Webster](http://www.merriam-webster.com/word-of-the-day/2024/09/03/)
 
 What It Means<br />
 Cronyism is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications.<br />
