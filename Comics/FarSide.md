@@ -18,11 +18,7 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
-| [Why Gary Larson’s The Far Side Garnered So Much Controversy, Explained](https://www.cbr.com/gary-larson-the-far-side-controversy-explained/) | September 2, 2024 |
-| [10 Funniest The Far Side Comics with Cavemen](https://www.cbr.com/the-far-side-best-cavemen-comics/) | September 1, 2024 |
-| [The Most Clever Gary Larson The Far Side Comic Strips](https://www.cbr.com/far-side-clever-comics/) | August 30, 2024 |
-| [Far Side's Best Comics Without Words](https://www.cbr.com/best-far-side-comics-no-words/) | August 30, 2024 |
-| [10 Best The Far Side Collections, Ranked](https://www.cbr.com/the-far-side-best-collections/) | August 28, 2024 |
+| [10 Darkest Gary Larson's The Far Side Comics, Ranked](https://www.cbr.com/gary-larsons-darkest-the-far-side-comics/) | September 4, 2024 |
 | [15 Best The Far Side Comics Featuring Dogs](https://www.cbr.com/the-far-side-best-dog-comics/) | August 21, 2024 |
 | [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/far-side-cow-tools-confusion-gary-larson-letter/) | August 18, 2024 |
 | [10 Weirdest The Far Side Comics, Ranked](https://www.cbr.com/the-far-side-weirdest-comics/) | August 14. 2024 |
@@ -47,16 +43,7 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
-| [Far Side's Gary Larson Warned Aspiring Cartoonists To Avoid This 1 Word](https://screenrant.com/far-side-gary-larson-avoid-word-boink/) | September 4, 2024 |
-| [12 Far Side Comics Comics From 1986 Designed To Make Readers Go “WHAT-THE?”](https://screenrant.com/far-side-comics-1986-what-the/) | September 3, 2024 |
-| [The Far Side's First 5 Cow Comics & Last 5 Cow Comics (And How Gary Larson's Style Evolved In Between)](https://screenrant.com/far-side-cow-comics-first-5-last-5/) | September 3, 2024 |
-| [10 Hilarious Far Side Comics Starring Spiders](https://screenrant.com/funniest-far-side-comics-starring-spiders/) | September 2, 2024 |
-| [Gary Larson Admits His Biggest Regret in Far Side History](https://screenrant.com/far-side-dogs-playing-poker-artist-gary-larson/) | August 31, 2024 |
-| [10 Funniest Far Side Comics At The Beach](https://screenrant.com/funniest-far-side-beach-comics/) | August 31, 2024 |
-| [10 Funniest Far Side Comics That Just Turned 30](https://screenrant.com/funniest-far-side-comic-july-1994-vikings/) | August 29, 2024 |
-| [Far Side Creator Gary Larson Brilliantly Described the Difference Between Cartoonists and Comedians](https://screenrant.com/far-side-creator-gary-larson-difference-between-cartoonists-comedians/) | August 28, 2024 |
-[10 Perfect Far Side Comics About Penguins](https://screenrant.com/10-hilarious-far-side-comics-penguins-gary-larson/) | August 27, 2024 |
-| [10 Funniest The Far Side Comics Featuring Chickens, Ranked](https://www.cbr.com/the-far-side-best-chicken-comics/) | August 26, 2024 |
+| [11 Historic Appearances Of The Far Side's Recurring Caveman Character THAG (Including the Famous One)](https://screenrant.com/far-side-comics-starring-thag-recurring-caveman/) | September 5, 2024 |
 | [The Hilarious Way Far Side's Confusing Humor Came Back To Haunt Gary Larson](https://screenrant.com/far-side-gary-larson-confusion-payback-anecdote/) | August 25, 2024 |
 | [10 Hilarious Far Side Comics Starring Anthropomorphized Flies](https://screenrant.com/10-hilarious-far-side-comics-santhropomorphized-flies-larson/) | August 25, 2024 |
 | ["The Great Confuser": Far Side's Gary Larson On How & Why His Weirdest Cartoons Got Published](https://screenrant.com/far-side-confusing-jokes-weirdest-cartoons-gary-larson/) | August 24, 2024 |
