@@ -2,36 +2,18 @@
 
 ## 1. My Personal Opinion
 
-Besides the title of this page, Donald Trump is a temperamental, belligerent, mercurial, egotistical, childish, unintelligent ass; he is unfit, and unqualified to be president of the United States of America.
-
-Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is a large family-run business, which he runs like a dictatorship. 
-
-Leadership is not intimidation and fear. Trump has absolutely, no fucking clue as to how government works. He thinks that he can run government like his family owned business. Trump thinks that he can just bark orders and people will jump through hoops like a circus poodle and that he can fire and hire federal employees at will.
-
-I don't understand this idolatry of Trump and his cult worship.
-
-Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's sycophants. He has he head so far up  Trump's ass that he doesn't know if it's night or day.
-
-[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
-
-A true leader recognizes and praises their team for their successes and accepts blame and responsibility when things fail. Trump claims credit for others' accomplishment, the *"I did that all by myself!"*, and blames others for his failures, the *"It's not my fault."*[^111]
-
-[^111]: **The Victim Card.** Trump plays the victim card when things don't go his way, or f ail. *"It's not my fault. It's the Democrats fault."* Or someone else's fault.
-
 Both political parties fucked up in 2016.
 - The Democrats chose Hillary because it was *"her turn"*.
 - Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
-
-Trump cannot handle the abuse and criticism that he dishes out to others. For the life of me, I cannot fathom why Trump chose to run. Here’s how I think that Trump decided.
 
 In the Trump penthouse, here's how I think he made his decision.
 
 |   |   |
 |---|---|
 | Child | "Father, when I grow up, I want to be president."|
-| Trump | "Barron, here. Hold my beer. Watch this."[^112] |
+| Trump | "Barron, here. Hold my beer. Watch this."[^111] |
 
-[^112] A common phrase that often said before something stupid and more than probably disastrous.
+[^111]: A common phrase that often said before something stupid and more than probably disastrous.
 
 - Bully
 - Charlatan
@@ -42,9 +24,38 @@ In the Trump penthouse, here's how I think he made his decision.
 - Huckster
 - Pathological Liar
 - Sore Loser
-- Sore Winner[^113]
+- Sore Winner[^112]
+- Zipper Problems 
 
-[^113]: The *"I got bigger crowds!"* falsehood comparing his inaugural crowd to Obama's. 
+[^112]: The *"I got bigger crowds!"* falsehood comparing his inaugural crowd to Obama's. 
+
+### Unfit and Unqualified 
+
+Besides the title of this page, Donald Trump is a temperamental, belligerent, mercurial, egotistical, childish, unintelligent ass; he is unfit, and unqualified to be president of the United States of America.
+Trump cannot handle the abuse and criticism that he dishes out to others. For the life of me, I cannot fathom why Trump chose to run. Here’s how I think that Trump decided.
+
+### Government Ain't Business 
+
+Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is a large family-run business, which he runs like a dictatorship. 
+
+### Leadership 
+
+Leadership is not intimidation and fear. Trump has absolutely, no fucking clue as to how government works. He thinks that he can run government like his family owned business. Trump thinks that he can just bark orders and people will jump through hoops like a circus poodle and that he can fire and hire federal employees at will.
+A true leader recognizes and praises their team for their successes and accepts blame and responsibility when things fail. Trump claims credit for others' accomplishment, the *"I did that all by myself!"*, and blames others for his failures, the *"It's not my fault."*[^113]
+
+[^113]: **The Victim Card.** Trump plays the victim card when things don't go his way, or f ail. *"It's not my fault. It's the Democrats fault."* Or someone else's fault.
+
+### Cult Worship and Idolatry 
+
+I don't understand this idolatry of Trump and his cult worship.
+
+#### Acolytes and Sycophants 
+
+Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's sycophants. He has he head so far up  Trump's ass that he doesn't know if it's night or day.
+
+[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
+
+### The Only Person That Can Change My Assessment of Trump 
 
 **The only person that can convince me that Donald Trump is not a fucking idiot is Donald Trump himself.**
 
@@ -230,7 +241,7 @@ Trump is not the savvy businessman that he thinks he is and brags to everyone th
     14. Trump Casino in Indiana.
     15. Trump Castle (renamed Trump Marina in 1997) in Atlantic City, New Jersey; sold to Landry’s, Inc. in 2011 and renamed the Golden Nugget Atlantic City.
     16. Trump Chocolate
-    17. Trump Club Privee Casino - Canouan - Saint Vincent[citation needed]
+    17. Trump Club Privee Casino - Canouan - Saint Vincent<sup>[citation needed]</suo>
     18. Trump Drinks (energy drink for the Israeli and Palestinian markets)
     19. Trump Entertainment Resorts. Atlantic City, New Jersey. 1995 — 2016.
     20. Trump Fragrances — Success by Trump, Empire by Trump, and Donald Trump: The Fragrances all failed due to being discontinued, perhaps as a result of few sales.
@@ -323,15 +334,15 @@ Trump adores strong-man dictators. He considers Putin of Russia and Kim Jung Un 
 
 | News Articles | Date |
 |---|---|
-| ['Are You Seriously This Stupid?': Legal Minds Nail Trump After Fox News 'Confession'](https://www.huffpost.com/entry/donald-trump-election-interference-confession_n_66d5592ce4b0f968d26d1ba2)</>“Whoever heard you get indicted for interfering with a presidential election, where you have every right to do it, you get indicted, and your poll numbers go up,” he said. Trump is facing charges in multiple jurisdictions and cases, including election interference in a criminal case filed in federal court in Washington. Last week, he was reindicted to comply with directions from the Supreme Court, which in July ruled that Trump was immune from prosecution for “official acts.”</></>On Sunday, however, Trump flat out said he had “every right” to have been “interfering” with the election.</></>Lawmakers, former prosecutors, attorneys and other legal minds were ready with a fact-check ― and some said it sounded like Trump was admitting to a crime: | September 2, 2024 |
+| ['Are You Seriously This Stupid?': Legal Minds Nail Trump After Fox News 'Confession' • Huffington Post](https://www.huffpost.com/entry/donald-trump-election-interference-confession_n_66d5592ce4b0f968d26d1ba2)</>“Whoever heard you get indicted for interfering with a presidential election, where you have every right to do it, you get indicted, and your poll numbers go up,” he said. Trump is facing charges in multiple jurisdictions and cases, including election interference in a criminal case filed in federal court in Washington. Last week, he was reindicted to comply with directions from the Supreme Court, which in July ruled that Trump was immune from prosecution for “official acts.”</></>On Sunday, however, Trump flat out said he had “every right” to have been “interfering” with the election.</></>Lawmakers, former prosecutors, attorneys and other legal minds were ready with a fact-check ― and some said it sounded like Trump was admitting to a crime: | September 2, 2024 |
 | [Donald Trump says he had 'every right' to interfere in election](https://thehill.com/homenews/campaign/4858494-donald-trump-election-interference-cases/)</>Former President Trump in an interview broadcast late Sunday argued he had “every right” to interfere with the 2020 election while repeating his claim the criminal election interference cases against him are politically motivated.</></>“It’s so crazy, that my poll numbers go up. Whoever heard you get indicted for interfering with a presidential election, where you have every right to do it, you get indicted, and your poll numbers go up. When people get indicted your poll numbers go down,” Trump said in an interview on Fox News’s “Life, Liberty and Levin.” | 09/02/24 08:28 AM ET |
-| [Musical Acts Who've Called Out 2024 Trump Campaign for Illegal Use of Their Songs](https://www.hollywoodreporter.com/news/politics-news/muscial-acts-trump-campaign-illegal-use-songs-1235988369/) | August 31, 2024 |
-| [Jen Psaki Spots Ugly Sign Right-Wingers Know They're 'Probably Losing'](https://www.huffpost.com/entry/jen-psaki-tim-walz-dog_n_66cd735ee4b077694c47577b)[^1401] <br />“They’ve now resorted to attacking the family dog,” she said. “I really wish I was joking. I am not joking.” “If you resort to attacking a candidate’s dog, you’re probably losing,” Psaki said. “And you deserve all the ridicule coming your way.” <br />“Mystery solved,” Psaki said. “Of course, this is a particularly ironic attack coming from the party whose own rising star ― you know who I’m about to talk about here, [Kristi Noem](https://www.huffpost.com/topic/kristi-noem) boasted about hating her own family dog so much she [took it to a gravel pit and shot it](https://www.huffpost.com/entry/kristi-noem-defends-shooting-dog_n_662f9dc8e4b0eb5fda50dc8c)". | August 27, 2024  |
+| [Musical Acts Who've Called Out 2024 Trump Campaign for Illegal Use of Their Songs • Hollywood Reporter](https://www.hollywoodreporter.com/news/politics-news/muscial-acts-trump-campaign-illegal-use-songs-1235988369/) | August 31, 2024 |
+| [Jen Psaki Spots Ugly Sign Right-Wingers Know They're 'Probably Losing' • Huffington Post](https://www.huffpost.com/entry/jen-psaki-tim-walz-dog_n_66cd735ee4b077694c47577b)[^1401] <br />“They’ve now resorted to attacking the family dog,” she said. “I really wish I was joking. I am not joking.” “If you resort to attacking a candidate’s dog, you’re probably losing,” Psaki said. “And you deserve all the ridicule coming your way.” <br />“Mystery solved,” Psaki said. “Of course, this is a particularly ironic attack coming from the party whose own rising star ― you know who I’m about to talk about here, [Kristi Noem](https://www.huffpost.com/topic/kristi-noem) boasted about hating her own family dog so much she [took it to a gravel pit and shot it](https://www.huffpost.com/entry/kristi-noem-defends-shooting-dog_n_662f9dc8e4b0eb5fda50dc8c)". | August 27, 2024  |
 | [Finally, the Democrats Have Found Trump’s Achilles’ Heel: Ridicule Him / The New Republic](https://newrepublic.com/article/185270/democrats-harris-trump-achilles-heel-ridicule) <br />Ridicule makes him weaker. Ridicule makes him small. Ridicule makes him desperate. He’ll try to respond with ridicule of his own, but he is not a clever man. He’s a stupid man. He has no wit. He has no sense of mischief. He doesn’t read. He doesn’t think beyond first reactions. These nicknames of his, which the press has made such a big deal of over the years—they’re nothing. They’re dick contests put into words. Little Marco, Sleepy Joe. There’s nothing remotely clever about any of them. | August 26, 2024 |
 | [Trump campaign was warned not to take photos at Arlington before altercation, defense official says / AP News](https://apnews.com/article/trump-arlington-cemetery-altercation-afghanistan-3f0331e9209336a9b696ec164be7eb1c).<br />“Federal law prohibits political campaign or election-related activities within Army National Military Cemeteries, to include photographers, content creators or any other persons attending for purposes, or in direct support of a partisan political candidate’s campaign,” the cemetery officials’ statement said. “Arlington National Cemetery reinforced and widely shared this law and its prohibitions with all participants. We can confirm there was an incident, and a report was filed.” | August 27, 2024 |
-| [Opinion: The ideas in Project 2025? Reagan tried them, and the nation suffered](https://www.latimes.com/opinion/story/2024-08-25/project-2025-trump-heritage-foundation-election) | August 24, 2024 |
-| [Donald Trump admits EV flip-flop was a quid-pro-quo to secure Elon Musk’s support](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/) | August 5, 2024 at 8:48 AM EDT |
-| [Trump targets Harris, Walz with entirely made-up claims](https://www.msnbc.com/rachel-maddow-show/maddowblog/donald-trump-targets-kamala-harris-tim-walz-claims-election-2024-rcna168458) | August 27, 2024 |
+| [Opinion: The ideas in Project 2025? Reagan tried them, and the nation suffered • LA Times](https://www.latimes.com/opinion/story/2024-08-25/project-2025-trump-heritage-foundation-election) | August 24, 2024 |
+| [Donald Trump admits EV flip-flop was a quid-pro-quo to secure Elon Musk’s support • Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/) | August 5, 2024 at 8:48 AM EDT |
+| [Trump targets Harris, Walz with entirely made-up claims • MSNBC](https://www.msnbc.com/rachel-maddow-show/maddowblog/donald-trump-targets-kamala-harris-tim-walz-claims-election-2024-rcna168458) | August 27, 2024 |
 
 [^1401]: Personal attacks on the Waltz's family dog. ***Seriously?***
 
@@ -382,7 +393,7 @@ Trump adores strong-man dictators. He considers Putin of Russia and Kim Jung Un 
 | Public Persuasion	| 43.9 | 32 |
 | Crisis Leadership	| 26.5 | 41 |
 | Economic Management |	42.7 | 34 |
-| Moral Authority	| 18.7 | 44[^1601] |
+| Moral Authority	| 18.7 | 44[^1701] |
 | International Relations |	33.3 |	43 |
 | Administrative Skills	| 22.8	| 44 |
 | Relations with Congress |	28.6 | 42 |
@@ -461,4 +472,4 @@ See the entry ><br />
 Examples:<br />
 “Expertise, not cronyism, is needed to determine which strategies are most likely to lead to meaningful gains.” — Time, 23 Aug. 2023<br />
 Did you know?<br />
-The word cronyism evolved in the 19th century as a spin-off of crony, meaning “friend” or “pal.” In its younger days, cronyism simply meant “friendship,” or “the ability to make friends.” The word didn’t turn bad until the next century, when Americans starting using it to refer to the act of playing political favorites. If cronyism is new to your vocabulary, perhaps you’re more familiar with the related term nepotism, meaning “favoritism based on kinship, especially in professional and political contexts.”<br />
+The word cronyism evolved in the 19th century as a spin-off of crony, meaning “friend” or “pal.” In its younger days, cronyism simply meant “friendship,” or “the ability to make friends.” The word didn’t turn bad until the next century, when Americans starting using it to refer to the act of playing political favorites. If cronyism is new to your vocabulary, perhaps you’re more familiar with the related term nepotism, meaning “favoritism based on kinship, especially in professional and political contexts.”
