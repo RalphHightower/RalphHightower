@@ -6,15 +6,6 @@ Both political parties fucked up in 2016.
 - The Democrats chose Hillary because it was *"her turn"*.
 - Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
 
-In the Trump penthouse, here's how I think he made his decision.
-
-|   |   |
-|---|---|
-| Child | "Father, when I grow up, I want to be president."|
-| Trump | "Barron, here. Hold my beer. Watch this."[^111] |
-
-[^111]: A common phrase that often said before something stupid and more than probably disastrous.
-
 - Bully
 - Charlatan
 - Cheat
@@ -24,15 +15,24 @@ In the Trump penthouse, here's how I think he made his decision.
 - Huckster
 - Pathological Liar
 - Sore Loser
-- Sore Winner[^112]
+- Sore Winner[^111]
 - Zipper Problems 
 
-[^112]: The *"I got bigger crowds!"* falsehood comparing his inaugural crowd to Obama's. 
+[^111]: The *"I got bigger crowds!"* falsehood comparing his inaugural crowd to Obama's. 
 
 ### Unfit and Unqualified 
 
 Besides the title of this page, Donald Trump is a temperamental, belligerent, mercurial, egotistical, childish, unintelligent ass; he is unfit, and unqualified to be president of the United States of America.
 Trump cannot handle the abuse and criticism that he dishes out to others. For the life of me, I cannot fathom why Trump chose to run. Here’s how I think that Trump decided.
+
+In the Trump penthouse, here's how I think he made his decision.
+
+|   |   |
+|---|---|
+| Child | "Father, when I grow up, I want to be president."|
+| Trump | "Barron, here. Hold my beer. Watch this."[^112] |
+
+[^112]: A common phrase that often said before something stupid and more than probably disastrous.
 
 ### Government Ain't Business 
 
