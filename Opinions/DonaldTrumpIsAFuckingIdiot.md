@@ -6,15 +6,19 @@ Both political parties fucked up in 2016.
 - The Democrats chose Hillary because it was *"her turn"*.
 - Whereas the Republicans chose the worst of the worst. The Republican Party died in 2016. It is now the Trump Party, and also his legal defense fund for business, personal, and also government legal problems.
 
+Characteristics of Trump:
+
 - Bully
 - Charlatan
-- Cheat
+- Cheater
 - Crybaby 
 - Fraud
 - Grifter
 - Huckster
 - Pathological Liar
+- Philanderer
 - Sore Loser
+- Spoiled Brat
 - Sore Winner[^111]
 - Zipper Problems 
 
@@ -23,7 +27,8 @@ Both political parties fucked up in 2016.
 ### Unfit and Unqualified 
 
 Besides the title of this page, Donald Trump is a temperamental, belligerent, mercurial, egotistical, childish, unintelligent ass; he is unfit, and unqualified to be president of the United States of America.
-Trump cannot handle the abuse and criticism that he dishes out to others. For the life of me, I cannot fathom why Trump chose to run. Here’s how I think that Trump decided.
+
+Trump cannot handle the abuse and criticism that he dishes out to others. Presidents live under a microscope where every action, or inaction is scrutinized and either praised or condemned. It's *damn if you do, damn if you don't. For the life of me, I cannot fathom why Trump chose to run.
 
 In the Trump penthouse, here's how I think he made his decision.
 
@@ -36,11 +41,12 @@ In the Trump penthouse, here's how I think he made his decision.
 
 ### Government Ain't Business 
 
-Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is a large family-run business, which he runs like a dictatorship. 
+Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is *simply* a large family-run business, which he runs like a dictatorship. 
 
 ### Leadership 
 
 Leadership is not intimidation and fear. Trump has absolutely, no fucking clue as to how government works. He thinks that he can run government like his family owned business. Trump thinks that he can just bark orders and people will jump through hoops like a circus poodle and that he can fire and hire federal employees at will.
+
 A true leader recognizes and praises their team for their successes and accepts blame and responsibility when things fail. Trump claims credit for others' accomplishment, the *"I did that all by myself!"*, and blames others for his failures, the *"It's not my fault."*[^113]
 
 [^113]: **The Victim Card.** Trump plays the victim card when things don't go his way, or f ail. *"It's not my fault. It's the Democrats fault."* Or someone else's fault.
@@ -106,7 +112,6 @@ Here’s a breakdown of the golf and vacation activities for each president duri
     - First Term (2017-2021):
         - Golf: Played 308 rounds of golf[^217].
         - Vacation: Took 381 vacation days[^218].
-
 If you have any more questions or need further details, feel free to ask!
 
 Here's a breakdown of the golf and vacation activities for each president during their terms:
@@ -136,6 +141,7 @@ Here's a breakdown of the golf and vacation activities for each president during
 - **First Term (2017-2021)**:
   - **Golf**: Played 308 rounds of golf⁷.
   - **Vacation**: Took 381 vacation days⁸.
+
 If you have any more questions or need further details, feel free to ask!
 
 Source: Conversation with Copilot, 8/26/2024
@@ -168,11 +174,7 @@ Source: Conversation with Copilot, 8/26/2024
 | Marla Maples[^311] | 1993 | 1999[^312]<sup>,</sup>[^322] | American | between 1 – 5 million | | Apartment in one of Trump's buildings |
 | Melania (Melanija) Knavs[^321] | 2005 | *not yet* | Yugoslavia. 1970-1991<br />Slovenia. 1991–present<br />United States. 2006–present.
 
-In 2018, Knavs and her husband, Viktor, obtained green cards and then became naturalized U.S. citizens using the U.S.'s family-based immigration program, which Trump had denounced as "chain migration".[^323]<br />
-
-Correal, Annie; Cochrane, Emily (August 9, 2018). "Melania Trump's Parents Become U.S. Citizens, Using 'Chain Migration' Trump Hates". The New York Times. Archived from the original on April 24, 2022. Retrieved January 10, 2024.<br />
-
-[4] Cochrane, Emily (February 21, 2018). "Questions Swirl as Melania Trump's Parents Obtain Green Cards". The New York Times. Washington. Archived from the original on January 10, 2024. Retrieved January 10, 2024.<br />
+In 2018, Knavs and her husband, Viktor, obtained green cards and then became naturalized U.S. citizens using the U.S.'s family-based immigration program, which Trump had denounced as "chain migration".[^323]<br />Correal, Annie; Cochrane, Emily (August 9, 2018). "Melania Trump's Parents Become U.S. Citizens, Using 'Chain Migration' Trump Hates". The New York Times. Archived from the original on April 24, 2022. Retrieved January 10, 2024.<br />[4] Cochrane, Emily (February 21, 2018). "Questions Swirl as Melania Trump's Parents Obtain Green Cards". The New York Times. Washington. Archived from the original on January 10, 2024. Retrieved January 10, 2024.<br />
 
 [Melania Trump’s Parents Become U.S. Citizens, Using ‘Chain Migration’ Trump Hates - The New York Times](https://web.archive.org/web/20220424173843/https://www.nytimes.com/2018/08/09/nyregion/melania-trumps-parents-become-us-citizens.html). Aug. 9, 2018
 
@@ -196,11 +198,11 @@ Donald Trump has the same problem that Bill Clinton does.[^351]
 
 [^351]: A problem with their zipper. 
 
-#### [Donald Trump sexual misconduct allegations](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations?wprov=sfla1)
+#### Wikipedia – [Donald Trump sexual misconduct allegations](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations?wprov=sfla1)
 
-#### [Stormy Daniels–Donald Trump scandal](https://en.wikipedia.org/wiki/Stormy_Daniels%E2%80%93Donald_Trump_scandal?wprov=sfla1)
+#### Wikipedia – [Stormy Daniels–Donald Trump scandal](https://en.wikipedia.org/wiki/Stormy_Daniels%E2%80%93Donald_Trump_scandal?wprov=sfla1)
 
-#### [Karen McDougal](https://en.wikipedia.org/wiki/Karen_McDougal#Alleged_affair_with_Donald_Trump?wprov=sfla1)
+#### Wikipedia – [Karen McDougal](https://en.wikipedia.org/wiki/Karen_McDougal#Alleged_affair_with_Donald_Trump?wprov=sfla1)
 
 ## 4. Donald Trump is a Perv and Voyuer
 
@@ -289,6 +291,7 @@ Chairman Neal’s request for Trump’s taxes came after the president’s ex-la
 ### [Trump Engaged in Suspect Tax Schemes as He Reaped Riches From His Father - The New York Times](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html). Oct. 2, 2018
 
 [11 Takeaways From The Times’s Investigation Into Trump’s Wealth - The New York Times](https://www.nytimes.com/2018/10/02/us/politics/donald-trump-wealth-fred-trump.html). Oct. 2, 2018
+
 1. "The Trumps’ tax maneuvers show a pattern of deception, tax experts say"
 2. "Donald Trump began reaping wealth from his father’s real estate empire as a toddler"
 3. "That ‘small loan’ of $1 million was actually at least $60.7 million — much of it never repaid"
@@ -305,13 +308,16 @@ Chairman Neal’s request for Trump’s taxes came after the president’s ex-la
 
 [Donald Trump admits EV flip-flop was a quid pro quo to secure Elon Musk’s support / Fortune](https://fortune.com/2024/08/05/donald-trump-elon-musk-tesla-endorsement/)[^711]. August 5, 2024 at 8:48 AM EDT
 
-I questioned the mental acuity of South Carolina's Lieutenant Governor, Henry McMaster, when he endorsed Trump for president. Looking back on Trump selecting then South Carolina Governor Nikki Haley to be the US delegate to the United Nations, it makes perfect sense. Trump, "Psst. Hey Henry, if you endose me for president, I'll make you Governor of South Carolina." McMaster: "You got yourself a deal!"
+I questioned the mental acuity of South Carolina's Lieutenant Governor, Henry McMaster, when he endorsed Trump for president. Looking back on Trump selecting then South Carolina Governor Nikki Haley to be the US delegate to the United Nations, it makes perfect sense.
+
+Trump: "Psst. Hey Henry, South Carolina is a early voting state and I could use a boost in your Republican primary. South Carolina is a beautiful state. You know that Obama is not American. He was born in Kenya. I would play golf if South Carolina if I owned a golf resort here. I own a golf course in North Carolina. Obama plays too much golf. I won't have time to play golf when I'm elected president. The PGA was going to hold a tournament there, but they canceled the tournament because of me. Can you believe that? I think I should sue the PGA. I think that I'll buy Hilton Head. They have a bunch og golf courses. Where was I? Oh yea, I remember now. If you endose me for president, I'll make you Governor of South Carolina. What do you think of this hugely idea?"[^712] McMaster: "You got yourself a deal!"
 
 [^711]: Everything is a transaction for Trump. He *"buys"* people and disposes of them when they no longer are of value to him.
+[^712]: *I tried stringing words together that don't make sense to mimic Trump’s unintelligible stream of meaningless words.*<br />— Ralph Hightower
 
 ## 8. Barak Obama
 
-While Oama was president, Trump complained continually that Obama was not an American and demand proof that he was, in fact, born in America. Trump also whined that Obama plays too much golf, which I find ironic since Trump golfs as much as possible at his golf courses.
+While Obama was president, Trump heaped a ton of shit complaining and whining continually that Obama was not an American and demand proof that he was, in fact, born in America. Trump also whined that Obama plays too much golf, which I find ironic since Trump golfs as much as possible at his golf courses.
 
 ## 9. 2016
 
@@ -357,13 +363,14 @@ Trump adores strong-man dictators. He considers Putin of Russia and Kim Jung Un 
 ### An Analysis of Trump's Myriad of Flaws by a Right-Winger Opinion Writer[^1601]. Nicole Russell, USA Today.
 
 [Nicole Russell](https://www.usatoday.com/staff/73221959007/nicole-russell/)[^1601] points out the many faults and flaws of Trump, but she thinks that the election is winnable if and only if Trump acts like an adult instead of the man-child, school yard bully, and crybaby.
-<br />
-*Bless her heart.*
+
+*Bless her heart.*<br />
 *– Ralph Hightower*
 
 [^1601]: Nicole Russell is an opinion columnist with USA TODAY. She lives in Texas with her four kids.
 
 [Trump is losing a winnable election. He has no one to blame but himself.](https://www.usatoday.com/story/opinion/columnist/2024/08/25/trump-harris-2024-election/74863488007/). August 25, 2024
+
 - Trump is behind because he lacks discipline
     - Trump's biggest obstacle is Trump.
         - Reporting on a news conference is a nightmare because Trump cannot commit to the self-discipline that it takes to prepare ahead of time, pare his thoughts to a handful of strong talkingl points and then cogently answer questions on what his administration would look like.
