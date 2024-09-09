@@ -20,6 +20,9 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [This Gary Larson Fascination Shaped The Far Side From the Beginning](https://www.cbr.com/gary-larson-the-far-side-inspirations/)v| September 9, 2024 |
+| [The Far Side Comic Strips Featuring Aliens, Ranked](https://www.cbr.com/the-far-side-aliens-strip-ranked/) | September 8, 2024 |
+| [10 Funniest The Far Side Comics About Music, Ranked](https://www.cbr.com/the-far-side-best-music-comics/) | September 6, 2024 |
 | [10 Darkest Gary Larson's The Far Side Comics, Ranked](https://www.cbr.com/gary-larsons-darkest-the-far-side-comics/) | September 4, 2024 |
 | [Why Gary Larson’s The Far Side Garnered So Much Controversy, Explained](https://www.cbr.com/gary-larson-the-far-side-controversy-explained/) | September 2, 2024 |
 | [10 Funniest The Far Side Comics with Cavemen](https://www.cbr.com/the-far-side-best-cavemen-comics/) | September 1, 2024 |
@@ -47,6 +50,10 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [10 Classic Early Far Side Comics Featuring Kings, Knights, & Medieval Castles](https://screenrant.com/10-far-side-comics-kings-knights-medieval-castles/) | September 8, 2024 |
+| [10 Hilarious Far Side Comics About Nightmares](https://screenrant.com/10-hilarious-far-side-comics-about-nightmares/) | September 7, 2024 |
+| [Far Side's Gary Larson On the Difference Between the First Cow He Drew & the Last](https://screenrant.com/far-side-gary-larson-cow-drawings-art-evolution/) | September 6, 2024 |
+| [Far Side's Gary Larson On the Key To Growing As An Artist](https://screenrant.com/far-side-gary-larson-artist-growth-time-effort/) | September 5, 2024 |
 | [11 Historic Appearances Of The Far Side's Recurring Caveman Character THAG (Including the Famous One)](https://screenrant.com/far-side-comics-starring-thag-recurring-caveman/) | September 5, 2024 |
 | [The Hilarious Way Far Side's Confusing Humor Came Back To Haunt Gary Larson](https://screenrant.com/far-side-gary-larson-confusion-payback-anecdote/) | August 25, 2024 |
 | [10 Hilarious Far Side Comics Starring Anthropomorphized Flies](https://screenrant.com/10-hilarious-far-side-comics-santhropomorphized-flies-larson/) | August 25, 2024 |
