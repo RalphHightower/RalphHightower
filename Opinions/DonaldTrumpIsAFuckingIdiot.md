@@ -52,6 +52,26 @@ Child: "Father, when I grow up, I want to be president."<br />Trump: "Barron, he
 
 [^115]: A common phrase that often said before something stupid and more than probably disastrous.
 
+### The Only Person That Can Change My Assessment of Trump
+
+**The only person that can convince me that Donald Trump is not a fucking idiot is Donald Trump himself.**
+
+*How?*
+
+- Tame your temper! Quit throwing **Trumper Tantrums!**
+- Quit your pathological lying and tell the God-damned truth!
+- Grow up and start treating people with respect. I.e., quit that childish behavior of calling people names.
+- Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
+- Accept the fact that the president lives under a microscope. You will be praised by some and condemned others.
+
+Trump may act *"presidential"* for five minutes, but it is impossible for him to be an adult.
+
+### The Apprentice: White House
+
+As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall), section 17 of this page, Trump places dead last among modern day president's.
+
+Trump may have been a breath of fresh air, but nothing has changed about Trump. He's still a *bull in a china shop.* After four years, Trump still thinks that he can run America like a dictatorship.
+
 ### Government Ain't Business
 
 Government is not a business and should not be run as a business. Government provides services and has laws to manage the smooth functioning of society. Trump has no business experience running a large corporation having executive officers with a board of directors as independent advisors. The Trump Organization is *simply* a large family-run business, which he runs like a dictatorship.
@@ -69,6 +89,12 @@ Trump's executive office and cabinet was rife with [nepotism](http://www.merriam
 Trump's daughter, Ivanka Kushner and son-in-law, Jared Kushner, were unqualified to be part of his executive office.
 
 ### Cult Worship and Idolatry
+
+#### Acolytes and Sycophants
+
+Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant). He has he head so far up  Trump's ass that he doesn't know if it's night or day.
+
+[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
 
 #### [Opinion / The Messianic Trump Cult - POLITICO](https://www.politico.com/news/magazine/2022/08/31/the-messianic-trump-cult-00054382).  08/31/2022 01:46 PM EDT
 Opinion by Jack Shafer
@@ -140,8 +166,6 @@ The big question will be what will happen in the coming months so that he can re
 
 **Ben-Ghiat:** It could happen in a quieter way. I think that it’s not out of the realm of possibility, because if the Republicans tried to impeach Biden and impeach Harris, there would be protests. Whether that becomes a civil war is very different because it’s predominantly only one side which is armed, first of all. So Walter is right. She wanted to point out how far our democracy has eroded. And it’s not out of the realm of possibility that we could end up with some kind of form of autocracy because that’s what’s being set up by all of the assaults on our electoral system. And Bannon’s been working very hard at this, too, from his own vantage point. It’s intimidation of voters, removing voters, look at all these threats to election officials — so you get them out of the system — this all corresponds to what we call “autocratic capture.” There’s a movement going on. This is what I mean by more — it’s more legalistic and quieter. And that doesn’t tend to bring out people into the streets. Because it’s an evolution and it’s happening slowly, slowly, slowly, and big protests are occasioned by an event.
 
-
-
 **Kruse:** Are there signs in these developments of a particularly American style of autocracy?
 
 **Ben-Ghiat:** The wild card is guns. No other country in peace time has 400 million guns in private hands. And no other country in peacetime has militias allowed to populate, has sovereign sheriffs, has so many extremists in the military, and that matters because of these other things. And in fact, if January 6 didn’t bring out a massive protest, what is going to bring out a massive protest? Because that showed that groups of people who were there were people unaffiliated with any Proud Boys or any radical group. And Robert Pape, who studied them, called them middle-aged, middle class, but they were all armed. Some of them had private arsenals and they showed up at January 6. So that’s the wild card. That’s one thing that’s extremely American, that violence, that the population believes it has the right to rebel against tyrannical government. Like Matt Gaetz says: The Second Amendment is not just about hunting. And here we go back to the idea of Biden as a dictator. And that only works if your citizenry is armed and ours is to a degree that no other country is in the entire world.
@@ -149,32 +173,6 @@ The big question will be what will happen in the coming months so that he can re
 **Kruse:** Given the stakes, what are Democrats doing wrong right now?
 
 **Ben-Ghiat:** The reason that Trump was able to shift the political culture, Trump and his allies, is that he imposed an authoritarian party culture [with] unified messaging. Propaganda needs to be repeated with small variations. All the different Fox News hosts, all the GOP politicians, you can tell when the various talking points come up, because they get echoed by all these lawmakers and throughout Fox. Now Democrats by their nature are not going to impose unified messaging. And so Democrats don’t have that force of concentration of message, that repetition, and that’s a failing in this environment.
-
-#### Acolytes and Sycophants
-
-Senator Lindsey Graham (T-SC) has the attention span of a squirrel. After the attempted insurrection on January 6, 2021, Graham said *"That's it! I'm done with Trump."* He was on NBC's Meet The Press after the failed assassination of Trump in 2024. He said that he was supposed to play golf with Trump that weekend. Graham is one of Trump's [sycophants](http://www.merriam-webster.com/dictionary/sycophant). He has he head so far up  Trump's ass that he doesn't know if it's night or day.
-
-[Senator Tim Scott (T-SC) – Meet the Press. May 5, 2024](https://www.nbcnews.com/meet-the-press/video/federal-funding-is-a-privilege-not-a-right-tim-scott-tells-college-presidents-full-interview-210290757680) refused to answer a simple 'yes/no' answer to the question "Will you accept the election results if Trump loses?". As one of Trump's [acolytes](http://www.merriam-webster.com/dictionary/acolyte), Scott is Trump's "lawn jockey". He does not have the courage to stand for what's right.
-
-### The Only Person That Can Change My Assessment of Trump
-
-**The only person that can convince me that Donald Trump is not a fucking idiot is Donald Trump himself.**
-
-*How?*
-
-- Tame your temper! Quit throwing **Trumper Tantrums!**
-- Quit your pathological lying and tell the God-damned truth!
-- Grow up and start treating people with respect. I.e., quit that childish behavior of calling people names.
-- Be a true leader! A true leader recognizes team members, and subordinates for their accomplishment, and accepts the blame when things fail. A true leader does not use intimidation and fear.
-- Accept the fact that the president lives under a microscope. You will be praised by some and condemned others.
-
-Trump may act *"presidential"* for five minutes, but it is impossible for him to be an adult.
-
-### The Apprentice: White House
-
-As can be seen in the [Presidential Rankings Survey - Historians Rank the Top 10 Presidents / C-SPAN Survey on Presidents 2021](https://www.c-span.org/presidentsurvey2021/?page=overall), section 17 of this page, Trump places dead last among modern day president's.
-
-Trump may have been a breath of fresh air, but nothing has changed about Trump. He's still a *bull in a china shop.* After four years, Trump still thinks that he can run America like a dictatorship.
 
 ## 2. Make America Golf Again
 
@@ -187,7 +185,6 @@ Trump may have been a breath of fresh air, but nothing has changed about Trump. 
 **Copilot:**
 
 Here’s a breakdown of the golf and vacation activities for each president during their terms:
-
 
 - George W. Bush
     - First Term (2001-2005):
