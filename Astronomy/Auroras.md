@@ -13,7 +13,7 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [Inverse • Science](https://www.inverse.com/science)
 | [PHYS • Space News - Space, Astronomy, Space Exploration](https://phys.org/space-news/) |
 | [ScienceAlert](https://www.sciencealert.com/) |
-| [Space](https://www.space.com/) |(G3 –
+| [Space](https://www.space.com/) |
 | **[Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/)** |
 | [The Sun Spot - NASA](https://blogs.nasa.gov/sunspot/) |
 | [HelioCloud Project](https://heliocloud.org/) |
@@ -37,7 +37,7 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [Interactive Multi-Instrument Database of Solar Flares](https://data.nas.nasa.gov/helio/portals/solarflares/) |
 | [Heliophysics Data Portal](https://data.nas.nasa.gov/helio) |
 | [Aurora Forecast / Geophysical Institute](https://www.gi.alaska.edu/monitors/aurora-forecast) |
-| [WSA-ENLIL Solar Wind Prediction / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction)
+| [WSA-ENLIL Solar Wind Prediction / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction) |
 | **[News Archive / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news-archive)** |
 | **[Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/)** |
 | [SpaceWeatherLive.com / Real-time data and plots auroral activity / SpaceWeatherLive.com](https://www.spaceweatherlive.com/) |
