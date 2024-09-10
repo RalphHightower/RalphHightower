@@ -337,7 +337,7 @@ Trump is not the savvy businessman that he thinks he is and brags to everyone th
     34. Trump Steaks — Trump closed Trump Steaks due to a lack of sales while owing Buckhead Beef \$715,000.
     35. Trump Taj Mahal, a casino resort on the Atlantic City boardwalk; closed on October 10, 2016. Purchased by Hard Rock International and reopened as the Hard Rock Hotel & Casino Atlantic City in June 2018.
     36. Trump Tower Tampa — Trump sold his name to the developers and received \$2 million. Then the project went belly-up with only \$3,500 left in the company. Condo buyers sued Trump for allegedly misleading them. Trump settled and paid as little as \$11,115 to buyers who had lost hundreds of thousands of dollars.
-    37. Trump University or the Trump Entrepreneur Initiative — Trump staged wealth-building seminars costing up to |$34,995 for mentorships that would offer students access to Trump's secrets of success. Instructors turned out to be motivational speakers sometimes with criminal records. Lawsuits and criminal investigations abound.
+    37. Trump University or the Trump Entrepreneur Initiative — Trump staged wealth-building seminars costing up to \$34,995 for mentorships that would offer students access to Trump's secrets of success. Instructors turned out to be motivational speakers sometimes with criminal records. Lawsuits and criminal investigations abound.
     38. Trump Vodka — Business failed due to a lack of sales.
     39. Trump World’s Fair at Trump Plaza in Atlantic City, New Jersey. Operated as a wing of Trump Plaza, but with its own casino license, it was closed in 1999, and demolished in 2000.
     40. Trump's Travel Site — GoTrump.com was in business for one year. Failed.
