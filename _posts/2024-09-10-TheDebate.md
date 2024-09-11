@@ -7,10 +7,10 @@ categories: [Presidential Campaign,  Presidential Election]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'The Debate: Prosecutorial Logic versus Toddler Jibber-Jabber'
+title: 'The Debate: Prosecutorial Logic versus Toddler Gibberish
 ---
 
-# The Debate: Prosecutorial Logic versus Toddler Jibber-Jabber[^11]
+# The Debate: Prosecutorial Logic versus Toddler Gibberish[^11]
 
 [^11]: My mother taught high school English and she instilled the proper use of English and grammar. As such, I  cannot listen to Donald Trump speak and mangle words and grammar. It is like listening to fingernails screech across a blackboard. 
 
