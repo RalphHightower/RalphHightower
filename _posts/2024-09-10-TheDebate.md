@@ -7,7 +7,7 @@ categories: [Presidential Campaign,  Presidential Election]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'The Debate: Prosecutorial Logic versus Toddler Jibber-Jabber'
 ---
 
 # The Debate: Prosecutorial Logic versus Toddler Jibber-Jabber[^11]
