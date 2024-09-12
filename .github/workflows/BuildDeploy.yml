@@ -1,4 +1,4 @@
-name: Build and Deploy Demo Site
+name: BuildDeploy.yml – Build and Deploy Demo Site
 
 on:
   # Run this workflow manually from the Actions tab

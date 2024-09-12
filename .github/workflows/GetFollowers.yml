@@ -1,5 +1,5 @@
 # Sample workflow to run the action
-name: Get list of accounts followed 
+name: GetFollowers.yml — Get list of accounts followed 
 
 permissions:
   actions: read
