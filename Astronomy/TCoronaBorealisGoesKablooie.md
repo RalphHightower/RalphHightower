@@ -30,6 +30,8 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [If it flares, 'blaze star' T Corona Borealis will be clearly visible](https://phys.org/news/2024-09-flares-blaze-star-corona-borealis.html) | September 6, 2024 |
+| [Q&A: Astronomers await a once-in-80-year stellar explosion](https://phys.org/news/2024-09-qa-astronomers-await-year-stellar.html) | September 2, 2024 |
 | [Q&A: Astronomers await a once-in-80-year stellar explosion • Phys](https://phys.org/news/2024-09-qa-astronomers-await-year-stellar.html) | September 2, 2024 |
 | [Once-in-a-Lifetime 'Blaze Star' Explosion Set to Light Up the September Sky - CNET](https://www.cnet.com/science/once-in-a-lifetime-blaze-star-explosion-set-to-light-up-the-september-sky/) | Sept. 1, 2024 2:15 a.m. PT |
 | [Q&A: Astronomers await a "once-every-80-years" stellar explosion / Carnegie Science](https://carnegiescience.edu/news/qa-astronomers-await-once-every-80-years-stellar-explosion) | August 30, 2024 |
@@ -39,6 +41,7 @@
 | [T Coronae Borealis 'Blaze Star' nova event / BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/space-science/t-coronae-borealis-nova) | August 20, 2024 at 2:27 am |
 | [A New ‘Guest Star’ Will Appear in the Sky Soon. Here's How Novas Work and Where to Look.  • Singularity Hub](https://singularityhub.com/2024/08/13/a-new-guest-star-will-appear-in-the-sky-soon-heres-how-novas-work-and-where-to-look/) | August 13, 2024 |
 | [How To See The T Coronae Borealis Nova Explosion In The Sky • Inverse](https://www.inverse.com/science/how-to-see-t-coronae-borealis-nova) | Aug. 9, 2024 |
+| [A 'New Star' Will Soon Appear in The Sky: Here's How to See It : ScienceAlert](https://www.sciencealert.com/a-new-star-will-soon-appear-in-the-sky-heres-how-to-see-it) | 02 August 2024 |
 | [Once-in-a-lifetime nova explosion from T Coronae Borealis will create a 'new star' in the sky / Live Science](https://www.livescience.com/space/astronomy/once-in-a-lifetime-nova-explosion-from-t-coronae-borealis-will-create-a-new-star-in-the-sky) | August 2, 2024 |
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • The Conversation](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | August 1, 2024 8:37am EDT |
 | [A new 'guest star' will appear in the sky in 2024 − a space scientist explains how nova events work and where to look • Phys](https://phys.org/news/2024-08-guest-star-sky-space-scientist.html) | AUGUST 1, 2024
