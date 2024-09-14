@@ -57,10 +57,13 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2024</summary>
+
 ### Solar Activity — 2024
 
 | Solar Event | Date |
 |---|---|
+| **[R3 (Strong) HF Radio Blackout Event on 14 Sep 2024 / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-strong-hf-radio-blackout-event-14-sep-2024)** <br />An X4.5 flare occurred at approximately 14/1529 UTC, resulting in R3 (Strong) HF radio blackouts. Continue to monitor our web page for updated forecasts, alerts, and warnings.  | **Saturday, September 14, 2024 16:27 UTC** |
 | **[G3 - Strong Geomagnetic Storm Levels Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g3-strong-geomagnetic-storm-levels-observed-1)** <br />Geomagnetic activity reached G3 (Strong) storm levels at 1446 UTC on 12 Sep due to CME effects. Stay tuned to https://www.swpc.noaa.gov for updates. | **Thursday, September 12, 2024 14:59 UTC** |
 | **[R3 (Strong) HF Radio Blackout Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/r3-strong-hf-radio-blackout-observed)** <br />An X1.3 flare (R3-Strong) occurred at 0943 UTC on 12 Sep from an unnumbered region on the SE limb. | **Thursday, September 12, 2024 10:27 UTC** |
 | **[Strong Solar Flare Erupts from Sun – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2024/09/12/strong-solar-flare-erupts-from-sun-21/)** <br />Strong Solar Flare Erupts from Sun<br />The Sun emitted a strong solar flare, peaking at 5:43 a.m. ET on Sept. 12, 2024. NASA’s Solar Dynamics Observatory, which watches the Sun constantly, captured an image of the event.<br /><br />The Sun, shown in hues of gold, pink, and blue. There are many active regions on the Sun. They appear bright, as light from those areas cascades into space around the star. On the far left of the Sun, a bright flash of light in pinks and blues is apparently against the dark background of space.<br />NASA’s Solar Dynamics Observatory captured this image of a solar flare — seen as the bright flash on the left — on Sept. 12, 2024. The image shows a subset of extreme ultraviolet light that highlights the extremely hot material in flares and which is colorized in gold. Credit: NASA/SDO<br />Solar flares are powerful bursts of energy. Flares and solar eruptions can impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts.<br /><br />This flare is classified as an X1.3 flare. X-class denotes the most intense flares, while the number provides more information about its strength.To see how such space weather may affect Earth, please visit NOAA’s Space Weather Prediction Center https://spaceweather.gov/, the U.S. government’s official source for space weather forecasts, watches, warnings, and alerts. NASA works as a research arm of the nation’s space weather effort. NASA observes the Sun and our space environment constantly with a fleet of spacecraft that study everything from the Sun’s activity to the solar atmosphere, and to the particles and magnetic fields in the space surrounding Earth. | **September 12, 2024** |
@@ -205,7 +208,6 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [Scientists call the region of space influenced by the sun the heliosphere – but without an interstellar probe, they don’t know much about its shape / Space](https://www.space.com/heliosphere-shape-remains-mystery-without-scientific-probe) | July 14, 2024 |
 | [Solar Flares and Solar Magnetic Reconnection Get New Spotlight in Two Blazing Studies - Universe Today](https://www.universetoday.com/167749/solar-flares-and-solar-magnetic-reconnection-get-new-spotlight-in-two-blazing-studies/) | **JULY 12, 2024**|
 | [Head-On Aurora-Causing Solar Storms Are The Ones We Really Need To Worry About / IFLScience](https://www.iflscience.com/head-on-aurora-causing-solar-storms-are-the-ones-we-really-need-to-worry-about-75065) | July 12, 2024 |
-| [Stunning solar tornado swings into space above the glowing sun (video) / Space](https://www.space.com/sun-photography-solar-tornado-4k-video) | July 11, 2023 |
 | [Solar maximum is in sight but when will it arrive (and when will we know)? / Space](https://www.space.com/when-will-solar-maximum-arrive-and-when-will-we-know-latest-predictions) | July 10, 2024 |
 | [Interplanetary shock wave angles are key to infrastructure threat • New Atlas](https://newatlas.com/space/interplanetary-shock-infrastructure/) | July 10, 2024 |
 | [Are there more solar flares than expected during this solar cycle? / Space](https://www.space.com/solar-flare-numbers-solar-cycle-25-comparison-previous-years) | July 9, 2024 |
@@ -582,6 +584,12 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://swpc.noaa.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
 
+</details>
+
+<br />
+
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2023</summary>
+
 ### Solar Activity — 2023
 
 | Solar Activity | Date |
@@ -646,6 +654,7 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [The Sun’s Polar Magnetic Field will Soon Flip - And GONG is Watching - NSO - National Solar Observatory](https://nso.edu/blog/polar-magnetic-field-reversal/) | August 3, 2023 |
 | [Cosmic Mystery Solved? The Stellar Flare a Trillion Times More Powerful Than the Sun’s • SciTechDaily](https://scitechdaily.com/cosmic-mystery-solved-the-stellar-flare-a-trillion-times-more-powerful-than-the-suns/) | AUGUST 3, 2023 |
 | **[Raspberry Pi-Powered EZIE-Mag Kits Let Citizen Scientists Be Part of a NASA CubeSat Mission - Hackster.io](https://www.hackster.io/news/raspberry-pi-powered-ezie-mag-kits-let-citizen-scientists-be-part-of-a-nasa-cubesat-mission-233a9b318667)**[^22] Kit[^23] | **August 1, 2023** |
+| [Stunning solar tornado swings into space above the glowing sun (video) / Space](https://www.space.com/sun-photography-solar-tornado-4k-video) | July 11, 2023 |
 | **[Sun Releases Strong Solar Flare – Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/2023/07/03/sun-releases-strong-solar-flare-6/)** | **July 3, 2023** |
 | **[Intensely Powerful X1.0 Solar Flare Witnessed by NASA’s Solar Dynamics Observatory • SciTechDaily](https://scitechdaily.com/intensely-powerful-x1-0-solar-flare-witnessed-by-nasas-solar-dynamics-observatory/)** | **JULY 3, 2023** |
 | [Parker Solar Probe Finds Magnetic Energy Near Sun’s Surface Enables Solar Wind To Reach Gravity-Defying Speeds • SciTechDaily](https://scitechdaily.com/parker-solar-probe-finds-magnetic-energy-near-suns-surface-enables-solar-wind-to-reach-gravity-defying-speeds/) | JULY 2, 2023 |
@@ -656,11 +665,10 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [The solar wind, which creates beautiful auroras on Earth, is now less mysterious - Earth.com](https://www.earth.com/news/the-solar-wind-which-creates-beautiful-auroras-on-earth-is-now-less-mysterious/) | 06-10-2023 |
 | [NASA’s Parker Solar Probe Plunges Into Fast Solar Wind and Discovers Its Mysterious Source • SciTechDaily](https://scitechdaily.com/nasas-parker-solar-probe-plunges-into-fast-solar-wind-and-discovers-its-mysterious-source/) | JUNE 8, 2023 |
 | [Interchange reconnection as the source of the fast solar wind within coronal holes / Nature Communications](https://www.nature.com/articles/s41586-023-05955-3) | 07 June 2023 |
-| [NASA's mission to the Sun is already cracking some of our star's mysteries / Astronomy.com](https://www.astronomy.com/observing/nasas-mission-to-the-sun-is-already-cracking-some-of-our-stars-mysteries/) | Last updated on May 18, 2023 |<br />Published: December 4, 2019 |
+| [NASA's mission to the Sun is already cracking some of our star's mysteries / Astronomy.com](https://www.astronomy.com/observing/nasas-mission-to-the-sun-is-already-cracking-some-of-our-stars-mysteries/) | Last updated on May 18, 2023 <br />Published: December 4, 2019 |
 | [The Solar Dynamics Observatory spots extra energy in the Sun's corona / Astronomy.com](https://www.astronomy.com/science/the-solar-dynamics-observatory-spots-extra-energy-in-the-suns-corona/) | May 18, 2023 |
-| [Nanoflares heat corona • Astronomy](https://www.astronomy.com/science/foxsi-may-reveal-why-suns-corona-is-so-hot/) | 
-Last updated on May 18, 2023 <br />Published: October 10, 2017 |
-| [What’s Hotter Than the Surface of the Sun? The Solar Corona / Astronomy.com](https://www.astronomy.com/observing/whats-hotter-than-the-surface-of-the-sun-the-solar-corona/) | Last updated on May 18, 2023 | <br /> Published: September 25, 2019 |
+| [Nanoflares heat corona • Astronomy](https://www.astronomy.com/science/foxsi-may-reveal-why-suns-corona-is-so-hot/) | Last updated on May 18, 2023 <br />Published: October 10, 2017 |
+| [What’s Hotter Than the Surface of the Sun? The Solar Corona / Astronomy.com](https://www.astronomy.com/observing/whats-hotter-than-the-surface-of-the-sun-the-solar-corona/) | Last updated on May 18, 2023 <br /> Published: September 25, 2019 |
 | [The Sun: Extremely loud and inc redibly hot • Astronomy](https://www.astronomy.com/observing/the-sun-extremely-loud-and-incredibly-hot/) |  Last updated on May 18, 2023  <br /> Published: March 26, 2020. |
 | [Extreme evaporation of planets in hot thermally unstable protoplanetary discs: the case of FU Ori / Monthly Notices of the Royal Astronomical Society / Oxford Academic • SciTechDaily](https://academic.oup.com/mnras/article/523/1/385/7161140) | 12 May 2023 |
 | [Auroras Are On The Rise! Here’s Where To See The Dazzling Light Show](https://www.inverse.com/science/auroras-appearing-more-often-how-to-see) | MAY 9, 2023 |
