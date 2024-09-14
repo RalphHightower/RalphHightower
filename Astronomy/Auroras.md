@@ -57,6 +57,8 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2024</summary>
+
 ### Solar Activity — 2024
 
 | Solar Event | Date |
@@ -582,6 +584,12 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://swpc.noaa.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
 
+</details>
+
+<br />
+
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2023</summary>
+
 ### Solar Activity — 2023
 
 | Solar Activity | Date |
@@ -656,11 +664,10 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [The solar wind, which creates beautiful auroras on Earth, is now less mysterious - Earth.com](https://www.earth.com/news/the-solar-wind-which-creates-beautiful-auroras-on-earth-is-now-less-mysterious/) | 06-10-2023 |
 | [NASA’s Parker Solar Probe Plunges Into Fast Solar Wind and Discovers Its Mysterious Source • SciTechDaily](https://scitechdaily.com/nasas-parker-solar-probe-plunges-into-fast-solar-wind-and-discovers-its-mysterious-source/) | JUNE 8, 2023 |
 | [Interchange reconnection as the source of the fast solar wind within coronal holes / Nature Communications](https://www.nature.com/articles/s41586-023-05955-3) | 07 June 2023 |
-| [NASA's mission to the Sun is already cracking some of our star's mysteries / Astronomy.com](https://www.astronomy.com/observing/nasas-mission-to-the-sun-is-already-cracking-some-of-our-stars-mysteries/) | Last updated on May 18, 2023 |<br />Published: December 4, 2019 |
+| [NASA's mission to the Sun is already cracking some of our star's mysteries / Astronomy.com](https://www.astronomy.com/observing/nasas-mission-to-the-sun-is-already-cracking-some-of-our-stars-mysteries/) | Last updated on May 18, 2023 <br />Published: December 4, 2019 |
 | [The Solar Dynamics Observatory spots extra energy in the Sun's corona / Astronomy.com](https://www.astronomy.com/science/the-solar-dynamics-observatory-spots-extra-energy-in-the-suns-corona/) | May 18, 2023 |
-| [Nanoflares heat corona • Astronomy](https://www.astronomy.com/science/foxsi-may-reveal-why-suns-corona-is-so-hot/) | 
-Last updated on May 18, 2023 <br />Published: October 10, 2017 |
-| [What’s Hotter Than the Surface of the Sun? The Solar Corona / Astronomy.com](https://www.astronomy.com/observing/whats-hotter-than-the-surface-of-the-sun-the-solar-corona/) | Last updated on May 18, 2023 | <br /> Published: September 25, 2019 |
+| [Nanoflares heat corona • Astronomy](https://www.astronomy.com/science/foxsi-may-reveal-why-suns-corona-is-so-hot/) | Last updated on May 18, 2023 <br />Published: October 10, 2017 |
+| [What’s Hotter Than the Surface of the Sun? The Solar Corona / Astronomy.com](https://www.astronomy.com/observing/whats-hotter-than-the-surface-of-the-sun-the-solar-corona/) | Last updated on May 18, 2023 <br /> Published: September 25, 2019 |
 | [The Sun: Extremely loud and inc redibly hot • Astronomy](https://www.astronomy.com/observing/the-sun-extremely-loud-and-incredibly-hot/) |  Last updated on May 18, 2023  <br /> Published: March 26, 2020. |
 | [Extreme evaporation of planets in hot thermally unstable protoplanetary discs: the case of FU Ori / Monthly Notices of the Royal Astronomical Society / Oxford Academic • SciTechDaily](https://academic.oup.com/mnras/article/523/1/385/7161140) | 12 May 2023 |
 | [Auroras Are On The Rise! Here’s Where To See The Dazzling Light Show](https://www.inverse.com/science/auroras-appearing-more-often-how-to-see) | MAY 9, 2023 |
