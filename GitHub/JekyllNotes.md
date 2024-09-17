@@ -1,3 +1,14 @@
+---
+layout: post
+tags: []
+categories: []
+#date: 2019-06-25 13:14:15
+#excerpt: ''
+#image: 'BASEURL/assets/blog/img/.png'
+#description:
+#permalink:
+title: 'title'
+---
 # GitHub/JekyllNotes
 
 ## Build Problems
@@ -70,3 +81,23 @@ DLL hell is the Windows ecosystem-specific form of the general concept dependenc
 [^12]: [Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell?wprov=sfla1): colloquial term for the frustration of some software users who have installed software packages which have dependencies on specific versions of other software packages.
 The dependency issue arises when several packages have dependencies on the same shared packages or libraries, but they depend on different and incompatible versions of the shared packages. If the shared package or library can only be installed in a single version, the user may need to address the problem by obtaining newer or older versions of the dependent packages. This, in turn, may break other dependencies and push the problem to another set of packages.
 [^13]: [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show?wprov=sfla1)
+
+| Jekyll |
+|---|
+| [Jekyll](https://github.com/jekyll) |
+| [jekyll/jekyll: :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby](https://github.com/jekyll/jekyll) |
+| [jekyll/minima: Minima is a one-size-fits-all Jekyll theme for writers.](https://github.com/jekyll/minima) |
+| [Jekyll • Simple, blog-aware, static sites / Transform your plain text into static websites and blogs](https://jekyllrb.com/) |
+| [Quickstart / Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/) |
+| [Resources / Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/resources/) |
+| [jekyll-plugin · GitHub Topics](https://github.com/topics/jekyll-plugin) |
+| [Jekyll Admin](https://jekyll.github.io/jekyll-admin/) |
+| [jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.](https://github.com/jekyll/jekyll-admin) |
+
+| Ruby |
+|---|
+| [ruby/ruby: The Ruby Programming Language](https://github.com/ruby/ruby) |
+| [ruby/setup-ruby: An action to download a prebuilt Ruby and add it to the PATH in 5 seconds](https://github.com/ruby/setup-ruby) |
+| [Ruby Programming Language](https://www.ruby-lang.org/en/)
+| [RubyGems.org / your community gem host](https://rubygems.org/)
+| [RubyGems](https://github.com/rubygems) |
