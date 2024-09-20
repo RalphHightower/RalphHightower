@@ -126,4 +126,11 @@ skin: auto
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
-    date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
+    date-format: "%F %r"
+
+exclude:
+    - *.md
+    - *.json
+    - Gemfile*
+    - *.sh
+ 
