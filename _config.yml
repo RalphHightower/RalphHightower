@@ -1,5 +1,4 @@
 title: Ralph Hightower
-
 author:
   name: Ralph Hightower
   #email: ralph.hightower@gmail.com
@@ -22,7 +21,7 @@ url: "https://RalphHightower.github.io/RalphHightower "
 
 plugins:
     - jekyll
-    - github-pages
+#    - github-pages
 #    - jekyll-avatar
 #    - jekyll-coffeescript
 #    - jekyll-github-metadata
@@ -45,21 +44,22 @@ plugins:
 minima:
   date_format: "%F %r"
   # generate social links in the footer
+
 social_links:
     - { platform: devto, user_url: "https://dev.to/RalphHightower"}
-    # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
+#    - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
     - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
     - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
     - { platform: github, user_url: "https://github.com/RalphHightower" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
-    # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
+#    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+#    - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
+#    - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-    # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
-    # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
+#    - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
+#    - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
-     - { platform: telegram, user_url: "https://t.me/RalphHightower" }
-    # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+    - { platform: telegram, user_url: "https://t.me/RalphHightower" }
+#    - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
     - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
     - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
     
