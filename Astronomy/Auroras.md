@@ -1,8 +1,5 @@
 # Astronomy/Auroras
 
-
-[^20240706]: [The X‐Pattern Merging of the Equatorial Ionization Anomaly Crests During Geomagnetic Quiet Time - Laskar - 2024 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JA032224). 07 April 2024 |
-
 <details markdown="1"><summary >Auroras / T Corona Borealis Hot Links</summary >
 
 ## Auroras / T Corona Borealis *Hot Links*
@@ -63,9 +60,9 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | Solar Event | Date |
 |---|---|
 | **[G4 (Severe) Geomagnetic Storming Observed / NOAA / NWS Space Weather Prediction Center](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed)** <br />A G4 geomagnetic storm was observed at 0257 UTC Tuesday. | **Tuesday, September 17, 2024 03:54 UTC** |
-| **[Sun Releases Strong Flare – Solar Cycle 25](https://blogs.nasa.gov/solarcycle25/2024/09/16/sun-releases-strong-flare-4/)** </>The Sun emitted a strong solar flare, peaking at 11:29 a.m. ET on Sept. 14, 2024. NASA’s Solar Dynamics Observatory, which watches the Sun constantly, captured an image of the event.</>
-</>A combination of multiple ultraviolet wavelengths shows the Sun with bright loops of material extending off of the surface. A bright flash erupts on the Sun's lower left, and a burst of material is thrown off of the Sun into space.</>NASA’s Solar Dynamics Observatory captured this image of a solar flare — seen as the bright flash near the center of the image – on Sept. 14, 2024. The image shows a subset of extreme ultraviolet light that highlights the extremely hot material in flares and which is colorized in gold and red. Credit: NASA/SDO</>
-Solar flares are powerful bursts of energy. Flares and solar eruptions can impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts.</></>This flare is classified as an X4.5 flare. X-class denotes the most intense flares, while the number provides more information about its strength.</></>To see how such space weather may affect Earth, please visit NOAA’s Space Weather Prediction Center https://spaceweather.gov/, the U.S. government’s official source for space weather forecasts, watches, warnings, and alerts. NASA works as a research arm of the nation’s space weather effort. NASA observes the Sun and our space environment constantly with a fleet of spacecraft that study everything from the Sun’s activity to the solar atmosphere, and to the particles and magnetic fields in the space surrounding Earth. | **September 16, 2024** |
+| **[Sun Releases Strong Flare – Solar Cycle 25](https://blogs.nasa.gov/solarcycle25/2024/09/16/sun-releases-strong-flare-4/)** <br />>The Sun emitted a strong solar flare, peaking at 11:29 a.m. ET on Sept. 14, 2024. NASA’s Solar Dynamics Observatory, which watches the Sun constantly, captured an image of the event.<br />>
+<br />>A combination of multiple ultraviolet wavelengths shows the Sun with bright loops of material extending off of the surface. A bright flash erupts on the Sun's lower left, and a burst of material is thrown off of the Sun into space.<br />>NASA’s Solar Dynamics Observatory captured this image of a solar flare — seen as the bright flash near the center of the image – on Sept. 14, 2024. The image shows a subset of extreme ultraviolet light that highlights the extremely hot material in flares and which is colorized in gold and red. Credit: NASA/SDO<br />>
+Solar flares are powerful bursts of energy. Flares and solar eruptions can impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts.<br />><br />>This flare is classified as an X4.5 flare. X-class denotes the most intense flares, while the number provides more information about its strength.<br />><br />>To see how such space weather may affect Earth, please visit NOAA’s Space Weather Prediction Center https://spaceweather.gov/, the U.S. government’s official source for space weather forecasts, watches, warnings, and alerts. NASA works as a research arm of the nation’s space weather effort. NASA observes the Sun and our space environment constantly with a fleet of spacecraft that study everything from the Sun’s activity to the solar atmosphere, and to the particles and magnetic fields in the space surrounding Earth. | **September 16, 2024** |
 | [Auroras galore! Severe geomagnetic storm sparks stunning northern lights across US (photos) / Space](https://www.space.com/severe-geomagnetic-storm-auroras-northern-lights-harvest-moon) | **September 17, 2024 **|
 | [Aurora alert — Powerful geomagnetic storm could spark northern lights across US and Europe on Sept. 16 / Space](https://www.space.com/aurora-alert-northern-lights-september-mid-latitudes-south) | **September 16, 2024** |
 | [A Perfect Storm of Solar Activity Is About to Unleash an Amazing Show : ScienceAlert](https://www.sciencealert.com/a-perfect-storm-of-solar-activity-is-about-to-unleash-an-amazing-show) | **16 September 2024** |
@@ -589,6 +586,7 @@ Solar flares are powerful bursts of energy. Flares and solar eruptions can impac
 [^100]: **BOAT**. *def:* Biggest Of All Time!
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://swpc.noaa.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
+[^20240706]: [The X‐Pattern Merging of the Equatorial Ionization Anomaly Crests During Geomagnetic Quiet Time - Laskar - 2024 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JA032224). 07 April 2024
 
 <br />
 
