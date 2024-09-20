@@ -58,8 +58,6 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
-<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2024</summary>
-
 ### Solar Activity — 2024
 
 | Solar Event | Date |
@@ -591,8 +589,6 @@ Solar flares are powerful bursts of energy. Flares and solar eruptions can impac
 [^100]: **BOAT**. *def:* Biggest Of All Time!
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://swpc.noaa.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
-
-</details>
 
 <br />
 
