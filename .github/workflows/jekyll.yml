@@ -33,8 +33,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.7
-      - name: Wipe out Ruby cache
-        run:  rm -rf /home/runner/work/RalphHightower/RalphHightower/vendor/bundle
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.190.0
         with:
