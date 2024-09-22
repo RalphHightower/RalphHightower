@@ -50,6 +50,7 @@ jobs:
         env:
           JEKYLL_ENV: production
           JEKYLL_GITHUB_TOKEN: ${{secrets.JEKYLL_METADATA_TOKEN}}
+          LOG_LEVEL: debug 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3.0.1
