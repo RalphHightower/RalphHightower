@@ -12,6 +12,19 @@
   font-stretch: 75% 125%;
 }
 
+@font-face {
+  font-family: 'Hubot Sans';
+  src:
+    url('Hubot-Sans.woff2') format('woff2 supports variations'),
+    url('Hubot-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+$base-font-family: "Mona Sans", Roboto, Helvetica, Arial, sans-serif !default;
+$code-font-family: "Hubot Sans", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+
+
+
 html {
   font-family: 'Mona Sans';
 }
