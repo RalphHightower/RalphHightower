@@ -1,5 +1,21 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// [github/mona-sans: Mona Sans, a variable font from GitHub](https://github.com/github/mona-sans)
+
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
+html {
+  font-family: 'Mona Sans';
+}
+
 .site-nav {
   text-align: left;
   }
