@@ -20,6 +20,11 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The Far Side, Ranked by Decade](https://www.cbr.com/the-far-side-every-decade-explained/) | September 22, 2024 |
+| [10 Funniest The Far Side Comics On an Island, Ranked](https://www.cbr.com/the-far-side-funniest-stranded-island-comics/) | September 20, 2024 |
+| [10 Creepiest The Far Side Comic Strips, Ranked](https://www.cbr.com/the-far-side-creepy-comics/) | September 14, 2024 |
+| [Gary Larson Fans May Have Missed the Best Version of The Far Side](https://www.cbr.com/gary-larsons-tales-from-the-far-side-special-explained/) | September 13, 2024 |
+| [Gary Larson's 15 Most Underrated The Far Side Comics](https://www.cbr.com/the-far-side-underrated-forgotten-comics/) | September 12, 2024 |
 | [This Gary Larson Fascination Shaped The Far Side From the Beginning](https://www.cbr.com/gary-larson-the-far-side-inspirations/)v| September 9, 2024 |
 | [The Far Side Comic Strips Featuring Aliens, Ranked](https://www.cbr.com/the-far-side-aliens-strip-ranked/) | September 8, 2024 |
 | [10 Funniest The Far Side Comics About Music, Ranked](https://www.cbr.com/the-far-side-best-music-comics/) | September 6, 2024 |
@@ -50,6 +55,17 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [13 Funniest Far Side Comics That Just Turned 30 (Including Gary Larson's Best Pun)](https://screenrant.com/funniest-far-side-comics-august-1994-gary-larson/) | September 24, 2024 |
+| [13 Funniest Far Side Comics That Somehow Make Frogs Hilarious](https://screenrant.com/funniest-far-side-comics-frogs-gary-larson/) | September 21, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40 (Including Gary Larson's Best Wordless Comic)](https://screenrant.com/funniest-far-side-comic-gary-larson-august-1984/) | September 18, 2024 |
+| [Far Side's 10 Final Comics Were the Perfect Ending to Gary Larson's Genius Series](https://screenrant.com/funniest-far-side-comics-final-ten-gary-larson/) | Sep 17, 2024 |
+| [Gary Larson's Breakdown of 1 Far Side Joke Explains So Much About His Sense of Humor](https://screenrant.com/the-far-side-humor-explained-high-tide-cartoon/) | Sep 17, 2024 |
+| [10 More of the Best Far Side Recurring Elements, Explained](https://screenrant.com/10-more-best-far-side-recurring-elements/) | Sep 15, 2024 |
+| [Gary Larson's Editor Explains the "Best Part" Of The Far Side (That Many Readers Overlook)](https://screenrant.com/far-side-editor-gary-larson-art-humor-eyes/) | September 14, 2024 |
+| [10 Greatest Far Side Recurring Elements, Explained](https://screenrant.com/10-greatest-far-side-recurring-elements-explained/) | September 14, 2024 |
+| [25 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | September 12, 2024 |
+| ["Compared To the Next Cartoon, It's Very Normal": Far Side's Longtime Editor On What Made Gary Larson's Creative Process So Unique](https://screenrant.com/far-side-editor-gary-larson-creative-process/) | September 11, 2024 |
+| [10 Hilarious Far Side Comics Starring Igor, the Iconic Mad Scientist's Assistant](https://screenrant.com/10-far-side-comics-igor-mad-scientist-assistant/) | September 9, 2024 |
 | [10 Classic Early Far Side Comics Featuring Kings, Knights, & Medieval Castles](https://screenrant.com/10-far-side-comics-kings-knights-medieval-castles/) | September 8, 2024 |
 | [10 Hilarious Far Side Comics About Nightmares](https://screenrant.com/10-hilarious-far-side-comics-about-nightmares/) | September 7, 2024 |
 | [Far Side's Gary Larson On the Difference Between the First Cow He Drew & the Last](https://screenrant.com/far-side-gary-larson-cow-drawings-art-evolution/) | September 6, 2024 |

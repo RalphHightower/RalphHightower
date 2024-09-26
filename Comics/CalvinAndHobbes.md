@@ -12,6 +12,8 @@
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [10 Best Calvin and Hobbes Comics About School, Ranked](https://www.cbr.com/calvin-and-hobbes-best-school-comics/) | September 19, 2024 |
+| [The History Behind Calvin and Hobbes (& Where to Read Bill Watterson's Classic Strips)](https://www.cbr.com/calvin-hobbes-reading-guide/) | Sep 14, 2024 |
 | [Why Bill Watterson Named his Characters Calvin and Hobbes](https://www.cbr.com/calvin-hobbes-name-inspiration-trivia/) | September 4, 2024 |
 | [Unforgettable Calvin & Hobbes Philosophies from the Comic Strip](https://www.cbr.com/best-calvin-hobbes-philosophies/) | August 17, 2024 |
 | [10 Best Calvin and Hobbes Comics About Sports](https://www.cbr.com/calvin-and-hobbes-best-sports-comics/) | August 10, 2024 |
@@ -129,6 +131,10 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Brilliant Calvin & Hobbes Comics That Make Fun Of "High Art"](https://screenrant.com/best-calvin-and-hobbes-comics-about-art/) | September 21, 2024 |
+| [10 Hilarious Calvin & Hobbes Comics About Television](https://screenrant.com/hilarious-calvin-hobbes-comics-about-television/) | September 18, 2024 |
+| [15 Funniest Calvin and Hobbes Comics That Just Turned 30 (Was This Watterson's Funniest Month?)](https://screenrant.com/funniest-calvin-and-hobbes-comics-august-1994/) | September 14, 2024 |
+| [10 Best Calvin and Hobbes Science Fiction Storylines, Ranked](https://screenrant.com/calvin-and-hobbes-best-science-fiction-stories-comics/) | September 11, 2024 |
 | [10 Most Heartwarming Calvin and Hobbes Comics About Friendship (and Loyalty)](https://screenrant.com/most-heartwarming-calvin-and-hobbes-comics-about-friendship/) | September 1, 2024 |
 | [Calvin and Hobbes: 10 Calvinball Comics That Make Us Actually Want To Play](https://screenrant.com/calvin-and-hobbes-best-calvinball-comics/) | August 25, 2024 |
 | [10 Best Calvin and Hobbes Comic Strip Punchlines We'll Never Forget](https://screenrant.com/best-calvin-and-hobbes-comic-strip-punchlines/) | August 24, 2024 |
