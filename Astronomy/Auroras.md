@@ -55,6 +55,8 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2024</summary>
+
 ### Solar Activity — 2024
 
 | Solar Event | Date |
@@ -586,6 +588,12 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 [^2401]: Appearing in order for same date, [Space Weather Prediction Center](https://swpc.noaa.gov/) is first, [NASA Solar Cycle 25 • NASA](https://blogs.nasa.gov/solarcycle25/) is second, various news sources follow.
 [^20240515]: This particular CME registered an *earthquake* on Ocean Networks Canada undersea instrumentation
 [^20240706]: [The X‐Pattern Merging of the Equatorial Ionization Anomaly Crests During Geomagnetic Quiet Time - Laskar - 2024 - Journal of Geophysical Research: Space Physics - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JA032224). 07 April 2024
+
+<br />
+
+<details markdown='1'><summary>Expand / Collapse: Solar Activity — 2023</summary>
+
+</details>
 
 <br />
 
