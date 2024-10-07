@@ -4,7 +4,7 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: jekyll.yml – Deploy Jekyll site to Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -33,12 +33,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.7
-      - name: Wipe out Ruby cache
-        run:  rm -rf /home/runner/work/RalphHightower/RalphHightower/vendor/bundle
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.190.0
         with:
-          ruby-version: '3.2.4' # Not needed with a .ruby-version file
+          ruby-version: '3.3.4' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
@@ -49,6 +47,8 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+          JEKYLL_GITHUB_TOKEN: ${{secrets.JEKYLL_METADATA_TOKEN}}
+          LOG_LEVEL: debug 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3.0.1

@@ -124,6 +124,7 @@
 
 | 2024 Total Solar Eclipse — NASA | Date |
 |---|---|
+| [Eclipses Create Atmospheric Gravity Waves, NASA Student Teams Confirm - NASA](https://www.nasa.gov/learning-resources/eclipses-create-atmospheric-gravity-waves/) | Sep 05, 2024 |
 | [Sun Series: Bonus: Dispatches from the Path of Totality - NASA](https://www.nasa.gov/podcasts/curious-universe/sun-series-bonus-dispatches-from-the-path-of-totality/ )[^201] | MAY 03, 2024 |
 | [2024 Total Solar Eclipse: Prediction vs. Reality - NASA Science](https://science.nasa.gov/eclipses/) | MAY 02, 2024 |
 | [Infiniscope and Eclipse Soundscapes Collaboration Reaches 1,766 Middle School Students - NASA Science](https://science.nasa.gov/sun/) | APR 15, 2024 |

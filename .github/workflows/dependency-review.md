@@ -1,4 +1,4 @@
-name: 'Dependency Review'
+name: 'dependency-review.yml — Dependency Review'
 on: [pull_request]
 
 permissions:

@@ -251,6 +251,7 @@ Now that I am retired, I am getting into the Arduino, Raspberry Pi(π), and RISC
 
 | Web Site | Description |
 |------------|-------------|
+| [Ralph Hightower/Blog](https://ralphhightower.github.io/blog/) | My personal blog; currently anti-Trump. Hopefully, *"The Apprentice: White House"* won't get renewed. |
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/) | List of helpful Azure resources |
 | [EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/) | End Of Life Instructions for wife and executor |
 | [GM-Canada-Onstar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) | GM-Canada's solution to retain OnStar functionality with Canada's sunseting of cellular 2G CDMA technology in 2015  |
