@@ -1,2 +1,2 @@
 name: AzureWebappRalphHightower.yml — Get AzWebApp
-Get-AzWebApp -Name RalphHightower | Get-AzWebAppPublishingProfile -OutputFile deployRalphHightower | Out-Null
+# Get-AzWebApp -Name RalphHightower | Get-AzWebAppPublishingProfile -OutputFile deployRalphHightower | Out-Null
