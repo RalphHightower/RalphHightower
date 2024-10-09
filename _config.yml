@@ -17,7 +17,7 @@ description: > # This means to ignore newlines until "show_excerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 
 repository: "RalphHightower/RalphHightower"
-url: "https://RalphHightower.github.io/RalphHightower "
+url: "https://RalphHightower.github.io/RalphHightower/"
 
 plugins:
     - jekyll
