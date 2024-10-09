@@ -30,6 +30,7 @@
 
 | T Corona Borealis | Date |
 |---|---|
+| [Astronomers Are Watching for a Once-in-a-Lifetime Nova Explosion. When Will We See It? • Smithsonian](https://www.smithsonianmag.com/smart-news/astronomers-are-watching-for-a-once-in-a-lifetime-nova-explosion-when-will-we-see-it-180985120/) | October 7, 2024 |
 | [Why Astronomers Have Stopped Hoping For A Once-In-A-Lifetime Exploding Star (For Now) / IFLScience](https://www.iflscience.com/why-astronomers-have-stopped-hoping-for-a-once-in-a-lifetime-exploding-star-for-now-76212) | October 3, 2024 |
 | [Astronomers prepare for once-in-a-lifetime event: A 'new star' in the night sky / Space](https://www.space.com/astronomers-new-star-nova-explosion-t-coronae-borealis) | September 29, 2024 |
 | [A new ‘guest star’ will appear in the sky in 2024 − a space scientist explains how nova events work and where to look](https://theconversation.com/a-new-guest-star-will-appear-in-the-sky-in-2024-a-space-scientist-explains-how-nova-events-work-and-where-to-look-235074) | Updated 01:08 ET, SEP 24 2024<br />23:15 ET, SEP 23 2024 |
