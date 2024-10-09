@@ -20,6 +20,9 @@
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/) | September 30, 2024 |
+| [10 Best The Far Side Comics About Science & Scientists](https://www.cbr.com/the-far-side-best-science-scientists-comics/) | September 29, 2024 |
+| [10 Funniest The Far Side Comics Set in the Afterlife](https://www.cbr.com/the-far-side-funny-afterlife-comics/) | Sep 27, 2024 |
 | [The Far Side, Ranked by Decade](https://www.cbr.com/the-far-side-every-decade-explained/) | September 22, 2024 |
 | [10 Funniest The Far Side Comics On an Island, Ranked](https://www.cbr.com/the-far-side-funniest-stranded-island-comics/) | September 20, 2024 |
 | [10 Creepiest The Far Side Comic Strips, Ranked](https://www.cbr.com/the-far-side-creepy-comics/) | September 14, 2024 |
@@ -55,6 +58,14 @@
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
+| [11 Far Side Comics From 1990 That Make Readers Go "What-the?"](https://screenrant.com/far-side-comics-1990-what-the-gary-larson/) | October 4, 2024 |
+| [10 Far Side Comics That Will Make You Rethink Human-Animal Relationships](https://screenrant.com/far-side-comics-human-animal-relationships-gary-larson/) | October 2, 2024 |
+| [13 Funniest Far Side Comics That Somehow Found the Funny Side of... Children Being Eaten?!](https://screenrant.com/funniest-far-side-comics-gary-larson-kids-animals/) | October 1, 2024 |
+| [10 Far Side Comics That Made The Mundane Hilarious With One Panel](https://screenrant.com/far-side-comics-make-mundane-hilarious-gary-larson/) | September 30, 2024 |
+| [This Far Side Comic Was "Hell" for Gary Larson to Draw, But Now He Knows What He Got Wrong](https://screenrant.com/far-side-funniest-comic-gary-larson-hated/) | September 29, 2024 |
+| [10 Far Side Comics That Will Make You Laugh Hours After You Read Them](https://screenrant.com/far-side-comics-unforgettable-keep-readers-laughing/) | September 27, 2024 |
+| [10 Far Side Comics From 1988 That Make Readers Go "What-the?"](https://screenrant.com/far-side-comics-1988-what-the-gary-larson/) | Sep 27, 2024 |
+| [12 Far Side Comics From 1987 That Make Readers Go "What-the?"](https://screenrant.com/far-side-comics-1987-what-the-gary-larson/) | Sep 25, 2024 |
 | [13 Funniest Far Side Comics That Just Turned 30 (Including Gary Larson's Best Pun)](https://screenrant.com/funniest-far-side-comics-august-1994-gary-larson/) | September 24, 2024 |
 | [13 Funniest Far Side Comics That Somehow Make Frogs Hilarious](https://screenrant.com/funniest-far-side-comics-frogs-gary-larson/) | September 21, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including Gary Larson's Best Wordless Comic)](https://screenrant.com/funniest-far-side-comic-gary-larson-august-1984/) | September 18, 2024 |

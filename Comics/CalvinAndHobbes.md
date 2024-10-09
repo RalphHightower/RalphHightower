@@ -131,6 +131,8 @@
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [10 Times Calvin and Hobbes Explored Time Travel and Alternate Realities (Surprisingly Well)](https://screenrant.com/calvin-and-hobbes-time-travel-and-alternate-realities/) | September 28, 2024 |
+| [10 Genius Calvin and Hobbes Comics That Make Writing Hilarious](https://screenrant.com/funniest-calvin-and-hobbes-comics-about-writing) | Sep 26, 2024 |
 | [10 Brilliant Calvin & Hobbes Comics That Make Fun Of "High Art"](https://screenrant.com/best-calvin-and-hobbes-comics-about-art/) | September 21, 2024 |
 | [10 Hilarious Calvin & Hobbes Comics About Television](https://screenrant.com/hilarious-calvin-hobbes-comics-about-television/) | September 18, 2024 |
 | [15 Funniest Calvin and Hobbes Comics That Just Turned 30 (Was This Watterson's Funniest Month?)](https://screenrant.com/funniest-calvin-and-hobbes-comics-august-1994/) | September 14, 2024 |
