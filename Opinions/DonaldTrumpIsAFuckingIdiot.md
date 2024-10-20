@@ -50,7 +50,7 @@ In the Trump penthouse, here's how I think he made his decision.
 
 Child: "Father, when I grow up, I want to be president."<br />Trump: "Barron, here. Hold my beer. Watch this."[^115]
 
-[^115]: A common phrase that often said before something stupid and more than probably disastrous.
+[^115]: A common phrase that often said before something stupid and more than probably disastrous and gains entry to the [Darwin Awards](https://darwinawards.com/).
 
 ### The Only Person That Can Change My Assessment of Trump
 
@@ -200,7 +200,7 @@ Here’s a breakdown of the golf and vacation activities for each president duri
     - Second Term (1997-2001):
         - Golf: Played 103 rounds of golf[^213].
         - Vacation: Took 171 vacation days[^214].
-- Barack Obam
+- Barack Obama
     - First Term (2009-2013)
         - Golf: Played 113 rounds of golf[^215].
         - Vacation: Took 92 vacation days[^216]
