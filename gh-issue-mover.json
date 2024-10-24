@@ -1,0 +1,14 @@
+{
+  "fromRepo": {
+    "owner": "RalphHightower",
+    "name": "RalphHightower",
+    "token": {{ secret.GITHUB_TOKEN,
+    "rootURL": "https://github-enterprise.example.com/api/v3"
+  },
+  "toRepo": {
+    "owner": "RalphHightower",
+    "name": "RH",
+    "token": secret.GITHUB_TOKEN,
+    "rootURL": "https://github-enterprise.example.com/api/v3"
+  }
+}
