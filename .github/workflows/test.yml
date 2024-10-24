@@ -49,7 +49,6 @@ jobs:
   test_dev:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - uses: actions/checkout@6b42224f41ee5dfe5395e27c8b2746f1f9955030 # v4.1.7
       - run: git config --global user.name github-actions
