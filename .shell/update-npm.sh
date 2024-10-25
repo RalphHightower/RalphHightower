@@ -1,1 +1,1 @@
-npm install -g npm@10.8.3
+npm install -g npm@10.9.0
