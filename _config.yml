@@ -16,8 +16,8 @@ description: > # This means to ignore newlines until "show_excerpts:"
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-repository: "RalphHightower/RH"
-url: "https://ralphhightower.github.io/RH"
+repository: "RalphHightower/RalphHightower"
+url: "https://ralphhightower.github.io/RalphHightower"
 
 # Build settings
 
@@ -53,29 +53,29 @@ show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-    # Minima skin selection.
-    # Available skins are:
-    # classic	 Default, light color scheme.
-    # dark	 Dark variant of the classic skin.
-    # auto	 Adaptive skin based on the default classic and dark skins.
-    # solarized-light	 Light variant of solarized color scheme.
-    # solarized-dark	 Dark variant of solarized color scheme.
-    # solarized	 Adaptive skin for solarized color scheme skins.
-    skin: auto
+  # Minima skin selection.
+  # Available skins are:
+  # classic	 Default, light color scheme.
+  # dark	 Dark variant of the classic skin.
+  # auto	 Adaptive skin based on the default classic and dark skins.
+  # solarized-light	 Light variant of solarized color scheme.
+  # solarized-dark	 Dark variant of solarized color scheme.
+  # solarized	 Adaptive skin for solarized color scheme skins.
+  skin: auto
     
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
 # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-    date_format: "%F %r"
+  date_format: "%F %r"
 
 # Generate social links in footer.
-    social_links:
-        - { platform: devto, user_url: "https://dev.to/RalphHightower"}
-        - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
-        - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
-        - { platform: github, user_url: "https://github.com/RalphHightower" }
-        - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-        - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+  social_links:
+    - { platform: devto, user_url: "https://dev.to/RalphHightower"}
+    - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
+    - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
+    - { platform: github, user_url: "https://github.com/RalphHightower" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
         - { platform: telegram, user_url: "https://t.me/RalphHightower" }
         - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
         # - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
@@ -109,6 +109,13 @@ titles_from_headings:
 last-modified-at:
   date-format: "%F %r"
 
+include:
+  - README.md
+  - CHANGELOG
+  - CODE_OF_CONDUCT
+  - CONTRIBUTING
+  - LICENSE
+  
 exclude:
   - .ai_related_posts_cache.sqlite3
   - .ai_related_posts_cache.sqlite3-journal
