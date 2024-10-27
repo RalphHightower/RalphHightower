@@ -17,11 +17,11 @@ jobs:
       JEKYLL_VERSION: ${{ matrix.jekyll }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
-      - name: Set Up Ruby 2.7
+        uses: actions/checkout@v4
+      - name: Set Up Ruby 3.3.4
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.3.4
           bundler-cache: true
       - name: Run tests
         run: script/cibuild
