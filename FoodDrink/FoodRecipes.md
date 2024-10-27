@@ -1,4 +1,8 @@
-# FoodDrink/Food/Drink Recipes 
+---
+layout: page
+title: FoodDrink/Food/Drink Recipes 
+#permalink: /FoodDrink/
+---
 
 ## Food Recipes 
 

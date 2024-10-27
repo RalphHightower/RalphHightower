@@ -1,4 +1,8 @@
-# Photography/Canon Mirrorless Cameras
+---
+layout: page
+title: Photography/Canon Mirrorless Cameras
+#permalink: /Photography/
+---
 
 ## Canon RF Cameras
 

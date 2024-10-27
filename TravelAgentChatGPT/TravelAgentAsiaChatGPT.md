@@ -1,22 +1,26 @@
-# [ChatGPT Travel Agent](https://chat.openai.com/)/Asia 🌏 
-# Asia 🌏 
-## Afghanistan 🇦🇫 
-## Armenia 🇦🇲 
-## Azerbaijan 🇦🇿 
-## Bahrain 🇧🇭 
-## Bangladesh 🇧🇩 
-## Bhutan 🇧🇹 
-## Brunei 🇧🇳 
-## Cambodia 🇰🇭 
-## China 🇨🇳 
-## Cyprus 🇨🇾 
-## Georgia 🇬🇪 
-## India 🇮🇳 
-## Indonesia 🇮🇩 
-## Iran 🇮🇷 
-## Iraq 🇮🇶 
-## Israel 🇮🇱 
-## Japan 
+---
+layout: page
+title: ChatGPT Travel Agent/Asia 🌏 
+#permalink: /TravelAgentChatGPT/
+---
+## [ChatGPT Travel Agent](https://chat.openai.com/)/Asia 🌏 
+### Afghanistan 🇦🇫 
+### Armenia 🇦🇲 
+### Azerbaijan 🇦🇿 
+### Bahrain 🇧🇭 
+### Bangladesh 🇧🇩 
+### Bhutan 🇧🇹 
+### Brunei 🇧🇳 
+### Cambodia 🇰🇭 
+### China 🇨🇳 
+### Cyprus 🇨🇾 
+### Georgia 🇬🇪 
+### India 🇮🇳 
+### Indonesia 🇮🇩 
+### Iran 🇮🇷 
+### Iraq 🇮🇶 
+### Israel 🇮🇱 
+### Japan 
 
 | *"RalphHightower"* / [ChatGPT](https://chat.openai.com/) | 
 |---|
@@ -213,35 +217,35 @@
 |Sayonara.|
 |Sayonara! If you ever return or have more questions, feel free to reach out. Have a wonderful day and goodbye for now!|
 
-## Jordan 🇯🇴 
-## Kazakhstan 🇰🇿 
-## Kuwait 🇰🇼 
-## Kyrgyzstan 🇰🇬 
-## Laos 🇱🇦 
-## Lebanon 🇱🇧 
-## Malaysia 🇲🇾 
-## Maldives 🇲🇻 
-## Mongolia 🇲🇳 
-## Myanmar 🇲🇲 
-## Nepal 🇳🇵 
-## North Korea
-## Oman 🇴🇲 
-## Pakistan 🇵🇰 
-## Palestine 🇵🇸 
-## Philippines 🇵🇭 
-## Qatar 🇶🇦 
-## Russia 🇷🇺 
-## Saudi Arabia 🇸🇦
-## Singapore 🇸🇬 
-## South Korea
-## Sri Lanka
-## Syiwan 🇹🇼
-## Tajikistan 🇹🇯 
-## Thailand 🇹🇭 
-## Timor-Leste
-## Turkey 🇹🇷 
-## Turkmenistan 🇹🇲 
-## United Arab Emirates (UAE)
-## Uzbekistan 🇺🇿 
-## Vietnam 🇻🇳 
-## Yemen 🇾🇪 
+### Jordan 🇯🇴 
+### Kazakhstan 🇰🇿 
+### Kuwait 🇰🇼 
+### Kyrgyzstan 🇰🇬 
+### Laos 🇱🇦 
+### Lebanon 🇱🇧 
+### Malaysia 🇲🇾 
+### Maldives 🇲🇻 
+### Mongolia 🇲🇳 
+### Myanmar 🇲🇲 
+### Nepal 🇳🇵 
+### North Korea
+### Oman 🇴🇲 
+### Pakistan 🇵🇰 
+### Palestine 🇵🇸 
+### Philippines 🇵🇭 
+### Qatar 🇶🇦 
+### Russia 🇷🇺 
+### Saudi Arabia 🇸🇦
+### Singapore 🇸🇬 
+### South Korea
+### Sri Lanka
+### Syiwan 🇹🇼
+### Tajikistan 🇹🇯 
+### Thailand 🇹🇭 
+### Timor-Leste
+### Turkey 🇹🇷 
+### Turkmenistan 🇹🇲 
+### United Arab Emirates (UAE)
+### Uzbekistan 🇺🇿 
+### Vietnam 🇻🇳 
+### Yemen 🇾🇪 

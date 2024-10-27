@@ -1,4 +1,8 @@
-# Hardware/Hardware Links
+---
+layout: page
+title: Hardware/Hardware Links
+#permalink: /Hardware/
+---
 
 | Resource |
 |------|

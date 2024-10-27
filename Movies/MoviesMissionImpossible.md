@@ -1,4 +1,8 @@
-# Movies/Mission Impossible
+---
+layout: page
+title: Movies/Mission Impossible
+#permalink: /Movies/
+---
 
 | Title	| Release date	| Plot |
 |---|---|---|

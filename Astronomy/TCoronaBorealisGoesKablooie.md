@@ -1,4 +1,8 @@
-# Astronomy/T Corona Borealis Goes Kablooie
+---
+layout: page
+title: Astronomy/T Corona Borealis Goes Kablooie
+#permalink: /Astronomy/
+---
 
 <details markdown="1"><summary >Auroras / T Corona Borealis "Hot Links"</summary >
 
@@ -193,7 +197,11 @@ Light pollution disrupts wildlife, impacts human health, wastes money and energy
 | [Light pollution map](https://www.lightpollutionmap.info/)
 | [Light Pollution and Astronomy: How Dark Are Your Night Skies? - Sky & Telescope](https://skyandtelescope.org/astronomy-resources/light-pollution-and-astronomy-the-bortle-dark-sky-scale/) | JULY 18, 2006 |
 
-# International Space Station
+---
+layout: page
+title: International Space Station
+permalink: /Astronomy/
+---
 
 ## ISS Sighting Opportunities for South Carolina
 

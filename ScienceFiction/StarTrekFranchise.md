@@ -1,4 +1,8 @@
-# Science Fiction/[Star Trek Franchise](https://www.startrek.com/)  
+---
+layout: page
+title: Science Fiction/Star Trek Franchise  
+#permalink: /ScienceFiction/
+---
 
 ## [Star Trek Series](https://www.startrek.com/)
 

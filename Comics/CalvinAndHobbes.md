@@ -1,4 +1,8 @@
-# Comics/Calvin And Hobbes
+---
+layout: page
+title: Comics/Calvin And Hobbes
+#permalink: /Comics/
+---
 
 ## Books
 

@@ -1,4 +1,8 @@
-# Computing/Computer Design 
+---
+layout: page
+title: Computing/Computer Design 
+#permalink: /Computing/
+---
 
 | Computer Design | Date |
 |---|---|

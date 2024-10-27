@@ -1,4 +1,8 @@
-# Movies/Bond. James Bond (007)
+---
+layout: page
+title: Movies/Bond. James Bond (007)
+#permalink: /Movies/
+---
 
 | Title | Year | Actor |
 |-------|------|------|

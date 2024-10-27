@@ -1,4 +1,8 @@
-# News/Computer News
+---
+layout: page
+title: News/Computer News
+#permalink: /News/
+---
 
 | Computer News | Date |
 |---|---|

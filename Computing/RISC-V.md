@@ -1,4 +1,8 @@
-# Computing/RISC-V
+---
+layout: page
+title: Computing/RISC-V
+#permalink: /Computing/
+---
 
  ## Articles 
 

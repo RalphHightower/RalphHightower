@@ -1,4 +1,8 @@
-# Computing/Software / Utilities 
+---
+layout: page
+title: Computing/Software / Utilities 
+#permalink: /Computing/
+---
 
 | Software / Utilities | Purpose |
 |----------------------|---------|

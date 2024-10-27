@@ -1,14 +1,12 @@
 {
   "fromRepo": {
     "owner": "RalphHightower",
-    "name": "RalphHightower",
+    "name": "RalphHightower_orig",
     "token": {{ secrets.GITHUB_TOKEN }},
-    "rootURL": "https://github-enterprise.example.com/api/v3"
   },
   "toRepo": {
     "owner": "RalphHightower",
-    "name": "RH",
+    "name": "RalphHightower",
     "token": {{ secrets.GITHUB_TOKEN }},
-    "rootURL": "https://github-enterprise.example.com/api/v3"
   }
 }

@@ -1,4 +1,8 @@
-# Electronics/Electronics / Radios 📻 / Television 📺 
+---
+layout: page
+title: Electronics/Electronics / Radios 📻 / Television 📺 
+#permalink: /Electronics/
+---
 
 ## Electronics 
 

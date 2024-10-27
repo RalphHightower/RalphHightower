@@ -1,8 +1,12 @@
-# Automotive/Chevrolet HHR
+---
+layout: page
+title: Automotive/Chevrolet HHR
+#permalink: /Automotive/
+---
 
 I loved the retro styling of the HHR and it was a practical hatchback. It had a distinctive look that set it apart from the look alikes of sedans, hatchbacks, and SUVs. The Chevrolet HHR is a great, little, CUV (Compact Utility Vehicle), as classified by [South Carolina Department of Motor Vehicles](https://www.scdmvonline.com/). With the rear seats down, which was all the time, it had enough cargo capacity for the two of us, with our two Beagles.
 
-<img src="../2023-04-23_04-40-47.jpg">
+<img src="2023-04-23_04-40-47.jpg">
 
 ## Owners Manuals \| Reviews 
 

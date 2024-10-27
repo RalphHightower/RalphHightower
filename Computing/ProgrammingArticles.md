@@ -1,4 +1,8 @@
-# Computing/Programming / Security Articles 
+---
+layout: page
+title: Computing/Programming / Security Articles 
+#permalink: /Computing/
+---
 
 ## Programing Articles 
 

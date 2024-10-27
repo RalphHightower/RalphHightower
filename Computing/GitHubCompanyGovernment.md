@@ -1,4 +1,8 @@
-# Computing/GitHub: Company / Government [GitHub Repositories](https://github.com/), and [GitHub](https://github.com/ ) Topics
+---
+layout: page
+title: Computing/GitHub — Company / Government GitHub Repositories and GitHub References 
+#permalink: /Computing/
+---
 
 ## Company / Government [GitHubs](https://github.com/ )
 

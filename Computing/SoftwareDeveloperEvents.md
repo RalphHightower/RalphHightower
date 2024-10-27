@@ -1,4 +1,8 @@
-# Computing/Software Developer Events 
+---
+layout: page
+title: Computing/Software Developer Events 
+#permalink: /Computing/
+---
 
 | Software Developers Events | Date | Time Zone |
 |---|---|---|

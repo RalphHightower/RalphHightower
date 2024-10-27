@@ -1,4 +1,8 @@
-# FoodDrink/South Carolina Food 
+---
+layout: page
+title: FoodDrink/South Carolina Food 
+#permalink: /FoodDrink/
+---
 
 ## Statewide 
 

@@ -1,4 +1,8 @@
-# Photography/Rocket Launches
+---
+layout: page
+title: Photography/Rocket Launches
+#permalink: /Photography/
+---
 
 ## Rocket Launch Schedules
 

@@ -1,4 +1,8 @@
-# Music/Music
+---
+layout: page
+title: Music/Music
+#permalink: /Music/
+---
 
 ## Tenor Saxophone 
 

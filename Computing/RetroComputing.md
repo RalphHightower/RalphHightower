@@ -1,4 +1,8 @@
-# Computing/Retro Computing 
+---
+layout: page
+title: Computing/Retro Computing 
+#permalink: /Computing/
+---
 
 ## CPU
 

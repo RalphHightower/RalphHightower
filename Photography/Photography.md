@@ -1,4 +1,8 @@
-# Photography/Photography 
+---
+layout: page
+title: Photography/Photography 
+#permalink: /Photography/
+---
 
 ## ISS Solar/Lunar Transit Finder
 

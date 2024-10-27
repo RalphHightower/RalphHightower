@@ -1,4 +1,8 @@
-# Home/Home Lab
+---
+layout: page
+title: Home/Home Lab
+#permalink: /Home/
+---
 
 ## Hardware 
 

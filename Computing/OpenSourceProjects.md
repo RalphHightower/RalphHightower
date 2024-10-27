@@ -1,4 +1,8 @@
-# Computing/Open Source Projects
+---
+layout: page
+title: Computing/Open Source Projects
+#permalink: /Computing/
+---
 
 | Software | Description | Purpose |
 |----------|---------|----|

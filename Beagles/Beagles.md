@@ -1,4 +1,8 @@
-# Beagles/Beagles 
+---
+layout: page
+title: Beagles/Beagles 
+#permalink: /Beagles/
+---
 
 | Registered Name | Call Name | Birth | Death |
 |-----------------|-----------|-------|-------|

@@ -1,4 +1,8 @@
-# GitHub/SEO Resources 
+---
+layout: page
+title: GitHub/SEO Resources 
+#permalink: /GitHub/
+---
 
 ## SEO Resource Definitions
 
@@ -12,7 +16,7 @@
 
 <br />
 
-## Ruby Gemfile Interfaces for GitHub Paga
+## Ruby Gemfile Interfaces for GitHub Page
 | [_config.yml • jekyll/jekyll-seo-tag: GitHub ](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) |  Description |
 |---|---|
 | title | Your site's title (e.g., "**Ben's Awesome Site, The GitHub Blog, etc.**"), used as part of the title tag like **"Home / Ben's Awesome Site."** |

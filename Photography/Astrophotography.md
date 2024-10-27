@@ -1,4 +1,8 @@
-# Photography/Astrophotography 
+---
+layout: page
+title: Photography/Astrophotography 
+#permalink: /Photography/
+---
 
 ## Links to B&H eXplora Content Relating to Astrophotography
 

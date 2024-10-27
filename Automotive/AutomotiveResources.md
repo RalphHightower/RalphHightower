@@ -1,4 +1,8 @@
-# Automotive/Automotive Resources
+---
+layout: page
+title: Automotive/Automotive Resources
+#permalink: /Automotive/
+---
 
 ## Car/SUV/Truck Reviews, Resources 
 

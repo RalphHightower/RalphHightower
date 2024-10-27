@@ -1,4 +1,8 @@
-# Computing/Linux Notes
+---
+layout: page
+title: Computing/Linux Notes
+#permalink: /Computing/
+---
 
 ## Directories
 

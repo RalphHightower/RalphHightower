@@ -1,4 +1,8 @@
-# Home/Hardware Projects 
+---
+layout: page
+title: Home/Hardware Projects 
+#permalink: /Home/
+---
 
 ## Preferred Vendors 
 

@@ -1,4 +1,8 @@
-# Comics/Far Side
+---
+layout: page
+title: Comics/Far Side
+#permalink: /Comics/
+---
 
 ## Books
 

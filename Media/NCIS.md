@@ -1,4 +1,8 @@
-# Media/NCIS Franchise 
+---
+layout: page
+title: Media/NCIS Franchise 
+#permalink: /Media/
+---
 
 ## NCIS Franchise 
 

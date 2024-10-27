@@ -1,4 +1,8 @@
-# ChatGPT/[ChatGPT](https://chat.openai.com/) Haikus — Lists of Bucket Lists  
+---
+layout: page
+title: ChatGPT/ChatGPT Haikus — Lists of Bucket Lists  
+#permalink: /ChatGPT/
+---
 
 I have multiple bucket lists of different categories.
 

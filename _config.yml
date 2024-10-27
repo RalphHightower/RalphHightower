@@ -16,115 +16,113 @@ description: > # This means to ignore newlines until "show_excerpts:"
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-repository: "RalphHightower/RalphHightower"
-url: "https://RalphHightower.github.io/RalphHightower/"
-
-plugins:
-    - jekyll
-#    - github-pages
-#    - jekyll-avatar
-#    - jekyll-coffeescript
-#    - jekyll-github-metadata
-#    - jekyll-include-cache
-#    - jekyll-mentions
-#    - jekyll-optional-front-matter
-#    - jekyll-seo-tag
-#    - jekyll-sitemap
-#    - jekyll-last-modified-at
-#    - jekyll-maps
-#    - jekyll-mentions
-#    - jekyll-spaceship
-#    - jekyll-tagging
-#    - jekyll-toc
-#    - json
-#    - xml-sitemap
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%F %r"
-  # generate social links in the footer
-
-social_links:
-    - { platform: devto, user_url: "https://dev.to/RalphHightower"}
-#    - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
-    - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
-    - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
-    - { platform: github, user_url: "https://github.com/RalphHightower" }
-#    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-#    - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
-#    - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-#    - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
-#    - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
-    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
-    - { platform: telegram, user_url: "https://t.me/RalphHightower" }
-#    - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
-    - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
-    
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-#mathjax: true
+repository: "RalphHightower/RH"
+url: "https://ralphhightower.github.io/RH"
 
 # Build settings
+
+# If you clone the Minima repo and build locally, use this setting.
 theme: minima
-skin: auto
 
-# github-pages
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
 
-# jekyll-avatar
-# Put {% avatar [USERNAME] %} in page where it is wanted
+plugins:
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll_ai_related_posts
+   
+# Theme-specific settings
 
-# jekyll-github-metadata
-#   Propagates the site.github namespace with repository metadata
-#   Sets site.title as the repository name, if none is set
-#   Sets site.description as the repository tagline if none is set
-#   Sets site.url as the GitHub Pages domain (cname or user domain), if none is set
-#   Sets site.baseurl as the project name for project pages if none is set
+# If you want to link only specific pages in your header, use this and add the path to the pages
+# in order as they should show up.
+# header_pages:
+# - about.md
 
-# jekyll-mentions
-# In any page or post, use @mentions as you would normally, e.g.
-# Hey @benbalter, what do you think of this?
+# Set to `true` to show excerpts on the homepage.
+show_excerpts: true
 
-# jekyll-optional-front-matter
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+    # Minima skin selection.
+    # Available skins are:
+    # classic	 Default, light color scheme.
+    # dark	 Dark variant of the classic skin.
+    # auto	 Adaptive skin based on the default classic and dark skins.
+    # solarized-light	 Light variant of solarized color scheme.
+    # solarized-dark	 Dark variant of solarized color scheme.
+    # solarized	 Adaptive skin for solarized color scheme skins.
+    skin: auto
+    
+# Minima date format.
+# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+# Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+    date_format: "%F %r"
 
-# jekyll-seo-tag
-# Jekyll SEO Tag adds the following meta tags to your site:
-# • Page title, with site title or description appended
-# • Page description
-# • Canonical URL
-# • Next and previous URLs on paginated pages
-# • [JSON-LD - JSON for Linking Data](https://json-ld.org/) data format from [Intro to How Structured Data Markup Works | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+# Generate social links in footer.
+    social_links:
+        - { platform: devto, user_url: "https://dev.to/RalphHightower"}
+        - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
+        - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
+        - { platform: github, user_url: "https://github.com/RalphHightower" }
+        - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
+        - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+        - { platform: telegram, user_url: "https://t.me/RalphHightower" }
+        - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
+        # - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
+        # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
+        # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+        # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
+        # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
+        # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
+        # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
+        # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+        
+ai_related_posts:
+  openai_api_key: {{ secrets.OPEN_AI_KEY }}
+  fetch_enabled: prod
+    
+optional_front_matter:
+  remove_originals: true
+  enabled: true
 
-# jekyll-sitemap
-# <lastmod> tag
-# The <lastmod> tag in the sitemap.xml will reflect by priority:
-# 1. The modified date of the file as reported by the filesystem if you have jekyll-last-modified-at plugin installed (not compatible with GitHub Pages auto building)
-# 2. A personalised date if you add the variable last_modified_at: with a date in the Front Matter
-# 3. The creation date of your post (corresponding to the post.date variable)
+readme_index:
+  enabled: true
+  remove_originals: true
+  with_frontmatter: true
 
-# liquid
-# [shopiy.io](https://shopify.github.io/liquid/)
-
-# minima
-# Layouts
-# Refers to files within the _layouts directory, that define the markup for your theme.
-# • base.html — The base layout that lays the foundation for subsequent layouts. The derived layouts inject their contents into this file at the line that says {{ content }} and are linked to this file via # • FrontMatter declaration layout: base.
-# • home.html — The layout for your landing-page / home-page / index-page. [More Info.]
-# • page.html — The layout for your documents that contain FrontMatter, but are not posts.
-# • post.html — The layout for your posts.
-# • Base Layout
-# • From Minima v3 onwards, the base layout is named base.html instead of default.html to avoid confusing new users into assuming that name holds special status.
-
-#titles_from_headings:
-#  enabled: true
-#  strip_title: true
-#  collections: true
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
 
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
-    date-format: "%F %r"
+  date-format: "%F %r"
+
+exclude:
+  - .ai_related_posts_cache.sqlite3
+  - .ai_related_posts_cache.sqlite3-journal
+  - ./upstream-merge-sync-forked-repos.yml
+  - ./update-npm.sh
+  - ./script/
+  - ./update-gem.sh
+  - ./cloneLabels.sh
+  - ./docker-compose.debug.yml
+  - ./Dockerfile
+  - ./git-conventional-commits.json
+  - ./docker-compose.yml
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - _config.yml
+  - node_modules/

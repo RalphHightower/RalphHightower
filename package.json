@@ -17,11 +17,13 @@
     "ralph.hightower@gmail.com"
   ],
   "dependencies": {
-    "npm": "^10.8.1"
+    "npm": "^10.9.0"
   },
   "devDependencies": {
     "@semantic-release/github": "github:semantic-release/github",
-    "RalphHightower": "github:RalphHightower/RalphHightower"
+    "markdownlint": "^0.35.0",
+    "RalphHightower": "github:RalphHightower/RalphHightower",
+    "semantic-release": "^24.1.2"
   },
   "engines": {
     "node": ">=20.8.1"
@@ -67,5 +69,5 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "packageManager": "npm@10.8.1"
+  "packageManager": "npm@10.9.0"
 }

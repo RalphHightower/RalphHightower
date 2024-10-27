@@ -1,4 +1,8 @@
-# Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
+---
+layout: page
+title: Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
+#permalink: /Automotive/
+---
 
 ## Videos 
 

@@ -1,4 +1,8 @@
-# Science Fiction/The Orville
+---
+layout: page
+title: Science Fiction/The Orville
+#permalink: /ScienceFiction/
+---
 
 ## Reference Links
 

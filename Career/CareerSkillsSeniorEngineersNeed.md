@@ -1,4 +1,8 @@
-# Career/Skills Needed by Senior Engineers Besides Coding Skills
+---
+layout: page
+title: Career/Skills Needed by Senior Engineers Besides Coding Skills
+#permalink: /Career/
+---
 
 [An incomplete list of skills senior engineers need, beyond coding / by Camille Fournier / Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f )
 

@@ -1,4 +1,8 @@
-# Science Fiction/Doctor Who Timelords
+---
+layout: page
+title: Science Fiction/Doctor Who Timelords
+#permalink: /ScienceFiction/
+---
 
 ## Doctors' Timelines
 

@@ -1,4 +1,8 @@
-# Media/Rebooted Television Series [^11]
+---
+layout: page
+title: Media/Rebooted Television Series
+#permalink: /Media/
+---
 
 [^11]: Worth watching, i.e., shows with a plot; not something like Fresh Prince/Uncle of Bel Air.
 
@@ -23,7 +27,11 @@
 [^21]: Battlestar Galactica 
 [^22]: [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ ) 
 
-# Television Series Spinoffs
+---
+layout: page
+title: Television Series Spinoffs
+permalink: /Media/
+---
 
 | Television Series | Parent | Network |
 |----------------------------|--------|---------|

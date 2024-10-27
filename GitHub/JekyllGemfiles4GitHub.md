@@ -1,4 +1,8 @@
-# GitHub/Gemfiles For GitHub Pages
+---
+layout: page
+title: GitHub/Gemfiles For GitHub Pages
+#permalink: /GitHub/
+---
 
 ## Ruby Gemfiles
 

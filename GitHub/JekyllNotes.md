@@ -1,4 +1,8 @@
-# GitHub/Jekyll Notes
+---
+layout: page
+title: GitHub/Jekyll Notes
+#permalink: /GitHub/
+---
 
 ## Build Problems
 I wanted to use the latest Jekyll release, 4.3.3, for one of my GitHub websites. Not having access to a PC, I used GitHub Codespace. I edited my Gemfile and Jekyll config file, _config.yml.

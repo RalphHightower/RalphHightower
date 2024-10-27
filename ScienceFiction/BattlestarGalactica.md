@@ -1,4 +1,8 @@
-# Science Fiction/Battlestar Galactica[^11]
+---
+layout: page
+title: Science Fiction/Battlestar Galactica
+#permalink: /ScienceFiction/
+---
 
 [^11]: [What The Battlestar Galactica Reboot Needs To Work & Honor The Original Explained By Producer](https://screenrant.com/battlestar-galactica-reboot-success-original-honor-producer-explained/ )
 
