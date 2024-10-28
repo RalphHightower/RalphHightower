@@ -32,6 +32,7 @@ gem 'jekyll-readme-index', '~> 0.3.0'
 gem 'jekyll-relative-links', '~> 0.7.0'
 gem 'jekyll-seo-tag', '~> 2.8'
 gem 'jekyll-sitemap', '~> 1.4'
+gem 'jekyll-tagging', '~> 1.1'
 gem 'jekyll-titles-from-headings', '~> 0.5.3'
 
 # { 2024-09-29 @RalphHightower
