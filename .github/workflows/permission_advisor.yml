@@ -1,5 +1,5 @@
 # Sample workflow to run the action
-name: permission_advior.yml — Permissions Advisor
+name: permission_advisor.yml — Permissions Advisor
 
 permissions:
   actions: read
