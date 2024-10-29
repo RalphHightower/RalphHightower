@@ -38,6 +38,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
    
@@ -108,6 +109,9 @@ titles_from_headings:
 # Optional. The default date format is used if none is specified in the tag.
 last-modified-at:
   date-format: "%F %r"
+
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 include:
   - README.md
