@@ -24,6 +24,16 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The Far Side’s Jokes Have Baffled the Star of This Sitcom for 27 Years](https://www.cbr.com/far-side-gary-larson-simpsons-homer-simpson-confused/) | October 29, 2024 |
+| [15 Far Side Comic Jokes We Only Understood As Adults](https://www.cbr.com/the-far-side-best-adult-jokes/) | October 26, 2024 |
+| [10 Funniest The Far Side Comics Featuring Snakes, Ranked](https://www.cbr.com/the-far-side-best-snake-comics/) | October 25, 2024 |
+| [15 The Far Side Comic Strips That Barely Make Any Sense](https://www.cbr.com/the-far-side-strips-make-no-sense/) | Oct 19, 2024 |
+| [Surprisingly Dark Comic Strips From Fan Favorite Series](https://www.cbr.com/surprisingly-dark-comic-strips/) | Oct 17, 2024 |
+| [15 Funniest The Far Side Comics](https://www.cbr.com/the-far-side-funniest-comics/) | Oct 17, 2024 |
+| [15 Far Side Comics With the Darkest Humor](https://www.cbr.com/darkest-far-side-comics-ranked/) | Oct 11, 2024 |
+| [The Far Side's Most Confusing Comic, Explained](https://www.cbr.com/video/the-far-side-cow-tools-comic-explained/) | Oct 9, 2024 |
+| [30 Best Far Side Comic Strips Of All Time](https://www.cbr.com/best-far-side-comic-strips/) | Oct 8, 2024 |
+| [10 Best Comic Strips If You Love The Far Side](https://www.cbr.com/best-comic-strips-like-the-far-side/) | Oct 5, 2024 |
 | [The Far Side's Confusing Jokes Even Became a Gag on the Sitcom Cheers](https://www.cbr.com/far-side-confusing-jokes-cheers-gag/) | September 30, 2024 |
 | [10 Best The Far Side Comics About Science & Scientists](https://www.cbr.com/the-far-side-best-science-scientists-comics/) | September 29, 2024 |
 | [10 Funniest The Far Side Comics Set in the Afterlife](https://www.cbr.com/the-far-side-funny-afterlife-comics/) | Sep 27, 2024 |
@@ -62,9 +72,40 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
 |---|---|
-| [11 Far Side Comics From 1990 That Make Readers Go "What-the?"](https://screenrant.com/far-side-comics-1990-what-the-gary-larson/) | October 4, 2024 |
+| [Why The Far Side's "Dog With Gun" Comic (And Its "Sequel") Illustrate Gary Larson's Favorite "Animals Turning the Tables On Humans" Trope Better Than Any Other](https://screenrant.com/far-side-comic-dog-with-gun-gary-larson/) | October 29, 2024 |
+| [The Deep Cut Reference Behind This Classic Far Side Punchline Made Me Realize This Is Officially Gary Larson's Greatest Cow Joke](https://screenrant.com/far-side-gary-larson-contented-cows/) | October 28, 2024 |
+| [10 Far Side Comics About Predators That Will Make You Question Nature](https://screenrant.com/far-side-comics-predators-question-nature-gary-larson/) | October 28, 2024 |
+| [10 Funniest Far Side Comics That Somehow Make Coffee & Tea Hilarious](https://screenrant.com/funniest-far-side-comics-about-coffee-tea/) | October 27, 2024 |
+| [Over 40 Years Ago, The Far Side Revealed the "Real Reason Dinosaurs Became Extinct" (Why the Joke Hits Even Harder Today)](https://screenrant.com/far-side-gary-larson-dinosaur-extinction-smoking-kills/) | October 27, 2024 |
+| [10 Funniest Far Side Comics Starring Rabbits & Moles](https://screenrant.com/funniest-far-side-comics-starring-rabbits-and-moles/) | October 26, 2024 |
+| [I Think It's Time We Retire the Debate Over Whether The Far Side Has "Recurring Characters" Or Not](https://screenrant.com/far-side-gary-larson-retire-recurring-characters-debate/) | October 25, 2024 |
+| [10 Classic Far Side Comics That Don't Need A Caption To Be Funny](https://screenrant.com/far-side-comics-no-caption-gary-larson/) | October 24, 2024 |
+| [The Far Side's "Out of Order" Comic (Both Versions) Is the Perfect Illustration Of Gary Larson's Chaotic Creative Mind](https://screenrant.com/far-side-out-of-order-larson-creative-chaos) | October 26, 2024 |
+| [The Far Side's Humor Can Be Traced Back To Gary Larson's Childhood Love Of Snakes (& Other Reptiles)](https://screenrant.com/far-side-humor-gary-larson-snakes-perspective/) | October 22, 2024 |
+| [10 Far Side Comics That Prove Aliens Are Surprisingly Relatable](https://screenrant.com/far-side-comics-about-relatable-aliens/) | October 22, 2024 |
+| [Does The Far Side Have Any Recurring Characters?](https://screenrant.com/video/the-far-side-comics-recurring-characters-explained/) | Oct 22, 2024 |
+| [Why Gary Larson Changed One Of The Far Side's Weirdest Cartoons Nearly 20 Years After It Was Published (Is the Second Version Funnier?)](https://screenrant.com/gary-larson-far-side-slug-worship-cartoon-changes/) | Oct 22, 2024 |
+| [10 Hilarious Far Side Comics About Flowers & Other Plants](https://screenrant.com/far-side-comics-about-flowers-plants-gary-larson/) | Oct 21, 2024 |
+| [10 Funniest Far Side Comics That Just Turned 40, Including Gary Larson's Funniest Cat Comic](https://screenrant.com/funniest-far-side-comics-cats-september-1984/) | Oct 20, 2024 |
+| [The Far Side’s “Cow Tools" Comic: The Most Confusing Joke Gary Larson Ever Wrote is Still Impossible To Explain](https://screenrant.com/far-side-cow-tools-comic-meaning-gary-larson/) | Oct 18, 2024 |
+| [10 Funniest Far Side Comics Starring Dolphins & Whales](https://screenrant.com/funniest-far-side-comics-gary-larson-dolphins-whales/) | Oct 16, 2024 |
+| [How The Far Side's Gary Larson REALLY Felt About the Banjo, Explained (the Truth Is Simple, But Hilarious)](https://screenrant.com/far-side-comics-gary-larson-banjo-player/) | Oct 15, 2024 |
+| [9 Hilarious Far Side Comics About Parrots & Other Pet Birds](https://screenrant.com/far-side-comics-pet-birds-gary-larson/) | Oct 14, 2024 |
+| [10 Funniest Far Side Comics That Somehow Make School Funny (Including Larson's Single Best Comic)](https://screenrant.com/funniest-far-side-comics-school-best-gary-larson/) | Oct 13, 2024 |
+| [10 Hilarious Far Side Comics Featuring Highly Unconventional Pets](https://screenrant.com/hilarious-far-side-comics-featuring-highly-unconventional-pets/) | Oct 11, 2024 |
+| [5 Funniest Far Side Comics About Cavemen](https://screenrant.com/video/funniest-far-side-comics-about-cavemen/) | Oct 10, 2024 |
+| [10 Times Gary Larson Used Dogs To Deliver A Hilarious Punchline (That Dog Owners Will Love)](https://screenrant.com/far-side-dogs-hilarious-punchlines-for-dog-owners/) | Oct 10, 2024 |
+| [10 Far Side Comics That Turn Museums & Zoos Upside Down](https://screenrant.com/10-far-side-comics-that-turn-museums-upside-down/) | Oct 9, 2024 |
+| [10 Far Side Comics That Hilariously Reinvent the Meanings Of Classic Sayings](https://screenrant.com/far-side-comics-hilariously-reinvent-classic-sayings/) | Oct 8, 2024 |
+| [12 Far Side Comics From 1991 That Make Readers Go "What-the?"](https://screenrant.com/gary-larson-far-side-comics-1991-what-the/) | Oct 7, 2024 |
+| [10 Funniest Far Side Comics Where Dinosaurs Take The Spotlight](https://screenrant.com/funniest-far-side-comics-featuring-dinosaurs/) | Oct 6, 2024 |
+| [10 Most Clever Far Side Comics Poking Fun At Therapy](https://screenrant.com/far-side-comics-poking-therapy-jokes-gary-larson/) | Oct 5, 2024 |
+| [11 Far Side Comics From 1990 That Make Readers Go "What-the?"](https://screenrant.com/far-side-comics-1990-what-the-gary-larson/) | Oct 4, 2024 |
+| [10 Far Side Comics That Will Make You Rethink Human-Animal Relationships](https://screenrant.com/far-side-comics-human-animal-relationships-gary-larson/) | Oct 3, 2024 |
+| [13 Funniest Far Side Comics That Somehow Found the Funny Side of... Children Being Eaten?!](https://screenrant.com/funniest-far-side-comics-gary-larson-kids-animals/) | Oct 2, 2024 |
 | [10 Far Side Comics That Will Make You Rethink Human-Animal Relationships](https://screenrant.com/far-side-comics-human-animal-relationships-gary-larson/) | October 2, 2024 |
 | [13 Funniest Far Side Comics That Somehow Found the Funny Side of... Children Being Eaten?!](https://screenrant.com/funniest-far-side-comics-gary-larson-kids-animals/) | October 1, 2024 |
+| [10 Funniest Far Side Comics With Likable Protagonists](https://screenrant.com/funniest-far-side-comics-likable-protagonists-gary-larson/) | Oct 1, 2024 |
 | [10 Far Side Comics That Made The Mundane Hilarious With One Panel](https://screenrant.com/far-side-comics-make-mundane-hilarious-gary-larson/) | September 30, 2024 |
 | [This Far Side Comic Was "Hell" for Gary Larson to Draw, But Now He Knows What He Got Wrong](https://screenrant.com/far-side-funniest-comic-gary-larson-hated/) | September 29, 2024 |
 | [10 Far Side Comics That Will Make You Laugh Hours After You Read Them](https://screenrant.com/far-side-comics-unforgettable-keep-readers-laughing/) | September 27, 2024 |

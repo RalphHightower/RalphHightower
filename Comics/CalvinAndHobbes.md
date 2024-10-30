@@ -135,6 +135,12 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [Calvin and Hobbes’ Longest-Running Joke Explains Calvin’s Biggest Frustration](https://screenrant.com/calvin-and-hobbes-joke-explains-calvin-biggest-frustration/) | October 28, 2024 |
+| [Calvin and Hobbes Creator Bill Watterson Names the 1 Thing All His Characters Have In Common](https://screenrant.com/calvin-hobbes-bill-watterson-characters-reflect-author/) | October 27, 2024 |
+| [Calvin And Hobbes' Creator On the "Fantasy/Reality Question" & Its Importance To the Comic Strip (Do Fans Really Want To Know If Hobbes Is Imaginary Or Not?)](https://screenrant.com/calvin-hobbes-bill-watterson-fantasy-reality-hobbes-imaginary/) | October 25, 2024 |
+| [Calvin and Hobbes: 10 Best Comics That Only Parents Will Truly Understand](https://screenrant.com/best-calvin-and-hobbes-comics-mom-dad-parents/) | Oct 12, 2024 |
+| [15 Funniest Calvin and Hobbes Comics That Just Turned 30 (The Parent/Teacher Conference)](https://screenrant.com/funniest-calvin-and-hobbes-comics-september-1994/) | Oct 8, 2024 |
+| [This Calvin and Hobbes Comic Finally Explained the Rules to Calvinball (& They're Actually Really Simple)](https://screenrant.com/calvin-and-hobbes-explained-calvinball/) | October 5, 2024 |
 | [10 Times Calvin and Hobbes Explored Time Travel and Alternate Realities (Surprisingly Well)](https://screenrant.com/calvin-and-hobbes-time-travel-and-alternate-realities/) | September 28, 2024 |
 | [10 Genius Calvin and Hobbes Comics That Make Writing Hilarious](https://screenrant.com/funniest-calvin-and-hobbes-comics-about-writing) | Sep 26, 2024 |
 | [10 Brilliant Calvin & Hobbes Comics That Make Fun Of "High Art"](https://screenrant.com/best-calvin-and-hobbes-comics-about-art/) | September 21, 2024 |
