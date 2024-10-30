@@ -38,7 +38,8 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-tagging
+  # 2024-1-29 @RalphHightower: I couldn't figure out how to get jekyll-tagging working on my blog
+  # - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
    
