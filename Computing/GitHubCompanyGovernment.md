@@ -26,8 +26,8 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Adobe I/O](https://github.com/adobeio ) | Adobe I/O |
 | [Adobe Photoshop](https://github.com/adobe-photoshop ) | Adobe Photoshop |
 | [Adobe Research](https://github.com/adobe-research ) | Adobe Research  |
-| [Adobe Typekit](https://github.com/adobe-fonts ) | Adobe Fonts |
 | [Adobe Type Tools](https://github.com/adobe-type-tools ) | Adobe Type Tools |
+| [Adobe Typekit](https://github.com/adobe-fonts ) | Adobe Fonts |
 | [Adobe XD](https://github.com/AdobeXD ) | Adobe XD |
 | [AI4Finance Foundation](https://github.com/AI4Finance-Foundation ) | An open-source organization focused on advancing AI within the finance sector, founded by Bruce Yang and Yanglet Liu in 2018. |
 | [Akamai](https://github.com/akamai ) | A collection of official Akamai tools, community projects, and other goodies. |
@@ -130,7 +130,6 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Grafana Labs](https://github.com/grafana) | Grafana Labs is behind leading open source projects Grafana and Loki, and the creator of the first open & composable observability platform. |
 | [GraphQL](https://github.com/graphql ) | GraphQL |
 | [Greenhost](https://github.com/greenhost) | sustainable hosting and digital security |
-| [Greenhost greenhost](https://github.com/greenhost) | sustainable hosting and digital security |
 | [Hailo](https://github.com/hailo-ai) | AI Accelerator |
 | [HashiCorp](https://github.com/hashicorp ) | Consistent workflows to provision, secure, connect, and run any infrastructure for any application. |
 | [HelioCloud](https://github.com/heliocloud-data )  | Development of the HelioCloud platform for HelioPhysics research |
@@ -224,8 +223,8 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Node-RED](https://github.com/node-red ) | Low-code programming for event-driven applications |
 | [Notary Public](https://github.com/notaryproject ) | Notary is a project that allows anyone to have trust over arbitrary collections of data |
 | [npm](https://github.com/npm) | JavaScript Package Manager, Registry & Website |
-| [NSF National Center for Atmospheric Research NCAR](https://github.com/NCAR) | NSF NCAR is sponsored by the U.S. National Science Foundation and managed by the University Corporation for Atmospheric Research. |
 | [NSA Cybersecurity Directorate](https://github.com/nsacyber ) | Official GitHub account for NSA Cybersecurity Directorate. Formerly branded as NSA Cybersecurity, NSA Information Assurance, & Information Assurance Directorate |
+| [NSF National Center for Atmospheric Research NCAR](https://github.com/NCAR) | NSF NCAR is sponsored by the U.S. National Science Foundation and managed by the University Corporation for Atmospheric Research. |
 | [NVIDIA Corporation](https://github.com/NVIDIA ) | NVIDIA Corporation |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
@@ -312,7 +311,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Sixfab](https://github.com/sixfab ) | Cellular/Wireless Communications |
 | [Sky Map Devs](https://github.com/sky-map-team ) | Android App Skymap GitHub |
 | [SLSA Framework](https://github.com/slsa-framework ) | Supply-chain Levels for Software Artifacts |
-| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
+| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ | [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
 | [SparkFun Electronics](https://github.com/sparkfun ) | Building open source widgets to make prototyping hardware easier since 2002. |
 | [SPDX](https://github.com/spdx ) | SPDX is an open standard for communicating SBOM information, including provenance, license, security, and other related information. ISO/IEC 5962:2021 |
