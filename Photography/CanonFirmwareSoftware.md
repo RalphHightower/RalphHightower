@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography/Canon Manuals, Firmware, Software[^31] 
+title: Photography/Canon Manuals, Firmware, Software 
 #permalink: /Photography/
 ---
 
