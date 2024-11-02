@@ -1,9 +1,9 @@
 {
   "name": "RalphHightower",
   "description": "Ralph Hightower",
-  "version": "2.1.0-production",
+  "version": "3.0.0-production",
   "type": "website",
-  "author": "Hightower, Ralph <ralph.hightower@gmail.com",
+  "author": "Hightower, Ralph <ralph.hightower@gmail.com",and 
   "ava": {
     "files": [],
     "nodeArguments": [],
