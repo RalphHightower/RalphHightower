@@ -1,11 +1,14 @@
-name: Continuous Integration
+name: ci.yml – Continuous Integration
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
+permissions:
+  contents: read
+
 jobs:
   build:
     name: "Test with Jekyll ${{ matrix.jekyll }}"
@@ -17,9 +20,9 @@ jobs:
       JEKYLL_VERSION: ${{ matrix.jekyll }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
       - name: Set Up Ruby 3.3.6
-        uses: ruby/setup-ruby@v1.200.0
+        uses: ruby/setup-ruby@v1.203.0
         with:
           ruby-version: 3.3.6
           bundler-cache: true
