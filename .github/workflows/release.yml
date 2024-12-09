@@ -2,7 +2,7 @@ name: release.yml – Release
 on:
   push:
     branches:
-      - master
+      - main
       - next
       - beta
       - "*.x"

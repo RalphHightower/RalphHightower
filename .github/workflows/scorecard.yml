@@ -4,7 +4,7 @@ name: scorecard.yml — OpenSSF Scorecard
     - cron: 31 2 * * 1
   push:
     branches:
-      - master
+      - main
 permissions: read-all
 jobs:
   analysis:
