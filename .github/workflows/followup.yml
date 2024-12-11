@@ -9,6 +9,9 @@ on:
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
   #push: {branches: ["_staging", "main", "master"]}
+permissions:
+  contents: read
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -18,8 +21,13 @@ jobs:
       contents: write
 
     steps:
+        - name: Harden Runner
+          uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+          with:
+            egress-policy: audit
+
         - name: Opened on user's repositories
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.plugin.followup.svg
             use_prebuilt_image: yes
@@ -29,7 +37,7 @@ jobs:
             plugin_followup: yes
         
         - name: Opened by user
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.plugin.followup.user.svg
             use_prebuilt_image: yes
@@ -40,7 +48,7 @@ jobs:
             plugin_followup_sections: user
         
         - name: Indepth analysis
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.plugin.followup.indepth.svg
             use_prebuilt_image: yes
@@ -51,7 +59,7 @@ jobs:
             plugin_followup_indepth: yes
         
         - name: Exclude Archived
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.plugin.followup.archived.svg
             use_prebuilt_image: yes

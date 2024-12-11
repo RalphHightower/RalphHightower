@@ -34,3 +34,18 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "[info](sec) dotnet-sdk:"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: daily
+
+  - package-ecosystem: bundler
+    directory: /
+    schedule:
+      interval: daily
