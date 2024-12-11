@@ -9,6 +9,9 @@ on:
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
   #push: {branches: ["_staging", "main", "master"]}
+permissions:
+  contents: read
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -18,8 +21,13 @@ jobs:
       contents: write
 
     steps:
+        - name: Harden Runner
+          uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+          with:
+            egress-policy: audit
+
         - name: Organization
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.organization.svg
             use_prebuilt_image: yes
@@ -30,7 +38,7 @@ jobs:
             output_action: commit #pull-request-merge
         
         - name: Large display
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.large.svg
             use_prebuilt_image: yes
@@ -40,7 +48,7 @@ jobs:
         
         - name: JSON metrics
           if: ${{ success() || failure() }}
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.example.json
             use_prebuilt_image: yes
@@ -50,7 +58,7 @@ jobs:
         
         - name: PNG metrics
           if: ${{ success() || failure() }}
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.example.png
             use_prebuilt_image: yes
@@ -60,7 +68,7 @@ jobs:
         
         - name: Metrics insights
           if: ${{ success() || failure() }}
-          uses: lowlighter/metrics@latest
+          uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
           with:
             filename: metrics.insights.html
             use_prebuilt_image: yes

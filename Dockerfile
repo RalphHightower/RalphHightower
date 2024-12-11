@@ -1,4 +1,4 @@
-FROM ruby:slim
+FROM ruby:slim@sha256:e004e45a75508f2c3bd5bbfe6593ba60dff77b755626e270d631bba09e8c7ead
 
 LABEL Name=rh Version=0.0.1
 
