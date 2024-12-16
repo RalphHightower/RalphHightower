@@ -48,7 +48,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 | Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
 | Twitter | ~~[RalphHightower](https://twitter.com/RalphHightower)~~[^21] |
-| YouTube | [@RalphHightower](https://youtube.com/user/@RalphHightower) |
+| YouTube | [@RalphHightower](https://youtube.com/user/@RatypelphHightower) |
 
 [^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br />[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br />Convince the people and let the chips fall where they may.* <br />@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
@@ -106,14 +106,14 @@ I also have different categories of bucket lists.
 [^86]: This was the third car in high school. I drove this through college. It had an I-6 with a three speed manual transmission. Later while I was at [NCR](https://www.ncr.com/) E&M-Columbia, I bought a 1965 that had a V-8 and three speed manual. We have also owned newer models.
 [^87]: This was my second car in high school. It had an I-6 with a four speed manual transmission. I don't remember why it was replaced, but it wasn't wrecked. 
 [^88]: Paula totaled mine 2023-01-26. Damn it! I loved the retro styling and with the rear seats down, it had enough cargo capacity for our household of two and two Beagles. We took a week-long trip to Florida with three Beagles. We had to "tetris-pack", but it worked. 
-[^89]:  This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
+[^89]: This was my first car as teen driver. It had an I-6 and a 3 speed manual transmission.
 [^90]: July 2013, my wife and I were traveling back home from Charleston, South Carolina. I mentioned to her *"[KEH](https://www.keh.com/) has a [Canon](https://www.usa.canon.com/) [New F-1](https://global.canon/en/c-museum/product/film105.html) with the AE Motor Drive FN and AE Finder FN for sale."* She asked *"Is that their flagship camera?"* I answered *"Yes, for the 80's."* She said *"Buy it."*
 [^91]: I love the instruction set of this magnificent beast of a computer. 
 [^92]: It's gotta have the blinking console lights and console switches.
 [^93]: Cray Computers can, besides a supercomputer, be considered works of art.
 [^94]: First experience programming computers 
 [^95]: Once she has external tank and dummy solid rocket boosters attached, displayed upright as if ready for launch.
-[^96]:;2023-11-08 [Second rocket booster lifted into place for space shuttle Endeavour L.A. exhibit / collectSPACE](http://www.collectspace.com/news/news-110823a-space-shuttle-endeavour-exhibit-srm-lift-complete.html )
+[^96]: 2023-11-08 [Second rocket booster lifted into place for space shuttle Endeavour L.A. exhibit / collectSPACE](http://www.collectspace.com/news/news-110823a-space-shuttle-endeavour-exhibit-srm-lift-complete.html )
 [^97]: 2023-12-05 [Nose cones top off work to stand-up solid rocket boosters for Endeavour exhibit / collectSPACE](http://www.collectspace.com/news/news-120523a-space-shuttle-endeavour-exhibit-srbs-stacked.html )
 
 ## Dewar's Profile
@@ -502,6 +502,7 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 |   |
 |---|
+| [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9779/badge)](https://www.bestpractices.dev/projects/9779) |
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
