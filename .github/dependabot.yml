@@ -24,23 +24,8 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "[info](sec) bundler:"
-      
- # Enable version updates for github-actions
-  - package-ecosystem: "dotnet-sdk"
-    # Look for a `dotnet sdk` in the `root` directory
-    directory: "/"
-    # Check for updates once a week
-    schedule:
-      interval: "weekly"
-    commit-message:
-      prefix: "[info](sec) dotnet-sdk:"
 
   - package-ecosystem: github-actions
-    directory: /
-    schedule:
-      interval: daily
-
-  - package-ecosystem: docker
     directory: /
     schedule:
       interval: daily
