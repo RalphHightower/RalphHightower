@@ -26,15 +26,22 @@ For justice to be equitable, justices must be neutral to personal or politics. H
 | **Ginni Thomas Funding:** The Post reported in March that a conservative group Ginni Thomas formed in 2019 had raised nearly $600,000 from anonymous donors funneled through a right-wing think tank that filed an amicus brief at the Supreme Court during the same time, and ethics experts said Clarence Thomas should have recused himself from that case if his wife was paid by the group. |
 | **Financial Disclosures:** Thomas has made a series of other “errors and omissions” on financial disclosure reports, which the Washington Postreported includes reporting real estate income for decades from a company that shut down in 2006 and has in the past had to amend his financial disclosures multiple times, including after failing to report his wife’s income in the 2000s. |
 
-[^11]: This is an excellent summarization of the financial and ethical problems and conflicts of Thomas, plus his wife, Ginny.<br />— *Ralph Hightower*
-[^12]: ***DAMN!***<br />— *Ralph Hightower
-[^13]: Imagine the optics if Ginni Thomas were photographed or recorded at the rioting and subsequently charged with sedition.<br />— *Ralph Hightower*
+[^11]: @RalphHightower: This is an excellent summarization of the financial and ethical problems and conflicts of Thomas, plus his wife, Ginny.
+[^12]: @RalphHightower: ***DAMN!***
+[^13]: @RalphHightower: Imagine the optics if Ginni Thomas were photographed or recorded at the rioting and subsequently charged with sedition.
+
+### The SENATE Drops BOMBSHELL On Justice Clarence Thomas
+
+<iframe width="932" height="524" src="https://www.youtube.com/embed/jlinSYwI0Lo" title="The SENATE Drops BOMBSHELL On Justice Clarence Thomas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dec 21, 2024
+The United States Senate just dropped a bombshell on Supreme Court Justice Clarence Thomas ￼that could spell doom for him!
 
 ## [Supreme Court Judge Comes Under Fire Due to Findings of an Ethics Probe • MSN](https://www.msn.com/en-us/news/politics/supreme-court-judge-comes-under-fire-due-to-findings-of-an-ethics-probe/ )
 
 **[The Other Billionaires Who Helped Clarence Thomas Live a Luxe Life — ProPublica](https://www.propublica.org/article/clarence-thomas-other-billionaires-sokol-huizenga-novelly-supreme-court )**. Aug. 10, 2023, 5:45 a.m. EDT.
 
- While some of the hospitality, such as stays in personal homes, may not have required disclosure, Thomas appears to have violated the law by failing to disclose flights, yacht cruises and expensive sports tickets, according to ethics experts. <br />
+ While some of the hospitality, such as stays in personal homes, may not have required disclosure, Thomas appears to have violated the law by failing to disclose flights, yacht cruises and expensive sports tickets, according to ethics experts.
 
 1. Records show that Justice Thomas bought an expensive RV over 20 years ago. The loan at the time amounted to $267,230. However, Justice Thomas did not settle the loan, as his wealthy friend took care of it. The bone of contention is that the loan does not appear on any of Justice Thomas’s ethics forms.[^21]
 2. During the investigation of the RV purchase, the senate committee discovered the loan was obtained from Anthony Welters in 1999. The only evidence of that transaction is a 1999 promissory note signed by Justice Thomas.[^21]
@@ -92,7 +99,7 @@ California attorney James L. Arrasmith offers his opinion regarding gifts of sub
 | [Trump lawyers who fought election results saw Thomas as key / AP News](https://apnews.com/article/capitol-siege-biden-us-supreme-court-clarence-thomas-congress-82d7f735487c3693be8a1fbe350079a0) | Published 5:13 PM EST, November 2, 2022 |
 | [Justice Thomas' wife boosts unsupported claims against Biden / AP News](https://apnews.com/article/ginni-thomas-biden-unsupported-claims-d7df89f52e02c13ec0d2784a54cdc7f3) | Published 4:49 PM EST, October 27, 2020 |
 
-[^31]: *Ralph Hightower* — Like a fox guarding the hen house. 
+[^31]: @RalphHightower Like a fox guarding the hen house. 
 
 ## [Clarence Thomas Is Committing Tax Fraud • MSN](https://www.msn.com/en-us/money/taxes/clarence-thomas-is-committing-tax-fraud/ar-AA1m3kb2?ocid=emmx-mmx-feeds&pc=emmx01&cvid=a0d54461d93344a488eef61edec3c16a&ei=20 )
 
@@ -102,4 +109,5 @@ This article is a particularly damning article. Clarence Thomas has accepted pri
 - [AOC, House Democrats Ask AG Merrick Garland to Investigate Clarence Thomas • Business Insider](https://www.businessinsider.com/aoc-house-democrats-ask-merrick-garland-to-investigate-clarence-thomas-2023-8 ). Aug 11, 2023, 9:05 PM EDT
 - [Clarence Thomas Purchased His RV With the Help of a Wealthy Friend • Business Insider](https://www.businessinsider.com/clarence-thomas-purchased-luxury-rv-with-help-of-healthcare-executive-2023-8 )[^41]. Aug 5, 2023, 1:08 PM EDT
 
-[^41]: Those Prevost Marathon RV normally retail new in the multi million dollar range. Buying a used version for $267,000 is probably below market value for used. — *Ralph Hightower*
+[^41]: @RalphHightower: Those Prevost Marathon RV normally retail new in the multi million dollar range. Buying a used version for $267,000 is probably below market value for used. 
+
