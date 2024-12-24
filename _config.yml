@@ -103,8 +103,11 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+
 titles_from_headings:
-  enabled: true
+  enabled: false
   strip_title: true
   collections: true
 
@@ -112,6 +115,9 @@ titles_from_headings:
 last-modified-at:
   date-format: "%F %r"
 
+exclude:
+  - .ai_related_posts_cache.sqlite3
+  - .ai_related_posts_cache.sqlite3-journal
 tag_page_layout: tag_page
 tag_page_dir: tag
 
