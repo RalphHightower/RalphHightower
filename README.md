@@ -515,3 +515,4 @@ An opportunity. A chance to create and share something extraordinary with the wo
 |    |
 |---|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+| [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9779/badge)](https://www.bestpractices.dev/projects/9779) |
