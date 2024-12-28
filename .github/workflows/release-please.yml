@@ -11,7 +11,7 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: googleapis/release-please-action@4.1.3
+      - uses: googleapis/release-please-action@v4.1.3
         with:
           contents: write
           # this assumes that you have created a personal access token
