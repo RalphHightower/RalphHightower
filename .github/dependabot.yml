@@ -21,16 +21,11 @@ updates:
       - "_plugins"
     # Check for updates once a week
     schedule:
-      interval: "weekly"
+      interval: "daily"
     commit-message:
       prefix: "[info](sec) bundler:"
 
   - package-ecosystem: github-actions
-    directory: /
-    schedule:
-      interval: daily
-
-  - package-ecosystem: bundler
     directory: /
     schedule:
       interval: daily
