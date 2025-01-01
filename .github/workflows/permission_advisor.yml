@@ -21,7 +21,12 @@ jobs:
   advisor:
     runs-on: ubuntu-latest
     steps:
-    - uses: GitHubSecurityLab/actions-permissions/advisor@v1.0.2-beta5
+    - name: Harden Runner
+      uses: step-security/harden-runner@0080882f6c36860b6ba35c610c98ce87d4e2f26f # v2.10.2
+      with:
+        egress-policy: audit
+
+    - uses: GitHubSecurityLab/actions-permissions/advisor@babd69bc8d78e6cdece903dfdcfb72d4e1a4f00d # v1.0.2-beta5
       with:
         name: ${{ inputs.name }}
         count: ${{ inputs.count }}
