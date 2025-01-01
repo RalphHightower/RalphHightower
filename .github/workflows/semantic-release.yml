@@ -42,9 +42,9 @@ jobs:
     steps:
       name: semantic release
       uses: amannn/action-semantic-pull-request@v5.5.3
-        env:
+      env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+      with:
           # Type abbreviation comments:
           # feat -> feature
           # blog, info (2023-08-07 RalphHightower)
