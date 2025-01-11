@@ -3,6 +3,8 @@
 
 version: 2
 updates:
+permissions:
+  contents: write
   # Enable version updates for npm
   - package-ecosystem: "npm"
     # Look for `package.json` and `lock` files in the `root` directory
@@ -18,10 +20,10 @@ updates:
     # Look for `Ruby Gems` in the following directories 
     directories: 
       - "/"
-      - "_plugins"
+  #    - "_plugins"
     # Check for updates once a week
     schedule:
-      interval: "weekly"
+      interval: "daily"
     commit-message:
       prefix: "[info](sec) bundler:"
 
@@ -29,13 +31,5 @@ updates:
     directory: /
     schedule:
       interval: daily
-
-  - package-ecosystem: bundler
-    directory: /
-    schedule:
-      interval: daily
-
-  - package-ecosystem: docker
-    directory: /
-    schedule:
-      interval: daily
+    commit-message:
+      prefix: "[info](sec) gh-actions:"
