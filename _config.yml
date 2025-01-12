@@ -42,7 +42,7 @@ plugins:
   # 2024-1-29 @RalphHightower: I couldn't figure out how to get jekyll-tagging working on my blog
   # - jekyll-tagging
   - jekyll-titles-from-headings
-  - jekyll_ai_related_posts
+#  - jekyll_ai_related_posts
    
 # Theme-specific settings
 
@@ -90,9 +90,9 @@ minima:
     # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
     # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
         
-ai_related_posts:
-  openai_api_key: {{ secrets.OPEN_AI_KEY }}
-  fetch_enabled: prod
+# ai_related_posts:
+#   openai_api_key: {{ secrets.OPEN_AI_KEY }}
+#   fetch_enabled: prod
     
 optional_front_matter:
   remove_originals: true
@@ -115,9 +115,6 @@ titles_from_headings:
 last-modified-at:
   date-format: "%F %r"
 
-exclude:
-  - .ai_related_posts_cache.sqlite3
-  - .ai_related_posts_cache.sqlite3-journal
 tag_page_layout: tag_page
 tag_page_dir: tag
 
@@ -143,5 +140,6 @@ exclude:
   - package.json
   - package-lock.json
   - Gemfile
+  - Gemfile.lock
   - _config.yml
   - node_modules/
