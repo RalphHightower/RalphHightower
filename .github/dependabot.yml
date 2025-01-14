@@ -31,8 +31,5 @@ permissions:
     directory: /
     schedule:
       interval: daily
-
-#  - package-ecosystem: bundler
-#    directory: /
-#    schedule:
-#      interval: daily
+    commit-message:
+      prefix: "[info](sec) gh-actions:"
