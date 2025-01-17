@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to GitHub docs contributing guide <!-- omit in toc -->
+title: Welcome to GitHub docs contributing guide
 #permalink: /
 ---
 
@@ -9,8 +9,6 @@ Thank you for investing your time in contributing to our project! Any contributi
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
-
-Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## New contributor guide
 
