@@ -8,9 +8,7 @@ layout: base
 
 Hi, I’m @RalphHightower.
 
-## Announcement
-
-I have a blog at [Ralph Hightower/blog](https://ralphhightower.github.io/blog/).
+- [Ralph Hightower/blog](https://ralphhightower.github.io/blog/)
 
 ## Main Page
 
