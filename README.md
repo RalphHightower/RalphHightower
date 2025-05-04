@@ -1,16 +1,32 @@
 ---
 layout: base
 #title: Ralph Hightower – Main Website
-#permalink:
+#permalink: /
 ---
 
 # Ralph Hightower's Website
 
+## Briefly 
+
+### Synopsis
+
+@RalphHightower GitHub / Web Site. No code, just web. This grew from wanting to have a portable collection of bookmarks, regardless of devices (computers, smartphones, tablets), operating systems (Windows, Android, Linux, Solaris, or Unix), or locations (home, remote). This is my extensive personal website that has my varied interests. It underwent a major renovation where pages of similar interests are grouped by directories.
+
+### Contributing
+
+### Documentation
+
+### Discussions
+
+### Issues
+
+### License 
+
+### Security 
+
+## Introduction 
+
 Hi, I’m @RalphHightower.
-
-- [Ralph Hightower/blog](https://ralphhightower.github.io/blog/)
-
-## Main Page
 
 As an INTP on the Myers-Briggs Personality Assessment, my career in software development was a natural match; I have enjoyed computer programming and software development since my introduction to computer programming in my first engineering class at the University of South Carolina College of Engineering. Our class chose to use the department's Digital Equipment Corporation (DEC) PDP-8 minicomputer programming in FOCAL (similar to Dartmouth BASIC). In the next class, we learned to program using the PDP-8 assembly language; which provided the basis for learning other computers instruction sets: Intel 8080/8085, DEC PDP-8 and PDP-11, Motorola 68000, and IBM 360/370. Computer high-level languages: C, C++, C# & .Net, Fortran IV, Java, PL/1, SNOBOL, Algol, Pascal, Visual Basic, Dartmouth BASIC, APL, and Delphi. Operating Systems: Windows, Unix, and Linux. Web markup languages: HTML, JavaScript, and XML.
 
@@ -33,7 +49,7 @@ Photography is another creative endeavor that I have enjoyed almost as long as I
 [^13]: I had to Google the GOT Personality Test. Oh, I don't subscribe to HBO, so all I know of Game of Thrones is that's it's sorta like King Arthur set in medieval times.<br />I took the GOT Personality Test. I saw that reference in a LinkedIn news article about using personality tests to get the right balance of different personalities. I think using a personality test to determine employment is a form of discrimination and I use that rather strictly because there's race discrimination and gender discrimination.
 [^14]: Primary Character: Mance Rayder <br />Nickname: King Beyond the Wall<br />Traits: Inspiring, Formidable, Pioneer<br />Your primary character is Mance Rayder. You are a charismatic, calm, and determined man with strong leadership qualities. You tend to rise quickly through the ranks of any organization you enter. You have good social and diplomatic skills, allowing you to collaborate with many different types of people. You have an honest yet stern persona which earns you respect and admiration of those around you. You are very trusting which can be your greatest weakness. You value freedom above all else.
 [^15]: Secondary Character: Ser Jaime Lannister<br />Nickname: The Kingslayer<br />Traits: Arrogant, Sarcastic, Apathetic<br />Your secondary character is Ser Jaime Lannister. You are charming and capable of impeccable politeness in the right circumstances. In the wrong circumstances, others perceive you to be disdainful, sarcastic and arrogant. However your arrogance may just be confidence, as you excel in a number of areas, including intelligence. You don't mock others over minor failings but you are usually very blunt. You typically just say what you are thinking without regard to the feelings of those that you perceive as incompetent. You regard ruthlessness as a virtue and behave in an unapologetically amoral way. You're not politically ambitious and sly maneuvering is not your way.
-[^16]: Tertiary Character: Ygritte<br />Nickname: Ygritte<br />Traits: Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of societu're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
+[^16]: Tertiary Character: Ygritte<br />Nickname: Ygritte<br />Traits: Wild, Uncoventional, Determined<br />Your tertiary character is Ygritte. You are brave and unconventional. You have a mind of your own and prefer not to conform with the demands of society. You're cunning and value freedom above all else. You're loyal, but also very passionate and you follow to your heart much more than your head. You live a very fulfilled life, chasing your dreams but this sometimes causes others to mistrust you although you have little enmity in your heart.
 
 ## Various Places Where I May Be
 
