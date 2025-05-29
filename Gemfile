@@ -17,7 +17,6 @@ gem 'rake', '~> 13.2', '>= 13.2.1'
 gem 'minima', '~> 2.5', '>= 2.5.2'
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
 
 group :jekyll_plugins do
 # gem 'jekyll_ai_related_posts', '~> 0.1.4'
