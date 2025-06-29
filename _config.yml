@@ -14,11 +14,11 @@ description: > # This means to ignore newlines until "show_excerpts:"
   50++ years experience; still active for personal projects. Witnessed
   two final space flights: Apollo/Soyuz, Space Shuttle STS-135 Atlantis
   (launch and landing) w/ Final Four.
-  
+show_excerpts: true # set to true to show excerpts on the homepage
+
 repository: "RalphHightower/RalphHightower"
-url: "https://ralphhightower.github.io"
-baseurl: "RalphHightower/"
-timezone: 'America/New_York'
+url: "https://ralphhightower.github.io/RalphHightower"
+google_analytics: G-YJ5GK6SJ15
 
 # Build settings
 
@@ -42,7 +42,7 @@ plugins:
   # 2024-1-29 @RalphHightower: I couldn't figure out how to get jekyll-tagging working on my blog
   # - jekyll-tagging
   - jekyll-titles-from-headings
-#  - jekyll_ai_related_posts
+  - jekyll_ai_related_posts
    
 # Theme-specific settings
 
@@ -90,9 +90,9 @@ minima:
     # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
     # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
         
-# ai_related_posts:
-#   openai_api_key: {{ secrets.OPEN_AI_KEY }}
-#   fetch_enabled: prod
+ai_related_posts:
+  openai_api_key: {{ secrets.OPEN_AI_KEY }}
+  fetch_enabled: prod
     
 optional_front_matter:
   remove_originals: true
@@ -103,11 +103,8 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 
-tag_page_layout: tag_page
-tag_page_dir: tag
-
 titles_from_headings:
-  enabled: false
+  enabled: true
   strip_title: true
   collections: true
 
@@ -140,6 +137,5 @@ exclude:
   - package.json
   - package-lock.json
   - Gemfile
-  - Gemfile.lock
   - _config.yml
   - node_modules/
