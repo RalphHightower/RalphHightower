@@ -12,6 +12,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 
 | Company / Government GitHub Repository | Description |
 |---|---|
+| [18F](https://github.com/18F) | 18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA |
 | [AAVSO](https://github.com/AAVSO) | Astronomy NonProfit connecting backyard observers and professional astronome |
 | [ADLINK Technology](https://github.com/ADLINK) | ADLINK Technology |
 | [Adobe, Inc.](https://github.com/adobe ) | Open source from Adobe |
@@ -38,8 +39,10 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Amazon Linux](https://github.com/amazonlinux ) |
 | [Amazon Science](https://github.com/amazon-science ) | Amazon Science |
 | [Amazon Web Services - Labs](https://github.com/awslabs ) | Amazon Web Services - Labs AWS Labs |
+| [Anello Photonics](https://github.com/Anello-Photonics.) | Redefining Navigation With Integrated Silicon Photonics |
 | [Ansible](https://github.com/ansible ) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
 | [Apache Software Foundation](https://github.com/apache ) | The Apache Software Foundation |
+| [Aqua Security](https://github.com/aquasecurity) | Next-generation cloud native security |
 | [Arduino](https://github.com/arduino ) | This org contains the official Arduino tools (IDE, CLI...), documentation and cores. See [@arduino-libraries](https://github.com/arduino-libraries) for the official libraries |
 | [Arduino Libraries](https://github.com/arduino-libraries ) | This org contains the official Arduino Libraries. See [@arduino](https://github.com/arduino) for the tools (IDE, CLI...) and everything else |
 | [ARIN Engineering](https://github.com/arineng ) | American Registry for Internet Numbers |
@@ -47,6 +50,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Arm Mbed](https://github.com/ARMmbed ) | Arm Mbed OS is a platform operating system designed for the internet of things |
 | [Arm Software](https://github.com/ARM-software ) | Arm Software |
 | [Armbian](https://github.com/armbian ) | Linux for single board computers |
+| [ARM User Facility](https://github.com/ARM-DOE) | ARM-DOE houses Atmospheric Radiation Measurement (ARM) user facility-supported open-source software and community code for public use. Code repositories in ARM-DOE are expected to be actively maintained and available to the scientific community. |
 | [Asterisk Project](https://github.com/asterisk ) | Asterisk is a free and open source framework for building communications applications. |
 | [Atheros](https://github.com/atherosai ) | On the path towards artificial general intelligence and building narrow AI products along the way |
 | [Australian Antarctic Data Centre](https://github.com/AustralianAntarcticDataCentre ) | Australian Antarctic Data Centre |
@@ -66,6 +70,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Capstone Engine](https://github.com/capstone-engine ) | Capstone disassembly/disassembler framework. |
 | [CARLA](https://github.com/carla-simulator ) | Open-source simulator for autonomous driving research. |
 | [Ceph](https://github.com/ceph ) | Ceph is a distributed object, block, and file storage platform |
+| [CERN Database and Analytics Group](https://github.com/cerndb) | |
 | [CHIPS Alliance](https://github.com/chipsalliance ) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Data Center](https://github.com/datacenter ) | Cisco Data Center – Cisco Open Source Projects for the Data Center |
 | [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
@@ -87,14 +92,18 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
 | [datahub-project](https://github.com/datahub-project)
+| [deepspeedai](https://github.com/deepspeedai) | AI |
 | [Defense Unicorns](https://github.com/defenseunicorns ) |We provide secure, open source and infrastructure agnostic applications and tools that enable our partners to rapidly accelerate their software acquisition and delivery processes. Our open source applications enable DevSecOps on even the most secure systems.<br /><br />We are innovators, software engineers, and veterans with decades of experience delivering technology programs across the DoD as well as the broader federal market. Our team of unicorns are zany and passionate individuals who are dedicated to mission success.<br /><br />Defense Unicorns operates with a single belief; that a value not lived is not a value at all. Our team exercises habits every day that bring our values to life. |
 | [Docker](https://github.com/docker ) | Docker helps developers bring their ideas to life by conquering the complexity of app development. |
 | [Eclipse Foundation — GitHub](https://github.com/eclipse ) | An open source MQTT broker |
 | [Eclipse Mosquitto — Website](https://mosquitto.org/ ) | An open source MQTT broker |
 | [Efinix-Inc](https://github.com/Efinix-Inc) | Efinix, Inc. |
+| [Electronic Frontier Foundation](https://github.com/EFForg) | |
 | [Elsa Workflows](https://github.com/elsa-workflows ) | A set of workflow libraries, engines & designers |
 | [ESPHome](https://github.com/esphome ) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
 | [Espressif Systems](https://github.com/espressif ) | Espressif supports a large variety of open-source projects, including SDKs, components, libraries, solutions, and tools, which aim to help developers bring their projects to life.<br />All of Espressif’s official software, relating to the various series of ESP SoCs including ESP32 and ESP8266, are available on this GitHub site. To check out all the series of SoCs from Espressif, please visit our ESP Product Selector. |
+| [European Organization for Nuclear Research](https://github.com/CERN)
+| [European Space Agency](https://github.com/ESA) | The European Space Agency (ESA) is Europe’s gateway to space. Its mission is to shape the development of Europe’s space capability. |
 | [F# Software Foundation Repositories](https://github.com/fsharp ) | F# Software Foundation Repositories |
 | [FaceONNX](https://github.com/FaceONNX ) | Face recognition and analytics library based on deep neural networks and ONNX runtime |
 | [Faraday](https://github.com/infobyte ) | Open Source Vulnerability Management Platform. |
@@ -118,6 +127,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [GitHub Teacher](https://github.com/githubteacher) | The official teacher of all things GitHub! |
 | [Gitleaks](https://github.com/gitleaks ) | Scanning code, past or present, for secrets |
 | [Gluster\.org](https://github.com/gluster ) | Gluster is a software defined storage, which you can use for high-availability and other features as storage in Hybrid Cloud, Containers, or as NAS replacement. |
+| [Goddard Earth Observing System - Earth System Modeling](https://github.com/GEOS-ESM) | Goddard Earth Observing System - Earth System Modeling |
 | [Goldman Sachs](https://github.com/goldmansachs) |   |
 | [Google](https://github.com/google) | Google ❤️ Open Source |
 | [Google APIs](https://github.com/googleapis) | Clients for Google APIs and tools that help produce them. |
@@ -142,6 +152,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Huly® Platform™](https://github.com/hcengineering) |
 | [Hurricane Analysis and Forecast System (HAFS\) Community](https://github.com/hafs-community) | HAFS is the Unified Forecast System (UFS) hurricane application specialized in tropical cyclone research and forecasting |
 | [IBM](https://github.com/IBM) | International Business Machines  |
+| [Institute for Astronomy - Univ. of Hawaii](https://github.com/ifauh) | Institute for Astronomy |
 | [Intel Corporation](https://github.com/intel ) | Intel is committed to open ecosystems</br >Community-built open software based on open standards has fueled the modern connected world. Intel has been a leader in this community from the beginning and recognizes the value and need to contribute to a healthy, open ecosystem. |
 | [Intel® RealSense™](https://github.com/IntelRealSense ) | Open Source software from the Intel® RealSense™ team |
 | [InterNetNews](https://github.com/InterNetNews) | INN (InterNetNews) Usenet server |
@@ -160,6 +171,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [KiCad EDA](https://github.com/KiCad ) | A Cross Platform and Open Source Electronics Design Automation Suite |
 | [Khoj AI](https://github.com/khoj-ai) | Creating the open-source, AI copilot for your life |
 | [Kubernetes](https://github.com/kubernetes ) | Kubernetes |
+| [Legit Labs](https://github.com/Legit-Labs) | Application Security Posture Management, from code to cloud – Verified |
 | [Lepton AI](https://github.com/leptonai ) | Pythonic framework to simplify AI service building |
 | [LinkedIn](https://github.com/linkedin ) | LinkedIn |
 | [Linux — torvalds (Linus Torvalds)](https://github.com/torvalds ) | Linux Source Tree |
@@ -220,13 +232,16 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [New Relic](https://github.com/newrelic ) | Full-Stack Observability helps engineers plan, build, deploy, and run great software. Only New Relic has a unified data platform for all telemetry data—metrics, events, logs and traces—paired with analysis tools to find solutions fast. Move past the ‘what’ to uncover the ‘why’. |
 | [Nexus-Electronics](https://github.com/Nexus-Electronics ) | Nexus Electronics specializes in the development of open-source hardware. |
 | [nginx](https://github.com/nginx ) | NGINX Agent provides an administrative entry point to remotely manage, configure and collect metrics and events from NGINX instances |
+| [NOAA-SWPC](https://github.com/NOAA-SWPC) | NASA Solar Weather Prediction Center |
 | [Node-RED](https://github.com/node-red ) | Low-code programming for event-driven applications |
 | [Notary Public](https://github.com/notaryproject ) | Notary is a project that allows anyone to have trust over arbitrary collections of data |
 | [npm](https://github.com/npm) | JavaScript Package Manager, Registry & Website |
 | [NSA Cybersecurity Directorate](https://github.com/nsacyber ) | Official GitHub account for NSA Cybersecurity Directorate. Formerly branded as NSA Cybersecurity, NSA Information Assurance, & Information Assurance Directorate |
+| [NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)](https://github.com/ai2es) | |
 | [NSF National Center for Atmospheric Research NCAR](https://github.com/NCAR) | NSF NCAR is sponsored by the U.S. National Science Foundation and managed by the University Corporation for Atmospheric Research. |
 | [NVIDIA Corporation](https://github.com/NVIDIA ) | NVIDIA Corporation |
 | [NVIDIA Research Projects](https://github.com/NVlabs ) | NVIDIA Research |
+| [obsolescence (Oscar)](https://github.com/obsolescence) | PiDP-8, PiDP-11, PiDP-10 |
 | [Octokit](https://github.com/octokit ) | Official clients for the GitHub API |
 | [Ollama](https://github.com/ollama) | |
 | [OPC Foundation](https://github.com/OPCFoundation ) | In today’s complex economy, information is the key to business success and profitability. OPC technologies were created to allow information to be easily and securely exchanged between diverse platforms from multiple vendors and to allow seamless integration of those platforms without costly, time-consuming software development. This frees engineering resources to do the more important work of running your business. Today, there are more than 5,200 suppliers who have created more than 42,000 different OPC products used in more than 52 million applications. The estimate of the savings in engineering resources alone is in the billions of dollars. |
@@ -234,7 +249,6 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Open Container Initiative](https://github.com/opencontainers ) | Creating open standards around container technology |
 | [Open Compute Project](https://github.com/orgs/opencomputeproject/repositories ) | Open Compute Project |
 | [Open GenerativeAI](https://github.com/OpenGenerativeAI ) | Open-source GenAI community |
-| [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)<br />[OpenSSF scorecard report](https://scorecard.dev/viewer/?uri=github.com%2FRalphHightower%2Fblog) | OpenSSF is a community of software developers and security engineers who are working together to secure open source software for the greater public good. Verified |
 | [OpenAI](https://github.com/openai ) | OpenAI |
 | [OpenBGPD Portable](https://github.com/openbgpd-portable ) | Open Border Gateway Protocol Portable |
 | [OpenBSD](https://github.com/openbsd ) | OpenBSD cvs repository conversions for public consumption. |
@@ -248,6 +262,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [OpenNMT](https://github.com/OpenNMT) | Open source ecosystem for neural machine translation and neural sequence learning |
 | [Open Neural Network Exchange](https://github.com/onnx ) | ONNX is an open ecosystem for interoperable AI models. It's a community project: we welcome your contributions! |
 | [OpenRazer](https://github.com/openrazer ) | Unofficial driver and daemon for Razer hardware on GNU/Linux |
+| [Open Source Security Foundation (OpenSSF)](https://github.com/ossf) | OpenSSF is a community of software developers and security engineers who are working together to secure open source software for the greater public good. |
 | [OpenSCAD](https://github.com/openscad ) | OpenSCAD - The Programmers Solid 3D CAD Modeller |
 | [OpenSpace](https://github.com/OpenSpace) | OpenSpace is an open source interactive data visualization software designed to show the known universe and portray our efforts to investigate the cosmos. |
 | [OpenSSL: TLS/SSL and crypto library](https://github.com/openssl ) | Secure Sockets Layer  |
@@ -315,8 +330,12 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Space Telescope Science Institute](https://github.com/spacetelescope ) | STScI is operated by AURA for NASA |
 | [SparkFun Electronics](https://github.com/sparkfun ) | Building open source widgets to make prototyping hardware easier since 2002. |
 | [SPDX](https://github.com/spdx ) | SPDX is an open standard for communicating SBOM information, including provenance, license, security, and other related information. ISO/IEC 5962:2021 |
+| [Stanford Open Virtual Assistant Lab](https://github.com/stanford-oval) | Research projects in the Stanford Open Virtual Assistant Lab |
 | [starfive-tech](https://github.com/starfive-tech ) | RISC-V |
+| [StepSecurity](https://github.com/step-security) | Secure your GitHub Actions with StepSecurity: Your Trusted CI/CD Security Partner |
+| [Stochastic](https://github.com/stochasticai) | Making the best AI accessible to all |
 | [STMicroelectronics](https://github.com/STMicroelectronics) | STMicroelectronics is a world leader in providing the semiconductor solutions that make a positive contribution to people’s lives, today and into the future. |
+| [SWAN](https://github.com/swan-cern) | Service for Web based ANalysis |
 | [SwissMicros](https://github.com/swissmicros ) | SwissMicros Github |
 | [T-Firefly (Firefly Team)](https://github.com/T-Firefly ) | RISC-V System Manufacturer |
 | [TAS Emulators on GitHub](https://github.com/TASEmulators ) | Rerecording emulators and tools used for making Tool Assisted Speedruns |
@@ -331,7 +350,9 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Triton Inference Server](https://github.com/triton-inference-server ) | NVIDIA Triton Inference Server provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.<br />This top level GitHub organization host repositories for officially supported backends, including TensorRT, TensorFlow, PyTorch, Python, ONNX Runtime, and OpenVino. The organization also hosts several popular Triton tools, including:<br />• Model Analyzer: A tool to analyze the runtime performance of a model and provide an optimized model configuration for Triton Inference Server.<br />• Model Navigator: a tool that provides the ability to automate the process of moving a model from source to optimal format and configuration for deployment on Triton Inference Server. |
 | [Truffle Security](https://github.com/trufflesecurity ) | Find and verify credentials |
 | [Turing Machines](https://github.com/turing-machines ) | A platform for edge computing and AI agents |
+| [@unitedstates](https://github.com/unitedstates) | A shared commons of data and tools for the United States. Made by the public, used by the public. |
 | [u-blox](https://github.com/u-blox ) | u-blox is a Swiss company that creates wireless semiconductors and modules for consumer, automotive and industrial markets. |
+| [U.S. General Services Administration](https://github.com/GSA) | The U.S. General Services Administration |
 | [U.S. Geological Survey](https://github.com/DOI-USGS ) | By integrating our diverse scientific expertise, we understand complex natural science phenomena and provide scientific products that lead to solutions. |
 | [Unicorn Engine](https://github.com/unicorn-engine ) | Multi-arch multi-platform CPU emulator framework |
 | [valhalla](https://github.com/valhalla ) | Valhalla is an Open Source Routing Library/Service |
@@ -343,6 +364,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Visa](https://github.com/visa ) | Visa |
 | [Warp](https://github.com/warpdotdev) | Warp — AT-powered Linux Terminal |
 | [Wazuh](https://github.com/wazuh ) | The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. |
+| [The Weather Company](https://github.com/TheWeatherCompany) | The Weather Company |
 | [Windows on R](https://github.com/worproject ) | Get the full desktop experience on your SBC |
 | [x64dbg](https://github.com/x64dbg ) | An open-source x64/x32 debugger for windows. |
 | [Yammer](https://github.com/yammer ) | Connect with people across your organization to make better decisions, faster. |
