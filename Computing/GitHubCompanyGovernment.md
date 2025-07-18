@@ -8,7 +8,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 
 ### [Who’s using GitHub? / GitHub and Government](https://government.github.com/community/ )
 
-[^0523]: My personal opinion.
+[^0523]: @RalphHightower: "Looks like a useful place for GitHub actions.".
 
 | Company / Government GitHub Repository | Description |
 |---|---|
@@ -87,7 +87,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Connectivity Standards Alliance](https://github.com/project-chip ) | Implementation Source Code for the Matter Project |
 | [containerd](https://github.com/containerd ) | An open and reliable container runtime |
 | [Content Authenticity Initiative](https://github.com/contentauth ) |Content Authenticity Initiative |
-| [coolLabs](https://github.com/coollabsio) | Control your digital footprint | Open-source & self-hostable | applications and services built for your online safety. |
+| [coolLabs](https://github.com/coollabsio) | Control your digital footprint | Open-source & self-hostable applications and services built for your online safety. |
 | [Cosmic Research](https://github.com/CosmicResearch ) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets ) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov ) | Commit today, secure tomorrow. |
@@ -304,7 +304,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [RISC-V Collaboration](https://github.com/riscv-collab ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Non-ISA Specifications](https://github.com/riscv-non-isa ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [RISC-V Software](https://github.com/riscv-software-src ) | RISC-V: The Free and Open RISC Instruction Set Architecture |
-| [reviewdog](https://github.com/reviewdog) | | *RalphHightower: "Looks like a useful place for GitHub actions."[^0523] |
+| [reviewdog](https://github.com/reviewdog)[^0523] |
 | [rockchip-linux](https://github.com/rockchip-linux ) | An open source software for Rockchip SoCs |
 | [The Ruby Programming Language](https://github.com/ruby) | Repositories related to the Ruby Programming language. |
 | [RubyGems](https://github.com/rubygems) | Ruby Plugins |
