@@ -20,13 +20,15 @@ repository: "RalphHightower/RalphHightower"
 url: "https://ralphhightower.github.io/RalphHightower"
 google_analytics: G-YJ5GK6SJ15
 
+page_excerpts: true
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and
 # add a line comment on "theme: minima" above.
 
 plugins:
@@ -39,11 +41,13 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
-  # 2024-1-29 @RalphHightower: I couldn't figure out how to get jekyll-tagging working on my blog
   # - jekyll-tagging
   - jekyll-titles-from-headings
   - jekyll_ai_related_posts
-   
+  - jekyll-toc
+  - jemoji
+  - jekyll-paginate-v2
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -51,69 +55,108 @@ plugins:
 # header_pages:
 # - about.md
 
-# Set to `true` to show excerpts on the homepage.
-show_excerpts: true
-
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	 Default, light color scheme.
-  # dark	 Dark variant of the classic skin.
-  # auto	 Adaptive skin based on the default classic and dark skins.
-  # solarized-light	 Light variant of solarized color scheme.
-  # solarized-dark	 Dark variant of solarized color scheme.
-  # solarized	 Adaptive skin for solarized color scheme skins.
+  show_excerpts: true
+    # Minima skin selection.
+    # Available skins are:
+    # classic	 Default, light color scheme.
+    # dark	 Dark variant of the classic skin.
+    # auto	 Adaptive skin based on the default classic and dark skins.
+    # solarized-light	 Light variant of solarized color scheme.
+    # solarized-dark	 Dark variant of solarized color scheme.
+    # solarized	 Adaptive skin for solarized color scheme skins.
   skin: auto
-    
-# Minima date format.
-# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
-# Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%F %r"
 
-# Generate social links in footer.
+# Minima date format.
+# The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
+# Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+# Date Formstting Helper: https://strftime.net/
+  date_format: "%b %e, %Y %I:%M %p %Z, %a"
+#    - title: Jekyll repository at GitHub
+#      icon: github
+#      url: "https://github.com/jekyll/jekyll"
   social_links:
-    - { platform: devto, user_url: "https://dev.to/RalphHightower"}
-    - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
-    - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
-    - { platform: github, user_url: "https://github.com/RalphHightower" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
-    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
-    - { platform: telegram, user_url: "https://t.me/RalphHightower" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
-    # - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
-    # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
-    # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
-    # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
-    # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
-    # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
-        
+  - { platform: devto, user_url: "https://dev.to/RalphHightower"}
+  - { platform: facebook, user_url: "https://www.facebook.com/ralph.hightower" }
+  - { platform: flickr, user_url: "https://www.flickr.com/photos/RalphHightower" }
+  - { platform: github, user_url: "https://github.com/RalphHightower" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/RalphHightower" }
+  - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+  - { platform: telegram, user_url: "https://t.me/RalphHightower" }
+  - { platform: youtube, user_url: "https://www.youtube.com/@RalphHightower" }
+  # - { platform: orchid, user_url: "https://orcid.org/0009-0009-7630-3554" }
+  # - { platform: dribbble, user_url: "https://dribbble.com/RalphHightower" }
+  # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  # - { platform: instagram, user_url: "https://www.instagram.com/RalphHightower" }
+  # - { platform: keybase, user_url: "https://keybase.io/RalphHightower" }
+  # - { platform: microdotblog, user_url: "https://micro.blog/RalphHightower" }
+  # - { platform: pinterest, user_url: "https://www.pinterest.com/RalphHightower" }
+  # - { platform: twitter, user_url: "https://twitter.com/RalphHightower" }
+
 ai_related_posts:
   openai_api_key: {{ secrets.OPEN_AI_KEY }}
   fetch_enabled: prod
-    
+
+# Optional. The default date format is used if none is specified in the tag.
+last-modified-at:
+  date-format: "%b %e, %Y %I:%M %p %Z, %a"
+
 optional_front_matter:
   remove_originals: true
   enabled: true
+
+# Pagination Settings: jekyll-paginate-v2
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
+
+# Explicitly turn off the old code
+# paginate: nil
+# paginate_path: nil
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 15
+  offset: 0
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  indexpage: 'blogpager'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  debug: true
 
 readme_index:
   enabled: true
   remove_originals: true
   with_frontmatter: true
 
-titles_from_headings:
-  enabled: true
-  strip_title: true
+relative_links:
+  enabled:     true
   collections: true
-
-# Optional. The default date format is used if none is specified in the tag.
-last-modified-at:
-  date-format: "%F %r"
 
 tag_page_layout: tag_page
 tag_page_dir: tag
+
+titles_from_headings:
+  enabled: false
+  strip_title: true
+  collections: true
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
 
 include:
   - README.md
