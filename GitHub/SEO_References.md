@@ -17,6 +17,7 @@ title: GitHub/SEO Resources
 <br />
 
 ## Ruby Gemfile Interfaces for GitHub Page
+
 | [_config.yml • jekyll/jekyll-seo-tag: GitHub ](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) |  Description |
 |---|---|
 | title | Your site's title (e.g., "**Ben's Awesome Site, The GitHub Blog, etc.**"), used as part of the title tag like **"Home / Ben's Awesome Site."** |
