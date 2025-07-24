@@ -22,7 +22,5 @@ title: GitHub/SEO Resources
 | title | Your site's title (e.g., "**Ben's Awesome Site, The GitHub Blog, etc.**"), used as part of the title tag like **"Home / Ben's Awesome Site."** |
 | tagline | A short description (e.g., **A blog dedicated to reviewing cat gifs**), used as part of the *title* tag like **"Ben's Awesome Site / A blog dedicated to reviewing cat gifs"** instead of **Ben's Awesome Site  Long description about a blog dedicated to reviewing cat gifs** that would be used when *page.title* is not defined. |
 | description | A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own ***description,*** and also as part of the page's title tag if neither ***page.title*** nor ***site.tagline*** has been defined. |
-| url | The full URL to your site. Note: ***site.github.url*** will be used by default.
-| author | global author information (see Advanced usage)
-
-
+| url | The full URL to your site. Note: ***site.github.url*** will be used by default. |
+| author | global author information (see Advanced usage) |
