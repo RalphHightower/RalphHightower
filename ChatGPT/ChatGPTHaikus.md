@@ -6,7 +6,7 @@ title: ChatGPT/ChatGPT Haikus
 
 [^11]: The definition of "haiku" Merriam-Webster's definition of "haiku": http://www.merriam-webster.com/dictionary/haiku
 
-A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https;//chat.openai.com/) to create haikus[^11] based on a single topic. I found the [ChatGPT](https://chat.openai.com/), for the most part, creative and entertaining. I decided to do the same by asking [ChatGPT](https://chat.openai.com/) to create haikus[^11] based on my interests. 
+A [LinkedIn](https://www.linkedin.com/) connection asked [ChatGPT](https://chat.openai.com/) to create haikus[^11] based on a single topic. I found the [ChatGPT](https://chat.openai.com/), for the most part, creative and entertaining. I decided to do the same by asking [ChatGPT](https://chat.openai.com/) to create haikus[^11] based on my interests. 
 
 ## Books
 
