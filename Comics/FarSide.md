@@ -597,7 +597,7 @@ title: Comics/Far Side
 | [10 Far Side Comics That Prove Clowns Are the Things of Nightmares](https://screenrant.com/funniest-far-side-comics-clowns-gary-larson-list/) | Jan 28, 2025 |
 | [8 Times The Far Side Made Us Wish Dragons Were Real](https://screenrant.com/funniest-far-side-comics-dragons-gary-larson-list/) | Jan 27, 2025 |
 | [10 Famous Far Side Comics We're Convinced Make Zero Sense](https://screenrant.com/far-side-confusing-comics-no-sense-list/) | Jan 27, 2025 |
-| [10 Dark Far Side Comics That (Somehow) | Make Executions Fun](https://screenrant.com/funniest-far-side-comics-executions-gary-larson-list/) | Jan 26, 2025 |
+| [10 Dark Far Side Comics That (Somehow) Make Executions Fun](https://screenrant.com/funniest-far-side-comics-executions-gary-larson-list/) | Jan 26, 2025 |
 | [Love It or Hate It, This Is What a Perfect Far Side Comic Looks Like](https://screenrant.com/far-side-firing-squad-perfect-panel-gary-larson-op-ed/) | Jan 25, 2025 |
 | [Even After All This Time, These 10 Far Side Comics Stand the Test of Time](https://screenrant.com/far-side-best-comics-old-test-of-time-list/) | Jan 25, 2025 |
 | [8 Funny Far Side Comics That Every Superhero Fan Needs to See](https://screenrant.com/funniest-far-side-comics-superheroes-superman-gary-larson-list/) | Jan 24, 2025 |
@@ -622,7 +622,7 @@ title: Comics/Far Side
 | [10 Far Side Comics That Have Aged Perfectly](https://screenrant.com/far-side-comics-aged-perfectly-list/) | Jan 3, 2025 |
 | [Far Side Fans Needs to Check Out Heathcliff, And These 10 Hilarious Comics Show Why](https://screenrant.com/far-side-heathcliff-best-comics-list/) | Jan 2, 2025 |
 | [The Far Side's Final Comic Will Make You See Wicked in a Totally New Way, We Promise](https://screenrant.com/the-far-side-final-comic-wicked-wizard-of-oz-op-ed/) | Jan 2, 2025 |
-| [13 Far Side New Year's Day Comics To Start 2025 | Off With A Laugh](https://screenrant.com/far-side-new-years-day-gary-larson-comics-list/) | Jan 1, 2025 |
+| [13 Far Side New Year's Day Comics To Start 2025 Off With A Laugh](https://screenrant.com/far-side-new-years-day-gary-larson-comics-list/) | Jan 1, 2025 |
 | [We Asked You to Vote for Far Side's Funniest Cat Comic and Every Owner Can Relate to the Top Pick](https://screenrant.com/funniest-far-side-comics-cats-vote-factoid/) | Jan 1, 2025 |
 | [10 Iconic Far Side Comics That Just Turned 30 Years Old](https://screenrant.com/far-side-funniest-comics-november-1994-list/) | Dec 31, 2024 |
 | [12 Far Side New Year's Eve Comics To Help End 2024 On A High Note](https://screenrant.com/far-side-comics-new-years-eve-gary-larson-list/) | Dec 30, 2024 |
