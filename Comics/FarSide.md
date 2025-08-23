@@ -15,8 +15,8 @@ title: Comics/Far Side
 | Interviews | Date |
 |---|---|
 | [Larson is drawn to the wild side - USATODAY.com](https://usatoday30.usatoday.com/life/2006-11-20-larson-cover-usat_x.htm ) | 11/22/2006 10:13 AM ET |
-| [The Far Side Comic Strip by Gary Larson - Official Website / TheFarSide.com](https://thefarside.com/) |   |
-| [Gary Larson](https://en.wikipedia.org/wiki/Gary_Larson?wprov=sfla1) |   |
+| [The Far Side Comic Strip by Gary Larson - Official Website / TheFarSide.com](https://thefarside.com/) |  |
+| [Gary Larson](https://en.wikipedia.org/wiki/Gary_Larson?wprov=sfla1) |  |
 
 ## Comics
 
@@ -313,7 +313,7 @@ title: Comics/Far Side
 
 ### Comics — ScreenRant
 
-| [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date  |
+| [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
 | [10 Hilarious Far Side Comics Starring Its Most Underrated Animal](https://screenrant.com/the-far-side-funny-sheep/) | Aug 15, 2025 |
 | [10 Far Side Comics That Prove Newspapers Should Never Die](https://screenrant.com/far-side-comics-newspaper-jokes-list/) | Aug 14, 2025 |
@@ -364,11 +364,11 @@ title: Comics/Far Side
 | [8 Recurring Far Side Characters That Define the Comic’s Weirdest Gags](https://screenrant.com/best-recurring-far-side-characters-list/) | Jul 11, 2025 |
 | [10 Far Side Comics That Quietly Shaped The Simpsons’ Funniest Moments](https://screenrant.com/far-side-comics-simpsons-influence-list/) | Jul 10, 2025 |
 | [10 Forgotten Far Side Comics From the 1980s That Gary Larson Fans Need To Remember](https://screenrant.com/far-side-forgotten-80s-comics-deep-cuts-list/) | Jul 9, 2025 |
-| [10 Times Gary Larson Clearly Just Wanted to Draw Something Dumb (& We Loved It) | ](https://screenrant.com/far-side-dumb-drawings-funny/) | Jul 7, 2025 |
+| [10 Times Gary Larson Clearly Just Wanted to Draw Something Dumb (& We Loved It)](https://screenrant.com/far-side-dumb-drawings-funny/) | Jul 7, 2025 |
 | [10 Hilarious Far Side Comics That Are Either Really Dumb Or Really Smart, We're Still Not Sure](https://screenrant.com/far-side-comics-borderline-smart-dumb-humor-list/) | Jul 7, 2025 |
 | [10 Far Side Comics That Are Surprisingly Deep When You Think About Them](https://screenrant.com/far-side-deep-thought-provoking-list/) | Jul 6, 2025 |
 | [10 Far Side Comics That Gave Us Legendary One-Liners](https://screenrant.com/far-side-comics-one-liners-funny-quotes-list/) | Jul 6, 2025 |
-| [10 Wordless Far Side Comics That Should Have Had a Caption (And I Know What It Should Be) | ](https://screenrant.com/far-side-comics-different-punchline-ending-list/) | Jul 6, 2025 |
+| [10 Wordless Far Side Comics That Should Have Had a Caption (And I Know What It Should Be)](https://screenrant.com/far-side-comics-different-punchline-ending-list/) | Jul 6, 2025 |
 | [10 Far Side Comics About Getting Older That Make Us Laugh Through the Tears](https://screenrant.com/far-side-comics-about-getting-older-age-list/) | Jul 5, 2025 |
 | [10 Hilarious Far Side Cartoons I Want On A Coffee Mug ASAP](https://screenrant.com/far-side-comics-coffee-mug-worthy-list/) | Jul 5, 2025 |
 | [10 Far Side Comics That Will Make You Irrationally Suspicious of Animals](https://screenrant.com/far-side-comics-animals-suspicious-funny-creepy-list/) | Jul 4, 2025 |
@@ -429,7 +429,7 @@ title: Comics/Far Side
 | [10 Funniest Far Side Comics That Will Change How You See Classic TV Shows](https://screenrant.com/funniest-far-side-classic-tv-shows-list/) | Jun 2, 2025 |
 | [Could Gary Larson's Far Side Be Published Today? Well... It's Complicated](https://screenrant.com/far-side-published-today-criticisms-aged-well-op-ed/) | Jun 2, 2025 |
 | [10 Far Side Comics Where the Joke Is A Literal Mystery](https://screenrant.com/far-side-comics-mystery-jokes-list/) | Jun 1, 2025 |
-| [See the Far Side Comic That Represents Your US State (Gary Larson's Hilarious Tour of America) | ](https://screenrant.com/funniest-far-side-comics-represent-american-states-larson-list/) | May 31, 2025 |
+| [See the Far Side Comic That Represents Your US State (Gary Larson's Hilarious Tour of America)](https://screenrant.com/funniest-far-side-comics-represent-american-states-larson-list/) | May 31, 2025 |
 | [10 Funniest Far Side Comics Starring King Kong and Godzilla](https://screenrant.com/funniest-far-side-comics-godzilla-king-kong-larson-list/) | May 31, 2025 |
 | [12 Far Side Pranks You'll Be Glad You're Not On the Wrong Side Of](https://screenrant.com/far-side-comics-practical-jokes-list/) | May 30, 2025 |
 | [10 Funniest Far Side Comics That Showcase Gary Larson's Love of Nature](https://screenrant.com/funniest-far-side-comics-gary-larson-love-nature-list/) | May 29, 2025 |
@@ -468,12 +468,12 @@ title: Comics/Far Side
 | [6 Far Side Comics About Quicksand That Will Suck You In](https://screenrant.com/6-far-side-comics-quicksand-jokes-list/) | May 3, 2025 |
 | [10 Classic Far Side Comics That Will Make You See the Series In a New Light](https://screenrant.com/far-side-comics-reconsidered-list/) | May 3, 2025 |
 | [8 Brilliant Far Side Comics Guaranteed To Stop Your Brain in Its Tracks](https://screenrant.com/far-side-comics-puzzle-riddle-list/) | May 3, 2025 |
-| [8 Far Side Comics With References No One Will Get In 2025 |](https://screenrant.com/far-side-comics-outdated-references-list/) | May 2, 2025 |
+| [8 Far Side Comics With References No One Will Get In 2025](https://screenrant.com/far-side-comics-outdated-references-list/) | May 2, 2025 |
 | [10 Clever Far Side Comics That Will Make You Want to Be a Cowboy](https://screenrant.com/far-side-funniest-comics-cowboys-list/) | May 2, 2025 |
 | [10 Far Side Comics That Prove Ignorance Really Is Bliss](https://screenrant.com/far-side-comics-ignorant-characters-list/) | May 1, 2025 |
 | [10 Hilarious Far Side Comics Where Cows Act Like Humans](https://screenrant.com/far-side-comics-anthropomorphic-cows-list/) | Apr 30, 2025 |
 | [10 Far Side Comics That Will Make You Feel Claustrophobic](https://screenrant.com/far-side-comics-claustrophobic-jokes-list/) | Apr 29, 2025 |
-| [6 Hilarious Far Side Comics About the Ice Cream Man (And His Rivals) | ](https://screenrant.com/far-side-comics-ice-cream-truck-jokes-list/) | Apr 28, 2025 |
+| [6 Hilarious Far Side Comics About the Ice Cream Man (And His Rivals)](https://screenrant.com/far-side-comics-ice-cream-truck-jokes-list/) | Apr 28, 2025 |
 | [10 Far Side Car Crashes We Can't Look Away From](https://screenrant.com/10-far-side-comics-car-crash-jokes-list/) | Apr 28, 2025 |
 | [If You Can Make Sense of These 10 Far Side Comics, You're Smarter Than I Am](https://screenrant.com/the-far-side-funny-comics-make-no-sense-list/) | Apr 27, 2025 |
 | [Feeling Nostalgic? The Far Side Will Take You Back With These Mr. Ed Comics](https://screenrant.com/far-side-comics-mr-ed-jokes-nostalgia-list/) | Apr 27, 2025 |
@@ -509,7 +509,7 @@ title: Comics/Far Side
 | [I Didn’t Get The Far Side, Until This Comic Made Me A Fan](https://screenrant.com/far-side-comics-new-fans-op-ed/) | Apr 7, 2025 |
 | [10 Far Side Comics That Will Remind You to Live In the Moment](https://screenrant.com/far-side-comics-moments-before-disaster-list/) | Apr 7, 2025 |
 | [10 Far Side Comics We Really Wish Had Sequels](https://screenrant.com/far-side-comics-deserve-sequels-list/) | Apr 7, 2025 |
-| [10 Far Side Comics That Really (Really) |  Need a Caption](https://screenrant.com/far-side-comics-need-captions-list/) | Apr 6, 2025 |
+| [10 Far Side Comics That Really (Really) Need a Caption](https://screenrant.com/far-side-comics-need-captions-list/) | Apr 6, 2025 |
 | [10 Times The Far Side Proved the Jungle Is Full of Secrets](https://screenrant.com/far-side-comics-jungle-surprises-list/) | Apr 6, 2025 |
 | [12 Hilarious Far Side Comics Set At Parties](https://screenrant.com/far-side-comics-party-humor-list/) | Apr 5, 2025 |
 | [10 Far Side Comics Where Snakes Are Disturbingly Human](https://screenrant.com/far-side-disturbing-snake-comics-list/) | Apr 4, 2025 |
@@ -517,8 +517,7 @@ title: Comics/Far Side
 | [10 Far Side Comics We Wish We Could Stop Thinking About](https://screenrant.com/far-side-unforgettable-disturbing-comics-list/) | Apr 2, 2025 |
 | [10 Hilarious Far Side Comics All About Being an Underdog](https://screenrant.com/far-side-underdog-humor-gary-larson-list/) | Apr 1, 2025 |
 | [These Far Side "Sequel" Comics Prove Gary Larson Was Playing the Long Game](https://screenrant.com/far-side-comics-natures-way-sequels-factoid/) | Mar 31, 2025 |
-| [No Sudden Movements: 10 Hilarious Far Side Comics About Conflict Resolution](https://screenrant.com/far-side-comics-stand-offs-gary-larson-list/) | 
-Mar 31, 2025 |
+| [No Sudden Movements: 10 Hilarious Far Side Comics About Conflict Resolution](https://screenrant.com/far-side-comics-stand-offs-gary-larson-list/) | Mar 31, 2025 |
 | [10 Hilarious Far Side Comics Starring the World’s Worst Pilots](https://screenrant.com/far-side-comics-terrible-pilots-list/) | Mar 31, 2025 |
 | [These 10 Far Side Comics Are Gary Larson's Most Taboo Jokes](https://screenrant.com/far-side-comics-taboo-jokes-list/) | Mar 31, 2025 |
 | [10 Far Side Comics That Are Actually Too Smart for Their Own Good](https://screenrant.com/far-side-smartest-jokes-gary-larson-list/) | Mar 31, 2025 |
@@ -538,7 +537,7 @@ Mar 31, 2025 |
 | [10 Whimsical Far Side Comics That Prove the Series Can Be Perfectly Silly](https://screenrant.com/far-side-comics-whimsical-jokes-gary-larson-humor-list/) | Mar 23, 2025 |
 | [These 10 Far Side Comics Are Really Dumb, And We Say That With So Much Love](https://screenrant.com/far-side-dumbest-comics-screen-rant-list/) | Mar 23, 2025 |
 | [10 Far Side Comics That Turn Living Rooms Into Literal Death Traps](https://screenrant.com/far-side-comics-most-dangerous-living-rooms-list/) | Mar 22, 2025 |
-| [8 Far Side Comics That Will Make You See (and Hear) |  Music Like Never Before](https://screenrant.com/the-far-side-comics-music-funny-list/) | Mar 21, 2025 |
+| [8 Far Side Comics That Will Make You See (and Hear) Music Like Never Before](https://screenrant.com/the-far-side-comics-music-funny-list/) | Mar 21, 2025 |
 | [10 Far Side Comics That Will Make You Want to Visit the North Pole ASAP](https://screenrant.com/the-far-side-funny-animals-arctic-snow-list/) | Mar 20, 2025 |
 | [These 12 Far Side Comics Break the Mold In The Best Way Possible](https://screenrant.com/far-side-comics-recurring-joke-gary-larson-humor-list/) | Mar 19, 2025 |
 | [7 Far Side Comics That Took Things Way, Way Too Far](https://screenrant.com/the-far-side-controversy-too-far-funny-list/) | Mar 18, 2025 |
@@ -598,7 +597,7 @@ Mar 31, 2025 |
 | [10 Far Side Comics That Prove Clowns Are the Things of Nightmares](https://screenrant.com/funniest-far-side-comics-clowns-gary-larson-list/) | Jan 28, 2025 |
 | [8 Times The Far Side Made Us Wish Dragons Were Real](https://screenrant.com/funniest-far-side-comics-dragons-gary-larson-list/) | Jan 27, 2025 |
 | [10 Famous Far Side Comics We're Convinced Make Zero Sense](https://screenrant.com/far-side-confusing-comics-no-sense-list/) | Jan 27, 2025 |
-| [10 Dark Far Side Comics That (Somehow) |  Make Executions Fun](https://screenrant.com/funniest-far-side-comics-executions-gary-larson-list/) | Jan 26, 2025 |
+| [10 Dark Far Side Comics That (Somehow) | Make Executions Fun](https://screenrant.com/funniest-far-side-comics-executions-gary-larson-list/) | Jan 26, 2025 |
 | [Love It or Hate It, This Is What a Perfect Far Side Comic Looks Like](https://screenrant.com/far-side-firing-squad-perfect-panel-gary-larson-op-ed/) | Jan 25, 2025 |
 | [Even After All This Time, These 10 Far Side Comics Stand the Test of Time](https://screenrant.com/far-side-best-comics-old-test-of-time-list/) | Jan 25, 2025 |
 | [8 Funny Far Side Comics That Every Superhero Fan Needs to See](https://screenrant.com/funniest-far-side-comics-superheroes-superman-gary-larson-list/) | Jan 24, 2025 |
@@ -616,7 +615,7 @@ Mar 31, 2025 |
 | [5 Funniest The Far Side Comics Without Captions](https://screenrant.com/video/funniest-the-far-side-comics-without-captions/) | Jan 12, 2025 |
 | [10 Funniest Far Side Comics That Prove Gary Larson's Humor Has No Expiration Date](https://screenrant.com/funniest-far-side-comics-december-1984-gary-larson-list/) | Jan 12, 2025 |
 | [15 Far Side Comics You May Have Overlooked And Need to Read ASAP](https://screenrant.com/far-side-comics-overlooked-underrated-list/) | Jan 10, 2025 |
-| [10 Funniest Far Side Comics from Gary Larson's Final Month (That Just Turned 30) | ](https://screenrant.com/funniest-far-side-comics-gary-larson-end-series-list/) | Jan 9, 2025 |
+| [10 Funniest Far Side Comics from Gary Larson's Final Month (That Just Turned 30)](https://screenrant.com/funniest-far-side-comics-gary-larson-end-series-list/) | Jan 9, 2025 |
 | [The Far Side Can Be Fun, But These 10 Comics Prove the Series Is Seriously Dark](https://screenrant.com/far-side-darkest-comics-jokes-list/) | Jan 9, 2025 |
 | [5 Best The Far Side Comics That Parody Movies](https://screenrant.com/video/best-the-far-side-comics-that-parody-movies/) | Jan 4, 2025 |
 | [The Far Side Likes to Push Limits, But Even Its Most Controversial Comics Surprised Creator Gary Larson](https://screenrant.com/far-side-creator-controversial-scary-comic-factoid/) | Jan 4, 2025 |
@@ -626,14 +625,13 @@ Mar 31, 2025 |
 | [13 Far Side New Year's Day Comics To Start 2025 | Off With A Laugh](https://screenrant.com/far-side-new-years-day-gary-larson-comics-list/) | Jan 1, 2025 |
 | [We Asked You to Vote for Far Side's Funniest Cat Comic and Every Owner Can Relate to the Top Pick](https://screenrant.com/funniest-far-side-comics-cats-vote-factoid/) | Jan 1, 2025 |
 | [10 Iconic Far Side Comics That Just Turned 30 Years Old](https://screenrant.com/far-side-funniest-comics-november-1994-list/) | Dec 31, 2024 |
-| [12 Far Side New Year's Eve Comics To Help End 2024 | On A High Note](https://screenrant.com/far-side-comics-new-years-eve-gary-larson-list/) | Dec 30, 2024 |
+| [12 Far Side New Year's Eve Comics To Help End 2024 On A High Note](https://screenrant.com/far-side-comics-new-years-eve-gary-larson-list/) | Dec 30, 2024 |
 | [12 Far Side Comics That Will Have You Ready to Ring In the New Year's Eve](https://screenrant.com/far-side-comics-new-years-list/) | Dec 29, 2024 |
 | [You Voted for Far Side's Greatest War Comic, And the Top Pick Was Inspired by Gary Larson's Own Childhood](https://screenrant.com/far-side-funniest-comics-war-nuclear-weapons-list/) | Dec 28, 2024 |
 | [15 Greatest Far Side Comics of All Time](https://screenrant.com/greatest-far-side-comics-all-time-list/) | Dec 27, 2024 |
 | [You Voted for Far Side's Funniest Comic About Classic TV Shows, And #1 Is Still a Household Name](https://screenrant.com/funniest-far-side-comics-classic-tv-flintstones/) | Dec 26, 2024 |
 | [10 Far Side Comics That Take the Deadliest Joke in History Too Far](https://screenrant.com/far-side-comics-deadliest-joke-ever-gary-larson-list/) | Dec 26, 2024 |
-| [10 Funniest Far Side Comics Starring Santa Claus](https://screenrant.com/funniest-far-side-comics-santa-claus-christmas/) | 
-Dec 25, 2024 |
+| [10 Funniest Far Side Comics Starring Santa Claus](https://screenrant.com/funniest-far-side-comics-santa-claus-christmas/) | Dec 25, 2024 |
 | [10 Funniest Far Side Comics That Will Make You Rethink Christmas](https://screenrant.com/far-side-comics-christmas-gary-larson-funniest/) | Dec 24, 2024 |
 | [15 Funniest Far Side Comics That Use Thought Balloons](https://screenrant.com/funniest-far-side-comics-thought-balloons-gary-larson-list/) | Dec 23, 2024 |
 | [7 Far Side Comics That Will Make You Rethink Getting On a Train Ever Again](https://screenrant.com/far-side-funniest-comics-trains-railways-list/) | Dec 23, 2024 |
@@ -759,7 +757,7 @@ Dec 25, 2024 |
 | ["The Great Confuser": Far Side's Gary Larson On How & Why His Weirdest Cartoons Got Published](https://screenrant.com/far-side-confusing-jokes-weirdest-cartoons-gary-larson/) | Aug 24, 2024 |
 | [15 Hilarious Far Side Comics Featuring Airplanes](https://screenrant.com/10-far-side-comics-featuring-airplanes-gary-larson/) | Aug 23, 2024 |
 | [10 Funniest Far Side Comics That Found the Funny Side of Mobsters](https://screenrant.com/funniest-far-side-comics-mafia-mobsters-gary-larson/) | Aug 22, 2024 |
-| [Far Side Creator Gary Larson Explained the "Huge Difference" Between Cartoonists And Writers](https://screenrant.com/far-side-gary-larson-huge-difference-cartoonists-writers/) | Aug 21,  2024 |
+| [Far Side Creator Gary Larson Explained the "Huge Difference" Between Cartoonists And Writers](https://screenrant.com/far-side-gary-larson-huge-difference-cartoonists-writers/) | Aug 21, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including Gary Larson's Best Desert Island Comic)](https://screenrant.com/funniest-far-side-comics-july-1984-desert-island/) | Aug 20, 2024 |
 | [10 Genius Far Side Comics About Writer's Block (& Other Creative Woes)](https://screenrant.com/10-far-side-comics-writers-block-gary-larson/) | Aug 18, 2024 |
 | [I Was Surprised By How Many Times The Far Side's Most Famous Prehistoric Character Actually Appeared](https://screenrant.com/far-side-comics-thag-caveman-gary-larson-creativity/) | Aug 17, 2024 |
@@ -799,7 +797,7 @@ Dec 25, 2024 |
 | ["The So-Called Artist Must Be Sick": 37 Years Later, This Editor's Defense Of THE FAR SIDE Is More Relevant Than Ever](https://screenrant.com/far-side-comics-gary-larson-editor-defense-1980s/) | June 11, 2024 |
 | [Gary Larson's Creative Process Explains Why The Far Side Comics Are So Weird](https://screenrant.com/why-far-side-comics-so-weird-explained-gary-larson/) | June 10, 2024 |
 | [15 Funniest Far Side Comics That Somehow Found the Funny Side of War](https://screenrant.com/funniest-far-side-comics-about-war-gary-larson/) | June 8, 2024 |
-| ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June  6, 2024 |
+| ["Confusing, Obtuse, Esoteric, And Strange": Gary Larson Felt the Same Way About Far Side Comics As His Readers](https://screenrant.com/far-side-comics-confusing-obtuse-esoteric-strange/) | June 6, 2024 |
 | [10 Funniest Far Side Comics That Just Turned 40 (Including 1 of Gary Larson's All-Time Top 10\)](https://screenrant.com/funniest-far-side-comics-gary-larson-may-1984/) | June 4, 2024 |
 | [10 Brilliant Far Side Comics Starring Buzzards, Vultures, & Other Birds of Prey](https://screenrant.com/far-side-comics-buzzards-vultures-gary-larson-birds/) | June 1, 2024 |
 | [We Asked You to Vote for Far Side's Funniest Superman Comic & the Winner Is a Perfect Movie Parody](https://screenrant.com/funniest-far-side-comics-superman-gary-larson-superheroes/) | May 31, 2024 |
