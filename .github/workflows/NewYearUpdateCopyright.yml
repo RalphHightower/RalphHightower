@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: "0 5 1 1 *" # America/New_York (UTC-5:00)
 
-permissions: read-only
+permissions: 
+  read-only
 jobs:
   create_issue:
     name: Create issue to update copyright year
