@@ -7,8 +7,13 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="post-content">
-    {{ content }}
+<div>
+  <div id="table-of-contents">
+    {{ content | toc_only }}
   </div>
+  <div id="markdown-content">
+    {{ content | inject_anchors }}
+  </div>
+</div>
 
 </article>
