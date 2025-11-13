@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: FoodDrink/Food/Drink Recipes 
 #permalink: /FoodDrink/
 ---
