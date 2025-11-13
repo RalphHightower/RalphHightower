@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Opinions/Donald Trump Is a Fucking Idiot
 #permalink: /Opinions/
 ---

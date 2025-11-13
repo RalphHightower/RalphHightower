@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Movies/Bond. James Bond (007)
 #permalink: /Movies/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Science Fiction/Star Wars Movies
 #permalink: /ScienceFiction/
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: FoodDrink/South Carolina Food 
+toc: true
+.title: FoodDrink/South Carolina Food 
 #permalink: /FoodDrink/
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: News/Space News
 #permalink: /News/
 ---

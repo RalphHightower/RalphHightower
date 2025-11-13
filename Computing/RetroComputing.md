@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/Retro Computing 
 #permalink: /Computing/
 ---

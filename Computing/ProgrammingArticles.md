@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/Programming / Security Articles 
 #permalink: /Computing/
 ---

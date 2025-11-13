@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Career/Resume Skills 
 #permalink: /Career/
 ---

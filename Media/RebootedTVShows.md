@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Media/Rebooted Television Series
 #permalink: /Media/
 ---

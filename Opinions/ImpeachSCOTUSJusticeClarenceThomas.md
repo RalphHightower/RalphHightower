@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Opinions/Impeach Supreme Court Justice Clarence Thomas
 #permalink: /Opinions/
 ---

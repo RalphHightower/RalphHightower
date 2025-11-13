@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Government/Lexington County Online Resoures
 #permalink: /Government/
 ---

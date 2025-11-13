@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Electronics/Electronics / Radios 📻 / Television 📺 
 #permalink: /Electronics/
 ---

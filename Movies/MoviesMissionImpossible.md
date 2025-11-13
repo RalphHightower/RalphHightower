@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Movies/Mission Impossible
 #permalink: /Movies/
 ---

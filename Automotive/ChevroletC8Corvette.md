@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
 #permalink: /Automotive/
 ---

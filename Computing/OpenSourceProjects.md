@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/Open Source Projects
 #permalink: /Computing/
 ---

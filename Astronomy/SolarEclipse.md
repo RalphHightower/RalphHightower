@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Astronomy/Total Solar Eclipse 
 #permalink: /Astronomy/
 ---

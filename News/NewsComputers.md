@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: News/Computer News
 #permalink: /News/
 ---

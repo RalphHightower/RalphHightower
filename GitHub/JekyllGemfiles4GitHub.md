@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: GitHub/Gemfiles For GitHub Pages
 #permalink: /GitHub/
 ---
@@ -42,6 +43,7 @@ title: GitHub/Gemfiles For GitHub Pages
 | [rouge](https://rubygems.org/gems/rouge/versions/4.3.0) | Rouge aims to a be a simple, easy-to-extend drop-in replacement for pygments. | gem "rouge", "~> 4.3" | gem install rouge | 4.3.0 | June 14, 2024 |
 | [safe_yaml](https://rubygems.org/gems/safe_yaml/versions/1.0.5) | Parse YAML safely | gem \"safe_yaml\", \"~> 1.0\", \">= 1.0.5\" | gem install safe_yaml | 1.0.5 | February 22, 2019 | ? |
 | ~~[sass](https://rubygems.org/gems/sass/versions/3.7.4)~~[^22] | ~~Ruby Sass is deprecated! See https://sass-lang.com/ruby-sass for details. Sass makes CSS fun again. Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.~~ | ~~gem 'sass', '~> 3.7', '>= 3.7.4'~~ | ~~gem install sass~~ | 3.7.4 | April 04, 2019 | ? |
+| [jekyll-maps / RubyGems.org / your community gem host](https://rubygems.org/gems/jekyll-maps/versions/2.4.0) | Google Maps support in Jekyll blog to easily embed maps with posts' locations | gem 'jekyll-maps', '~> 2.4' | gem install jekyll-maps | April 19, 2020 | 2.4.0 | >= 3.0, < 5.0 |
 
 [^21]: Can the dependencies on github-pages be used on Jekyll 4.3.3? The dependencies all show \"=\".
 [^22]: Ruby Sass is deprecated! See https://sass-lang.com/ruby-sass for details.

@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Photography/Astrophotography 
 #permalink: /Photography/
 ---

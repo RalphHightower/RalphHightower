@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Science Fiction/Battlestar Galactica
 #permalink: /ScienceFiction/
 ---
