@@ -1,10 +1,9 @@
 ---
-layout: base
-#title: Ralph Hightower – Main Website
+layout: base_toc
+toc: true
+title: Ralph Hightower's Website
 #permalink: /
 ---
-
-# Ralph Hightower's Website
 
 ## Briefly 
 
