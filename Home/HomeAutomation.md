@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Home/Home Automation 
 #permalink: /Home/
 ---

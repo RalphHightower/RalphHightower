@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Home/Hardware Projects 
 #permalink: /Home/
 ---
