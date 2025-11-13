@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Shopping/Publix Gas Card Coupon Sales Dates[^11]
 #permalink: /Shopping/
 ---
