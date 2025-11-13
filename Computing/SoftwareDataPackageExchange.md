@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/The Software Package Data Exchange® (SPDX®)
 #permalink: /Computing/
 ---

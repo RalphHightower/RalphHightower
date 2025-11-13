@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/Cloud Computing
 #permalink: /Computing/
 ---

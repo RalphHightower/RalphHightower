@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/Linux Notes
 #permalink: /Computing/
 ---

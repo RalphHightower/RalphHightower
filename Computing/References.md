@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Computing/References — Computing / Networking, Licensing
 #permalink: /Computing/
 ---
