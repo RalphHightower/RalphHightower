@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Hardware/Hardware Links
 #permalink: /Hardware/
 ---
