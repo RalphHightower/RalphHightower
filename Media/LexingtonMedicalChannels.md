@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Media/Lexington Medical Center Channel Lineup/Schedule
 #permalink: /Media/
 ---
