@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: GitHub/SEO Resources 
 #permalink: /GitHub/
 ---
