@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: USC/University of South Carolina
 #permalink: /USC/
 ---
