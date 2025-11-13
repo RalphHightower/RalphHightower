@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Automotive/Chevrolet HHR
 #permalink: /Automotive/
 ---
