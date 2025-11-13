@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Comics/Far Side
 #permalink: /Comics/
 ---

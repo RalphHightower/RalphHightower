@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Comics/Calvin And Hobbes
 #permalink: /Comics/
 ---
