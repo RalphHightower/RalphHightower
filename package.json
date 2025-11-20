@@ -17,7 +17,7 @@
     "ralph.hightower@gmail.com"
   ],
   "dependencies": {
-    "npm": "^11.6.2"
+    "npm": "^11.6.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
