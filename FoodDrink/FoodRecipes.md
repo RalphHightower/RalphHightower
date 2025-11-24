@@ -98,7 +98,7 @@ To make authentic Greek coffee, you will need the following ingredients and equi
 - Demitasse cups for serving
 - A gas stove or a single-burner camp stove
 
-A briki is a special metal pot that has an hourglass or cauldron shape and a long handle. It is used to brew the coffee directly on the heat source. A demitasse cup is a small cup that holds about 2 to 3 ounces (59 to 89 ml) of coffee. [Greek coffee is served with foam on top (kaimaki) and the grounds at the bottom of the cup](https://www.mygreekdish.com/recipe/greek-coffee-recipe-how-to-make-greek-coffee-ellinikos-kafes/).[^11][^12] ¹²
+A briki is a special metal pot that has an hourglass or cauldron shape and a long handle. It is used to brew the coffee directly on the heat source. A demitasse cup is a small cup that holds about 2 to 3 ounces (59 to 89 ml) of coffee. [Greek coffee is served with foam on top (kaimaki) and the grounds at the bottom of the cup](https://www.mygreekdish.com/recipe/greek-coffee-recipe-how-to-make-greek-coffee-ellinikos-kafes/).[^11]<sup>,</sup>[^12]
 
 You can adjust the amount of sugar and coffee according to your preference. There are four main types of Greek coffee based on the proportions of ingredients:
 
@@ -115,11 +115,11 @@ To brew Greek coffee, follow these steps:
 - When the coffee starts to rise and form a thick layer of foam, remove it from the heat and pour it into the demitasse cup, making sure to preserve the foam.
 - Let the coffee settle for a few minutes before drinking it. [Enjoy it slowly and sip the liquid, not the grounds](https://www.mygreekdish.com/recipe/greek-coffee-recipe-how-to-make-greek-coffee-ellinikos-kafes/).[^13]
 
-Greek coffee is traditionally served with a glass of cold water and some sweets or snacks. It is a great way to relax and savor the flavor of this unique brew.[^15] 😊
+Greek coffee is traditionally served with a glass of cold water and some sweets or snacks. It is a great way to relax and savor the flavor of this unique brew.[^15] 
 
 Source: [Conversation with Bing, 12/24/2023](https://www.roast.love/blog/greek-coffee)
 [^11]: [Greek coffee recipe - How to make Greek coffee (Ellinikos Kafes)](https://www.mygreekdish.com/recipe/greek-coffee-recipe-how-to-make-greek-coffee-ellinikos-kafes/).
 [^12]: [How to Make Greek Coffee: 12 Steps (with Pictures) - wikiHow.](https://www.wikihow.com/Make-Greek-Coffee)
 [^13]: [A Taste of Greece: How to Make & Enjoy Authentic Greek Coffee.](https://www.roast.love/blog/greek-coffee)
-(4) [How To Make Greek Coffee (Authentic Recipe & Pictures).](https://coffeeaffection.com/how-to-make-greek-coffee/)
+[^4]: [How To Make Greek Coffee (Authentic Recipe & Pictures).](https://coffeeaffection.com/how-to-make-greek-coffee/)
 [^15]: [Greek Coffee (Ellinikos Kafes) - Savor the Flavour.](https://savortheflavour.com/greek-coffee/)
