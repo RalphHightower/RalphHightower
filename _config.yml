@@ -116,7 +116,7 @@ permalink: /:year/:month/:title.html
 
 # Pagination Settings
 pagination:
-  enabled: true
+  enabled: false
   per_page: 15
   offset: 0
   permalink: '/page/:num/'
