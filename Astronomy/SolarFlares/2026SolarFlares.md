@@ -1,9 +1,3 @@
----
-layout: page
-title: "Insert Title Here"
-toc: true
----
-
 ### Solar Activity — 2026
 
 <details markdown='1'><summary>Expand / Collapse: Solar Activity — 2025</summary>
