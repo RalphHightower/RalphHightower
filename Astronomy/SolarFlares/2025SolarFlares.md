@@ -1,6 +1,6 @@
-### Solar Activity — 2025
-
 <details markdown='1'><summary>Expand / Collapse: Solar Activity — 2025</summary>
+
+### Solar Activity — 2025
 
 | Solar Event | Date |
 |---|---|
