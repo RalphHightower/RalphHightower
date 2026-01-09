@@ -60,6 +60,8 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 
 ## Auroras
 
+{% include_relative SolarFlares/2026SolarFlares.md %}
+
 {% include_relative SolarFlares/2025SolarFlares.md %}
 
 {% include_relative SolarFlares/2024SolarFlares.md %}
