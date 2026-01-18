@@ -25,9 +25,23 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
-| [American Dad Loves Far Side...Too Much](https://www.cbr.com/american-dad-loves-far-side-too-much/) | Aug 20, 2025 |
-| [10 Funniest Far Side Comics featuring Monsters, Ranked](https://www.cbr.com/the-far-side-funniest-monster-comics-ranked/) | Aug 17, 2025 |
-| [10 Funniest Far Side Comics featuring Flies, Ranked](https://www.cbr.com/the-far-side-funniest-fly-comics-ranked/) | Aug 16, 2025 |
+| [15 Best The Far Side Comic Strips About Santa Claus and Christmas, Ranked](https://www.cbr.com/the-far-side-best-santa-claus-christmas-strips/) | Dec 19, 2025 |
+| [10 Things Everyone Gets Wrong About The Far Side](https://www.cbr.com/the-far-side-wrong-misunderstandings-controversy/) | Nov 13, 2025 |
+| [Did Gary Larson Really Offend Jane Goodall With a Far Side Comic About Her?](https://www.cbr.com/far-side-jane-goodall-gary-larson-feud/) | Oct 2, 2025 |
+| [10 Genius The Far Side Comics about Hunting, Ranked](https://www.cbr.com/gary-larson-genius-the-far-side-hunting-comics/)  | Sep 26, 2025 |
+| [10 Funniest The Far Side Comics Featuring Tarzan, Ranked](https://www.cbr.com/gary-larson-the-far-side-funniest-tarzan-comics-ranked/) | Sep 22, 2025 |
+| [10 Genius The Far Side Comics featuring Robots, Ranked](https://www.cbr.com/gary-larson-genius-the-far-side-robot-comics-ranked/) | Sep 18, 2025 |
+| [10 Funniest The Far Side Comics Set Around a Campfire, Ranked](https://www.cbr.com/the-far-side-funniest-campfire-comics-ranked/) | Sep 14, 2025 |
+| [10 Funniest Far Side Comics featuring Penguins, Ranked](https://www.cbr.com/the-far-side-funniest-penguin-comics-ranked/) | Sep 11, 2025 |
+| [10 Funniest The Far Side Comics Revealing '90s Culture](https://www.cbr.com/the-far-side-funniest-90s-culture-comics/) | Sep 7, 2025 |
+| [10 Funniest Far Side Comics featuring Spiders, Ranked](https://www.cbr.com/the-far-side-funniest-spider-comics-ranked/) | Sep 4, 2025 |
+| [10 Funniest The Far Side Comics Revealing '80s Culture](https://www.cbr.com/the-far-side-funniest-80s-culture-comics/) | Aug 31, 2025 |
+| [10 Funniest Far Side Comics featuring Sharks, Ranked](https://www.cbr.com/the-far-side-funniest-shark-comics-ranked/) | Aug 28, 2025 |
+| [10 Funniest Early Inventions in Far Side Comics, Ranked](https://www.cbr.com/the-far-side-funniest-early-inventions-comics/) | Aug 25, 2025 |
+| [10 Funniest Role Reversals in Far Side Comics, Ranked](https://www.cbr.com/the-far-side-funniest-role-reversal-comics-ranked/) | Aug 24, 2025 |
+| [American Dad Loves Far Side...Too Much](https://www.cbr.com/american-dad-loves-far-side-too-much/) | Aug 21, 2025 |
+| [10 Funniest Far Side Comics featuring Monsters, Ranked](https://www.cbr.com/the-far-side-funniest-monster-comics-ranked/) | Aug 18, 2025 |
+| [10 Funniest Far Side Comics featuring Flies, Ranked](https://www.cbr.com/the-far-side-funniest-fly-comics-ranked/) | Aug 17, 2025 |
 | [10 Funniest Far Side Comics featuring Astronauts, Ranked](https://www.cbr.com/the-far-side-funniest-astronaut-comics-ranked/) | Aug 15, 2025 |
 | [10 Funniest Far Side Comics featuring Rhinos, Ranked](https://www.cbr.com/the-far-side-best-rhinos-comics-ranked/) | Aug 14, 2025 |
 | [10 Hilarious Far Side Comics Involving Epic Dating Fails](https://www.cbr.com/the-far-side-epic-dating-fails-comics/) | Aug 10, 2025 |
@@ -316,6 +330,25 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [New Far Side Comic Is a Joke 38 Years in the Making](https://screenrant.com/new-far-side-comic-jane-goodall-gary-larson/) | Nov 28, 2025 |
+| [Only The Far Side’s Creator Would Be Proud of Earning This Truly Disgusting Award](https://screenrant.com/the-far-side-creator-parasite-name-inspiration-comic-history/) | Nov 16, 2025 |
+| [The Far Side Only Exists Because of Gary Larson’s ‘Most Idiotic’ Mistake](https://screenrant.com/the-far-side-origins-gary-lawson-idiotic-mistake-college-major-biology/) | Nov 15, 2025 |
+| [10 Far Side Hidden Gems That Helped Make Gary Larson A Pop Culture Icon](https://screenrant.com/far-side-hidden-gems-pop-culture-jokes/) | Nov 2, 2025 |
+| [45 Funniest The Far Side Comics That Will Never Get Old](https://screenrant.com/funniest-far-side-comics-gary-larson/) | Oct 27, 2025 |
+| [10 Criminally Underrated Far Side Quotes That Prove Gary Larson's Genius](https://screenrant.com/far-side-underrated-comics-best-dialogue-gary-larson/) | Oct 27, 2025 |
+| [The Far Side’s Secret to Success Isn’t What Fans Think It Is](https://screenrant.com/far-side-secret-popularity-gary-larson/) | Sep 7, 2025 |
+| [10 Far Side Comics That Define Gary Larson’s Humor](https://screenrant.com/far-side-comics-absurd-silly-confusing-humor-spectrum/) | Sep 2, 2025 |
+| [10 Hilarious Far Side Comics That Are Certified Underrated Masterpieces](https://screenrant.com/far-side-comics-underrated-masterpieces/) | Sep 1, 2025 |
+| [Some Truly Horrible Advice Almost Killed The Far Side Before It Started](https://screenrant.com/far-side-strip-vs-panel-recurring-characters-bad-advice/) | Aug 30, 2025 |
+| [10 Forgotten Far Side Comics From 1994 That Signaled the End Of An Era](https://screenrant.com/far-side-final-year-underrated-forgotten-comics/) | Aug 28, 2025 |
+| [10 Unhinged Far Side Quotes You Won’t Be Able To Stop Repeating](https://screenrant.com/far-side-comics-absurd-memorable-quotes/) | Aug 27, 2025 |
+| [10 Funniest Far Side Cartoon Parodies of All Time](https://screenrant.com/far-side-parody-cartoons-funny/) | Aug 26, 2025 |
+| [The Far Side Comic Strips That Are Even Funnier in 2025](https://screenrant.com/video/the-far-side-comic-strips-funnier-in-2025/) | Aug 25, 2025 |
+| [10 Far Side Comics That Are the Perfect Cures For a Crappy Day](https://screenrant.com/far-side-comic-cure-bad-day/) | Aug 25, 2025 |
+| [10 Far Side Comics That Perfectly Push Your Favorite Sitcoms](https://screenrant.com/far-side-comics-sitcom-punchlines-tropes-absurd/) | Aug 21, 2025 |
+| [10 Funniest Far Side Comics That Feel Disturbingly Relatable](https://screenrant.com/far-side-comics-disturbing-relatable-humor/) | Aug 20, 2025 |
+| [10 Forgotten Far Side Comics That Show Gary Larson’s Rough Start](https://screenrant.com/far-side-1980-deep-cuts-early-gary-larson-art/) | Aug 18, 2025 |
+| [10 Far Side Comics That Will Make You Feel Young Again](https://screenrant.com/funniest-far-side-comics-young-people-kids-youth/) | Aug 18, 2025 |
 | [10 Hilarious Far Side Comics Starring Its Most Underrated Animal](https://screenrant.com/the-far-side-funny-sheep/) | Aug 15, 2025 |
 | [10 Far Side Comics That Prove Newspapers Should Never Die](https://screenrant.com/far-side-comics-newspaper-jokes-list/) | Aug 14, 2025 |
 | [10 Far Side Comics So Funny They Should Be Viral Already](https://screenrant.com/far-side-comics-viral-memes-list/) | Aug 13, 2025 |
