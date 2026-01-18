@@ -53,9 +53,9 @@ title: Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
 
 | Make | Model | Year | Publication |
 |-------|--------|-------|-------------|
-| Chevrolet | Corvette | 2026 | [2026 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/26_CHEV_Corvette_OM_en_US_U_18519895B_2025%20OCT31_2P.pdf) |
+| Chevrolet | Corvette[^2] | 2026 | [2026 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/26_CHEV_Corvette_OM_en_US_U_18519895B_2025%20OCT31_2P.pdf) |
 |||| [2026 Chevrolet Corvette Vehicle Reference Information](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/user_manuals_browse/26_CHEV_Corvette_VRI_en_US_fr_CA_U_86518594B_2025OCT24_2P.pdf) |
-||| 2025 | [2025 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/25.5_CHEV_Corvette_OM_en_US_U_19087388A_2025MAR10.pdf) |
+| Chevrolet | Corvette[^2] | 2025 | [2025 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/25.5_CHEV_Corvette_OM_en_US_U_19087388A_2025MAR10.pdf) |
 |||| [2025 Chevrolet Corvette - Essential Operating and Safety Information](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/user_manuals_browse/25.5_CHEV_Corvette_EOSI_en_US_U_87867436A_2025FEB04.pdf) |
 |||| [Getting to Know Your 2025 Chevrolet Corvette](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2025_Chevrolet_Corvette_87867437_A.pdf) |
 |||| [Getting to Know Your 2025 Chevrolet Corvette Performance](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2025_Chevrolet_Corvette_Performance_87867438_A.pdf) |
@@ -64,7 +64,7 @@ title: Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
 |||| [2025 Chevrolet Corvette - Essential Operating and Safety Information](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/user_manuals_browse/25.5_CHEV_Corvette_EOSI_en_US_U_87867436A_2025FEB04.pdf) |
 |||| [Getting to Know Your 2025 Chevrolet Corvette](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2025_Chevrolet_Corvette_87867437_A.pdf) |
 |||| [Getting to Know Your 2025 Chevrolet Corvette Performance](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2025_Chevrolet_Corvette_Performance_87867438_A.pdf) |
-||| 2024 | [2024 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/24_CHEV_Corvette_OM_en_US_U_84948178A_2023JUL11.pdf) |
+| Chevrolet | Corvette[^2] | 2024 | [2024 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/24_CHEV_Corvette_OM_en_US_U_84948178A_2023JUL11.pdf) |
 |||| [2024 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/24_CHEV_Corvette_OM_en_US_U_84948178A_2023FEB20.pdf) |
 |||| [Getting to Know Your 2024 Chevrolet Corvette](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2024_Chevrolet_Corvette_84948181_A.pdf) |
 |||| [Getting to Know Your 2024 Chevrolet Corvette Performance](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2024_Chevrolet_Corvette_Performance_84948182_A.pdf) |
@@ -74,7 +74,7 @@ title: Automotive/Chevrolet Corvette [C8] – Mid-Engine Performance Beast
 |||| [Getting to Know Your 2024 Chevrolet Corvette](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2024_Chevrolet_Corvette_84948181_A.pdf) |
 |||| [Getting to Know Your 2024 Chevrolet Corvette Performance](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2024_Chevrolet_Corvette_Performance_84948182_A.pdf) |
 |||| [2024 Chevrolet Corvette Track Preparation Guide](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/2024_Corvette_Track_Guide_Final.pdf)
-| Chevrolet | Corvette | 2023 | [2023 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/23_CHEV_Corvette_OM_en_US_U_84795300C_2023JAN04_3P%20(1).pdf) |
+| Chevrolet | Corvette[^2] | 2023 | [2023 Chevrolet Corvette Owner Manual](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/23_CHEV_Corvette_OM_en_US_U_84795300C_2023JAN04_3P%20(1).pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2023_Chevrolet_Corvette_84795301_A.pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette Performance](https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/quick_reference_manuals_browse/GTK_2023_Chevrolet_Corvette_Performance%20_84840061_A.pdf) |
 |||| [Getting to Know Your 2023 Chevrolet Corvette](https://www.chevrolet.com/bypass/pcf/gma-content-api/resources/sites/GMA/content/staging/MANUALS/6000/MA6690/en_US/1.0/GTK_2023_Chevrolet_Corvette_84795301_A.pdf) |
