@@ -17,6 +17,7 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [The 15 Best Calvin and Hobbes Christmas Comics](https://www.cbr.com/best-calvin-and-hobbes-christmas-comics/) | Dec 17, 2025 |
 | [30 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | Aug 3, 2025 |
 | [10 Must-Read Comic Strip Collections Every Fan Needs to Own](https://www.cbr.com/must-read-comic-strip-collections/) | Jul 22, 2025 |
 | [10 Best Calvin and Hobbes Start Of Summer Comics](https://www.cbr.com/calvin-and-hobbes-best-start-of-summer-comics/) | Jul 15, 2025 |
@@ -158,6 +159,8 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [8 Calvin & Hobbes Comics You'll Only Get As An Adult](https://screenrant.com/best-calvin-hobbes-comic-deep-adult-meaning/) | Dec 30, 2025 |
+| [Calvin and Hobbes Are to Thank for One of the Wildest 1990s Court Battles](https://screenrant.com/calvin-and-hobbes-comic-court-case-car-decal-history/) | Dec 27, 2025 |
 | [Why You Don't Want To Know What "The Noodle Incident", Calvin and Hobbes' Greatest Mystery Is](https://screenrant.com/calvin-and-hobbes-comics-noodle-incident-mystery-op-ed/) | May 10, 2025 |
 | [13 Calvin And Hobbes Comics Starring Calvin's Darkest Alter Ego, "Tracer Bullet"](https://screenrant.com/calvin-and-hobbes-comics-tracer-bullet-list/) | May 9, 2025 |
 | ["Cal After Hobbes": Calvin and Hobbes Has a Bittersweet Epilogue Every Fan Needs to See](https://screenrant.com/calvin-hobbes-ending-adult-version-mini/) | Apr 29, 2025 |
