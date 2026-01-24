@@ -330,6 +330,7 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [Far Side's 18 Funniest Christmas Comics of All Time](https://screenrant.com/funny-far-side-christmas-comics-holiday-gary-larson/) | Dec 23, 2025 |
 | [New Far Side Comic Is a Joke 38 Years in the Making](https://screenrant.com/new-far-side-comic-jane-goodall-gary-larson/) | Nov 28, 2025 |
 | [Only The Far Side’s Creator Would Be Proud of Earning This Truly Disgusting Award](https://screenrant.com/the-far-side-creator-parasite-name-inspiration-comic-history/) | Nov 16, 2025 |
 | [The Far Side Only Exists Because of Gary Larson’s ‘Most Idiotic’ Mistake](https://screenrant.com/the-far-side-origins-gary-lawson-idiotic-mistake-college-major-biology/) | Nov 15, 2025 |
