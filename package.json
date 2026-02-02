@@ -26,7 +26,7 @@
     "@semantic-release/release-notes-generator": "^14.1.0",
     "markdownlint": "^0.40.0",
     "RalphHightower": "github:RalphHightower/RalphHightower",
-    "semantic-release": "^25.0.2"
+    "semantic-release": "^25.0.3"
   },
   "engines": {
     "node": ">=20.8.1"
