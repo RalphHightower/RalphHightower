@@ -23,6 +23,7 @@ Please check the type of change your PR introduces:
 - [ ] Jekyll change(s)
 - [ ] Liquid change(s)
 - [ ] Markdown change(s)
+- [ ] npm package(s) 
 - [ ] YAML change(s)
 - [ ] Build error(s)
 - [ ] Feature(s)
@@ -42,6 +43,7 @@ Please check the type of change your PR introduces:
 - [ ] Jekyll
 - [ ] Liquid
 - [ ] Markdown
+- [ ] npm package
 - [ ] Ruby
 - [ ] Python
 - [ ] YAML
@@ -56,29 +58,29 @@ Please check the type of change your PR introduces:
 ## What is the current behavior?
 <!-- Please describe the current behavior that you are modifying, or link to a relevant issue -->
 
--
+- 
 
 ## What is the new behavior?
 <!-- Please describe the behavior or changes that are being added by this PR -->
 
--
+- 
 
 ## Files Added
 
--
+- 
 
 ## Files Modified
 
--
+- 
 
 ## Files Deleted
 
--
+- 
 
 ## Other information
 <!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change -->
 
--
+- 
 
 ## Hardware
 
