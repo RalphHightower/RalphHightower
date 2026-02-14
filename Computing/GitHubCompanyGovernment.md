@@ -239,6 +239,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [NOAA Environmental Modeling Center (EMC)](https://github.com/NOAA-EMC) | We develop numerical forecast systems and enhance numerical forecasts through numerical computational technology and data assimilation techniques. |
 | [NOAA Earth Prediction Innovation Center](https://github.com/NOAA-EPIC) |
 | [NOAA-SWPC](https://github.com/NOAA-SWPC) | NASA Solar Weather Prediction Center |
+| [National Security Agency](https://github.com/NationalSecurityAgency) | Official organization account for the National Security Agency (NSA) |
 | [Node-RED](https://github.com/node-red) | Low-code programming for event-driven applications |
 | [Notary Public](https://github.com/notaryproject) | Notary is a project that allows anyone to have trust over arbitrary collections of data |
 | [npm](https://github.com/npm) | JavaScript Package Manager, Registry & Website |
@@ -313,6 +314,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [RISC-V Software](https://github.com/riscv-software-src) | RISC-V: The Free and Open RISC Instruction Set Architecture |
 | [reviewdog](https://github.com/reviewdog)[^0523] |
 | [rockchip-linux](https://github.com/rockchip-linux) | An open source software for Rockchip SoCs |
+| [Robotic Systems Lab - Legged Robotics at ETH Zürich](https://github.com/leggedrobotics) | The Robotic Systems Lab investigates the development of machines and their intelligence to operate in rough and challenging environments. |
 | [The Ruby Programming Language](https://github.com/ruby) | Repositories related to the Ruby Programming language. |
 | [RubyGems](https://github.com/rubygems) | Ruby Plugins |
 | [Safran Trusted 4D Sèvres](https://github.com/Orolia2s) | Open source projects from Safran Trusted 4D Sèvres (*fka Orolia2s*) |
