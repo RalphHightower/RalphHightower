@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Weather/Weather
 #permalink: /Weather/
 ---

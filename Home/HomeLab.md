@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Home/Home Lab
 #permalink: /Home/
 ---

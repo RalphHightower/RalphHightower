@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Astronomy/T Corona Borealis Goes Kablooie
 #permalink: /Astronomy/
 ---

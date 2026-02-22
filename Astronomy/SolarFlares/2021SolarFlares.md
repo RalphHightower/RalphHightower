@@ -4,7 +4,6 @@
 
 | Solar Activity | Date |
 |---|---|
-| [The solar wind, explained • Phys](https://phys.org/news/2021-03-solar.html) | MARCH 11, 2021 |
 | [Mysteries Abound: NASA Studying the Edge of the Sun’s Magnetic Bubble • SciTechDaily](https://scitechdaily.com/mysteries-abound-nasa-studying-the-edge-of-the-suns-magnetic-bubble/)[^23] | OCTOBER 31, 2021 |
 | **[Earth's Magnetosphere: Protecting Our Planet From Harmful Space Radiation • SciTechDaily](https://scitechdaily.com/earths-magnetosphere-protecting-our-planet-from-harmful-space-radiation/)[^24]** | **OCTOBER 30, 2021** |
 | [Is This a Scene From a Sci-Fi Horror Flick a Rare Atmospheric Phenomenon? - Atlas Obscura](https://www.atlasobscura.com/articles/what-is-a-blue-aurora) | OCTOBER 26, 2021 |
@@ -34,6 +33,7 @@
 | [The Aurora’s Very High Altitude Booster Creates Dazzling Displays • SciTechDaily](https://scitechdaily.com/the-auroras-very-high-altitude-booster-creates-dazzling-displays/) | APRIL 1, 2021 |
 | [Social Network Inspired Algorithms Reveal Lifecycle of Auroral Substorms, a Key Element of Space Weather • SciTechDaily](https://scitechdaily.com/social-network-inspired-algorithms-reveal-lifecycle-of-auroral-substorms-a-key-element-of-space-weather/) | MARCH 23, 2021 |
 | [Network community structure of substorms using SuperMAG magnetometers / Nature Communications](https://www.nature.com/articles/s41467-021-22112-4) | 23 March 2021 |
+| [The solar wind, explained • Phys](https://phys.org/news/2021-03-solar.html) | MARCH 11, 2021 |
 | [Active auroral arc powered by accelerated electrons from very high altitudes / Scientific Reports • Nature](https://www.nature.com/articles/s41598-020-79665-5) | 18 January 2021 |
 | [NASA Approves Two Heliophysics Missions to Explore Sun, Earth’s Aurora • SciTechDaily](https://scitechdaily.com/nasa-approves-two-heliophysics-missions-to-explore-sun-earths-aurora/) | DECEMBER 30, 2020 |
 | [Rare & Magical Pulsating Aurora Lights: Killer Electrons in Strumming Sky Lights • SciTechDaily](https://scitechdaily.com/rare-magical-pulsating-aurora-lights-killer-electrons-in-strumming-sky-lights/) | NOVEMBER 30, 2020 |

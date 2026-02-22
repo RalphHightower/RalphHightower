@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Astronomy/Auroras
 #permalink: /Astronomy/
 ---
@@ -58,6 +59,10 @@ The sun has been active firing off strong G class (G3 – G5) and extreme X stre
 | [Aurora season is here — What to expect from the northern lights in 2024/25 / Space](https://www.space.com/aurora-season-what-to-expect-northern-lights-2024-and-2025) | August 3, 2024 |
 
 ## Auroras
+
+{% include_relative SolarFlares/2026SolarFlares.md %}
+
+{% include_relative SolarFlares/2025SolarFlares.md %}
 
 {% include_relative SolarFlares/2024SolarFlares.md %}
 

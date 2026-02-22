@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: FoodDrink/South Carolina Craft Beer Breweries
 #permalink: /FoodDrink/
 ---
@@ -76,7 +77,7 @@ title: FoodDrink/South Carolina Craft Beer Breweries
 | [Oak Road Brewery](https://www.oakroadbrewery.com/)[^3] | Summerville ||
 | [Off the Tracks Brewing](https://offthetracksbrewing.com/# )[^19] | Rock Hill ||
 | [Old Mill Brewpub](https://www.oldmillbrewpub.net/)[^2] | Lexington ||
-| [Palmetto Brewing Co.](https://palmettobrewery.com/)[^1] | Charleston | 1993 |
+| ~~[Palmetto Brewing Co.](https://palmettobrewery.com/)~~[^1][^20] | Charleston | 1993 |
 | [Pangaea Brewing Company](https://pangaeabrewing.com/)[^5] | Greenville ||
 | [Pawleys Island Brewing Company](https://www.pawleysislandbrewing.com/)[^1] | North Charleston | 2016 |
 | [Peak Drift Brewing](https://www.peakdriftbrewing.com/)[^1] | Columbia | 2021 |
@@ -143,3 +144,4 @@ title: FoodDrink/South Carolina Craft Beer Breweries
 [^17]: 2024-01-18 In Fort Mill, the 415 Tom Hall St. site where 1873 Brewing opened in 2021 is now Untamed Waters Brewing. That ownership change and re-brand was announced in November.<br />[Legal Remedy in Rock Hill SC closed for remodel, name change / Rock Hill Herald](https://www.heraldonline.com/news/business/article283960388.html#amp_tf=From%20%251%24s&aoh=17055884092044&csi=1&ampshare=https%3A%2F%2Fwww.heraldonline.com%2Fnews%2Fbusiness%2Farticle283960388.html )
 [^18]: 2023-12-31 According to [South Carolina Department of Revenue](https://dor.sc.gov), Brewery 85 closed its doors, 2023-09-26
 [^19]: 2024-01-20 [YoCo Brew Trail](https://www.visityorkcounty.com/restaurants/yoco-brew-trail/ )
+[^20]: 2025-06-25: [‘It’s heartbreaking’: A Lowcountry staple closes its doors after 3 decades](https://www.live5news.com/2025/06/26/its-heartbreaking-lowcountry-staple-closes-its-doors-after-3-decades/)

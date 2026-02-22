@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: ChatGPT/ChatGPT Haikus
 #permalink: /ChatGPT/
 ---

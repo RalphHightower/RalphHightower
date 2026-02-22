@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: FoodDrink/Tabasco Sauce Scoville Rating
 #permalink: /FoodDrink/
 ---

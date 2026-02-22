@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: ChatGPT Travel Agent/North America/Caribbean 
 #permalink: /TravelAgentChatGPT/
 ---
@@ -12,7 +13,7 @@ title: ChatGPT Travel Agent/North America/Caribbean
 #### Bermuda 🇧🇲 (UK)
 #### Bonaire (Netherlands)
 #### British Virgin Islands (UK)
-#### Cayman Islands 🇰🇾c(UK)
+#### Cayman Islands 🇰🇾 (UK)
 #### Clipperton Island (France)
 #### Cuba 🇨🇺 
 #### Curacao (Netherlands)

@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: ChatGPT Travel Agent/North America/Central America 
 #permalink: /TravelAgentChatGPT/
 ---

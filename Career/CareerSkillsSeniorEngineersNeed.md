@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Career/Skills Needed by Senior Engineers Besides Coding Skills
 #permalink: /Career/
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Photography/Rocket Launches
 #permalink: /Photography/
 ---

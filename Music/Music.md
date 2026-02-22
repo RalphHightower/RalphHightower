@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Music/Music
 #permalink: /Music/
 ---

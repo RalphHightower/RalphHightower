@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Science Fiction/Doctor Who Timelords
 #permalink: /ScienceFiction/
 ---

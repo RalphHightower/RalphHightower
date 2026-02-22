@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: Astronomy/Total Solar Eclipse 
 #permalink: /Astronomy/
 ---
@@ -64,7 +65,7 @@ title: Astronomy/Total Solar Eclipse
 [^12]: [What are El Nino and La Nina?](https://oceanservice.noaa.gov/facts/ninonina.html ) 
 [^13]: A unique method to view the eclipse. 
 
-## [Eclipse 2024 — NASA](https://eclipse2024.nasa.gov/ )
+### [Eclipse 2024 — NASA](https://eclipse2024.nasa.gov/ )
 
 | Total Solar Eclipses: 2024-04-08, 2017-08-21 | Date |
 |---|---|
@@ -72,7 +73,7 @@ title: Astronomy/Total Solar Eclipse
 | [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US / Space](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017 ) | April 26, 2024 |
 | [GOES ABI Time Composites from April 8th — CIMSS Satellite Blog, CIMSS](https://cimss.ssec.wisc.edu/satellite-blog/archives/58552 ) | 18 April 2024 |
 
-## April 8, 2024 Total Solar Eclipse 
+### April 8, 2024 Total Solar Eclipse 
 
 ### April 8, 2024 Total Solar Eclipse • [NASA](https://www.nasa.gov/) 
 
@@ -470,7 +471,7 @@ title: Astronomy/Total Solar Eclipse
 
 </details >
 
-## 2024-04-08 Events
+### 2024-04-08 Events
 
 <details markdown='1'><summary>Expand / Collapse: NASA Hosted 2024-04-08</summary>
 

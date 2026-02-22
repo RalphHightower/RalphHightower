@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: true
 title: FoodDrink/Hooter Restaurants Visited
 #permalink: /FoodDrink/
 ---
