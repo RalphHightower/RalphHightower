@@ -11,10 +11,9 @@ source 'https://rubygems.org'
 # Happy Jekylling!
 
 gem 'jekyll', '~> 4.4', '>= 4.4.1'
-gem 'kramdown', '~> 2.5', '>= 2.5.1'
+gem 'kramdown', '~> 2.5', '>= 2.5.2'
 gem 'jekyll-sass-converter', '~> 3.1'
-# gem 'rake', '~> 13.3'
-gem 'rake', '~> 13.2', '>= 13.2.1'
+gem 'rake', '~> 13.3', '>= 13.3.1'
 gem 'minima', '~> 2.5', '>= 2.5.2'
 
 # If you have any plugins, put them here!
@@ -24,7 +23,6 @@ gem 'jekyll-avatar', '~> 0.8.0'
 gem 'jekyll-default-layout', '~> 0.1.5'
 gem 'jekyll-feed', '~> 0.17.0'
 gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
-# gem 'jekyll-include-cache', '~> 0.2.1'
 gem 'jekyll-last-modified-at', '~> 1.3', '>= 1.3.2'
 gem 'jekyll-mentions', '~> 1.6'
 gem 'jekyll-optional-front-matter', '~> 0.3.2'
@@ -41,7 +39,7 @@ gem 'jekyll-paginate-v2', '~> 3.0'
 
 # Security updates
 # { 2025-03-03 
-gem 'uri', '~> 1.0', '>= 1.0.3'
+gem 'uri', '~> 1.1', '>= 1.1.1'
 # } 2025-03-03
 
 # { 2025-01-11 @RalphHightower jekyll_ai_related_posts
@@ -63,4 +61,8 @@ gem 'sqlite3', '~> 1.4', '>= 1.4.4'
 # { 2024-10-29 @RalphHightower 
 # gem 'nuggets', '~> 1.6', '>= 1.6.1'
 # } 2024-10-29 @RalphHightower
+
+# { 2026-02-21 @RalphHightower – Nokogiri does not check the return value from xmlC14NExecute
+gem 'nokogiri', '~> 1.19', '>= 1.19.1'
+# } 2026-02-21 @RalphHightower
 end
