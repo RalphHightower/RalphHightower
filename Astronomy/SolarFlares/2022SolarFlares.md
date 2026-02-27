@@ -4,13 +4,11 @@
 
 | Solar Activity | Date |
 |---|---|
-| [Maximal growth rate of the ascending phase of a sunspot cycle for predicting its amplitude / Astronomy & Astrophysics (A&A\)](https://www.aanda.org/articles/aa/full_html/2022/07/aa43509-22/aa43509-22.html) | 20 July 2022 |
-| [A new method for predicting the 11-year solar cycle strength](https://www.spacedaily.com/reports/A_new_method_for_predicting_the_11_year_solar_cycle_strength_999.html) | Jul 06, 2022 |
 | [10 solar storms that blew us away in 2022 / Live Science](https://www.livescience.com/solar-storm-stories-2022 ) | December 26, 2022 |
 | [Microwave imaging of quasi-periodic pulsations at flare current sheet / Nature Communications](https://www.nature.com/articles/s41467-022-35377-0) | 12 December 2022 |
+| [The Sun Could Hurl Powerful Storms at Earth From its Goofy Smile - Universe Today](https://www.universetoday.com/158632/the-sun-could-hurl-powerful-storms-at-us-from-its-goofy-smile/) | NOVEMBER 14, 2022 |
 | **[Solar storm smashes hole in Earth's magnetosphere, triggering extremely rare pink auroras / Live Science](https://www.livescience.com/pink-auroras-solar-storm)** | **November 7, 2022** |
 | [Tree Rings Offer Insight Into Mysterious, Devastating Radiation Storms • SciTechDaily](https://scitechdaily.com/tree-rings-offer-insight-into-mysterious-devastating-radiation-storms/) | OCTOBER 28, 2022 |
-| [The Sun Could Hurl Powerful Storms at Earth From its Goofy Smile - Universe Today](https://www.universetoday.com/158632/the-sun-could-hurl-powerful-storms-at-us-from-its-goofy-smile/) | NOVEMBER 14, 2022 |
 | [Modelling cosmic radiation events in the tree-ring radiocarbon record / Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0497) | 26 October 2022 |
 | **[THE GREAT SPRITES CHASE - The Sun Spot • NASA](https://blogs.nasa.gov/sunspot/2022/10/27/the-great-sprites-chase/)** | **October 27, 2022** |
 | **[Image: Sun releases strong solar flare • Phys](https://phys.org/news/2022-10-image-sun-strong-solar-flare.html)** | **OCTOBER 3, 2022** |
@@ -20,8 +18,10 @@
 | [First of NASA’s SunRISE SmallSats Rolls Off Production Line - NASA](https://www.nasa.gov/missions/small-satellite-missions/first-of-nasas-sunrise-smallsats-rolls-off-production-line/) | AUG 09, 2022 |
 | [Upward propagation of gigantic jets revealed by 3D radio and optical mapping / Science Advances • SciTechDaily](https://www.science.org/doi/10.1126/sciadv.abl8731) | 3 Aug 2022 |
 | [Rocket Launches Can Create Night-Shining Clouds Away from the Poles, NASA’s AIM Mission Reveals - NASA](https://www.nasa.gov/missions/aim/rocket-launches-can-create-night-shining-clouds-away-from-the-poles-nasas-aim-mission-reveals/) | JUL 21, 2022 |
+| [Maximal growth rate of the ascending phase of a sunspot cycle for predicting its amplitude / Astronomy & Astrophysics (A&A\)](https://www.aanda.org/articles/aa/full_html/2022/07/aa43509-22/aa43509-22.html) | 20 July 2022 |
 | [The worst solar storms in history / Space](https://www.space.com/12584-worst-solar-storms-sun-flares-history.html) | July 20, 2022 |
 | [NASA's Heliophysics Education Team Reaches 341 Teachers in 23 States and 7 Countries - NASA Science](https://science.nasa.gov/science-research/heliophysics/heliophysics-education-team/) | JUL 15, 2022 |
+| [A new method for predicting the 11-year solar cycle strength](https://www.spacedaily.com/reports/A_new_method_for_predicting_the_11_year_solar_cycle_strength_999.html) | Jul 06, 2022 |
 | [Auroras Incoming? Giant Sunspot Has Doubled in Size and Is Pointed Right at Earth • SciTechDaily](https://scitechdaily.com/auroras-incoming-giant-sunspot-has-doubled-in-size-and-is-pointed-right-at-earth/) | JUNE 30, 2022 |
 | [Unexpected solar weather is causing satellites to plummet from orbit / Space](https://www.space.com/satellites-falling-off-sky-solar-weather) | June 24, 2022 |
 | [The Coronal Veil: Are the Sun’s Magnetic Arches an Optical Illusion? - NASA](https://www.nasa.gov/missions/sdo/the-coronal-veil-are-the-suns-magnetic-arches-an-optical-illusion/) | JUN 16, 2022 |
