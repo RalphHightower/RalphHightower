@@ -49,7 +49,7 @@
 | [The Enigmatic, Celestial Steve Makes an Appearance in Scotland - Atlas Obscura](https://www.atlasobscura.com/articles/why-is-aurora-called-steve) | MARCH 19, 2018 |
 | [Aurora-Tracking Satellites Get Extra Help to Study Space Weather](https://www.inverse.com/article/41592-aurora-tracking-satellites-get-extra-help-study-space-weather) | FEB. 23, 2018 |
 | [Astronomers Discover the Missing Link Responsible for Pulsating Auroras • SciTechDaily](https://scitechdaily.com/astronomers-discover-the-missing-link-raesponsible-for-pulsating-auroras/) | FEBRUARY 20, 2018 |
-| **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25 • NASA] • NASA]** | **FEBRUARY 19, 2018** |
+| **[Astronomers Observe Electrons Bouncing Across Earth's Magnetosphere • SciTechDaily](https://scitechdaily.com/astronomers-directly-observe-electrons-bouncing-across-earths-magnetosphere/)[^25]** | **FEBRUARY 19, 2018** |
 | [The Sun Continues its Journey to Solar Maximum, Releasing X-Class Flares - Universe Today](https://www.universetoday.com/160073/the-sun-continues-its-journey-to-solar-maximum-releasing-x-class-flares/) | **FEBRUARY 13, 2023** |
 | [Sun Unleashes Monster Solar Flare, Strongest in a Decade / Space](https://www.space.com/38057-sun-unleashes-decades-strongest-solar-flare.html) | September 6, 2017 |
 | [New Wave Pattern On The Sun Might Help Us Predict Solar Storms / IFLScience](https://www.iflscience.com/new-wave-pattern-on-the-sun-might-help-us-predict-solar-storms-41028) | March 29, 2017 |
@@ -70,4 +70,4 @@
 [^22]: [EZIE Does It: NASA’s Next Step in Unraveling Earth’s Electrifying Space Connections • SciTechDaily](https://scitechdaily.com/ezie-does-it-nasas-next-step-in-unraveling-earths-electrifying-space-connections/)
 [^23]: [EZIE Kitx @ ezie.jhuapl.edu](https://ezie.jhuapl.edu/)
 [^24]: A video in this article gives a great explanation of the South Atlantic Anomaly,  seen on NASA tracking tracking video video display displays as SAA.
-[^25 • NASA]: The third video on this page sounds like EDM.
+[^25]: The third video on this page sounds like EDM.
