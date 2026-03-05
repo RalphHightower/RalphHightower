@@ -16,7 +16,7 @@ jobs:
       pull-requests: write # to be able to comment on released pull requests
       id-token: write # to enable use of OIDC for npm provenance
     name: release
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Harden Runner
         uses: step-security/harden-runner@a90bcbc6539c36a85cdfeb73f7e2f433735f215b # v2.15.0
