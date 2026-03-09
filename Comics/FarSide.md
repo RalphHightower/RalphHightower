@@ -25,6 +25,7 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Hilarious Far Side Comics About Soldiers](https://www.cbr.com/funny-far-side-comics-about-soldiers/) | Mar 9, 2026 |
 | [15 Best The Far Side Comic Strips About Santa Claus and Christmas, Ranked](https://www.cbr.com/the-far-side-best-santa-claus-christmas-strips/) | Dec 19, 2025 |
 | [10 Things Everyone Gets Wrong About The Far Side](https://www.cbr.com/the-far-side-wrong-misunderstandings-controversy/) | Nov 13, 2025 |
 | [Did Gary Larson Really Offend Jane Goodall With a Far Side Comic About Her?](https://www.cbr.com/far-side-jane-goodall-gary-larson-feud/) | Oct 2, 2025 |
@@ -330,6 +331,7 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [15 Funniest Far Side Comics That Roast Real-Life Celebrities](https://screenrant.com/funniest-far-side-comics-real-people-celebrities-musicians/) | Jan 14, 2026 |
 | [10 Greatest Comic Strips of All Time, Ranked](https://screenrant.com/greatest-comic-strips-of-all-time-ranked/) | Dec 31, 2025 |
 | [Far Side's 18 Funniest Christmas Comics of All Time](https://screenrant.com/funny-far-side-christmas-comics-holiday-gary-larson/) | Dec 23, 2025 |
 | [New Far Side Comic Is a Joke 38 Years in the Making](https://screenrant.com/new-far-side-comic-jane-goodall-gary-larson/) | Nov 28, 2025 |
