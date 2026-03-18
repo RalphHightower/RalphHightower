@@ -456,7 +456,6 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 | [Weather Hourly](https://www.timeanddate.com/weather/usa/columbia/hourly) | Columbia, South Carolina, USA |
 | [14 Day Forecast](https://www.timeanddate.com/weather/usa/columbia/ext) | Columbia, South Carolina, USA |
 | [Climate (Averages)](https://www.timeanddate.com/weather/usa/columbia/climate) | Columbia, South Carolina, USA |
-| [Weather Data @ Crossroads Fire Station](http://www.rcwinds.com/?tab=data&loc=Crossroads%20Fire%20Station) | Chapin, South Carolina, USA |
 |||
 |[USGS Current Conditions for USGS 02168500 LAKE MURRAY NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168500&format=gif&period=31 )| Lake Murray, South Carolina |
 |[USGS Current Conditions for USGS 02168501 LAKE MURRAY TAILRACE NEAR COLUMBIA, SC](https://waterdata.usgs.gov/sc/nwis/uv?site_no=02168501&format=gif&period=31 )| Lake Murray, South Carolina |
@@ -519,7 +518,9 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 ## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
 
-| [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9779/badge)](https://www.bestpractices.dev/projects/9779) |
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9779/badge)](https://www.bestpractices.dev/projects/9779)
+
+|   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
@@ -528,5 +529,4 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 |    |    |
 |---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
