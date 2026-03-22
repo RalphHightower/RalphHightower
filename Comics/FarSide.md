@@ -25,6 +25,9 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Far Side Comics That Took The Joke Too Far](https://www.cbr.com/far-side-comics-that-took-joke-too-far/) | Mar 17, 2026 |
+| [10 Far Side Comics About Getting Older That Hit Way Too Close To Home](https://www.cbr.com/funny-far-side-comics-about-getting-old/) | Mar 13, 2026 |
+| [10 Funniest Dad Jokes in The Far Side Comics](https://www.cbr.com/10-funny-dad-jokes-in-far-side-comics/) | Mar 10, 2026 |
 | [10 Hilarious Far Side Comics About Soldiers](https://www.cbr.com/funny-far-side-comics-about-soldiers/) | Mar 9, 2026 |
 | [15 Best The Far Side Comic Strips About Santa Claus and Christmas, Ranked](https://www.cbr.com/the-far-side-best-santa-claus-christmas-strips/) | Dec 19, 2025 |
 | [10 Things Everyone Gets Wrong About The Far Side](https://www.cbr.com/the-far-side-wrong-misunderstandings-controversy/) | Nov 13, 2025 |
@@ -331,6 +334,10 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [20 Funniest The Far Side Comics That Have Aged Like Fine Wine](https://screenrant.com/funniest-far-side-comics-gary-larson/) | Feb 20, 2026 |
+| [The Far Side's Weirdest Comic, "Cow Tools," Just Became It's Most Prophetic...Seriously](https://screenrant.com/far-side-cow-tools-gary-larson-prophetic/) | Jan 31, 2026 |
+| [10 Hilarious Wordless Far Side Comics That Are Begging for Captions](https://screenrant.com/best-far-side-comics-without-words-captions-list/) | Jan 23, 2026 |
+| [The Far Side Movies Time Forgot: Why the Films Are Nowhere to Be Found](https://screenrant.com/the-far-side-animated-movie-streaming-explained/) | Jan 18, 2026 |
 | [15 Funniest Far Side Comics That Roast Real-Life Celebrities](https://screenrant.com/funniest-far-side-comics-real-people-celebrities-musicians/) | Jan 14, 2026 |
 | [10 Greatest Comic Strips of All Time, Ranked](https://screenrant.com/greatest-comic-strips-of-all-time-ranked/) | Dec 31, 2025 |
 | [Far Side's 18 Funniest Christmas Comics of All Time](https://screenrant.com/funny-far-side-christmas-comics-holiday-gary-larson/) | Dec 23, 2025 |
