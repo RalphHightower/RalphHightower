@@ -43,7 +43,6 @@ plugins:
   - jekyll-sitemap
   # - jekyll-tagging
   - jekyll-titles-from-headings
-  - jekyll_ai_related_posts
   - jekyll-toc
   - jemoji
   - jekyll-paginate-v2
