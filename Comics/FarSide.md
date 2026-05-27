@@ -25,6 +25,21 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [15 Funniest Far Side Comics About American History](https://www.cbr.com/funniest-far-side-comics-about-american-history/) | May 18, 2026 |
+| [10 The Far Side Comics From 1984 That Prove Gary Larson is a Genius](https://www.cbr.com/far-side-comics-from-1984-that-prove-gary-larson-is-a-genius/) | May 15, 2026 |
+| [15 Funniest The Far Side Comics On an Island](https://www.cbr.com/funniest-far-side-comics-set-on-an-island/) | May 14, 2026 |
+| [15 Funniest The Far Side Comics About Sports](https://www.cbr.com/funniest-far-side-comics-about-sports/) | May 13, 2026 |
+| [10 Hysterical The Far Side Comics That Aged Like Fine Wine](https://www.cbr.com/hysterical-far-side-comics-that-aged-like-fine-wine/) | May 8, 2026 |
+| [10 Best Far Side Comics Set At School](https://www.cbr.com/best-far-side-comics-set-at-school/) | May 7, 2026 |
+| [The 10 Best The Far Side Comics About Pets](https://www.cbr.com/best-far-side-comics-about-pets/) | May 4, 2026 |
+| [The 10 Funniest The Far Side Comics with Cavemen](https://www.cbr.com/funniest-far-side-comics-about-cavemen/) | Apr 30, 2026 |
+| [10 Funniest The Far Side Comic Strips About Airplanes and Pilots](https://www.cbr.com/10-funniest-the-far-side-comic-strips-about-airplanes-and-pilots-ranked/) | Apr 29, 2026 |
+| [15 Funniest The Far Side Comics About the Workplace](https://www.cbr.com/funniest-the-far-side-comics-about-the-workplace/) | Apr 28, 2026 |
+| [The Funniest The Far Side Comics About Animals](https://www.cbr.com/the-funniest-the-far-side-comics-about-animals/) | Apr 27, 2026 |
+| [Gary Larson's 20 Most Underrated The Far Side Comics](https://www.cbr.com/gary-larsons-20-most-underrated-the-far-side-comics/) | Apr 26, 2026 |
+| [The Far Side's 20 Greatest Wordless Comics of All Time](https://www.cbr.com/20-greatest-wordless-the-far-side-comics-of-all-time/) | Apr 24, 2026 |
+| [Did The Far Side Once Explain a Joke to Each Newspaper That Carried It?](https://www.cbr.com/did-the-far-side-once-explain-a-joke-to-each-newspaper-that-carried-it/) | Apr 21, 2026 |
+| [10 Best Far Side Comics That Are Officially 30 Years Old Now](https://www.cbr.com/best-far-side-comics-that-are-30-years-old/) | Apr 20, 2026 |
 | [10 Far Side Comics That Took The Joke Too Far](https://www.cbr.com/far-side-comics-that-took-joke-too-far/) | Mar 17, 2026 |
 | [10 Far Side Comics About Getting Older That Hit Way Too Close To Home](https://www.cbr.com/funny-far-side-comics-about-getting-old/) | Mar 13, 2026 |
 | [10 Funniest Dad Jokes in The Far Side Comics](https://www.cbr.com/10-funny-dad-jokes-in-far-side-comics/) | Mar 10, 2026 |
@@ -334,6 +349,22 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [8 Funniest Far Side Comics That Reinvent the Wheel...Literally](https://screenrant.com/far-side-best-wheel-jokes/) | May 18, 2026 |
+| [The Classic Far Side Comics That Rewrite History](https://screenrant.com/far-side-revisionist-history-comics/) | May 14, 2026 |
+| [10 Funniest Far Side Comics At The Beach](https://screenrant.com/far-side-beach-jokes-best-comics/) |
+May 11, 2026 |
+| [10 Hilarious Far Side Comics We Promise Will Leave Your Stomach Rumbling](https://screenrant.com/funniest-far-side-food-restaurants-comics/) | May 5, 2026 |
+| [These Iconic Far Side Strips Are Practically Perfect](https://screenrant.com/far-side-comics-perfect-iconic-legacy/) | Apr 28, 2026 |
+| [10 Real Complaints About the Far Side From Readers In the 1980s](https://screenrant.com/far-side-real-readercomplaints-1980s-gary-larson/) | Apr 19, 2026 |
+| [10 Perfect Far Side Comics That Just Turned 40](https://screenrant.com/10-perfect-far-side-comics-that-just-turned-40/) | Apr 15, 2026 |
+| [10 Funniest Far Side Comics That Make Numbers Hilarious](https://screenrant.com/funniest-far-side-comics-gary-larson-numbers/) | Apr 4, 2026 |
+| [The Far Side’s First Famous Fan Proves What A Wild Trip the Comic Was](https://screenrant.com/far-side-first-fan-timothy-leary/) | Mar 29, 2026 |
+| [10 Funniest Far Side Comics That Literally Everyone Loves](https://screenrant.com/funniest-far-side-comics-not-confusing-best-gary-larson/) | Mar 27, 2026 |
+| [The Far Side Has the Best First Year in Comic History, and it's Not Close](https://screenrant.com/far-side-best-first-year-comic-history/) | Mar 22, 2026 |
+| [46 Years Later, The Far Side's Very First Comic Hits Like a Truck](https://screenrant.com/the-far-side-first-comic-aged-well/) | Mar 20, 2026 |
+| [10 Deepest The Far Side Comics That Fans Are Still Thinking About Decades Later](https://screenrant.com/deepest-far-side-comics-ever-ranked/) | Mar 15, 2026 |
+| [10 Wordless The Far Side Comics That Are Basically Perfect](https://screenrant.com/best-far-side-wordless-comics-perfect/) | Mar 13, 2026 |
+| [10 Perfect Far Side Comics That Are Funnier Now More Than Ever](https://screenrant.com/best-far-side-comics-better-now-aged-perfectly/) | Mar 11, 2026 |
 | [20 Funniest The Far Side Comics That Have Aged Like Fine Wine](https://screenrant.com/funniest-far-side-comics-gary-larson/) | Feb 20, 2026 |
 | [The Far Side's Weirdest Comic, "Cow Tools," Just Became It's Most Prophetic...Seriously](https://screenrant.com/far-side-cow-tools-gary-larson-prophetic/) | Jan 31, 2026 |
 | [10 Hilarious Wordless Far Side Comics That Are Begging for Captions](https://screenrant.com/best-far-side-comics-without-words-captions-list/) | Jan 23, 2026 |
