@@ -351,8 +351,7 @@ title: Comics/Far Side
 |---|---|
 | [8 Funniest Far Side Comics That Reinvent the Wheel...Literally](https://screenrant.com/far-side-best-wheel-jokes/) | May 18, 2026 |
 | [The Classic Far Side Comics That Rewrite History](https://screenrant.com/far-side-revisionist-history-comics/) | May 14, 2026 |
-| [10 Funniest Far Side Comics At The Beach](https://screenrant.com/far-side-beach-jokes-best-comics/) |
-May 11, 2026 |
+| [10 Funniest Far Side Comics At The Beach](https://screenrant.com/far-side-beach-jokes-best-comics/) | May 11, 2026 |
 | [10 Hilarious Far Side Comics We Promise Will Leave Your Stomach Rumbling](https://screenrant.com/funniest-far-side-food-restaurants-comics/) | May 5, 2026 |
 | [These Iconic Far Side Strips Are Practically Perfect](https://screenrant.com/far-side-comics-perfect-iconic-legacy/) | Apr 28, 2026 |
 | [10 Real Complaints About the Far Side From Readers In the 1980s](https://screenrant.com/far-side-real-readercomplaints-1980s-gary-larson/) | Apr 19, 2026 |
