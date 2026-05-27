@@ -47,13 +47,13 @@ Select one (one PR per change):
 ---
 
 # Files Added
-- 
+1. 
 
 # Files Modified
-- 
+1. 
 
 # Files Deleted
-- 
+1. 
 
 ---
 
