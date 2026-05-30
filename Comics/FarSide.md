@@ -25,6 +25,8 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [The 20 Darkest The Far Side Comics](https://www.cbr.com/the-20-darkest-the-far-side-comics/) | May 30, 2026 |
+| [10 Best The Far Side Comics About Myths and Legends](https://www.cbr.com/10-best-far-side-comics-about-myths-and-legends/) | May 29, 2026 |
 | [15 Funniest Far Side Comics About American History](https://www.cbr.com/funniest-far-side-comics-about-american-history/) | May 18, 2026 |
 | [10 The Far Side Comics From 1984 That Prove Gary Larson is a Genius](https://www.cbr.com/far-side-comics-from-1984-that-prove-gary-larson-is-a-genius/) | May 15, 2026 |
 | [15 Funniest The Far Side Comics On an Island](https://www.cbr.com/funniest-far-side-comics-set-on-an-island/) | May 14, 2026 |
@@ -349,6 +351,8 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Far Side Comics That Are Absolute Masterpieces](https://screenrant.com/far-side-masterpieces-gary-larson-perfect-cartoons/) | May 22, 2026 |
+| [10 Far Side Comics With Laugh Out Loud Dialogue](https://screenrant.com/far-side-comics-funniest-dialogue/) | May 20, 2026 |
 | [8 Funniest Far Side Comics That Reinvent the Wheel...Literally](https://screenrant.com/far-side-best-wheel-jokes/) | May 18, 2026 |
 | [The Classic Far Side Comics That Rewrite History](https://screenrant.com/far-side-revisionist-history-comics/) | May 14, 2026 |
 | [10 Funniest Far Side Comics At The Beach](https://screenrant.com/far-side-beach-jokes-best-comics/) | May 11, 2026 |
