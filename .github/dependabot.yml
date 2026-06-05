@@ -23,10 +23,10 @@ updates:
     directory: /
     schedule:
       interval: daily
-      prefix: "[info](sec): /bundler/ "
+#   prefix: "[info](sec): /bundler/ "
 
   - package-ecosystem: npm
     directory: /
     schedule:
       interval: daily
-      prefix: "[info](sec): /npm/ "
+#      prefix: "[info](sec): /npm/ "
