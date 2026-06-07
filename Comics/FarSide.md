@@ -25,6 +25,7 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [15 Funniest Far Side Comics About Music](https://www.cbr.com/15-funniest-far-side-comics-about-music/) | May 31, 2026 |
 | [The 20 Darkest The Far Side Comics](https://www.cbr.com/the-20-darkest-the-far-side-comics/) | May 30, 2026 |
 | [10 Best The Far Side Comics About Myths and Legends](https://www.cbr.com/10-best-far-side-comics-about-myths-and-legends/) | May 29, 2026 |
 | [15 Funniest Far Side Comics About American History](https://www.cbr.com/funniest-far-side-comics-about-american-history/) | May 18, 2026 |
@@ -351,6 +352,10 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Far Side Comics With Laugh Out Loud Visuals](https://screenrant.com/far-side-comics-funniest-visuals-gary-larson/) | May 29, 2026 |
+| [12 Far Side Quotes That Are Outrageously Funny](https://screenrant.com/far-side-quotes-outrageous-humor-gary-larson/) | May 27, 2026 |
+| [8 Far Side Aliens You’ll Never Forget](https://screenrant.com/far-side-types-of-aliens/) | May 25, 2026 |
+| [8 Classic Far Side Comics About Eyeballs](https://screenrant.com/far-side-comics-eyeball-jokes/) | May 24, 2026 |
 | [10 Far Side Comics That Are Absolute Masterpieces](https://screenrant.com/far-side-masterpieces-gary-larson-perfect-cartoons/) | May 22, 2026 |
 | [10 Far Side Comics With Laugh Out Loud Dialogue](https://screenrant.com/far-side-comics-funniest-dialogue/) | May 20, 2026 |
 | [8 Funniest Far Side Comics That Reinvent the Wheel...Literally](https://screenrant.com/far-side-best-wheel-jokes/) | May 18, 2026 |
