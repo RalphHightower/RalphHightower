@@ -25,6 +25,22 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Far Side Comics That Will Make Your Dad Laugh](https://www.cbr.com/far-side-comics-that-make-dad-laugh/) | Jun 25, 2026 |
+| [10 Far Side Comics That Were Way Ahead Of Their Time](https://www.cbr.com/far-side-comics-that-were-ahead-of-their-time/) | Jun 24, 2026 |
+| [10 Hilarious Far Side Comics That'll Make You Lose Hope in Humanity](https://www.cbr.com/far-side-comics-that-will-make-you-lose-hope-in-humanity/) | Jun 23, 2026 |
+| [10 Best The Far Side Comics That Inspired Angry Letters, Ranked](https://www.cbr.com/far-side-comics-that-inspired-angry-letters/) | Jun 22, 2026 |
+| [10 The Far Side Comics That Haunted Fans](https://www.cbr.com/far-side-comics-that-haunted-fans/) | Jun 21, 2026 |
+| [The 10 Best Far Side Comics Featuring God](https://www.cbr.com/best-far-side-comics-featuring-god/) | Jun 20, 2026 |
+| [10 Funniest Far Side Comics About Vacations Gone Wrong](https://www.cbr.com/10-funniest-far-side-comics-about-vacation/) | Jun 19, 2026 |
+| [The 15 Funniest Far Side Comics About the Mafia](https://www.cbr.com/15-funniest-far-side-comics-about-the-mafia/) | Jun 18, 2026 |
+| [The 10 Most Absurd The Far Side Comics Of All Time](https://www.cbr.com/10-most-absurd-far-side-comics-of-all-time/) | Jun 17, 2026 |
+| [10 Best The Far Side Comics Set in Courtrooms](https://www.cbr.com/best-far-side-comics-set-in-courtrooms/) | Jun 16, 2026 |
+| [10 Best The Far Side Comics Featuring Skeletons](https://www.cbr.com/best-far-side-comics-about-skeletons/) | Jun 15, 2026 |
+| [10 The Far Side Comics That'll Keep You Laughing Long After You Read Them](https://www.cbr.com/10-far-side-comics-that-will-keep-you-laughing/) | Jun 14, 2026 |
+| [10 Hilarious The Far Side Comics That Don't Even Need A Caption](https://www.cbr.com/10-hilarious-far-side-comics-that-dont-need-a-caption/) | Jun 12, 2026 |
+| [The Best Far Side Comics Featuring Real People](https://www.cbr.com/the-best-far-side-comics-featuring-real-people/) | Jun 11, 2026 |
+| [10 Weirdest Far Side Comics About Humans And Animals](https://www.cbr.com/weird-far-side-comics-about-humans-and-animals/) | Jun 10, 2026 |
+| [10 Best The Far Side Comics About Fear, Ranked](https://www.cbr.com/best-far-side-comics-about-fear/) | Jun 9, 2026 |
 | [15 Funniest Far Side Comics About Music](https://www.cbr.com/15-funniest-far-side-comics-about-music/) | May 31, 2026 |
 | [The 20 Darkest The Far Side Comics](https://www.cbr.com/the-20-darkest-the-far-side-comics/) | May 30, 2026 |
 | [10 Best The Far Side Comics About Myths and Legends](https://www.cbr.com/10-best-far-side-comics-about-myths-and-legends/) | May 29, 2026 |
@@ -352,6 +368,9 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [12 Far Side Comics With Straight Up Fire 10/10 Punchlines](https://screenrant.com/12-far-side-comics/) | Jun 5, 2026 |
+| [10 Far Side Comics With Spit-Take Punchlines](https://screenrant.com/10-far-side-comics-with-spit-take-punchlines/) | Jun 3, 2026 |
+| [10 Far Side Quotes That Will Keep You Up At Night](https://screenrant.com/far-side-late-night-jokes-gary-larson-humor/) | Jun 1, 2026 |
 | [10 Far Side Comics With Laugh Out Loud Visuals](https://screenrant.com/far-side-comics-funniest-visuals-gary-larson/) | May 29, 2026 |
 | [12 Far Side Quotes That Are Outrageously Funny](https://screenrant.com/far-side-quotes-outrageous-humor-gary-larson/) | May 27, 2026 |
 | [8 Far Side Aliens You’ll Never Forget](https://screenrant.com/far-side-types-of-aliens/) | May 25, 2026 |
