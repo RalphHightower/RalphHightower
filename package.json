@@ -24,7 +24,7 @@
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/github": "github:semantic-release/github",
     "@semantic-release/release-notes-generator": "^14.1.1",
-    "markdownlint": "^0.41.0",
+    "markdownlint": "^0.41.1",
     "RalphHightower": "github:RalphHightower/RalphHightower",
     "semantic-release": "^25.0.7"
   },
