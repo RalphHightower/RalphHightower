@@ -25,6 +25,24 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Best Far Side Comics About Real People, Ranked](https://www.cbr.com/best-far-side-comics-about-real-people-ranked/) | Jul 15, 2026 |
+| [15 Times The Far Side Broke the Fourth Wall](https://www.cbr.com/far-side-comics-that-broke-the-fourth-wall/) | Jul 14, 2026 |
+| [The Best Far Side Comics About Stranded People](https://www.cbr.com/funniest-far-side-comics-about-stranded-people/) | Jul 13, 2026 |
+| [The Best Far Side Comics About Cats](https://www.cbr.com/best-far-side-comics-about-cats/) | Jul 12, 2026 |
+| [10 Best Far Side Comic Strips From The 1990s](https://www.cbr.com/best-far-side-comic-strips-from-the-1990s/) | Jul 11, 2026 |
+| [10 Hilarious Far Side Comics About Science and Scientists](https://www.cbr.com/hilarious-far-side-comics-about-science/) | Jul 9, 2026 |
+| [10 Funniest Far Side Comics About Basketball](https://www.cbr.com/funny-far-side-comics-about-basketball/) | Jul 8, 2026 |
+| [10 Best The Far Side Comics Set in a Dungeon](https://www.cbr.com/best-far-side-comics-set-in-dungeon/) | Jul 7, 2026 |
+| [10 Funniest Far Side Comics About Tennis, Ranked](https://www.cbr.com/funniest-far-side-comics-about-tennis/) | Jul 6, 2026 |
+| [10 Far Side Comics That Predicted the Future](https://www.cbr.com/far-side-comics-that-predicted-the-future/) | Jul 5, 2026 |
+| [10 Funniest The Far Side Comics Featuring Snakes, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-snakes/) | Jul 4, 2026 |
+| [10 Best Far Side Comics Set in Movie Theaters](https://www.cbr.com/best-far-side-comics-set-in-movie-theaters/) | Jul 3, 2026 |
+| [10 Hilarious Far Side Comics About the Ocean](https://www.cbr.com/hilarious-far-side-comics-about-the-ocean/) | Jul 2, 2026 |
+| [The 10 Best Cameos In The Far Side](https://www.cbr.com/best-cameos-in-the-far-side-comics/) | Jul 1, 2026 |
+| [10 Hilarious Far Side Comics About Stressful Parenting](https://www.cbr.com/hilarious-far-side-comics-about-parenting/) | Jun 30, 2026 |
+| [10 Best Far Side Comics About Cowboys and the West](https://www.cbr.com/10-best-far-side-comics-about-cowboys-and-the-west/) | Jun 29, 2026 |
+| [10 Best Far Side Comics Featuring Vultures](https://www.cbr.com/10-best-far-side-comics-featuring-vultures/) | Jun 28, 2026 |
+| [15 Best Far Side Comics Featuring Dogs](https://www.cbr.com/best-far-side-comics-about-dogs/) | Jun 26, 2026 |
 | [10 Far Side Comics That Will Make Your Dad Laugh](https://www.cbr.com/far-side-comics-that-make-dad-laugh/) | Jun 25, 2026 |
 | [10 Far Side Comics That Were Way Ahead Of Their Time](https://www.cbr.com/far-side-comics-that-were-ahead-of-their-time/) | Jun 24, 2026 |
 | [10 Hilarious Far Side Comics That'll Make You Lose Hope in Humanity](https://www.cbr.com/far-side-comics-that-will-make-you-lose-hope-in-humanity/) | Jun 23, 2026 |
@@ -368,6 +386,8 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Far Side Comics That Are Minimalist Masterpieces](https://screenrant.com/10-far-side-comics-that-are-minimalist-masterpieces/) | Jun 12, 2026 |
+| [10 Far Side Comics That Are Absurd Masterpieces](https://screenrant.com/far-side-peak-absurd-humor-gary-larson-masterpieces/) | Jun 10, 2026 |
 | [12 Far Side Comics With Straight Up Fire 10/10 Punchlines](https://screenrant.com/12-far-side-comics/) | Jun 5, 2026 |
 | [10 Far Side Comics With Spit-Take Punchlines](https://screenrant.com/10-far-side-comics-with-spit-take-punchlines/) | Jun 3, 2026 |
 | [10 Far Side Quotes That Will Keep You Up At Night](https://screenrant.com/far-side-late-night-jokes-gary-larson-humor/) | Jun 1, 2026 |
