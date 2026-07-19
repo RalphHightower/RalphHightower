@@ -15,5 +15,5 @@ To keep track of the remaining balance on the gas card, I use a Post-It™ tag t
 
 Using the \$50 gas cards provides a layer of security from credit card skimmers hidden in gas pumps because the potential loss is limited to less than \$50.
 
-[^11]: Lexington, and Richland Counties, South Carolina. \$10 off \$50 gas card for \$50 groceries purchase, excluding lottery tickets, phone cards, beer, wine.<br />[Using a debit card, multiple cards may be purchased, one for each $50 purchase with the same exclusions.]
+[^11]: Lexington, and Richland Counties, South Carolina. \$10 off \$50 gas card for \$100 groceries purchase, excluding lottery tickets, phone cards, beer, wine.<br />[Using a debit card, multiple cards may be purchased, one for each $50 purchase with the same exclusions.]
 [^12]: I am using this page to determine a frequency pattern to this great sale. – *Ralph Hightower*
