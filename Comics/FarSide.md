@@ -25,6 +25,30 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Funniest The Far Side Comics About Geeks and Nerds](https://www.cbr.com/funniest-the-far-side-comics-geeks-nerds/) | Aug 2, 2026 |
+| [The 10 Best Far Side Comics Set in the Past, Ranked](https://www.cbr.com/best-far-side-comics-set-in-the-past-ranked/) | Aug 2, 2026 |
+| [10 The Far Side Comics From 1985 That Perfectly Blend Confusion and Comedy](https://www.cbr.com/the-far-side-comics-from-1985-confusing-but-funny/) | Aug 1, 2026 |
+| [The 20 Most Confusing Far Side Comic Strips Ever](https://www.cbr.com/the-far-sides-comic-strips-that-barely-make-any-sense/) | Jul 31, 2026 |
+| [10 Best Far Side Comics From 1986 That Prove Gary Larson Was a Genius](https://www.cbr.com/the-far-side-comics-from-1986-gary-larson-genius/) | Jul 30, 2026 |
+| [10 Best Far Side Comics That Never Stop Being Funny](https://www.cbr.com/best-timeless-far-side-comics-always-funny/) | Jul 29, 2026 |
+| [The 10 Funniest The Far Side Comics About War, Ranked](https://www.cbr.com/funniest-far-side-comics-about-war/) | Jul 29, 2026 |
+| [10 Far Side Comics That Celebrate Absurd Humor](https://www.cbr.com/the-far-side-best-absurd-humor-comics/) | Jul 28, 2026 |
+| [15 Far Side Comics That Showcase Gary Larson's Darkest Humor](https://www.cbr.com/the-far-side-comics-with-darkest-humor-ranked/) | Jul 28, 2026 |
+| [10 Best Far Side Comics Where Characters Are Lost At Sea](https://www.cbr.com/best-far-side-lost-at-sea-comics/) | Jul 27, 2026 |
+| [20 Funniest Far Side Comics Featuring Aliens](https://www.cbr.com/20-hilarious-the-far-side-comics-featuring-aliens/) | Jul 26, 2026 |
+| [The Far Side's 10 Best Dinosaur Comics, Ranked](https://www.cbr.com/the-far-side-best-dinosaur-comics-ranked/) | Jul 25, 2026 |
+| [15 Funniest Far Side Comics Featuring Chickens, Ranked](https://www.cbr.com/funniest-far-side-comics-with-chickens-ranked/) | Jul 24, 2026 |
+| [10 Best Far Side Comics Featuring Wild Animals, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-wild-animals-ranked/) | Jul 23, 2026 |
+| [The 15 Deepest Far Side Comics Ever Created](https://www.cbr.com/the-far-sides-deepest-comics-ever/) | Jul 22, 2026 |
+| [10 Best Far Side Comics Featuring Amoebas, Ranked](https://www.cbr.com/best-far-side-comics-featuring-amoebas/) | Jul 22, 2026 |
+| [The Funniest Far Side Comics About Fashion, Ranked](https://www.cbr.com/best-far-side-comics-about-fashion-ranked/) | Jul 21, 2026 |
+| [10 The Far Side Comics That Are Still Hilarious Today](https://www.cbr.com/the-far-side-comics-still-hilarious-today/) | Jul 20, 2026 |
+| [10 Cutest Far Side Comic Strips of All Time, Ranked](https://www.cbr.com/cutest-far-side-comic-strips-ranked/) | Jul 20, 2026 |
+| [The Funniest Far Side Comics Featuring Flowers, Ranked](https://www.cbr.com/best-far-side-comics-flowers-ever-ranked/) | Jul 19, 2026 |
+| [The Best Far Side Comics About Holidays, Ranked](https://www.cbr.com/the-best-far-side-holiday-comics-ever-written/) | Jul 18, 2026 |
+| [10 Funniest Far Side Comics Featuring Birds, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-birds-ranked/) | Jul 18, 2026 |
+| [The Funniest Far Side Comics About Baseball](https://www.cbr.com/the-far-side-best-funniest-baseball-comics/) | Jul 17, 2026 |
+| [10 Best Far Side Comics if You're a Cat Lover](https://www.cbr.com/best-far-side-comics-for-cat-lovers/) | Jul 16, 2026 |
 | [10 Best Far Side Comics About Real People, Ranked](https://www.cbr.com/best-far-side-comics-about-real-people-ranked/) | Jul 15, 2026 |
 | [15 Times The Far Side Broke the Fourth Wall](https://www.cbr.com/far-side-comics-that-broke-the-fourth-wall/) | Jul 14, 2026 |
 | [The Best Far Side Comics About Stranded People](https://www.cbr.com/funniest-far-side-comics-about-stranded-people/) | Jul 13, 2026 |
@@ -386,6 +410,13 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [5 Brilliant Far Side Comics Starring Albert Einstein](https://screenrant.com/far-side-einstein-cameos-funniest-cartoons/) | Jul 18, 2026 |
+| [7 Smartest Far Side Comics](https://screenrant.com/far-side-smartest-comics/) | Jul 13, 2026 |
+| [5 Unforgettable Far Side Comics Starring Dogs](https://screenrant.com/far-side-dogs-unforgettable-comics/) | Jul 11, 2026 |
+| [8 Hilarious Far Side Comics About Traveling](https://screenrant.com/far-side-travel-humor/) | Jul 4, 2026 |
+| [8 Far Side Comics That Reinvent the Meaning of Ridiculous](https://screenrant.com/far-side-funniest-ridiculous-cartoons/) | Jul 1, 2026 |
+| [10 Forgotten Far Side Cow Comics](https://screenrant.com/far-side-cow-comics-deep-cuts/) | Jun 17, 2026 |
+| [Did The Far Side Create This Beloved Futurama Character 19 Years Ahead Of Time?](https://screenrant.com/far-side-professor-farnsworth-1980-comic/) | Jun 15, 2026 |
 | [10 Far Side Comics That Are Minimalist Masterpieces](https://screenrant.com/10-far-side-comics-that-are-minimalist-masterpieces/) | Jun 12, 2026 |
 | [10 Far Side Comics That Are Absurd Masterpieces](https://screenrant.com/far-side-peak-absurd-humor-gary-larson-masterpieces/) | Jun 10, 2026 |
 | [12 Far Side Comics With Straight Up Fire 10/10 Punchlines](https://screenrant.com/12-far-side-comics/) | Jun 5, 2026 |
