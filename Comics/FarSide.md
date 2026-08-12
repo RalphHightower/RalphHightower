@@ -25,6 +25,23 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Best Far Side Comics From the ’70s, Ranked](https://www.cbr.com/best-far-side-comic-strips-1970s-ranked/) | Aug 12, 2026 |
+| [10 Far Side Comics With the Best Artwork, Ranked](https://www.cbr.com/best-drawn-the-far-side-comic-strips-ranked/) | Aug 11, 2026 |
+| [10 Best Far Side Comics From 1981 That Prove Gary Larson Was a Genius](https://www.cbr.com/the-far-side-comics-1981-gary-larson-genius/) | Aug 11, 2026 |
+| [10 Early The Far Side Comics That Will Make You Question Reality](https://www.cbr.com/reality-questioning-early-far-side-comics/) | Aug 10, 2026 |
+| [The Far Side Comics Ranked by Decade: The Best of Gary Larson](https://www.cbr.com/the-far-side-ranked-by-decade/ ) | Aug 10, 2026 |
+| [The Best Recurring Themes in The Far Side Comics That Fans Love](https://www.cbr.com/the-far-side-best-recurring-themes-gary-larson/) | Aug 9, 2026 |
+| [10 Sweetest The Far Side Comics That Will Make You Smile](https://www.cbr.com/the-far-side-comics-that-are-surprisingly-sweet/) | Aug 9, 2026 |
+| [The 10 Best The Far Side Comics From 1991, Ranked](https://www.cbr.com/1991-the-far-side-comics-gary-larson-genius/) | Aug 8, 2026 |
+| [10 Greatest The Far Side Insect Comics You Need to Read](https://www.cbr.com/best-far-side-comics-featuring-insects-ranked/) | Aug 8, 2026 |
+| [10 Best The Far Side Comic Strips About Musicians, Ranked](https://www.cbr.com/best-far-side-comic-strips-about-musicians/) | Aug 7, 2026 |
+| [10 Best The Far Side Talking Animal Comics, Ranked](https://www.cbr.com/best-the-far-side-comics-with-talking-animals-ranked/) | Aug 7, 2026 |
+| [The 10 Greatest Far Side Comics in 1984](https://www.cbr.com/best-far-side-comics-from-1984-ranked/) | Aug 6, 2026 |
+| [Top 10 Self-Referential Far Side Comics by Gary Larson](https://www.cbr.com/best-self-referential-far-side-comics/) | Aug 6, 2026 |
+| [10 Best The Far Side Comic Strips From the 1980s, Ranked](https://www.cbr.com/best-the-far-side-comics-1980s-ranked/) | Aug 5, 2026 |
+| [10 Controversial Far Side Comics That Sparked Debate, Ranked](https://www.cbr.com/most-controversial-the-far-side-comics-of-all-time/) | Aug 4, 2026 |
+| [The 10 Best Multi-Panel Far Side Comics Ever, Ranked](https://www.cbr.com/best-multi-panel-far-side-comics-ranked/) | Aug 4, 2026 |
+| [14 Best Comic Strips to Read If You Love The Far Side](https://www.cbr.com/best-comic-strips-like-the-far-side-must-read/) | Aug 3, 2026 |
 | [10 Funniest The Far Side Comics About Geeks and Nerds](https://www.cbr.com/funniest-the-far-side-comics-geeks-nerds/) | Aug 2, 2026 |
 | [The 10 Best Far Side Comics Set in the Past, Ranked](https://www.cbr.com/best-far-side-comics-set-in-the-past-ranked/) | Aug 2, 2026 |
 | [10 The Far Side Comics From 1985 That Perfectly Blend Confusion and Comedy](https://www.cbr.com/the-far-side-comics-from-1985-confusing-but-funny/) | Aug 1, 2026 |
@@ -410,6 +427,14 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Greatest Far Side Cow Comics Of All Time](https://screenrant.com/greatest-far-side-cow-comics/) | Aug 7, 2026 |
+| [6 Far Side Comics Set On Desert Islands That Are 10/10 Perfect](https://screenrant.com/far-side-desert-island-flawless-cartoons/) | Aug 6, 2026 |
+| [6 Perfect Far Side Comics Starring Sharks](https://screenrant.com/far-side-shark-comics-perfect-jokes/) | Aug 5, 2026 |
+| [6 Unforgettable Far Side Comics Starring Cats](https://screenrant.com/far-side-comics-best-cat-jokes/) | Aug 4, 2026 |
+| [6 Far Side Comics Set On the Moon That Are 10/10 Perfect](https://screenrant.com/far-side-moon-jokes-perfect-cartoons/) | Aug 3, 2026 |
+| [5 Far Side Dinosaur Comics That Are 10/10 Perfect](https://screenrant.com/far-side-best-comics-dinosaurs/) | Aug 1, 2026 |
+| [5 Far Side Giraffe Comics That Are 10/10 Perfect](https://screenrant.com/far-side-best-comics-giraffe/) | Jul 25, 2026 |
+| [5 Far Side Insect Comics That Are 10/10 Perfect](https://screenrant.com/far-side-insect-bugs-comics-gary-larson-best/) | Jul 21, 2026 |
 | [5 Brilliant Far Side Comics Starring Albert Einstein](https://screenrant.com/far-side-einstein-cameos-funniest-cartoons/) | Jul 18, 2026 |
 | [7 Smartest Far Side Comics](https://screenrant.com/far-side-smartest-comics/) | Jul 13, 2026 |
 | [5 Unforgettable Far Side Comics Starring Dogs](https://screenrant.com/far-side-dogs-unforgettable-comics/) | Jul 11, 2026 |

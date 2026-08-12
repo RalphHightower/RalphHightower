@@ -159,6 +159,9 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [31 Years Later, Calvin and Hobbes’ Greatest Quote Still Has No Equal](https://screenrant.com/calvin-and-hobbes-greatest-quote/) | Aug 11, 2026 |
+| [5 Greatest Calvin and Hobbes Strips That Hit Different As An Adult](https://screenrant.com/greatest-calvin-hobbes-strips-hit-different/) | Aug 6, 2026 |
+| [6 Unforgettable Far Side Comics Starring Cats](https://screenrant.com/far-side-comics-best-cat-jokes/) | Aug 4, 2026 |
 | [10 Calvin & Hobbes Comics That Hit Different As An Adult](https://screenrant.com/calvin-hobbes-best-comics-for-adults/) | May 1, 2026 |
 | [8 Calvin & Hobbes Comics You'll Only Get As An Adult](https://screenrant.com/best-calvin-hobbes-comic-deep-adult-meaning/) | Dec 30, 2025 |
 | [Calvin and Hobbes Are to Thank for One of the Wildest 1990s Court Battles](https://screenrant.com/calvin-and-hobbes-comic-court-case-car-decal-history/) | Dec 27, 2025 |
