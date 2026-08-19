@@ -25,6 +25,19 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Classic Far Side Comics From 1980 That Prove Gary Larson Was a Genius](https://www.cbr.com/best-the-far-side-comics-1980-gary-larson-genius/) | Aug 18, 2026 |
+| [10 Far Side Comics From 1992 That Show Why Gary Larson Was a Genius](https://www.cbr.com/the-far-side-comics-1992-gary-larson-genius/) | Aug 18, 2026 |
+| [10 Final Far Side Comics Gary Larson Ever Drew](https://www.cbr.com/the-far-side-last-comic-strips/) | Aug 17, 2026 |
+| [10 Funniest The Far Side Comics About the Beach](https://www.cbr.com/funniest-far-side-beach-comics/) | Aug 17, 2026 |
+| [The 15 Funniest The Far Side Comics About Religion, Ranked](https://www.cbr.com/funniest-the-far-side-comics-about-religion-ranked/) | Aug 16, 2026 |
+| [Who Is Gary Larson, Creator of The Far Side?](https://www.cbr.com/who-is-gary-larson-the-far-side-creator/) | Aug 16, 2026 |
+| [10 Best The Far Side Comics About the Devil, Ranked](https://www.cbr.com/best-far-side-comics-with-the-devil/) | Aug 15, 2026 |
+| [20 Hilarious The Far Side Comics About Historical Events, Ranked](https://www.cbr.com/best-historical-far-side-comics-ranked/) | Aug 15, 2026 |
+| [10 Bizarre The Far Side Comics That Only Make Sense to Gary Larson](https://www.cbr.com/bizarre-far-side-comic-strips-that-only-make-sense-to-gary-larson/) | Aug 14, 2026 |
+| [10 Funniest The Far Side Comics About the Afterlife](https://www.cbr.com/funniest-the-far-side-comics-set-in-the-afterlife/) | Aug 14, 2026 |
+| [10 Hilarious Car Trips From The Far Side, Ranked](https://www.cbr.com/funniest-car-trips-in-the-far-side-ranked/) | Aug 13, 2026 |
+| [The 10 Best The Far Side Collections, Ranked](https://www.cbr.com/best-the-far-side-collections-ranked/) | Aug 13, 2026 |
+| [10 Surprising Facts About Gary Larson’s The Far Side](https://www.cbr.com/obscure-facts-about-the-far-side-comic-strip/) | Aug 12, 2026 |
 | [10 Best Far Side Comics From the ’70s, Ranked](https://www.cbr.com/best-far-side-comic-strips-1970s-ranked/) | Aug 12, 2026 |
 | [10 Far Side Comics With the Best Artwork, Ranked](https://www.cbr.com/best-drawn-the-far-side-comic-strips-ranked/) | Aug 11, 2026 |
 | [10 Best Far Side Comics From 1981 That Prove Gary Larson Was a Genius](https://www.cbr.com/the-far-side-comics-1981-gary-larson-genius/) | Aug 11, 2026 |
@@ -427,6 +440,12 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [Gary Larson’s 10 Best Comics, Ranked](https://screenrant.com/gary-larson-best-far-side-comics-ranked/) | Aug 14, 2026 |
+| [7 Flawless Far Side Comics Set On Airplanes](https://screenrant.com/7-flawless-far-side-comics-set-on-airplanes/) | Aug 13, 2026 |
+| [40 Years Later, This Far Side Comic Is Still the Greatest Comic Strip of All Time](https://screenrant.com/far-side-best-comic-strip-all-time/) | Aug 12, 2026 |
+| [6 Unforgettable Far Side Comics Starring Fish](https://screenrant.com/far-side-best-fish-comics/) | Aug 11, 2026 |
+| [6 Far Side Comics Set In the Courtroom That Are 10/10 Perfect](https://screenrant.com/far-side-courtroom-humor-perfect-punchlines/) | Aug 10, 2026 |
+| [5 Far Side Comics Set in Movie Theaters That Are 10/10 Perfect](https://screenrant.com/5-far-side-comics-set-in-movie-theaters-that-are-1010-perfect/) | Aug 8, 2026 |
 | [10 Greatest Far Side Cow Comics Of All Time](https://screenrant.com/greatest-far-side-cow-comics/) | Aug 7, 2026 |
 | [6 Far Side Comics Set On Desert Islands That Are 10/10 Perfect](https://screenrant.com/far-side-desert-island-flawless-cartoons/) | Aug 6, 2026 |
 | [6 Perfect Far Side Comics Starring Sharks](https://screenrant.com/far-side-shark-comics-perfect-jokes/) | Aug 5, 2026 |
