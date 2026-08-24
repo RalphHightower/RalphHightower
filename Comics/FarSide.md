@@ -25,6 +25,16 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Best The Far Side Comics Revealing '80s Culture](https://www.cbr.com/funniest-the-far-side-comics-80s-culture/) | Aug 23, 2026 |
+| [10 Brilliant The Far Side Comics about Hunting, Ranked](https://www.cbr.com/genius-the-far-side-comics-about-hunting-ranked/) | Aug 23, 2026 |
+| [10 Strangest Things About Early The Far Side Comics, Ranked](https://www.cbr.com/weirdest-things-about-early-the-far-side-comics/) | Aug 22, 2026 |
+| [10 Unluckiest Musicians in The Far Side Ranked From Bad to Worse](https://www.cbr.com/unluckiest-musicians-in-the-far-side-ranked/) | Aug 22, 2026 |
+| [10 Best The Far Side Comics About Dining Out, Ranked](https://www.cbr.com/best-far-side-comics-about-dining-out-ranked/) | Aug 21, 2026 |
+| [10 Best The Far Side Comics Where A Character Says "Uh Oh!" Ranked](https://www.cbr.com/the-far-side-uh-oh-comics-ranked/) | Aug 21, 2026 |
+| [The Far Side’s Confusing Humor Became a Gag on Cheers](https://www.cbr.com/the-far-side-cheers-connection-explained/) | Aug 20, 2026 |
+| [The Funniest Far Side Detective Comics and Murder Mysteries, Ranked](https://www.cbr.com/the-funniest-far-side-comics-with-detectives-and-murder-mysteries/) | Aug 20, 2026 |
+| [Why Did Gary Larson’s The Far Side Disappear After Just 2 TV Specials?](https://www.cbr.com/why-did-gary-larsons-the-far-side-stop-airing-after-2-tv-specials/) | Aug 19, 2026 |
+| [10 Best The Far Side Frankenstein’s Monster Comics, Ranked](https://www.cbr.com/best-the-far-side-comics-frankensteins-monster-ranked/) | Aug 19, 2026 |
 | [10 Classic Far Side Comics From 1980 That Prove Gary Larson Was a Genius](https://www.cbr.com/best-the-far-side-comics-1980-gary-larson-genius/) | Aug 18, 2026 |
 | [10 Far Side Comics From 1992 That Show Why Gary Larson Was a Genius](https://www.cbr.com/the-far-side-comics-1992-gary-larson-genius/) | Aug 18, 2026 |
 | [10 Final Far Side Comics Gary Larson Ever Drew](https://www.cbr.com/the-far-side-last-comic-strips/) | Aug 17, 2026 |
@@ -440,6 +450,12 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [6 Classic Far Side Comics Set In the Kitchen](https://screenrant.com/far-side-comics-best-kitchen-cooking-jokes/) | Aug 20, 2026 |
+| [6 Far Side Comics Set In the City That Are 10/10 Perfect](https://screenrant.com/far-side-city-jokes-best-comics/) | Aug 19, 2026 |
+| [6 Unforgettable Far Side Comics Set In the Jungle](https://screenrant.com/far-side-jungle-classic-jokes/) | Aug 18, 2026 |
+| [6 Brilliant Far Side Comics Starring Real People](https://screenrant.com/far-side-real-people-gary-larson-best-comics/) | Aug 17, 2026 |
+| [10 Greatest Far Side Comics With No Words](https://screenrant.com/greatest-far-side-comics-no-words/) | Aug 15, 2026 |
+| [The Far Side's Creator Turns 76 Today & Still Hasn't Explained Why He Walked Away At 44](https://screenrant.com/far-side-creator-gary-larson-birthday-why-leave-comic/) | Aug 14, 2026 |
 | [Gary Larson’s 10 Best Comics, Ranked](https://screenrant.com/gary-larson-best-far-side-comics-ranked/) | Aug 14, 2026 |
 | [7 Flawless Far Side Comics Set On Airplanes](https://screenrant.com/7-flawless-far-side-comics-set-on-airplanes/) | Aug 13, 2026 |
 | [40 Years Later, This Far Side Comic Is Still the Greatest Comic Strip of All Time](https://screenrant.com/far-side-best-comic-strip-all-time/) | Aug 12, 2026 |
