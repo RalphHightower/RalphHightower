@@ -159,6 +159,9 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [Calvin And Hobbes Has Never Had Official Toys Or Board Games For One Good Reason](https://screenrant.com/calvin-hobbes-no-official-games-toys-explained/) | Aug 24, 2026 |
+| [After 37 Years, One Calvin & Hobbes Comic Is Still The Strip's Most Emotional Storyline](https://screenrant.com/calvin-hobbes-robbery-storyline-most-emotional/) | Aug 21, 2026 |
+| [5 Best Calvin And Hobbes Strips That Don't Star Calvin](https://screenrant.com/calvin-hobbes-best-comic-strips-different-characters/) | Aug 21, 2026 |
 | [The Last Calvin and Hobbes Strip Is Still the Greatest Goodbye in Comics 31 Years Later](https://screenrant.com/last-calvin-hobbes-strip-greatest-goodbye-comics-history/) | Aug 18, 2026 |
 | [31 Years Later, Calvin and Hobbes’ Greatest Quote Still Has No Equal](https://screenrant.com/calvin-and-hobbes-greatest-quote/) | Aug 16, 2026 |
 | [5 Surprisingly Deep Calvin And Hobbes Quotes](https://screenrant.com/deep-calvin-hobbes-quotes/) | Aug 13, 2026 |
