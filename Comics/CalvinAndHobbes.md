@@ -159,6 +159,8 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [5 Calvin & Hobbes Comics With The Best Art](https://screenrant.com/calvin-hobbes-comics-best-art/) | Aug 25, 2026 |
+| [41 Years Later, The Very First Calvin and Hobbes Strip Is Still Essentially Flawless](https://screenrant.com/first-calvin-hobbes-comic-tiger-trap-flawless/) | Aug 24, 2026 |
 | [Calvin And Hobbes Has Never Had Official Toys Or Board Games For One Good Reason](https://screenrant.com/calvin-hobbes-no-official-games-toys-explained/) | Aug 24, 2026 |
 | [After 37 Years, One Calvin & Hobbes Comic Is Still The Strip's Most Emotional Storyline](https://screenrant.com/calvin-hobbes-robbery-storyline-most-emotional/) | Aug 21, 2026 |
 | [5 Best Calvin And Hobbes Strips That Don't Star Calvin](https://screenrant.com/calvin-hobbes-best-comic-strips-different-characters/) | Aug 21, 2026 |
