@@ -25,6 +25,15 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Best Far Side Comics From 1993 That Prove Gary Larson is a Genius](https://www.cbr.com/the-far-side-comics-from-1993-gary-larson-genuis/) | Aug 28, 2026 |
+| [15 Far Side Jokes We Only Understood As Adults, Ranked](https://www.cbr.com/best-far-side-adult-jokes-ranked/) | Aug 27, 2026 |
+| [The 40 Greatest Far Side Comic Strips of All Time, Ranked](https://www.cbr.com/best-far-side-comic-strips-of-all-time-ranked/) | Aug 27, 2026 |
+| [10 Most Memorable Aerial Accidents In The Far Side Comics, Ranked](https://www.cbr.com/funniest-aerial-accidents-in-the-far-side-comics-ranked/) | Aug 26, 2026 |
+| [10 Best Comics That Prove Nothing Is Off Limits for The Far Side](https://www.cbr.com/hilarious-comics-that-prove-nothing-is-off-limits-in-the-far-side/) | Aug 26, 2026 |
+| [10 Best Far Side Comics That Prove Gary Larson Was Ahead of His Time](https://www.cbr.com/far-side-comics-ahead-of-their-time-gary-larson/) | Aug 25, 2026 |
+| [10 Best Far Side Comics That Prove Gary Larson Was Ahead of His Time](https://www.cbr.com/far-side-comics-ahead-of-their-time-gary-larson/) | Aug 25, 2026 |
+| [10 Best Far Side Comics About Comedians That Prove Gary Larson Is a Genius, Ranked](https://www.cbr.com/best-far-side-comics-comedians-ranked/) | Aug 25, 2026 |
+| [15 Greatest Far Side Comics Featuring Farm Animals, Ranked](https://www.cbr.com/best-the-far-side-farm-animal-comics-ranked/) | Aug 24, 2026 |
 | [10 Best The Far Side Comics Revealing '80s Culture](https://www.cbr.com/funniest-the-far-side-comics-80s-culture/) | Aug 23, 2026 |
 | [10 Brilliant The Far Side Comics about Hunting, Ranked](https://www.cbr.com/genius-the-far-side-comics-about-hunting-ranked/) | Aug 23, 2026 |
 | [10 Strangest Things About Early The Far Side Comics, Ranked](https://www.cbr.com/weirdest-things-about-early-the-far-side-comics/) | Aug 22, 2026 |
@@ -450,6 +459,10 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [36 Years Ago, One Far Side Comic Predicted The Future Of Video Games](https://screenrant.com/far-side-nintendo-comic-gaming-future-predictions/) | Aug 24, 2026 |
+| [36 Years Later, The Far Side’s Last Comic Remains Undefeated in Comic Strip History](https://screenrant.com/far-side-last-best-all-time-comic-strip/) | Aug 23, 2026 |
+| [Gary Larson's 25 Funniest Far Side Comics About Dogs](https://screenrant.com/funniest-far-side-dog-comics/) | Aug 22, 2026 |
+| 6 Unforgettable Far Side Comics Set In Caves https://screenrant.com/far-side-comics-best-cave-jokes/) |  Aug 21, 2026 |
 | [6 Classic Far Side Comics Set In the Kitchen](https://screenrant.com/far-side-comics-best-kitchen-cooking-jokes/) | Aug 20, 2026 |
 | [6 Far Side Comics Set In the City That Are 10/10 Perfect](https://screenrant.com/far-side-city-jokes-best-comics/) | Aug 19, 2026 |
 | [6 Unforgettable Far Side Comics Set In the Jungle](https://screenrant.com/far-side-jungle-classic-jokes/) | Aug 18, 2026 |
