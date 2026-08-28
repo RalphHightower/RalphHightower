@@ -74,7 +74,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [CERN Database and Analytics Group](https://github.com/cerndb) | |
 | [CHIPS Alliance](https://github.com/chipsalliance) | Common Hardware for Interfaces, Processors and Systems |
 | [Cisco Data Center](https://github.com/datacenter) | Cisco Data Center – Cisco Open Source Projects for the Data Center |
-| [Cisco DevNet](https://github.com/CiscoDevNet )| Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
+| [Cisco DevNet](https://github.com/CiscoDevNet ) | Cisco DevNet – Place for DevNet community to access sample code and collaborate on open source projects that are used in some way in DevNet |
 | [Cisco Systems](https://github.com/cisco) | Open Source Projects from Cisco Systems |
 | [Cisco Test Automation Platform with pyATS & Genie](https://github.com/CiscoTestAutomation) | Cisco Test Automation Platform with pyATS & Genie Scripts, libraries and plugins developed using Cisco pyATS |
 | [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) | Sustaining and integrating open source technologies to orchestrate containers as part of a microservices architecture |
@@ -88,7 +88,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Connectivity Standards Alliance](https://github.com/project-chip) | Implementation Source Code for the Matter Project |
 | [containerd](https://github.com/containerd) | An open and reliable container runtime |
 | [Content Authenticity Initiative](https://github.com/contentauth) |Content Authenticity Initiative |
-| [coolLabs](https://github.com/coollabsio) | Control your digital footprint | Open-source & self-hostable applications and services built for your online safety. |
+| [coolLabs](https://github.com/coollabsio) | Control your digital footprint<br />Open-source & self-hostable applications and services built for your online safety. |
 | [Cosmic Research](https://github.com/CosmicResearch) | Non-profit organisation that aims to reignite the passion for space exploration. |
 | [Curated Core Datasets](https://github.com/datasets) | Important, commonly-used datasets in high quality, easy-to-use & open form |
 | [Cybersecurity and Infrastructure Security Agency](https://github.com/cisagov) | Commit today, secure tomorrow. |
@@ -110,7 +110,8 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Faraday](https://github.com/infobyte) | Open Source Vulnerability Management Platform. |
 | [FreeBSD Project](https://github.com/freebsd) | The FreeBSD Project |
 | [FreeCores](https://github.com/freecores) | A home for open source hardware cores |
-| [Freescale](https://github.com/orgs/Freescale/repositories )| Freescale NXP hardware |
+| [FreePBX](https://github.com/FreePBX) | FreePBX is an open-source web-based graphical user interface (GUI) that manages Asterisk |
+| [Freescale](https://github.com/orgs/Freescale/repositories ) | Freescale NXP hardware |
 | [Fusion Lab: Generative Vision Lab of Fudan University](https://github.com/fudan-generative-visionGenerative) | vision lab of Fudan University (Fusion Lab) is led by Professor Siyu Zhu. Its research interests mainly focus on generative model for video and 3D. |
 | [Future Corp](https://github.com/future-architect) | Future's official open source repositories |
 | [Garmin International](https://github.com/garmin) | Garmin International |
@@ -121,6 +122,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [GitHub](https://github.com/github) | How people build software. |
 | [GitHub Actions](https://github.com/actions) | Automate your GitHub workflows |
 | [GitHub Advanced Security](https://github.com/advanced-security) | Home of Advanced Security solutions that we can share with the world |
+| [GitHub Community Projects](https://github.com/github-community-projects) | Open Source projects GitHub maintains with the community |
 | [GitHub Desktop](https://github.com/desktop) | Simple collaboration from your desktop |
 | [GitHub Next](https://github.com/githubnext) | Exploring the future of software development |
 | [GitHub Security Lab](https://github.com/GitHubSecurityLab) | GitHub Security Lab |
@@ -335,7 +337,7 @@ title: Computing/GitHub — Company / Government GitHub Repositories and GitHub 
 | [Sixfab](https://github.com/sixfab) | Cellular/Wireless Communications |
 | [Sky Map Devs](https://github.com/sky-map-team) | Android App Skymap GitHub |
 | [SLSA Framework](https://github.com/slsa-framework) | Supply-chain Levels for Software Artifacts |
-| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ | [SolidRun](https://www.solid-run.com/) |
+| [SolidRun](https://github.com/SolidRun) | IoT[^91] & Industrial SOMs/COMs, Networking SOMs/COMs, ARM Servers & Networking Platforms, Fanless Computers @ [SolidRun](https://www.solid-run.com/) |
 | [Space Telescope Science Institute](https://github.com/spacetelescope) | STScI is operated by AURA for NASA |
 | [SparkFun Electronics](https://github.com/sparkfun) | Building open source widgets to make prototyping hardware easier since 2002. |
 | [SPDX](https://github.com/spdx) | SPDX is an open standard for communicating SBOM information, including provenance, license, security, and other related information. ISO/IEC 5962:2021 |
