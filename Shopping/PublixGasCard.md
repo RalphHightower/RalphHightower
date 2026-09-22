@@ -15,8 +15,9 @@ title: Shopping/Publix Gas Card Coupon Sales Dates
 
 | Date Begins | Date Ends | Days Between |
 |---|---|---|
-| 2026-07-15[^100] | 2026-07-19 | |
+| 2026-09-23[^50] | 2026-09-27 | 35 |
 | 2026-08-19[^75] | 2026-08-23 | 35 |
+| 2026-07-15[^100] | 2026-07-19 | |
 
 To keep track of the remaining balance on the gas card, I use a Post-It™ tag to write the remaining balance on the tag.
 
