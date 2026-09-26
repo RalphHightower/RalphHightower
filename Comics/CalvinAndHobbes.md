@@ -27,6 +27,7 @@ title: Comics/Calvin And Hobbes
 | [25 Most Popular Comic Strips Of All Time](https://www.cbr.com/best-popular-comic-strips-ever/) | Jun 1, 2025 |
 | [10 Hilarious Calvin and Hobbes Comics About Technology That Are Still Relatable Today](https://www.cbr.com/best-calvin-and-hobbes-comics-about-technology/) | May 26, 2025 |
 | [10 Hilarious Calvin and Hobbes Comics About Doing Homework](https://www.cbr.com/best-calvin-and-hobbes-comics-about-doing-homework/) | May 12, 2025 |
+| [The 25 Very Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/) | May 8, 2026 |
 | [The 10 Best Calvin and Hobbes Comics About Robots](https://www.cbr.com/best-calvin-and-hobbes-comics-with-robots/) | May 4, 2025 |
 | [The Best Calvin and Hobbes Comics About Watching TV](https://www.cbr.com/best-calvin-and-hobbes-comics-watching-tv/) | Apr 28, 2025 |
 | [15 Best Calvin and Hobbes Comics About School, Ranked](https://www.cbr.com/calvin-and-hobbes-best-school-comics/) | Feb 4, 2025 |
@@ -159,6 +160,14 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [31 Years Later, Calvin and Hobbes' Final Line Proves Why It's The Definitive Best Comic Strip](https://screenrant.com/calvin-and-hobbes-final-line-best-comic-strip/) | Sep 22, 2026 |
+| [Only One Comic Strip Rejected Adaptations From George Lucas, Jim Henson, And Steven Spielberg](https://screenrant.com/calvin-and-hobbes-movie-adaptation-lucas-henson-spielberg/) | Sep 21, 2026 |
+| [39 Years Later, Calvin and Hobbes’ Most Heartbreaking Storyline Still Holds Up](https://screenrant.com/calvin-hobbes-most-heartbreaking-story-raccoon/) | Sep 20, 2026 |
+| [33 Years Later, Calvin And Hobbes' Greatest Comic Hasn't Aged A Day](https://screenrant.com/best-calvin-hobbes-comic-strip-dead-bird/) | Sep 15, 2026 |
+| [37 Years Later, The Last Calvin and Hobbes Comic Strip Of The ’80s Is Still A Masterpiece](https://screenrant.com/last-calvin-and-hobbes-strip-80s-greatest/) | Sep 8, 2026 |
+| [The First Calvin And Hobbes Comic Strip Of The ’90s Is Still Perfect 36 Years Later](https://screenrant.com/first-calvin-and-hobbes-strip-90s/) | Sep 6, 2026 |
+| [6 Darkest Calvin and Hobbes Comics That Prove Bill Waterson's Genius](https://screenrant.com/darkest-calvin-and-hobbes-comics-bill-watersons-genius/) | Sep 2, 2026 |
+| [4 Calvin And Hobbes Strips That Hit Way Harder When You're An Adult](https://screenrant.com/calvin-hobbes-strips-hit-harder-adult/) | Aug 29, 2026 |
 | [5 Calvin & Hobbes Comics With The Best Art](https://screenrant.com/calvin-hobbes-comics-best-art/) | Aug 25, 2026 |
 | [41 Years Later, The Very First Calvin and Hobbes Strip Is Still Essentially Flawless](https://screenrant.com/first-calvin-hobbes-comic-tiger-trap-flawless/) | Aug 24, 2026 |
 | [Calvin And Hobbes Has Never Had Official Toys Or Board Games For One Good Reason](https://screenrant.com/calvin-hobbes-no-official-games-toys-explained/) | Aug 24, 2026 |
