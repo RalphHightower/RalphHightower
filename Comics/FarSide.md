@@ -489,6 +489,13 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [7 Hilarious Far Side Comics That Make Fun Of Comedians](https://screenrant.com/far-side-comics-comedian-jokes/) | Sep 30, 2026 |
+| [10 Best Far Side Comics About Snakes](https://screenrant.com/10-best-far-side-comics-about-snakes/) | Sep 27, 2026 |
+| [New Adaptation of Iconic Horror Franchise Releases Today](https://screenrant.com/far-side-best-cow-comics-gary-larson/) | Sep 25, 2026 |
+| [36 Years Later, The Far Side’s Last Comic Remains Undefeated in Comic Strip History](https://screenrant.com/far-side-last-best-all-time-comic-strip/) | Sep 23, 2026 |
+| [7 Perfect Far Side Comics Starring Pet Birds](https://screenrant.com/far-side-pet-birds-cages-funniest-comics/) | Sep 23, 2026 |
+| [10 Best Far Side Comics About Ducks](https://screenrant.com/best-far-side-comics-ducks/) | Sep 20, 2026 |
+| [15 Best Far Side Recurring Locations](https://screenrant.com/far-side-best-recurring-locations/) | Sep 16, 2026 |
 | [The Far Side’s Final Comic Of The ’80s Remains Undefeated In Comic Strip History](https://screenrant.com/last-the-far-side-strip-80s-greatest/) | Sep 15, 2026 |
 | [10 Best Far Side Chicken Comics Of All Time](https://screenrant.com/far-side-best-chicken-comics-ranked/) | Sep 14, 2026 |
 | [10 Best Far Side Comics About Cavemen](https://screenrant.com/best-far-side-comics-cavemen/) | 
