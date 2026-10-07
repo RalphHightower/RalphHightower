@@ -17,6 +17,7 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [The 25 Very Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/) | May 8, 2026 |
 | [The 15 Best Calvin and Hobbes Christmas Comics](https://www.cbr.com/best-calvin-and-hobbes-christmas-comics/) | Dec 17, 2025 |
 | [30 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | Aug 3, 2025 |
 | [10 Must-Read Comic Strip Collections Every Fan Needs to Own](https://www.cbr.com/must-read-comic-strip-collections/) | Jul 22, 2025 |
@@ -160,6 +161,8 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [6 Saddest Calvin & Hobbes Comics That Hit Harder As An Adult](https://screenrant.com/calvin-hobbes-saddest-comics-adult/) | Oct 3, 2026 |
+| [8 Calvin And Hobbes Facts Only Die Hard Fans Know](https://screenrant.com/calvin-hobbes-facts-fans-dont-know/) | Sep 28, 2026 |
 | [31 Years Later, Calvin and Hobbes' Final Line Proves Why It's The Definitive Best Comic Strip](https://screenrant.com/calvin-and-hobbes-final-line-best-comic-strip/) | Sep 22, 2026 |
 | [Only One Comic Strip Rejected Adaptations From George Lucas, Jim Henson, And Steven Spielberg](https://screenrant.com/calvin-and-hobbes-movie-adaptation-lucas-henson-spielberg/) | Sep 21, 2026 |
 | [39 Years Later, Calvin and Hobbes’ Most Heartbreaking Storyline Still Holds Up](https://screenrant.com/calvin-hobbes-most-heartbreaking-story-raccoon/) | Sep 20, 2026 |
