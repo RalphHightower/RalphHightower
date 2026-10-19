@@ -25,6 +25,21 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Hilarious Far Side Comics With Disney References](https://www.cbr.com/hilarious-far-side-comics-with-disney-references/) | Oct 19, 2026 |
+| [10 Funniest Far Side Comics That Have Witches and Magicians, Ranked](https://www.cbr.com/funniest-far-side-comics-that-have-witches-and-magicians-ranked/) | Oct 18, 2026 |
+| [10 Funniest Far Side Cartoon Parodies, Ranked](https://www.cbr.com/funniest-far-side-cartoon-parodies-ranked/) | Oct 18, 2026 |
+| [10 Far Side Comics Featuring The Worst Cases Of Writer's Block](https://www.cbr.com/far-side-comics-featuring-the-worst-cases-of-writers-block/) | Oct 17, 2026 |
+| [10 Hilarious Far Side Comics About Vampires](https://www.cbr.com/hilarious-far-side-comics-about-vampires/) | Oct 17, 2026 |
+| [The First 10 Far Side Comics Gary Larson Ever Drew](https://www.cbr.com/the-first-far-side-comics-gary-larson-ever-drew/) | Oct 16, 2026 |
+| [10 Hilarious Far Side Comics About Our Pets](https://www.cbr.com/hilarious-far-side-comics-about-pets/) | Oct 16, 2026 |
+| [The 10 Funniest Far Side Comics Featuring Doctors](https://www.cbr.com/funniest-far-side-comics-featuring-doctors/) | Oct 15, 2026 |
+| [10 Far Side Comics That Are Perfect For Sci-Fi Fans](https://www.cbr.com/far-side-comics-that-are-perfect-for-sci-fi-fans/) | Oct 15, 2026 |
+| [10 Hilarious Far Side Comics About The First Wheel](https://www.cbr.com/hilarious-far-side-comics-about-the-first-wheel/) | Oct 14, 2026 |
+| [10 Far Side Comics That Are Perfect For Fantasy Fans](https://www.cbr.com/far-side-comics-perfect-for-fantasy-fans/) | Oct 14, 2026 |
+| [10 Far Side Comics That Are Perfect For Mystery Fans](https://www.cbr.com/far-side-comics-that-are-perfect-for-mystery-fans/) | Oct 13, 2026 |
+| [10 Hilarious Far Side Comics Involving Epic Dating Fails](https://www.cbr.com/hilarious-far-side-comics-dating-fails/) | Oct 13, 2026 |
+| [10 Funniest Early Inventions in Far Side Comics, Ranked](https://www.cbr.com/funniest-early-inventions-in-far-side-comics-ranked/) | Oct 12, 2026 |
+| [10 Funniest Role Reversals in Far Side Comics, Ranked](https://www.cbr.com/funniest-role-reversals-in-far-side-comics-ranked/) | Oct 11, 2026 |
 | [10 Best Far Side Comics About Ants, Ranked](https://www.cbr.com/best-the-far-side-comics-about-ants-ranked/) | Sep 13, 2026 |
 | [10 Things You’re Getting Wrong About The Far Side](https://www.cbr.com/things-everyone-gets-wrong-about-the-far-side/) | Sep 12, 2026 |
 | [10 Weirdest The Far Side Comics of All Time, Ranked](https://www.cbr.com/weirdest-the-far-side-comics-ranked/) | Sep 12, 2026 |
@@ -489,6 +504,15 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Perfect Horror-Themed Far Side Comics To Read This Halloween](https://screenrant.com/far-side-best-horror-comic-strips-halloween/) | Oct 12, 2026 |
+| [10 Greatest Far Side Comics Of All Time, Ranked by Screen Rant Readers](https://screenrant.com/far-side-best-comic-all-time-vote-poll/) | Oct 12, 2026 |
+| [8 Oversized Far Side Sunday Comics That Just Turned 40](https://screenrant.com/far-side-oversized-sunday-comics-1986/) | Oct 11, 2026 |
+| [8 Far Side Comics That Prove It Has A Secret Catchphrase](https://screenrant.com/far-side-catchphrase-egad-gary-larson/) | Oct 9, 2026 |
+| [8 Unforgettable Far Side Comics That Are About To Turn 40](https://screenrant.com/far-side-1987-upcoming-anniversaries/) | Oct 7, 2026 |
+| [8 Perfect Far Side Comics About Spiders](https://screenrant.com/far-side-comics-spiders-best-jokes/) | Oct 6, 2026 |
+| [7 Best Bad Far Side Puns Of The Late 1980s](https://screenrant.com/far-side-best-bad-puns-1987-1988/) | Oct 5, 2026 |
+| [44 Years Later, The Far Side's Best Quote Is Darker And Funnier Than Ever](https://screenrant.com/far-side-best-quote-dark-funny/) | Oct 3, 2026 |
+| [8 Far Side Comics From The 1990s That Were Perfect For The End Of Gary Larson's Era](https://screenrant.com/greatest-far-side-strips-1990s/) | Oct 2, 2026 |
 | [7 Hilarious Far Side Comics That Make Fun Of Comedians](https://screenrant.com/far-side-comics-comedian-jokes/) | Sep 30, 2026 |
 | [10 Best Far Side Comics About Snakes](https://screenrant.com/10-best-far-side-comics-about-snakes/) | Sep 27, 2026 |
 | [New Adaptation of Iconic Horror Franchise Releases Today](https://screenrant.com/far-side-best-cow-comics-gary-larson/) | Sep 25, 2026 |
