@@ -45,7 +45,6 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-toc
   - jemoji
-  - jekyll-paginate-v2
 
 # Theme-specific settings
 
@@ -104,30 +103,6 @@ last-modified-at:
 optional_front_matter:
   remove_originals: true
   enabled: true
-
-# Pagination Settings: jekyll-paginate-v2
-# Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
-
-# Explicitly turn off the old code
-# paginate: nil
-# paginate_path: nil
-
-# Pagination Settings
-pagination:
-  enabled: false
-  per_page: 15
-  offset: 0
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  indexpage: 'blogpager'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2
-  debug: true
 
 readme_index:
   enabled: true
