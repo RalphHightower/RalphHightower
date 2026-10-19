@@ -17,6 +17,8 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
+| [25 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/funniest-calvin-hobbes-comic-strips/) | Oct 9, 2026 |
+| [25 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/funniest-calvin-hobbes-comic-strips/) | Oct 9, 2026 |
 | [The 25 Very Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/) | May 8, 2026 |
 | [The 15 Best Calvin and Hobbes Christmas Comics](https://www.cbr.com/best-calvin-and-hobbes-christmas-comics/) | Dec 17, 2025 |
 | [30 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/greatest-calvin-and-hobbes-newspaper-strips/) | Aug 3, 2025 |
