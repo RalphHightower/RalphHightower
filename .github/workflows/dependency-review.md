@@ -1,0 +1,14 @@
+name: 'dependency-review.yml — Dependency Review'
+on: [pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  dependency-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v4.2.2
+      - name: 'Dependency Review'
+        uses: actions/dependency-review-action@v4.4.0
