@@ -15,19 +15,19 @@ jobs:
     runs-on: "ubuntu-latest"
     strategy:
       matrix:
-        jekyll: ["~>4.4.1"]
+        jekyll: ["~> 4.3.4", "~>4.4.1"]
     env:
       JEKYLL_VERSION: ${{ matrix.jekyll }}
     steps:
       - name: Harden Runner
-        uses: step-security/harden-runner@351661ca32ac09a36dc5ee2d536e3128f2a3c8ed # v2.22.0
+        uses: step-security/harden-runner@dc2769abcc0fcfbadfc1df54081c1608579ef6b2 # v2.22.2
         with:
           egress-policy: audit
 
       - name: Checkout Repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Set Up Ruby 4.0.9
-        uses: ruby/setup-ruby@14594264cd68ce8a2345dd349bc3d138a4ef85c8 # v1.327.0
+        uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1.335.0
         with:
           ruby-version: 4.0.9
           bundler-cache: true
