@@ -17,7 +17,10 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / CBR](https://www.cbr.com/tag/calvin-and-hobbes/ ) | CBR Published Date |
 |---|---|
-| [25 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/funniest-calvin-hobbes-comic-strips/) | Oct 9, 2026 |
+| [The 25 Very Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes-of-all-time/) | Nov 9, 2026 |
+| [30 Best Calvin and Hobbes Comic Strips Of All Time](https://www.cbr.com/best-calvin-and-hobbes-comic-strips-of-all-time/) | Nov 8, 2026 |
+| [Calvin And Hobbes Said Goodbye With An Iconic Line That Became An Instant Classic](https://www.cbr.com/calvin-and-hobbes-goodbye-line-instant-classic/) | Nov 3, 2026 |
+| [Classic Calvin And Hobbes Quote Is The Perfect Emotional Response To Death And Loss](https://www.cbr.com/calvin-and-hobbes-best-quote-grief-death-loss/) | Oct 28, 2026 |
 | [25 Funniest Calvin & Hobbes Comic Strips](https://www.cbr.com/funniest-calvin-hobbes-comic-strips/) | Oct 9, 2026 |
 | [The 25 Very Best Calvin & Hobbes Quotes](https://www.cbr.com/best-calvin-hobbes-quotes/) | May 8, 2026 |
 | [The 15 Best Calvin and Hobbes Christmas Comics](https://www.cbr.com/best-calvin-and-hobbes-christmas-comics/) | Dec 17, 2025 |
@@ -163,6 +166,13 @@ title: Comics/Calvin And Hobbes
 
 | [Calvin and Hobbes / ScreenRant](https://screenrant.com/tag/calvin-and-hobbes/ ) | ScreenRant Published |
 |---|---|
+| [37 Years Later, One Calvin And Hobbes Comic About Love Still Has No Equal](https://screenrant.com/calvin-and-hobbes-best-quote-love-friendship/) | Nov 8, 2026 |
+| [40 Years Later, Calvin And Hobbes Best Life Lesson Is Still Impossible To Top](https://screenrant.com/calvin-hobbes-life-on-the-edge-comic/) | Nov 5, 2026 |
+| [37 Years Later, Calvin And Hobbes' Best Quote On Growing Up Is Still Without Equal](https://screenrant.com/calvin-and-hobbes-best-quote-adulthood/) | Nov 3, 2026 |
+| [All 7 Calvin and Hobbes Halloween Comics, Including A Bill Watterson Masterpiece](https://screenrant.com/calvin-hobbes-best-halloween-comics-bill-watterson-art/) | Oct 31, 2026 |
+| [32 Years Later, Calvin and Hobbes' Best Strip About Homework Is Still Perfect](https://screenrant.com/calvin-and-hobbes-best-comic-homework/) | Oct 30, 2026 |
+| [39 Years Later, Calvin And Hobbes' Best Quote On Grief Is Still Undefeated](https://screenrant.com/calvin-and-hobbes-best-quote-grief/) | Oct 25, 2026 |
+| [Peanuts and Calvin & Hobbes Get Perfect Halloween Tribute](https://screenrant.com/marvel-tribute-peanuts-calvin-hobbes-garfield-spider-man/) | Oct 21, 2026 |
 | [6 Saddest Calvin & Hobbes Comics That Hit Harder As An Adult](https://screenrant.com/calvin-hobbes-saddest-comics-adult/) | Oct 3, 2026 |
 | [8 Calvin And Hobbes Facts Only Die Hard Fans Know](https://screenrant.com/calvin-hobbes-facts-fans-dont-know/) | Sep 28, 2026 |
 | [31 Years Later, Calvin and Hobbes' Final Line Proves Why It's The Definitive Best Comic Strip](https://screenrant.com/calvin-and-hobbes-final-line-best-comic-strip/) | Sep 22, 2026 |

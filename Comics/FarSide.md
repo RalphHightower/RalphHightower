@@ -25,6 +25,31 @@ title: Comics/Far Side
 
 | [The Far Side / CBR](https://www.cbr.com/tag/the-far-side/) | Date |
 |---|---|
+| [10 Far Side Comics That Are Perfect For Horror Fans](https://www.cbr.com/far-side-comics-perfect-for-horror-fans/) | Nov 10, 2026 |
+| [10 Far Side Comics That Are Perfect For Western Fans](https://www.cbr.com/far-side-comics-perfect-for-western-fans/) | Nov 9, 2026 |
+| [10 Funniest Far Side Comics Featuring Worms, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-worms-ranked/) | Nov 8, 2026 |
+| [10 Funniest Far Side Comics Featuring Fleas, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-fleas-ranked/) | Nov 7, 2026 |
+| [10 Funniest Far Side Comics That'll Make You Rethink Nature](https://www.cbr.com/funniest-far-side-comics-rethink-nature/) | Nov 6, 2026 |
+| [10 Funniest Far Side Comics Featuring Rhinos, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-rhinos-ranked/) | Nov 5, 2026 |
+| [10 Funniest Far Side Comics featuring Astronauts, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-astronauts-ranked/) | Nov 4, 2026 |
+| [10 Funniest Far Side Comics Featuring Flies, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-flies-ranked/) | Nov 3, 2026 |
+| [10 Funniest Far Side Comics Featuring Monsters, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-monsters-ranked/) | Nov 2, 2026 |
+| [10 Funniest Far Side Comics featuring Sharks, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-sharks-ranked/) | Nov 1, 2026 |
+| [10 Funniest Far Side Comics featuring Spiders, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-spiders-ranked/) | Oct 31, 2026 |
+| [10 Funniest Far Side Comics featuring Penguins, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-penguins-ranked/) | Oct 30, 2026 |
+| [10 Far Side Comics Kids Would Never Understand](https://www.cbr.com/far-side-comics-kids-would-never-understand/) | Oct 29, 2026 |
+| [The 10 Best Far Side Comics About Birthdays and Parties](https://www.cbr.com/best-far-side-comics-about-birthdays-and-parties/) | Oct 28, 2026 |
+| [The Funniest Far Side Comics Featuring Elephants, Ranked](https://www.cbr.com/best-far-side-comics-featuring-elephants-ranked/) | Oct 27, 2026 |
+| [10 Hilarious Far Side Comics from 1980 About People Who Are Totally Doomed](https://www.cbr.com/funniest-far-side-comics-1980-about-people-who-are-totally-doomed/) | Oct 26, 2026 |
+| [The Best Far Side Comics About Fruits and Vegetables](https://www.cbr.com/best-far-side-comics-about-fruits-and-vegetables/) | Oct 25, 2026 |
+| [The Funniest Far Side Comics About Cats and Dogs](https://www.cbr.com/best-far-side-comics-about-cats-and-dogs/) | Oct 24, 2026 |
+| [The 10 Funniest Far Side Comics About the End of the World](https://www.cbr.com/funniest-far-side-comics-about-the-end-of-the-world/) | Oct 23, 2026 |
+| [10 Hilarious Far Side Comics Starring Demons](https://www.cbr.com/hilarious-far-side-comics-starring-demons/) | Oct 22, 2026 |
+| [The Best Far Side Comics Inspired By Books, Ranked](https://www.cbr.com/best-far-side-comics-inspired-by-books-ranked/) | Oct 22, 2026 |
+| [10 Far Side Comics That Will Make Your Mom Laugh](https://www.cbr.com/best-far-side-comics-that-will-make-your-mom-laugh/) | Oct 21, 2026 |
+| [10 Funniest Far Side Comics That Prove Gary Larson Loves Meta Humor](https://www.cbr.com/funniest-far-side-comics-that-prove-gary-larson-loves-meta-humor/) | Oct 20, 2026 |
+| [10 Mundane Far Side Comics That Totally Stick The Landing](https://www.cbr.com/mundane-far-side-comics-that-totally-stick-the-landing/) | Oct 20, 2026 |
+| [10 Funniest Far Side Comics Featuring Postal Workers, Ranked](https://www.cbr.com/funniest-far-side-comics-featuring-postal-workers-ranked/) | Oct 19, 2026 |
 | [10 Hilarious Far Side Comics With Disney References](https://www.cbr.com/hilarious-far-side-comics-with-disney-references/) | Oct 19, 2026 |
 | [10 Funniest Far Side Comics That Have Witches and Magicians, Ranked](https://www.cbr.com/funniest-far-side-comics-that-have-witches-and-magicians-ranked/) | Oct 18, 2026 |
 | [10 Funniest Far Side Cartoon Parodies, Ranked](https://www.cbr.com/funniest-far-side-cartoon-parodies-ranked/) | Oct 18, 2026 |
@@ -504,6 +529,18 @@ title: Comics/Far Side
 
 | [Gary Larson: The Far Side / ScreenRant](https://screenrant.com/tag/the-far-side/ ) | Published Date |
 |---|---|
+| [10 Hilarious Far Side Comics About Camping](https://screenrant.com/far-side-comics-about-camping/) | Nov 5, 2026 |
+| [8 '80s Far Side Comics Only Hardcore Fans Will Recognize](https://screenrant.com/far-side-1980s-gary-larson-deep-cuts/) | Nov 3, 2026 |
+| [8 Far Side Comics That Prove Deer Were Its Secret Best Characters](https://screenrant.com/far-side-deer-gary-larson-favorites/) | Nov 2, 2026 |
+| [8 Outrageous Far Side Puns You'll Either Love Or Hate](https://screenrant.com/far-side-puns-love-hate-gary-larson/) | Oct 28, 2026 |
+| [10 Best Far Side Comics Perfect For Book Lovers](https://screenrant.com/far-side-best-comics-books-literary-authors/) | Oct 26, 2026 |
+| [10 Best Far Side Comics That Referenced Real Events](https://screenrant.com/best-far-side-comics-real-world-events/) | Oct 24, 2026 |
+| [6 Wordless Far Side Comics That Will Make You Do A Double Take](https://screenrant.com/far-side-cartoons-double-take-gary-larson-subtle-humor/) | Oct 21, 2026 |
+| [7 Far Side Comics With Perfect Pop Culture References](https://screenrant.com/far-side-perfect-pop-culture-references-gary-larson/) | Oct 20, 2026 |
+| [8 Forgotten Far Side Comics That Deserve To Be Called Masterpieces](https://screenrant.com/far-side-forgotten-80s-90s-masterpieces-gary-larson/) | Oct 19, 2026 |
+| [10 Darkest Far Side Comics That Prove Gary Larson Had No Limits](https://screenrant.com/far-side-darkest-comic-strips-gary-larson/) | Oct 18, 2026 |
+| [10 Greatest Far Side Comics Featuring Animals, Ranked](https://screenrant.com/greatest-far-side-animals/) | Oct 18, 2026 |
+| [7 Flawless Far Side Comics About Alien Invasions](https://screenrant.com/far-side-funniest-alien-invasion-cartoons-gary-larson/) | Oct 14, 2026 |
 | [10 Perfect Horror-Themed Far Side Comics To Read This Halloween](https://screenrant.com/far-side-best-horror-comic-strips-halloween/) | Oct 12, 2026 |
 | [10 Greatest Far Side Comics Of All Time, Ranked by Screen Rant Readers](https://screenrant.com/far-side-best-comic-all-time-vote-poll/) | Oct 12, 2026 |
 | [8 Oversized Far Side Sunday Comics That Just Turned 40](https://screenrant.com/far-side-oversized-sunday-comics-1986/) | Oct 11, 2026 |
