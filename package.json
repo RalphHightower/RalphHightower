@@ -1,7 +1,7 @@
 {
   "name": "RalphHightower",
   "description": "Ralph Hightower's GitHub / Web Site. This is my extensive personal website that has my interests. Pages of interests are grouped by directories. This repository contains no code, no application. This website is built with Jekyll 4.3.4.",
-  "version": "3.0.0-production",
+  "version": "v3.0.4-production",
   "type": "website",
   "author": "Hightower, Ralph <ralph.hightower@gmail.com",
   "ava": {
@@ -16,61 +16,31 @@
   "contributors": [
     "ralph.hightower@gmail.com"
   ],
+  "devDependencies": {
+    "semantic-release": "^25.0.9",
+    "semantic-release/changelog": "^7.0.0",
+    "markdownlint-cli2": "^v0.24.0"
+  },
   "dependencies": {
     "npm": "^12.2.2"
   },
-  "devDependencies": {
-    "@semantic-release/changelog": "^7.0.0",
-    "@semantic-release/commit-analyzer": "^13.0.1",
-    "@semantic-release/github": "github:semantic-release/github",
-    "@semantic-release/release-notes-generator": "^14.1.1",
-    "markdownlint": "^0.42.1",
-    "RalphHightower": "github:RalphHightower/RalphHightower",
-    "semantic-release": "^25.0.9"
-  },
-  "engines": {
-    "node": ">=20.8.1"
-  },
-  "files": [
-    "cli.js"
-  ],
-  "homepage": "https://ralphhightower.github.io/RalphHightower",
-  "keywords": [
-    "author",
-    "automation",
-    "changelog",
-    "module",
-    "package",
-    "publish",
-    "release",
-    "semver",
-    "version"
-  ],
-  "license": "Apache-2.0",
-  "lockfile-lint": {
-    "path": "package-lock.json",
-    "type": "npm",
-    "validate-https": true,
-    "allowed-hosts": [
-      "npm"
+  {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+      "@semantic-release/changelog",
+        {
+          "changelogFile": "docs/CHANGELOG.md"
+        }
+      ],
+      [
+        "@semantic-release/git",
+        {
+          "assets": ["docs/CHANGELOG.md"]
+        }
+      ]
     ]
   },
-  "prettier": {
-    "printWidth": 120,
-    "trailingComma": "es5"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RalphHightower/RalphHightower.git"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
-  "packageManager": "npm@11.8.0"
+  "packageManager": "npm@12.2.2"
 }
