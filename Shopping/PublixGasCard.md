@@ -13,6 +13,7 @@ title: Shopping/Publix Gas Card Coupon Sales Dates
 
 | Date Begins | Date Ends | Min Purchase | Days Between |
 |---|---|---|
+| 2026-11-11[^75] | 2026-11-15 | \$75 | 28 |
 | 2026-10-14[^75] | 2026-10-18 | \$75 | 21 |
 | 2026-09-23[^50] | 2026-09-27 | \$50 | 35 |
 | 2026-08-19[^75] | 2026-08-23 | \$75 | 35 |
