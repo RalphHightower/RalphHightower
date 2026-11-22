@@ -87,6 +87,7 @@ I also have different categories of bucket lists.
    - Total Solar Eclipse: April 8, 2024
    - [B&H Photo Video, 420 9th Avenue, New York, NY 10001](https://www.bhphotovideo.com/find/jsp/HelpCenter/StoreInfo.jsp#nycSuperstore )
    - [ManhattanHenge — New York City, New York](https://www.amnh.org/research/hayden-planetarium/manhattanhenge)
+   - [Bruce Springsteen Center for American Music](https://springsteencenter.org/)<br />382 Cedar Ave, Long Branch, NJ 07740
    - [CERN — Conseil européen pour la Recherche nucléaire / European Organization for Nuclear Researce, France/Switzerland](https://home.cern/ )
    - [Very Large Array – National Radio Astronomy Observatory](https://public.nrao.edu/visit/very-large-array/ ) Two hour drive from Albuquerque, 50 miles west of Socorro, New Mexico
    - [Indianapolis 500](https://www.indianapolismotorspeedway.com/events/indy500 )
@@ -116,6 +117,20 @@ I also have different categories of bucket lists.
    - ✓ Atlantis at [Kennedy Space Center Visitors Complex](https://www.kennedyspacecenter.com/explore-attractions/shuttle-a-ship-like-no-other). Photos: [November 2016](https://www.flickr.com/gp/ralphhightower/91v712Z0Bu)
    - ✓ Discovery at [Smithsonian Air Space Museum Udvar-Hazy Center](https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000). Photos: [August 2012](https://www.flickr.com/gp/ralphhightower/PM1WzGo506)
    - Endeavour at [California Science Center](https://californiasciencecenter.org/exhibits/endeavour-experience)[^95][^96][^97]
+6. Bands
+    - Pink Floyd
+    - Dire Straits
+    - Bruce Springsteen
+    - Grateful Dead
+    - Traffic
+    - Boston
+    - Candy Dulfer
+    - Billy Joel / Elton John 
+    - ✓vTrans‑Siberian Orchestra 
+    - ✓ Blue Man Group
+    - J. Geils Band
+    - Bob Seger
+    - AC/DC
 
 [^81]: From April 12, 1981, when I saw Space Shuttle Columbia make her maiden voyage, I said to myself, "I gotta see a launch in person!"
 [^82]: This was totally unexpected, getting an invitation to see Space Shuttle Atlantis land in person next to to control tower for the Shuttle Landing Facility, just 200 yards from the runway. Atlantis landed in the pre-dawn hour.
@@ -441,8 +456,7 @@ I enjoy television 📺 series that have been rebooted or spun off from my favor
 
 | International Space Station Sightings, Sun, Moon, Night Sky, Weather | Location |
 |------|--------|
-| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Columbia#) | Columbia, South Carolina, USA |
-| [International Space Station Sightings](https://spotthestation.nasa.gov/sightings/view.cfm?country=United_States&region=South_Carolina&city=Lexington) | Lexington, South Carolina, USA |
+| [Spot The Station - NASA](https://www.nasa.gov/spot-the-station/#Sightings) | |
 | [Sun & Moon Today](https://www.timeanddate.com/astronomy/usa/columbia) | Columbia, South Carolina, USA |
 | [Sunrise & Sunset](https://www.timeanddate.com/sun/usa/columbia) | Columbia, South Carolina, USA |
 | [Moonrise & Moonset](https://www.timeanddate.com/moon/usa/columbia) | Columbia, South Carolina, USA |
@@ -520,13 +534,16 @@ An opportunity. A chance to create and share something extraordinary with the wo
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9779/badge)](https://www.bestpractices.dev/projects/9779)
 
-|   |
+| |
 |---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
-| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&timezone=America/New_York&date_format=M%20j%5B%2C%20Y%5D&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a)](https://git.io/streak-stats) |
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RalphHightower&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=default)](https://github-stats-extended.vercel.app/api?username=RalphHightower&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=default&title_color=73000a&text_color=73000a&icon_color=73000a&border_color=ffffff) |
+| ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=default&color=73000a&title_color=73000a&line=73000a&point=73000a&bg_color=ffffff) |
+| ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 
 |    |    |
 |---|---|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+| ![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
+| ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
+<!-- ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=transparent) -->
+<!-- ![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=transparent&timeZone=America%2FNewYork) -->
